@@ -1,0 +1,28 @@
+any_language:
+  - javascript
+  - python
+  - java
+  - kotlin
+  - swift
+  - typescript
+  - bash
+
+any_frontend_framework:
+  - react
+  - angular
+  - noframework
+
+any_mobile_development_toolset:
+  - ionic
+
+none:
+  - none
+
+any_fullstack_web_framework:
+  - django
+
+any_plain_text:
+  - markdown
+
+misc:
+  - redux

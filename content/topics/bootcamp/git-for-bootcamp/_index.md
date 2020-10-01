@@ -1,0 +1,23 @@
+---
+_db_id: 393
+content_type: topic
+ready: true
+title: Useful Git commands
+---
+
+You're going to need to execute a few git commands in order to succeed at bootcamp. Here's a bit of a cheat-sheet. Make sure you can use all this stuff!
+
+| git command                                    | Function                                                                                                                                                                                                                                                                                              |
+| ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `git clone` _repo url_                         | clones the repo to your local machine                                                                                                                                                                                                                                                                 |
+| `git checkout -b`_name-of-your-new-branch_     | creates a new branch from the branch you had checks that branch out (this means you are now working on that branch)                                                                                                                                                                                   |
+| `git status`                                   | Returns the current working branch. If a file is in the staging area, but not committed, it shows with git status. Or, if there are no changes it’ll return nothing to commit, working directory clean.                                                                                               |
+| `git push`                                     | pushes the changes you have made, saved and committed locally to the remote repo                                                                                                                                                                                                                      |
+| `git push --set-upstream origin` _branch name_ | sets the upstream and enables you to push to the correct branch using the `git push` command                                                                                                                                                                                                          |
+| `git add` _file name_                          | adds the specified file to the stageing area so that it is ready to be committed                                                                                                                                                                                                                      |
+| `git add .`                                    | adds all files with saved changes to staged so they are ready to commit NB! always check `git status` before using `git add .`                                                                                                                                                                        |
+| `git commit -m "*your commit message*"`        | Record the changes made to the files to a local repository. For easy reference, each commit has a unique ID.It’s best practice to include a message with each commit explaining the changes made in a commit. Adding a commit message helps to find a particular change or understanding the changes. |
+| `git status`                                   | Shows what files were changed since your last commit                                                                                                                                                                                                                                                  |
+| `git diff`                                     | Shows how files changed since your last commit. This is like a very informative version of `git status`                                                                                                                                                                                               |
+
+[Common Git Commands with Explications and examples of usage](http://guides.beanstalkapp.com/version-control/common-git-commands.html#local)

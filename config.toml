@@ -1,0 +1,39 @@
+baseURL =  "/"
+languageCode = "en-US"
+defaultContentLanguage = "en"
+
+title = "ACN Syllabus"
+theme = "hugo-theme-learn"
+themesdir = "themes"
+metaDataFormat = "yaml"
+defaultContentLanguageInSubdir= true
+
+[params]
+  editURL = "https://github.com/Umuzi-org/ACN-syllabus"
+  description = "African Coding Network Syllabus"
+  author = "Umuzi Tech"
+  showVisitedLinks = false
+  disableBreadcrumb = false
+  disableNextPrev = true
+  themeVariant="green"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[Languages]
+[Languages.en]
+title = "African Coding Network Syllabus"
+weight = 1
+languageName = "English"
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> Github repo"
+identifier = "ds"
+url = "https://github.com/Umuzi-org/ACN-syllabus"
+weight = 10
+
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
+url = "/credits"
+weight = 30

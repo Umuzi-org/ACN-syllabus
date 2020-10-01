@@ -1,0 +1,12 @@
+gitignore/
+node_modules/
+public/
+.vscode/
+.idea/
+
+umuzi-tech-dept
+/.vs/slnx.
+/.vs/*
+/.vs/slnx.sqlite
+/.vs
+downloaded_videos/

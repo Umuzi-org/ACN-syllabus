@@ -1,0 +1,7 @@
+{{ $dir := $.Page.Dir  }}
+{{ $filename := .Get 0 }}
+{{ $path := (print $dir $filename)}}
+
+<pre><code>
+{{ readFile $path }}
+</code></pre>
