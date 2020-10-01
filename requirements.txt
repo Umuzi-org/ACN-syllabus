@@ -1,0 +1,3 @@
+python-frontmatter==0.4.5
+youtube-dl==2020.3.8
+fire==0.3.0
