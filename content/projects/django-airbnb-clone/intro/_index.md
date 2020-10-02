@@ -1,15 +1,16 @@
 ---
 _db_id: 539
 available_flavours:
-- django
+  - django
 content_type: project
 prerequisites:
   hard:
-  - topics/git-feature-branching
-  - topics/django/official-tutorial/part-1
+    - topics/git-feature-branching
+    - topics/django/official-tutorial/part-1
   soft: []
 submission_type: repo
 title: CloudBnb - intro
+ready: True
 ---
 
 In this project we'll be building out a simple version of Airbnb. By the end there will be a lot of cool functionality. But we'll do it piece by piece.
@@ -25,11 +26,6 @@ By the end of this multi-part project we'll need the following.
 - see stats about the properties they own
 
 And we need to give superusers/staff access to a a few different things. But we'll get into that a bit later :)
-
-Airbnb clone
-
-6. expose all data with DRF
-7. pull property data and draw graphs for property owner using plotlyjs
 
 ## KISS
 

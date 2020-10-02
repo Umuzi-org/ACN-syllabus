@@ -1,15 +1,16 @@
 ---
 _db_id: 542
 available_flavours:
-- django
+  - django
 content_type: project
 from_repo: projects/django-airbnb-clone/intro
 prerequisites:
   hard:
-  - projects/django-airbnb-clone/intro
+    - projects/django-airbnb-clone/intro
   soft: []
 submission_type: continue_repo
 title: CloudBnb - Expose apis to be consumed by modern mobile app
+ready: True
 ---
 
 Django is great and all but the frontend it renders using views and templates is a little bit limited.
@@ -20,7 +21,7 @@ For example maybe the decision is made to use Ionic to build a cross-platform hy
 
 By exposing nice clean APIs, we "decouple" our django app from the frontend. That gives us a lot of freedom in the tools we use.
 
-Can you think of other situations where exposng APIs would add flexibility to our application?
+Can you think of other situations where exposing APIs would add flexibility to our application?
 
 ## User journey
 
@@ -29,11 +30,11 @@ We have 2 main kinds of users. Supply users and Demand users. On the supply side
 We're going to focus on the demand side now. The reasons for this are:
 
 - there are likely more "demand" users than "supply" users
-- our "demand" users are often people who are travelling, so they are morelikely to use their phones for making bookings.
+- our "demand" users are often people who are traveling, so they are more likely to use their phones for making bookings.
 
 ## Requirements
 
-Expose a bunch of apis in order to allow travellers to do everythin they need to do. This includes:
+Expose a bunch of apis in order to allow travelers to do everything they need to do. This includes:
 
 - registering on the system
 - logging in and out

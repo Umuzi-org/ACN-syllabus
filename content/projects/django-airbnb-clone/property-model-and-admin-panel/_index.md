@@ -1,17 +1,18 @@
 ---
 _db_id: 548
 available_flavours:
-- django
+  - django
 content_type: project
 from_repo: projects/django-airbnb-clone/intro
 prerequisites:
   hard:
-  - projects/django-airbnb-clone/intro
-  - topics/django/official-tutorial/part-2
-  - topics/django/understanding-migrations
+    - projects/django-airbnb-clone/intro
+    - topics/django/official-tutorial/part-2
+    - topics/django/understanding-migrations
   soft: []
 submission_type: continue_repo
 title: CloudBnb - Basic Property model and admin panel
+ready: True
 ---
 
 ## Instructions
@@ -24,10 +25,10 @@ Make use of Postgres. Postgres should be running in a docker container.
 
 In this part of the project you need to implement a few models. Your first model should be called `Property`. This model would represent something that can be rented out temporarily.
 
-Every Property has the following data associalted with it:
+Every Property has the following data associated with it:
 
 - a description
-- pictures (more than one). One picture should be selected as the primary/fvorate image
+- pictures (more than one). One picture should be selected as the primary/favorate image
 - city
 - suburb
 - street address

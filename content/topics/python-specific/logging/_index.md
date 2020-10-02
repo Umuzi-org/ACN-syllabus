@@ -2,6 +2,7 @@
 _db_id: 155
 content_type: topic
 title: Logging in Python
+ready: True
 ---
 
 Please make sure you read and understand this before moving forward: {{% contentlink path="/topics/logging" %}}

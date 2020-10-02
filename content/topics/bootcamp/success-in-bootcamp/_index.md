@@ -1,7 +1,7 @@
 ---
 _db_id: 392
 content_type: topic
-ready: false
+ready: true
 title: Success in bootcamp
 ---
 
@@ -13,13 +13,13 @@ And, it's going to be hard work!
 
 ## We don't expect you to finish everything, but try to stretch yourself!
 
-We've given you a lot of stuff to get through. For most of you it will be WAY too much. Just do your best and focus on understanding. If you don't finish all the excercises it's alright. Just take them one at a time and do your best.
+We've given you a lot of stuff to get through. For most of you it will be WAY too much. Just do your best and focus on understanding. If you don't finish all the exercises it's alright. Just take them one at a time and do your best.
 
 There are three projects we really really need you to finish no matter what. That is:
 
 - the gnomio assessment
-- the first coding excercise
-- the writing excercise
+- the first coding exercise
+- the writing exercise
 
 After those, just do as much as you can. The more you can show us the better. But please always remember to focus on understanding. The skills you are learning here will be the foundation of everything you do as a recruit.
 

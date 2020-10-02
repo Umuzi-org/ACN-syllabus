@@ -1,12 +1,21 @@
 # ACN syllabus
 
-This is a Hugo based web site.
+We are on a mission to support as many code schools as we can. Learn more here:
 
-This repo aims to contain all the info needed to run the African Coding Network's official courses. This is very much a work in progress, and if you feel that you can improve this syllabus in any way, please feel free to make a pull request.
+Learn more about the African Coding Network here:
+https://www.africancoding.network/
+
+This syllabus is a Hugo based static site (for now). But on top of that, it is the configuration of our Tilde learning platform.
+
+I'm sure you've heard of infrastructure-as-code, pipeline-as-code and other x-as-code things? We'll this is a syllabus-as-code. Our learning platform eats is up and turns it into cards that move across a kanban board.
+
+In order to achieve this, we need to be strict on the shape of the syllabus files. We have specific naming and metadata conventions that contributors need to follow. We'll talk more about that later. But let's start by getting you set up :)
 
 ## To clone this repo
 
 There is a submodule in here so clone recursively:
+
+Eg:
 
 ```
 git clone --recursive git@github.com:Umuzi-org/ACN-syllabus.git
@@ -17,7 +26,7 @@ git clone --recursive git@github.com:Umuzi-org/ACN-syllabus.git
 This is a Hugo based application.
 
 **PLEASE NOTE** We are using hugo version 0.51. We have run into some annoying problems when upgrading hugo in the past so please just use this version.
-If you are tempted to give us a PR that upgrades this to the latest version of hugo, it will be a waste of time. The plan is to upgrade this all to use Eleventy in the near future.
+If you are tempted to give us a PR that upgrades this to the latest version of hugo, PLEASE DONT. The plan is to upgrade this all to use Eleventy in the near future.
 
 ### To get yourself set up on a Debian based machine (linux ubuntu/mint)
 
