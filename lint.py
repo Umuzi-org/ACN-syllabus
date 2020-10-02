@@ -39,32 +39,6 @@ def check_all_frontmatter_and_directory_names(path):
             check_one_file_frontmatter(child)
 
 
-# def fix_file(file_path):
-#     """ take a file at a specific path and change it as follows
-
-#     path/to/some/awesome_topic.md
-#     =>
-#     path/to/some/awesome_topic/_index.md
-
-#     probably no longer needed
-#     """
-#     name = file_path.name
-#     if not name.endswith(".md"):
-#         # we only care about markdown files.
-#         return
-#     if name.startswith("_index."):
-#         # looks good
-#         return
-#     # make a directory with the same name as the file (without the extension)
-#     suffix = "".join(file_path.suffixes)
-#     prefix = name[: -len(suffix)]
-
-#     new_dir = file_path.parent / prefix
-#     new_dir.mkdir()
-
-#     new_path = new_dir / f"_index{suffix}"
-#     file_path.rename(new_path)
-
 
 class IdChaecker:
     seen = {}
@@ -112,7 +86,6 @@ def check_one_file_frontmatter(file_path):
         "story_points",
         "available_flavours",
         "topic_needs_review"
-        # "from_repo",
     ]
 
     if "_db_id" in front:
@@ -129,9 +102,6 @@ def check_one_file_frontmatter(file_path):
         ), f"{file_path} invalid submission type: {front['submission_type']}"
         if front["submission_type"] == "continue_repo":
             required.append("from_repo")
-
-            # if front["title"] == "Calandar widget":
-            #     breakpoint()
 
             assert (
                 front["from_repo"] in hard_prereq
@@ -155,24 +125,13 @@ def check_one_file_frontmatter(file_path):
         for option in front["available_flavours"]:
             assert option in flat_options, f"{option} not in {flat_options}"
 
-    #     options = front["available_flavours"]
-    #     if type(options) is str:
-    #         assert (
-    #             option in available_group_options
-    #         ), f"{option} not valid. Choose one of: {available_group_options}, or a list of {available_flavours}"
-    #     else:
-    #         for option in options:
-    #             assert (
-    #                 option in available_flavours
-    #             ), f"{option} not allowed. Choose one of: {available_flavours}"
-
 
 def check_contentlinks_ok():
     import os
 
     os.system("hugo")
-    os.system('grep -r "contentlink-missing" public')  # TODO
-    # os.system('grep -r "contentlink-todo" public')  # TODO
+    os.system('grep -r "contentlink-missing" public') 
+    # os.system('grep -r "contentlink-todo" public')  
 
 
 if __name__ == "__main__":
