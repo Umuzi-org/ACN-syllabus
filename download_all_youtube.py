@@ -1,3 +1,10 @@
+""" This visits all the pages and finds all the youtube links, then downloads them. It's handy if you want to do our coursework offline at some future point.
+WARNING: This will get big so make sure you are somewhere with great internet.
+
+If you have a night time data deal (where you have a certain cap that you can use up after 8pm and before 3am or something like that), then you can make use of the cutoff_after_n_hours argument. Basically if you set cutoff_after_n_hours to 5, then the downloader will grab as much as it can over the next 5 hours.
+
+If you run this doewnloader again it will pick up where it left off.
+"""
 from pathlib import Path
 import os
 import re
@@ -10,8 +17,7 @@ CONTENT_DIR = Path("content")
 
 
 def generate_youtube_links(path):
-    """ go through all the markdown files in content and yield all the youtube urls.
-    """
+    """go through all the markdown files in content and yield all the youtube urls."""
     if path.is_dir():
         for child in os.listdir(path):
             for link in generate_youtube_links(path / child):
