@@ -19,7 +19,7 @@ We've shared a bunch of content with you already. Get yourself comfortable with 
 2. get as far as possible with the content we have given you. WARNING: one thing we have asked you to do is learn git. You're probably going to think it's weird but it's super important. If you want to succeed at our bootcamp you'll need to be comfortable with the basics
 3. We've given you a bunch of stuff to learn, and also a couple of projects. Try your best to get the projects done, and make sure you _UNDERSTAND_ them
 
-## BONUS! If you do our bootcamp you will get a Nationally recognised certificate!
+## BONUS! If you do our bootcamp you will get a Nationally recognized certificate!
 
 We want to make sure that our bootcamp helps you in your career. Even if you don't get into Umuzi you'll have a few nice things to put on your CV.
 
@@ -78,7 +78,7 @@ Write good code that meets all the requirements, and make sure that you understa
 
 The first step is to try to help yourself. The resources we sent you to learn from are pretty great, but Google is also your friend. And StackOverflow is a fantastic resource. https://stackoverflow.com/
 
-Again I'll say, please **focus on understanding!** Copy-pasting code you find on the internet will not get you very far.
+Again I'll say, please **focus on understanding!** Copy-pasting code you find on the Internet will not get you very far.
 
 Once you have attempted to solve your own problems feel free to reach out. You will be connected with some staff members who will be able to support you.
 
@@ -101,7 +101,7 @@ It would be good for you to look at this content ahead of time so you can ask go
 
 ### Bootcamp
 
-The bootcamp will be a 2 week process. We'll introduce that to you seperately. Try to free up your time so that you can focus 100%. If you have a job, take some leave. During bootcamp we expect you to behave like this is your full-time gig.
+The bootcamp will be a 2 week process. We'll introduce that to you separately. Try to free up your time so that you can focus 100%. If you have a job, take some leave. During bootcamp we expect you to behave like this is your full-time gig.
 
 ### What happens after bootcamp?
 
