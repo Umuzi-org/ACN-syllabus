@@ -13,7 +13,7 @@ prerequisites:
   soft: []
 submission_type: continue_repo
 title: CloudBnb - users can CRUD properties that they own
-reatdy: True
+ready: True
 ---
 
 Users using your application should be able to manage properties that they own. They need to be able to **C**reate, **R**ead, **U**pdate and **D**elete their properties. This is often referred to as CRUD.

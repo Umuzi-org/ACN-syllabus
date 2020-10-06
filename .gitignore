@@ -3,6 +3,7 @@ node_modules/
 public/
 .vscode/
 .idea/
+venv/
 
 umuzi-tech-dept
 /.vs/slnx.

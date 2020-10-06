@@ -5,11 +5,11 @@ We are on a mission to support as many code schools as we can. Learn more here:
 Learn more about the African Coding Network here:
 https://www.africancoding.network/
 
-This syllabus is a Hugo based static site (for now). But on top of that, it is the configuration of our Tilde learning platform.
+This syllabus is a Hugo based static site (for now). But on top of that, it is the configuration of our Tilde learning platform. You can see Tilde here: https://github.com/Umuzi-org/Tilde
 
-I'm sure you've heard of infrastructure-as-code, pipeline-as-code and other x-as-code things? We'll this is a syllabus-as-code. Our learning platform eats is up and turns it into cards that move across a kanban board.
+I'm sure you've heard of infrastructure-as-code, pipeline-as-code and other x-as-code things? Well, this is a syllabus-as-code. Our learning platform eats this up and generates a bunch of trello-like cards that move across the personal Kanban boards of students using the platform.
 
-In order to achieve this, we need to be strict on the shape of the syllabus files. We have specific naming and metadata conventions that contributors need to follow. We'll talk more about that later. But let's start by getting you set up :)
+In order to make this work, we need to be strict on the shape of the syllabus files. We have very specific naming and metadata conventions that contributors need to follow. We'll talk more about that later. But let's start by getting you set up :)
 
 ## To clone this repo
 
@@ -37,7 +37,7 @@ sudo apt install golang
 
 ### MAC
 
-Add this in your bash file e.g .zshrc
+Add this in your bash file e.g .zshrc or .bashrc
 
 ```
 # Go development
@@ -59,60 +59,67 @@ brew install hugo -> look for version 0.51
 hugo serve -b "http://localhost:1313/"
 ```
 
-## syllabus docs
+That's it :) now you'll be able to poke around the main site
 
-look inside /content. The documentation is composed of a bunch of markdown files with a lil metadata.
+### Setting up and running the linter
+
+Make sure you have Python3 installed. This wont work with legacy Python (python2.7 == legacy == dangerzone).
+
+```
+# make a virtual environment
+python3 -m venv venv
+
+# if you name your virtual env anything other than venv,
+# please be careful to not commit it to git!
+
+# activate it
+
+source venv/bin/activate
+
+# install dependencies
+
+pip install -r requirements.txt
+
+# and run the linter
+
+python lint.py
+```
+
+Then if you want to run the linter again, you dont need to do the whole setup again. Do this:
+
+```
+# activate your venv
+source venv/bin/activate
+
+# and run the linter
+python lint.py
+
+```
+
+The linter starts off by looking over all the frontmatter and making sure that's fine. Then it builds the site and looks for trouble.
+
+Some error messages are a bit funny looking. If you see something like this:
+
+```
+content/projects/django-airbnb-clone/users-can-crud-properties/_index.md has unrecognized frontmatter: reatdy
+```
+
+Then it means that there is a typo in the given file.
+
+And then if you get a message like this:
+
+```
+public/syllabuses/data-eng-boot/index.html:  <span class="contentlink-missing" data="topics/intro-to-tilde"
+```
+
+Then that means there is a contentlink that is pointint to a file that doesn't exist. Did the file move? Was it deleted? Is something misspelled?
+
+## Syllabus Content
+
+Look inside the content directory. The documentation is composed of a bunch of markdown files (all named `_index.md`) with a lil metadata. Ok, a lot of metadata.
 
 ## Contributing
 
-Please make sure that your contributions actually works and look good. If you edit some stuff then run the hugo server locally. Look at your changes in the browser.
+There are lots of ways to contribute. You can improve the instructions on a specific project, add extra info to some metadata, or spin up a whole new curriculum :)
 
-You can contribute in a few different ways:
-
-### You can add or edit course materials
-
-All our course materials live inside the `content` directory.
-
-Please DO NOT put large binary files into this repo. For example PDFs and Presentations and word documents aren't cool.
-
-#### Adding new materials
-
-Let's say you want to add a self-study introduction to Python Flask. You would do something like this:
-
-1. make a directory. This path would make sense: `content/topics/intro-to-flask`
-2. make a markdown file inside your new directory called `_index.md`
-3. start your markdown file with the following:
-
-```
----
-topic: Introduction to Flask
-ready: true
----
-```
-
-The `ready:true` part tells hugo that this is not a draft, it is ready for human consumption.
-
-If you add anything inside the `content/projects` directory then it will automatically get rendered with a link to a submission form at the top of the page. If you want to suppress this behavior then use the frontmatter:
-
-```
-submission_type: nosubmit
-```
-
-Take a look at http://localhost:1313/projects/nodejs/ to see this in action
-
-### you can upgrade the look and feel of this site
-
-For the most part the best place to do this is in the layouts directory.
-
-DO NOT EVER make changes directly in the public directory. If you do this your changes will be destroyed. Everything in public gets generated auto-magically so your stuff will just get over-written.
-
-### Lint
-
-To set up your environment:
-
-```
-mkvirtualenv -p $(which python3.7) umuzi-tech-dept
-pip install -r requirements.txt
-```
-
-Run `python lint.py` to make sure all your markdown frontmatter is ok.
+Please take a look at contribute.md. It will tell you all.
