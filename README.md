@@ -73,15 +73,16 @@ Make sure you have Python3 installed. This wont work with legacy Python (python2
 # with Pipenv installed there is no need to create a virtual environment, so go ahead and install it if you haven't already
 pip install pipenv
 
-# Pipenv will automatically create a virtual environment and install all required packages for this repo, simply type the following
+# Pipenv will automatically create a virtual environment and install all required packages for this repo, simply type the 
+# following:
 pipenv install
 
 # activate Pipenv virtual environment and run the linter
 pipenv shell
 python lint.py
 
-# to install any new packages simply use pipenv and it will install and automatically update the Pipfile and Pipfile.lock  with the newly 
-# installed package
+# to install any new packages simply use pipenv and it will install and automatically update the Pipfile and Pipfile.lock
+# with the newly installed package 
 # for example, if you want to install pandas:
 pipenv install pandas
 
