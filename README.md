@@ -65,7 +65,7 @@ hugo serve -b "http://localhost:1313/"
 
 That's it :) now you'll be able to poke around the main site
 
-### Setting up and running the linter
+### Setting up and running the linter with using Pipenv
 
 Make sure you have Python3 installed. This wont work with legacy Python (python2.7 == legacy == dangerzone).
 
@@ -80,20 +80,18 @@ pipenv install
 pipenv shell
 python lint.py
 
-# to install new packages simply use pipenv and it will install and automatically update the Pipfile and Pipfile.lock  with the newly 
+# to install any new packages simply use pipenv and it will install and automatically update the Pipfile and Pipfile.lock  with the newly 
 # installed package
 # for example, if you want to install pandas:
 pipenv install pandas
 
 ```
 
-Then if you want to run the linter again, you dont need to do the whole setup again. Do this:
+Then if you want to run the linter again, you dont need to run pipenv install. Do this:
 
 ```
-# activate your venv
-source venv/bin/activate
-
-# and run the linter
+# activate pipenv environment and run the linter
+pipenv shell
 python lint.py
 
 ```
