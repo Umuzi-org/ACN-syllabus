@@ -95,6 +95,11 @@ pipenv shell
 python lint.py
 
 ```
+### Reference Links on Pipenv
+- https://www.infoworld.com/article/3561758/how-to-manage-python-projects-with-pipenv.html
+- https://realpython.com/pipenv-guide/
+- https://pipenv-fork.readthedocs.io/en/latest/basics.html
+- https://www.youtube.com/watch?v=6Qmnh5C4Pmo
 
 The linter starts off by looking over all the frontmatter and making sure that's fine. Then it builds the site and looks for trouble.
 
