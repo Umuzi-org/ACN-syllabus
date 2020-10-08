@@ -1,3 +1,9 @@
+# The African Coding Network
+
+The African Coding Network is an Open Source community of coding schools and industry partners across Africa training the next generation of junior developers. We've developed tools to enable existing coding schools across african to improve their quality of training while reducing their cost to deliver. 
+ 
+Our network of schools provides local infrastructure to unlock tech education at scale. We support local schools with scalable solutions to overcome common challenges, enabling them to focus their limited time and resources on being excellent at solving their local infrastructure challenges. 
+
 # ACN syllabus
 
 We are on a mission to support as many code schools as we can. Learn more here:
