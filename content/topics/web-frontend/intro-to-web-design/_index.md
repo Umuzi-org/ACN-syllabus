@@ -10,7 +10,7 @@ title: Introduction to web design
 
 ## What Is Web Design?
 
-Web design is a Web development process that focuses on the aesthetics of the website, factors like 
+Web design is a Web development process that focuses on the look and feel of the website, factors like 
 
 - Layout 
 - Colour
@@ -18,14 +18,14 @@ Web design is a Web development process that focuses on the aesthetics of the we
 - Responsiveness 
 - Accessibility
 
-and other visual imagery are considered and organized accordingly to create a website or web application that is visually appealing and easy to use.
+are all considered and organized to create a website or web application that looks good and is easy to use.
 
 ### Layout & Responsive design
-_Layout and responsiveness are highly interlinked so while learning how to make your site responsivess you will learn different layouts to achieve responsiveness._
+_Layout and responsiveness are connected so while learning how to make your site responsivess you will learn different layouts to achieve responsiveness._
 
-A responsive web site is one that changes shape / or layout so that it looks and feels good on many different devices. Since cellphones are so powerful and ubiquitous these days it is usually considered best practice to design your site in a "mobile first" way. This means that you should first make sure that your site works well on a phone, then you make sure it works well on larger devices.
+A responsive web site is one that changes shape / or layout to accommodate different devices. Since cellphones are so powerful these days it is usually considered best practice to design your site in a "mobile first" way. This means that you should first make sure that your site works well on a phone, then you make sure it works well on larger devices.
 
-This is generally achieved through use of CSS-Grid.
+This is generally achieved through the use of CSS-Grid.
 https://www.freecodecamp.org/news/intro-to-css-grid-layout/
 
 ### Accessibility
@@ -38,7 +38,7 @@ https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibili
 
 
 ### Colour
-Colour and consistency is important in web applications and sites. Read this [article](https://www.tictocdigital.co.uk/journal/46-the-importance-of-colour-in-web-design) to get a better idea and understanding of this.
+Colour and consistency are important in web applications and sites. Read this [article](https://www.tictocdigital.co.uk/journal/46-the-importance-of-colour-in-web-design) to get a better idea and understanding of this.
 
 
 ### Difference between bad and good design? 
@@ -46,7 +46,7 @@ Colour and consistency is important in web applications and sites. Read this [ar
 ![Image](https://images.pexels.com/photos/242492/pexels-photo-242492.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=380&w=840
 "image")
 
-The main difference between good and bad websites lays in visual appeal and consistency. A good website can boast a clear structure, easy-to-use navigation, and non-distracting design, while a bad website makes you feel confused or even annoyed.
+The main difference between good and bad websites is determined by visual appeal (how good it looks to the user) and consistency. A good website shows a clear structure, easy-to-use navigation, and non-distracting design, while a bad website makes you feel confused or even annoyed.
 
 
 
@@ -67,8 +67,10 @@ Please remember user interfaces are for users. Think about your users and how th
 ### Design Principle: KISS
 
 #### "Simplicity is the ultimate sophistication" _Leonardo Da Vinci_
+ _Click [Here](https://www.interaction-design.org/literature/article/kiss-keep-it-simple-stupid-a-design-principle) to read up on this Design Principle that will help you design better user interfaces._
 
- Click [Here](https://www.interaction-design.org/literature/article/kiss-keep-it-simple-stupid-a-design-principle) to read up on this Design Principle that will help you design better user interfaces.
+ [KISS](https://en.wikipedia.org/wiki/KISS_principle). [Here](https://www.lingscars.com/) is a hilarious example of the opposite of KISS.
+
 
 
 
@@ -84,9 +86,10 @@ Not using Linux or don't want to download Figma on your machine? No problem, you
 
 Found this topic on Web Design intresting? Feel free to check out the material below.
 
+-  https://www.pagecloud.com/blog/web-design-guide
 - [design-101-for-developers](https://academy.realm.io/posts/christopher-downer-design-101-for-developers/)
 - [7 principles of design for coders](https://learntocodewith.me/posts/7-principles-of-design/)
-
+- [Brad Traversy - Build An HTML5 Website With A Responsive Layout](https://www.youtube.com/watch?v=Wm6CUkswsNw&t=1194s)
 - [A developer's guide to web design for non-designers](https://www.freecodecamp.org/news/a-developers-guide-to-web-design-for-non-designers-1f64ce28c38d/)
 - [Design Course - Beginner's Web Design](https://www.youtube.com/watch?v=alswD2tCc_Q)
 - [Learn UI design fundamentals with this free one-hour course](https://www.freecodecamp.org/news/learn-ui-design-fundamentals-with-this-free-one-hour-course/)
