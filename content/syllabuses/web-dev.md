@@ -88,7 +88,6 @@ title: Web Development
 - {{% contentlink path="projects/nodejs/ajax" flavour="javascript" %}}
 
 - {{% contentlink path="workshops/git-for-teamwork/" %}}
-- {{% contentlink path="workshops/agile-recap/" %}}
 
 - NCIT 20: Managing the Software Development Process
 - NCIT Summative assessment
