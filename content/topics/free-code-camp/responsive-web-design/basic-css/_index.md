@@ -3,6 +3,8 @@ _db_id: 310
 content_type: topic
 ready: true
 title: Basic CSS
+tags: 
+- css
 ---
 
 Make an account here if you haven't already: https://www.freecodecamp.org/learn

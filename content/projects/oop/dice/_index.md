@@ -6,6 +6,10 @@ content_type: project
 ready: true
 submission_type: repo
 title: Dice
+tags:
+- oop
+- tdd
+- unit-testing
 ---
 
 Please follow TDD when implementing this code.

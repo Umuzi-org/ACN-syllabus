@@ -3,6 +3,8 @@ _db_id: 307
 content_type: topic
 ready: true
 title: Basic HTML and HTM5
+tags:
+- html
 ---
 
 Make an account here if you haven't already: https://www.freecodecamp.org/learn

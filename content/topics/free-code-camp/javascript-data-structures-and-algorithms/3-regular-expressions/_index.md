@@ -3,6 +3,8 @@ _db_id: 321
 content_type: topic
 ready: true
 title: Regular Expressions
+tags:
+- regular-expressions
 ---
 
 Make an account here if you haven't already: https://www.freecodecamp.org/learn

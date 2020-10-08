@@ -3,6 +3,8 @@ _db_id: 70
 content_type: topic
 ready: true
 title: API basics
+tags:
+- api
 ---
 
 Please read the following content:

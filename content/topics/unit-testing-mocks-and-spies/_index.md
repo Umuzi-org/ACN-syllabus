@@ -3,6 +3,10 @@ _db_id: 126
 content_type: topic
 ready: true
 title: Unit testing with mocks and spies
+tags:
+- tdd
+- mocks-and-spies
+- unit-testing
 ---
 
 Unit testing is a pretty powerful thing - it lets you quickly and easily check if your code works the way it is supposed to, and acts as documentation for your code. And it stops your team mates from breaking your stuff. This is super powerful.

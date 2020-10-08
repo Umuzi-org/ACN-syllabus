@@ -6,6 +6,8 @@ available_flavours:
 content_type: topic
 ready: true
 title: Basic introduction to Redux
+tags:
+- redux
 ---
 
 ## Redux is

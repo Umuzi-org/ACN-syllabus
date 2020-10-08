@@ -3,6 +3,7 @@ _db_id: 96
 content_type: topic
 ready: true
 title: Android Application Lifecycle
+
 ---
 
 The Android Application Lifecycle refers to how pages and the app handles navigation and the state of the app.

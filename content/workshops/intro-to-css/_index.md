@@ -3,6 +3,8 @@ _db_id: 9
 content_type: workshop
 ready: true
 title: Introduction to CSS
+tags:
+- css
 ---
 
 > There are two great days in a person's life

@@ -3,6 +3,7 @@ _db_id: 377
 content_type: topic
 ready: true
 title: Agile Triage
+
 ---
 
 From this day forward you'll be expected to spend your workdays behaving like a professional on an agile team. Now we know you aren't an expert in agile just yet so what follows below is a little description of what is expected and why.

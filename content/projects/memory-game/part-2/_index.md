@@ -17,6 +17,10 @@ ready: true
 submission_type: continue_repo
 title: extra features for your memory game
 weight: 4
+tags:
+- TDD
+- Dom Manipulation
+- Mocks and spies
 ---
 
 Please make sure you are following Git Feature Branching at this point. It's really important and really useful.

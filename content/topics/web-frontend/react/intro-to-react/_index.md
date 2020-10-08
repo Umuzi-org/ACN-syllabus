@@ -3,6 +3,8 @@ _db_id: 75
 content_type: topic
 ready: true
 title: Intro to React
+tags:
+- react
 ---
 
 React is a tool used to build web frontends. It’s used by Facebook, Dropbox, Instagram, Whatsapp, Khan Academy and many other giants. It basically makes frontend developers insanely productive.

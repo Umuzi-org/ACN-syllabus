@@ -3,6 +3,8 @@ _db_id: 7
 content_type: workshop
 ready: true
 title: Intro to CSS architecture
+tags:
+- css
 ---
 
 The followings are to be demonstrated and addressed during the workshop

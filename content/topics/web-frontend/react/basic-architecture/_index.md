@@ -7,6 +7,8 @@ prerequisites:
   soft: []
 ready: true
 title: 'React: Basic basic architectural guidelines'
+tags:
+- react
 ---
 
 React is very powerful but allows a person to write some proper spaghetti code. It's best to develop some good habits early on so that you write code that is easy to grow and maintain.

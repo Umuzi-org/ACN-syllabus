@@ -3,6 +3,8 @@ _db_id: 517
 content_type: topic
 ready: true
 title: Official React Tutorial
+tags:
+- react
 ---
 
 Whenever learning a new tool, a good place to look for support is
