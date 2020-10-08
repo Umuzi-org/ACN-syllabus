@@ -53,7 +53,6 @@ title: Web Development - No NQF
 
 - {{% contentlink path="projects/nodejs/ajax" flavour="javascript" %}}
 - {{% contentlink path="workshops/git-for-teamwork/" %}}
-- {{% contentlink path="workshops/agile-recap/" %}}
 - {{% contentlink path="topics/web-frontend/intro-to-angular/" optional="1" %}}
 - {{% contentlink path="topics/web-frontend/react/intro-to-react" %}}
 - {{% contentlink path="topics/web-frontend/intro-to-vue/" optional="1" %}}

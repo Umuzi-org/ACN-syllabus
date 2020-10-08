@@ -61,7 +61,6 @@ title: "Data Science"
 - {{% contentlink path="topics/optimizations-and-big-o/" %}}
 - NCIT Summative assessment
 - {{% contentlink path="workshops/git-for-teamwork/" %}}
-- {{% contentlink path="workshops/agile-recap/" %}}
 - {{% contentlink path="topics/data-infrastructure/database-comparison/" %}}
 - {{% contentlink path="projects/data-science-specific/k-means-clustering" flavour="python"%}}
 - {{% contentlink path="projects/data-science-specific/natural-language-processing" flavour="python"%}}

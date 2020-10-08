@@ -84,7 +84,6 @@ title: Data Engineering
 - NCIT 16: Thinking like a machine / Boolean algebra, logic
 - NCIT 17: Search and sort techniques
 - {{% contentlink path="workshops/git-for-teamwork/" %}}
-- {{% contentlink path="workshops/agile-recap/" %}}
 - NCIT 20: Managing the Software Development Process
 
 * DATA_ENG:
