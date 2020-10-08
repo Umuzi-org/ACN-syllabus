@@ -4,7 +4,6 @@ ready: true
 title: statistics
 ---
 
-## Statistics
 Recruits are taught basic statistics to equip them with important skills that teach them to draw accurate conclusions and insights from data; the skills include data collection, data analysis, principles of data visualisation and making good probability estimations.
 
 How recruits learn the skill and associated tools:
