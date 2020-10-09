@@ -1,5 +1,8 @@
-### Google Sheets:
-
+---
+content_type: topic
+ready: true
+title: Google Sheets
+---
 
 Our recruits can work with sheets competently to store and analyse data. Theory upskilling is done in the following courses (Udemy):
 
