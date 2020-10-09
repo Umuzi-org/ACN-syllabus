@@ -1,5 +1,6 @@
 ### Google Sheets:
 
+
 Our recruits can work with sheets competently to store and analyse data. Theory upskilling is done in the following courses (Udemy):
 
 - [Google Spreadsheet Basics: A (Free) Introduction](https://www.udemy.com/google-spreadsheet-basics-a-free-introduction/)
