@@ -1,5 +1,5 @@
 ---
-title: "Data Science"
+title: 'Data Science'
 ---
 
 - Introduction to NCIT curriculum
@@ -48,7 +48,7 @@ title: "Data Science"
 - {{% contentlink path="projects/data-science-specific/oop-for-data-science" flavour="python" %}}
 - {{% contentlink path="projects/data-science-specific/dashboards/plotly_dashboards" flavour="python" %}}
 - NCIT 14: Database Development
-- {{% contentlink path="projects/sql/" %}}
+- {{% contentlink path="sql/projects/" %}}
 - NCIT 15: Analytics, Surveys, and Reports / Input & Output
 - {{% contentlink path="projects/data-science-specific/logistic-regression" %}}
 - {{% contentlink path="workshops/agile-scrum/" %}}
