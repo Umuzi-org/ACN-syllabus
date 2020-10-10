@@ -67,10 +67,10 @@ def check_one_file_frontmatter(file_path):
         return
     front = frontmatter.load(file_path)
 
-    required = ["title"]
+    required = ["title","content_type",]
     allowed = [
         "_db_id",
-        "content_type",
+        
         "pre",
         "weight",
         "ready",
@@ -91,7 +91,11 @@ def check_one_file_frontmatter(file_path):
     if "_db_id" in front:
         IdChaecker.check(front["_db_id"], front["title"], file_path)
 
-    if str(file_path).startswith("content/projects"):
+
+    # is_project = str(file_path).startswith("content/projects") 
+    is_project = front.get('content_type') == "project"
+
+    if is_project:
         required.append("submission_type")
 
     hard_prereq = front.get("prerequisites", {}).get("hard", [])
