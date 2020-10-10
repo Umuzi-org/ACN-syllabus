@@ -67,10 +67,10 @@ def check_one_file_frontmatter(file_path):
         return
     front = frontmatter.load(file_path)
 
-    required = ["title","content_type",]
+    required = ["title",]
     allowed = [
         "_db_id",
-        
+        "content_type",
         "pre",
         "weight",
         "ready",
