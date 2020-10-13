@@ -37,7 +37,7 @@ title: Java Basics
 - String Calculator
 - {{% contentlink path="projects/tdd/string-calculator" flavour="java" %}}
 - SQL
-- {{% contentlink path="projects/sql" %}}
+- {{% contentlink path="sql/projects" %}}
 
 * Java Collections
 * {{% contentlink path="projects/java-specific/collections" flavour="java" %}}

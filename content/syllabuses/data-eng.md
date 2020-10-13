@@ -66,7 +66,7 @@ title: Data Engineering
 - {{% contentlink path="topics/python-specific/iterators" optional="1" %}}
 - {{% contentlink path="topics/python-specific/automate-the-boring-stuff-book/chapter-12-web-scraping" %}}
 
-- {{% contentlink path="projects/sql/" %}}
+- {{% contentlink path="sql/projects/" %}}
 - NCIT 14: Database Development
 - {{% contentlink path="topics/tech-terminology" %}}
 - {{% contentlink path="topics/data-infrastructure/database-comparison/" %}}

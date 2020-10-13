@@ -8,7 +8,7 @@ prerequisites:
     - projects/java-specific/introduction-to-spring-boot/part-4
     - topics/java-specific/jdbc-templates
   soft:
-    - projects/sql
+    - sql/projects
 submission_type: repo
 title: SQL Extended
 ready: True
@@ -18,7 +18,7 @@ I hope at this point you should have already read up on JDBC templates, JPA and 
 
 ## Part1
 
-1. Revise {{% contentlink path="projects/sql/" %}} and make sure all tables are created and populated
+1. Revise {{% contentlink path="sql/projects/" %}} and make sure all tables are created and populated
 
 2. Use vanilla java **(no Springboot)** connect to your database and perform the queries in part2 but only number [1-7]
 

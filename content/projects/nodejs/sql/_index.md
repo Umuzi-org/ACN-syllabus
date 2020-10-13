@@ -6,7 +6,7 @@ content_type: project
 from_repo: projects/nodejs/file-io
 prerequisites:
   hard:
-  - projects/sql
+  - sql/projects
   - workshops/node-and-sql/
   - projects/nodejs/file-io
   soft: []
