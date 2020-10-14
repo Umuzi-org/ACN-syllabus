@@ -71,40 +71,42 @@ hugo serve -b "http://localhost:1313/"
 
 That's it :) now you'll be able to poke around the main site
 
-### Setting up and running the linter
+### Setting up and running the linter with using Pipenv
 
 Make sure you have Python3 installed. This wont work with legacy Python (python2.7 == legacy == dangerzone).
 
 ```
-# make a virtual environment
-python3 -m venv venv
+# with Pipenv installed there is no need to create a virtual environment, so go ahead and install it if you haven't already
+pip install pipenv
 
-# if you name your virtual env anything other than venv,
-# please be careful to not commit it to git!
+# Pipenv will automatically create a virtual environment and install all required packages for this repo, simply type the 
+# following:
+pipenv install
 
-# activate it
-
-source venv/bin/activate
-
-# install dependencies
-
-pip install -r requirements.txt
-
-# and run the linter
-
+# activate Pipenv virtual environment and run the linter
+pipenv shell
 python lint.py
+
+# to install any new packages simply use pipenv and it will install and automatically update the Pipfile and Pipfile.lock
+# with the newly installed package 
+# for example, if you want to install pandas:
+pipenv install pandas
+
 ```
 
-Then if you want to run the linter again, you dont need to do the whole setup again. Do this:
+Then if you want to run the linter again, you dont need to run pipenv install. Do this:
 
 ```
-# activate your venv
-source venv/bin/activate
-
-# and run the linter
+# activate pipenv environment and run the linter
+pipenv shell
 python lint.py
 
 ```
+### Reference Links on Pipenv
+- https://www.infoworld.com/article/3561758/how-to-manage-python-projects-with-pipenv.html
+- https://realpython.com/pipenv-guide/
+- https://pipenv-fork.readthedocs.io/en/latest/basics.html
+- https://www.youtube.com/watch?v=6Qmnh5C4Pmo
 
 The linter starts off by looking over all the frontmatter and making sure that's fine. Then it builds the site and looks for trouble.
 
