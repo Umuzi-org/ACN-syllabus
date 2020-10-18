@@ -2,6 +2,8 @@
 _db_id: 34
 content_type: workshop
 date: 2019-03-19 16:50:16+02:00
+tags:
+- node
 title: Node Sync/Async
 weight: 15
 ---

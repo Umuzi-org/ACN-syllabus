@@ -2,6 +2,8 @@
 _db_id: 7
 content_type: workshop
 ready: true
+tags:
+- css
 title: Intro to CSS architecture
 ---
 
