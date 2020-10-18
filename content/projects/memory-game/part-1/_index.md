@@ -10,9 +10,9 @@ ready: true
 story_points: 5
 submission_type: repo
 tags:
-- TDD
-- Dom Manipulation
-- Mocks and spies
+- tdd
+- dom-manipulation
+- mocks-and-spies
 title: Memory game web app
 ---
 

@@ -6,6 +6,8 @@ content_type: project
 pre: '<b>HARD: </b>'
 ready: true
 submission_type: repo
+tags:
+- tdd
 title: ten-pin bowling scoring system
 ---
 

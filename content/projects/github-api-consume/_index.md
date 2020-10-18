@@ -10,7 +10,9 @@ prerequisites:
 ready: true
 story_points: 3
 submission_type: repo
-tags: []
+tags: 
+- git
+- api
 title: Consume Github API
 ---
 

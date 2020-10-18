@@ -15,6 +15,10 @@ prerequisites:
   soft: []
 ready: true
 submission_type: continue_repo
+tags:
+- tdd
+- dom-manipulation
+- mocks-and-spies
 title: extra features for your memory game
 weight: 4
 ---

@@ -6,6 +6,8 @@ content_type: project
 pre: '<b>EASY: </b>'
 ready: true
 submission_type: repo
+tags:
+- tdd
 title: factorials
 ---
 
