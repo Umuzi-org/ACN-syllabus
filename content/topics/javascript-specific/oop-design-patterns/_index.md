@@ -2,6 +2,8 @@
 _db_id: 466
 content_type: topic
 ready: true
+tags:
+- oop
 title: JavaScript OOP Design Patterns
 ---
 

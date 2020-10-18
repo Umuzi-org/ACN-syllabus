@@ -2,6 +2,8 @@
 _db_id: 131
 content_type: topic
 ready: true
+tags:
+- node
 title: Node
 ---
 

@@ -2,6 +2,8 @@
 _db_id: 523
 content_type: topic
 ready: true
+tags:
+- git
 title: Git feature branching
 ---
 
