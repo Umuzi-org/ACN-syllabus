@@ -3,18 +3,13 @@ available_flavours:
 - swift
 content_type: project
 prerequisites:
-  hard: []
+  hard: 
+  - topics/ios-mobile/tdd-unit-testing
   soft: []
 ready: true
 submission_type: repo
 title: TDD and Unit Testing
 ---
-
-### Useful Content to Snack on: 
-
-[How to approach TDD and write unit tests](https://www.appsdeveloperblog.com/swift-tdd-how-many-unit-tests-to-write/)
-
-[Unit Testing tutorials](https://www.appsdeveloperblog.com/xctassertthrowserror-assertion-example/)
 
 ### Task: 
 
