@@ -14,6 +14,8 @@ prerequisites:
   soft: []
 ready: true
 submission_type: continue_repo
+tags:
+- redux
 title: semitone difference - Add Redux
 ---
 

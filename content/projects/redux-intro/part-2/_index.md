@@ -12,7 +12,7 @@ ready: true
 submission_type: continue_repo
 tags:
 - redux
-- combineReducers
+- combine-reducers
 title: 'Intro to Redux for home automation: combine reducers'
 ---
 

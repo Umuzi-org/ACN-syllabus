@@ -6,6 +6,8 @@ prerequisites:
   - topics/redux-thunks
   soft: []
 ready: true
+tags:
+- redux
 title: Redux Saga
 ---
 

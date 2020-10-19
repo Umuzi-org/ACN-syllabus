@@ -2,6 +2,9 @@
 _db_id: 126
 content_type: topic
 ready: true
+tags:
+- unit-testing
+- mocks-and-spies
 title: Unit testing with mocks and spies
 ---
 

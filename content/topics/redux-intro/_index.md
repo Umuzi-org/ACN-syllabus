@@ -5,6 +5,8 @@ available_flavours:
 - typescript
 content_type: topic
 ready: true
+tags:
+- redux
 title: Basic introduction to Redux
 ---
 

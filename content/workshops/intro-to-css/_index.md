@@ -2,6 +2,8 @@
 _db_id: 9
 content_type: workshop
 ready: true
+tags:
+- css
 title: Introduction to CSS
 ---
 

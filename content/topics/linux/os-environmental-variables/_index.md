@@ -6,7 +6,8 @@ prerequisites:
   - topics/linux/intro-to-bash
   soft: []
 ready: true
-tags: []
+tags: 
+- linux
 title: Environmental Variables
 ---
 

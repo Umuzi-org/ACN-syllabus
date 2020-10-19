@@ -2,6 +2,8 @@
 _db_id: 48
 content_type: topic
 ready: true
+tags:
+- logging
 title: Logging
 ---
 

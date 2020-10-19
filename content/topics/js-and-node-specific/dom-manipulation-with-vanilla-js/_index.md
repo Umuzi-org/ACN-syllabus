@@ -2,6 +2,9 @@
 _db_id: 132
 content_type: topic
 ready: true
+tags:
+- node
+- dom-manipulation
 title: DOM manipulation with vanilla JavaScript
 ---
 

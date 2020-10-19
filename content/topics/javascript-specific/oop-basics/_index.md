@@ -2,6 +2,7 @@
 _db_id: 467
 content_type: topic
 ready: true
+- oop
 title: JavaScript OOP basics resources and readings
 ---
 

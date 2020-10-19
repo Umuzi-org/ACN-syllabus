@@ -2,6 +2,8 @@
 _db_id: 66
 content_type: topic
 ready: true
+tags:
+- css
 title: Intro to CSS architecture
 ---
 
