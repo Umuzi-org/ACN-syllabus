@@ -35,7 +35,7 @@ For every excercise in this project you need to make a new Pull Request on githu
 So if you are writing code for the first excerchise you can do this:
 
 ```
-git checkout master
+git checkout main
 git pull
 git checkout -b hello
 ```
@@ -45,7 +45,7 @@ Now you have branch for your hellp code to live in. Create a file for your hello
 While you wait for feedback, you can start the next excercise.
 
 ```
-git checkout master  # Important: Check out the master branch and make sure it is up to date before making a new branch.
+git checkout main  # Important: Check out the main branch and make sure it is up to date before making a new branch.
 git pull
 git checkout -b even_or_odd
 ```
