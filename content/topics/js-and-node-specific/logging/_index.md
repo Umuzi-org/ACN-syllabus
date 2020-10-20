@@ -2,9 +2,6 @@
 _db_id: 128
 content_type: topic
 ready: true
-tags:
-- node
-- logging
 title: Logging in Node and JS
 ---
 

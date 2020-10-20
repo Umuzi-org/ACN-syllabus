@@ -1,8 +1,6 @@
 ---
 _db_id: 16
 content_type: workshop
-tags:
-- unit-testing
 title: Unit testing Introduction
 ---
 

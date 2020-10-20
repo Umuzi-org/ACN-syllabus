@@ -2,8 +2,6 @@
 _db_id: 71
 content_type: topic
 ready: true
-tags:
-- api
 title: Introduction to GraphQL
 ---
 

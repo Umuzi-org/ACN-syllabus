@@ -2,8 +2,6 @@
 _db_id: 15
 content_type: workshop
 ready: true
-tags:
-- git
 title: Git for Teamwork
 ---
 

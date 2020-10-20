@@ -5,8 +5,6 @@ available_flavours:
 content_type: project
 pre: '<b>MEDIUM: </b>'
 submission_type: nosubmit
-tags:
-- tdd
 title: lots and lots of tdd katas
 ---
 

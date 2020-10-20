@@ -2,8 +2,6 @@
 _db_id: 5
 content_type: workshop
 ready: true
-tags:
-- express
 title: Express JS
 ---
 

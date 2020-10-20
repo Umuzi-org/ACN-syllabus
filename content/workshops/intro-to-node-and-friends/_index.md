@@ -1,8 +1,6 @@
 ---
 _db_id: 1
 content_type: workshop
-tags:
-- node
 title: Introduction to Node and Friends
 weight: 15
 ---

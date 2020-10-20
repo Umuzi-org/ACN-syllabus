@@ -2,8 +2,6 @@
 _db_id: 53
 content_type: topic
 ready: true
-tags:
-- tdd
 title: TDD Horrors
 ---
 

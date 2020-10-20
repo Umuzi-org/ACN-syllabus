@@ -2,8 +2,6 @@
 _db_id: 141
 content_type: topic
 ready: true
-tags:
-- node
 title: Super basic intro to Node
 ---
 

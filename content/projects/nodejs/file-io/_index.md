@@ -12,8 +12,8 @@ ready: true
 story_points: 3
 submission_type: repo
 tags:
-- node
-- file-io
+- Node
+- FileIO
 title: Node & File IO
 weight: 1
 ---

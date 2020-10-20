@@ -2,8 +2,6 @@
 _db_id: 146
 content_type: topic
 ready: true
-tags:
-- ajax
 title: Introduction to Ajax
 ---
 
