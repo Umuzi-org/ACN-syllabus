@@ -2,8 +2,6 @@
 _db_id: 136
 content_type: topic
 ready: true
-tags:
-- node
 title: DOM events with vanilla JavaScript
 ---
 

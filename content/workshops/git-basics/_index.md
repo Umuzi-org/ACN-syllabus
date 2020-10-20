@@ -2,8 +2,6 @@
 _db_id: 8
 content_type: workshop
 ready: true
-tags:
-- git
 title: Git Basics
 ---
 

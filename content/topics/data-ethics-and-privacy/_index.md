@@ -2,8 +2,6 @@
 _db_id: 61
 content_type: topic
 ready: true
-tags:
-- data-ethics
 title: Data Ethics and Privacy
 ---
 

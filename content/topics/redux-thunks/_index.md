@@ -5,8 +5,6 @@ prerequisites:
   hard:
   - topics/redux-intro
   soft: []
-  tags:
-- redux-thunks
 title: Redux Thunks
 ---
 

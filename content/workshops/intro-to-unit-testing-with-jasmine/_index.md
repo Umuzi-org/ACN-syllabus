@@ -2,8 +2,6 @@
 _db_id: 47
 content_type: workshop
 ready: true
-tags:
-- unit-testing
 title: Unit testing with Jasmine Introduction
 ---
 

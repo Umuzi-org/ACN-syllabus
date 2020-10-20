@@ -2,8 +2,6 @@
 _db_id: 135
 content_type: topic
 ready: true
-tags:
-- node
 title: Node setup
 ---
 

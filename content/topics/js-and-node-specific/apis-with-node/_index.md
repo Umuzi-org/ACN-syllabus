@@ -2,9 +2,6 @@
 _db_id: 138
 content_type: topic
 ready: true
-tags:
-- node
-- api
 title: APIs and Node
 ---
 
