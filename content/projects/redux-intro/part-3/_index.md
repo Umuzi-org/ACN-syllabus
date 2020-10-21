@@ -1,21 +1,21 @@
 ---
 _db_id: 551
 available_flavours:
-- javascript
-- typescript
+  - javascript
+  - typescript
 content_type: project
 from_repo: projects/redux-intro/part-1
 prerequisites:
   hard:
-  - topics/redux-thunks
-  - projects/redux-intro/part-1
-  - projects/redux-intro/part-2
+    - topics/redux-thunks
+    - projects/redux-intro/part-1
+    - projects/redux-intro/part-2
 ready: true
 submission_type: continue_repo
 tags:
-- redux
-- redux-thunks
-title: 'Intro to Redux for home automation: Party mode with thunks'
+  - redux
+  - redux-thunks
+title: "Intro to Redux for home automation: Party mode with thunks"
 ---
 
 ## Instructions
