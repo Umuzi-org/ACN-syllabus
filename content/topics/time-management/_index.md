@@ -6,7 +6,7 @@ title: Time Management
 
 Time management is an essential skill to master when tackling projects and working toward long-term goals. Planning out how to make the best use of time helps to increase productivity, efficiency, and overall effectiveness.
 
-## Type of Tasks
+## Types of Tasks
 
 #### Important Tasks
 - Contribute to long-term goals
@@ -59,5 +59,5 @@ Time management is an essential skill to master when tackling projects and worki
 - [Time Management Is About More Than Life Hacks](https://hbr.org/2020/01/time-management-is-about-more-than-life-hacks)
 - [15 Time Management Tips for Achieving Your Goals](https://www.entrepreneur.com/article/299336)
 
-### Reference:
+#### Reference:
 - https://www.thecoachingtoolscompany.com/coaching-tools-101-what-is-the-urgent-important-matrix/
