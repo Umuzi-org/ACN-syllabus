@@ -277,7 +277,7 @@ Date:   Tue Apr 23 14:43:51 2019 +0200
 
     initial commit
 ```
- 
+
 ### merging
 
 Now we want to get the main up to date with all out changes. Let's start with the milkshake branch
@@ -341,7 +341,7 @@ Go look at your network page. each of the dots there represent commits you made.
 2. Now let's clone a repo. point your browser here: https://github.com/Umuzi-org/a-repo-to-clone
 3. Now there is a friendly green button that says "Clone or download". Click on it.
 4. You will see a url come up. Copy it. You will need to paste it into the terminal in a moment
-5. In your terminal type in `git clone $THE_URL_YOU_JUST_COPIED`. It should look something like this: `git clone https://github.com/Umuzi-org/tech-department`
+5. In your terminal type in `git clone $THE_URL_YOU_JUST_COPIED`. It should look something like this: `git clone https://github.com/Umuzi-org/a-repo-to-clone`
 6. `cd` into the tech-department directory that was just created
 7. explore a little using `git branch` and `git log`
 8. type in `git branch -a`. This shows the remote branches
