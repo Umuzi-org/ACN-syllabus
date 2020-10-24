@@ -5,8 +5,8 @@ title: Java Basics
 - NCIT 01: Conducting research and user interviews
 - NCIT 02: Reporting
 - NCIT 03: Research presentation
-- {{% contentlink path="topics/agile-scrum" %}}
-- {{% contentlink path="workshops/agile-scrum/" %}}
+- {{% contentlink path="agile/topics/agile-scrum" %}}
+- {{% contentlink path="agile/workshops/agile-scrum/" %}}
 - NCIT 18: Agile project management
 - NCIT 19: Agile meetings
 - {{% contentlink path="workshops/how-to-be-a-professional" %}}

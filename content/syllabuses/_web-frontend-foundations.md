@@ -22,7 +22,7 @@ title: Web frontend foundations
 - {{% contentlink path="topics/clean-code/java-script" %}}
 - {{% contentlink path="topics/how-to-ask-for-help-with-your-code" %}}
 - {{% contentlink path="projects/basic-flow-control-katas" flavour="javascript" %}}
-- {{% contentlink path="topics/agile-scrum" %}}
+- {{% contentlink path="agile/topics/agile-scrum" %}}
 - {{% contentlink path="workshops/big-picture-web-dev" %}}
 - {{% contentlink path="topics/js-and-node-specific/super-basic-intro-to-node" %}}
 - {{% contentlink path="topics/web-frontend/intro-to-web-design/" %}}

@@ -53,7 +53,7 @@ title: Web Development - No NQF
 
 - {{% contentlink path="projects/nodejs/ajax" flavour="javascript" %}}
 - {{% contentlink path="workshops/git-for-teamwork/" %}}
-- {{% contentlink path="workshops/agile-recap/" %}}
+- {{% contentlink path="agile/workshops/agile-recap/" %}}
 - {{% contentlink path="topics/web-frontend/intro-to-angular/" optional="1" %}}
 - {{% contentlink path="topics/web-frontend/react/intro-to-react" %}}
 - {{% contentlink path="topics/web-frontend/intro-to-vue/" optional="1" %}}
@@ -61,5 +61,5 @@ title: Web Development - No NQF
 - {{% contentlink path="topics/redux-intro/" optional="1" flavour="javascript" %}}
 - {{% contentlink path="topics/js-and-node-specific/mongodb/" optional="1"  %}}
 - {{% contentlink path="topics/js-and-node-specific/dotenv/"  %}}
-- {{% contentlink path="topics/agile-scrum" %}}
-- {{% contentlink path="workshops/agile-scrum/" %}}
+- {{% contentlink path="agile/topics/agile-scrum" %}}
+- {{% contentlink path="agile/workshops/agile-scrum/" %}}
