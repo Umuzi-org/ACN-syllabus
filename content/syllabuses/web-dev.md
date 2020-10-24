@@ -7,8 +7,8 @@ title: Web Development
 - NCIT 01: Conducting research and user interviews
 - NCIT 02: Reporting
 - NCIT 03: Research presentation
-- {{% contentlink path="topics/agile-scrum" %}}
-- {{% contentlink path="workshops/agile-scrum/" %}}
+- {{% contentlink path="agile/topics/agile-scrum" %}}
+- {{% contentlink path="agile/workshops/agile-scrum/" %}}
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/1-basic-javascript/"%}}
 - {{% contentlink path="workshops/big-picture-web-dev" %}}
 - NCIT 18: Agile project management
@@ -88,7 +88,7 @@ title: Web Development
 - {{% contentlink path="projects/nodejs/ajax" flavour="javascript" %}}
 
 - {{% contentlink path="workshops/git-for-teamwork/" %}}
-- {{% contentlink path="workshops/agile-recap/" %}}
+- {{% contentlink path="agile/workshops/agile-recap/" %}}
 
 - NCIT 20: Managing the Software Development Process
 - NCIT Summative assessment
