@@ -2,18 +2,23 @@
 
 We are on a mission to support as many code schools as we can. Learn more here:
 
-Learn more about the African Coding Network here:
-https://www.africancoding.network/
+Learn more about the African Coding Network here:[African coding Network](https://www.africancoding.network/) 
 
-This syllabus is a Hugo based static site (for now). But on top of that, it is the configuration of our Tilde learning platform. You can see Tilde here: https://github.com/Umuzi-org/Tilde
+
+This syllabus is a Hugo based static site (for now). But on top of that, it is the configuration of our Tilde learning platform. You can see [Tilde](https://github.com/Umuzi-org/Tilde) for more.  
 
 I'm sure you've heard of infrastructure-as-code, pipeline-as-code and other x-as-code things? Well, this is a syllabus-as-code. Our learning platform eats this up and generates a bunch of trello-like cards that move across the personal Kanban boards of students using the platform.
 
 In order to make this work, we need to be strict on the shape of the syllabus files. We have very specific naming and metadata conventions that contributors need to follow. We'll talk more about that later. But let's start by getting you set up :)
 
-This video will walk you trough the whole process. Or you can just read the docs.
+This video will walk you trough the whole process. Or you can just read the [docs](https://www.youtube.com/watch?v=j5-uaSgIGI0&feature=youtu.be).
 
-https://www.youtube.com/watch?v=j5-uaSgIGI0&feature=youtu.be
+
+
+## To contribute
+
+We are honoured by any contributions you may want to make. 
+There are lots of ways to contribute. You can improve the instructions on a specific project, add extra info to some metadata, or spin up a whole new curriculum, if interested, take a minute to read our [contribution guidelines and instructions document](https://github.com/Umuzi-org/ACN-syllabus/blob/develop/contribute.md) for any information about contributing to the project.
 
 ## To clone this repo
 
@@ -122,8 +127,3 @@ Then that means there is a contentlink that is pointint to a file that doesn't e
 
 Look inside the content directory. The documentation is composed of a bunch of markdown files (all named `_index.md`) with a lil metadata. Ok, a lot of metadata.
 
-## Contributing
-
-There are lots of ways to contribute. You can improve the instructions on a specific project, add extra info to some metadata, or spin up a whole new curriculum :)
-
-Please take a look at contribute.md. It will tell you all.

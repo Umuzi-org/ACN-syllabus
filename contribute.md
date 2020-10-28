@@ -1,18 +1,43 @@
 ---
 title: How to Contribute
 ---
+# Contributing to ACN-syllabus
 
-Hey there. I hear you want to contribute. In this document we'll breeze through all the conventions in place. A lot of this stuff is really friggin important. We have to be very strict on the structure of this repo otherwise Tilde wont be able to consume it.
+Ready to contribute? We'd love to have you on board. In this document we'll breeze through all the conventions in place. A lot of this stuff is really friggin important. We have to be very strict on the structure of this repo otherwise Tilde wont be able to consume it. Here are some guidelines we'd like you to follow so that everything can go smoothly, Ok. Let's get cracking!
 
-Ok. Let's get cracking!
+-   [Choosing something to work on](#issues)
+-   [Submitting a PR](#pr)
+-   [Directory structure](#ds)
+-   [Naming conventions](#nc)
+-   [Static resources](#sr)
+-   [A note on headings](#headings)
+-   [Syllabus directory](#syllabus)
+-   [Understanding the frontmatter](#frontmatter)
+-   [Keys and values](#keys)
+-   [Flavours](#flavours)
+-   [Topic specific stuff](#topic)
+-   [Project specific goodies](#goodies)
+-   [Depricated and unimportant](#depricated)
 
-## Some guidelines
+
+## <a name="issues"></a> Choosing something to work on
+
+The first thing you should do is go to our [issues](https://github.com/Umuzi-org/ACN-syllabus/issues ) and look for something you might be interested in working on. The issues have what we call labels that help us distinguish between available and claimed issues, issues that are simple or hard and issues for hactoberfest, it is important to look at those labels before claiming and issue, labels an issue might have are:
+- status/help wanted
+- status/issue-claimed
+- good-first-issue
+- hactoberfest and 
+-experienced devs only
+
+if an issue has the `status/issue-claimed` label please skip it and if you a beginner it is advisable to start with the issues that have the `good-first-issue` label. You can assign yourself an issue by commenting your name on the comment section inside the issue or if you feel you need help with choosing an issue or you unsure of anything you can join our [discord channel](https://discord.com/channels/758708091583332382/762669571852468254) and you will get all the help you need. 
+
+## <a name="pr"></a> Submitting a PR
 
 1. Please always run the hugo site locally and look at the site with your eyes before making a PR. If it looks weird an buggy, broken or missing, then please fix it
 2. Always run the linter before making a PR. If the linter fails then we will be sad.
 3. Dont hardcode links to content. Rather use the contentlink shortcode. Eg: {{% contentlink path="topics/web-frontend/react/intro-to-react" %}}. This renders all cool like and it is meaningful to Tilde and the linter.
 
-## Notes on directory structure
+## <a name="ds"></a> Directory structure
 
 All our course materials live inside the `content` directory.
 
@@ -24,7 +49,7 @@ There are 3 kinds of content:
 
 We used to have to seperate them all out into different directories for different things (eg: workshops all get nested under content/workshops ) but that is no longer necessary. You can add the type of content to the frontmatter. We'll talk a bit about frontmatter later.
 
-### Naming conventions
+### <a name="nc"></a> Naming Conventions
 
 Take a look at this:
 
@@ -33,7 +58,8 @@ Take a look at this:
 - all the directory names are `words-seperated-with-dashes`
 - all the markdown files are called `_index.md`
 
-### Static resources
+
+### <a name="sr"></a> Static resources
 
 We're all about that high cohesion life. So if there is an image that has something to do with a specific \_index.md file, put it in the same directory as that file.
 
@@ -43,7 +69,7 @@ For example, look at this directory:
 content/topics/kotlin/internet-data-and-images
 ```
 
-### A note on headings
+### <a name="headings"></a> A note on headings
 
 This is best shown with an example. Consider the following:
 
@@ -89,7 +115,8 @@ This results in:
 
 A heading and a subheading. Much nicer!
 
-### Syllabuses directory
+
+### <a name="syllabus"></a> Syllabus directory
 
 This directory is a special case. It doesn't have `index.md` files but rather has different `.md` files representing the different learning paths people can go through.
 
@@ -98,7 +125,7 @@ This directory is a special case. It doesn't have `index.md` files but rather ha
 - Anything that isn't a contentlink will get ignored by Tilde
 - There should be maximim one contentlink per line
 
-## Understanding the frontmatter
+## <a name="frontmatter"></a> Understanding the frontmatter
 
 You'll see that every piece of content in this repo has an `\_index.md` file. Those files are broken down into 2 parts. Frontmatter and content.
 
@@ -142,13 +169,13 @@ If we were to convert them to json:
 
 ```
 
-### Keys and values
+### <a name="keys"></a> Keys and values
 
 The frontmatter is basically a bunch of key-value pairs. Some of the values are lists, or further key-value pairs. Some are optional, some are not.
 
 Here they are:
 
-#### the simple ones:
+#### <a name="simple"></a> The simple ones:
 
 - \_db_id: Please don't touch this it's the database id of this content. It gets filled in automagically. Don't fill it in yourself. Don't even mention it in your content.
 - content_type: is a workshop, a topic or a project?
@@ -157,19 +184,20 @@ Here they are:
 - tags: sortof like how you tag your stackoverfow questions.
 - story_points: agile weights
 
-#### Flavours:
+
+#### <a name="flavours"></a> Flavours:
 
 Some projects can be done in js or typescript. Some projects can be done in any language. Some can be done in any frontend framework. Some are specfic to Angular and typescript.This is where you specify what is available. All the flavour names that are allowed can be seen in `flavours.yaml`. You can take any combination of the strings in this file.
 
 The available flavours are specified in `available_flavours`.
 
-#### Topic specific stuff
+#### <a name="topic"></a> Topic specific stuff
 
 Generally Topics turn into Tilde cards that the student can just move to complete on their own. But sometimes we want a staff member to check on the student and make sure that they did the work to a high enough quality.
 
 `topic_needs_review: true` can be added to a topic's frontmatter to signify this.
 
-#### Project specific goodies
+#### <a name="goodies"></a> Project specific goodies
 
 The `submission_type` says what form the project should take and describes how the Tilde cards should behave. It can have the following values:
 
@@ -205,7 +233,7 @@ You can also pick multiple flavours, like so:
 
 ```
 
-#### Depricated and unimportant
+#### <a name="depricated"></a> Depricated and unimportant
 
 If something is not on this list then it probably isn't important, or is irrelevant to most users.
 If something on this list isn't too detailed, please look for examples in the code base, a lot of things can be understood through simple pattern matching.
