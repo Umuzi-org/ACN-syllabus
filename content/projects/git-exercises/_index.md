@@ -23,7 +23,7 @@ This little exercise will take you through the basic git mechanisms you need to 
 
 **IMPORTANT** Make sure you go through the prerequisites listed above. Otherwise you'll be clueless!
 
-## Skillz you'll learn
+## Skills you'll learn
 
 By the end of this you are expected to know:
 
@@ -342,7 +342,7 @@ Go look at your network page. each of the dots there represent commits you made.
 3. Now there is a friendly green button that says "Clone or download". Click on it.
 4. You will see a url come up. Copy it. You will need to paste it into the terminal in a moment
 5. In your terminal type in `git clone $THE_URL_YOU_JUST_COPIED`. It should look something like this: `git clone https://github.com/Umuzi-org/a-repo-to-clone`
-6. `cd` into the tech-department directory that was just created
+6. `cd` into the `a-repo-to-clone` directory that was just created
 7. explore a little using `git branch` and `git log`
 8. type in `git branch -a`. This shows the remote branches
 9. try to checkout the branch called `project/git-basic-exercises` on your local computer. You can do it, you'll need to figure out how
