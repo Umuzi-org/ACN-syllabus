@@ -23,7 +23,7 @@ This little exercise will take you through the basic git mechanisms you need to 
 
 **IMPORTANT** Make sure you go through the prerequisites listed above. Otherwise you'll be clueless!
 
-## Skills you'll learn
+## Skillz you'll learn
 
 By the end of this you are expected to know:
 
@@ -34,7 +34,7 @@ By the end of this you are expected to know:
 - How to merge branches
 - How to overcome merge conflicts
 
-When you are finished with these excercises come re-read this section and make sure you know what all these things mean.
+When you are finished with these exercises come re-read this section and make sure you know what all these things mean.
 
 ## Creating and managing your own repo
 
@@ -112,16 +112,16 @@ Why would you want to do this? Well, it's very useful to be able to go back and 
 
 ### branching
 
-The real power of git is in branching. Branching is what allows big teams of developers to work on the same code base. Basiclly differnt developers make branches for different things and then those branches can be merged together into one mighty application.
+The real power of git is in branching. Branching is what allows big teams of developers to work on the same code base. Basically different developers make branches for different things and then those branches can be merged together into one mighty application.
 
-**Please Note** At some point during this excercise you'll get an error message! It'll say something about a merge conflict. DONT PANIC! Merge conflicts are a fact of life and you'll need to figure out how to fix it. (This)[https://opensource.com/article/20/4/git-merge-conflict] should help.
+**Please Note** At some point during this exercise you'll get an error message! It'll say something about a merge conflict. DON'T PANIC! Merge conflicts are a fact of life and you'll need to figure out how to fix it. (This)[https://opensource.com/article/20/4/git-merge-conflict] should help.
 
 Let's explore branching a little bit.
 
 1. `git branch` This lists all your branches. Git makes a branch named `main` by default
 2. Now create a new branch called `milkshake-flavours`. git is not too restrictive when it comes to naming our branches. It's generally best to choose a name that has something to do with what the branch is for. Our branch is about milkshakes
 3. type in `git branch`. Notice the little `*`.
-4. check out your new branch. type in `git branch` again and look at the `*`. Can you see what it means? Try switching between the different branches and see how hings change.
+4. check out your new branch. type in `git branch` again and look at the `*`. Can you see what it means? Try switching between the different branches and see how things change.
 5. Make sure you are on the `milkshake-flavours` branch then type in `nano milkshakes.md` and write fill in a few flavours. Mmmm. save and exit
 6. what does `git status` tell you?
 7. commit your new file with the message `"added initial flavours"`
@@ -353,7 +353,7 @@ Go look at your network page. each of the dots there represent commits you made.
 1. While still in your newly created branch `project/git-basic-exercises` use `git log` to see the history.
 2. From your new branch called `project/git-basic-exercises`navigate back to your `git-basic-exercises` repo, use `git log` again to see the difference.
 3. Let's go back to our home directory `cd` and make a new folder `mkdir this-will-be-another-repo`
-4. cd into this folder now use `git init` to initilise a new git repo here, you should get a message in terminal that says 'Initialized empty Git repository in /home/\$specific-path/this-will-be-another-repo/.git/'
+4. cd into this folder now use `git init` to initialize a new git repo here, you should get a message in terminal that says 'Initialized empty Git repository in /home/\$specific-path/this-will-be-another-repo/.git/'
 5. Type in `touch README.md`. This creates a new blank file. Stage then commit.
 6. Go back to your `git-basic-exercises` repo and use `git log` to check that you are in the right place and repo.
 
