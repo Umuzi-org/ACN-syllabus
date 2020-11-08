@@ -6,6 +6,7 @@ content_type: project
 prerequisites:
   hard:
   - topics/messaging/honor-code
+  - projects/git-exercises
 ready: true
 submission_type: link
 title: Pre bootcamp coding challenges
