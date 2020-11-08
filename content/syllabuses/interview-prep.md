@@ -8,3 +8,5 @@ title: Coder Mock Interviews
 - {{% contentlink path="topics/work/creating-a-statement" %}}
 - {{% contentlink path="topics/work/mock-interview-survey" %}}
 - {{% contentlink path="topics/work/mock-interview" %}}
+- {{% contentlink path="professionalism/business-selfie" %}}
+- {{% contentlink path="professionalism/time-management-in-coding-tests" %}}

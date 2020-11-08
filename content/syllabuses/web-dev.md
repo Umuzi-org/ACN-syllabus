@@ -4,6 +4,7 @@ title: Web Development
 
 - Introduction to NCIT curriculum
 
+- {{% contentlink path="topics/bridging-course-soft-skills/learning-how-to-learn" %}}
 - NCIT 01: Conducting research and user interviews
 - NCIT 02: Reporting
 - NCIT 03: Research presentation
@@ -22,6 +23,7 @@ title: Web Development
 - NCIT 04: Version control (GIT) for teamwork
 - {{% contentlink path="topics/js-and-node-specific/super-basic-intro-to-node" %}}
 - {{% contentlink path="topics/how-to-ask-for-help-with-your-code" %}}
+- {{% contentlink path="language-agnostic/intro-to-hackerrank" flavour="javascript" %}}
 
 - {{% contentlink path="projects/basic-flow-control-katas" flavour="javascript" %}}
 

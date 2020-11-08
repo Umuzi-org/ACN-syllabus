@@ -15,6 +15,8 @@ title: Java Basics
 - {{% contentlink path="projects/basic-flow-control-katas" flavour="java" %}}
 - {{% contentlink path="projects/first-personal-website" %}}
 - {{% contentlink path="topics/how-to-ask-for-help-with-your-code" %}}
+- {{% contentlink path="language-agnostic/intro-to-hackerrank" flavour="java" %}}
+
 - {{% contentlink path="workshops/big-picture-web-dev" %}}
 
 - NCIT 10: Workshop: Giving and receiving constructive feedback
