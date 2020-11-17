@@ -16,6 +16,7 @@ defaultContentLanguageInSubdir= true
   disableBreadcrumb = false
   disableNextPrev = true
   themeVariant="green"
+  disableLandingPageButton = true
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]

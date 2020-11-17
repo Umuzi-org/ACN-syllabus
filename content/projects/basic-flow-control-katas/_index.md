@@ -1,7 +1,7 @@
 ---
 _db_id: 219
 available_flavours:
-- any_language
+  - any_language
 content_type: project
 ready: true
 story_points: 3
@@ -9,7 +9,7 @@ submission_type: repo
 title: Level 1 programming katas
 ---
 
-These Exercises are here to help you test out and demonstrate your knowledge of the basic flow control mechanisms and syntax for your language. These Exercises are relevent whether you are doing Java, JavaScrupt, Python, Kotlin or any other modern language.
+These Exercises are here to help you test out and demonstrate your knowledge of the basic flow control mechanisms and syntax for your language. These Exercises are relevant whether you are doing Java, JavaScript, Python, Kotlin or any other modern language.
 
 Please follow best practices when doing this work!
 
@@ -18,11 +18,11 @@ Please follow best practices when doing this work!
 
 ## Note
 
-The Exercises below are meant to be language-agnostic. If we use the word `print` in an Exercise description then we mean output it to the terminal/console/stdout. We dont mean print to a printer, and we dont want a gui. These exercises just spit out some text.
+The Exercises below are meant to be language-agnostic. If we use the word `print` in an Exercise description then we mean output it to the terminal/console/stdout. We don't mean print to a printer, and we don't want a gui. These exercises just spit out some text.
 
 ## Note to web devs
 
-Please dont submit any HTML or CSS. Please don't use `document.write`. We are interested in seeing how you implement these algorithms.
+Please don't submit any HTML or CSS. Please don't use `document.write`. We are interested in seeing how you implement these algorithms.
 
 ## What does success look like
 
