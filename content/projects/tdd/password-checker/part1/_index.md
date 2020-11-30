@@ -105,29 +105,37 @@ password_is_valid(password)
 4. password should have at least one uppercase letter
 5. password should at least have one digit
 6. password should have at least one special character
+7. password should have at least one whitespace character
 
 In the case of (6) above, a special character is a character that is on the keyboard but is not a number or letter. Eg `{ % & * " '` etc
 
-Next, implement a function called password is ok:
+Next, implement a function called "password strength":
 
 ```
 // Javascript:
-passwordIsOk(password)
+passwordStrength(password)
 ```
 
 ```
 // Java:
-passwordIsOk(password)
+passwordStrength(password)
 ```
 
 ```
 # Python:
-password_is_ok(password)
+password_strength(password)
 ```
 
-If the given password meets at least three of the conditions listed above then this function should return true, otherwise it should return false.
+This function should count the number of conditions met and then return a string that describes the strength of the password. Valid strings are "invalid", "weak","medium" and "strong".
 
-Add a feature: the password is never OK if conditions 1 and 2 are not met.
+- If number of conditions met >= 6: return "strong"
+- If number of conditions met >= 4: return "medium"
+- If number of conditions met >= 3: return "weak"
+- If conditions 1 or 2 are not met: return "invalid"
+
+## Note on DRY code
+
+Please don't re-implement the same check in two different places. Good code is DRY. Every piece of knowledge should be represented once in your code.
 
 ## JS Resources
 
