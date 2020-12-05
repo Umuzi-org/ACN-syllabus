@@ -51,7 +51,7 @@ If you look at the project details you'll see that a repo has been created for y
 
 ### 1. Make a branch
 
-Create a branch. In your branch add a markdown file. This is a plain text file with the extension `.md`. You can create one of these with ny old text editer. We'll learn more about markdown later, it's a useful tool for documenting projects.
+Create a branch. In your branch add a markdown file. This is a plain text file with the extension `.md`. You can create one of these with any old text editor. We'll learn more about markdown later, it's a useful tool for documenting projects.
 
 In your markdown file, just write some stuff. Whatever you want really. Make a new commit on your branch with your new content.
 
