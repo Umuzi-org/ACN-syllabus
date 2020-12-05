@@ -60,7 +60,7 @@ If you haven't got relevant experience, don't worry! We're all about giving peop
 
 #### 5. What makes you think you'll succeed as a coder? [<= 300 words]
 
-What makes yuo think you have what it takes? What traits or attributes do you have that will be useful in this setting? Maybe it's past experience? Maybe you have an IQ of 203. Maybe you are good at asking questions.
+What makes you think you have what it takes? What traits or attributes do you have that will be useful in this setting? Maybe it's past experience? Maybe you have an IQ of 203. Maybe you are good at asking questions.
 
 #### 6. What might get in the way of your success? [<= 300 words]
 
