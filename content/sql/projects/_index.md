@@ -1,12 +1,12 @@
 ---
 _db_id: 200
 available_flavours:
-  - none
+- none
 content_type: project
 prerequisites:
   hard:
-    - sql/topics/intro-to-relational-databases
-    - topics/intro-to-docker/
+  - sql/topics/intro-to-relational-databases
+  - topics/intro-to-docker/
   soft: []
 ready: true
 story_points: 3

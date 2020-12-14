@@ -1,4 +1,5 @@
 ---
+_db_id: 617
 content_type: topic
 ready: true
 title: facebook marketing
@@ -15,4 +16,3 @@ The theory of Facebook marketing is taught through Facebook’s own website thro
 Practice of the skill: Supporting the recruitment manager to set up Facebook marketing campaigns during the organisation’s recruitment drives.
 
 Recruits apply the skill in recruitment where they work with the recruitment manager to develop Facebook ads which are the primary source Umuzi applicants.
-

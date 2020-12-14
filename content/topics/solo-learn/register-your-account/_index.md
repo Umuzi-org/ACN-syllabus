@@ -1,8 +1,9 @@
 ---
+_db_id: 619
+available_flavours:
+- none
 content_type: project
 submission_type: link
-available_flavours:
-  - none
 title: Register for a Sololearn Account
 ---
 

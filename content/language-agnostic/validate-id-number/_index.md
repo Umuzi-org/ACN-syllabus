@@ -1,12 +1,13 @@
 ---
-title: Validate a South African ID number
-tags:
-  - tdd
-  - problem-solving
+_db_id: 625
+available_flavours:
+- any_language
 content_type: project
 submission_type: repo
-available_flavours:
-  - any_language
+tags:
+- tdd
+- problem-solving
+title: Validate a South African ID number
 ---
 
 In this project we'll be practicing Test Driven Development while solving a validation problem.

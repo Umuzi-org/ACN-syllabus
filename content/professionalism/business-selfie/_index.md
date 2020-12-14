@@ -1,9 +1,10 @@
 ---
-title: Business selfie
+_db_id: 622
+available_flavours:
+- none
 content_type: project
 submission_type: link
-available_flavours:
-  - none
+title: Business selfie
 ---
 
 When interviewing for a job, it's really important to show up looking like you are there to do business. But sometimes choosing the right clothes can be hard.

@@ -1,10 +1,11 @@
 ---
+_db_id: 615
 content_type: topic
 ready: true
-title: SQL
+title: SQL for strat
 ---
 
-Building query tables, Umuzi Strategists are able to merge various data sources that the organisation collects. This data is used by the organisation to find effective solutions.
+Building query tables, Umuzi Strategists are able to merge various data sources that the organization collects. This data is used by the organization to find effective solutions.
 
 How recruits learn the tool:
 

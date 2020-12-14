@@ -1,4 +1,5 @@
 ---
+_db_id: 616
 content_type: topic
 ready: true
 title: Google Sheets
@@ -12,4 +13,4 @@ Our recruits can work with sheets competently to store and analyse data. Theory 
 
 How recruits learn the skill and associated tools:
 
-Throughout the learnership recruits interact with Google sheets to store, manage, and analyse real umuzi data from different branches of the organisation under the supervision of their manager.   
+Throughout the learnership recruits interact with Google sheets to store, manage, and analyse real umuzi data from different branches of the organisation under the supervision of their manager.

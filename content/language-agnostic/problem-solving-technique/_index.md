@@ -1,6 +1,7 @@
 ---
-title: "Problem decomposition"
+_db_id: 626
 content_type: topic
+title: Problem decomposition
 ---
 
 As a coder, your job is to write code that solves problems. Problems that nobody has ever seen before! Problems that can't be Googled or YouTubed! Problems where the answers don't even exist on StackOverflow!

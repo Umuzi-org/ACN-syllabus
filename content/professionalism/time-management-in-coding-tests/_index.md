@@ -1,6 +1,8 @@
 ---
+_db_id: 621
+content_type: workshop
+ready: true
 title: How to plan your time during a coding test
-ready: True
 ---
 
 It is common practice for companies to get job applicants to write tests as part of their interview process. So if you want a good job, you should have the skills needed to pass the tests given!

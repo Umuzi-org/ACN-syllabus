@@ -1,12 +1,12 @@
 ---
 _db_id: 416
 available_flavours:
-  - any_language
+- any_language
 content_type: project
 prerequisites:
   hard:
-    - topics/messaging/honor-code
-    - projects/git-exercises
+  - topics/messaging/honor-code
+  - projects/git-exercises
 ready: true
 submission_type: link
 title: Level 0 coding challenges

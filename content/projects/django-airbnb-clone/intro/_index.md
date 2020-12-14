@@ -1,16 +1,16 @@
 ---
 _db_id: 539
 available_flavours:
-  - django
+- django
 content_type: project
 prerequisites:
   hard:
-    - topics/git-feature-branching
-    - topics/django/official-tutorial/part-1
+  - topics/git-feature-branching
+  - topics/django/official-tutorial/part-1
   soft: []
+ready: true
 submission_type: repo
 title: CloudBnb - intro
-ready: True
 ---
 
 In this project we'll be building out a simple version of Airbnb. By the end there will be a lot of cool functionality. But we'll do it piece by piece.

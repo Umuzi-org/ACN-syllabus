@@ -1,16 +1,16 @@
 ---
 _db_id: 542
 available_flavours:
-  - django
+- django
 content_type: project
 from_repo: projects/django-airbnb-clone/intro
 prerequisites:
   hard:
-    - projects/django-airbnb-clone/intro
+  - projects/django-airbnb-clone/intro
   soft: []
+ready: true
 submission_type: continue_repo
 title: CloudBnb - Expose apis to be consumed by modern mobile app
-ready: True
 ---
 
 Django is great and all but the frontend it renders using views and templates is a little bit limited.

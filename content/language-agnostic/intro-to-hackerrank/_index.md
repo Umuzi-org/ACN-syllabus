@@ -1,12 +1,13 @@
 ---
+_db_id: 627
 available_flavours:
-  - any_language
+- any_language
 content_type: project
 submission_type: link
 tags:
-  - data structures
-  - algorithms
-  - problem solving
+- data structures
+- algorithms
+- problem solving
 title: Get started with Hackerrank
 ---
 

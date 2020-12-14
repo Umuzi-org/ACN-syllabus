@@ -1,8 +1,8 @@
 ---
 _db_id: 123
 content_type: topic
+ready: true
 title: Java project submission requirements
-ready: True
 ---
 
 As a junior developer working on a team of professionas, your code will always have to conform to a certain shape. You will always need to write code that plays nicely with the code and mechanisms that are in place.

@@ -1,11 +1,11 @@
 ---
 _db_id: 128
 content_type: topic
-ready: true
-title: Logging in Node and JS
 prerequisites:
   hard:
-    - topics/logging
+  - topics/logging
+ready: true
+title: Logging in Node and JS
 ---
 
 **Why we would like to log**

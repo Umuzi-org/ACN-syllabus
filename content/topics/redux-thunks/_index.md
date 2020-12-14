@@ -5,8 +5,8 @@ prerequisites:
   hard:
   - topics/redux-intro
   soft: []
+ready: true
 title: Redux Thunks
-ready: True
 ---
 
 As we know, redux changes application state upon instructions or events like a mouse or button click that the user initiates. Redux-thunk is a tool that puts those instructions into a queue and makes sure each instruction is performed one at a time.

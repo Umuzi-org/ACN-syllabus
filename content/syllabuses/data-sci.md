@@ -39,6 +39,7 @@ title: "Data Science"
 - {{% contentlink path="projects/data-science-specific/data-wrangling" flavour="python" %}}
 - {{% contentlink path="projects/data-science-specific/cross-validation-and-simple-linear-regression/" flavour="python" %}}
 - {{% contentlink path="projects/data-science-specific/multivariate-linear-regression" flavour="python" %}}
+- {{% contentlink path="projects/oop/animals/part2"  flavour="python" %}}
 - NCIT 13: Object-oriented programming
 - {{% contentlink path="topics/how-the-internet-works" %}}
 - {{% contentlink path="topics/data-ethics-and-privacy" %}}

@@ -1,7 +1,7 @@
 ---
 _db_id: 219
 available_flavours:
-  - any_language
+- any_language
 content_type: project
 ready: true
 story_points: 3
