@@ -1,12 +1,12 @@
 ---
 _db_id: 254
 content_type: topic
-ready: true
-title: Logistic regression
 prerequisites:
   hard:
   - projects/data-science-specific/cross-validation-and-simple-linear-regression
   - projects/data-science-specific/multivariate-linear-regression
+ready: true
+title: Logistic regression
 ---
 
 ### Read and understand both of the articles linked below
