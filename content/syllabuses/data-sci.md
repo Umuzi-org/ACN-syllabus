@@ -50,7 +50,7 @@ title: "Data Science"
 - NCIT 14: Database Development
 - {{% contentlink path="sql/projects/" %}}
 - NCIT 15: Analytics, Surveys, and Reports / Input & Output
-- {{% contentlink path="projects/data-science-specific/logistic-regression" %}}
+- {{% contentlink path="projects/data-science-specific/logistic-regression/breast-cancer" %}}
 - {{% contentlink path="agile/agile-scrum-slides/" %}}
 - {{% contentlink path="projects/data-science-specific/decision-trees" flavour="python"%}}
 - NCIT 16: Thinking like a machine / Boolean algebra, logic
