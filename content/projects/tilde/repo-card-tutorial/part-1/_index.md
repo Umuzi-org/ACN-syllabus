@@ -37,7 +37,7 @@ Also note that you will get invitations to collaborate on other people's repos f
 
 I'm going to tell you a little secret. Working with junior developers is annoying. Generally when a junior developer gets their first job and have to interact with a serious code base and a team of mid and senior developers, they just bump their heads on git for weeks. Even if they know how to write code, they dont know how to write code on a team.
 
-Generally when you work on a serious project with a serious team, you'll need to incorperate your code into their repo. So we want you to start practicing now.
+Generally when you work on a serious project with a serious team, you'll need to incorporate your code into their repo. So we want you to start practicing now.
 
 I admit it might feel a little weird at first, but you'll get used to it :)
 
