@@ -19,7 +19,7 @@ Tilde, and our projects, tests and other content exist to help you learn, and to
 
 1. If we give you a test, then your answers will be your own. You will not copy people.
 2. If we give you a project to do, you do it yourself. You can ask for help with understanding, but you need to code it yourself
-3. If anyone tried to copy your work, say no. Tell them why it's a bad idea and help them understand the work
+3. If anyone tries to copy your work, say no. Tell them why it's a bad idea and help them understand the work
 4. If you get stuck, ask for help. If you think someone else needs help, be brave enough to ask the "stupid questions".
 5. If you see someone who is engaging in dishonest activity, tell a staff member! If you are reviewing someone's work and it looks like they copied, you can give it a RED FLAG and add a comment showing where they copied work from.
 6. Be nice. Be respectful. Be helpful. If you have any meetings or workshops, be on time.
@@ -28,7 +28,7 @@ Tilde, and our projects, tests and other content exist to help you learn, and to
 
 ## Why does understanding matter?
 
-If you graduate and get a job, you will expected to solve new problems. You will be expected to create things that nobody has created before. There wont be anyone to copy from, there wont be a way to cheat or hide from the system.
+If you graduate and get a job, you will expected to solve new problems. You will be expected to create things that nobody has created before. There won't be anyone to copy from, there won't be a way to cheat or hide from the system.
 
 If you want a solid career, understanding is golden.
 
