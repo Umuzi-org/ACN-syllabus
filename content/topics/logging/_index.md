@@ -5,13 +5,9 @@ ready: true
 title: Logging
 ---
 
-Through the development process logging helps us evaluate computation which we might be uncertain about, or show us what is happening during runtime where we have little control. Its like a third eye helping us see things that we might otherwise finding very difficult to see.
-
-## What?
-
 Logging is basically getting your program to write stuff down. You are already familiar with printing things out to the console or screen, logging is like that but on steroids.
 
-Basically when a program runs in a production environment, logs let us keep track of what it is doing over time. A log is a series of messages that get printed or sent somewhere. They might be stored in a file, or sent over a network to a special logging service, or (during development) you might want to just see log messages on your screen.
+Basically when a program runs in a production environment (eg on a server on the cloud), logs let us keep track of what it is doing over time. A log is a series of messages that get printed or sent somewhere. They might be stored in a file, or sent over a network to a special logging service, or (during development) you might want to just see log messages on your screen.
 
 ## Why?
 

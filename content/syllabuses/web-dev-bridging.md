@@ -9,7 +9,6 @@ You should be completeing one Sololearn Goal each week along with the soft skill
 
 - {{% contentlink path="topics/bridging-course-soft-skills/learning-how-to-learn" %}}
 - {{% contentlink path="topics/test-driven-development" %}}
-- {{% contentlink path="workshops/effective-communication" %}}
 - {{% contentlink path="topics/solo-learn/javascript/conditionals-and-loops" %}}
 - {{% contentlink path="topics/curious-learning-and-research" %}}
 - {{% contentlink path="topics/bridging-course-soft-skills/developer-habits" %}}

@@ -4,11 +4,12 @@ title: Web Development
 
 - Introduction to NCIT curriculum
 
+- {{% contentlink path="topics/bridging-course-soft-skills/learning-how-to-learn" %}}
 - NCIT 01: Conducting research and user interviews
 - NCIT 02: Reporting
 - NCIT 03: Research presentation
-- {{% contentlink path="topics/agile-scrum" %}}
-- {{% contentlink path="workshops/agile-scrum/" %}}
+- {{% contentlink path="agile/agile-scrum" %}}
+- {{% contentlink path="agile/agile-scrum-slides/" %}}
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/1-basic-javascript/"%}}
 - {{% contentlink path="workshops/big-picture-web-dev" %}}
 - NCIT 18: Agile project management
@@ -22,12 +23,13 @@ title: Web Development
 - NCIT 04: Version control (GIT) for teamwork
 - {{% contentlink path="topics/js-and-node-specific/super-basic-intro-to-node" %}}
 - {{% contentlink path="topics/how-to-ask-for-help-with-your-code" %}}
+- {{% contentlink path="language-agnostic/intro-to-hackerrank" flavour="javascript" %}}
 
 - {{% contentlink path="projects/basic-flow-control-katas" flavour="javascript" %}}
 
-- {{% contentlink path="topics/free-code-camp/responsive-web-design/basic-html-and-html-5" %}}
-- {{% contentlink path="topics/free-code-camp/responsive-web-design/basic-css" %}}
-- {{% contentlink path="topics/free-code-camp/responsive-web-design/applied-visual-design" %}}
+- {{% contentlink path="topics/free-code-camp/responsive-web-design/1-basic-html-and-html-5" %}}
+- {{% contentlink path="topics/free-code-camp/responsive-web-design/2-basic-css" %}}
+- {{% contentlink path="topics/free-code-camp/responsive-web-design/3-applied-visual-design" %}}
 
 * {{% contentlink path="workshops/intro-to-css-architecture" %}}
 * {{% contentlink path="topics/web-frontend/intro-to-web-design/" %}}
@@ -46,9 +48,9 @@ title: Web Development
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/5-basic-data-structures" %}}
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/6-basic-algorithmic-scripting" %}}
 
-* {{% contentlink path="topics/free-code-camp/responsive-web-design/applied-accessability" %}}
-* {{% contentlink path="topics/free-code-camp/responsive-web-design/responsive-web-design-principles" %}}
-* {{% contentlink path="topics/free-code-camp/responsive-web-design/css-flexbox" optional="1" %}}
+* {{% contentlink path="topics/free-code-camp/responsive-web-design/4-applied-accessability" %}}
+* {{% contentlink path="topics/free-code-camp/responsive-web-design/5-responsive-web-design-principles" %}}
+* {{% contentlink path="topics/free-code-camp/responsive-web-design/6-css-flexbox" optional="1" %}}
 
 - {{% contentlink path="projects/semitone-challenge/gui-part-2"  flavour="javascript,noframework" %}}
 - {{% contentlink path="topics/js-and-node-specific/logging" %}}
@@ -66,7 +68,7 @@ title: Web Development
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/8-functional-programming" %}}
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/9-intermediate-algorithmic-scripting" %}}
 
-* {{% contentlink path="topics/free-code-camp/responsive-web-design/css-grid" %}}
+* {{% contentlink path="topics/free-code-camp/responsive-web-design/7-css-grid" %}}
 
 - {{% contentlink path="topics/unit-testing-mocks-and-spies" %}}
 - {{% contentlink path="topics/basic-architecture-concepts" %}}
@@ -88,7 +90,6 @@ title: Web Development
 - {{% contentlink path="projects/nodejs/ajax" flavour="javascript" %}}
 
 - {{% contentlink path="workshops/git-for-teamwork/" %}}
-- {{% contentlink path="workshops/agile-recap/" %}}
 
 - NCIT 20: Managing the Software Development Process
 - NCIT Summative assessment

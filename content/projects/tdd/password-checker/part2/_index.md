@@ -16,7 +16,7 @@ tags:
 title: Add logging to password checker
 ---
 
-In part one of this excercise you created two functions. Now you are going to upgrade that program by adding some logging capabilities.
+In part one of this exercise you created two functions. Now you are going to upgrade that program by adding some logging capabilities.
 
 1. Whenever `passwordIsOk` returns true, log the following message
 

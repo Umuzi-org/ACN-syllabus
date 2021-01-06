@@ -13,9 +13,11 @@ ready: true
 title: Progressive Web Apps.
 ---
 
+- Read through topic materials and follow tutorials and create your own repo to work from to concrete your understanding.
+
 ### A focus on PWA with Ionic.
 
-[Building Progressive Web Apps with Ionic](https://app.pluralsight.com/library/courses/progressive-web-apps-ionic/table-of-contents)
+[Building Progressive Web Apps with Ionic](https://www.joshmorony.com/topics/progressive-web-application-tutorials/)
 
 ### Toast
 

@@ -50,6 +50,7 @@ This site that you are looking at is a repo stored on git. This is cool because 
 - if you see a typo you can fix it
 - If you think one of our projects can be explained better then you can add more explanation
 
-[Here](https://github.com/Umuzi-org/tech-department) is the repo, and [this guide](/how-to-contribute) tells you a bit about what we ae looking for.
 
-Contributing to our syllabus is not compulsory, but it would be appreciated :)
+[Here](https://github.com/Umuzi-org/ACN-syllabus) is the repo.
+
+If you even make a small improvement, it will be a big deal! Thousands of people use this content :)

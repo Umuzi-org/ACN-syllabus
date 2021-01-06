@@ -1,20 +1,15 @@
 ---
 _db_id: 254
-content_type: project
+content_type: topic
 ready: true
-submission_type: nosubmit
 title: Logistic regression
+prerequisites:
+  hard:
+  - projects/data-science-specific/cross-validation-and-simple-linear-regression
+  - projects/data-science-specific/multivariate-linear-regression
 ---
 
-## Background material
+### Read and understand both of the articles linked below
 
 [Sensitivity and specificity](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)  
 [Understanding ROC curves with Python](https://stackabuse.com/understanding-roc-curves-with-python/)
-
-## Assignment 1
-
-Complete and submit a copy of {{% contentlink path="projects/data-science-specific/logistic-regression/credit-card-approvals" %}}.
-
-## Assignment 2
-
-Complete and submit {{% contentlink path="projects/data-science-specific/logistic-regression/breast-cancer" %}}. For your submission, create an html report to accompany your notebook in your repo.

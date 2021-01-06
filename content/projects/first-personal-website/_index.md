@@ -5,8 +5,8 @@ available_flavours:
 content_type: project
 prerequisites:
   hard:
-  - topics/free-code-camp/responsive-web-design/basic-html-and-html-5
-  - topics/free-code-camp/responsive-web-design/basic-css
+  - topics/free-code-camp/responsive-web-design/1-basic-html-and-html-5
+  - topics/free-code-camp/responsive-web-design/2-basic-css
   - topics/what-to-put-in-your-cv
   - topics/web-frontend/intro-to-web-design/
 ready: true

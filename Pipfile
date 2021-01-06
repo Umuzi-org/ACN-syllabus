@@ -1,0 +1,15 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+python-frontmatter = ">=0.4.5"
+fire = ">=0.3.0"
+youtube_dl = ">=2020.3.8"
+urllib3 = "==1.25.9"
+
+[requires]
+python_version = "3.8"

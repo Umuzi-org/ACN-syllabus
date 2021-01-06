@@ -1,18 +1,18 @@
 ---
 _db_id: 548
 available_flavours:
-  - django
+- django
 content_type: project
 from_repo: projects/django-airbnb-clone/intro
 prerequisites:
   hard:
-    - projects/django-airbnb-clone/intro
-    - topics/django/official-tutorial/part-2
-    - topics/django/understanding-migrations
+  - projects/django-airbnb-clone/intro
+  - topics/django/official-tutorial/part-2
+  - topics/django/understanding-migrations
   soft: []
+ready: true
 submission_type: continue_repo
 title: CloudBnb - Basic Property model and admin panel
-ready: True
 ---
 
 ## Instructions

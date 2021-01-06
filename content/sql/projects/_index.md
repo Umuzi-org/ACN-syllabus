@@ -5,7 +5,7 @@ available_flavours:
 content_type: project
 prerequisites:
   hard:
-  - topics/intro-to-relational-databases
+  - sql/topics/intro-to-relational-databases
   - topics/intro-to-docker/
   soft: []
 ready: true

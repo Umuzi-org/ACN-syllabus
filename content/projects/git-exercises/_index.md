@@ -34,7 +34,7 @@ By the end of this you are expected to know:
 - How to merge branches
 - How to overcome merge conflicts
 
-When you are finished with these excercises come re-read this section and make sure you know what all these things mean.
+When you are finished with these exercises come re-read this section and make sure you know what all these things mean.
 
 ## Creating and managing your own repo
 
@@ -56,7 +56,7 @@ Note: you can do all of this stuff from the command line! You should be using li
     Your output should be something like this:
 
 ```
- [master (root-commit) 2103b64] initial commit
+ [main (root-commit) 2103b64] initial commit
  1 file changed, 0 insertions(+), 0 deletions(-)
  create mode 100644 README.md
 ```
@@ -76,7 +76,7 @@ Note: you can do all of this stuff from the command line! You should be using li
 1. type in `git log`. You should see all your commits there. It should look something like this:
 
 ```
-commit a57585d3cf93e64c04e62e58dfe8151d191503cf (HEAD -> master)
+commit a57585d3cf93e64c04e62e58dfe8151d191503cf (HEAD -> main)
 Author: Sheena O'Connell <sheena.oconnell@gmail.com>
 Date:   Tue Apr 23 15:07:40 2019 +0200
 
@@ -101,7 +101,7 @@ Each commit has a "hash". That's the weird alphanumeric string thingy, eg `2103b
 3. press q to exit the log view. You should now be back at the terminal
 4. type in `git checkout` and then paste in the commit hash and press enter
 5. `cat README.md` It's like going back in time...
-6. `git checkout master`
+6. `git checkout main`
 7. `cat README.md` Now we are up to date
 
 You can jump to any commit using `git checkout`. You can checkout a branch, a commit hash, or a tag. We didn't explore tags here.
@@ -112,25 +112,25 @@ Why would you want to do this? Well, it's very useful to be able to go back and 
 
 ### branching
 
-The real power of git is in branching. Branching is what allows big teams of developers to work on the same code base. Basiclly differnt developers make branches for different things and then those branches can be merged together into one mighty application.
+The real power of git is in branching. Branching is what allows big teams of developers to work on the same code base. Basically different developers make branches for different things and then those branches can be merged together into one mighty application.
 
-**Please Note** At some point during this excercise you'll get an error message! It'll say something about a merge conflict. DONT PANIC! Merge conflicts are a fact of life and you'll need to figure out how to fix it. (This)[https://opensource.com/article/20/4/git-merge-conflict] should help.
+**Please Note** At some point during this exercise you'll get an error message! It'll say something about a merge conflict. DON'T PANIC! Merge conflicts are a fact of life and you'll need to figure out how to fix it. (This)[https://opensource.com/article/20/4/git-merge-conflict] should help.
 
 Let's explore branching a little bit.
 
-1. `git branch` This lists all your branches. Git makes a branch named `master` by default
+1. `git branch` This lists all your branches. Git makes a branch named `main` by default
 2. Now create a new branch called `milkshake-flavours`. git is not too restrictive when it comes to naming our branches. It's generally best to choose a name that has something to do with what the branch is for. Our branch is about milkshakes
 3. type in `git branch`. Notice the little `*`.
-4. check out your new branch. type in `git branch` again and look at the `*`. Can you see what it means? Try switching between the different branches and see how hings change.
+4. check out your new branch. type in `git branch` again and look at the `*`. Can you see what it means? Try switching between the different branches and see how things change.
 5. Make sure you are on the `milkshake-flavours` branch then type in `nano milkshakes.md` and write fill in a few flavours. Mmmm. save and exit
 6. what does `git status` tell you?
 7. commit your new file with the message `"added initial flavours"`
 8. take a look at your git log again. It should make sense
-9. checkout your master branch. It'll look a little different. Can you see why?
-10. from your master branch, create a new branch called `history` and check it out. If you say `git log` it should only have three commits. And if you use `git branch` you should see 3 branches! **This is important!**
+9. checkout your main branch. It'll look a little different. Can you see why?
+10. from your main branch, create a new branch called `history` and check it out. If you say `git log` it should only have three commits. And if you use `git branch` you should see 3 branches! **This is important!**
 11. type in `history > history.txt`. Can you guess what it does?
 12. commit your changes with the message `"added history"`. Take a look at the `git log`
-13. now checkout your milkshake branch and look at the `git log`. it should have your three master commits and your one milkshake commit
+13. now checkout your milkshake branch and look at the `git log`. it should have your three main commits and your one milkshake commit
 14. make some arbitrary changes to the readme file and make a new commit with the message `"random readme changes"`
 15. checkout `history` again and `cat README.md`
 16. now on your history branch do the following:
@@ -143,7 +143,7 @@ echo "booya" > README.md
 You should know what these lines do.
 
 17. commit your changes. Use the commit message `"rewrote readme"`
-18. checkout master again
+18. checkout main again
 
 ### Just make sure we are still on track
 
@@ -152,7 +152,7 @@ If you have followed along up until this point then your branches should look li
 Type in:
 
 ```
-git checkout master
+git checkout main
 ls
 ```
 
@@ -171,7 +171,7 @@ git log
 this outputs something like:
 
 ```
-commit a57585d3cf93e64c04e62e58dfe8151d191503cf (HEAD -> master)
+commit a57585d3cf93e64c04e62e58dfe8151d191503cf (HEAD -> main)
 Author: Sheena O'Connell <sheena.oconnell@gmail.com>
 Date:   Tue Apr 23 15:07:40 2019 +0200
 
@@ -212,7 +212,7 @@ Date:   Tue Apr 23 15:25:07 2019 +0200
 
     added initial flavours
 
-commit a57585d3cf93e64c04e62e58dfe8151d191503cf (master)
+commit a57585d3cf93e64c04e62e58dfe8151d191503cf (main)
 Author: Sheena O'Connell <sheena.oconnell@gmail.com>
 Date:   Tue Apr 23 15:07:40 2019 +0200
 
@@ -259,7 +259,7 @@ Date:   Tue Apr 23 15:36:04 2019 +0200
 
     added history
 
-commit a57585d3cf93e64c04e62e58dfe8151d191503cf (master)
+commit a57585d3cf93e64c04e62e58dfe8151d191503cf (main)
 Author: Sheena O'Connell <sheena.oconnell@gmail.com>
 Date:   Tue Apr 23 15:07:40 2019 +0200
 
@@ -280,19 +280,19 @@ Date:   Tue Apr 23 14:43:51 2019 +0200
 
 ### merging
 
-Now we want to get the master up to date with all out changes. Let's start with the milkshake branch
+Now we want to get the main up to date with all out changes. Let's start with the milkshake branch
 
-1. merge milkshake-flavours into master
+1. merge milkshake-flavours into main
 
 ```
-git checkout master
+git checkout main
 git merge milkshake-flavours
 ```
 
 2. Use `ls` and `git log` to see what this did
-3. merge history into master
+3. merge history into main
 4. Use `ls` and `git log` to see what this did
-   As you can see a whole lot of changes have been made to the master branch
+   As you can see a whole lot of changes have been made to the main branch
 5. Now lets take a look at the other branches
 
 ```
@@ -314,8 +314,8 @@ git merge X
 
 This adds a commit to branch Y and doesn't change branch X
 
-6. merge the master branch into `history`. Use `git log` to see whats up.
-7. checkout master again. git log again. Can you spot any differences?
+6. merge the main branch into `history`. Use `git log` to see whats up.
+7. checkout main again. git log again. Can you spot any differences?
 
 ### GitHub
 
@@ -325,7 +325,7 @@ This adds a commit to branch Y and doesn't change branch X
 
 3. Refresh your browser. Cool eh? The url you are looking at should look like this: https://github.com/[YOUR_USERNAME]/git-basic-exercises
 
-Now you should see a little dropdown box on github that says "Branch: master". Click there. your other branches aren't available.
+Now you should see a little dropdown box on github that says "Branch: main". Click there. your other branches aren't available.
 
 4. Push your other branches to github. We want all branches to be listed
 
@@ -338,11 +338,11 @@ Go look at your network page. each of the dots there represent commits you made.
 ### Pulling and remotes
 
 1. You should still be inside the `git-basic-exercises` directory. Let's get out of there. `cd ../`
-2. Now let's clone a repo. point your browser here: https://github.com/Umuzi-org/tech-department
+2. Now let's clone a repo. point your browser here: https://github.com/Umuzi-org/a-repo-to-clone
 3. Now there is a friendly green button that says "Clone or download". Click on it.
 4. You will see a url come up. Copy it. You will need to paste it into the terminal in a moment
-5. In your terminal type in `git clone $THE_URL_YOU_JUST_COPIED`. It should look something like this: `git clone https://github.com/Umuzi-org/tech-department`
-6. `cd` into the tech-department directory that was just created
+5. In your terminal type in `git clone $THE_URL_YOU_JUST_COPIED`. It should look something like this: `git clone https://github.com/Umuzi-org/a-repo-to-clone`
+6. `cd` into the `a-repo-to-clone` directory that was just created
 7. explore a little using `git branch` and `git log`
 8. type in `git branch -a`. This shows the remote branches
 9. try to checkout the branch called `project/git-basic-exercises` on your local computer. You can do it, you'll need to figure out how
@@ -353,7 +353,7 @@ Go look at your network page. each of the dots there represent commits you made.
 1. While still in your newly created branch `project/git-basic-exercises` use `git log` to see the history.
 2. From your new branch called `project/git-basic-exercises`navigate back to your `git-basic-exercises` repo, use `git log` again to see the difference.
 3. Let's go back to our home directory `cd` and make a new folder `mkdir this-will-be-another-repo`
-4. cd into this folder now use `git init` to initilise a new git repo here, you should get a message in terminal that says 'Initialized empty Git repository in /home/\$specific-path/this-will-be-another-repo/.git/'
+4. cd into this folder now use `git init` to initialize a new git repo here, you should get a message in terminal that says 'Initialized empty Git repository in /home/\$specific-path/this-will-be-another-repo/.git/'
 5. Type in `touch README.md`. This creates a new blank file. Stage then commit.
 6. Go back to your `git-basic-exercises` repo and use `git log` to check that you are in the right place and repo.
 
@@ -369,6 +369,9 @@ Go look at your network page. each of the dots there represent commits you made.
 8. Use `cd ..` to go back to your main directory and `git status` to see what is going on, you should now see your new folder as an unstaged change.
 9. Lets add this folder to .gitignore `nano .gitignore` and add `/large-directory-that-should-be-local-only` on a new line, save and close .gitignore
 10. Check `git status` again, .gitignore is going to be super useful later when you are submitting projects and need to keep your repos small and free from junk and irrelevant files.
+11. Next, use `git add .gitignore` to add .gitignore into the staging area.
+12. After adding the file you can commit it by using `git commit -m "added .gitignore"`.
+13. Lastly, push all the changes to the github repo through `git push`.
 
 #### gitignore best practices
 

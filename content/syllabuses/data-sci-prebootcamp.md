@@ -11,6 +11,7 @@ title: Data Science boot camp pre-learning
 - {{% contentlink path="topics/messaging/honor-code" %}}
 - {{% contentlink path="projects/git-exercises" %}}
 - {{% contentlink path="topics/bootcamp/git-for-bootcamp" %}}
-- {{% contentlink path="topics/free-code-camp/scientific-computing-with-python" %}}
-- {{% contentlink path="topics/free-code-camp/data-analysis-with-python" %}}
+- {{% contentlink path="topics/solo-learn/python/module-1-basic-concepts" %}}
+- {{% contentlink path="topics/solo-learn/python/module-2-control-statements" %}}
+- {{% contentlink path="topics/solo-learn/python/module-3-functions-and-modules" %}}
 - {{% contentlink path="projects/pre-bootcamp-challenges"  flavour="python" %}}

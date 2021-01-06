@@ -6,8 +6,8 @@ title: Data Engineering
 - NCIT 01: Conducting research and user interviews
 - NCIT 02: Reporting
 - NCIT 03: Research presentation
-- {{% contentlink path="topics/agile-scrum" %}}
-- {{% contentlink path="workshops/agile-scrum/" %}}
+- {{% contentlink path="agile/agile-scrum" %}}
+- {{% contentlink path="agile/agile-scrum-slides" %}}
 - NCIT 18: Agile project management
 - NCIT 19: Agile meetings
 - {{% contentlink path="workshops/how-to-be-a-professional" %}}
@@ -20,6 +20,8 @@ title: Data Engineering
 - {{% contentlink path="projects/basic-flow-control-katas" flavour="python" %}}
 - {{% contentlink path="projects/first-personal-website" %}}
 - {{% contentlink path="topics/how-to-ask-for-help-with-your-code" %}}
+- {{% contentlink path="language-agnostic/intro-to-hackerrank" flavour="python"%}}
+
 - {{% contentlink path="workshops/big-picture-web-dev" %}}
 - NCIT 10: Workshop: Giving and receiving constructive feedback
 - NCIT 06: Web design for business
@@ -66,7 +68,7 @@ title: Data Engineering
 - {{% contentlink path="topics/python-specific/iterators" optional="1" %}}
 - {{% contentlink path="topics/python-specific/automate-the-boring-stuff-book/chapter-12-web-scraping" %}}
 
-- {{% contentlink path="projects/sql/" %}}
+- {{% contentlink path="sql/projects/" %}}
 - NCIT 14: Database Development
 - {{% contentlink path="topics/tech-terminology" %}}
 - {{% contentlink path="topics/data-infrastructure/database-comparison/" %}}
@@ -84,7 +86,6 @@ title: Data Engineering
 - NCIT 16: Thinking like a machine / Boolean algebra, logic
 - NCIT 17: Search and sort techniques
 - {{% contentlink path="workshops/git-for-teamwork/" %}}
-- {{% contentlink path="workshops/agile-recap/" %}}
 - NCIT 20: Managing the Software Development Process
 
 * DATA_ENG:

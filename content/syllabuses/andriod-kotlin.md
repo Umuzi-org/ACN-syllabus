@@ -84,8 +84,8 @@ title: Android Development With Kotlin
 - Project : Material Design, dimens, and colors
 - {{% contentlink path="projects/kotlin/project-9/design-for-everyone" flavour="kotlin"%}}
 
-## Testing
+## Property Delegation and Unit Testing
 
-- Topic - Unit Testing
-- Delegation and delegated properties.
 - {{% contentlink path="topics/kotlin/delegated-properties" %}}
+- {{% contentlink path="projects/kotlin/project-10/unit-testing" flavour="kotlin"%}}
+

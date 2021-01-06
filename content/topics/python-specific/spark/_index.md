@@ -5,7 +5,7 @@ prerequisites:
   hard:
   - projects/data-science-specific/data-wrangling
   - projects/rabbitmq
-  - projects/sql/
+  - sql/projects/
   soft: []
 ready: true
 title: Python and Spark

@@ -5,8 +5,8 @@ title: Java Basics
 - NCIT 01: Conducting research and user interviews
 - NCIT 02: Reporting
 - NCIT 03: Research presentation
-- {{% contentlink path="topics/agile-scrum" %}}
-- {{% contentlink path="workshops/agile-scrum/" %}}
+- {{% contentlink path="agile/agile-scrum" %}}
+- {{% contentlink path="agile/agile-scrum-slides" %}}
 - NCIT 18: Agile project management
 - NCIT 19: Agile meetings
 - {{% contentlink path="workshops/how-to-be-a-professional" %}}
@@ -15,6 +15,8 @@ title: Java Basics
 - {{% contentlink path="projects/basic-flow-control-katas" flavour="java" %}}
 - {{% contentlink path="projects/first-personal-website" %}}
 - {{% contentlink path="topics/how-to-ask-for-help-with-your-code" %}}
+- {{% contentlink path="language-agnostic/intro-to-hackerrank" flavour="java" %}}
+
 - {{% contentlink path="workshops/big-picture-web-dev" %}}
 
 - NCIT 10: Workshop: Giving and receiving constructive feedback
@@ -37,7 +39,7 @@ title: Java Basics
 - String Calculator
 - {{% contentlink path="projects/tdd/string-calculator" flavour="java" %}}
 - SQL
-- {{% contentlink path="projects/sql" %}}
+- {{% contentlink path="sql/projects" %}}
 
 * Java Collections
 * {{% contentlink path="projects/java-specific/collections" flavour="java" %}}
