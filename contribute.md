@@ -27,9 +27,9 @@ The first thing you should do is go to our [issues](https://github.com/Umuzi-org
 - status/issue-claimed
 - good-first-issue
 - hactoberfest and 
--experienced devs only
+- experienced devs only
 
-if an issue has the `status/issue-claimed` label please skip it and if you a beginner it is advisable to start with the issues that have the `good-first-issue` label. You can assign yourself an issue by commenting your name on the comment section inside the issue, if you feel you need help with choosing an issue or you unsure of anything you can join our [discord channel](https://discord.com/channels/758708091583332382/762669571852468254) and you will get all the help you need. 
+if an issue has the `status/issue-claimed` label please skip it and if you a beginner it is advisable to start with the issues that have the `good-first-issue` label. You can assign yourself an issue by commenting your name on the comment section inside the issue, if you feel you need help with choosing an issue or you unsure of anything you can join our [discord channel](https://discord.gg/3jRwWPm) and you will get all the help you need. 
 
 ## <a name="pr"></a> Submitting a PR
 
