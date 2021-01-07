@@ -5,24 +5,88 @@ ready: true
 title: Clean Code for Python
 ---
 
+Please bookmark this page. If you submit a project and the code is not clean then you will be asked to go clean up your work. This isn't all going to make 100% perfect sense to you right now, but as you move forward in your course more and more will make sense.
 ## Tabs or Spaces
 
-`4 spaces == 1 tab`
+Python is about whitespace and if you are working on a team then your whitespace better line up otherwise you'll just make errors.
 
-Spaces are the preferred indentation method.
-There are not many serious open source project uses tabs in Python code, so it is recommended that use spaces.
-Python 3 **DISALLOWS** mixing the use of tabs and spaces for indentation. Using a code formatter will make your life way easier.
-We recommend using [Black](https://github.com/psf/black).
+If you are running vscode then set it up so that whenever you hit the Tab key it makes 4 spaces.
 
-## Imports
+Your code should always use 4 spaces to indent:
+```
+for i in range(5):
+    print("see those 4 spaces at the start of this line")
+```
 
-- Imports should usually be on separate lines:
+## Cheat codes
+
+If you are running vscode then you can set it up to autoformat your code whenever you hit save. You'll be asked what formatter to use. We recommend using [Black](https://github.com/psf/black). Once you go black you never go back. 
+
+
+## Naming Conventions
+
+### Function and Variable Names
+
+Function names should be `lowercase`, with words separated by underscores as necessary to improve readability.
+Variable names follow the same convention as function names.
+
+`they_are_named_like_this`, `NotLikeThis`, and `definately_Not_Like_This`.
+
+### Class Names
+
+Class names should normally use the `CapitalizedWords` convention.
+
+### Package and Module Names
+
+Python packages should have short `lowercase` names.
+
+### Constants
+
+Constants are usually defined on a module level and written in `UPPERCASE` with underscores separating words. Examples include `MAX_OVERFLOW` and `TOTAL`.
+
+### Names to Avoid
+
+Never use the characters 'l' (lowercase letter el), 'O' (uppercase letter oh), or 'I' (uppercase letter eye) as single character variable names.
+In some fonts, these characters are indistinguishable from the numerals one and zero. 
+
+### When to break the rules
+
+If you are working with someone else's code and there is a different convention in place then follow that convention. It's really imnportant to stay consistent. Inconsistent code leaves people guessing, and guesses make bugs. 
+
+
+## Comments
+
+### Block Comments
+
+Block comments generally apply to some (or all) code that follows them, and are indented to the same level as that code. Each line of a block comment starts with a `#` and a single space (unless it is indented text inside the comment).
+Paragraphs inside a block comment are separated by a line containing a single `#`.
+
+### Inline Comments
+
+Use inline comments sparingly.
+
+An inline comment is a comment on the same line as a statement. Inline comments should be separated by at least two spaces from the statement. They should start with a # and a single space.
+Inline comments are unnecessary and in fact distracting if they state the obvious. Don't do this:
 
 ```
-  Yes: import os
-  import sys
+    x = x + 1                 # Increment x
+```
+But sometimes, this is useful:
+```
+    x = x + 1                 # Compensate for border
+```
+Why? Because coders read code. If your comments just rewrite the code in English then that's just a waste. 
+## Imports
 
-  No: import sys, os
+Imports should usually be on separate lines:
+
+```
+# Yes: 
+import os
+import sys
+
+# No: 
+import sys, os
 ```
 
 It's okay to say this though:
@@ -31,13 +95,15 @@ It's okay to say this though:
 from subprocess import Popen, PIPE
 ```
 
-- Absolute imports are recommended, as they are usually more readable and tend to be better behaved (or at least give better error messages) if the import system is incorrectly configured (such as when a directory inside a package ends up on sys.path):
+Absolute imports are recommended, as they are usually more readable and tend to be better behaved (or at least give better error messages) if the import system is incorrectly configured (such as when a directory inside a package ends up on sys.path):
 
-        import mypkg.sibling
-        from mypkg import sibling
-        from mypkg.sibling import example
+```
+import mypkg.sibling
+from mypkg import sibling
+from mypkg.sibling import example
+```
 
-  However, explicit relative imports are an acceptable alternative to absolute imports, especially when dealing with complex package layouts where using absolute imports would be unnecessarily verbose:
+However, explicit relative imports are an acceptable alternative to absolute imports, especially when dealing with complex package layouts where using absolute imports would be unnecessarily verbose:
 
       from . import sibling
       from .sibling import example
@@ -74,55 +140,6 @@ F strings:
 
 PEP 257 describes good docstring conventions. Note that most importantly, the """ that ends a multiline docstring should be on a line by itself:
 
-## Naming Conventions
-
-The naming conventions of Python's library are a bit of a mess, so we'll never get this completely consistent -- nevertheless, here are the currently recommended naming standards. New modules and packages (including third party frameworks) should be written to these standards, but where an existing library has a different style, internal consistency is preferred.
-
-### Class Names
-
-Class names should normally use the `CapitalizedWords` convention.
-The naming convention for functions may be used instead in cases where the interface is documented and used primarily as a callable.
-Note that there is a separate convention for builtin names: most builtin names are single words (or two words run together), with the `CapitalizedWords` convention used only for exception names and builtin constants.
-
-### Package and Module Names
-
-Python packages should have short, all-`lowercase` names, although the use of \_underscores\_ is discouraged.
-When an extension module written in C or C++ has an accompanying Python module that provides a higher level (e.g. more object oriented) interface, the C/C++ module has a leading underscore (e.g. \_socket).
-
-### Function and Variable Names
-
-Function names should be `lowercase`, with words separated by underscores as necessary to improve readability.
-Variable names follow the same convention as function names.
-`mixedCase` is allowed only in contexts where that's already the prevailing style (e.g. `threading.py`), to retain backwards compatibility.
-
-### Constants
-
-Constants are usually defined on a module level and written in `UPPERCASE` with underscores separating words. Examples include `MAX_OVERFLOW` and `TOTAL`.
-
-### Names to Avoid
-
-Never use the characters 'l' (lowercase letter el), 'O' (uppercase letter oh), or 'I' (uppercase letter eye) as single character variable names.
-In some fonts, these characters are indistinguishable from the numerals one and zero. When tempted to use 'l', use 'L' instead.
-
-## Comments
-
-### Block Comments
-
-Block comments generally apply to some (or all) code that follows them, and are indented to the same level as that code. Each line of a block comment starts with a `#` and a single space (unless it is indented text inside the comment).
-Paragraphs inside a block comment are separated by a line containing a single `#`.
-
-### Inline Comments
-
-Use inline comments sparingly.
-
-An inline comment is a comment on the same line as a statement. Inline comments should be separated by at least two spaces from the statement. They should start with a # and a single space.
-Inline comments are unnecessary and in fact distracting if they state the obvious. Don't do this:
-
-    x = x + 1                 # Increment x
-
-But sometimes, this is useful:
-
-    x = x + 1                 # Compensate for border
 
 ### Documentation Strings
 

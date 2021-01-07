@@ -16,7 +16,7 @@ Complete these tasks in the correct language. If you are here to learn JavaScrip
 
 Use Git and Github to save your code to the cloud (like a boss)
 
-Please remember that you need to focus on UNDERSTANDING!
+Please remember that you need to focus on UNDERSTANDING! Some of these exercises are easy but you need to make sure you really understand the concepts that make your code run.
 
 Some of these task are kinda easy, but they were all chosen for good reasons. Try think about the lessons each task is trying to teach you. Think about what might confuse other people.
 
@@ -34,7 +34,7 @@ A lot of people think it's a good idea to write lots of comments. They write a l
 c = a + b // add a and b together and store it in c
 ```
 
-This kind of thing is a giant waste of everyone's time.
+This kind of thing is a giant waste of everyone's time. 
 
 Comments can be really useful sometimes. But use them sparingly.
 
@@ -66,6 +66,8 @@ I know a lot of tutorials out there use `my` a lot in function and variable name
 
 If the instructions say write a function, then please write a function. If you are meant to return a value and you decide to print it instead then that's incorrect.
 
+Good coders are precise and careful. Good coders double check their work and RTFQ (google it).
+
 ### Do check your work
 
 Make sure your code works before you ask for a review. If it doesn't work it will not be accepted.
@@ -84,10 +86,15 @@ Code is read more often than it is written. Get into the habit of writing clean 
 
 - consistent and meaningful indentation
 - don't leave a million lines of commented out code
-- don't leave lots or blank lines
+- don't leave lots of blank lines
 - do choose names wisely and consistently
 
-## Task 1
+
+### SUPER IMPORTANT: Do Not copy code from the Internet or from each other
+
+It's dumb. And we'll find out. Then we'll have to reject your application and you'll be sad. 
+
+## Task 0.1
 
 Convert this pseudocode into actual code. Make it run. Make sure you understand the results. This is a fundamental lesson:
 
@@ -109,7 +116,7 @@ Lots of people think this is easy then get it wrong later. Make sure you check y
 - do you know what pseudocode means? Did you look it up?
 - do you understand why x and y have the values they have at each point in the program?
 
-## Task 2
+## Task 0.2
 
 Convert this pseudocode into actual code. Make it run. Make sure you understand the results. This is a fundamental lesson. If you don’t understand the results then spend some time Googling BODMAS.
 
@@ -117,33 +124,43 @@ Convert this pseudocode into actual code. Make it run. Make sure you understand 
 x = 1 + 1 * 2
 y = (1 + 1) * 2
 z = 1 + ( 1 * 2 )
-a =  1 + 1 * 2 / 2
-b =  (1 + 1 * 2 ) /  2
+a = 1 + 1 * 2 / 2
+b = (1 + 1 * 2 ) /  2
+
+print all the things
 ```
 
 Check your understanding:
 
 - do you know what pseudocode means? Did you look it up?
 - do you understand why the variables have the values they have at each point in the program?
-- do you understand BODMAS?
+- do you understand BODMAS? Seriously, it's quite important
 
-## Task 3
+## Task 0.3
 
-Write a function that takes 2 numbers as input.
-If either of the numbers is 65, OR if the sum of the numbers is 65 then return true. Otherwise return false.
+Write a function named `hello`, it needs to take in a string as an argument. The function should work like this:
 
-## Task 4
+eg: `hello("Tshepo")` should output
 
-Write a function that takes 2 numbers as input.
-If either of the numbers is 3 AND the sum of the numbers contains a 3 then return true. Otherwise return false
+```
+Hello Tshepo!
+```
 
-## Task 5
+## Task 0.4
+
+Write a function named `even_or_odd` or `evenOrOdd`. Tha name of the function depends on the conventions of the language you are writing in. If you don't know what name to choose then check the clean code guidelines. 
+
+Your function should take an integer and print in the work "even" or "odd"
+
+eg, if the input is 3 then the output is "odd". If the input is 4 then the output is "even"
+
+## Task 0.5
 
 Write a function that takes in three numbers. These numbers represent the lengths of the sides of a triangle. The function should return the area of a triangle.
 
 This might help: https://www.wikihow.com/Calculate-the-Area-of-a-Triangle
 
-## Task 6
+## Task 0.6
 
 White a function that takes in three numbers and returns the maximum number.
 
@@ -154,46 +171,33 @@ The function should expect a bunch of numbers, not an array or list.
 ```
 maximum([1,2,3])  // BAD
 maximum(1,2,3)  // GOOD
-
 ```
 
-Bonus: How can you change the code so it can take in any number of numbers? Do this without using builtin methods. Write your own logic from scratch.
+Bonus: How can you change the code so it can take in any number of numbers? Do this without using builtin methods. Write your own logic from scratch. 
 
 Again, the function should expect a bunch of numbers as input, not an array or list.
 
-Please do not write a whole new function. Upgrade your existing function.
+Please **do not** write a whole new function. Upgrade your existing function.
 
-## Task 7
+```
+maximum(1,22,3,2)  // this should work
+```
 
-Write a function that takes in a number representing the temperature in Celsius and returns the temperature in Fahrenheit. Write another function that does the opposite (Fereignheit to Celsius)
+## Task 0.7
 
-## Task 8
+Write a function that takes in a number representing the temperature in Celsius and returns the temperature in Fahrenheit. Write another function that does the opposite (Fahrenheit to Celsius)
+
+## Task 0.8
 
 Make a function to convert any number into hours and minutes. (For example, 71 will become “1 hour, 11 minutes; 133 will become “2 hours, 13 minutes.)
 
-Most people get this question wrong. Make sure you handle singulars and plurals for both hours and minutes.
+**Most people get this question wrong**. Make sure you handle singulars and plurals for both hours and minutes.
 
-## Task 9
-
-If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
-
-Find the sum of all the multiples of 3 or 5 below 1000.
-
-## Task 10
+## Task 0.9
 
 Write a function that takes in a string and then prints out all the vowels in the string. Make sure it can deal with capital letters and small letters.
 
-## Task 11
+## Task 0.10
 
 Make a function that takes two strings as input, and outputs the common characters/letters that they share. (For example, Input: ‘house’, ‘computers’ . Output: ‘Common letters: o, u, e, s’)
 
-## Task 12: BONUS task for web devs
-
-This task isn't compulsory but we'll be impressed if you do it.
-
-Can you make a user interface for each of the previous tasks? You'll need HTML and CSS to do it.
-
-NOTE: Good code is DRY. If you copy paste your functions in order to get this to work, then that is no good! We need you to work like a professional developer. Each task should be represented only once in the code.
-
-- Use forms to allow the user to enter inputs to the various functions.
-- use the pre tag to format your output https://www.w3schools.com/tags/tag_pre.asp
