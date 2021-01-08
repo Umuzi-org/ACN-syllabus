@@ -1,11 +1,11 @@
 ---
 _db_id: 87
 content_type: topic
-ready: true
-title: Clean Code for Java
 prerequisites:
   hard:
-    - topics/clean-code/general
+  - topics/clean-code/general
+ready: true
+title: Clean Code for Java
 ---
 
 Code is read more often than it is written. Assist yourself and others by keeping your code clear and readable!
@@ -19,4 +19,3 @@ Also see these naming conventions. Although the information on this [document](h
 ## Writing good Java code
 
 Look at this [section](https://developer.ibm.com/tutorials/j-perry-writing-good-java-code/#best-coding-practices) of this Java tutorial to acquaint yourself with best coding practices for Java.
-

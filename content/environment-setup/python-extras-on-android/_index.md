@@ -1,6 +1,8 @@
 ---
-title: Python setup for Android
+_db_id: 631
+content_type: topic
 ready: true
+title: Python setup for Android
 ---
 
 You can use ACode to write python code too. Just be sure to save your files with the `.py` extension.

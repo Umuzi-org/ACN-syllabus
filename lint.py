@@ -7,7 +7,7 @@ from pathlib import Path
 import frontmatter
 import yaml
 import logging
-logging.basicConfig(level=logging.DEBUG)
+logging.basicConfig(level=logging.ERROR)
 
 
 with open("flavours.yaml", "r") as f:
@@ -68,10 +68,9 @@ def check_one_file_frontmatter(file_path):
         return
     front = frontmatter.load(file_path)
 
-    required = ["title",]
+    required = ["title","content_type"]
     allowed = [
         "_db_id",
-        "content_type",
         "pre",
         "weight",
         "ready",
@@ -136,7 +135,7 @@ def check_contentlinks_ok():
 
     os.system("hugo")
     os.system('grep -r "contentlink-missing" public') 
-    os.system('grep -r "contentlink-todo" public')  
+    # os.system('grep -r "contentlink-todo" public')  
 
 
 if __name__ == "__main__":

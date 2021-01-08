@@ -3,14 +3,13 @@ _db_id: 627
 available_flavours:
 - any_language
 content_type: project
+ready: true
 submission_type: link
 tags:
 - data structures
 - algorithms
 - problem solving
 title: Get started with Hackerrank
-ready: true
-
 ---
 
 Hackerrank is a great resource for self-testing and leveling up your problem solving abilities.

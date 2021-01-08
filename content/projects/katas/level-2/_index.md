@@ -1,15 +1,16 @@
 ---
+_db_id: 637
 available_flavours:
 - any_language
 content_type: project
+from_repo: projects/katas/level-1
+prerequisites:
+  hard:
+  - projects/katas/level-1
 ready: true
 story_points: 3
 submission_type: continue_repo
 title: Level 2 coding challenges
-prerequisites:
-  hard:
-    - projects/katas/level-1
-from_repo: projects/katas/level-1
 ---
 
 ## Task 2.1
@@ -109,6 +110,3 @@ Here are some resources you can use to continue this journey:
 - https://www.codewars.com: you should know about this already, it's legit!
 
 Have fun :)
-
-
-

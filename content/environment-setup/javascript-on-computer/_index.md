@@ -1,6 +1,8 @@
 ---
-title: Getting set up to write Javascript on your computer
+_db_id: 636
+content_type: topic
 ready: true
+title: Getting set up to write Javascript on your computer
 ---
 
 ## Install VSCode and plugins

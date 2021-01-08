@@ -1,6 +1,8 @@
 ---
-title: Getting set up to write Python on your computer
+_db_id: 630
+content_type: topic
 ready: true
+title: Getting set up to write Python on your computer
 ---
 
 ## Install the correct version of Python

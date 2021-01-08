@@ -2,7 +2,7 @@
 _db_id: 409
 content_type: topic
 ready: true
-title: "Depricated: Introduction to Bootcamp Preparation phase"
+title: 'Depricated: Introduction to Bootcamp Preparation phase'
 ---
 
 Hello and welcome to the next phase of your Umuzi journey :) You are reading this because we believe that you have the potential to have a high value career in tech, and we want to help you get there. Congrats for making it this far!

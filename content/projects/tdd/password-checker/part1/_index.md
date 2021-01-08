@@ -15,7 +15,6 @@ tags:
 - tdd
 - error-checking
 title: password-checker
-ready: true
 ---
 
 ## Set up your environment

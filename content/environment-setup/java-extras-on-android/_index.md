@@ -1,6 +1,8 @@
 ---
-title: Java setup for Android
+_db_id: 635
+content_type: topic
 ready: true
+title: Java setup for Android
 ---
 
 For our Java bootcamp you will need to be able to write Java code and markdown code. And there isn't one editor that does both of these well.
