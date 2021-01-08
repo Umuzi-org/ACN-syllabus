@@ -2,12 +2,18 @@
 _db_id: 624
 content_type: topic
 ready: true
-title: A Junior Tech Lead's guide to kanban
+title: Kanban wastes
 ---
 
-We use a mixture of Scrum and Kanban to get things done. The tricky part is the kanban stuff so we'll focus on that.
+You can think of kanban as a way to prioritize work. Kanban is a methodology used in professional dev teams and even manufacturing. 
 
-You can think of kanban as a way to prioritize work. Kanban is a methodology used in professional dev teams and even manufacturing. In our case, we want to use it to optimize education. We want to make sure that:
+We use Kanban techniques because:
+- it's common in industry, so it's important that junior coders really get it
+- it works really well, we use kanban to keep people moving in the right direction and making sure everyone has the support that they need
+
+## A good day
+
+When we are getting things right, then the following should all be true:
 
 1. students should be working on their highest priority task at all times
 2. students should be working at a sustainable rate, they shouldn't burn themselves out or go too slow

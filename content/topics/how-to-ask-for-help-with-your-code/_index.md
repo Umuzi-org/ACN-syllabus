@@ -30,12 +30,11 @@ staff member: Here is an explanation [explanation], and here are some resources 
 #### Where to ask good questions
 
 - [Stackoverflow - How to ask for help](https://stackoverflow.com/help/how-to-ask) == TRUELY **AMAZING**
-- [Google](https://www.google.com)
 - Any tech community discussion that you are a part of
 
 #### Characteristics of a good question:
 
-As a general rule of thumb: If you really want help then make it as easy as possible for people to help you. Empathise with the person who will help you. If they are left guessing or they have to ask a million follow up questions then that means you asked a bad-quality question.
+As a general rule: If you really want help then make it as easy as possible for people to help you. Empathise with the person who will help you. If they are left guessing or they have to ask a million follow up questions then that means you asked a bad-quality question.
 
 - Ask on a bigger audience platform. (e.g Asking on the #tech-assist channel helps you get to a much bigger audience and possibly quick responses from your fellow students, managers and alumni)
 - Be clear and not ambiguous. Your "helpers" should be able to understand the problem while reading an error message.

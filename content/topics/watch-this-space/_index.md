@@ -10,9 +10,16 @@ And on the other hand coding has a solid core of good practices and hard-won les
 
 What follows below are a few favorites. This list will change from time to time. So watch this space :)
 
-## This page is for everyone
+## On "CV Padding" versus growing
 
-We teach a bunch of different things, so if there is a resource that is only relevant to one of our courses that will be included separately. This page is for everyone. Eg Java devs don't care about RealPython.
+It's worth talking about this before we get going. A lot of techies like to do random little tutorials on the Internet then claim they know a skill so they can put it on their CVs. Eg, do the Django tutorial, then put Django on their CV.
+
+Collecting random skills to make your CV look better is a waste of time. It makes you and your peers look bad. A lot of people just dont trust junior devs because their cv's are mostly bollucks.
+
+Build a meaningful CV by building real things. Eg let's say you want to learn how to use Apollo.
+
+1. Do the tutorial
+2. build something real. Make a household shopping list app or something else, and mention that in your CV as a personal project
 
 ## Websites
 
@@ -20,6 +27,11 @@ We teach a bunch of different things, so if there is a resource that is only rel
 - https://www.smashingmagazine.com/ - "Smashing Magazine delivers reliable, useful, but most importantly practical articles to web designers and developers." This is mostly for web devs, but there is a lot in here
 - https://www.freecodecamp.org/news/ FCC is a really good resource for learning to code. And look! They have a blog
 - https://hackernoon.com/
+
+## Podcasts
+
+- https://www.se-radio.net/ Software Engineering Radio
+- https://6figuredev.com/category/podcast/
 
 ## Books
 
@@ -33,19 +45,21 @@ These aren't about specific technologies, they're about your craft.
 - [The Clean Coder](https://amzn.to/38l3TZD)
 - [The Mythical Man Month](https://amzn.to/3aw0I48)
 
-## Podcasts
+## Language specific resources
 
-- https://www.se-radio.net/ Software Engineering Radio
-- https://6figuredev.com/category/podcast/
+### Python
 
-## On "CV Padding" versus growing
+- https://talkpython.fm/ 
+- https://realpython.com/
+- https://www.pythonweekly.com/ 
 
-A lot of techies like to do random little tutorials on the Internet then claim they know a skill. Eg, do the Django tutorial, then put Django on their CV. Collecting random skills to make your CV look better is a waste of time.
+### Web dev
 
-Rather build a meaningful CV by building novel things. Eg let's say you want to learn how to use Apollo.
+- https://syntax.fm/
 
-1. Do the tutorial
-2. build something real. Make a household shopping list app or something else, and mention that in your CV as a personal project
+### Data Science
+
+- https://www.becomingadatascientist.com/category/podcast/
 
 ## Anything missing?
 

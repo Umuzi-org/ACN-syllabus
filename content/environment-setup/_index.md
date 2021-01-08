@@ -7,6 +7,12 @@ title: Getting set up to write code on your device
 
 You'll need to be set up so that you can write and run code on your own device. There are a few options. Please follow the appropriate link:
 
+## Before you do anything
+
+Make sure git is installed.
+
+{% contentlink path="environment-setup/git" %}}
+
 ## If you have a computer
 
 Please follow the instructions below based on the language you are going to be using.
@@ -15,7 +21,6 @@ Please follow the instructions below based on the language you are going to be u
 - {{% contentlink path="environment-setup/python-on-computer" %}}
 - {{% contentlink path="environment-setup/java-on-computer" %}}
 - {{% contentlink path="environment-setup/datascience-extras-on-computer" %}}
-
 
 ## If you have an Android device
 
@@ -27,11 +32,12 @@ Using ACode: https://www.youtube.com/watch?v=XZAc-imlq88 This video focuses on J
 
 - {{% contentlink path="environment-setup/python-extras-on-android" %}}
 - {{% contentlink path="environment-setup/java-extras-on-android" %}}
+- {{% contentlink path="environment-setup/datascience-extras-on-android" %}}
+
 
 ## If you have an iPhone
 
 Eish, we haven't managed to find anything good here. If you have any suggestions please bring them up. You can even submit a PR, we'll all be very impressed.
-
 ## If you don't have the gear you need
 
 Do your best to find a solution on your own
