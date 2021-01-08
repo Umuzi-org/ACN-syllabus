@@ -7,8 +7,6 @@ pre: '<b>MEDIUM: </b>'
 prerequisites:
   hard:
   - topics/data-science-specific/natural-language-processing
-  soft:
-  - topics/python-self-learning
   - topics/jupyter-notebooks-best-practices
 ready: true
 story_points: 21

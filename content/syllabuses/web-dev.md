@@ -4,7 +4,7 @@ title: Web Development
 
 - Introduction to NCIT curriculum
 
-- {{% contentlink path="topics/bridging-course-soft-skills/learning-how-to-learn" %}}
+- {{% contentlink path="soft-skills/learning-how-to-learn" %}}
 - NCIT 01: Conducting research and user interviews
 - NCIT 02: Reporting
 - NCIT 03: Research presentation
@@ -25,7 +25,7 @@ title: Web Development
 - {{% contentlink path="topics/how-to-ask-for-help-with-your-code" %}}
 - {{% contentlink path="language-agnostic/intro-to-hackerrank" flavour="javascript" %}}
 
-- {{% contentlink path="projects/basic-flow-control-katas" flavour="javascript" %}}
+- {{% contentlink path="projects/katas/level-2" flavour="javascript" %}}
 
 - {{% contentlink path="topics/free-code-camp/responsive-web-design/1-basic-html-and-html-5" %}}
 - {{% contentlink path="topics/free-code-camp/responsive-web-design/2-basic-css" %}}

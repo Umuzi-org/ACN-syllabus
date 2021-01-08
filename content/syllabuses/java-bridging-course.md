@@ -7,11 +7,11 @@ You’ll notice that the content below is divided up into 2 major sections. Soft
 
 ## Soft Skills
 
-- {{% contentlink path="topics/bridging-course-soft-skills/learning-how-to-learn" %}}
-- {{% contentlink path="topics/bridging-course-soft-skills/communication" %}}
-- {{% contentlink path="topics/bridging-course-soft-skills/emotional-intelligence" %}}
-- {{% contentlink path="topics/bridging-course-soft-skills/cognitive-biases" %}}
-- {{% contentlink path="topics/bridging-course-soft-skills/developer-habits" %}}
+- {{% contentlink path="soft-skills/learning-how-to-learn" %}}
+- {{% contentlink path="soft-skills/communication" %}}
+- {{% contentlink path="soft-skills/emotional-intelligence" %}}
+- {{% contentlink path="soft-skills/cognitive-biases" %}}
+- {{% contentlink path="soft-skills/developer-habits" %}}
 
 ## Maths
 

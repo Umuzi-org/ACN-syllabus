@@ -6,8 +6,6 @@ content_type: project
 pre: '<b>MEDIUM: </b>'
 prerequisites:
   hard:
-  - topics/python-self-learning
-  soft:
   - projects/tdd/simple-calculator-part1
 ready: true
 story_points: 3

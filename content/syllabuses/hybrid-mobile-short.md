@@ -7,7 +7,7 @@ title: Hybrid mobile dev short course
 - {{% contentlink path="topics/intro-to-hybrid-mobile/" %}}
 - {{% contentlink path="topics/intro-to-typescript/" %}}
 - {{% contentlink path="topics/web-frontend/intro-to-web-design/" %}}
-- {{% contentlink path="projects/basic-flow-control-katas" flavour="typescript" %}}
+- {{% contentlink path="projects/katas/level-2" flavour="typescript" %}}
 
 ## Part 2
 

@@ -8,8 +8,6 @@ prerequisites:
   hard:
   - projects/data-science-specific/statistical-thinking
   - projects/data-science-specific/cross-validation-and-simple-linear-regression
-  soft:
-  - topics/python-self-learning
   - topics/jupyter-notebooks-best-practices
 ready: true
 story_points: 3

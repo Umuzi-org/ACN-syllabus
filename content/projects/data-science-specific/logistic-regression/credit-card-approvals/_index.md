@@ -11,8 +11,6 @@ prerequisites:
   - projects/data-science-specific/cross-validation-and-simple-linear-regression
   - projects/data-science-specific/multivariate-linear-regression
   - projects/data-science-specific/logistic-regression
-  soft:
-  - topics/python-self-learning
   - topics/jupyter-notebooks-best-practices
 ready: true
 story_points: 2

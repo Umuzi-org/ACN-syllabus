@@ -2,11 +2,13 @@
 This is a Python3.7 script that makes sure that markdown files are named correctly.
 It also highlights any metadata problems (specifically missing titles)
 """
-import logging
-import os
+
 from pathlib import Path
 import frontmatter
 import yaml
+import logging
+logging.basicConfig(level=logging.DEBUG)
+
 
 with open("flavours.yaml", "r") as f:
     option_groups = yaml.load(f, Loader=yaml.FullLoader)
@@ -60,8 +62,7 @@ def check_one_file_frontmatter(file_path):
     """ given the path to a markdown file, make sure that the frontmatter includes
     the required metadata
     """
-    # print(file_path)
-    logger = logging.getLogger(__name__)
+    logging.info(f"checking frontmatter for {file_path}")
     name = file_path.name
     if not name.endswith(".md"):
         return

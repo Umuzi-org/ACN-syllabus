@@ -6,7 +6,7 @@ content_type: project
 pre: '<b>EASY: </b>'
 prerequisites:
   hard:
-  - projects/basic-flow-control-katas-assertive
+  - projects/morse-code
   - topics/test-driven-development
   soft: []
 ready: true

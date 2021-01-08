@@ -10,11 +10,10 @@ title: "Data Science"
 - NCIT 18: Agile project management
 - NCIT 19: Agile meetings
 - {{% contentlink path="workshops/how-to-be-a-professional" %}}
-- {{% contentlink path="topics/python-self-learning" %}}
 - {{% contentlink path="topics/clean-code/python" %}}
 - {{% contentlink path="projects/git-exercises" %}}
 - NCIT 04: Version control (GIT) for teamwork
-- {{% contentlink path="projects/basic-flow-control-katas" flavour="python" %}}
+- {{% contentlink path="projects/katas/level-2" flavour="python" %}}
 - {{% contentlink path="projects/first-personal-website" %}}
 - {{% contentlink path="topics/how-to-ask-for-help-with-your-code" %}}
 - NCIT 10: Workshop: Giving and receiving constructive feedback
@@ -28,7 +27,7 @@ title: "Data Science"
 - {{% contentlink path="topics/python-specific/virtual-envs/" %}}
 - {{% contentlink path="workshops/survey-design" %}}
 - {{% contentlink path="workshops/google-forms-like-a-boss" %}}
-- {{% contentlink path="projects/basic-flow-control-katas-assertive" flavour="python" %}}
+- {{% contentlink path="projects/morse-code" flavour="python" %}}
 - {{% contentlink path="projects/data-science-specific/data-visualisation" %}}
 - {{% contentlink path="workshops/intro-to-data-ethics" %}}
 - NCIT 11: Test-driven development

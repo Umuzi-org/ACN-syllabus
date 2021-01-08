@@ -9,7 +9,6 @@ prerequisites:
   - projects/data-science-specific/statistical-thinking
   - projects/data-science-specific/data-visualisation/mobile-money-viz
   soft:
-  - topics/python-self-learning
   - topics/jupyter-notebooks-best-practices
 ready: true
 story_points: 13

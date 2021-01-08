@@ -12,7 +12,7 @@ title: Java Basics
 - {{% contentlink path="workshops/how-to-be-a-professional" %}}
 - {{% contentlink path="projects/git-exercises" %}}
 - NCIT 04: Version control (GIT) for teamwork
-- {{% contentlink path="projects/basic-flow-control-katas" flavour="java" %}}
+- {{% contentlink path="projects/katas/level-2" flavour="java" %}}
 - {{% contentlink path="projects/first-personal-website" %}}
 - {{% contentlink path="topics/how-to-ask-for-help-with-your-code" %}}
 - {{% contentlink path="language-agnostic/intro-to-hackerrank" flavour="java" %}}

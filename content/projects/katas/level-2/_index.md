@@ -9,6 +9,7 @@ title: Level 2 coding challenges
 prerequisites:
   hard:
     - projects/katas/level-1
+from_repo: projects/katas/level-1
 ---
 
 ## Task 2.1

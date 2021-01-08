@@ -11,13 +11,12 @@ title: Data Engineering
 - NCIT 18: Agile project management
 - NCIT 19: Agile meetings
 - {{% contentlink path="workshops/how-to-be-a-professional" %}}
-- {{% contentlink path="topics/python-self-learning" %}}
 - {{% contentlink path="topics/clean-code/python" %}}
 - {{% contentlink path="projects/git-exercises" %}}
 - NCIT 04: Version control (GIT) for teamwork
 
 - {{% contentlink path="topics/python-specific/automate-the-boring-stuff-book/chapter-3-functions" %}}
-- {{% contentlink path="projects/basic-flow-control-katas" flavour="python" %}}
+- {{% contentlink path="projects/katas/level-2" flavour="python" %}}
 - {{% contentlink path="projects/first-personal-website" %}}
 - {{% contentlink path="topics/how-to-ask-for-help-with-your-code" %}}
 - {{% contentlink path="language-agnostic/intro-to-hackerrank" flavour="python"%}}
