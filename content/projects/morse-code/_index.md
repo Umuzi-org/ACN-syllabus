@@ -10,10 +10,8 @@ prerequisites:
 ready: true
 story_points: 3
 submission_type: repo
-title: Assertive programming kata
+title: Morse code
 ---
-
-These katas are a bit harder than the last bunch. Make use of assertions to help make sure that your code is doing the right thing, and to add readability.
 
 ## Exercise: Morse code
 
@@ -46,10 +44,12 @@ Make sure that when you do this, your code remains clean and DRY. DRY - it's a t
 
 ## Remarks
 
-Admittedly this kata is a little bit contrived. Assertions are great for adding runtime checks to values and adding documentation as code.
+Admittedly this project is a little bit contrived. Assertions are great for adding runtime checks to values and adding documentation-as-code.
 
-For a problem like this one, unit tests are more appropriate.
+For a problem like this one, unit tests are more appropriate. 
 
 ## Up for a challenge?
 
-Add unit tests to your code. Leave the asserions in there just so that we can see that you know how to hit the requirements we laid out. But if you have some passing tests as well that would be sweet.
+This is optional.
+
+Add unit tests to your code. Leave the assertions in there just so that we can see that you know how to hit the requirements we laid out. But if you have some passing tests as well that would be sweet.

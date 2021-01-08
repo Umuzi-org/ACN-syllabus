@@ -3,6 +3,9 @@ _db_id: 83
 content_type: topic
 ready: true
 title: Clean Code For JavaScript
+prerequisites:
+  hard:
+    - topics/clean-code/general
 ---
 
 Maintaining someone else’s code is not a smooth process. It takes time to understand the project ( such as the folder structure, naming, dependencies, scripts etc.), to find the pattern and develop the new feature in harmony and consistency with the existing code. Different developers use different styles which are derived from their different tastes. They may work on a project together or pick up someone else’s work. Which in both cases, having a common ground is essential.

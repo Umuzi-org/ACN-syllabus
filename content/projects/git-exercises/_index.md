@@ -19,9 +19,9 @@ title: Git Basic Exercises
 
 ## Introduction
 
-This little exercise will take you through the basic git mechanisms you need to know about in order to be productive. By the end of this exercise you'll be able to create and manage your own git repos.
+From this point forward, you will be expected to work with git like a real developer. This excercise exists to teach you the necessary skills. This stuff will serve you for your whole career. Git is critical to professional devs.
 
-**IMPORTANT** Make sure you go through the prerequisites listed above. Otherwise you'll be clueless!
+Professionals are comfortable using git from the command line. Let's get cracking :)
 
 ## Skillz you'll learn
 

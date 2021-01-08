@@ -3,6 +3,9 @@ _db_id: 85
 content_type: topic
 ready: true
 title: Clean Code for Python
+prerequisites:
+  hard:
+    - topics/clean-code/general
 ---
 
 Please bookmark this page. If you submit a project and the code is not clean then you will be asked to go clean up your work. This isn't all going to make 100% perfect sense to you right now, but as you move forward in your course more and more will make sense.
