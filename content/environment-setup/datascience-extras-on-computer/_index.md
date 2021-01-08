@@ -1,5 +1,6 @@
 ---
 title: Getting set up to do data science on your computer
+ready: True
 ---
 
 **Please note:** If you are doing Data Engineering then this is not for you. This is only for our data scientists!

@@ -1,5 +1,6 @@
 ---
 title: Getting set up to write Python on your computer
+ready: true
 ---
 
 ## Install the correct version of Python

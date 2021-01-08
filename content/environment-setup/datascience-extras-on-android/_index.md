@@ -1,5 +1,6 @@
 ---
 title: Java setup for Android
+ready: True
 ---
 
 first make sure you have Python set up. Please follow this guide if you haven't already:

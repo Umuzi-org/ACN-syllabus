@@ -8,6 +8,7 @@ tags:
 - tdd
 - problem-solving
 title: Validate a South African ID number
+ready: True
 ---
 
 In this project we'll be practicing Test Driven Development while solving a validation problem.

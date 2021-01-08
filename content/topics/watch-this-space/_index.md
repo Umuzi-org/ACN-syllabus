@@ -2,6 +2,7 @@
 _db_id: 531
 content_type: topic
 title: "Keep on growing!"
+ready: true
 ---
 
 As a coder, it's important to stay hip with the times. The tech landscape is huge. There is new stuff happening all the time. You don't need to be an expert in everything but it's important to know what tools are out there so you can pick up the skills you need as you need them.

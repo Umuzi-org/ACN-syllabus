@@ -31,7 +31,6 @@ If you are using ACode on your android device, you can press the "play" button i
 
 If you are running vscode you can right click on a markdown file and select "open preview" to see what your work looks like.
 
-
 ### The questions
 
 Please create a separate file for each of these. Remember to pay attention to your sentence structure, spelling and grammar. 
@@ -77,6 +76,7 @@ Also, the course is pretty much self-paced. So the faster you move the better th
 - Some people work best in the early hours of the morning. Some people work late at night.
 - Some people work on weekends
 - some people put in more than 40 hours per week because they just love this stuff, or because they want to get a job sooner
+  
 #### 8. Your future: the good parts
 
 If you succeed and get a high value career in your chosen field, what do you think your life will look like? Do you have personal goals? How will this effect your family and your community? Is there a big problem you want to solve? Or a business you want to start?

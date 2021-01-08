@@ -1,5 +1,6 @@
 ---
 title: Python setup for Android
+ready: true
 ---
 
 You can use ACode to write python code too. Just be sure to save your files with the `.py` extension.

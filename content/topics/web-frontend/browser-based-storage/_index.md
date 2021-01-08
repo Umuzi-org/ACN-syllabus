@@ -2,6 +2,7 @@
 _db_id: 512
 content_type: topic
 title: Storage Options
+ready: True
 ---
 
 By now you've probably learned a number of nifty features your browswer has in aiding you with your programming. Now it's time to add client-side storage to the list!

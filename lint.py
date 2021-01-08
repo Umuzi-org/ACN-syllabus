@@ -118,12 +118,12 @@ def check_one_file_frontmatter(file_path):
 
     for key in front.keys():
         if key not in required + allowed:
-            logger.warning(f"{file_path} has unrecognized frontmatter: {key}")
+            logging.warning(f"{file_path} has unrecognized frontmatter: {key}")
             continue
 
     for key in required:
         if key not in front.keys():
-            logger.error(f"{file_path} has MISSING frontmatter: {key}")
+            logging.error(f"{file_path} has MISSING frontmatter: {key}")
             continue
 
     if "available_flavours" in front and front.get("submission_type") != "nosubmit":
@@ -136,7 +136,7 @@ def check_contentlinks_ok():
 
     os.system("hugo")
     os.system('grep -r "contentlink-missing" public') 
-    # os.system('grep -r "contentlink-todo" public')  
+    os.system('grep -r "contentlink-todo" public')  
 
 
 if __name__ == "__main__":

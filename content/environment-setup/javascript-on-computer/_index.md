@@ -1,5 +1,6 @@
 ---
 title: Getting set up to write Javascript on your computer
+ready: true
 ---
 
 ## Install VSCode and plugins

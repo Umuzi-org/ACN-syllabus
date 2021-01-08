@@ -24,8 +24,8 @@ Submit a link to your google drive folder.
 ## Instructions for reviewer
 
 - if you get a permission denied error when you access the link, then add a RED FLAG review
-- if you think at least one outfit will work, add a "competent" review
-- if none of the outfits are ok, then add a "not yet competent" review
+- if you think at least one outfit will work, add a "competent" review and say which picture you liked
+- if none of the outfits are ok, then add a "not yet competent" review and give a bit of feedback
 
 Please add comments and advice. Eg: "I like outfit 1, but the tie is a bit much" or "this is a job interview, not a funeral!", or "I would hire you now if I could! I like all the outfits, but number 3 is the best", or "You should be wearing shoes".
 
