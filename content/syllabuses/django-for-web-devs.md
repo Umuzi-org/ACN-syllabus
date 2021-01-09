@@ -1,5 +1,6 @@
 ---
 title: Django for Web devs
+_db_id: 31
 ---
 
 - {{% contentlink path="topics/python-vs-js" %}}

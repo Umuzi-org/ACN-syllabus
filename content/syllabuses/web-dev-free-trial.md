@@ -1,5 +1,6 @@
 ---
 title: web-dev-foundations Free Trial
+_db_id: 34
 ---
 
 This short syllabus is given to new potential students. Basically they will need to see how everything works.

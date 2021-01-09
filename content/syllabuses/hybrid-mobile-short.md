@@ -1,5 +1,6 @@
 ---
-title: Hybrid mobile dev short course
+title: Hybrid mobile development
+_db_id: 18
 ---
 
 ## Part 1

@@ -1,5 +1,6 @@
 ---
 title: Intro to Tilde for students
+_db_id: 33
 ---
 
 The Tilde learning platform is not 100% intuitive to everyone from the get go. This mini-course introduces everyone to the different cards and interctions.

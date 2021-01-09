@@ -1,6 +1,6 @@
 ---
 title: Java Bridging Course
-ready: True
+_db_id: 22
 ---
 
 You’ll notice that the content below is divided up into 2 major sections. Soft skills and Hard skills.

@@ -1,11 +1,7 @@
 ---
 title: Web development Bridging Course
-ready: True
+_db_id: 25
 ---
-
-In the Web development Bridging Course you will be mixing both soft skills and hard skills on a weekly basis. 
-
-You should be completeing one Sololearn Goal each week along with the soft skills items that come above said goal.
 
 - {{% contentlink path="soft-skills/learning-how-to-learn" %}}
 - {{% contentlink path="topics/test-driven-development" %}}
