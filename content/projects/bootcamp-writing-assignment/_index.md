@@ -85,3 +85,11 @@ How much is your success worth to you?
 #### 9. Your future: the scary parts
 
 If you don't manage to launch a value career in your chosen field, what do you think your life will look like? What will this mean for your goals? What about your family and community?
+
+#### 10. Your current commitments
+
+What are your current commitments, both financial and time.
+
+We need to know this in order to assess if a full time learnership is feasible for you. 
+
+NB! Be honest and open, if you are untruthful here this could cause major problems, possibly even dismissal, at a later stage.
