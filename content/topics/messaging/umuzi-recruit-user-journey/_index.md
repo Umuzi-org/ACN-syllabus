@@ -58,10 +58,17 @@ Here at Umuzi, we require professional behavior.
 - A professional helps the people around them. That's right, if someone asks for help and you help them then that's a win
 - A professional is honest
 
+### 3. Provisional Acceptance
 
-### 3. Contract signing
+Once bootcamp is finished, Umuzi staff members (and our trusty robots) will make a final selection of who we want to accept into our program, this selection goes into a pool of provisionally accepted recruits as there may still be a number of things outstanding, the most important items are listed below:
 
-Once bootcamp is finished, Umuzi staff members (and our trusty robots) will make a final selection of who gets into our program. Those people will be offered contracts with us and will be referred to as "recruits". Here are a few details:
+ - Employer partner allocation - we need to allocate people to their sponsor. Occasionally we have more awesome provisionally accepted recruits than we have sponsors meaning some of them may be deferred to a future intake. We will endeavour to get them into an intake as soon as possible, but in the meantime they should continue up skilling an being awesome.
+ - MIE checks - Many of our employer partners are financial institutions thus we need to do criminal and background checks on each provisionally accepted recruit.
+ - Items outstanding from bootcamp - sometimes due to tight deadlines there are criteria that could not be met during bootcamp, we often need to get these done before you can be accepted and move onto the next stage. 
+
+### 4. Contract signing
+
+Once all the criteria have been met we can official accept those that made it into our program. Those people will be offered contracts with us and will be referred to as "recruits". Here are a few details:
 
 - you will technically be an employee, your job will be to grow your skills. You will be expected to follow staff members instructions and to behave professionally
 - You will get paid during your learnership. Umuzi is committed to pay you every month while you are with us. Yes, that's right! We'll pay YOU to study with us. Usually people pay good money to have access to this kind of high quality education.
@@ -70,7 +77,7 @@ Once you've signed your contract, you'll be an Umuzi recruit.
 
 There are different kinds of recruits on different programs with different requirements. So what happens next is different for different people.
 
-### 4. Level-up your foundational skills
+### 5. Level-up your foundational skills
 
 The next phase is learning. You'll be familiar with how we do things from going through our bootcamp. We'll give you a whole lot of learning to do, and lots of projects and assessments to hone your mad skillz.
 
@@ -78,7 +85,7 @@ You'll be expected to work like a real professional. You will be immersed in mod
 
 At the end of this you'll have an NQF level 5 National Certificate, and some solid, proven skills, and a network of high potential indviduals who know what you are about.
 
-### 5. Use your skills
+### 6. Use your skills
 
 Depending on how you grow there are a few different doors that can open to you during your contract period.
 
@@ -88,7 +95,7 @@ You could get to contribute to one of our organization's projects. Tilde was bui
 
 You can leave your mark.
 
-### 6. External work experience
+### 7. External work experience
 
 After the first 9 months of your contract with us, we start watching you extra closely and preparing you for job interviews. 
 
@@ -99,7 +106,7 @@ If we believe that you are work-ready then we hustle to get you an internship at
 This does all depend on the size and shape of your contract, sometimes the corporate partner who is sponsoring your learnership has different plans for you. So the external work experience isn't a 100% certain thing for everyone.
 
 
-### 7. Job time! But it's not the end...
+### 8. Job time! But it's not the end...
 
 Once your time with us is up you should be ready for work. As long as you put in the effort during our course and behave professionally then you'll be good to go.
 
@@ -109,7 +116,7 @@ We'll work hard to get you placed in a job, and if your job doesn't last for wha
 
 Of course you need to be a "work ready" professional for us to do this.
 
-### 8. Alumni Program
+### 9. Alumni Program
 
 Once you have gone through our program you are one of the family and we'll continue supporting your career. You will have ongoing access to our services and syllabus.
 
