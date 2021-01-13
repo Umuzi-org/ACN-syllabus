@@ -59,7 +59,7 @@ _db_id: 3
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/3-regular-expressions" %}}
 - {{% contentlink path="projects/tdd/password-checker/part2" flavour="javascript" %}}
 - {{% contentlink path="projects/tdd/string-calculator" flavour="javascript" %}}
-- {{% contentlink path="topics/how-the-internet-works" %}}
+- {{% contentlink path="national-qualifications-framework/ncit/content/how-the-internet-works" %}}
 - {{% contentlink path="topics/data-ethics-and-privacy" %}}
 - NCIT 05: History of the Internet
 - NCIT 09: Ethics and Professionalism in IT

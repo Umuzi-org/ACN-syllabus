@@ -1,7 +1,7 @@
 ---
 content_type: topic
 ready: false
-tags: [problem-solving, binary-arithmetic]
+tags: [ncit,problem-solving, binary-arithmetic]
 title: Thinking like a machine
 ncit_standards:
 - 115367

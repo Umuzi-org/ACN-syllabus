@@ -7,7 +7,7 @@ from pathlib import Path
 import frontmatter
 import yaml
 import logging
-logging.basicConfig(level=logging.ERROR)
+logging.basicConfig(level=logging.WARN)
 
 
 with open("flavours.yaml", "r") as f:
@@ -43,16 +43,20 @@ def check_all_frontmatter_and_directory_names(path):
 
 
 class IdChaecker:
-    seen = {}
+    seen_syllabuses = {}
+    seen_content_items = {}
 
     @classmethod
     def check(cls, db_id, title, file_path):
-        if db_id in cls.seen:
-            print(f"id = {db_id}")
-            print(f"{cls.seen[db_id]['title']} {cls.seen[db_id]['file_path']}")
-            print(f"{title} {file_path}")
-            raise Exception(f"Repeated id! {db_id}")
-        cls.seen[db_id] = {
+        if file_path.name == "_index.md":
+            # we are dealing with normal content items
+            seen = cls.seen_content_items 
+        else:
+            seen = cls.seen_syllabuses
+
+        if db_id in seen:
+            raise Exception(f"Repeated id! {db_id} found at {file_path} ({title})AND {seen[db_id]['file_path']} ({seen[db_id]['title']})")
+        seen[db_id] = {
             "title": title,
             "file_path": file_path,
         }
@@ -66,6 +70,10 @@ def check_one_file_frontmatter(file_path):
     name = file_path.name
     if not name.endswith(".md"):
         return
+    
+    if name != "_index.md":
+        # only checking content items
+        return 
     front = frontmatter.load(file_path)
 
     required = ["title","content_type"]
@@ -77,22 +85,20 @@ def check_one_file_frontmatter(file_path):
         "date",
         "disableToc",
         "todo",
-        "ncit_unit_standard",
-        "ncit_specific_outcomes",
-        "nqf",
-        "unit_standards",
+        
         "prerequisites",
         "tags",
         "story_points",
         "available_flavours",
-        "topic_needs_review"
+        "topic_needs_review",
+
+        "ncit_standards",
+        "ncit_specific_outcomes"
     ]
 
     if "_db_id" in front:
         IdChaecker.check(front["_db_id"], front["title"], file_path)
 
-
-    # is_project = str(file_path).startswith("content/projects") 
     is_project = front.get('content_type') == "project"
 
     if is_project:

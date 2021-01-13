@@ -1,5 +1,6 @@
 ---
 title: "African Coding Network Syllabus"
+content_type: topic
 ---
 
 # African Coding Network Syllabus
