@@ -1,8 +1,8 @@
 ---
 _db_id: 269
-available_flavours:
-- any_language
 content_type: project
+flavours:
+- any_language
 prerequisites:
   hard:
   - projects/tdd/simple-calculator-part1

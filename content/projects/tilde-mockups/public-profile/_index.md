@@ -1,9 +1,9 @@
 ---
 _db_id: 535
-available_flavours:
+content_type: project
+flavours:
 - javascript
 - react
-content_type: project
 ready: true
 submission_type: repo
 title: Public Profile

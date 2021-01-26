@@ -1,8 +1,8 @@
 ---
 _db_id: 594
-available_flavours:
-- kotlin
 content_type: project
+flavours:
+- kotlin
 prerequisites:
   hard:
   - projects/kotlin/project-5/live-data-transformations

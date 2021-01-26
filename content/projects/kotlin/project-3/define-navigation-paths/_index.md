@@ -1,8 +1,8 @@
 ---
 _db_id: 485
-available_flavours:
-- kotlin
 content_type: project
+flavours:
+- kotlin
 prerequisites:
   hard:
   - projects/kotlin/project-3/create-a-fragment

@@ -1,8 +1,8 @@
 ---
 _db_id: 539
-available_flavours:
-- django
 content_type: project
+flavours:
+- django
 prerequisites:
   hard:
   - topics/git-feature-branching

@@ -1,8 +1,8 @@
 ---
 _db_id: 280
-available_flavours:
-- javascript
 content_type: project
+flavours:
+- javascript
 pre: '<b>1: </b>'
 prerequisites:
   hard:

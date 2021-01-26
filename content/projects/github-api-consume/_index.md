@@ -1,8 +1,8 @@
 ---
 _db_id: 186
-available_flavours:
-- any_language
 content_type: project
+flavours:
+- any_language
 prerequisites:
   hard:
   - topics/apis/basics/

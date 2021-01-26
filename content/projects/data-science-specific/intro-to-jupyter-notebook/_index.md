@@ -1,8 +1,8 @@
 ---
 _db_id: 249
-available_flavours:
-- python
 content_type: project
+flavours:
+- python
 ready: true
 submission_type: repo
 title: Introduction to Jupyter Notebooks

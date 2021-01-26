@@ -1,8 +1,8 @@
 ---
 _db_id: 541
-available_flavours:
-- django
 content_type: project
+flavours:
+- django
 from_repo: projects/django-airbnb-clone/intro
 prerequisites:
   hard:

@@ -1,8 +1,8 @@
 ---
 _db_id: 184
-available_flavours:
-- any_language
 content_type: project
+flavours:
+- any_language
 prerequisites:
   hard:
   - topics/intro-to-asserive-programming

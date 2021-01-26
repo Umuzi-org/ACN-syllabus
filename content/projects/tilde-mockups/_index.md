@@ -1,9 +1,9 @@
 ---
 _db_id: 537
-available_flavours:
+content_type: project
+flavours:
 - javascript
 - react
-content_type: project
 prerequisites:
   hard:
   - topics/web-frontend/intro-to-web-design

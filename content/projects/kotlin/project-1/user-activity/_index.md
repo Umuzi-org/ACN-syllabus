@@ -1,8 +1,8 @@
 ---
 _db_id: 414
-available_flavours:
-- kotlin
 content_type: project
+flavours:
+- kotlin
 prerequisites:
   hard:
   - projects/kotlin/project-1/liner-layout-using-the-layout-editor

@@ -1,8 +1,8 @@
 ---
 _db_id: 270
-available_flavours:
-- any_language
 content_type: project
+flavours:
+- any_language
 from_repo: projects/tdd/password-checker/part1
 prerequisites:
   hard:

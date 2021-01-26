@@ -1,8 +1,8 @@
 ---
 _db_id: 260
-available_flavours:
-- python
 content_type: project
+flavours:
+- python
 ready: true
 submission_type: repo
 title: expose a simple JSON rest api

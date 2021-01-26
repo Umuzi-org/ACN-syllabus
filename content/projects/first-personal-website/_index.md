@@ -1,8 +1,8 @@
 ---
 _db_id: 220
-available_flavours:
-- none
 content_type: project
+flavours:
+- none
 prerequisites:
   hard:
   - topics/free-code-camp/responsive-web-design/1-basic-html-and-html-5

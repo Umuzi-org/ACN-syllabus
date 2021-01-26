@@ -1,8 +1,8 @@
 ---
 _db_id: 607
-available_flavours:
-- none
 content_type: project
+flavours:
+- none
 ready: true
 submission_type: link
 title: 'Tilde project tutorial: How to submit a link'

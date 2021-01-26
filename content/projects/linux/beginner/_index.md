@@ -1,8 +1,8 @@
 ---
 _db_id: 188
-available_flavours:
-- bash
 content_type: project
+flavours:
+- bash
 prerequisites:
   hard:
   - topics/linux/intro-to-linux

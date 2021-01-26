@@ -1,9 +1,9 @@
 ---
 _db_id: 534
-available_flavours:
+content_type: project
+flavours:
 - javascript
 - react
-content_type: project
 ready: true
 submission_type: repo
 title: Code Review Performance Dashboard mockup

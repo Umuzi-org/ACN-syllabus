@@ -1,8 +1,8 @@
 ---
 _db_id: 200
-available_flavours:
-- none
 content_type: project
+flavours:
+- none
 prerequisites:
   hard:
   - sql/topics/intro-to-relational-databases

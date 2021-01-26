@@ -1,8 +1,8 @@
 ---
 _db_id: 425
-available_flavours:
-- swift
 content_type: project
+flavours:
+- swift
 prerequisites:
   hard:
   - projects/ios-mobile/multithreading-layout-and-functionality

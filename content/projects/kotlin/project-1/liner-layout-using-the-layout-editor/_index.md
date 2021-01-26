@@ -1,8 +1,8 @@
 ---
 _db_id: 378
-available_flavours:
-- kotlin
 content_type: project
+flavours:
+- kotlin
 prerequisites:
   hard:
   - topics/kotlin/grid-layout

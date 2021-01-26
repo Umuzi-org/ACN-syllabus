@@ -1,8 +1,8 @@
 ---
 _db_id: 499
-available_flavours:
-- python
 content_type: project
+flavours:
+- python
 prerequisites:
   hard:
   - topics/data-science-specific/datacamp/intro-to-python

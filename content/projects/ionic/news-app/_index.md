@@ -1,10 +1,10 @@
 ---
 _db_id: 494
-available_flavours:
+content_type: project
+flavours:
 - angular
 - typescript
 - ionic
-content_type: project
 prerequisites:
   hard:
   - topics/ionic/ionic-tools-and-patterns

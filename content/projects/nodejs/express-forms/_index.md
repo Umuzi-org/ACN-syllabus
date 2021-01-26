@@ -1,8 +1,8 @@
 ---
 _db_id: 279
-available_flavours:
-- javascript
 content_type: project
+flavours:
+- javascript
 from_repo: projects/nodejs/file-io
 pre: '<b>3: </b>'
 prerequisites:

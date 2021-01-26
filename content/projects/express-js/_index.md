@@ -1,8 +1,8 @@
 ---
 _db_id: 191
-available_flavours:
-- javascript
 content_type: project
+flavours:
+- javascript
 ready: true
 submission_type: repo
 title: ExpressJS

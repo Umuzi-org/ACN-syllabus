@@ -1,8 +1,8 @@
 ---
 _db_id: 608
-available_flavours:
-- none
 content_type: project
+flavours:
+- none
 from_repo: projects/tilde/repo-card-tutorial/part-1
 prerequisites:
   hard:

@@ -1,9 +1,9 @@
 ---
 _db_id: 231
-available_flavours:
+content_type: project
+flavours:
 - angular
 - typescript
-content_type: project
 ready: true
 submission_type: repo
 title: Memory game using Angular Material

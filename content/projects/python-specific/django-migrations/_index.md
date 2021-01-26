@@ -1,8 +1,8 @@
 ---
 _db_id: 257
-available_flavours:
-- python
 content_type: project
+flavours:
+- python
 ready: true
 submission_type: repo
 title: Django - exposing a REST api with a real database

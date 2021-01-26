@@ -1,10 +1,14 @@
 ---
+_db_id: 639
 content_type: topic
-ready: false
-tags: [ncit,problem-solving, binary-arithmetic]
-title: Thinking like a machine
 ncit_standards:
 - 115367
+ready: false
+tags:
+- ncit
+- problem-solving
+- binary-arithmetic
+title: Thinking like a machine
 ---
 
 ## 1. Problem solving

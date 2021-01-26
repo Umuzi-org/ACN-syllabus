@@ -1,8 +1,8 @@
 ---
 _db_id: 606
-available_flavours:
-- none
 content_type: project
+flavours:
+- none
 prerequisites:
   hard:
   - topics/github/intro

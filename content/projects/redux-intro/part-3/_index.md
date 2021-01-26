@@ -1,9 +1,9 @@
 ---
 _db_id: 551
-available_flavours:
+content_type: project
+flavours:
 - javascript
 - typescript
-content_type: project
 from_repo: projects/redux-intro/part-1
 prerequisites:
   hard:

@@ -1,8 +1,8 @@
 ---
 _db_id: 187
-available_flavours:
-- bash
 content_type: project
+flavours:
+- bash
 ready: false
 submission_type: repo
 title: Advanced Linux challenges

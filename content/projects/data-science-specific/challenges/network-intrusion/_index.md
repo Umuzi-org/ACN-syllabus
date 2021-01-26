@@ -1,8 +1,8 @@
 ---
 _db_id: 250
-available_flavours:
-- python
 content_type: project
+flavours:
+- python
 pre: '<b> HARD: </b>'
 ready: true
 submission_type: repo

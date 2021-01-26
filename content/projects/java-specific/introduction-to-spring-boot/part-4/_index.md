@@ -1,8 +1,8 @@
 ---
 _db_id: 215
-available_flavours:
-- java
 content_type: project
+flavours:
+- java
 from_repo: projects/java-specific/introduction-to-spring-boot/part-1
 prerequisites:
   hard:

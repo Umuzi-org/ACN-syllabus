@@ -1,8 +1,8 @@
 ---
 _db_id: 601
-available_flavours:
-- kotlin
 content_type: project
+flavours:
+- kotlin
 prerequisites:
   hard:
   - projects/kotlin/project-7/gridlayout-and-recyclerview

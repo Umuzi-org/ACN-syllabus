@@ -1,8 +1,8 @@
 ---
 _db_id: 428
-available_flavours:
-- swift
 content_type: project
+flavours:
+- swift
 prerequisites:
   hard:
   - projects/ios-mobile/timer-segues-autolayout

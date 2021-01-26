@@ -1,8 +1,8 @@
 ---
 _db_id: 620
-available_flavours:
-- swift
 content_type: project
+flavours:
+- swift
 prerequisites:
   hard:
   - topics/ios-mobile/tdd-unit-testing

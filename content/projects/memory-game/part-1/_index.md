@@ -1,11 +1,11 @@
 ---
 _db_id: 222
-available_flavours:
+content_type: project
+flavours:
 - javascript
 - typescript
 - any_frontend_framework
 - redux
-content_type: project
 ready: true
 story_points: 5
 submission_type: repo

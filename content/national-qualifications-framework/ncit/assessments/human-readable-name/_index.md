@@ -1,10 +1,14 @@
 ---
-title: Something meaningful for humans
+_db_id: 638
+content_type: topic
 ncit_standards:
 - 115367
-content_type: topic
+tags:
+- ncit
+- problem-solving
+- binary-arithmetic
+title: Something meaningful for humans
 topic_needs_review: true
-tags: [ncit,problem-solving, binary-arithmetic]
 ---
 
 This is just a placeholder to show how we can deal with nqf assessments for now.
@@ -12,4 +16,3 @@ This is just a placeholder to show how we can deal with nqf assessments for now.
 - make sure the title is an actual title, not just a number
 - link to gnomio. If you can link straight to the assessment that they need to do then that's even better.
 - prerequisites should be included too. Make sure you link to the relevent qf content that covers the work being assessed
-  

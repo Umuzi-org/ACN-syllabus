@@ -1,11 +1,11 @@
 ---
 _db_id: 550
-available_flavours:
+content_type: project
+flavours:
 - javascript
 - typescript
 - any_frontend_framework
 - redux
-content_type: project
 from_repo: projects/memory-game/part-1
 prerequisites:
   hard:

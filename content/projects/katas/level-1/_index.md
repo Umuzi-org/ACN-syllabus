@@ -1,8 +1,8 @@
 ---
 _db_id: 219
-available_flavours:
-- any_language
 content_type: project
+flavours:
+- any_language
 ready: true
 story_points: 3
 submission_type: repo

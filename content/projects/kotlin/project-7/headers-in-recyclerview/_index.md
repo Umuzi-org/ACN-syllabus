@@ -1,8 +1,8 @@
 ---
 _db_id: 603
-available_flavours:
-- kotlin
 content_type: project
+flavours:
+- kotlin
 prerequisites:
   hard:
   - projects/kotlin/project-7/interacting-with-recyclerview-items

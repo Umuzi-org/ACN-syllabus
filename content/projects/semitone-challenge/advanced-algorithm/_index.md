@@ -1,9 +1,9 @@
 ---
 _db_id: 197
-available_flavours:
+content_type: project
+flavours:
 - javascript
 - typescript
-content_type: project
 from_repo: projects/semitone-challenge/basic-algorithm
 pre: <b>3. </b>
 prerequisites:

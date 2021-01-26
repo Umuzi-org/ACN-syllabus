@@ -1,8 +1,8 @@
 ---
 _db_id: 202
-available_flavours:
-- kotlin
 content_type: project
+flavours:
+- kotlin
 ready: true
 submission_type: repo
 title: Information Page

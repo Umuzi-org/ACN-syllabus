@@ -1,8 +1,8 @@
 ---
 _db_id: 225
-available_flavours:
-- any_language
 content_type: project
+flavours:
+- any_language
 from_repo: projects/oop/animals/part1
 prerequisites:
   hard:
@@ -93,16 +93,8 @@ Test -> Does cat eat Food should Pass
 Test -> Does cat eat food should Fail
 
 ```
-
 ### Up for a Challenge?
 
 This section is not compulsory. If you do this we'll think you're cool.
 
-Add some functionality to `TestDog()` and `TestCat()` so that the tests aren't case sensitive
-
-eg:
-
-```
-Test -> Does dog eat Food -> Pass
-Test -> Does dog eat food -> Pass
-```
+Add some extra tests for your Home class.  Make sure that it makes all the right noises. And that you can't adopt the same pet twice.

@@ -1,9 +1,9 @@
 ---
 _db_id: 536
-available_flavours:
+content_type: project
+flavours:
 - javascript
 - react
-content_type: project
 ready: true
 submission_type: repo
 title: Volunteer Pair-programming Dashboard

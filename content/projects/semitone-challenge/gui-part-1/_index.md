@@ -1,9 +1,9 @@
 ---
 _db_id: 196
-available_flavours:
+content_type: project
+flavours:
 - javascript
 - any_frontend_framework
-content_type: project
 from_repo: projects/semitone-challenge/basic-algorithm
 pre: <b>1. </b>
 prerequisites:
@@ -19,14 +19,35 @@ weight: 2
 
 Create a basic web site that a user can use to interact with the JamBuddy class.
 
-If you are required to do this ni a web framework then do so, otherwise create a simple `index.html` page that a user can just open in their browser.
+If you are required to do this in a web framework then do so, otherwise create a simple `index.html` page that a user can just open in their browser.
 
-- Make a button with the text "Get random notes". If the user clicks on this button then the selectNotes function should be called and the notes should be displayed on the screen.
+- Make a button with the text "Get random notes". If the user clicks on this button then the `selectNotes` function should be called and the notes should be displayed on the screen.
 - make an input box where the user can enter their answer.
-- create a button with the text "Submit answer". If the user clicks this button then the checkAnswer function should be called.
+- create a button with the text "Submit answer". If the user clicks this button then the `checkAnswer` function should be called.
   - if the answer is correct then display the message "You got it right .Well Done!"
   - if the answer is incorrect then display the message "Wrong answer! Try again"
 
 ## Acceptance criteria
 
-TDD is a must. Yes, you need to even unit test your DOM manipulations
+### Directory structure
+
+Please put your html in a file called index.html in your root directory.
+
+### Unit tests
+
+TDD is a must. Yes, you need to even unit test your DOM manipulations.
+
+This is useful: https://github.com/jsdom/jsdom 
+
+When testing your dom, don't just check that your boring html exists. Make sure that when the "Get random notes" button is clicked then the right dom elements get updated. Tests do not exist to take up space, they exist to make sure your code actually works.
+
+### Make it look reasonably good
+
+We don't need you to win any design awards here, but put some effort into the looks. If you make anyone's eyes bleed that would be a problem.
+
+Here are a few tools you might want to explore:
+
+- [Tailwind](https://tailwindcss.com/docs/installation#using-tailwind-via-cdn) Just use the CDN to keep it simple for now
+- [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+
+You can also do your own styling from scratch. 

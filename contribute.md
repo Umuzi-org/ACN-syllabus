@@ -189,7 +189,7 @@ Here they are:
 
 Some projects can be done in js or typescript. Some projects can be done in any language. Some can be done in any frontend framework. Some are specfic to Angular and typescript.This is where you specify what is available. All the flavour names that are allowed can be seen in `flavours.yaml`. You can take any combination of the strings in this file.
 
-The available flavours are specified in `available_flavours`.
+The available flavours are specified in `flavours`.
 
 #### <a name="topic"></a> Topic specific stuff
 

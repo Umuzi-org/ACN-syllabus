@@ -1,8 +1,8 @@
 ---
 _db_id: 227
-available_flavours:
-- any_language
 content_type: project
+flavours:
+- any_language
 ready: true
 submission_type: repo
 title: Dice

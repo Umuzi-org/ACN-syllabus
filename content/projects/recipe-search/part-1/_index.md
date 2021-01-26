@@ -1,9 +1,9 @@
 ---
 _db_id: 532
-available_flavours:
+content_type: project
+flavours:
 - javascript
 - typescript
-content_type: project
 prerequisites:
   hard:
   - projects/redux-intro/part-1

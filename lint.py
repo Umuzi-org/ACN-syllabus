@@ -89,7 +89,7 @@ def check_one_file_frontmatter(file_path):
         "prerequisites",
         "tags",
         "story_points",
-        "available_flavours",
+        "flavours",
         "topic_needs_review",
 
         "ncit_standards",
@@ -117,7 +117,7 @@ def check_one_file_frontmatter(file_path):
                 front["from_repo"] in hard_prereq
             ), f"{file_path}: expected hard prepreq: '{front['from_repo']}'\nonly found: {hard_prereq}"
         if front["submission_type"] != "nosubmit":
-            required.append("available_flavours")
+            required.append("flavours")
         if front["submission_type"] == "repo":
             allowed.append("template_repo")
 
@@ -131,8 +131,8 @@ def check_one_file_frontmatter(file_path):
             logging.error(f"{file_path} has MISSING frontmatter: {key}")
             continue
 
-    if "available_flavours" in front and front.get("submission_type") != "nosubmit":
-        for option in front["available_flavours"]:
+    if "flavours" in front and front.get("submission_type") != "nosubmit":
+        for option in front["flavours"]:
             assert option in flat_options, f"{option} not in {flat_options}"
 
 

@@ -1,8 +1,8 @@
 ---
 _db_id: 622
-available_flavours:
-- none
 content_type: project
+flavours:
+- none
 submission_type: link
 title: Business selfie
 ---

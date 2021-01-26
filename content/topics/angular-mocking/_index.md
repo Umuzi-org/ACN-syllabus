@@ -1,9 +1,9 @@
 ---
 _db_id: 475
-available_flavours:
+content_type: topic
+flavours:
 - angular
 - typescript
-content_type: topic
 prerequisites:
   hard:
   - topics/angular-testing-cucumber

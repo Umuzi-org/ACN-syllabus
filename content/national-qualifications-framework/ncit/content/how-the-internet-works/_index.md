@@ -18,8 +18,8 @@ ncit_specific_outcomes:
     email, instant messaging and Voice-over-IP (VoIP)
   outcome: 2
   title: Explain how the world-wide-web incorporates the various internet applications
-ncit_standards: 
-  - 115391
+ncit_standards:
+- 115391
 ready: true
 title: How the internet works
 ---

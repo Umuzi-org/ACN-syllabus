@@ -1,9 +1,9 @@
 ---
 _db_id: 199
-available_flavours:
+content_type: project
+flavours:
 - typescript
 - javascript
-content_type: project
 pre: <b>1. </b>
 prerequisites:
   hard:

@@ -1,8 +1,8 @@
 ---
 _db_id: 421
-available_flavours:
-- none
 content_type: project
+flavours:
+- none
 ready: true
 submission_type: repo
 title: Capstone project

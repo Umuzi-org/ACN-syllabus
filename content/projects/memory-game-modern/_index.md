@@ -1,8 +1,8 @@
 ---
 _db_id: 287
-available_flavours:
-- any_frontend_framework
 content_type: project
+flavours:
+- any_frontend_framework
 submission_type: repo
 title: 'Memory Game: rebuild using a modern web frontend framework'
 ---

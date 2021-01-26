@@ -1,8 +1,8 @@
 ---
 _db_id: 242
-available_flavours:
-- python
 content_type: project
+flavours:
+- python
 pre: '<b> HARD: </b>'
 prerequisites:
   hard:

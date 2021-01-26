@@ -1,8 +1,8 @@
 ---
 _db_id: 593
-available_flavours:
-- kotlin
 content_type: project
+flavours:
+- kotlin
 prerequisites:
   hard:
   - projects/kotlin/project-8/loading-displaying-images

@@ -1,8 +1,8 @@
 ---
 _db_id: 600
-available_flavours:
-- kotlin
 content_type: project
+flavours:
+- kotlin
 prerequisites:
   hard:
   - projects/kotlin/project-9/material-designs-dimensions-and-colours

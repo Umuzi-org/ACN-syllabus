@@ -1,8 +1,8 @@
 ---
 _db_id: 268
-available_flavours:
-- any_language
 content_type: project
+flavours:
+- any_language
 from_repo: projects/tdd/simple-calculator-part1
 pre: '<b>MEDIUM: </b>'
 prerequisites:

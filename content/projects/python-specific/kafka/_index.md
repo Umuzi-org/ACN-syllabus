@@ -1,8 +1,8 @@
 ---
 _db_id: 258
-available_flavours:
-- python
 content_type: project
+flavours:
+- python
 prerequisites:
   hard:
   - topics/python-specific/kafka

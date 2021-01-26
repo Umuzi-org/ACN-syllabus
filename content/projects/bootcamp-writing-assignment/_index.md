@@ -1,8 +1,8 @@
 ---
 _db_id: 429
-available_flavours:
-- markdown
 content_type: project
+flavours:
+- markdown
 ready: true
 submission_type: repo
 title: Bootcamp Writing Assignment

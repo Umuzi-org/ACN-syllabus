@@ -1,9 +1,9 @@
 ---
 _db_id: 533
-available_flavours:
+content_type: project
+flavours:
 - javascript
 - typescript
-content_type: project
 from_repo: projects/recipe-search/part-1
 prerequisites:
   hard:

@@ -1,8 +1,8 @@
 ---
 _db_id: 637
-available_flavours:
-- any_language
 content_type: project
+flavours:
+- any_language
 from_repo: projects/katas/level-1
 prerequisites:
   hard:

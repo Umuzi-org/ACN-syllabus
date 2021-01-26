@@ -1,8 +1,8 @@
 ---
 _db_id: 413
-available_flavours:
-- kotlin
 content_type: project
+flavours:
+- kotlin
 prerequisites:
   hard:
   - topics/kotlin/data-binding

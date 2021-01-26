@@ -1,8 +1,8 @@
 ---
 _db_id: 272
-available_flavours:
-- any_language
 content_type: project
+flavours:
+- any_language
 pre: '<b>HARD: </b>'
 ready: true
 submission_type: repo

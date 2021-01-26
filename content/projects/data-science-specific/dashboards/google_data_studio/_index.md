@@ -1,8 +1,8 @@
 ---
 _db_id: 239
-available_flavours:
-- python
 content_type: project
+flavours:
+- python
 pre: '<b> EASY: </b>'
 prerequisites:
   hard:

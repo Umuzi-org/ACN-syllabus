@@ -1,10 +1,10 @@
 ---
 _db_id: 492
-available_flavours:
+content_type: project
+flavours:
 - typescript
 - angular
 - ionic
-content_type: project
 prerequisites:
   hard:
   - topics/ionic/introduction-to-ionic

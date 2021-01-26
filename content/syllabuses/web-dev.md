@@ -3,6 +3,7 @@ title: Web Development
 _db_id: 3
 ---
 
+
 - Introduction to NCIT curriculum
 
 - {{% contentlink path="soft-skills/learning-how-to-learn" %}}
@@ -18,7 +19,6 @@ _db_id: 3
 - {{% contentlink path="workshops/how-to-be-a-professional" %}}
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/2-es6" %}}
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/4-debugging" %}}
-- {{% contentlink path="topics/web-dev-self-learning" %}}
 - {{% contentlink path="topics/clean-code" %}}
 - {{% contentlink path="projects/git-exercises" %}}
 - NCIT 04: Version control (GIT) for teamwork
@@ -45,6 +45,7 @@ _db_id: 3
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/7-object-orientated-programming" %}}
 - {{% contentlink path="topics/jasmine-unit-tests" %}}
 - {{% contentlink path="projects/oop/animals/part2"  flavour="javascript" %}}
+- {{% contentlink path="projects/semitone-challenge/basic-algorithm"  flavour="javascript" %}}
 - NCIT 13: Object-oriented programming
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/5-basic-data-structures" %}}
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/6-basic-algorithmic-scripting" %}}
@@ -52,8 +53,13 @@ _db_id: 3
 * {{% contentlink path="topics/free-code-camp/responsive-web-design/4-applied-accessability" %}}
 * {{% contentlink path="topics/free-code-camp/responsive-web-design/5-responsive-web-design-principles" %}}
 * {{% contentlink path="topics/free-code-camp/responsive-web-design/6-css-flexbox" optional="1" %}}
+- {{% contentlink path="projects/semitone-challenge/gui-part-1" flavour="javascript,noframework" %}}
 
+
+  
 - {{% contentlink path="projects/semitone-challenge/gui-part-2"  flavour="javascript,noframework" %}}
+
+
 - {{% contentlink path="topics/js-and-node-specific/logging" %}}
 - NCIT 11: Test-driven development
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/3-regular-expressions" %}}

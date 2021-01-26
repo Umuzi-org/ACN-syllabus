@@ -1,8 +1,8 @@
 ---
 _db_id: 243
-available_flavours:
-- python
 content_type: project
+flavours:
+- python
 ready: true
 submission_type: repo
 title: Webscraping Assignment
