@@ -280,7 +280,7 @@ Date:   Tue Apr 23 14:43:51 2019 +0200
 
 ### merging
 
-Now we want to get the main up to date with all out changes. Let's start with the milkshake branch
+Now we want to get the main up to date with all our changes. Let's start with the milkshake branch
 
 1. merge milkshake-flavours into main
 
