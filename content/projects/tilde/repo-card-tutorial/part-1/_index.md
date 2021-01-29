@@ -20,7 +20,7 @@ If you have not yet clicked the "start project" button for this card, do so now.
 It might take a few seconds to move. The reason for this is that a whole lot of things are happening in the background.
 
 - A github repo is created for you to work on. This is a private repo, so only certain people can see it
-- The master branch is protected. We'll talk more about what this means a little bit later
+- The main branch is protected. We'll talk more about what this means a little bit later
 - you are added as a "collaborator" on the repo so you have access
 
 Now explore the card. Click on the details button and see what's there.
@@ -41,9 +41,9 @@ Generally when you work on a serious project with a serious team, you'll need to
 
 I admit it might feel a little weird at first, but you'll get used to it :)
 
-### Why can't I push to the master branch?
+### Why can't I push to the main branch?
 
-We "protect" the master branch in order to stop you from pushing to it. The reason we do this is because on a professional dev team, you wont be pushing straight to master. You'll be making your own branches and getting those reviewed and merged into the master branch by interacting with your team mates. This keeps the master branch clean and shiney.
+We "protect" the main branch in order to stop you from pushing to it. The reason we do this is because on a professional dev team, you wont be pushing straight to master. You'll be making your own branches and getting those reviewed and merged into the main branch by interacting with your team mates. This keeps the main branch clean and shiney.
 
 ## Instructions
 
@@ -51,13 +51,13 @@ If you look at the project details you'll see that a repo has been created for y
 
 ### 1. Make a branch
 
-Create a branch. In your branch add a markdown file. This is a plain text file with the extension `.md`. You can create one of these with ny old text editer. We'll learn more about markdown later, it's a useful tool for documenting projects.
+Create a branch. In your branch add a markdown file. This is a plain text file with the extension `.md`. You can create one of these with ny old text editor. We'll learn more about markdown later, it's a useful tool for documenting projects.
 
 In your markdown file, just write some stuff. Whatever you want really. Make a new commit on your branch with your new content.
 
 ### 2. Make a PR (Pull Request)
 
-Make a PR that in order to merge your stuff into master. You'll notice that you can't merge it though. This is because the master branch is protected. You need to get a little help.
+Make a PR that in order to merge your stuff into master. You'll notice that you can't merge it though. This is because the main branch is protected. You need to get a little help.
 
 ### 3. Get your PR merged
 
@@ -89,15 +89,15 @@ On the flip side, if someone asks you to review their work then treat that as yo
 
 **NOTE:** If your PR is not merged you will be marked as Not Yet Competent or Red Flag!!
 
-Now that your master branch is totally up to date with all the things, you can ask for a final review by clicking on the "Request Review" button on your Tilde board.
+Now that your main branch is totally up to date with all the things, you can ask for a final review by clicking on the "Request Review" button on your Tilde board.
 
-This tells your peers and staff that you think your master branch is up to date and complete, and that you think your work is Competent or Excellent.
+This tells your peers and staff that you think your main branch is up to date and complete, and that you think your work is Competent or Excellent.
 
-**DONT DO THIS IF:**
+**DON'T DO THIS IF:**
 
 - your stuff isn't merged
-- you didn't complete the project, for example, if you skipped part 4 of a 5 part excercise then make a PR to complete your work first
+- you didn't complete the project, for example, if you skipped part 4 of a 5 part exercise then make a PR to complete your work first
 
-### 5. Double check that your master branch is up to date!
+### 5. Double check that your main branch is up to date!
 
-If your master branch is empty at this point then cancel your review request, get your work merged, then put your card back into the review column
+If your main branch is empty at this point then cancel your review request, get your work merged, then put your card back into the review column

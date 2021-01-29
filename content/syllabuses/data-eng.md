@@ -68,7 +68,7 @@ _db_id: 4
 - {{% contentlink path="topics/python-specific/iterators" optional="1" %}}
 - {{% contentlink path="topics/python-specific/automate-the-boring-stuff-book/chapter-12-web-scraping" %}}
 
-- {{% contentlink path="sql/projects/" %}}
+- {{% contentlink path="sql/shop-project/" %}}
 - NCIT 14: Database Development
 - {{% contentlink path="topics/tech-terminology" %}}
 - {{% contentlink path="topics/data-infrastructure/database-comparison/" %}}

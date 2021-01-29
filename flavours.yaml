@@ -7,6 +7,11 @@ any_language:
   - typescript
   - bash
 
+any_unit_testing:
+  - pytest
+  - junit
+  - jasmine
+
 any_frontend_framework:
   - react
   - angular
@@ -26,3 +31,7 @@ any_plain_text:
 
 misc:
   - redux
+
+databases:
+  - postgres
+  - mongo

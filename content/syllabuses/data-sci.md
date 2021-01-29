@@ -49,7 +49,7 @@ _db_id: 2
 - {{% contentlink path="projects/data-science-specific/oop-for-data-science" flavour="python" %}}
 - {{% contentlink path="projects/data-science-specific/dashboards/plotly_dashboards" flavour="python" %}}
 - NCIT 14: Database Development
-- {{% contentlink path="sql/projects/" %}}
+- {{% contentlink path="sql/shop-project/" %}}
 - NCIT 15: Analytics, Surveys, and Reports / Input & Output
 - {{% contentlink path="projects/data-science-specific/logistic-regression/breast-cancer"  flavour="python"%}}
 - {{% contentlink path="agile/agile-scrum-slides/" %}}

@@ -24,7 +24,7 @@ If we say a function takes an input then we dont mean you should ask the user to
 
 ## Note to web devs
 
-Please don't submit any HTML or CSS. Please don't use `document.write`. We are interested in seeing how you implement these algorithms. Use `console.log`
+Please don't submit any HTML or CSS. Please don't use `document.write`. We are interested in seeing how you implement these algorithms. Use `console.log` if you are asked to print things.
 
 ## What does success look like
 

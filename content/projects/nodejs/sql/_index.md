@@ -6,7 +6,7 @@ flavours:
 from_repo: projects/nodejs/file-io
 prerequisites:
   hard:
-  - sql/projects
+  - sql/shop-project
   - workshops/node-and-sql/
   - projects/nodejs/file-io
   soft: []

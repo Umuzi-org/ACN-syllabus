@@ -125,7 +125,7 @@ home.makeAllSounds();
 
 This section is not compulsory. If you do this we'll think you're cool.
 
-Add some functionality to `adoptPet` so that an error/exception gets raised if you try to adoptThe same pet twice
+Add some functionality to `adoptPet` so that an error/exception gets raised if you try to adopt the same pet twice
 
 eg:
 

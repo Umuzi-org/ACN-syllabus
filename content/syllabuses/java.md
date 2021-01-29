@@ -40,7 +40,7 @@ _db_id: 7
 - String Calculator
 - {{% contentlink path="projects/tdd/string-calculator" flavour="java" %}}
 - SQL
-- {{% contentlink path="sql/projects" %}}
+- {{% contentlink path="sql/shop-project" %}}
 
 * Java Collections
 * {{% contentlink path="projects/java-specific/collections" flavour="java" %}}

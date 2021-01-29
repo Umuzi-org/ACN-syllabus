@@ -15,9 +15,11 @@ Why?
 
 A real coder aims to understand stuff. And if you want to be a professional coder and all you know how to do is copy-paste other people's hard work you wont make it as a professional.
 
-## Help each other
+## Help each other intelligently
 
 If someone gets stuck, help them to understand. Don't just give them code to copy.
+
+If you give someone else code to copy then we'll be forced to reject both you and the person you "helped".
 
 ## Follow instructions carefully and completely
 
@@ -32,6 +34,6 @@ You also need to go through any listed pre-requisites. You'll often see those at
 
 ![Prerequisites](prereq.png)
 
-## DONT COPY CODE!!!!
+## DON'T COPY CODE!!!!
 
 Yes, I'm repeating myself. If we catch people copying then those people have lost their opportunity. It's always sad when we have to tell people to leave. Please take this very seriously.
