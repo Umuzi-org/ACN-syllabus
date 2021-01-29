@@ -1,11 +1,12 @@
 ---
-title: SQL Library excercise
+_db_id: 641
 content_type: project
+flavours:
+- postgres
 submission_type: repo
 tags:
-  - sql
-flavours: 
-  - postgres
+- sql
+title: SQL Library excercise
 ---
 
 ## Introduction
@@ -70,4 +71,3 @@ Make another script. Please write queries to achieve the following:
 1. count how many books there are in total
 2. find out which author has the most books
 3. find out how many books there are according to nationality, eg maybe there are 5 books from South African authors and 3 books from Hong Kong
-

@@ -50,4 +50,4 @@ Here are a few tools you might want to explore:
 - [Tailwind](https://tailwindcss.com/docs/installation#using-tailwind-via-cdn) Just use the CDN to keep it simple for now
 - [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
-You can also do your own styling from scratch. 
+You can also do your own styling from scratch.

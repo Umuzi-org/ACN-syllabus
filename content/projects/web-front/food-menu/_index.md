@@ -1,12 +1,13 @@
 ---
-title: Resturaunt menu
+_db_id: 646
 content_type: project
-submission_type: repo 
-tags: 
-  - html
-  - css
 flavours:
-  - any_frontend_framework
+- any_frontend_framework
+submission_type: repo
+tags:
+- html
+- css
+title: Resturaunt menu
 ---
 
 Hey web developer, let's see your HTML and CSS skills.

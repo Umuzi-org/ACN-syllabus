@@ -1,19 +1,20 @@
 ---
-title: Add Leaderoard functionality
-content_type: project 
-submission_type: continue_repo 
-prerequisites: 
-    hard: 
-      - projects/gamification-engine/start
-from_repo:  projects/gamification-engine/start
-flavours: 
-  - any_unit_testing
-  - any_language
-
+_db_id: 644
+content_type: project
+flavours:
+- any_unit_testing
+- any_language
+from_repo: projects/gamification-engine/start
+prerequisites:
+  hard:
+  - projects/gamification-engine/start
+submission_type: continue_repo
 tags:
-  - tdd
-  - oop
+- tdd
+- oop
+title: Add Leaderoard functionality
 ---
+
 ### Leaderboards
 
 The next thing we need is to be able to see who is winning. Create a function called `leaderboard`. It needs to return a string. This is best explained through an example:

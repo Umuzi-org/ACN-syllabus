@@ -1,13 +1,14 @@
 ---
-title: Gamification engine 
-flavours: 
-  - any_unit_testing
-  - any_language
-content_type: project 
-submission_type: repo 
-tags: 
-    - tdd
-    - oop
+_db_id: 643
+content_type: project
+flavours:
+- any_unit_testing
+- any_language
+submission_type: repo
+tags:
+- tdd
+- oop
+title: Gamification engine
 ---
 
 In this project you'll be demonstrating your knowledge of unit testing and oop. In order for your code to be acceptable, you'll need to make sure you follow best practices. NAme your stuff properly, write clean code, write clear small functions. All that stuff.
@@ -136,4 +137,3 @@ engine.get_score("tshepo@whatever.org","pull_requests_made")  // returns 0
 
 engine.get_score("bob@whatever.org","pull_request_reviews_done")  // returns 0 since we never gave bob any points
 ```
-
