@@ -1,11 +1,11 @@
 ---
 _db_id: 376
 content_type: topic
+ncit_standards:
+- 115373
 ready: false
 tags: []
 title: Search and Sort Techniques
-ncit_standards:
-- 115373
 ---
 
 ## 1. Abstract data types

@@ -1,11 +1,11 @@
 ---
 _db_id: 372
 content_type: topic
+ncit_standards:
+- 115365
 ready: false
 tags: []
 title: Analytics, Surveys, and Reports
-ncit_standards:
-- 115365
 ---
 
 ## 1. Google Analytics

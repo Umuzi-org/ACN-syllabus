@@ -1,11 +1,11 @@
 ---
 _db_id: 363
 content_type: topic
+ncit_standards:
+- 115388
 ready: false
 tags: []
 title: Pseudocode and documentation
-ncit_standards:
-- 115388
 ---
 
 ### 1. Why document?

@@ -1,11 +1,13 @@
 ---
 _db_id: 357
 content_type: topic
-ready: false
-tags: [agile, scrum]
-title: Agile Meetings
 ncit_standards:
 - 114051
+ready: false
+tags:
+- agile
+- scrum
+title: Agile Meetings
 ---
 
 ## 1. What is Scrum?

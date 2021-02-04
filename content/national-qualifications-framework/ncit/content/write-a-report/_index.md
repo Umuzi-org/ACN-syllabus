@@ -1,11 +1,11 @@
 ---
 _db_id: 355
 content_type: topic
+ncit_standards:
+- 116389
 ready: false
 tags: []
 title: Write a report
-ncit_standards:
-- 116389
 ---
 
 ## 1. What is a technical report?

@@ -1,11 +1,11 @@
 ---
 _db_id: 364
 content_type: topic
+ncit_standards:
+- 114050
 ready: false
 tags: []
 title: Business and Technology
-ncit_standards:
-- 114050
 ---
 
 ## 1. Fundamental business concepts

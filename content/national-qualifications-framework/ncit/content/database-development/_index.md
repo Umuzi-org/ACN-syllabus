@@ -1,12 +1,13 @@
 ---
 _db_id: 373
 content_type: topic
-ready: false
-tags: [sql]
-title: Database Development
 ncit_standards:
 - 114048
 - 114049
+ready: false
+tags:
+- sql
+title: Database Development
 ---
 
 ### 1. Database management systems

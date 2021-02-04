@@ -1,11 +1,12 @@
 ---
 _db_id: 374
 content_type: topic
-ready: false
-tags: [agile]
-title: Managing the Software Development Process
 ncit_standards:
 - 115392
+ready: false
+tags:
+- agile
+title: Managing the Software Development Process
 ---
 
 ## 1. Understand the problem
@@ -188,4 +189,3 @@ Review the section on “User Docs” to recall the important parts of user docu
 
 
 Of course, you’ll also want extensive documentation within the source files of your program. This includes comments which explain each function and important variables, as well as high-level summaries of each source file which describes its functionality, content, and last update time. Review the sections on “comments as documentation” and “high-level summaries” for the key points.
-

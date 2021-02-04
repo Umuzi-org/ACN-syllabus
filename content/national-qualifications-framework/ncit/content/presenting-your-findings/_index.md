@@ -1,11 +1,11 @@
 ---
 _db_id: 375
 content_type: topic
+ncit_standards:
+- 13925
 ready: false
 tags: []
 title: Presenting your findings
-ncit_standards:
-- 13925
 ---
 
 ### 1. Introduction to presentations

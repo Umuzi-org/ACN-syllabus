@@ -1,12 +1,12 @@
 ---
 _db_id: 368
 content_type: topic
-ready: false
-tags: []
-title: Conducting Research and User Interviews
 ncit_standards:
 - 114076
 - 115358
+ready: false
+tags: []
+title: Conducting Research and User Interviews
 ---
 
 ## Human-Centered Design

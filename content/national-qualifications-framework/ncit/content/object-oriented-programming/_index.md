@@ -1,11 +1,12 @@
 ---
 _db_id: 358
 content_type: topic
-ready: false
-tags: [oop]
-title: Object-Oriented Programming
 ncit_standards:
 - 115378
+ready: false
+tags:
+- oop
+title: Object-Oriented Programming
 ---
 
 ## 1. OOP theory and practice

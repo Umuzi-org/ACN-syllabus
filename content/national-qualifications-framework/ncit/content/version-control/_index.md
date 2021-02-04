@@ -1,11 +1,12 @@
 ---
 _db_id: 366
 content_type: topic
-ready: false
-tags: [git]
-title: Version Control
 ncit_standards:
 - 115362
+ready: false
+tags:
+- git
+title: Version Control
 ---
 
 ## 1. Libraries and organising projects

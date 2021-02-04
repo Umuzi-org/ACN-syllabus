@@ -1,10 +1,12 @@
 ---
 _db_id: 370
 content_type: topic
-tags: [agile, scrum]
-title: Agile Project Management
 ncit_standards:
 - 114059
+tags:
+- agile
+- scrum
+title: Agile Project Management
 ---
 
 ## 1. Intro to Agile

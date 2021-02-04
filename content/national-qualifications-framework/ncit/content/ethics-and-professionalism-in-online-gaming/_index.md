@@ -1,11 +1,11 @@
 ---
 _db_id: 369
 content_type: topic
+ncit_standards:
+- 114055
 ready: false
 tags: []
 title: Ethics and Professionalism in Online Gaming
-ncit_standards:
-- 114055
 ---
 
 ### 1. Professionalism in the IT industry in South Africa

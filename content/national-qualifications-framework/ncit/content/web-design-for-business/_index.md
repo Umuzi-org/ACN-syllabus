@@ -1,11 +1,11 @@
 ---
 _db_id: 367
 content_type: topic
+ncit_standards:
+- 115374
 ready: false
 tags: []
 title: Web Design for Business
-ncit_standards:
-- 115374
 ---
 
 ## 1. Using the Internet for business

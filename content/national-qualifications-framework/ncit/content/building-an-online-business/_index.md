@@ -1,11 +1,11 @@
 ---
 _db_id: 360
 content_type: topic
+ncit_standards:
+- 115385
 ready: false
 tags: []
 title: Building an online business
-ncit_standards:
-- 115385
 ---
 
 ## 1. Marketing
