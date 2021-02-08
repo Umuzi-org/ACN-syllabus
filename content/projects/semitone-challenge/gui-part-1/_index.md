@@ -51,3 +51,7 @@ Here are a few tools you might want to explore:
 - [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
 You can also do your own styling from scratch.
+
+Also, think about the user! Imagine a musician using this thing in order to learn music. If your site is confusing then people wouldn't use it. They'd just get annoyed and leave. 
+
+**Bad UX is a bug!** Make sure your user knows how to use your application. Make it dead obvious.
