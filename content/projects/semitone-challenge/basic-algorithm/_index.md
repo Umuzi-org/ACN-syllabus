@@ -82,7 +82,15 @@ let correct = buddy.checkAnswer(1)
 console.log(correct) # false
 
 correct = buddy.checkAnswer(2)
-console.log(correct) # true
+console.log(correct) # true because: A A# B
+
+# we should be able to play the game again without making another instance
+
+notes = buddy.selectNotes()
+console.log(notes) # let's pretend that this outputs ['G', 'B']
+
+correct = buddy.checkAnswer(4)
+console.log(correct) # true because: G G# A A# B - the note circle is a CIRCLE, remember that!
 ```
 
 ## Acceptance criteria
@@ -90,3 +98,4 @@ console.log(correct) # true
 Make sure you do this in a TDD way. And that code sample from the top needs to run as is.
 
 Please just supply a working class. The only place you should instantiate your class is inside your unit tests
+
