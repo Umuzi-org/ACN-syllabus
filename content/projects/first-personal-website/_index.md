@@ -28,11 +28,15 @@ The content and information you choose to display is up to you. There should be 
 
 The HTML and CSS should be developed in a logical way with good naming conventions that would allow another developer to easily understand and build upon your code.
 
-Your web page files and folders should be organised and named in a logical manner.
+Your web page files and folders should be organized and named in a logical manner.
 
-Once you have finished your design and are satisfied with the style and content, upload the website to be hosted on GitHub Pages.
+Once you have finished your design and are satisfied with the style and content, upload the website to be hosted on GitHub Pages. 
 
-Requirements:
+Please submit a link to your website. DO NOT submit a link to your github repo. We dont want to clone your website, we want to look at what you built.
+
+To learn more about Github Pages visit this link https://guides.github.com/features/pages/
+
+### Requirements:
 
 - Website can be a single page or have multiple pages (the structure is up to you), but it must contain the following information:
   - About me
