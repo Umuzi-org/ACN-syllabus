@@ -20,7 +20,7 @@ Please follow best practices when doing this work!
 
 The exercises below are meant to be language-agnostic. If we use the word `print` in an exercise description then we mean output it to the terminal/console/stdout. We don't mean print to a printer, and we don't want a gui. These exercises just spit out some text.
 
-If we say a function takes an input then we dont mean you should ask the user to type something. What we need is a function parameter or argument.
+If we say a function takes an input then we don't mean you should ask the user to type something. What we need is a function parameter or argument.
 
 ## Note to web devs
 
@@ -54,11 +54,11 @@ git checkout -b task/2
 
 ## DO NOT do random chaotic things with git
 
-Look at your network graph for your repo whenever you push your code. It should not resemble spagetti or any other noodle. It should be neat and tidy.
+Look at your network graph for your repo whenever you push your code. It should not resemble spaghetti or any other noodle. It should be neat and tidy.
 
 You can see the network graph of your repo by looking at the url: https://github.com/[YOUR REPO PATH]/network
 
-If you follow the simple instructions in the "what does success look like" section then you'll be fine here. 
+If you follow the simple instructions in the "what does success look like" section then you'll be fine here.
 
 ## Super important!
 
@@ -154,7 +154,7 @@ If there are multiple longest strings then print them all.
 
 eg:
 
-`longest(["once", "upon", "a" "time"])`
+`longest(["once", "upon", "a", "time"])`
 
 should print
 
@@ -166,7 +166,9 @@ time
 
 ## Task 1.7
 
-Write a function that combines two lists by alternatingly taking elements and returns the result
+Write a function that combines two lists by taking alternate elements and returns the result. You can assume the lists are of equal size.
+
+If your function can work with lists of unequal size, we'll think you’re cool.
 
 eg `combine([11,22,33], [1,2,3])` should return
 

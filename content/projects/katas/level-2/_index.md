@@ -33,7 +33,7 @@ eg `square(2, '*')` should output
 
 ## Task 2.2
 
-Upgrade your triangle function so that it takes in an optional argument named `mode`. 
+Upgrade your triangle function so that it takes in an optional argument named `mode`.
 
 `triangle(3)` should print
 
@@ -60,7 +60,7 @@ Upgrade your triangle function so that it takes in an optional argument named `m
 ###
 ```
 
-`triangle(3, "isoscoles")` should print
+`triangle(3, "isosceles")` should print
 
 ```
   #
@@ -71,7 +71,7 @@ Upgrade your triangle function so that it takes in an optional argument named `m
 Negative numbers should still print things upside down. Eg:
 
 
-`triangle(-3, "isoscoles")` should print
+`triangle(-3, "isosceles")` should print
 
 ```
 #####
@@ -86,10 +86,10 @@ Write a function that takes a list of strings an prints them as columns, with a 
 eg: `columns(["Write","good","code","every","day"])` gets printed as:
 
 ```
-W g c e d 
+W g c e d
 r o o v a
 i o d e y
-t d e r 
+t d e r
 e     y
 ```
 
