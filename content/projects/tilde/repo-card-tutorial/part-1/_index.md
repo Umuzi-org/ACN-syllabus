@@ -100,8 +100,4 @@ This tells your peers and staff that you think your main branch is up to date an
 
 ### 5. Double check that your main branch is up to date!
 
-<<<<<<< HEAD
 If your main branch is empty at this point then cancel your review request, get your work merged, then put your card back into the review column
-=======
-If your master branch is empty at this point then cancel your review request, get your work merged, then put your card back into the review column
->>>>>>> a8efcd09efb345a5bf8835bbbebb9bb7d4000d72

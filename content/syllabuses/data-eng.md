@@ -15,13 +15,11 @@ _db_id: 4
 - {{% contentlink path="topics/clean-code/python" %}}
 - {{% contentlink path="projects/git-exercises" %}}
 - NCIT 04: Version control (GIT) for teamwork
-
 - {{% contentlink path="topics/python-specific/automate-the-boring-stuff-book/chapter-3-functions" %}}
 - {{% contentlink path="projects/katas/level-2" flavour="python" %}}
 - {{% contentlink path="projects/first-personal-website" %}}
 - {{% contentlink path="topics/how-to-ask-for-help-with-your-code" %}}
 - {{% contentlink path="language-agnostic/intro-to-hackerrank" flavour="python"%}}
-
 - {{% contentlink path="workshops/big-picture-web-dev" %}}
 - NCIT 10: Workshop: Giving and receiving constructive feedback
 - NCIT 06: Web design for business
@@ -31,11 +29,9 @@ _db_id: 4
 - {{% contentlink path="workshops/general-coding-best-practices" %}}
 - {{% contentlink path="topics/python-specific/automate-the-boring-stuff-book/chapter-4-lists" %}}
 - {{% contentlink path="topics/python-specific/lists-in-depth" optional="1" %}}
-
 - {{% contentlink path="topics/python-specific/automate-the-boring-stuff-book/chapter-5-dictionaries-and-structuring-data" %}}
 - {{% contentlink path="topics/python-specific/automate-the-boring-stuff-book/chapter-6-manipulating-strings" %}}
 - {{% contentlink path="topics/python-specific/automate-the-boring-stuff-book/chapter-7-pattern-matching-with-regular-expressions" %}}
-
 - {{% contentlink path="topics/python-specific/oop-for-python" %}}
 - {{% contentlink path="topics/python-specific/automated-testing-with-pytest"%}}
 - {{% contentlink path="topics/python-specific/virtual-envs/" %}}
@@ -67,7 +63,6 @@ _db_id: 4
 - {{% contentlink path="topics/python-specific/recursion" %}}
 - {{% contentlink path="topics/python-specific/iterators" optional="1" %}}
 - {{% contentlink path="topics/python-specific/automate-the-boring-stuff-book/chapter-12-web-scraping" %}}
-
 - {{% contentlink path="sql/shop-project/" %}}
 - NCIT 14: Database Development
 - {{% contentlink path="topics/tech-terminology" %}}
@@ -77,9 +72,7 @@ _db_id: 4
 - {{% contentlink path="projects/python-specific/mongo" flavour="python" %}}
 - {{% contentlink path="projects/rabbitmq" flavour="python" %}}
 - {{% contentlink path="projects/dags-with-airflow" flavour="python" %}}
-- {{% contentlink path="projects/python-specific/kafka" flavour="python" %}}
 - NCIT 15: Analytics, Surveys, and Reports / Input & Output
-- {{% contentlink path="projects/python-specific/spark" flavour="python" %}}
 - {{% contentlink path="topics/data-infrastructure/choosing-a-task-queue" %}}
 - {{% contentlink path="topics/optimizations-and-big-o/" %}}
 - {{% contentlink path="projects/data-science-specific/data-wrangling" flavour="python" %}}
@@ -94,4 +87,3 @@ _db_id: 4
   - Entity Relationship Diagrams (ERD)
   - Data warehousing with Hive
   - Overview of the Hadoop ecosystem
-  - Linear regressions
