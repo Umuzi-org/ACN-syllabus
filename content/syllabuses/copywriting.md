@@ -1,8 +1,11 @@
-# **Welcome To The Wonderful World Of Copywriting!**
+---
+title: Copywriting
+---
 
-### **Introduction and young explanation**
+## **Introduction**
 
-## **So like... what is copywriting?**
+ **So like... what is copywriting?**
+
 That is a good question! Now we are forced to give you a good answer -_-
 
 Before I waste too many words tryig to explain how we cast spells using the magic of words, here is a young video or two to help you understand...
@@ -14,7 +17,7 @@ Before I waste too many words tryig to explain how we cast spells using the magi
 
 Present Using This [Figma Template](https://www.figma.com/file/8JThmrfCGZGjajrxVB1YrX/Presentation-Template?node-id=0%3A1) You Can Only View So Duplicate It And Share Your Figma File Link
 
-## **The Don Draper Dream**
+### **The Don Draper Dream**
 
 ![Mad Men](https://images.amcnetworks.com/uk.amc.com/wp-content/uploads/2015/07/large-MM.jpg)
 
@@ -44,4 +47,4 @@ Write a 200 word article on you best understanding and explanation of what copyw
 
 Yes, inform me and then convince me. ![Did I stutter?](https://media1.giphy.com/media/p4jcsvuDXsxllLUsp7/giphy.gif?cid=ecf05e47tav4o5gqfskp4gwn5s6t8iarjlb76cpq19mu8lpw&rid=giphy.gif)
 
-### **Use google docs to write this article. Deadline is 3pm this afternoon! Share it with your department head no later that 15:01! Okay byeeee!**
+ **Use google docs to write this article. Deadline is 3pm this afternoon! Share it with your department head no later that 15:01! Okay byeeee!**
