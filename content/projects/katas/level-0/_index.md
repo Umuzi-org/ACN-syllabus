@@ -34,7 +34,7 @@ A lot of people think it's a good idea to write lots of comments. They write a l
 c = a + b // add a and b together and store it in c
 ```
 
-This kind of thing is a giant waste of everyone's time. 
+This kind of thing is a giant waste of everyone's time.
 
 Comments can be really useful sometimes. But use them sparingly.
 
@@ -46,7 +46,7 @@ Comments are useful if you need to
 
 - explain why you are doing something
 - link to an external document
-- add extra facts or info that isn't obvious. Eg: `// Pythagoris formula` can be a comment on a line that implements the formula
+- add extra facts or info that isn't obvious. Eg: `// Pythagoras formula` can be a comment on a line that implements the formula
 
 ### Don't name your functions anything to do with `my` or `function`
 
@@ -92,7 +92,7 @@ Code is read more often than it is written. Get into the habit of writing clean 
 
 ### SUPER IMPORTANT: Do Not copy code from the Internet or from each other
 
-It's dumb. And we'll find out. Then we'll have to reject your application and you'll be sad. 
+It's dumb. And we'll find out. Then we'll have to reject your application and you'll be sad.
 
 ## Task 0.1
 
@@ -148,7 +148,7 @@ Hello Tshepo!
 
 ## Task 0.4
 
-Write a function named `even_or_odd` or `evenOrOdd`. Tha name of the function depends on the conventions of the language you are writing in. If you don't know what name to choose then check the clean code guidelines. 
+Write a function named `even_or_odd` or `evenOrOdd`. The name of the function depends on the conventions of the language you are writing in. If you don't know what name to choose then check the clean code guidelines.
 
 Your function should take an integer and print in the word "even" or "odd"
 
@@ -173,7 +173,7 @@ maximum([1,2,3])  // BAD
 maximum(1,2,3)  // GOOD
 ```
 
-Bonus: How can you change the code so it can take in any number of numbers? Do this without using builtin methods. Write your own logic from scratch. 
+Bonus: How can you change the code so it can take in any number of numbers? Do this without using builtin methods. Write your own logic from scratch.
 
 Again, the function should expect a bunch of numbers as input, not an array or list.
 
@@ -196,6 +196,8 @@ Make a function to convert any number into hours and minutes. (For example, 71 w
 ## Task 0.9
 
 Write a function that takes in a string and then prints out all the vowels in the string. Make sure it can deal with capital letters and small letters.
+
+For example, Input: `"Umuzi"`, Output: `Vowels: u, i`.
 
 ## Task 0.10
 
