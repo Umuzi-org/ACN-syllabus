@@ -7,6 +7,7 @@ prerequisites:
   - topics/data-science-specific/datacamp/intro-to-python
   soft:
   - topics/data-science-specific/intro-to-google-colab
+ready: true
 submission_type: repo
 title: Bootcamp Exploratory Data Analysis
 ---
