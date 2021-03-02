@@ -12,7 +12,7 @@ submission_type: repo
 title: Bootcamp Exploratory Data Analysis
 ---
 
-You will need to download and add all the relevant files from [here](https://drive.google.com/drive/folders/1M_5uFtd4G4X1UqLLmxffdBq9U9PkaJft?usp=sharing) and add them to the repo supplied.
+You will need to download and add all the relevant files from [here](https://drive.google.com/drive/folders/1scmLfz6SswLqKoj1S6s3VytezCR7m_dJ?usp=sharing) and add them to the repo supplied.
 
 Your repo should contain everything needed to replicate your work:
 - data
