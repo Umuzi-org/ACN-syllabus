@@ -100,18 +100,3 @@ Please start at the top of your backlog, and work your way down. Try to minimize
 
 If you are given feedback: Look at it as soon as you can. Deal with the feedback and learn from it so you don't make the same mistakes. If a staff member reviews your work and asks you to fix three things, then you need to fix all three. Not just one thing. Not just 2. Everything.
 
-## How we choose who stays and who goes
-
-We value teamwork, honesty, clear communication and professionalism. We'll be looking for that stuff.
-
-We'll also be looking closely at the work you do of course. The work you do should be tidy, clear, and complete. Don't submit any half-arsed projects.
-
-We might also be scheduling a few interviews with you where we'll test different things. So keep an eye on your Google calender, and Gmail inbox!
-
-Once we have all the info we need to make our decisions, we'll start crunching the data. You'll get the results to you as quickly as we can.
-
-## What happens if you don't make it?
-
-We believe in second chances. If you don't make it through our bootcamp and you want another shot then that's fine with us. You'll be able to prepare a bit better for the next bootcamp now that you know how things work.
-
-Just so you know I'm serious: There was once a student who tried to get into Umuzi 3 times! Eventually he got in. His hard work and persistence paid off. After his learnership was done we liked him so much that we hired him. Since then he's moved onto great things - now he's living the dream, and geeking hard at a major multi-national company!

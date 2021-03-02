@@ -63,12 +63,12 @@ That's it :)
 
 ## Optional: Learn how to use Java SDK from the command line
 
-
 ### Java SDK
 
 First install openJDK
 
 If you are running Ubuntu Linux or similar then you can just do this:
+
 ```
 sudo apt install openjdk-11-jdk
 ```
