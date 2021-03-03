@@ -12,7 +12,7 @@ submission_type: repo
 title: Bootcamp Exploratory Data Analysis
 ---
 
-You will need to download and add all the relevant files from [here](https://drive.google.com/drive/folders/1scmLfz6SswLqKoj1S6s3VytezCR7m_dJ?usp=sharing) and add them to the repo supplied.
+You will need to download and add all the relevant files from [here](https://drive.google.com/drive/folders/1scmLfz6SswLqKoj1S6s3VytezCR7m_dJ?usp=sharing) to the repo supplied.
 
 Your repo should contain everything needed to replicate your work:
 - data
@@ -21,35 +21,22 @@ Your repo should contain everything needed to replicate your work:
 
 ## Instructions
 
-Your task is to use the given data to answer the questions found in `questions.md`. Any other additional analysis you think will help your submission is cool with us but NO external data may be used.
+Your task is to use the given data to answer all the questions below. Any other additional analysis you think will help your submission is cool with us but NO external data may be used.
 
 We will not only be assessing your code but also how you structure and present your analysis.
 
-## Setting Up Your Environment
+## Questions
 
-If you are going through bootcamp on your mobile device or using public resources please check out [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb), this [article](https://towardsdatascience.com/intro-to-google-colab-for-data-analytics-da5e3a37af8a) can also help you get started.
-This is cloud based computing environment so your work will be saved and you can access it on any machine.
+The data set in `data.csv` consists of health and demographic data for the period 2014-2015, obtained from [Global Health Observatory Data Repository](http://apps.who.int/gho/data/node.main).
 
-### Working locally on your machine
-
-Download and install [miniconda](https://docs.conda.io/en/latest/miniconda.html) on your machine. This will install python
-and the conda package manager for python. NB Make sure that you set the
-python path! Setting the path will allow you to simply type `python`
-into the terminal to open python.
-
-You also want to install the following packages:  
-- jupyter-notebook
-- numpy
-- pandas
-- matplotlib
-- seaborn
-- scipy
-
-You can install packages by typing `conda install name-of-package`, e.g.
-`conda install numpy`.
-
-To launch a new jupyter instance (kernel), open up a new terminal, navigate to the directory in which you want to be
-and type `jupyter notebook`(and press enter). A new jupyter kernel will open in your browser. You can now open an existing
-notebook (`*.ipynb`) or create a new notebook.
-
-When you are done, click 'Close and Halt Kernel' or press `Ctrl+C` twice to shut down the kernel from the terminal.
+1. Are there any missing values in the data set? What, if anything should be done about them if there are?
+2. Are there any other problems with the data? If so, fix them.
+3. Identify the country with the lowest % of population Under 15 and the one with the highest.
+4. Which region has the highest % of population over 60?.
+5. Does fertility decrease as income increases? Are there any countries that don't seem to follow this relation.
+6. Which regions have the lowest literacy rates?
+7. Which regions have the lowest child mortality rates?
+8. What is the life expectancy across different regions? Create a box-and-wiskers plot to investigate this. What can we conclude about life expectancy across different regions?
+9. How is life expectancy related to wealth across different regions? How is wealth related to fertility across different regions?
+10. Do the relationships in (9) above hold for African countries?
+11. Create appropriate graphs to visually represent the relationship between literacy and life expectancy by Region, and then for African countries. What can be concluded from the graphs? How confident can we be in the relationships represented here?
