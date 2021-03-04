@@ -57,7 +57,12 @@ Time management is an essential skill to master when tackling projects and worki
 
 ## Additional Resources to Review
 - [Time Management Skills: Definition and Examples](https://www.indeed.com/career-advice/career-development/time-management-skills)
-- [Time Management Is About More Than Life Hacks](https://hbr.org/2020/01/time-management-is-about-more-than-life-hacks)
+- [Time Management Is
+Take a look over this presentation. It'll give you the basics of CV writing. And a lot of concepts here will be the same for any kind of online portfolio you create.
+
+If you are creating an online portfolio, please always think about your own privacy. For example, publishing your phone number to the world might not be the best thing.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTzsii9V5abHli711nh-KsPanevPU8XD2F9rx72nMpGgrXMPegSwiXQtFLZ5tbabnVebgmduFt11BE-/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>out-more-than-life-hacks)
 - [15 Time Management Tips for Achieving Your Goals](https://www.entrepreneur.com/article/299336)
 
 #### Reference:
