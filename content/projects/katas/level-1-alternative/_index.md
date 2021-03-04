@@ -36,7 +36,7 @@ Katas are pretty common in coding (and martial arts). Katas are about practicing
 
 The first thing is Git! It's seriously important so we want to see you developing good habits.
 
-For every exercise in this project you need to make a new Pull Request on github and a new branch. 
+For every exercise in this project you need to make a new Pull Request on github and a new branch.
 
 So if you are writing code for the first exercise you should do this:
 
@@ -63,7 +63,7 @@ git checkout -b task/2
 
 ### DO NOT do random chaotic things with git
 
-Look at your network graph for your repo whenever you push your code. It should not resemble spagetti or any other noodle. It should be neat and tidy.
+Look at your network graph for your repo whenever you push your code. It should not resemble spaghetti or any other noodle. It should be neat and tidy.
 
 You can see the network graph of your repo by looking at the url: https://github.com/[YOUR REPO PATH]/network
 
@@ -126,10 +126,10 @@ Examples
 Input: "12:40pm", "12:00am"
 Output: 680
 
-Input: "1:24am-1:10am"
+Input: "1:24am", "1:10am"
 Output: 1426
 
-## Task 1.5: BONUS 
+## Task 1.5: BONUS
 
 This is not compulsory. But if you get it right we'll put smiley faces in your code review :)
 
@@ -137,7 +137,7 @@ Write a function named `maximum row sum` (name it according to the convention th
 
 ```[]
 1 3 5 8
-3 2 1 2 
+3 2 1 2
 5 5 5 7
 ```
 
