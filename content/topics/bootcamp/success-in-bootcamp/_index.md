@@ -99,4 +99,3 @@ Respect people's time. There was one bootcamper who somehow got the CTO's person
 Please start at the top of your backlog, and work your way down. Try to minimize multi-tasking. Multi-tasking will slow you down.
 
 If you are given feedback: Look at it as soon as you can. Deal with the feedback and learn from it so you don't make the same mistakes. If a staff member reviews your work and asks you to fix three things, then you need to fix all three. Not just one thing. Not just 2. Everything.
-
