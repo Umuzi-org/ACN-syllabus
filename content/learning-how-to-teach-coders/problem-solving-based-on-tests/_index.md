@@ -1,6 +1,7 @@
 ---
 title: Problem solving based on Coderbyte tests
 content_type: topic
+ready: True
 ---
 
 This should happen after a test. Try to choose either:
