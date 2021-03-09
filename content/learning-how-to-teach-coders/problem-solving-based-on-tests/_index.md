@@ -1,7 +1,8 @@
 ---
-title: Problem solving based on Coderbyte tests
+_db_id: 654
 content_type: topic
-ready: True
+ready: true
+title: Problem solving based on Coderbyte tests
 ---
 
 This should happen after a test. Try to choose either:
@@ -36,6 +37,3 @@ Work towards the solution together.
 ## Alternatively
 
 You could also get a problem from Hackerrank or similar and apply the same general procedure.
-
-
-

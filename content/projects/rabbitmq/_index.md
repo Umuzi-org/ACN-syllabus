@@ -7,7 +7,7 @@ prerequisites:
   hard:
   - topics/clean-code/python
   - topics/linux/os-environmental-variables
-  - national-qualifications-framework/ncit/content/how-the-internet-works
+  - national-qualifications-framework/ncit/how-the-internet-works
   - projects/github-api-consume
   soft: []
 ready: true

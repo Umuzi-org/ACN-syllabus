@@ -37,7 +37,7 @@ _db_id: 4
 - {{% contentlink path="topics/python-specific/virtual-envs/" %}}
 - {{% contentlink path="projects/oop/animals/part2" flavour="python" %}}
 - NCIT 13: Object-oriented programming
-- {{% contentlink path="national-qualifications-framework/ncit/content/how-the-internet-works" %}}
+- {{% contentlink path="national-qualifications-framework/ncit/how-the-internet-works" %}}
 - {{% contentlink path="topics/data-ethics-and-privacy" %}}
 - NCIT 05: History of the Internet
 - NCIT 08: Pseudocode and documentation

@@ -1,7 +1,8 @@
 ---
-title: Deep practice of foundational skills
+_db_id: 650
 content_type: topic
-ready: True
+ready: true
+title: Deep practice of foundational skills
 ---
 
 ## When
