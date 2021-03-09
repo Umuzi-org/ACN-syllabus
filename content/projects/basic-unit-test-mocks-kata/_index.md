@@ -6,7 +6,7 @@ flavours:
 prerequisites:
   hard:
   - topics/unit-testing-mocks-and-spies
-  - topics/linux/os-environmental-variables/
+  - topics/linux/os-environmental-variables
   soft: []
 ready: true
 story_points: 8
@@ -123,9 +123,11 @@ npm run send_inspiration ...
 
 The command needs to allow you to pass in an email address from the command line. Take a look at [this](https://stackoverflow.com/questions/11580961/sending-command-line-arguments-to-npm-script)
 
+Also note that good code is written to be reusable. Make sure all your executable code is inside useful functions. When we run `npm run send_inspiration` then the right functions will need to be executed.
+
 ### Python
 
-you should be able to run your code using
+You should be able to run your code using
 
 ```
 python send_inspiration.py ...
@@ -134,6 +136,8 @@ python send_inspiration.py ...
 The command needs to allow you to pass in an email address from the command line. Take a look at [this](https://stackoverflow.com/questions/1009860/how-to-read-process-command-line-arguments)
 
 Go with the simplest option you can find initially - because [KISS](https://en.wikipedia.org/wiki/KISS_principle)
+
+Also note that good code is written to be reusable. Make sure all your executable code is inside useful functions. When we run `npm run send_inspiration` then the right functions will need to be executed.
 
 ## Testing your project
 
@@ -146,11 +150,34 @@ If your tests
 
 then they are wrong.
 
+Please make sure that you understand what mocks and spies are for when writing your tests. These things do not exist to take up space, waste time or look fancy. They do have a purpose.
+
+If you do anything that looks like the following pseudocode then you are doing it wrong;
+
+```
+spyOn(myFunction)
+myFunction()
+assert myFunction.wasCalleOnce
+```
+
+Here is a useful way to think about mocks and spies:
+
+Basically, sending emails is considered "expensive". Why? Because it costs actual money if you do it in bulk. Also it costs time. It is not a fast and free operation. But it is an important operation.
+
+You need to test that when you want to send an email then:
+
+1. the function that actually sends emails gets called
+2. it gets called once, not twice
+3. it is called correctly, with the correct arguments
+
+You don't want your unit tests to actually send emails. You just want them to prove that the part of your machine that sends emails is being used correctly.
+
+As another example, if you were developing a "forgot password" or "confirm email address" function for a website then you would test pretty much the same thing. You need to make sure that the correct functionality gets evoked, without actually sending anything.
+
 ## Bonus fun stuff
 
-- Set up a cron job so that your program sends you a bit of inspiration every week day at the same time. You can start your day with inspiration. Or you can recieve you email just before you go to lunch or go home so that you have something to ponder.
+- Set up a cron job so that your program sends you a bit of inspiration every week day at the same time. You can start your day with inspiration. Or you can receive you email just before you go to lunch or go home so that you have something to ponder.
 - You can also add extra functionality. Eg: send an inspirational quote and a funny quote.
 - You can make the emails that get sent look good as well. it doesn't just need to be plain text
 - You can look into sending sms instead of email
 - link to the quote author's wikipedia page straight from the email/sms
-- add extra information such as a weather report

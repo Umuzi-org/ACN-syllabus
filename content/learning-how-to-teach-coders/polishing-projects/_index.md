@@ -1,6 +1,7 @@
 ---
 title: Polishing existing projects
 content_type: topic
+ready: True
 ---
 
 This type of intervention is a lot like industry standard pair programming. It differs in that: industry pair programming is mostly about building working code, whereas our main focus is to get the follower to understand their code.
