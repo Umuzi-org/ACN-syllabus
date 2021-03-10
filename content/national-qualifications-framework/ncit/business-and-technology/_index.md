@@ -4,8 +4,10 @@ content_type: topic
 ncit_standards:
 - 114050
 ready: false
-tags: []
+tags:
+- ncit
 title: Business and Technology
+topic_needs_review: true
 ---
 
 ## 1. Fundamental business concepts

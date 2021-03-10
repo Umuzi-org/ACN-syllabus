@@ -6,7 +6,9 @@ ncit_standards:
 tags:
 - agile
 - scrum
+- ncit
 title: Agile Project Management
+topic_needs_review: true
 ---
 
 ## 1. Intro to Agile

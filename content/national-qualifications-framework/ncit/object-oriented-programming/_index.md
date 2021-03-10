@@ -6,7 +6,14 @@ ncit_standards:
 ready: false
 tags:
 - oop
+- ncit
 title: Object-Oriented Programming
+topic_needs_review: true
+flavours:
+- any_language
+prerequisites:
+  hard:
+  - projects/oop/animals/part1
 ---
 
 ## 1. OOP theory and practice

@@ -4,8 +4,10 @@ content_type: topic
 ncit_standards:
 - 115373
 ready: false
-tags: []
+tags:
+- ncit
 title: Search and Sort Techniques
+topic_needs_review: true
 ---
 
 ## 1. Abstract data types

@@ -21,7 +21,15 @@ ncit_specific_outcomes:
 ncit_standards:
 - 115391
 ready: true
+tags:
+- ncit
 title: How the internet works
+topic_needs_review: true
+flavours:
+- any_language
+prerequisites:
+  hard:
+  - workshops/big-picture-web-dev
 ---
 
 ## What is The Internet?

@@ -4,8 +4,10 @@ content_type: topic
 ncit_standards:
 - 116389
 ready: false
-tags: []
+tags:
+- ncit
 title: Write a report
+topic_needs_review: true
 ---
 
 ## 1. What is a technical report?

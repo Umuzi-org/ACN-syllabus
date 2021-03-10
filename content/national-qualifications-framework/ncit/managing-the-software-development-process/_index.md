@@ -6,7 +6,9 @@ ncit_standards:
 ready: false
 tags:
 - agile
+- ncit
 title: Managing the Software Development Process
+topic_needs_review: true
 ---
 
 ## 1. Understand the problem

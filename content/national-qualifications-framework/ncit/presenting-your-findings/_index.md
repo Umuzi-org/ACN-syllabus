@@ -4,8 +4,10 @@ content_type: topic
 ncit_standards:
 - 13925
 ready: false
-tags: []
+tags:
+- ncit
 title: Presenting your findings
+topic_needs_review: true
 ---
 
 ### 1. Introduction to presentations

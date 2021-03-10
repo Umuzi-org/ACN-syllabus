@@ -4,8 +4,10 @@ content_type: topic
 ncit_standards:
 - 114055
 ready: false
-tags: []
+tags:
+- ncit
 title: Ethics and Professionalism in Online Gaming
+topic_needs_review: true
 ---
 
 ### 1. Professionalism in the IT industry in South Africa

@@ -7,7 +7,14 @@ ncit_standards:
 ready: false
 tags:
 - tdd
+- ncit
 title: Test-driven development
+topic_needs_review: true
+flavours:
+- any_language
+prerequisites:
+  hard:
+    language-agnostic/validate-id-number
 ---
 
 ## 1. Errors

@@ -9,6 +9,13 @@ tags:
 - problem-solving
 - binary-arithmetic
 title: Thinking like a machine
+topic_needs_review: true
+flavours:
+- any_language
+prerequisites:
+  hard:
+  - language-agnostic/problem-solving-technique
+  - language-agnostic/intro-to-hackerrank
 ---
 
 ## 1. Problem solving
