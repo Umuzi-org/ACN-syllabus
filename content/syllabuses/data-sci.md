@@ -42,7 +42,6 @@ _db_id: 2
 - {{% contentlink path="projects/data-science-specific/multivariate-linear-regression" flavour="python" %}}
 - {{% contentlink path="projects/oop/animals/part2"  flavour="python" %}}
 - NCIT 13: Object-oriented programming
-- {{% contentlink path="national-qualifications-framework/ncit/content/how-the-internet-works" %}}
 - {{% contentlink path="topics/data-ethics-and-privacy" %}}
 - NCIT 05: History of the Internet
 - NCIT 08: Pseudocode and documentation

@@ -98,4 +98,3 @@ console.log(correct) # true because: G G# A A# B - the note circle is a CIRCLE, 
 Make sure you do this in a TDD way. And that code sample from the top needs to run as is.
 
 Please just supply a working class. The only place you should instantiate your class is inside your unit tests
-

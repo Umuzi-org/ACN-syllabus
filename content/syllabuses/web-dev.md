@@ -65,7 +65,7 @@ _db_id: 3
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/3-regular-expressions" %}}
 - {{% contentlink path="projects/tdd/password-checker/part2" flavour="javascript" %}}
 - {{% contentlink path="projects/tdd/string-calculator" flavour="javascript" %}}
-- {{% contentlink path="national-qualifications-framework/ncit/content/how-the-internet-works" %}}
+- path="national-qualifications-framework/ncit/how-the-internet-works"
 - {{% contentlink path="topics/data-ethics-and-privacy" %}}
 - NCIT 05: History of the Internet
 - NCIT 09: Ethics and Professionalism in IT
@@ -101,13 +101,4 @@ _db_id: 3
 - NCIT 20: Managing the Software Development Process
 - NCIT Summative assessment
 
-* {{% contentlink path="topics/web-frontend/intro-to-angular/" optional="1" %}}
 
-- {{% contentlink path="topics/web-frontend/react/intro-to-react" %}}
-
-* {{% contentlink path="topics/web-frontend/intro-to-vue/" optional="1" %}}
-* {{% contentlink path="workshops/nodejs-intro-to-socketio/" optional="1" %}}
-* {{% contentlink path="topics/redux-intro/" optional="1" flavour="javascript" %}}
-* {{% contentlink path="workshops/nodejs-async-vs-sync" optional="1" %}}
-* {{% contentlink path="topics/js-and-node-specific/mongodb/" optional="1"  %}}
-* {{% contentlink path="topics/js-and-node-specific/dotenv/" optional="1"  %}}
