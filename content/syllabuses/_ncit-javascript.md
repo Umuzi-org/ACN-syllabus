@@ -15,6 +15,14 @@ prerequisites:
   hard:
 
 
+content/projects/first-personal-website/_index.md
+
+
+- {{% contentlink path="national-qualifications-framework/ncit/database-development" flavour="javascript" %}}
+  content/sql/shop-project/_index.md
+
+
+
 - {{% contentlink path="national-qualifications-framework/ncit/search-and-sort-techniques"  flavour="javascript"%}}
 
 
@@ -35,7 +43,6 @@ prerequisites:
 - {{% contentlink path="national-qualifications-framework/ncit/pseudocode-and-documentation" %}}
 - 
 
-- {{% contentlink path="national-qualifications-framework/ncit/database-development" flavour="javascript" %}}
 - {{% contentlink path="national-qualifications-framework/ncit/ethics-and-professionalism-in-online-gaming" %}}
 
 - {{% contentlink path="national-qualifications-framework/ncit/write-a-report" %}}

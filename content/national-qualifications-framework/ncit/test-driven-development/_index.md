@@ -14,7 +14,7 @@ flavours:
 - any_language
 prerequisites:
   hard:
-    language-agnostic/validate-id-number
+    - language-agnostic/validate-id-number
 ---
 
 ## 1. Errors
