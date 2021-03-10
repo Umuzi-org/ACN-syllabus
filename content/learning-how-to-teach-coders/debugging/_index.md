@@ -39,4 +39,14 @@ def is_even(integer):
         return False
 ```
 
-As recruits progress through the programme this second type of refactoring should be the main focus. You can cover things like what data structures to use for a given problem, flat vs nested, etc.
+As recruits progress through the programme this second type of refactoring should be the main focus. You can cover things like what data structures to use for a given problem/operation, flat vs nested, etc.
+
+## Debugging
+
+Get a piece of code that either has a bug or isn't working at all. The goal is for the follower to identify and fix the bug. The leader should clearly explain what the code is meant to do and give some input/output examples.
+
+Once the follower clearly understands what the code is meant to do, get them to run it. Obviously it shouldn't work. Now guide the follower through the debugging process;
+- if there's an error explain what it means or better have the follower look it up
+- maybe some function is meant to do something with integers but it fails when they are negative, suggest test cases that show this
+
+Once recruits are familiar with TDD this session should basically follow the RGR process.
