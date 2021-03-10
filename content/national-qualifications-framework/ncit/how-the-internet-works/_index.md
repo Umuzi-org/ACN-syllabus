@@ -1,6 +1,8 @@
 ---
 _db_id: 93
 content_type: topic
+flavours:
+- any_language
 ncit_specific_outcomes:
 - assessment_criteria:
   - The explanation outlines the origins and history of the internet
@@ -20,16 +22,14 @@ ncit_specific_outcomes:
   title: Explain how the world-wide-web incorporates the various internet applications
 ncit_standards:
 - 115391
+prerequisites:
+  hard:
+  - workshops/big-picture-web-dev
 ready: true
 tags:
 - ncit
 title: How the internet works
 topic_needs_review: true
-flavours:
-- any_language
-prerequisites:
-  hard:
-  - workshops/big-picture-web-dev
 ---
 
 ## What is The Internet?

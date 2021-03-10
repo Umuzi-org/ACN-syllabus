@@ -1,19 +1,19 @@
 ---
 _db_id: 358
 content_type: topic
+flavours:
+- any_language
 ncit_standards:
 - 115378
+prerequisites:
+  hard:
+  - projects/oop/animals/part1
 ready: false
 tags:
 - oop
 - ncit
 title: Object-Oriented Programming
 topic_needs_review: true
-flavours:
-- any_language
-prerequisites:
-  hard:
-  - projects/oop/animals/part1
 ---
 
 ## 1. OOP theory and practice

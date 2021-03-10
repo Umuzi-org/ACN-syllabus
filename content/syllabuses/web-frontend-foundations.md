@@ -27,7 +27,6 @@ title: Web frontend foundations
 
 - {{% contentlink path="projects/semitone-challenge/gui-part-2"  flavour="javascript,noframework" %}}
 - {{% contentlink path="projects/tdd/password-checker/part2" flavour="javascript" %}}
-- {{% contentlink path="national-qualifications-framework/ncit/how-the-internet-works" %}}
 - {{% contentlink path="topics/data-ethics-and-privacy" %}}
 - {{% contentlink path="topics/free-code-camp/responsive-web-design/7-css-grid" %}}
 - {{% contentlink path="projects/memory-game/part-1" flavour="javascript" %}}

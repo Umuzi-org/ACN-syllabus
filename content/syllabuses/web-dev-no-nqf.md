@@ -38,7 +38,6 @@ _db_id: 29
 - {{% contentlink path="projects/tdd/password-checker/part2" flavour="javascript" %}}
 
 - {{% contentlink path="topics/js-and-node-specific/logging" %}}
-- {{% contentlink path="national-qualifications-framework/ncit/how-the-internet-works" %}}
 - {{% contentlink path="topics/data-ethics-and-privacy" %}}
 - {{% contentlink path="projects/basic-unit-test-mocks-kata" flavour="javascript" %}}
 - {{% contentlink path="projects/github-api-consume" flavour="javascript" %}}

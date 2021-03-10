@@ -1,8 +1,14 @@
 ---
 _db_id: 639
 content_type: topic
+flavours:
+- any_language
 ncit_standards:
 - 115367
+prerequisites:
+  hard:
+  - language-agnostic/problem-solving-technique
+  - language-agnostic/intro-to-hackerrank
 ready: false
 tags:
 - ncit
@@ -10,12 +16,6 @@ tags:
 - binary-arithmetic
 title: Thinking like a machine
 topic_needs_review: true
-flavours:
-- any_language
-prerequisites:
-  hard:
-  - language-agnostic/problem-solving-technique
-  - language-agnostic/intro-to-hackerrank
 ---
 
 ## 1. Problem solving

@@ -3,15 +3,15 @@ _db_id: 366
 content_type: topic
 ncit_standards:
 - 115362
+prerequisites:
+  hard:
+  - projects/git-exercises
 ready: false
 tags:
 - git
 - ncit
 title: Version Control
 topic_needs_review: true
-prerequisites:
-  hard:
-    - projects/git-exercises
 ---
 
 ## 1. Libraries and organising projects

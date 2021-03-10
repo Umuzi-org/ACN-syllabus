@@ -1,20 +1,20 @@
 ---
 _db_id: 371
 content_type: topic
+flavours:
+- any_language
 ncit_standards:
 - 115359
 - 115384
+prerequisites:
+  hard:
+  - language-agnostic/validate-id-number
 ready: false
 tags:
 - tdd
 - ncit
 title: Test-driven development
 topic_needs_review: true
-flavours:
-- any_language
-prerequisites:
-  hard:
-    - language-agnostic/validate-id-number
 ---
 
 ## 1. Errors

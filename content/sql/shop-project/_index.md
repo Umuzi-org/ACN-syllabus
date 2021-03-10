@@ -11,7 +11,8 @@ prerequisites:
 ready: true
 story_points: 3
 submission_type: repo
-tags: [sql]
+tags:
+- sql
 title: SQL
 ---
 

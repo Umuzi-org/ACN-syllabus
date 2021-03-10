@@ -25,7 +25,6 @@ content/projects/first-personal-website/_index.md
 
 - {{% contentlink path="national-qualifications-framework/ncit/search-and-sort-techniques"  flavour="javascript"%}}
 
-
 - {{% contentlink path="national-qualifications-framework/ncit/agile-meetings" %}}
 - {{% contentlink path="national-qualifications-framework/ncit/managing-the-software-development-process" %}}
 - {{% contentlink path="national-qualifications-framework/ncit/agile-project-management" %}}
