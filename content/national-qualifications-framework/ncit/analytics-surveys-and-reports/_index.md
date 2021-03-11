@@ -1,6 +1,28 @@
 ---
 _db_id: 372
 content_type: topic
+flavours:
+- any_language
+ncit_specific_outcomes:
+- assessment_criteria:
+  - The explanation identifies the various types of inputs and outputs. 
+  - The explanation distinguishes between appearance and the underlying structure and processes. 
+  - The explanation identifies the purpose of user involvement in creating the designs. 
+  - The explanation compares online computer functions with manual forms and offline data entry. 
+  - The explanation includes a discussion of input and output that compares graphical input and output functions with text based input and output functions. 
+  outcome: 1
+  title: Explain the principles of computer input and output design. 
+- assessment_criteria:
+  - The design meets the specification for the function. 
+  - The design can be implemented in the specified computer environment. 
+  - The design conforms to an industry recommended format for the function. 
+  outcome: 2
+  title: Design computer input and output functions. 
+- assessment_criteria:
+  - The creation ensures that the function format corresponds to the design. 
+  - The creation ensures that the function behaviour corresponds to the design. 
+  outcome: 3
+  title: Create computer input and output functions. 
 ncit_standards:
 - 115365
 ready: false
