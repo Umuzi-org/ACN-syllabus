@@ -20,7 +20,7 @@ _db_id: 4
 - {{% contentlink path="projects/first-personal-website" %}}
 - {{% contentlink path="topics/how-to-ask-for-help-with-your-code" %}}
 - {{% contentlink path="language-agnostic/intro-to-hackerrank" flavour="python"%}}
-- {{% contentlink path="workshops/big-picture-web-dev" %}}
+- {{% contentlink path="topics/big-picture-web-dev" %}}
 - NCIT 10: Workshop: Giving and receiving constructive feedback
 - NCIT 06: Web design for business
 - NCIT 07: Building an online business
