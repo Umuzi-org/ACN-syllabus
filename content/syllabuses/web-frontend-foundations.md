@@ -11,7 +11,7 @@ title: Web frontend foundations
 - {{% contentlink path="topics/how-to-ask-for-help-with-your-code" %}}
 - {{% contentlink path="projects/katas/level-2" flavour="javascript" %}}
 - {{% contentlink path="agile/agile-scrum" %}}
-- {{% contentlink path="workshops/big-picture-web-dev" %}}
+- {{% contentlink path="topics/big-picture-web-dev" %}}
 - {{% contentlink path="topics/js-and-node-specific/super-basic-intro-to-node" %}}
 - {{% contentlink path="topics/web-frontend/intro-to-web-design/" %}}
 - {{% contentlink path="projects/first-personal-website" %}}
