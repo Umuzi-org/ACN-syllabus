@@ -24,7 +24,7 @@ ncit_standards:
 - 115391
 prerequisites:
   hard:
-  - workshops/big-picture-web-dev
+  - topics/big-picture-web-dev
 ready: true
 tags:
 - ncit
