@@ -13,7 +13,7 @@ _db_id: 3
 - {{% contentlink path="agile/agile-scrum" %}}
 - {{% contentlink path="agile/agile-scrum-slides/" %}}
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/1-basic-javascript/"%}}
-- {{% contentlink path="workshops/big-picture-web-dev" %}}
+- {{% contentlink path="topics/big-picture-web-dev" %}}
 - NCIT 18: Agile project management
 - NCIT 19: Agile meetings
 - {{% contentlink path="workshops/how-to-be-a-professional" %}}
