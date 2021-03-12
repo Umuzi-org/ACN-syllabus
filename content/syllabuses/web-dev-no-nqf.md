@@ -19,7 +19,7 @@ _db_id: 29
 - {{% contentlink path="topics/web-frontend/intro-to-web-design/" %}}
 - {{% contentlink path="projects/first-personal-website" %}}
 
-- {{% contentlink path="workshops/big-picture-web-dev" %}}
+- {{% contentlink path="topics/big-picture-web-dev" %}}
 - {{% contentlink path="topics/js-and-node-specific/super-basic-intro-to-node" %}}
 - {{% contentlink path="topics/jasmine-unit-tests" %}}
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/3-regular-expressions" %}}
