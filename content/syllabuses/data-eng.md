@@ -11,7 +11,7 @@ _db_id: 4
 - {{% contentlink path="agile/agile-scrum-slides" %}}
 - NCIT 18: Agile project management
 - NCIT 19: Agile meetings
-- {{% contentlink path="workshops/how-to-be-a-professional" %}}
+- {{% contentlink path="topics/how-to-be-a-professional" %}}
 - {{% contentlink path="topics/clean-code/python" %}}
 - {{% contentlink path="projects/git-exercises" %}}
 - NCIT 04: Version control (GIT) for teamwork

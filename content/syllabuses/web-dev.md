@@ -16,7 +16,7 @@ _db_id: 3
 - {{% contentlink path="topics/big-picture-web-dev" %}}
 - NCIT 18: Agile project management
 - NCIT 19: Agile meetings
-- {{% contentlink path="workshops/how-to-be-a-professional" %}}
+- {{% contentlink path="topics/how-to-be-a-professional" %}}
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/2-es6" %}}
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/4-debugging" %}}
 - {{% contentlink path="topics/clean-code" %}}
