@@ -25,7 +25,7 @@ _db_id: 7
 - NCIT 07: Building an online business
 - NCIT 12: Business and technology
 - NCIT 09: Ethics and Professionalism in IT
-- {{% contentlink path="workshops/general-coding-best-practices" %}}
+- {{% contentlink path="topics/general-coding-best-practices" %}}
 
 - OOP
 - {{% contentlink path="projects/oop/animals/part2" flavour="java" %}}

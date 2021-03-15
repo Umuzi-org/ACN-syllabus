@@ -41,7 +41,7 @@ _db_id: 3
 - NCIT 12: Business and technology
 - NCIT 08: Pseudocode and documentation
 - NCIT 10: Workshop: Giving and receiving constructive feedback
-- {{% contentlink path="workshops/general-coding-best-practices" %}}
+- {{% contentlink path="topics/general-coding-best-practices" %}}
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/7-object-orientated-programming" %}}
 - {{% contentlink path="topics/jasmine-unit-tests" %}}
 - {{% contentlink path="projects/oop/animals/part2"  flavour="javascript" %}}

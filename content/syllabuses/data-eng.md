@@ -26,7 +26,7 @@ _db_id: 4
 - NCIT 07: Building an online business
 - NCIT 12: Business and technology
 - NCIT 09: Ethics and Professionalism in IT
-- {{% contentlink path="workshops/general-coding-best-practices" %}}
+- {{% contentlink path="topics/general-coding-best-practices" %}}
 - {{% contentlink path="topics/python-specific/automate-the-boring-stuff-book/chapter-4-lists" %}}
 - {{% contentlink path="topics/python-specific/lists-in-depth" optional="1" %}}
 - {{% contentlink path="topics/python-specific/automate-the-boring-stuff-book/chapter-5-dictionaries-and-structuring-data" %}}
