@@ -1,6 +1,20 @@
 ---
 _db_id: 367
 content_type: topic
+flavours:
+- any_language
+ncit_specific_outcomes:
+- assessment_criteria:
+  - The discussion outlines the primary basis on which web sites are designed 
+  - The discussion identifies different uses of the Internet as business tool 
+  outcome: 1
+  title: Discuss the use of web sites in business. 
+- assessment_criteria:
+  - The demonstration identifies the basic concepts to apply to design and production of the web pages 
+  - The demonstration explains the use of techniques to make the web site accessible and popular 
+  - The demonstration recognises the need to protect a web site 
+  outcome: 2
+  title: Demonstrate an understanding of the basic concepts of web-site design for business use. 
 ncit_standards:
 - 115374
 ready: false
