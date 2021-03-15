@@ -32,7 +32,7 @@ _db_id: 3
 - {{% contentlink path="topics/free-code-camp/responsive-web-design/2-basic-css" %}}
 - {{% contentlink path="topics/free-code-camp/responsive-web-design/3-applied-visual-design" %}}
 
-* {{% contentlink path="workshops/intro-to-css-architecture" %}}
+* {{% contentlink path="topics/intro-to-css-architecture" %}}
 * {{% contentlink path="topics/web-frontend/intro-to-web-design/" %}}
 
 - {{% contentlink path="projects/first-personal-website" %}}
