@@ -10,7 +10,7 @@ prerequisites:
   - projects/nodejs/sql
   - projects/nodejs/file-io
   - topics/js-and-node-specific/expressjs
-  - workshops/intro-to-express
+  - topics/intro-to-express
   soft: []
 ready: true
 story_points: 3
