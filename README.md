@@ -73,7 +73,7 @@ That's it :) now you'll be able to poke around the main site
 ### Setting up and running the linter
 
 Make sure you have Python3 installed. This wont work with legacy Python (python2.7 == legacy == dangerzone).
-We use [Pipenv](https://pipenv.pypa.io/en/latest/) for dependency management, to install run;
+We use [Pipenv](https://pipenv.pypa.io/en/latest/) for dependency management, to install run
 
 ```
 pip install pipenv
@@ -89,7 +89,7 @@ To activate the environment run
 pipenv shell
 ```
 
-You should now be all set to run the linter;
+You should now be all set to run the linter
 ```
 python lint.py
 ```
