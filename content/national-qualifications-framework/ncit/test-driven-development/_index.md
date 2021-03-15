@@ -3,6 +3,45 @@ _db_id: 371
 content_type: topic
 flavours:
 - any_language
+ncit_specific_outcomes:
+- assessment_criteria:
+  - The explanation covers the difference between an error and a mistake. 
+  - The explanation covers the errors found in data entry via computer input devices. 
+  - The explanation identifies sources of induced errors in calculations. 
+  outcome: 1
+  title: Explain different errors found in the computer programming environment. 
+- assessment_criteria:
+  - The demonstration explains overflow errors found in computers. 
+  - The demonstration explains underflow errors found in computers. 
+  - The demonstration explains conversion errors found in computers. 
+  - The demonstration explains errors found in computers because of advancement in processor word-sizes. 
+  outcome: 2
+  title: Demonstrate how calculation errors are induced in the computer. 
+- assessment_criteria:
+  - The demonstration explains how mistakes can be minimised. 
+  - The demonstration explains how errors can be minimised. 
+  outcome: 3
+  title: Demonstrate how mistakes and computer errors can be minimised. 
+
+- assessment_criteria:
+  - The testing executes operational steps identified in the test plan. 
+  - The testing uses input data as specified in the test plan. 
+  - The testing outlines deviations from the test plan, with explanations. 
+  - The testing follows the standards and procedures specified in the test plan for testing and re-testing. 
+  outcome: 1
+  title: Test a computer program against given specifications according to test plans. 
+- assessment_criteria:
+  - The records are provided for all tests executed. 
+  - The records identify variations from expected test results and gives reason where available. 
+  - The recorded results are reproduced if the tests are repeated under the same conditions. 
+  - The recorded results are recorded in a way that allows the results to be reviewed. 
+  outcome: 2
+  title: Record the results from testing a computer program. 
+- assessment_criteria:
+  - The review allows improvements to be made to the application testing process.
+  - The review follows organisation policy and procedures. 
+  outcome: 3
+  title: Review the testing process for a computer program against organisation policy and procedures.
 ncit_standards:
 - 115359
 - 115384
