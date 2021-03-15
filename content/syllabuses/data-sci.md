@@ -31,7 +31,7 @@ _db_id: 2
 - {{% contentlink path="topics/google-forms-like-a-boss" %}}
 - {{% contentlink path="projects/morse-code" flavour="python" %}}
 - {{% contentlink path="projects/data-science-specific/data-visualisation" %}}
-- {{% contentlink path="workshops/intro-to-data-ethics" %}}
+- {{% contentlink path="topics/intro-to-data-ethics" %}}
 - NCIT 11: Test-driven development
 - {{% contentlink path="projects/tdd/string-calculator" flavour="python" %}}
 - {{% contentlink path="projects/data-science-specific/statistical-thinking" flavour="python" %}}
