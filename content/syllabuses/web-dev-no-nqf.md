@@ -51,7 +51,7 @@ _db_id: 29
 - {{% contentlink path="projects/nodejs/sql" flavour="javascript" %}}
 - {{% contentlink path="topics/data-infrastructure/database-comparison/" %}}
 - {{% contentlink path="projects/nodejs/ajax" flavour="javascript" %}}
-- {{% contentlink path="workshops/git-for-teamwork/" %}}
+- {{% contentlink path="topics/git-for-teamwork/" %}}
 - {{% contentlink path="topics/web-frontend/intro-to-angular/" optional="1" %}}
 - {{% contentlink path="topics/web-frontend/react/intro-to-react" %}}
 - {{% contentlink path="topics/web-frontend/intro-to-vue/" optional="1" %}}
