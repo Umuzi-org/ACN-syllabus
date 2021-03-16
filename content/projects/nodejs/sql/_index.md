@@ -7,7 +7,7 @@ from_repo: projects/nodejs/file-io
 prerequisites:
   hard:
   - sql/shop-project
-  - workshops/node-and-sql/
+  - topics/node-and-sql/
   - projects/nodejs/file-io
   soft: []
 ready: true
