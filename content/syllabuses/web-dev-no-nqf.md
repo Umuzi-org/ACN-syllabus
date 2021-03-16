@@ -55,7 +55,7 @@ _db_id: 29
 - {{% contentlink path="topics/web-frontend/intro-to-angular/" optional="1" %}}
 - {{% contentlink path="topics/web-frontend/react/intro-to-react" %}}
 - {{% contentlink path="topics/web-frontend/intro-to-vue/" optional="1" %}}
-- {{% contentlink path="workshops/nodejs-intro-to-socketio/" optional="1" %}}
+- {{% contentlink path="topics/nodejs-intro-to-socketio/" optional="1" %}}
 - {{% contentlink path="topics/redux-intro/" optional="1" flavour="javascript" %}}
 - {{% contentlink path="topics/js-and-node-specific/mongodb/" optional="1"  %}}
 - {{% contentlink path="topics/js-and-node-specific/dotenv/"  %}}
