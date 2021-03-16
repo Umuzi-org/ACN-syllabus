@@ -1,6 +1,6 @@
 ---
 _db_id: 26
-content_type: workshop
+content_type: topic
 ready: true
 title: 'Live coding: Introduction to Java'
 ---

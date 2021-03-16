@@ -1,6 +1,6 @@
 ---
 _db_id: 27
-content_type: workshop
+content_type: topic
 ready: true
 title: Basic intro to oop with IntelliJ
 ---
