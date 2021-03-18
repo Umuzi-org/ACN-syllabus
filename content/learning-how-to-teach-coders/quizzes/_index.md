@@ -38,3 +38,9 @@ If recruits are struggling with some concepts and cannot think of solutions to b
 - [CodeQuizzes](https://www.codequizzes.com/)
 - [JavaScript Quiz](https://www.w3schools.com/js/js_quiz.asp)
 - [Java Quiz](https://www.w3schools.com/java/java_quiz.asp)  
+
+## Practice Problem Solving 
+- [Hackerrank](https://www.hackerrank.com/)
+- [Edabit](https://edabit.com/)
+- [CodeWars](https://www.codewars.com/dashboard)
+- [Project Euler](https://projecteuler.net/)
