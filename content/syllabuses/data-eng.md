@@ -78,7 +78,6 @@ _db_id: 4
 - {{% contentlink path="projects/data-science-specific/data-wrangling" flavour="python" %}}
 - NCIT 16: Thinking like a machine / Boolean algebra, logic
 - NCIT 17: Search and sort techniques
-- {{% contentlink path="topics/git-for-teamwork/" %}}
 - NCIT 20: Managing the Software Development Process
 
 * DATA_ENG:
