@@ -7,6 +7,10 @@ title: General Clean Code Guidelines
 
 “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” ― Martin Fowler
 
+## Language Agnostic
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSIhlM9a_4cCyEXwDZ6Sruk0AyhXTJMDVqK99TTk4RB267jJ8fVT7KP6NjAjuO0jBu8IzBRuWpY4Cv4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## Obvious Function and Variable Names
 
 When you declare a variable, give it a name that describes what values or data it holds.
@@ -110,3 +114,4 @@ Coupling is about how much each component in your code base depends on other com
 Defensive programming means anticipating things that could probably go wrong and coding to handle such situations or edge cases. The goal is to write code that can handle real life situations: e.g. invalid input from the user - the user inputs a number where your program requires a text string.
 
 If you don't code defensively your code might for example fail to complete its work but still run with no errors and act as if there is no problem. This leads to bugs that are difficult to find and fix after you've pushed your code. You can make use of exception or error messages for example to prevent your code from running if the input was invalid. So think about the edge cases. Assume that your user isn't always going to follow the instructions or use your program as they were supposed. Then write your code in a way that anticipates and handles such misuse.
+
