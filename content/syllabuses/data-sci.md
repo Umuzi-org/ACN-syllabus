@@ -60,7 +60,6 @@ _db_id: 2
 - NCIT 20: Managing the Software Development Process
 - {{% contentlink path="topics/optimizations-and-big-o/" %}}
 - NCIT Summative assessment
-- {{% contentlink path="topics/git-for-teamwork/" %}}
 - {{% contentlink path="topics/data-infrastructure/database-comparison/" %}}
 - {{% contentlink path="projects/data-science-specific/k-means-clustering" flavour="python"%}}
 - {{% contentlink path="projects/data-science-specific/natural-language-processing" flavour="python"%}}

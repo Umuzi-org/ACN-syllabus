@@ -96,8 +96,6 @@ _db_id: 3
 
 - {{% contentlink path="projects/nodejs/ajax" flavour="javascript" %}}
 
-- {{% contentlink path="topics/git-for-teamwork/" %}}
-
 - NCIT 20: Managing the Software Development Process
 - NCIT Summative assessment
 
