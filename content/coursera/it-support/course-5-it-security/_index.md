@@ -4,7 +4,7 @@ available_flavours:
 content_type: project
 prerequisites:
   hard:
-  - content/coursera/it-support/course-4-system-administration-and-it-infrastructure-services
+  - coursera/it-support/course-4-system-administration-and-it-infrastructure-services
 ready: true
 submission_type: link
 title: 'Coursera - IT Support - Course 5 - IT Security: Defense against the digital dark arts'

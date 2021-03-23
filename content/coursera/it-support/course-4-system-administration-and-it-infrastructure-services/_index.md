@@ -4,7 +4,7 @@ available_flavours:
 content_type: project
 prerequisites:
   hard:
-  - content/coursera/it-support/course-3-operating-systems-and-you
+  - coursera/it-support/course-3-operating-systems-and-you
 ready: true
 submission_type: link
 title: Coursera - IT Support - Course 4 - System Administration and IT Infrastructure Services

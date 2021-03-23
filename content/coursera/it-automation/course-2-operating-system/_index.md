@@ -4,7 +4,7 @@ available_flavours:
 content_type: project
 prerequisites:
   hard:
-  - content/coursera/it-automation/course-1-python-crash-course
+  - coursera/it-automation/course-1-python-crash-course
 ready: true
 submission_type: link
 title: Coursera - IT Automation with Python - Course 2 - Using Python to Interact with the Operating System

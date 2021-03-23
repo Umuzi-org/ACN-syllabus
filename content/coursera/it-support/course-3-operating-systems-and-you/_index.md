@@ -4,7 +4,7 @@ available_flavours:
 content_type: project
 prerequisites:
   hard:
-  - content/coursera/it-support/course-2-the-bits-and-bytes-of-computer-networking
+  - coursera/it-support/course-2-the-bits-and-bytes-of-computer-networking
 ready: true
 submission_type: link
 title: 'Coursera - IT Support - Course 3 - Operating Systems and You: Becoming a Power User'

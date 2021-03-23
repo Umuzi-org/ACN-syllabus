@@ -4,7 +4,7 @@ available_flavours:
 content_type: project
 prerequisites:
   hard:
-  - content/coursera/it-automation/course-3-introduction-git-github
+  - coursera/it-automation/course-3-introduction-git-github
 ready: true
 submission_type: link
 title: Coursera - IT Automation with Python - Course 4 - Troubleshooting and Debugging Techniques

@@ -4,7 +4,7 @@ available_flavours:
 content_type: project
 prerequisites:
   hard:
-  - content/coursera/it-support/course-1-technical-support-fundamentals
+  - coursera/it-support/course-1-technical-support-fundamentals
 ready: true
 submission_type: link
 title: Coursera - IT Support - Course 2 - The Bits and Bytes of Computer Networking
