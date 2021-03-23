@@ -6,6 +6,7 @@ ncit_standards:
 ready: false
 tags:
 - ncit
+- business
 title: Business and Technology
 topic_needs_review: true
 ---
@@ -13,47 +14,33 @@ topic_needs_review: true
 ## 1. Fundamental business concepts
 
 ### Business Types
-To make the most of your business goals and for legal purposes it is important to understand the different types of businesses you can be registered as. Depending on the nature of your software company and the game you will be designing you might consider the following 5:
 
+To make the most of your business goals and for legal purposes it is important to understand the different types of businesses you can be registered as. Depending on the nature of your software company you might consider the following 5:
 
 1. Sole Proprietorship
-
 2. Partnerships
-
 3. Corporation
-
 4. Nonprofit
-
 5. Cooperative
-
 
 #### 1. Sole Proprietorship
 A sole proprietorship is the simplest of business types and therefore also the most popular. It is a business that's owned by just one person where there isn't any legal or financial distinction between the business and the business owner.
 
-
 **The Positives**
 
  - Minimal forms and legal procedures to declare this type of business
-
  - Low start-up costs
-
  - Greatest freedom from regulation
-
  - Owner in direct control of decision making
-
  - Tax advantages to owner
-
  - All profits to owner
 
 
 **The Negatives**
 
  - Unlimited liability: owner is fully accountable for all of the profits, liabilities and legal issues that the business may encounter
-
  - Limited access to specific licenses and other documents
-
  - Difficult to raise capital
-
  - No continuity if anything happens to the owner
 
 
@@ -65,7 +52,6 @@ With an LP, there are two sets of partners:
 
 
 1. 3 General partners: usually involved in the everyday business decisions, and have personal liability.
-
 2. Limited partners: typically investors. Not liable for debts and don't partake in regular business management.
 
 
@@ -73,37 +59,26 @@ In either type of partnership, you will be required to:
 
 
 1. register your business with your state and establish an official business name.
-
 2. obtain a business license, along with any other documentation that your state office can help you with
-
 3. register your business for tax
 
 
 **The Positives**
 
  - Additional sources of investment capital
-
  - Low start-up costs
-
  - Possible tax advantages
-
  - Limited regulation
-
  - Broader management base
 
 
 **The Negatives**
 
  - More legal documentation required
-
  - Unlimited liability: general partners are fully accountable
-
  - Lack of continuity because business is attached to owners
-
  - Divided authority
-
  - Hard to find suitable partners
-
  - Possibility for conflict between partners
 
 
@@ -114,23 +89,16 @@ A corporation, is a fully independent business (when public) that's made up of m
 **The Positives**
 
  - Limited liability: owners are not accountable for the business, it a separate legal entity
-
  - Ownership is transferable and therefore the business has continuity
-
  - Possible tax advantages
-
  - Easier to raise capital
 
 **The Negatives**
 
  - Closely regulated
-
  - Most expensive to set up
-
  - Extensive record keeping necessary
-
  - Double taxation of profits (eg. corporate tax and personal income tax)
-
  - Potential conflict between shareholders and executives
 
 
@@ -145,15 +113,13 @@ Some basic questions to help you define your business type:
 
 
  - How many people are in your software company?
-
  - Do you plan to hire people in the future?
-
- - Is your game for profit or does it a have a purely social objective?
-
- - Do you feel comfortable accepting full responsibility for the success or failure of the game?
+ - Is your product for profit or does it a have a purely social objective?
+ - Do you feel comfortable accepting full responsibility for the success or failure of the product?
 
 
 ### Business Aims & Objectives
+
 All businesses have aims or objectives. It can be useful to be clear about what these are from the beginning. They will help determine the type of business you create and structure its growth and development. In a real life situation knowing these aims and objectives will help you do the following: find partners, create a budget, apply for funding and outside investment.
 
 ### Common Business Objectives
@@ -165,7 +131,7 @@ Example: Pay yourself a salary
 #### Increase Profitability
 This could be for the owners and shareholders or it could also be to increase the financial resources of your company for future expansion
 
-Example: Save profits to invest in future game improvements
+Example: Save profits to invest in future product improvements
 
 #### Customer Satisfaction
 Ensure that the users of your product or service are happy with what you are providing. This can create loyalty and lead to a more successful product in the future
@@ -179,7 +145,6 @@ This is often done in order to allow a company to grow and therefore increase pr
 This could be for future expansion or to improve your product and services. This might be achieved by: expanding and improving resources eg. office space, computer equipment; or making sure staff are happy; or employing more skilled staff.
 
 Example: Add a new feature every 6 months
-
 
 
 ### Pro-Social Objectives
@@ -196,12 +161,10 @@ You might choose objectives which are based on how one should treat the environm
 Example: Source your materials locally to reduce carbon footprint
 
 #### Public Services
+
 This could be about ensuring the well being of less fortunate people or groups without access to a particular service.
 
-Example: Develop initiatives to create a broad and diverse user base
-
-
-TODO: Provide a real world example
+Example: Providing education
 
 ### Effective Business Objectives
 The most effective business objectives meet the following criteria:
@@ -255,8 +218,9 @@ A business environment is the combination of internal and external factors that 
 While the internal environment is usually under the control of the business and will include: objectives, policies, production methods, organisational structure etc. The external environment includes all those factors which exist outside and aren’t in direct control of the business. These include: customers, suppliers, competitors, the public, and trends.
 
 
-#### Online Gaming Industry
-You will need to research the online gaming industry in order to understand the external environment you are working in and design your business accordingly so it will succeed. You might consider some of the following factors which were taken from market research done in 2017:
+#### Research the industry 
+
+If you were to build an online game, you would need to research the online gaming industry in order to understand the external environment you are working in and design your business accordingly so it will succeed. You might consider some of the following factors which were taken from market research done in 2017:
 
 
 **Mobile Gaming**
@@ -272,16 +236,11 @@ You will need to research the online gaming industry in order to understand the 
 If you’re interested, read more here: https://plarium.com/en/mmo-games/trends-online-gaming-2017/
 
 
-
 Some starter questions to help you understand your business environment:
 
-
  - Who is your target audience? What kind of games are they playing? What devices do they have access to?
-
  - What kind of games are successful software companies making?
-
  - What resources do you have to create your game and will they limit you?
-
  - How will you distribute your game, will there be limitations?
 
 ## 2. Systems theory and information systems
@@ -310,27 +269,27 @@ Businesses tend to have several information systems. For most businesses, there 
 
 
  - Senior managers need information to help with their business planning
-
  - Middle management need more detailed information to help them monitor and control business activities
-
  - Employees with operational roles need information to help them carry out their duties
 
 
 It may be that as a sole proprietor that you take on all these roles but you will still need to think about how you record and monitor the different areas of your business.
 
 #### 1. Transaction processing systems (TPS)
+
 TPS serve people in the operational level of an organization. These might be: billing systems to send invoices to customers, systems to calculate the weekly and monthly payroll and tax payments or task management systems.
 
 
 *The development of a game or piece of software, especially a large one, can require the work of multiple departments and multiple projects over a long period of time. For a lot of software companies a core part of the day-to-day operation will be an Agile Project Management system to manage tasks and keep on top of projects. This approach to task management can be useful also to small businesses. Many other systems that manage day-to-day administration (for example of human resources or financial accounting) will be managed by digital web apps that work together. These are especially useful to small businesses that don’t have many resources or capital.*
 
 #### 2. Knowledge management systems (KMS)
-KMS exist to help businesses create and share information. They are typically used in businesses where employees create new knowledge and expertise, which can then be shared by other people in the organisation to create further commercial opportunities. KMS are built around systems which allow efficient categorisation and distribution of knowledge.
 
+KMS exist to help businesses create and share information. They are typically used in businesses where employees create new knowledge and expertise, which can then be shared by other people in the organisation to create further commercial opportunities. KMS are built around systems which allow efficient categorisation and distribution of knowledge.
 
 *In the process of creating a game, you might have ideas that need to be maintained and shared. These might be contained in word processing documents, spreadsheets, PowerPoint presentations, internet pages, etc and shared using group collaboration software like Google Drive. More specifically, code development can be a messy business, especially if you’re collaborating. In order to make sure everyone has the latest versions and file structure you will use a version control system (GitHub).*
 
 #### 3. Management information systems (MIS)
+
 These are primarily concerned with internal sources of information and serve the management level of the organization. MIS usually take data from the transaction processing systems (see above) and summarise it into a series of management reports. MIS reports tend to be used by middle management and operational supervisors.
 
 
@@ -338,6 +297,7 @@ These are primarily concerned with internal sources of information and serve the
 *
 
 #### 4. Executive support systems (ESS)
+
 Designed to help senior management make strategic decisions. An ESS gathers, analyses and summarises the key internal and external information to get the overview of the entire organization’s performance.
 
  

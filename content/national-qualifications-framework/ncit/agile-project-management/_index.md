@@ -3,6 +3,7 @@ _db_id: 370
 content_type: topic
 ncit_standards:
 - 114059
+ready: true
 tags:
 - agile
 - scrum
@@ -15,9 +16,8 @@ topic_needs_review: true
 
 Watch the two videos below to learn the basics of Agile and Scrum.
 
-[Intro to the principles of Agile](https://youtu.be/Z9QbYZh1YXY)
-
-[Intro to Scrum method](https://youtu.be/9TycLR0TqFA)
+{{% youtube Z9QbYZh1YXY %}}
+{{% youtube 9TycLR0TqFA %}}
 
 ## 2. Cost-benefit analysis
 

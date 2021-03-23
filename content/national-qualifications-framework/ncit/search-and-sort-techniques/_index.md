@@ -3,9 +3,14 @@ _db_id: 376
 content_type: topic
 ncit_standards:
 - 115373
-ready: false
+prerequisites:
+  hard:
+  - topics/optimizations-and-big-o
+ready: true
 tags:
 - ncit
+- big-O
+- algorithms
 title: Search and Sort Techniques
 topic_needs_review: true
 ---
@@ -22,8 +27,6 @@ This “big picture” idea of hiding particular details is known as abstraction
 
 The implementation of an abstract data type, often referred to as a data structure, will require that we provide a physical view of the data using some collection of programming constructs and primitive data types.
 
-
-
 **Data Structures**
 
 A data structure is a particular way of organizing data in a computer so that it can be used efficiently. “Used efficiently” here means according to your needs. You may need a structure that allows very fast lookup or very fast insertion. The key thing to remember is that each data structure has its own advantages and disadvantages. There isn’t any one of them that would beat all of the others, that’s the reason why it is important to know many of them.
@@ -31,21 +34,13 @@ A data structure is a particular way of organizing data in a computer so that it
 Here’s a partial list of data structures we can implement in computer programs:
 
  - Array
-
  - Hash Table
-
  - Set
-
  - Linked List
-
  - Stack
-
  - Queue
-
  - Tree
-
  - Binary Search Tree
-
  - Graph
 
 We will focus on arrays, stacks, queues and hash tables. As you develop as a programmer, you will likely use most of these data structures, so it wouldn’t hurt to read a bit about them on your own.
@@ -53,8 +48,6 @@ We will focus on arrays, stacks, queues and hash tables. As you develop as a pro
 **Arrays**
 
 An array is a data structure consisting of a collection of elements (values or variables), each identified by at least one array index. The simplest type of data structure is a linear array, also called one-dimensional array. In some programming languages the length of an array is established when the array is created. In JavaScript, it is very easy to add elements to an array, so it grows as your program needs it.
-
-
 
 ![An array of 10 elements](array-demo.png)
 
@@ -120,13 +113,9 @@ The “shift” command removes an element from the beginning of your array, whi
 There are many methods or algorithms for sorting. A few examples:
 
  - Bubble sort
-
  - Merge sort
-
  - Insertion sort
-
  - Quick sort
-
  - Heap sort
 
 One of the easiest sorting methods to understand is “Bubble sort”. Just because it’s easy to understand how it works, doesn’t mean it’s the best or fastest way to sort. You’ll see there are much faster methods.

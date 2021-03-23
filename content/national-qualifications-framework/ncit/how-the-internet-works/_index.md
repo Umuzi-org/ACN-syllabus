@@ -1,8 +1,6 @@
 ---
 _db_id: 93
 content_type: topic
-flavours:
-- any_language
 ncit_specific_outcomes:
 - assessment_criteria:
   - The explanation outlines the origins and history of the internet
@@ -28,6 +26,7 @@ prerequisites:
 ready: true
 tags:
 - ncit
+- internet
 title: How the internet works
 topic_needs_review: true
 ---
@@ -47,17 +46,11 @@ These days, we often just say "The Internet" when we refer to anything we access
 ## How does the Internet work?
 
 - https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work
-
 - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works
-
 - https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines
-
 - https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name
-
 - https://dev.opera.com/articles/http-basic-introduction/
-
 - https://dev.opera.com/articles/http-lets-get-it-on/
-
 - https://dev.opera.com/articles/http-response-codes/
 
 To learn more about how the Internet works, including SMTP, TCP, FTP, and DNS protocols, you are encouraged to read this document:

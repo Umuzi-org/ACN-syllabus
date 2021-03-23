@@ -1,10 +1,15 @@
 ---
 _db_id: 373
 content_type: topic
+flavours:
+- none
 ncit_standards:
 - 114048
 - 114049
-ready: false
+prerequisites:
+  hard:
+  - sql/shop-project
+ready: true
 tags:
 - sql
 - ncit
@@ -13,31 +18,25 @@ topic_needs_review: true
 ---
 
 ### 1. Database management systems
-<br/>
 
 **Watch this video for an intro to relationship databases (databases that use SQL)**
 
 {{< youtube NvrpuBAMddw >}}
-<br/>
 
 **For a second introduction to RDMS watch this video**
 
 {{< youtube h8IWmmxIyS0 >}}
-<br/>
 
 [Please visit this link to find the reading material for this section.](https://docs.google.com/presentation/d/1dMScjMotTkmfCypnV4eFmb5OQTIQaWXe3CL-Tr1ZHuc/edit?usp=sharing)
-<br/>
 ### 2. Introduction to SQL
 For a basic intro to SQL commands, watch this video:
 {{< youtube bEtnYWuo2Bw >}} 
-<br/>
 [Please find here the reading material for this section](https://umuzi.gnomio.com/pluginfile.php/5047/mod_book/chapter/3565/Introduction%20to%20SQL.pdf)
 
 ### 3. NoSql Databases
 [Please find here the reading material for this section](https://umuzi.gnomio.com/pluginfile.php/5047/mod_book/chapter/3566/NoSql%20presentation.pdf)
 
 ### 4. MongoDB
-Introduction to MongoDB
 For a basic introduction to MongoDB please check out the video below.
 {{< youtube EE8ZTQxa0AM >}}
 

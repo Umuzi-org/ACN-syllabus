@@ -3,9 +3,13 @@ _db_id: 363
 content_type: topic
 ncit_standards:
 - 115388
+prerequisites:
+  hard:
+  - topics/clean-code
 ready: false
 tags:
 - ncit
+- documentation
 title: Pseudocode and documentation
 topic_needs_review: true
 ---
@@ -39,13 +43,9 @@ What are these development documents used for?
 The main reasons why people need the technical design document for their work:
 
 - Stakeholders require the reports.
-
 - Customers need to feel more secure and at ease using the program.
-
 - To keep track of everything on the project.
-
 - For Audit purposes.
-
 - As a training material for new people in the team.
 
 #### Agile documentation best practices:
@@ -53,6 +53,7 @@ The main reasons why people need the technical design document for their work:
 **Only the relevant information**
 
 Agile suggests that only the most necessary information should be documented.
+
 What is the need for documenting something everyone knows? Create a vision, if it helps you to get fundraising. Write only the customer documents your customers require. Document your decisions only if there are alternatives and you need a reminder of what was behind those decisions.
 
 **Wait before documenting**
@@ -82,3 +83,32 @@ https://www.wikihow.com/Write-Pseudocode
 A quick summary (halfway down the page) with examples: http://userpages.wittenberg.edu/bshelburne/Comp150/Algorithms.htm
 
 A quick video description is [here](https://www.khanacademy.org/computing/computer-programming/programming/good-practices/p/lanning-with-pseudo-code)
+
+## 4. DONT DO THIS
+
+```
+var a = 0; // declare a variable called a
+```
+
+If you ever catch yourself rewriting your code as English sentences then you are doing it wrong. It adds no value.
+
+Comments in your code exist to add clarty. Coders read code. They dont need you to rewite things in English. 
+
+Commants should be used to overcome confusing things. Eg you can explain *why* you are doing something. Or you could link to an external document that explains an algorithm you are implementing.
+
+Also, if you choose good variable and function names then comments become less necessary.
+
+eg;
+```
+// BAD
+
+const myFunction = x => {
+    return (5 / 9) * (x - 32);   
+}
+
+// GOOD
+
+const fahrenheitToCelcius = fahrenheit => {
+    return (5 / 9) * (fahrenheit - 32);   
+}
+```

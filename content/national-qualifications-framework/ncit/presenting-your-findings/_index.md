@@ -3,9 +3,13 @@ _db_id: 375
 content_type: topic
 ncit_standards:
 - 13925
+prerequisites:
+  hard:
+  - national-qualifications-framework/ncit/analytics-surveys-and-reports
 ready: false
 tags:
 - ncit
+- communication
 title: Presenting your findings
 topic_needs_review: true
 ---
@@ -18,21 +22,16 @@ Presentations are a part of most real-life work environments. They are an effect
 They can take different forms and the format will vary but for this project you will be creating a 10 minute presentation of your report.
 
 #### Target Audience
-When presenting to other people you must always think about who you’re communicating with; what do they need to know and how will they best understand the information? These questions are especially important in the computer industry because not everyone involved in your projects will be interested or familiar with the technical aspects of your work. We also looked at this question when writing reports.
 
+When presenting to other people you must always think about who you’re communicating with; what do they need to know and how will they best understand the information? These questions are especially important in the computer industry because not everyone involved in your projects will be interested or familiar with the technical aspects of your work. We also looked at this question when writing reports.
 
 Ask yourself these questions:
 
  - Who are you presenting to and what do they need to know? What are the goals of your presentation?
-
  - How much technical information do you need to give them, if any?
-
  - How can you simplify or summarise the technical information in a way that someone from a non-technical background might understand?
-
  - How formal does your language need to be?
-
  - Is humour appropriate? Will it help keep people engaged?
-
 
 As you will be presenting your report think about what information you might present to get people so interested in your report that they want to read the whole document.
 
@@ -40,9 +39,7 @@ As you will be presenting your report think about what information you might pre
 
 Much of the preparation for your presentation will have been done while creating your report. The process for both is the same, but the main difference is that a presentation won’t go as in depth as a report and is more of a summary of information. Most presentations will be between 10 and 30 minutes long (yours should only be 10). While this may sound like a long time, you will be surprised how quickly time can go when you talk, so the fundamental skill of preparing a presentation is choosing the information to share and thinking about how you will present it.
 
-
 Since you have already written a report, you have all the information that is going to go into the presentation already. What you need to think about is:
-
 
 What is your report about and why is it important to the audience
 
@@ -76,24 +73,18 @@ Try to keep the focus on what you’re saying rather than the visuals. They shou
 ### 3. Presentation tools
 
 #### Powerpoint and Google Slides
+
 There are different tools you can use to help you present information. For this project we will be using a slideshow based tool. You can either use Powerpoint, if you have the software installed on your computer, or Google Slides, which is a free web-application that provides similar functionality.
 
-
 You will be using these programs to create a slideshow that will run alongside your spoken presentation. This is the format you will be presenting your report research in. It should provide a visual aid to the information. It is up to you what you display and how many slides you have but here are some tips on creating the slideshow:
-
 
  - Provide a roadmap for your audience. Use one slide at the beginning (after a title slide) to tell them what your presentation will cover and the order you will present things. This will help them follow along as you move through your content.
 
  - Don’t fill your slides with text, you want people to focus on what you’re saying.
-
  - Think about how much time you have and how much time you need to explain the different parts of your report. You don’t want to have to rush through the information and speak quickly.
-
  - Include images, diagrams and videos to help illustrate your message. Ensure that they are good quality.
-
  - Keep the aesthetic simple and professional, you don’t want your presentation to distract people from what you’re saying.
-
  - Use transitions and effects in moderation. They can be distracting and look unprofessional.
-
  - Plan the slides so they synchronise with what you’re saying. Know when to switch between them.
 
 
@@ -142,9 +133,7 @@ It’s only through actually rehearsing your presentation that you will get a se
 When you do this, you might discover that you need to:
 
  - Change the order of the slides, or points your making
-
  - You might need to remove information to keep within the time limit
-
  - Include more pictures to illustrate what you’re saying
 
 
@@ -163,11 +152,8 @@ While feedback is one way of gauging how successful your presentation has been, 
 
 
  - Did anyone ask to read the full report after the presentation?
-
  - Did anyone follow up on any of the points you mentioned?
-
  - Did anyone talk to you after the presentation about the information you had presented?
-
  - Did people engage with your Q & As? That can be a good indication that people were listening and interested in what you were saying.
 
 

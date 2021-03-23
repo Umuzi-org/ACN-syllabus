@@ -2,6 +2,9 @@
 _db_id: 310
 content_type: topic
 ready: true
+tags:
+- css
+- responsive web design
 title: Basic CSS
 ---
 

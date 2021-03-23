@@ -3,9 +3,13 @@ _db_id: 355
 content_type: topic
 ncit_standards:
 - 116389
+prerequisites:
+  hard:
+  - national-qualifications-framework/ncit/analytics-surveys-and-reports
 ready: false
 tags:
 - ncit
+- communication
 title: Write a report
 topic_needs_review: true
 ---
@@ -20,19 +24,12 @@ Common features of technical reports include:
 
 
  - Designed for quick and easy communication of information
-
  - Designed for selective reading (a manager or client may only read a section of the report depending on what they are interested in learning)
-
  - Have sections with numbered headings and subheadings
-
  - Use figures and diagrams to convey data
-
  - Based primarily on original research
-
   - If you use information, ideas, media, etc that someone else has created, you must properly cite your sources with footnotes.
-
   - Failure to cite the sources of ideas in your report is considered plagiarism. This violates professional ethics and will result in you losing respect among peers and can even lead to the loss of a job.
-
 
 ### Collecting and organising your information
 
@@ -44,7 +41,6 @@ The first step in writing any report is to create an outline. An outline breaks 
 
 
 The basic format for an outline uses an alternating series of numbers and letters, indented accordingly, to indicate levels of importance. Here is a very basic structure for an outline.:
-
 
 | Part of Outline | Description |
 |---|---|
@@ -108,29 +104,20 @@ While the content of your report is of the utmost importance, the presentation o
 #### Information Hierarchy
 
  - It can be very useful to take advantage of the default heading styles of your word processing software to layout your information eg. Heading 1 for titles, Heading 2 for subtitles etc.
-
  - Perhaps some information is more easily read in a bulleted or numbered list
-
  - You could start every chapter/section on a new page
-
  - You could include horizontal lines to separate sub headings
-
 
 #### Legibility
 
  - Is your font legible and professional? Is it a good size?
-
  - Is double line spacing easier to read?
-
  - Have you chosen a good colour? Black is best unless you have specific reasons to use other colours.
-
 
 #### Aesthetics
 
  - Images in your document - Are they clearly labelled? and consistently laid out?
-
  - Have you used a consistent colour palette - for headings? In your diagrams?
-
 
 You might only think of these things once you have finished your first draft but it is useful to keep them in mind while writing to minimise the amount of formatting you have to do at the end.
 
@@ -140,7 +127,6 @@ Whenever you make use of other people's facts or ideas, you must indicate this. 
 
 
 1. make sure the information is correct and the report is based on real facts.
-
 2. find more information on the subject.
 
 
@@ -156,14 +142,9 @@ When you have used information from a different source within your report, you c
 
 For example:
 
-
 Some have argued that such an investigation would be fruitless. &sup1;
 
-
-___________
-
 &sup1; Russell, Tony. “Welcome to the Purdue OWL.” Purdue OWL: MLA Formatting and Style Guide, 23 Mar. 2018, owl.english.purdue.edu/owl/resource/747/04/.
-
 
 This numbering system continues throughout the document. EasyBib (http://www.easybib.com) will help you generate the citations using information that you enter about the source.
 
@@ -171,15 +152,10 @@ This numbering system continues throughout the document. EasyBib (http://www.eas
 Broadly speaking most citations require:
 
  - The name of the author(s)
-
  - The title of the piece
-
  - The publisher/website
-
  - The URL
-
  - The year the information was published/written
-
  - The particular place in the source where you found the information eg. page number, video time
 
 ### Reference List
@@ -212,21 +188,10 @@ Once you have created a draft of your report you, or someone else, should proofr
 Some specific things to look out for:
 
  - Spelling mistakes, (your word processing software might do this automatically, but always check again when reviewing your work)
-
  - Fluidity in the content? Does the introduction link directly to the conclusion? Do the points you have made lead logically to the conclusion?
-
  - Does it look professional?
-
  - Are your page numbers/table of content items correct?
-
  - Are your diagrams and images useful and helpful to the reader?
 
 
 You will probably go through this process a couple of times before you’re happy with your report.
-
-
-Now, let’s get to writing! 
-
-1. Group your insights from your research
-2. Create a strong outline
-3. Start filling it out with details.

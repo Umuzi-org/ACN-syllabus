@@ -39,10 +39,10 @@ After setting up Jasmine on the terminal, please ensure that your directory has 
 
 - A src folder that has a file called:
 
-  - simple_calculator.js <---- this is where you will implement all your functionality.
+  - simple-calculator.js <---- this is where you will implement all your functionality.
 
 - A spec folder that has a file called:
-  - simple_calculator_spec.js <---- this is where you will put your tests.
+  - simple-calculator_spec.js <---- this is where you will put your tests.
 
 Your directory structure should look like this:
 
@@ -51,9 +51,9 @@ Your directory structure should look like this:
     >spec
         > support
             - jasmine.json
-        - simple_calculator_spec.js
+        - simple-calculator-spec.js
     >src
-        - simple_calculator.js
+        - simple-calculator.js
     - package.json
 ```
 
@@ -71,6 +71,7 @@ Your project is expected to be completed using pytest. You are expected to follo
 ```
 
 Please take a look at this topic to see an explanation of the required directory structure.
+
 {{%contentlink "topics/python-specific/automated-testing-with-pytest" %}}
 
 ### Java
