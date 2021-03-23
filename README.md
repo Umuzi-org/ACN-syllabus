@@ -2,7 +2,7 @@
 
 We are on a mission to support as many code schools as we can. Learn more here:
 
-Learn more about the African Coding Network here:[African coding Network](https://www.africancoding.network/) 
+Learn more about the African Coding Network here:[African coding Network](https://www.africancoding.network/)
 
 
 This syllabus is a Hugo based static site (for now). But on top of that, it is the configuration of our Tilde learning platform. You can see [Tilde](https://github.com/Umuzi-org/Tilde) for more.  
@@ -17,7 +17,7 @@ This [video](https://www.youtube.com/watch?v=j5-uaSgIGI0&feature=youtu.be) will 
 
 ## To contribute
 
-We are honoured by any contributions you may want to make. 
+We are honoured by any contributions you may want to make.
 There are lots of ways to contribute. You can improve the instructions on a specific project, add extra info to some metadata, or spin up a whole new curriculum, if interested, take a minute to read our [contribution guidelines and instructions document](https://github.com/Umuzi-org/ACN-syllabus/blob/develop/contribute.md) for any information about contributing to the project.
 
 ## To clone this repo
@@ -73,36 +73,34 @@ That's it :) now you'll be able to poke around the main site
 ### Setting up and running the linter
 
 Make sure you have Python3 installed. This wont work with legacy Python (python2.7 == legacy == dangerzone).
+We use [Pipenv](https://pipenv.pypa.io/en/latest/) for dependency management, to install run
 
 ```
-# make a virtual environment
-python3 -m venv venv
+pip install pipenv
+```
 
-# if you name your virtual env anything other than venv,
-# please be careful to not commit it to git!
+Once installed Pipenv will create a virtual environment and install all required packages, just run
+```
+pipenv install
+```
 
-# activate it
+To activate the environment run
+```
+pipenv shell
+```
 
-source venv/bin/activate
-
-# install dependencies
-
-pip install -r requirements.txt
-
-# and run the linter
-
+You should now be all set to run the linter
+```
 python lint.py
 ```
 
-Then if you want to run the linter again, you dont need to do the whole setup again. Do this:
-
+If you want to run the linter again, there's no need to do the whole setup again. Do this:
 ```
-# activate your venv
-source venv/bin/activate
+# activate pipenv environment
+pipenv shell
 
 # and run the linter
 python lint.py
-
 ```
 
 The linter starts off by looking over all the frontmatter and making sure that's fine. Then it builds the site and looks for trouble.
@@ -126,4 +124,3 @@ Then that means there is a contentlink that is pointint to a file that doesn't e
 ## Syllabus Content
 
 Look inside the content directory. The documentation is composed of a bunch of markdown files (all named `_index.md`) with a lil metadata. Ok, a lot of metadata.
-
