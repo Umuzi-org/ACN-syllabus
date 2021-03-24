@@ -37,7 +37,7 @@ prerequisites:
   hard:
   - language-agnostic/problem-solving-technique
   - language-agnostic/intro-to-hackerrank
-ready: false
+ready: true
 tags:
 - ncit
 - problem-solving
@@ -45,7 +45,6 @@ tags:
 title: Thinking like a machine
 topic_needs_review: true
 ---
-
 ## 1. Problem solving
 
 In this unit, we’ll explore how computers work at a fundamental level. This will help you understand how to be better at using computer programming as a problem solving tool. Your goal should be to become a good problem solver no matter what technology you use. By learning more about computer programming basics like logical operators and the laws of Boolean algebra, you’ll be better equipped to harness the power of computing to solve problems.
@@ -63,6 +62,49 @@ What number goes inside the final triangle?
 Next, try playing the game Mastermind [(you can play online here)](http://www.webgamesonline.com/mastermind/). It may seem like you need a lot of luck to win this game, but there are algorithms you can use to win every time. Can you find an algorithm to win this game?
 
 ## 2. Logical operators
+
+If you think you know what "logic" means, you probably don't... In this section we'll be going through what it means in the context of computer programming.
+
+You know about True and False by now. These are referred to as boolean values. Some coding expressions evaluate to boolean values, and you can store boolean values inside variables.
+
+eg:
+```[js]
+even = input_number %2 === 0
+```
+
+In this case, if the input_number is 5 then `even` would be false. And if `input_number` was equal to 2 then `even` would be equal to true.
+
+Now a Logical Operator is a way of combining boolean values into new boolean values. Some of these logical operators have some very normal sounding names. `and` and `or` are locical operators.
+
+Here's an example:
+
+If `it is a Tuesday` AND `Mom hasn't phoned me for 7 days` then `call Mom`.
+
+The `and` logical operator results in a boolean true output like so:
+
+|it is a Tuesday | Mom hasn't phoned me for 7 days | Call Mom
+|-----|-----|----|
+|false|false|false|
+|false|true|false|
+|true|false|false|
+|true|true|true|
+
+
+Here is another example
+
+
+If `it is a Tuesday` OR `Mom hasn't phoned me for 7 days` then `call Mom`.
+
+The `OR` logical operator results in a boolean true output like so:
+
+|it is a Tuesday | Mom hasn't phoned me for 7 days | Call Mom
+|-----|-----|----|
+|false|false|false|
+|false|true|true|
+|true|false|true|
+|true|true|true|
+
+Different languages have different syntax for writing this stuff as code. But the concepts are the same across languages.
 
 ### Truth Tables
 
