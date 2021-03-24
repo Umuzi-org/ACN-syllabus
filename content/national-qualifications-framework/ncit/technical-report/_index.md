@@ -37,16 +37,16 @@ ncit_standards:
 ready: false
 tags:
 - ncit
-title: Write a report
+title: Technical Report
 topic_needs_review: true
 prerequisites:
   soft:
-  - national-qualifications-framework\ncit\write-a-report
+  - national-qualifications-framework/ncit/write-a-report
 ---
 
 Submit the final version of your presentation slides from your design thinking sprint fulfill the research and technical report requirements.
 
-Ensure this document meets the standards and criteria in {{% contentlink path="national-qualifications-framework\ncit\write-a-report" %}}
+Ensure this document meets the standards and criteria in {{% contentlink path="national-qualifications-framework/ncit/write-a-report" %}}
 
 It should be labeled like: FirstName LastName - Research Notes
 

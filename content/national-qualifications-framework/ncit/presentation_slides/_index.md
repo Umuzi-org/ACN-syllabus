@@ -36,11 +36,11 @@ title: Presentation Slides
 topic_needs_review: true
 prerequisites:
   soft:
-  - national-qualifications-framework\ncit\presenting-your-findings
+  - national-qualifications-framework/ncit/presenting-your-findings
 ---
 Submit the final version of your presentation slides from your design thinking sprint to fulfill the presentation requirements.
 
-Ensure this document meets the standards and criteria in {{% contentlink path="national-qualifications-framework\ncit\presenting-your-findings" %}}
+Ensure this document meets the standards and criteria in {{% contentlink path="national-qualifications-framework/ncit/presenting-your-findings" %}}
 
 It should be labeled like: FirstName LastName - Research Notes
 
