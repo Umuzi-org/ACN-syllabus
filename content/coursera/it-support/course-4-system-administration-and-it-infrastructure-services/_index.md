@@ -1,13 +1,15 @@
 ---
-available_flavours:
-- none
+_db_id: 656
 content_type: project
+flavours:
+- none
 prerequisites:
   hard:
   - coursera/it-support/course-3-operating-systems-and-you
 ready: true
 submission_type: link
-title: Coursera - IT Support - Course 4 - System Administration and IT Infrastructure Services
+title: Coursera - IT Support - Course 4 - System Administration and IT Infrastructure
+  Services
 ---
 
 Complete the above mentioned course on coursera

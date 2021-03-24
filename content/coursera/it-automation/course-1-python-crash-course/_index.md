@@ -1,7 +1,8 @@
 ---
-available_flavours:
-- none
+_db_id: 661
 content_type: project
+flavours:
+- none
 ready: true
 submission_type: link
 title: Coursera - IT Automation with Python - Course 1 - Crash Course on Python

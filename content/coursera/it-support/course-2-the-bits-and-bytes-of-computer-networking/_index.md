@@ -1,7 +1,8 @@
 ---
-available_flavours:
-- none
+_db_id: 655
 content_type: project
+flavours:
+- none
 prerequisites:
   hard:
   - coursera/it-support/course-1-technical-support-fundamentals

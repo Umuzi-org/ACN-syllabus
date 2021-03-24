@@ -1,7 +1,8 @@
 ---
-available_flavours:
-- none
+_db_id: 662
 content_type: project
+flavours:
+- none
 prerequisites:
   hard:
   - coursera/it-automation/course-2-operating-system

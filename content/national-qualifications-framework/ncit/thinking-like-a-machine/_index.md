@@ -17,6 +17,7 @@ tags:
 title: Thinking like a machine
 topic_needs_review: true
 ---
+
 ## 1. Problem solving
 
 In this unit, we’ll explore how computers work at a fundamental level. This will help you understand how to be better at using computer programming as a problem solving tool. Your goal should be to become a good problem solver no matter what technology you use. By learning more about computer programming basics like logical operators and the laws of Boolean algebra, you’ll be better equipped to harness the power of computing to solve problems.

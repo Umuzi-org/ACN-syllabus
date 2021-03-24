@@ -1,13 +1,15 @@
 ---
-available_flavours:
-- none
+_db_id: 665
 content_type: project
+flavours:
+- none
 prerequisites:
   hard:
   - coursera/it-automation/course-4-troubleshooting-debugging-techniques
 ready: true
 submission_type: link
-title: Coursera - IT Automation with Python - Course 5 - Configuration Management and the Cloud
+title: Coursera - IT Automation with Python - Course 5 - Configuration Management
+  and the Cloud
 ---
 
 Complete the above mentioned course on coursera

@@ -1,7 +1,8 @@
 ---
-available_flavours:
-- none
+_db_id: 657
 content_type: project
+flavours:
+- none
 ready: true
 submission_type: link
 title: Coursera - IT Support - Course 1 - Technical Support Fundamentals

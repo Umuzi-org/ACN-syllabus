@@ -1,15 +1,15 @@
 ---
-_db_id: 37
-title: NCIT - JavaScript
+_db_id: 39
+title: NCIT - Python
 ---
 
 - {{% contentlink path="national-qualifications-framework/ncit/how-the-internet-works" %}}
-- {{% contentlink path="national-qualifications-framework/ncit/version-control" flavour="javascript" %}}
+- {{% contentlink path="national-qualifications-framework/ncit/version-control" flavour="python" %}}
 - {{% contentlink path="national-qualifications-framework/ncit/pseudocode-and-documentation" %}}
-- {{% contentlink path="national-qualifications-framework/ncit/thinking-like-a-machine" flavour="javascript" %}}
-- {{% contentlink path="national-qualifications-framework/ncit/test-driven-development" flavour="javascript" %}}
+- {{% contentlink path="national-qualifications-framework/ncit/thinking-like-a-machine" flavour="python" %}}
+- {{% contentlink path="national-qualifications-framework/ncit/test-driven-development" flavour="python" %}}
 - {{% contentlink path="national-qualifications-framework/ncit/constructive-feedback" %}}
-- {{% contentlink path="national-qualifications-framework/ncit/object-oriented-programming" flavour="javascript" %}}
+- {{% contentlink path="national-qualifications-framework/ncit/object-oriented-programming" flavour="python" %}}
 - {{% contentlink path="national-qualifications-framework/ncit/conducting-research-and-user-interviews" %}}
 - {{% contentlink path="national-qualifications-framework/ncit/presenting-your-findings" %}}
 - {{% contentlink path="national-qualifications-framework/ncit/write-a-report" %}}

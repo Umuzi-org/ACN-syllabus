@@ -1,13 +1,15 @@
 ---
-available_flavours:
-- none
+_db_id: 658
 content_type: project
+flavours:
+- none
 prerequisites:
   hard:
   - coursera/it-support/course-2-the-bits-and-bytes-of-computer-networking
 ready: true
 submission_type: link
-title: 'Coursera - IT Support - Course 3 - Operating Systems and You: Becoming a Power User'
+title: 'Coursera - IT Support - Course 3 - Operating Systems and You: Becoming a Power
+  User'
 ---
 
 Complete the above mentioned course on coursera

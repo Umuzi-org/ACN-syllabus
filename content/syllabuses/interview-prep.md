@@ -1,6 +1,6 @@
 ---
 _db_id: 35
-title: Coder Mock Interviews
+title: Coder Interview Prep
 ---
 
 - {{% contentlink path="topics/work/recruit-career" %}}

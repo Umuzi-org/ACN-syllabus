@@ -1,13 +1,15 @@
 ---
-available_flavours:
-- none
+_db_id: 660
 content_type: project
+flavours:
+- none
 prerequisites:
   hard:
   - coursera/it-automation/course-5-configuration-management-cloud
 ready: true
 submission_type: link
-title: Coursera - IT Automation with Python - Course 6 - Automating Real-World Tasks with Python
+title: Coursera - IT Automation with Python - Course 6 - Automating Real-World Tasks
+  with Python
 ---
 
 Complete the above mentioned course on coursera
