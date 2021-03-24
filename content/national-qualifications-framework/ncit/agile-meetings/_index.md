@@ -25,7 +25,7 @@ ncit_specific_outcomes:
   - The chair ensures that the published agenda is followed.
   - The chair provides for active participation by all members to avoid/ minimize conflict.
   - The chair ensures that meeting topics are prioritised and that discussion times are allocated according to importance, urgency, complexity and agenda. 
-  -The chair ensures that agreed decisions are clear, accurate, includes a time frame for action and are within the mandate of the type of meeting conducted. 
+  - The chair ensures that agreed decisions are clear, accurate, includes a time frame for action and are within the mandate of the type of meeting conducted. 
   outcome: 3
   title: Chair a technical practitioners meeting. 
 - assessment_criteria:
