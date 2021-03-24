@@ -9,7 +9,7 @@ ncit_standards:
 prerequisites:
   hard:
   - language-agnostic/validate-id-number
-ready: false
+ready: true
 tags:
 - tdd
 - ncit
@@ -21,9 +21,7 @@ topic_needs_review: true
 
 Error is an inevitable part of developing software. Discovering where your errors are and how to fix them can be one of the most frustrating (and rewarding) parts of being a developer. Let’s take a look at the various types of errors you will encounter so you can be better equipped to fix them.
 
-
 There are three basic types of program errors.
-
 
 **Syntax errors**
 
@@ -42,8 +40,6 @@ Logic errors are the hardest ones to debug. They occur when the result the progr
 
 One of the ways to find these type of errors is to output the program's relevant variables to the console [calling console.log(myVar) at strategic points in your code] in order to find where the error is in your program. Although this will not work in all cases, it is the easiest way to find the problem if the program produces incorrect results because of an error in logic.
 
-_______
-
 Apart from these errors in your code, it’s possible to encounter errors when you are working with extreme numbers:
 
 
@@ -61,7 +57,7 @@ The term arithmetic underflow (or "floating point underflow", or just "underflow
 
 When you are converting one type of data to another, errors can often occur. For example, you may find there are errors when you convert a CSV file to an Excel file (or XML to Word). There are no shortage of issues when you are trying to share files between programs, or convert a file type from one program to another.
 
-2. Detecting errors through testing
+1. Detecting errors through testing
 
 Now that you’ve seen the types of errors you will deal with as you develop programs, let’s take a look at how we can find these errors and fix them. And most importantly, let’s find a method to minimise the number of errors we make in the first place.
 
@@ -95,14 +91,11 @@ You might use a unit test to test an individual function and an integration test
 
 Check out the following tutorial which teaches the basics of TDD in 30 minutes. There are lots of bonus lessons, including some that use Node.js, which you are encouraged to go through as well. **Don't just read it! Actually download the testing libraries and code it yourself.**
 
-
 https://github.com/dwyl/learn-tdd
 
 
 Want more examples? Here’s another great TDD tutorial that focuses on using APIs and HTML.
 
-
 https://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro/
-
 
 As these tutorials state, using test-driven development may seem like extra work at first, but the benefits are enormous, especially for larger projects. TDD helps you think through the requirements of your program, and breaks it into bite-sized pieces which makes it more fun to develop and less prone to error.

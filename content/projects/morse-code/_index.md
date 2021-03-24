@@ -10,6 +10,9 @@ prerequisites:
 ready: true
 story_points: 3
 submission_type: repo
+tags:
+- problem solving
+- data structures
 title: Morse code
 ---
 

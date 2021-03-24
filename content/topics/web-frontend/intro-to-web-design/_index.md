@@ -2,6 +2,8 @@
 _db_id: 73
 content_type: topic
 ready: true
+tags:
+- web design
 title: Introduction to web design
 ---
 

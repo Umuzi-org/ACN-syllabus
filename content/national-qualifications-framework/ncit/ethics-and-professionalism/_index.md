@@ -3,10 +3,11 @@ _db_id: 369
 content_type: topic
 ncit_standards:
 - 114055
-ready: false
+ready: true
 tags:
 - ncit
-title: Ethics and Professionalism in Online Gaming
+- ethics
+title: Ethics and Professionalism
 topic_needs_review: true
 ---
 
@@ -25,17 +26,13 @@ Any code may be considered to be a formalisation of experience into a set of rul
 **Not Acceptable**
 
 - Saving Personal and Confidential information (PCi) on a personal device.
-
 - Using unauthorised copies of software.
-
 - Convincing a client to buy a computer system or IT equipment that far exceeds their needs.
 
 **Acceptable**
 
 - Saving PCi on official and authorised devices
-
 - Researching and using alternative open source software that provides similar functionality
-
 - Identifying customer needs before offering solutions .
 
 #### Professional Bodies in South Africa
@@ -47,13 +44,9 @@ https://www.iitpsa.org.za/
 ITPSA, established in 1957, is a professional body serving and representing South Africa’s Information and Communications Technology (ICT) professionals and practitioners. They engage with Industry and Government on ICT policy as well as the wider community with the aim to :
 
 - further the study, science and application of ICT
-
 - maintain and promote Codes of Conduct and Ethics for our members
-
 - define and promote standards of ICT knowledge
-
 - promote the formulation of effective policies on ICT and related matters
-
 - extend the knowledge and understanding and usage of ICTs in the community.
 
 **Institute of Chartered IT Professionals**
@@ -79,55 +72,40 @@ IESA supports interactive entertainment companies and affiliate organisations th
 #### 1. Act at all times with professionalism and integrity
 
 - Present your skills and yourself accurately
-
 - Honour intellectual property and credit work and contributions when due
-
 - Comply with legislation and legal agreements
-
 - Respect your colleagues, your workplace and the equipment you use
 
 #### 2. Act with complete loyalty towards a client when entrusted with confidential information
 
 - Don’t disclose or authorise to be disclosed confidential information to a third party except with the permission of your relevant authority or as required by legislation
-
 - Don’t misrepresent or withhold information or take advantage of the lack of relevant knowledge or inexperience of others
-
 - Recommend appropriate levels of security when necessary; apply, monitor and report on these
 
 #### 3. Act with impartiality when purporting to give independent advice and must disclose any relevant interests
 
 - Be accurate and honest about your competence
-
 - Make stakeholders aware of any conflicts of interest
-
 - Involve colleagues or relevant organisations in order to make informed decisions
 
 #### 4. Accept full responsibility for any work undertaken and deliver accordingly
 
 - Be realistic and honour agreements
-
 - Communicate honestly and effectively
-
 - Accept additional expertise from qualified individuals if necessary
-
 - Ascertain and evaluate all potential risks in a particular project with regard to the cost, and effectiveness.
 
 #### 5. Don’t engage in discriminatory practices on any basis whatsoever
 
 - Be equal in your professional conduct and in employment agreements
-
 - Undergo regular and relevant training for you and your staff in this area where possible and when necessary
-
 - Ensure that effective standard procedures and documentation are available and used
 
 #### 6. Don’t seek personal advantage to the detriment of your work, and actively seek to enhance the image of your industry
 
 - Make conflicts of interest known
-
 - Strive to promote public knowledge of technology and art
-
 - Strive to share knowledge for the growth of peers as professional craftspeople and the industry
-
 - Ensure a positive workplace environment
 
 #### Protection of Personal Information
@@ -165,17 +143,12 @@ There are two organisations in South Africa backed by the government that commit
 **1. The Business Software Alliance (BSA)** is an international association founded by software producers to help combat software piracy. They aim to:
 
 - Bring South Africa’s copyright laws in line with the standards set by the World Intellectual Property Organisation.
-
 - Create a government-backed enforcement policy and to lobby for tougher anti-piracy laws.
-
 - Encourage government to dedicate more resources to combating piracy through training for law enforcement.
-
 - Improve public education and awareness.
-
 - Lead by example by encouraging government departments to use only legitimate software, whether it is open-source or purchased from private suppliers.
 
 **2. The Southern African Federation Against Copyright Theft (SAFACT)** is a local organisation which works not only against software piracy but also music and film copyright infringements. SAFACT in particular is trying to tackle the problem through:
 
 - Engaging and collaborating with local Internet service providers.
-
 - A mandate granted by the Motion Picture Association to act against local copyright-infringing parties and sites; penalties include jail for up to five years and can result in a fine of up to R10,000.

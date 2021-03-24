@@ -3,7 +3,11 @@ _db_id: 374
 content_type: topic
 ncit_standards:
 - 115392
-ready: false
+prerequisites:
+  hard:
+  - national-qualifications-framework/ncit/conducting-research-and-user-interviews
+  - national-qualifications-framework/ncit/agile-project-management
+ready: true
 tags:
 - agile
 - ncit
@@ -17,6 +21,7 @@ topic_needs_review: true
 The first step to developing any new solution (whether the final “product” will be software, hardware, or a new process) is to understand the issues and problems faced by the user. You’ve had practice with the process with Human-Centered Design. HCD is a great tool for gaining insight into the needs and problems of a user. It should be your first choice whenever you are working on a new project.
 
 ### User Stories
+
 Once you’ve empathised with the user, a useful method to get closer to developing a solution is to write User Stories. User stories are short, simple descriptions of a feature told from the perspective of the person who desires the new capability, usually a user or customer of the system. User Stories are an Agile method, and they take the following form:
 
 
@@ -37,11 +42,10 @@ User stories are used to determine the functionality you must include in any sof
 
 
  - By splitting a user story into multiple, smaller user stories.
-
  - By adding “conditions of satisfaction.”
 
 
-The conditions of satisfaction is simply a high-level acceptance test that will be true after the agile user story is complete. These conditions are all of the little details you must pay attention to to make sure the user is satisfied in all cases.
+The conditions of satisfaction is simply a high-level acceptance test that will be true after the user story is complete. These conditions are all of the little details you must pay attention to to make sure the user is satisfied in all cases.
 
 
 User stories are written throughout the development process. However most of the stories will be written near the beginning when you and your team are figuring out the user requirements for the product. It’s best to do the user stories together with many team members, writing all the stories on index cards/post-it notes so you can easily categories them.
@@ -53,6 +57,7 @@ The written list of user stories you develop serves as a pointer to the real req
 For more on user stories, [read through this short article](https://www.mountaingoatsoftware.com/agile/user-stories).
 
 ### From stories to plan
+
 Old development processes require the team to create something called the [Software Requirements Specification (SRS)](https://en.wikipedia.org/wiki/Software_requirements_specification) which lists every requirement a piece of software must fulfill. This can be a tedious document to create, which is why agile methods prefer creating user stories. One advantage of user stories is that they can be used readily in project planning. User stories are written so that each can be given an estimate of how difficult or time-consuming it will be to develop. Also a story is implemented all in a single iteration of an agile project. So you only need to focus in on the specific details of a requirement during that one iteration, instead of trying to list every detail you might need at the beginning of a project.
 
 ## 2. From plan to design
@@ -64,7 +69,6 @@ Once you’ve grouped the stories, it’s time to sketch out the proposed design
 
 
 In most cases, you’ll want to use object-oriented programming. So that means the first design step, after grouping the features together, is brainstorming the possible classes you might need. Then you and your team will identify which classes will be best to use. During this stage, it is also helpful to discuss the possible data structures you will use. Additionally, your team can decide which methods (functions) the end user will have access to. Once your team has decided on appropriate classes and the properties and methods each class will have (again, this might change as you develop), you’ll be ready to start developing.
-
 
 ### Design considerations
 However, before you start developing -- you were planning to use test-driven development, right? -- there are a few things to keep in mind when you are initially designing a program. Creative skill, past experience, a sense of what makes “good” software, and an overall commitment to quality are critical success factors for a competent design. The design model is the equivalent of an architect’s plans for a house. It begins by representing the totality of the thing to be built (e.g., a three-dimensional rendering of the house) and slowly reﬁnes the thing to provide guidance for constructing each detail (e.g., the plumbing layout).
@@ -119,7 +123,6 @@ A typical Scrum backlog comprises the following different types of items:
 4. Knowledge acquisition
 
  
-
 As mentioned, the predominant way for a Scrum team to express features on the agile product backlog is in the form of user stories, which are short, simple descriptions of the desired functionality told from perspective of the user. An example would be, "As a shopper, I can review the items in my shopping cart before checking out so that I can see what I've already selected."
 
 

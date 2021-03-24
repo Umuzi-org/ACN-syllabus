@@ -2,6 +2,8 @@
 _db_id: 88
 content_type: topic
 ready: true
+tags:
+- clean code
 title: Clean Code
 ---
 
