@@ -5,8 +5,8 @@ ncit_standards:
 - 115392
 prerequisites:
   hard:
-  - national-qualifications-framework/ncit/conducting-research-and-user-interviews
-  - national-qualifications-framework/ncit/agile-project-management
+  - national-qualifications-framework/ncit/content/conducting-research-and-user-interviews
+  - national-qualifications-framework/ncit/content/agile-project-management
 ready: true
 tags:
 - agile
