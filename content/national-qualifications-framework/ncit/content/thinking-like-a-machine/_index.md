@@ -15,7 +15,6 @@ tags:
 - problem-solving
 - binary-arithmetic
 title: Thinking like a machine
-topic_needs_review: true
 ---
 
 ## 1. Problem solving

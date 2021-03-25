@@ -14,7 +14,6 @@ tags:
 - tdd
 - ncit
 title: Test-driven development
-topic_needs_review: true
 ---
 
 ## 1. Errors

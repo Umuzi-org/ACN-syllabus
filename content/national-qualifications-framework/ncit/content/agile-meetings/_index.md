@@ -12,7 +12,6 @@ tags:
 - scrum
 - ncit
 title: Agile Meetings
-topic_needs_review: true
 ---
 
 ## 1. What is Scrum?

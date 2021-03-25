@@ -1,14 +1,15 @@
 ---
+_db_id: 694
 content_type: project
+flavours:
+- none
 ncit_standards:
 - 114055
-flavours:
-- none # make flavours match preprequisite content 
 prerequisites:
   hard:
   - national-qualifications-framework/ncit/content/ethics-and-professionalism
 ready: false
-submission_type: link 
+submission_type: link
 tags:
 - ncit
 - ethics

@@ -1,14 +1,15 @@
 ---
+_db_id: 683
 content_type: project
-ncit_standards:
-- 114051
 flavours:
 - none
+ncit_standards:
+- 114051
 prerequisites:
-  hard: 
+  hard:
   - national-qualifications-framework/ncit/content/agile-meetings
 ready: false
-submission_type: link 
+submission_type: link
 tags:
 - agile
 - scrum

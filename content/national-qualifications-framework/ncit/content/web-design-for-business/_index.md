@@ -12,7 +12,6 @@ tags:
 - business
 - web design
 title: Web Design for Business
-topic_needs_review: true
 ---
 
 ## 1. Using the Internet for business

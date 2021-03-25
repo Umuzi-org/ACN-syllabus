@@ -14,7 +14,6 @@ tags:
 - sql
 - ncit
 title: Database Development
-topic_needs_review: true
 ---
 
 ### 1. Database management systems

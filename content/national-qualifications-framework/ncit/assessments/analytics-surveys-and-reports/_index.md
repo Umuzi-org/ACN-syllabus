@@ -1,14 +1,15 @@
 ---
+_db_id: 675
 content_type: project
-ncit_standards:
-- 115365
 flavours:
 - none
+ncit_standards:
+- 115365
 prerequisites:
   hard:
   - national-qualifications-framework/ncit/content/analytics-surveys-and-reports
 ready: false
-submission_type: link 
+submission_type: link
 tags:
 - ncit
 - analytics

@@ -15,7 +15,6 @@ tags:
 - ncit
 - clean code
 title: Version Control
-topic_needs_review: true
 ---
 
 ## 1. Libraries and organising projects

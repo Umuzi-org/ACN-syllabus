@@ -1,16 +1,17 @@
 ---
+_db_id: 686
 content_type: project
-ncit_standards:
-- 114050
 flavours:
 - none
+ncit_standards:
+- 114050
 prerequisites:
-  hard: 
+  hard:
   - national-qualifications-framework/ncit/content/business-and-technology
 ready: false
-submission_type: link 
+submission_type: link
 tags:
-- ncit 
+- ncit
 - business
 title: 'NCIT assessment: Business and Technology'
 ---

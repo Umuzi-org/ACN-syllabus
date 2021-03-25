@@ -11,7 +11,6 @@ tags:
 - ncit
 - business
 title: Building an online business
-topic_needs_review: true
 ---
 
 ## 1. Marketing

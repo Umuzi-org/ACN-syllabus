@@ -1,15 +1,16 @@
 ---
+_db_id: 670
 content_type: project
+flavours:
+- none
 ncit_standards:
 - 114048
 - 114049
-flavours:
-- none # make flavours match preprequisite content 
 prerequisites:
   hard:
   - national-qualifications-framework/ncit/content/database-development
 ready: false
-submission_type: link 
+submission_type: link
 tags:
 - ncit
 - sql

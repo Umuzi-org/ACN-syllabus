@@ -1,15 +1,16 @@
 ---
+_db_id: 678
 content_type: project
+flavours:
+- none
 ncit_standards:
 - 114076
 - 115358
-flavours:
-- none
 prerequisites:
-  hard: 
+  hard:
   - national-qualifications-framework/ncit/content/conducting-research-and-user-interviews
 ready: false
-submission_type: link 
+submission_type: link
 tags:
 - research
 - ncit

@@ -1,14 +1,15 @@
 ---
+_db_id: 676
 content_type: project
-ncit_standards:
-- 115374
 flavours:
 - none
+ncit_standards:
+- 115374
 prerequisites:
   hard:
   - national-qualifications-framework/ncit/content/web-design-for-business
 ready: false
-submission_type: link 
+submission_type: link
 tags:
 - ncit
 - business

@@ -12,7 +12,6 @@ tags:
 - big-O
 - algorithms
 title: Search and Sort Techniques
-topic_needs_review: true
 ---
 
 ## 1. Abstract data types

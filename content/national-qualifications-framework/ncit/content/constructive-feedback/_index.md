@@ -8,7 +8,6 @@ tags:
 - ncit
 - communication
 title: Constructive Feedback
-topic_needs_review: true
 ---
 
 ## 1. Giving constructive feedback

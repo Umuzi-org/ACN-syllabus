@@ -8,7 +8,6 @@ tags:
 - ncit
 - business
 title: Business and Technology
-topic_needs_review: true
 ---
 
 ## 1. Fundamental business concepts

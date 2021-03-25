@@ -11,7 +11,6 @@ tags:
 - ncit
 - communication
 title: Write a report
-topic_needs_review: true
 ---
 
 ## 1. What is a technical report?

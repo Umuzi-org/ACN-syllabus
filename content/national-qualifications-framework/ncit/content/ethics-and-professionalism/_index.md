@@ -8,7 +8,6 @@ tags:
 - ncit
 - ethics
 title: Ethics and Professionalism
-topic_needs_review: true
 ---
 
 ### 1. Professionalism in the IT industry in South Africa

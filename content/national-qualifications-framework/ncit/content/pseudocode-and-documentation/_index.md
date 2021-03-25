@@ -11,7 +11,6 @@ tags:
 - ncit
 - documentation
 title: Pseudocode and documentation
-topic_needs_review: true
 ---
 
 ### 1. Why document?

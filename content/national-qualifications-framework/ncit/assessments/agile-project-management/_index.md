@@ -1,14 +1,15 @@
 ---
+_db_id: 682
 content_type: project
-ncit_standards:
-- 114059
 flavours:
 - none
+ncit_standards:
+- 114059
 prerequisites:
   hard:
   - national-qualifications-framework/ncit/content/agile-project-management
 ready: false
-submission_type: link 
+submission_type: link
 tags:
 - agile
 - scrum

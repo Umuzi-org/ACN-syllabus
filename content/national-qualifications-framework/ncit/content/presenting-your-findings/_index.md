@@ -11,7 +11,6 @@ tags:
 - ncit
 - communication
 title: Presenting your findings
-topic_needs_review: true
 ---
 
 ### 1. Introduction to presentations

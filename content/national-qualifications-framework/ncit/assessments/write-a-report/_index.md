@@ -1,14 +1,15 @@
 ---
+_db_id: 674
 content_type: project
-ncit_standards:
-- 116389
 flavours:
 - none
+ncit_standards:
+- 116389
 prerequisites:
   hard:
   - national-qualifications-framework/ncit/content/write-a-report
 ready: false
-submission_type: link 
+submission_type: link
 tags:
 - ncit
 - communication

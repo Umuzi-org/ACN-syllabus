@@ -12,7 +12,6 @@ tags:
 - surveys
 - reports
 title: Analytics, Surveys, and Reports
-topic_needs_review: true
 ---
 
 Collecting and understanding data is a critical skill for any kind of coding professional. 

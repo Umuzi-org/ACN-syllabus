@@ -13,7 +13,6 @@ tags:
 - oop
 - ncit
 title: Object-Oriented Programming
-topic_needs_review: true
 ---
 
 ## 1. OOP theory and practice

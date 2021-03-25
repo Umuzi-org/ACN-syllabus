@@ -28,7 +28,6 @@ tags:
 - ncit
 - internet
 title: How the internet works
-topic_needs_review: true
 ---
 
 ## What is The Internet?

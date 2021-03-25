@@ -1,14 +1,15 @@
 ---
+_db_id: 690
 content_type: project
+flavours:
+- none
 ncit_standards:
 - 115385
-flavours:
-- none # make flavours match preprequisite content 
 prerequisites:
-  hard: 
+  hard:
   - national-qualifications-framework/ncit/content/building-an-online-business
 ready: false
-submission_type: link 
+submission_type: link
 tags:
 - ncit
 - business
