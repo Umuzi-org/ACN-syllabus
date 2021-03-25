@@ -6,7 +6,7 @@ flavours:
 - none
 prerequisites:
   hard:
-  - national-qualifications-framework/ncit/presenting-your-findings
+  - national-qualifications-framework/ncit/content/presenting-your-findings
 ready: false
 submission_type: link 
 tags:

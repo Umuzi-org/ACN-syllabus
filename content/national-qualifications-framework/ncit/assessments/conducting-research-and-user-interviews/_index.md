@@ -7,7 +7,7 @@ flavours:
 - none
 prerequisites:
   hard: 
-  - national-qualifications-framework/ncit/conducting-research-and-user-interviews
+  - national-qualifications-framework/ncit/content/conducting-research-and-user-interviews
 ready: false
 submission_type: link 
 tags:

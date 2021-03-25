@@ -7,7 +7,7 @@ ncit_standards:
 - 115384
 prerequisites:
   hard:
-  - national-qualifications-framework/ncit/test-driven-development
+  - national-qualifications-framework/ncit/content/test-driven-development
 ready: false
 submission_type: link 
 tags:

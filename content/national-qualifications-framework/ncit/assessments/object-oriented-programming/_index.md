@@ -6,7 +6,7 @@ flavours:
 - any_language
 prerequisites:
   hard:
-  - national-qualifications-framework/ncit/
+  - national-qualifications-framework/ncit/content/object-oriented-programming
 ready: false
 submission_type: link 
 tags:

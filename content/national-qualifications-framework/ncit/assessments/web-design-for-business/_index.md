@@ -6,7 +6,7 @@ flavours:
 - none
 prerequisites:
   hard:
-  - national-qualifications-framework/ncit/web-design-for-business
+  - national-qualifications-framework/ncit/content/web-design-for-business
 ready: false
 submission_type: link 
 tags:

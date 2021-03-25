@@ -6,7 +6,7 @@ flavours:
 - none
 prerequisites:
   hard:
-  - national-qualifications-framework/ncit/how-the-internet-works
+  - national-qualifications-framework/ncit/content/how-the-internet-works
 ready: false
 submission_type: link 
 tags:

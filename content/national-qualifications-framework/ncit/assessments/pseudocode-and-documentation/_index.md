@@ -6,13 +6,13 @@ flavours:
 - none
 prerequisites:
   hard:
-  - national-qualifications-framework/ncit/pseudocode-and-documentation
+  - national-qualifications-framework/ncit/content/pseudocode-and-documentation
 ready: false
 submission_type: link 
 tags:
 - ncit
 - documentation
-title: 'NCIT assessment: xxx'
+title: 'NCIT assessment: Pseudocode and Documentation'
 ---
 
 Please do the following:

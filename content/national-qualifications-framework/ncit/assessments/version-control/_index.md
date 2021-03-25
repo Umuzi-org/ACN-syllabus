@@ -6,7 +6,7 @@ ncit_standards:
 - 115362
 prerequisites:
   hard:
-  - national-qualifications-framework/ncit/version-control
+  - national-qualifications-framework/ncit/content/version-control
 ready: false
 submission_type: link 
 tags:

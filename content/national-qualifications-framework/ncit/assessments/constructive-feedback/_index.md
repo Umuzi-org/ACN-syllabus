@@ -4,8 +4,9 @@ ncit_standards:
 - 115431
 flavours:
 - none
+prerequisites:
   hard: 
-  - national-qualifications-framework/ncit/constructive-feedback
+  - national-qualifications-framework/ncit/content/constructive-feedback
 ready: false
 submission_type: link 
 tags:

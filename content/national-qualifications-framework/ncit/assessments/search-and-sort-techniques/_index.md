@@ -6,7 +6,7 @@ flavours:
 - none
 prerequisites:
   hard:
-  - national-qualifications-framework/ncit/search-and-sort-techniques
+  - national-qualifications-framework/ncit/content/search-and-sort-techniques
 ready: false
 submission_type: link 
 tags:

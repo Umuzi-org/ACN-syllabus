@@ -6,7 +6,7 @@ flavours:
 - none
 prerequisites:
   hard:
-  - national-qualifications-framework/ncit/agile-project-management
+  - national-qualifications-framework/ncit/content/agile-project-management
 ready: false
 submission_type: link 
 tags:

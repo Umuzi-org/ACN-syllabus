@@ -6,7 +6,7 @@ flavours:
 - none
 prerequisites:
   hard:
-  - national-qualifications-framework/ncit/write-a-report
+  - national-qualifications-framework/ncit/content/write-a-report
 ready: false
 submission_type: link 
 tags:

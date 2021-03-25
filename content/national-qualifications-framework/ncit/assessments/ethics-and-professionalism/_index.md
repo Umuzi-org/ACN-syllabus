@@ -6,7 +6,7 @@ flavours:
 - none # make flavours match preprequisite content 
 prerequisites:
   hard:
-  - national-qualifications-framework/ncit/ethics-and-professionalism
+  - national-qualifications-framework/ncit/content/ethics-and-professionalism
 ready: false
 submission_type: link 
 tags:

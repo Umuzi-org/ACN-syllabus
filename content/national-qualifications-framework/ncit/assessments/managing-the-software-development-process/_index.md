@@ -6,7 +6,7 @@ flavours:
 - none
 prerequisites:
   hard:
-  - national-qualifications-framework/ncit/managing-the-software-development-process
+  - national-qualifications-framework/ncit/content/managing-the-software-development-process
 ready: false
 submission_type: link 
 tags:

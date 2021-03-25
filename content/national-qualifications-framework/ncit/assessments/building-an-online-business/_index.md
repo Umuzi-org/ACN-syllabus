@@ -6,7 +6,7 @@ flavours:
 - none # make flavours match preprequisite content 
 prerequisites:
   hard: 
-  - national-qualifications-framework/ncit/building-an-online-business
+  - national-qualifications-framework/ncit/content/building-an-online-business
 ready: false
 submission_type: link 
 tags:

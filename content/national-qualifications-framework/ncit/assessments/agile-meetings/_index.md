@@ -6,7 +6,7 @@ flavours:
 - none
 prerequisites:
   hard: 
-  - national-qualifications-framework/ncit/agile-meetings
+  - national-qualifications-framework/ncit/content/agile-meetings
 ready: false
 submission_type: link 
 tags:

@@ -7,7 +7,7 @@ flavours:
 - none # make flavours match preprequisite content 
 prerequisites:
   hard:
-  - national-qualifications-framework/ncit/database-development
+  - national-qualifications-framework/ncit/content/database-development
 ready: false
 submission_type: link 
 tags:

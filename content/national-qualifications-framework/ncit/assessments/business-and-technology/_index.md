@@ -6,7 +6,7 @@ flavours:
 - none
 prerequisites:
   hard: 
-  - national-qualifications-framework/ncit/business-and-technology
+  - national-qualifications-framework/ncit/content/business-and-technology
 ready: false
 submission_type: link 
 tags:

@@ -6,7 +6,7 @@ flavours:
 - none
 prerequisites:
   hard:
-  - workshops/survey-design
+  - national-qualifications-framework/ncit/content/analytics-surveys-and-reports
 ready: false
 submission_type: link 
 tags:
