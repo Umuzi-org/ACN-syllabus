@@ -2,19 +2,19 @@
 _db_id: 220
 content_type: project
 flavours:
-- none
+  - none
 prerequisites:
   hard:
-  - topics/free-code-camp/responsive-web-design/1-basic-html-and-html-5
-  - topics/free-code-camp/responsive-web-design/2-basic-css
-  - topics/what-to-put-in-your-cv
-  - topics/web-frontend/intro-to-web-design/
+    - topics/free-code-camp/responsive-web-design/1-basic-html-and-html-5
+    - topics/free-code-camp/responsive-web-design/2-basic-css
+    - topics/what-to-put-in-your-cv
+    - topics/web-frontend/intro-to-web-design/
 ready: true
 story_points: 3
 submission_type: link
 tags:
-- html
-- css
+  - html
+  - css
 title: Build your first personal website
 ---
 
@@ -30,7 +30,7 @@ The HTML and CSS should be developed in a logical way with good naming conventio
 
 Your web page files and folders should be organized and named in a logical manner.
 
-Once you have finished your design and are satisfied with the style and content, upload the website to be hosted on GitHub Pages. 
+Once you have finished your design and are satisfied with the style and content, upload the website to be hosted on GitHub Pages.
 
 Please submit a link to your website. DO NOT submit a link to your github repo. We dont want to clone your website, we want to look at what you built.
 
@@ -62,5 +62,5 @@ Also, we'll be looking out for good developer habits. Please make sure you push 
 - CSS Grid: https://scrimba.com/g/gR8PTE (Screencast tutorials)
 - https://css-tricks.com/snippets/css/complete-guide-grid/ (more info)
 - Web Developer Portfolios to inspire you (https://medium.freecodecamp.org/15-web-developer-portfolios-to-inspire-you-137fb1743cae)
-
-* Building a Data Science Portfolio (https://www.dataquest.io/blog/build-a-data-science-portfolio/)
+- Building a Data Science Portfolio (https://www.dataquest.io/blog/build-a-data-science-portfolio/)
+- Web designs to inspire your Portfolios (https://www.awwwards.com/)
