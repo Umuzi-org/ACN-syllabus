@@ -5,7 +5,7 @@ ncit_standards:
 - 114051
 prerequisites:
   hard:
-  - national-qualifications-framework/ncit/agile-project-management
+  - national-qualifications-framework/ncit/content/agile-project-management
 ready: true
 tags:
 - agile

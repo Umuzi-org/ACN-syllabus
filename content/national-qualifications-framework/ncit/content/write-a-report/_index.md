@@ -5,7 +5,7 @@ ncit_standards:
 - 116389
 prerequisites:
   hard:
-  - national-qualifications-framework/ncit/analytics-surveys-and-reports
+  - national-qualifications-framework/ncit/content/analytics-surveys-and-reports
 ready: false
 tags:
 - ncit
