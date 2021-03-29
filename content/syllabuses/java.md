@@ -10,7 +10,6 @@ _db_id: 7
 - {{% contentlink path="agile/agile-scrum-slides" %}}
 - NCIT 18: Agile project management
 - NCIT 19: Agile meetings
-- {{% contentlink path="topics/how-to-be-a-professional" %}}
 - {{% contentlink path="projects/git-exercises" %}}
 - NCIT 04: Version control (GIT) for teamwork
 - {{% contentlink path="projects/katas/level-2" flavour="java" %}}
