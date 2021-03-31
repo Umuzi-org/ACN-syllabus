@@ -11,8 +11,11 @@ title: NCIT - Python
 - {{% contentlink path="national-qualifications-framework/ncit/assessments/constructive-feedback" %}}
 - {{% contentlink path="national-qualifications-framework/ncit/assessments/object-oriented-programming" flavour="python" %}}
 - {{% contentlink path="national-qualifications-framework/ncit/assessments/conducting-research-and-user-interviews" %}}
+- {{% contentlink path="national-qualifications-framework/ncit/assessments/research-documnet" %}}
 - {{% contentlink path="national-qualifications-framework/ncit/assessments/presenting-your-findings" %}}
+- {{% contentlink path="national-qualifications-framework/ncit/assessments/presentation-slides" %}}
 - {{% contentlink path="national-qualifications-framework/ncit/assessments/write-a-report" %}}
+- {{% contentlink path="national-qualifications-framework/ncit/assessments/technical-report" %}}
 - {{% contentlink path="national-qualifications-framework/ncit/assessments/database-development" %}}
 - {{% contentlink path="national-qualifications-framework/ncit/assessments/search-and-sort-techniques" %}}
 - {{% contentlink path="national-qualifications-framework/ncit/assessments/building-an-online-business" %}}
