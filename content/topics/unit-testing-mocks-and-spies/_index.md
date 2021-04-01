@@ -53,9 +53,9 @@ it('should send the correct sms when a user's phone number changes',()=>{
 })
 ```
 
-NOTICE THAT even though we did not explicitly call the `send sms` function, it got called by the code under test. So the call count went up. 
+**NOTICE THAT** even though we did not explicitly call the `send sms` function, it got called by the code under test. So the call count went up. 
 
-Note: the above code is not strictly correct. This is just an illustration of the kind of thinking you need to do.
+**Note**: the above code is not strictly correct. This is just an illustration of the kind of thinking you need to do.
 
 Differnt languages and tools have different ways to do this stuff. But you can often use the same mental models to understand how it all works.
 
@@ -63,7 +63,7 @@ Differnt languages and tools have different ways to do this stuff. But you can o
 
 People get this stuff wrong all the time. You are going to get it right. Please pay very close attention. 
 
-**DO NOT** do this kind of thing:
+**DO NOT** do this kind of thing in a project:
 
 ```
 // utterly pointless piece of code
@@ -84,7 +84,9 @@ number += 1
 expect(number).toBe(1)
 ```
 
-If you are writing code that is pointless then you are doing it wrong. Mocks and spies exist for a purpose. When you use them, there has to be a reason to use them. They should be useful.
+You can do the above only as a way to experiment and make sure you understand the mechanics of the code. **But** it is completely pointless to include anything like that in any serious project. 
+
+If you are writing code that is pointless then you are doing it wrong. Mocks and spies exist for a purpose. When you use them, there has to be a reason to use them. They should do useful things.
 
 **DO NOT** use mocks and spies to uselessly increment a number that doesn't reveal or test anything to do with the inner workings of your code.
 
