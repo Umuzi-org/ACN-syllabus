@@ -1,6 +1,34 @@
 ---
 _db_id: 639
 content_type: topic
+ncit_specific_outcomes:
+- assessment_criteria:
+  - The description identifies the different problem solving techniques.
+  - The description identifies situations where specific problem solving techniques would be more suitable than others
+  - The description utilises the top-down problem solving approach in real life problems known to the learner.
+  - The description allows for the practice of problem breakdown in picture drawing applications. 
+  outcome: 1
+  title: Describe different approaches to problem solving.
+- assessment_criteria:
+  - Usage describes the logical operators by drawing truth tables
+  - Usage provides examples of problem situations where a specific operator can be used.
+  - Usage identifies which of the operators should be used to represent given situations.
+  - Usage combines different operators to form Boolean expressions by setting up truth tables. 
+  outcome: 2
+  title: Use logical operators in descriptions of rules and relationships in a problem situation. 
+- assessment_criteria:
+  - The simplification describes the rules of Boolean algebra.
+  - The simplification uses the Boolean algebra rules to simplify given expressions. 
+  - The simplification uses Karnaugh maps to represent Boolean expressions.
+  - The simplification involves writing down the simplified expression from the map. 
+  outcome: 3
+  title: Simplify Boolean expressions with Boolean algebra and Karnaugh maps. 
+- assessment_criteria:
+  - The description identifies the common causes of errors
+  - The description identifies error isolation techniques. 
+  - The description identifies various testing techniques.  
+  outcome: 4
+  title: Describe the basic concepts of error detection. 
 flavours:
 - any_language
 ncit_standards:

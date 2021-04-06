@@ -1,6 +1,36 @@
 ---
 _db_id: 357
 content_type: topic
+ncit_specific_outcomes:
+- assessment_criteria:
+  - The demonstration describes the types of technical meetings and their uses. 
+  - The demonstration identifies leadership styles used in meeting procedures. 
+  - The demonstration identifies decision making processes used in meetings. 
+  - The demonstration describes meeting conventions relevant to the type of meeting chosen. 
+  - The demonstration identifies that the note taker should have technical background knowledge. 
+  outcome: 1
+  title: Demonstrate knowledge of different types of technical practitioners meetings. 
+- assessment_criteria:
+  - The preparation ensures physical arrangements for the meeting is done, relevant to the type of meeting.  
+  - The preparation ensures that meeting outcomes are clear, concise and well documented.  
+  - The preparation ensures that meeting invitations are extended to relevant participants timeously.  
+  - The preparation completes and distribute the meeting agenda and other supporting documentation needed for the type of meeting. 
+  outcome: 2
+  title: Prepare for a technical practitioners meeting. 
+- assessment_criteria:
+  - The chair and members agree on rules and guidelines on behavior. 
+  - The chair applies agreed meeting conventions throughout the meeting, according to the type of meeting and in accordance with  the standing procedures of the organisation(s) involved.
+  - The chair ensures that the published agenda is followed.
+  - The chair provides for active participation by all members to avoid/ minimize conflict.
+  - The chair ensures that meeting topics are prioritised and that discussion times are allocated according to importance, urgency, complexity and agenda. 
+  - The chair ensures that agreed decisions are clear, accurate, includes a time frame for action and are within the mandate of the type of meeting conducted. 
+  outcome: 3
+  title: Chair a technical practitioners meeting. 
+- assessment_criteria:
+  - The follow up ensures minutes of the meeting is produced accurately and in line with the policy of the organisation. 
+  - The follow up communicates agreed records of discussion to interested parties in a format and time frame that meet requirements of the type of meeting and of the organisation(s) involved. 
+  outcome: 4
+  title: Conduct post meeting follow up for a technical meeting. 
 ncit_standards:
 - 114051
 prerequisites:
