@@ -2,7 +2,7 @@
 _db_id: 397
 content_type: topic
 ready: true
-title: Data Analysis with Python
+title: FreeCodeCamp - Data Analysis with Python
 ---
 
 Make an account here if you haven't already: https://www.freecodecamp.org/learn

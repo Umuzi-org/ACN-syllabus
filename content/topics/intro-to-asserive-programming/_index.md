@@ -2,6 +2,8 @@
 _db_id: 145
 content_type: topic
 ready: true
+tags:
+- defensive-programming
 title: Introduction to assertive programming
 ---
 

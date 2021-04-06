@@ -2,6 +2,8 @@
 _db_id: 394
 content_type: topic
 ready: true
+tags:
+- bash
 title: Beginning Bash
 ---
 

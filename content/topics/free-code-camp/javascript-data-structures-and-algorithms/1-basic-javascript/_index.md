@@ -2,7 +2,7 @@
 _db_id: 316
 content_type: topic
 ready: true
-title: Basic Javascript
+title: FreeCodeCamp - Basic Javascript
 ---
 
 Make an account here if you haven't already: https://www.freecodecamp.org/learn

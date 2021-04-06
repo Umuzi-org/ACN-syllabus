@@ -1,6 +1,9 @@
 ---
 _db_id: 626
 content_type: topic
+ready: true
+tags:
+- problem solving
 title: Problem decomposition
 ---
 
