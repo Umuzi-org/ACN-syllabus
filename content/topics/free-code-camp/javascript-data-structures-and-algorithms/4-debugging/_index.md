@@ -2,7 +2,7 @@
 _db_id: 319
 content_type: topic
 ready: true
-title: Debugging
+title: FreeCodeCamp - Debugging
 ---
 
 Make an account here if you haven't already: https://www.freecodecamp.org/learn

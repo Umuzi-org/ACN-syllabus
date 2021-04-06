@@ -2,7 +2,7 @@
 _db_id: 312
 content_type: topic
 ready: true
-title: Object Orientated Programming
+title: FreeCodeCamp - Object Orientated Programming
 ---
 
 Make an account here if you haven't already: https://www.freecodecamp.org/learn

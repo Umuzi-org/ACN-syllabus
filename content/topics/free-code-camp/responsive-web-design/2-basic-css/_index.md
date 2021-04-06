@@ -5,7 +5,7 @@ ready: true
 tags:
 - css
 - responsive web design
-title: Basic CSS
+title: FreeCodeCamp - Basic CSS
 ---
 
 Make an account here if you haven't already: https://www.freecodecamp.org/learn
