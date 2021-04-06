@@ -28,7 +28,7 @@ Each individual is classified into four mutually exclusive categories:
 - Mm_only: Individuals who use mobile money only
 - Mm_plus: Individuals who use mobile money and also use at least one of the other financial services (savings, credit, insurance)
 
-This dataset is the geospatial mapping of all cash outlets in Tanzania in 2012. Cash outlets in this case included commercial banks, community banks, ATMs, microfinance institutions, mobile money agents, bus stations and post offices. This data was collected by FSDT.
+This dataset is the geospatial mapping of all cash outlets in Tanzania in 2012. Cash outlets in this case included commercial banks, community banks, ATMs, micro-finance institutions, mobile money agents, bus stations and post offices. This data was collected by FSDT.
 
 ## Instructions:
 
@@ -170,7 +170,7 @@ Q19     | Literacy in English | 1 Can read and write
 |       |               | 3 Can write only  
 |       |               | 4 Can neither read nor write  
 |       |               | 5 Refused to read
-Latitu  | proximate latitude | Number
+Latitude  | Approximate latitude | Number
 Longitude | Approximate longitude | Number
 Mobile_money | Do you use mobile money? | 1 Yes
 |       |               | 0 No
