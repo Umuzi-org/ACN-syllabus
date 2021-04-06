@@ -3,22 +3,26 @@ _db_id: 369
 content_type: topic
 ncit_specific_outcomes:
 - assessment_criteria:
-  - The description identifies acceptable and unacceptable professional practices found in the computer industry.
+  - The description identifies acceptable and unacceptable professional practices
+    found in the computer industry.
   - The description identifies known professional bodies in South Africa.
-  - A short description of each named professional body is provided. 
+  - A short description of each named professional body is provided.
   outcome: 1
-  title: Describe professionalism for the computer industry in South Africa. 
+  title: Describe professionalism for the computer industry in South Africa.
 - assessment_criteria:
-  - The description identifies the codes of practice for the IT industry in South Africa.
-  - The description provides a brief explanation of the codes of practice identified. 
+  - The description identifies the codes of practice for the IT industry in South
+    Africa.
+  - The description provides a brief explanation of the codes of practice identified.
   outcome: 2
-  title: Describe the codes of practice for professionalism in the IT industry in South Africa.   
+  title: Describe the codes of practice for professionalism in the IT industry in
+    South Africa.
 - assessment_criteria:
   - The description confirms that the computer industry supports equality of opportunity.
-  - The description confirms the understanding that the computer industry is against computer software piracy.
-  - The description identifies ways in which piracy is addressed in South Africa. 
+  - The description confirms the understanding that the computer industry is against
+    computer software piracy.
+  - The description identifies ways in which piracy is addressed in South Africa.
   outcome: 3
-  title: Describe the code of ethics in the computer industry in South Africa. 
+  title: Describe the code of ethics in the computer industry in South Africa.
 ncit_standards:
 - 114055
 ready: true

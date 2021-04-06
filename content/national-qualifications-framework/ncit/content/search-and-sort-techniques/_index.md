@@ -4,21 +4,23 @@ content_type: topic
 ncit_specific_outcomes:
 - assessment_criteria:
   - The demonstration identifies different abstract data types used in computer programming.
-  - The demonstration identifies different data structures used to store abstract data types in a computer. 
+  - The demonstration identifies different data structures used to store abstract
+    data types in a computer.
   outcome: 1
-  title: Demonstrate an understanding of how abstract data types are stored on computers. 
+  title: Demonstrate an understanding of how abstract data types are stored on computers.
 - assessment_criteria:
   - The demonstration identifies different types of sort techniques
   - The demonstration explains the working of different types of sort techniques
-  - The demonstration explains typical problems found with sorting of data 
+  - The demonstration explains typical problems found with sorting of data
   outcome: 2
-  title: Demonstrate an understanding of sort techniques used to sort data held in data structures.  
+  title: Demonstrate an understanding of sort techniques used to sort data held in
+    data structures.
 - assessment_criteria:
   - The demonstration identifies different types of search techniques
   - The demonstration explains the working of different types of search techniques
-  - The demonstration explains typical problems found with searching of data 
+  - The demonstration explains typical problems found with searching of data
   outcome: 3
-  title: Demonstrate an understanding of search techniques. 
+  title: Demonstrate an understanding of search techniques.
 ncit_standards:
 - 115373
 prerequisites:

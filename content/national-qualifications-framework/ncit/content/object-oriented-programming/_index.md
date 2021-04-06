@@ -1,38 +1,42 @@
 ---
 _db_id: 358
 content_type: topic
+flavours:
+- any_language
 ncit_specific_outcomes:
 - assessment_criteria:
-  - The demonstration identifies situations from real-life problems where inheritance is applicable. 
-  - The demonstration implements inheritance in OOP language. 
+  - The demonstration identifies situations from real-life problems where inheritance
+    is applicable.
+  - The demonstration implements inheritance in OOP language.
   outcome: 1
-  title: Demonstrate an understanding of inheritance in object oriented programming (OOP)
+  title: Demonstrate an understanding of inheritance in object oriented programming
+    (OOP)
 - assessment_criteria:
-  - The demonstration identifies situations from real-life problems where polymorphism is applicable. 
+  - The demonstration identifies situations from real-life problems where polymorphism
+    is applicable.
   - The demonstration implements polymorphism in OOP language.
   outcome: 2
-  title: Demonstrate an understanding of polymorphism in object oriented programming (OOP).  
+  title: Demonstrate an understanding of polymorphism in object oriented programming
+    (OOP).
 - assessment_criteria:
   - The analysis describes basic UML standards to identify classes.
   - The analysis identifies base and sub-classes in a problem situation.
   - The analysis identifies polymorphism in a problem situation.
-  - The analysis identifies inter-class communication in a problem situation. 
+  - The analysis identifies inter-class communication in a problem situation.
   outcome: 3
-  title: Analyse problem situations to plan an OOP implementation. 
+  title: Analyse problem situations to plan an OOP implementation.
 - assessment_criteria:
   - Describe the purpose of abstract classes in the optimisation of re-usability.
   - Describe wrapper classes and their need in OOP design.
-  - Implement abstract and wrapper classes in OOP language. 
+  - Implement abstract and wrapper classes in OOP language.
   outcome: 4
-  title: Use abstract classes to optimise re-usability. 
+  title: Use abstract classes to optimise re-usability.
 - assessment_criteria:
   - Describes different design patterns.
   - Explain the advantages of using the chosen design pattern.
-  - Implement the chosen design pattern in an OOP language. 
+  - Implement the chosen design pattern in an OOP language.
   outcome: 5
-  title: Use basic design patterns to optimise re-usability. 
-flavours:
-- any_language
+  title: Use basic design patterns to optimise re-usability.
 ncit_standards:
 - 115378
 prerequisites:

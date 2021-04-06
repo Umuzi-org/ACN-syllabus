@@ -1,7 +1,7 @@
 ---
+_db_id: 57
 title: Java Systems Development - part 2
 ---
-
 
 - {{% contentlink path="workshops/general-coding-best-practices" %}}
 - {{% contentlink path="projects/oop/dice" flavour="java" %}}
@@ -20,5 +20,3 @@ title: Java Systems Development - part 2
 - {{% contentlink path="projects/basic-unit-test-mocks-kata" flavour="java" %}}
 - {{% contentlink path="projects/tdd/password-checker/part2" flavour="java" %}}
 - {{% contentlink path="projects/java-specific/introduction-to-spring-boot/part-4" flavour="java" %}}
-
-

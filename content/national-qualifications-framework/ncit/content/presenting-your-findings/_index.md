@@ -3,29 +3,30 @@ _db_id: 375
 content_type: topic
 ncit_specific_outcomes:
 - assessment_criteria:
-  - 
+  - null
   outcome: 1
-  title: Research and plan the content of the presentation in relation to the target audience.
+  title: Research and plan the content of the presentation in relation to the target
+    audience.
 - assessment_criteria:
-  - 
+  - null
   outcome: 2
-  title: Prepare and organize presentation material.  
+  title: Prepare and organize presentation material.
 - assessment_criteria:
-  - 
+  - null
   outcome: 3
   title: Apply technical presentation techniques with or without technical equipment.
 - assessment_criteria:
-  - 
+  - null
   outcome: 4
   title: Display optimal presentation skills.
 - assessment_criteria:
-  - 
+  - null
   outcome: 5
   title: Perform self-monitoring and adapt the presentation.
 - assessment_criteria:
-  - 
+  - null
   outcome: 6
-  title: 
+  title: null
 ncit_standards:
 - 13925
 prerequisites:

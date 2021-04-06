@@ -3,26 +3,34 @@ _db_id: 370
 content_type: topic
 ncit_specific_outcomes:
 - assessment_criteria:
-  - The demonstration identifies different parts of a cost/benefit analysis. 
-  - The demonstration explains the purpose of the different parts of a cost/benefit analysis. 
+  - The demonstration identifies different parts of a cost/benefit analysis.
+  - The demonstration explains the purpose of the different parts of a cost/benefit
+    analysis.
   outcome: 1
-  title: Demonstrate the ability to interpret given cost/benefit analysis documentation. 
+  title: Demonstrate the ability to interpret given cost/benefit analysis documentation.
 - assessment_criteria:
-  - The time estimate is based on a breakdown of the component in the logical parts for estimating. 
-  - The time estimate is based on an understanding that the estimate should include the implementation/testing of interfaces to other components where applicable. 
+  - The time estimate is based on a breakdown of the component in the logical parts
+    for estimating.
+  - The time estimate is based on an understanding that the estimate should include
+    the implementation/testing of interfaces to other components where applicable.
   outcome: 2
-  title: Prepare a time estimate for an element of work. 
+  title: Prepare a time estimate for an element of work.
 - assessment_criteria:
-  - The cost estimate is based on a breakdown of the component in the logical parts for estimating. 
-  - The cost estimate is based on an understanding that the estimate should include the implementation/testing of interfaces to other components where applicable. 
-  - The cost estimate demonstrates an understanding that being assisted by other resources or people could escalate the costs. 
+  - The cost estimate is based on a breakdown of the component in the logical parts
+    for estimating.
+  - The cost estimate is based on an understanding that the estimate should include
+    the implementation/testing of interfaces to other components where applicable.
+  - The cost estimate demonstrates an understanding that being assisted by other resources
+    or people could escalate the costs.
   outcome: 3
-  title: Prepare a cost estimate for an element of work.  
+  title: Prepare a cost estimate for an element of work.
 - assessment_criteria:
-  - The demonstration confirms the understanding that an element delivered is often a subset of a bigger deliverable. 
-  - The demonstration explains the affect of late delivery on other related components. 
+  - The demonstration confirms the understanding that an element delivered is often
+    a subset of a bigger deliverable.
+  - The demonstration explains the affect of late delivery on other related components.
   outcome: 4
-  title: Demonstrate an understanding of the affect of late delivery of an element of work. 
+  title: Demonstrate an understanding of the affect of late delivery of an element
+    of work.
 ncit_standards:
 - 114059
 ready: true

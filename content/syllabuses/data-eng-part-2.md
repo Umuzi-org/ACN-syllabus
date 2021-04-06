@@ -1,10 +1,7 @@
 ---
+_db_id: 56
 title: Data Engineering - part 2
 ---
-
-
-
-
 
 - {{% contentlink path="projects/data-science-specific/data-wrangling" flavour="python" %}}
 - {{% contentlink path="topics/data-ethics-and-privacy" %}}
@@ -34,4 +31,3 @@ title: Data Engineering - part 2
 - {{% contentlink path="projects/dags-with-airflow" flavour="python" %}}
 - {{% contentlink path="topics/data-infrastructure/choosing-a-task-queue" %}}
 - {{% contentlink path="topics/optimizations-and-big-o/" %}}
-

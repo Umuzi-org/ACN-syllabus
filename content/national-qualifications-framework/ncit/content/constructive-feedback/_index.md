@@ -3,30 +3,45 @@ _db_id: 359
 content_type: topic
 ncit_specific_outcomes:
 - assessment_criteria:
-  - The provision is selected in terms of type and channel 
-  - The provision ensures that the language, content and tone of feedback fit the situation, the occasion, the subject matter and the audience 
-  - The provision describes the behavior or event which is the focus of feedback, in neutral terms, with the absence of reference to character or personality of the recipient
-  - The provision identifies legal and ethical requirements that impact on the time and place where feedback is provided 
-  - The provision ensures that the content of the message meets the objectives set for providing feedback
-  - The provision ensures that constructive feedback incorporates listening, open questions, paraphrasing and responding to receiver reactions 
+  - The provision is selected in terms of type and channel
+  - The provision ensures that the language, content and tone of feedback fit the
+    situation, the occasion, the subject matter and the audience
+  - The provision describes the behavior or event which is the focus of feedback,
+    in neutral terms, with the absence of reference to character or personality of
+    the recipient
+  - The provision identifies legal and ethical requirements that impact on the time
+    and place where feedback is provided
+  - The provision ensures that the content of the message meets the objectives set
+    for providing feedback
+  - The provision ensures that constructive feedback incorporates listening, open
+    questions, paraphrasing and responding to receiver reactions
   outcome: 1
-  title: Provide constructive feedback. 
+  title: Provide constructive feedback.
 - assessment_criteria:
-  - The analysis identifies issues related to providing feedback in terms of context/ situation 
-  - The analysis identifies the purpose and/ or outcomes for specific feedback contexts/ situations
-  - The analysis identifies consequences and/ or anticipated reactions for specific feedback contexts/ situations
-  - The analysis ensures that the content and tone of feedback fit the situation, the occasion, the subject matter and the audience
-  - The analysis identifies the legal and organisational requirements that impact on the type and manner of feedback provided  
+  - The analysis identifies issues related to providing feedback in terms of context/
+    situation
+  - The analysis identifies the purpose and/ or outcomes for specific feedback contexts/
+    situations
+  - The analysis identifies consequences and/ or anticipated reactions for specific
+    feedback contexts/ situations
+  - The analysis ensures that the content and tone of feedback fit the situation,
+    the occasion, the subject matter and the audience
+  - The analysis identifies the legal and organisational requirements that impact
+    on the type and manner of feedback provided
   outcome: 2
-  title: Analyse feedback contexts and/ or situations. 
+  title: Analyse feedback contexts and/ or situations.
 - assessment_criteria:
-  - The response ensures that the medium, language, content and tone fits the situation, the occasion, the matter and the audience
-  - The response clarifies feedback received, in terms of the objectives and issues raised 
-  - The response evaluates feedback received, in terms of its applicability to the objectives and issues raised
+  - The response ensures that the medium, language, content and tone fits the situation,
+    the occasion, the matter and the audience
+  - The response clarifies feedback received, in terms of the objectives and issues
+    raised
+  - The response evaluates feedback received, in terms of its applicability to the
+    objectives and issues raised
   - The response incorporates identifying options and/ or strategies for further action
-  - The response evaluated the outcome of feedback to determine if the objectives are met, or require further action 
+  - The response evaluated the outcome of feedback to determine if the objectives
+    are met, or require further action
   outcome: 3
-  title: Respond constructively to feedback. 
+  title: Respond constructively to feedback.
 ncit_standards:
 - 115431
 ready: true

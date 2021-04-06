@@ -3,46 +3,63 @@ _db_id: 374
 content_type: topic
 ncit_specific_outcomes:
 - assessment_criteria:
-  - The plan proposes a description of the problem to be solved by the development of the computer program that is understandable by an end-user and meets the given specification. 
-  - The plan integrate the research of problems in term of data and functions 
-  - The plan includes an evaluation of the viability of developing a computer program to solve the problem identified and compares the costs of developing the program with the benefits to be obtained from the program. 
+  - The plan proposes a description of the problem to be solved by the development
+    of the computer program that is understandable by an end-user and meets the given
+    specification.
+  - The plan integrate the research of problems in term of data and functions
+  - The plan includes an evaluation of the viability of developing a computer program
+    to solve the problem identified and compares the costs of developing the program
+    with the benefits to be obtained from the program.
   - At least two different possible solutions
-  - The plan concludes by choosing the best solution and documenting the program features that will contain the capabilities and constraints to meet the defined problem. 
+  - The plan concludes by choosing the best solution and documenting the program features
+    that will contain the capabilities and constraints to meet the defined problem.
   outcome: 1
-  title: Interpret a given specification to plan a computer program solution. 
+  title: Interpret a given specification to plan a computer program solution.
 - assessment_criteria:
-  - The design incorporates development of appropriate design documentstion and is desk-checked.
+  - The design incorporates development of appropriate design documentstion and is
+    desk-checked.
   - The design of the program includes program structure components.
   - The design of the program includes program logical flow components.
-  - The design of the program includes data structures and access method components. 
+  - The design of the program includes data structures and access method components.
   outcome: 2
-  title: Design a computer program to meet a business requirement.  
+  title: Design a computer program to meet a business requirement.
 - assessment_criteria:
   - The creation includes coding from design documents, to meet the design specifications
   - Names created in the program describe the purpose of the items named
   - According to industry or company standards for the language chosen
-  - The creation includes conformance with the design documentation, and differences are documented with reasons for deviations 
+  - The creation includes conformance with the design documentation, and differences
+    are documented with reasons for deviations
   outcome: 3
-  title: Create a computer program that implements the design. 
+  title: Create a computer program that implements the design.
 - assessment_criteria:
-  - The testing includes assessment of the need to develop a testing program to assist with stress testing
-  - The testing includes the planning, developing and implementing a test strategy that is appropriate for the type of program being tested.
-  - The testing includes the recording of test results that allow for the identification and validation of test outcomes. 
+  - The testing includes assessment of the need to develop a testing program to assist
+    with stress testing
+  - The testing includes the planning, developing and implementing a test strategy
+    that is appropriate for the type of program being tested.
+  - The testing includes the recording of test results that allow for the identification
+    and validation of test outcomes.
   outcome: 4
-  title: Test a computer program against the business requirements. 
+  title: Test a computer program against the business requirements.
 - assessment_criteria:
-  - The implementation involves checking the program for compliance with user expectations and any other applicable factors 
-  - The implementation involves training of users to enable them to use the software to their requirements
-  - The implementation involves planning of installation of the program that minimises disruption to the user 
+  - The implementation involves checking the program for compliance with user expectations
+    and any other applicable factors
+  - The implementation involves training of users to enable them to use the software
+    to their requirements
+  - The implementation involves planning of installation of the program that minimises
+    disruption to the user
   outcome: 5
-  title: Implement the program to meet business requirements. 
+  title: Implement the program to meet business requirements.
 - assessment_criteria:
-  - The documentation includes annotation of the program with a description of program purpose and design specifics. 
-  - The documentation includes the layout of the program code including indentation and other acceptable industry standards 
-  - The documentation includes full internal and external documentation, with a level of detail that enables other programmers to analyse the program
-  - The documentation reflects the tested and implemented program, including changes made during testing of the program 
+  - The documentation includes annotation of the program with a description of program
+    purpose and design specifics.
+  - The documentation includes the layout of the program code including indentation
+    and other acceptable industry standards
+  - The documentation includes full internal and external documentation, with a level
+    of detail that enables other programmers to analyse the program
+  - The documentation reflects the tested and implemented program, including changes
+    made during testing of the program
   outcome: 6
-  title: Document the program according to industry standards. 
+  title: Document the program according to industry standards.
 ncit_standards:
 - 115392
 prerequisites:
