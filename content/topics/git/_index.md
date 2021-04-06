@@ -2,8 +2,9 @@
 _db_id: 143
 content_type: topic
 ready: true
+tags:
+- git
 title: Git Basics
-todo: link to some videos?
 ---
 
 ## What's git all about?

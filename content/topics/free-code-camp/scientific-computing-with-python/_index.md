@@ -1,8 +1,8 @@
 ---
 _db_id: 398
 content_type: topic
-ready: true
-title: Scientific Computing with Python
+ready: false
+title: FreeCodeCamp - Scientific Computing with Python
 ---
 
 Make an account here if you haven't already: https://www.freecodecamp.org/learn

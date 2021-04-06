@@ -2,7 +2,7 @@
 _db_id: 317
 content_type: topic
 ready: true
-title: ES6
+title: FreeCodeCamp - ES6
 ---
 
 Make an account here if you haven't already: https://www.freecodecamp.org/learn

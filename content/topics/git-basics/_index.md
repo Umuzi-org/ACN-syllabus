@@ -2,6 +2,8 @@
 _db_id: 8
 content_type: topic
 ready: true
+tags:
+- git
 title: Git Basics
 ---
 

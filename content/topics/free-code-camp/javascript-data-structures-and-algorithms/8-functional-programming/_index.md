@@ -2,7 +2,7 @@
 _db_id: 318
 content_type: topic
 ready: true
-title: Functional Programming
+title: FreeCodeCamp - Functional Programming
 ---
 
 Make an account here if you haven't already: https://www.freecodecamp.org/learn

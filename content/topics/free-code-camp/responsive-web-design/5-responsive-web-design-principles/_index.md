@@ -2,7 +2,7 @@
 _db_id: 311
 content_type: topic
 ready: true
-title: Responsive Web Design Principles
+title: FreeCodeCamp - Responsive Web Design Principles
 ---
 
 Make an account here if you haven't already: https://www.freecodecamp.org/learn

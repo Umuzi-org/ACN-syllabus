@@ -4,7 +4,7 @@ content_type: topic
 ready: true
 tags:
 - Maths
-title: Maths for Programmers - Sets and Logic
+title: FreeCodeCamp - Maths for Programmers - Sets and Logic
 ---
 
 {{% youtube 2SpuBqvNjHI %}}

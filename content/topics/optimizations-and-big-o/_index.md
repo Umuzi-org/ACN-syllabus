@@ -2,6 +2,9 @@
 _db_id: 100
 content_type: topic
 ready: true
+tags:
+- problem solving
+- big-O
 title: optimizations and big-O
 ---
 
