@@ -23,6 +23,6 @@ _db_id: 4
 - {{% contentlink path="projects/oop/animals/part2" flavour="python" %}}
 - {{% contentlink path="topics/python-specific/automate-the-boring-stuff-book/chapter-8-input-validation" %}}
 - {{% contentlink path="topics/python-specific/automate-the-boring-stuff-book/chapter-9-reading-and-writing-files" %}}
-- {{% contentlink path="projects/python/file-io" flavour="python" %}}
+- {{% contentlink path="projects/python-specific/file-io" flavour="python" %}}
 - {{% contentlink path="language-agnostic/validate-id-number" flavour="python" %}}
 - {{% contentlink path="sql/shop-project" flavour="" %}}
