@@ -1,6 +1,26 @@
 ---
 _db_id: 364
 content_type: topic
+ncit_specific_outcomes:
+- assessment_criteria:
+  - The description distinguishes types of business organisations. 
+  - The description outlines the common objectives within which businesses operate.
+  - The description outlines the environment within which businesses operate. 
+  outcome: 1
+  title: Describe fundamental business concepts. 
+- assessment_criteria:
+  - The description defines the concept of a system.
+  - The explanation outlines the functions of computer applications in business. 
+  - The explanation illustrates the effects of IT on business systems. 
+  outcome: 3
+  title: Explain how IT can be used in business. 
+- assessment_criteria:
+  - The explanation distinguishes data and information.
+  - The explanation outlines the role of information in decision making.
+  - The explanation identifies the main threats to data security and integrity. 
+  - The explanation identifies the sub-systems that make up a business and the information needs associated with each sub-system. 
+  outcome: 4
+  title: Explain the relationship between a business and its information needs. 
 ncit_standards:
 - 114050
 ready: false

@@ -1,6 +1,23 @@
 ---
 _db_id: 363
 content_type: topic
+ncit_specific_outcomes:
+- assessment_criteria:
+  - The documentation design covers the format of the documents in line with industry conventions.
+  - The documentation plan covers full program documentation components. 
+  outcome: 1
+  title: Plan and design documentation for a computer program to agreed standards. 
+- assessment_criteria:
+  - The documentation is created according to the design created in specific outcome 'Plan and design documentation for a computer program to agreed standards'.
+  - The documentation components created are created according to the plan specified in specific outcome 'Plan and design documentation for a computer program to agreed standards'.
+  - The documentation created is structured sensibly, defining how program specifications have been met. 
+  outcome: 2
+  title: Create documentation for a computer program to agreed standards. 
+- assessment_criteria:
+  - The review identifies if documentation was created according to the design created in specific outcome 'Plan and design documentation for a computer program to agreed standards'.
+  - The review identifies if documentation was created consistent with the computer program being documented. 
+  outcome: 3
+  title: Review documentation for a computer program for completeness. 
 ncit_standards:
 - 115388
 prerequisites:

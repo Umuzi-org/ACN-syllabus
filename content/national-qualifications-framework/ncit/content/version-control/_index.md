@@ -1,6 +1,18 @@
 ---
 _db_id: 366
 content_type: topic
+ncit_specific_outcomes:
+- assessment_criteria:
+  - The location ensures that the correct source file is identified. 
+  - The location ensures that the correct versions of additional files associated with the software development source files are identified. 
+  outcome: 1
+  title: Locate software development source files. 
+- assessment_criteria:
+  - Retrieval and updating of the source file is in accordance with organisation procedures. 
+  - Retrieval protects source files from loss while updates are in progress. 
+  - Retrieval prevents source files from being updated simultaneously by two or more people. 
+  outcome: 2
+  title: Retrieve software development source files for update purposes. 
 flavours:
 - any_language
 ncit_standards:
