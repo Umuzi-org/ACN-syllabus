@@ -63,4 +63,4 @@ Also, we'll be looking out for good developer habits. Please make sure you push 
 - https://css-tricks.com/snippets/css/complete-guide-grid/ (more info)
 - Web Developer Portfolios to inspire you (https://medium.freecodecamp.org/15-web-developer-portfolios-to-inspire-you-137fb1743cae)
 - Building a Data Science Portfolio (https://www.dataquest.io/blog/build-a-data-science-portfolio/)
-- Web designs to inspire your Portfolios (https://www.awwwards.com/)
+- Tips to add towards creating an effective Portfolio (https://www.freecodecamp.org/news/how-to-build-an-awesome-data-science-portfolio/)
