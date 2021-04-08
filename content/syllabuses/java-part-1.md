@@ -5,7 +5,7 @@ _db_id: 7
 
 - {{% contentlink path="agile/agile-scrum" %}}
 - {{% contentlink path="topics/solo-learn/java/basic-concepts" %}}
-- {{% contentlink path="workshops/big-picture-web-dev" %}}
+- {{% contentlink path="topics/big-picture-web-dev" %}}
 - {{% contentlink path="topics/solo-learn/java/conditionals-and-loops" %}}
 - {{% contentlink path="topics/solo-learn/java/arrays" %}}
 - {{% contentlink path="topics/clean-code" %}}
@@ -15,7 +15,7 @@ _db_id: 7
 - {{% contentlink path="topics/solo-learn/java/classes-and-objects" %}}
 - {{% contentlink path="topics/solo-learn/java/more-on-classes" %}}
 - {{% contentlink path="topics/solo-learn/java/exceptions-lists-threads-files" %}}
-- {{% contentlink path="workshops/general-coding-best-practices" %}}
+- {{% contentlink path="topics/general-coding-best-practices" %}}
 - {{% contentlink path="projects/oop/person" flavour="java" %}}
 - {{% contentlink path="projects/oop/animals/part2" flavour="java" %}}
 - {{% contentlink path="projects/java-specific/introduction-to-spring-boot/part-1" flavour="java" %}}

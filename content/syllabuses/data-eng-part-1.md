@@ -7,10 +7,10 @@ _db_id: 4
 - {{% contentlink path="topics/python-specific/automate-the-boring-stuff-book/chapter-3-functions" %}}
 - {{% contentlink path="topics/clean-code/python" %}}
 - {{% contentlink path="topics/how-to-ask-for-help-with-your-code" %}}
-- {{% contentlink path="workshops/big-picture-web-dev" %}}
+- {{% contentlink path="topics/big-picture-web-dev" %}}
 - {{% contentlink path="projects/katas/level-2" flavour="python" %}}
 - {{% contentlink path="language-agnostic/intro-to-hackerrank" flavour="python"%}}
-- {{% contentlink path="workshops/general-coding-best-practices" %}}
+- {{% contentlink path="topics/general-coding-best-practices" %}}
 - {{% contentlink path="topics/python-specific/automate-the-boring-stuff-book/chapter-4-lists" %}}
 - {{% contentlink path="topics/python-specific/automate-the-boring-stuff-book/chapter-5-dictionaries-and-structuring-data" %}}
 - {{% contentlink path="topics/python-specific/automate-the-boring-stuff-book/chapter-6-manipulating-strings" %}}
