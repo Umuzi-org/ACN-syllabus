@@ -4,15 +4,8 @@ _db_id: 2
 ---
 
 - {{% contentlink path="agile/agile-scrum" %}}
-- NCIT 18: Agile project management
-- NCIT 19: Agile meetings
 - {{% contentlink path="topics/clean-code/python" %}}
 - {{% contentlink path="topics/how-to-ask-for-help-with-your-code" %}}
-- NCIT 10: Workshop: Giving and receiving constructive feedback
-- NCIT 06: Web design for business
-- NCIT 07: Building an online business
-- NCIT 12: Business and technology
-- NCIT 09: Ethics and Professionalism in IT
 - {{% contentlink path="topics/clean-code/general/" %}}
 - {{% contentlink path="projects/katas/level-2" flavour="python" %}}
 - {{% contentlink path="language-agnostic/intro-to-hackerrank" flavour="python" %}}
@@ -23,8 +16,6 @@ _db_id: 2
 - {{% contentlink path="topics/python-specific/automated-testing-with-pytest"%}}
 - {{% contentlink path="projects/data-science-specific/data-visualisation" %}}
 - {{% contentlink path="topics/python-specific/virtual-envs/" %}}
-- {{% contentlink path="topics/survey-design" %}}
-- {{% contentlink path="topics/google-forms-like-a-boss" %}}
 - {{% contentlink path="topics/survey-design" %}}
 - {{% contentlink path="topics/google-forms-like-a-boss" %}}
 - {{% contentlink path="projects/data-science-specific/cross-validation-and-simple-linear-regression/" flavour="python" %}}
@@ -41,7 +32,6 @@ _db_id: 2
 - {{% contentlink path="projects/data-science-specific/logistic-regression/breast-cancer"  flavour="python"%}}
 - {{% contentlink path="projects/data-science-specific/decision-trees" flavour="python"%}}
 - {{% contentlink path="topics/optimizations-and-big-o/" %}}
-- NCIT Summative assessment
 - {{% contentlink path="topics/data-infrastructure/database-comparison/" %}}
 - {{% contentlink path="projects/data-science-specific/k-means-clustering" flavour="python"%}}
 - {{% contentlink path="projects/data-science-specific/natural-language-processing" flavour="python"%}}
