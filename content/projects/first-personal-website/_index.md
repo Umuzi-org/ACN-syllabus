@@ -2,19 +2,19 @@
 _db_id: 220
 content_type: project
 flavours:
-  - none
+- none
 prerequisites:
   hard:
-    - topics/free-code-camp/responsive-web-design/1-basic-html-and-html-5
-    - topics/free-code-camp/responsive-web-design/2-basic-css
-    - topics/what-to-put-in-your-cv
-    - topics/web-frontend/intro-to-web-design/
+  - topics/free-code-camp/responsive-web-design/1-basic-html-and-html-5
+  - topics/free-code-camp/responsive-web-design/2-basic-css
+  - topics/what-to-put-in-your-cv
+  - topics/web-frontend/intro-to-web-design/
 ready: true
 story_points: 3
 submission_type: link
 tags:
-  - html
-  - css
+- html
+- css
 title: Build your first personal website
 ---
 
