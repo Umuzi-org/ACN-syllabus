@@ -18,8 +18,7 @@ _db_id: 3
 - {{% contentlink path="topics/free-code-camp/responsive-web-design/3-applied-visual-design" %}}
 - {{% contentlink path="topics/intro-to-css-architecture" %}}
 - {{% contentlink path="projects/first-personal-website" %}}
-- {{% contentlink path="topics/big-picture-web-dev" %}}
-- {{% contentlink path="topics/js-and-node-specific/super-basic-intro-to-node" %}}
+- {{% contentlink path="topics/general-coding-best-practices" %}}
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/7-object-orientated-programming" %}}
 - {{% contentlink path="topics/jasmine-unit-tests" %}}
 - {{% contentlink path="projects/oop/animals/part2"  flavour="javascript" %}}
@@ -37,18 +36,5 @@ _db_id: 3
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/9-intermediate-algorithmic-scripting" %}}
 - {{% contentlink path="topics/free-code-camp/responsive-web-design/7-css-grid" %}}
 - {{% contentlink path="topics/js-and-node-specific/node" %}}
-- {{% contentlink path="projects/nodejs/file-io" flavour="javascript" %}}
-- {{% contentlink path="projects/nodejs/sql" flavour="javascript" %}}
-- {{% contentlink path="topics/data-infrastructure/database-comparison/" %}}
-- {{% contentlink path="projects/nodejs/ajax" flavour="javascript" %}}
-- {{% contentlink path="topics/web-frontend/intro-to-angular/" optional="1" %}}
-- {{% contentlink path="topics/web-frontend/react/intro-to-react" %}}
-- {{% contentlink path="topics/web-frontend/intro-to-vue/" optional="1" %}}
-- {{% contentlink path="topics/nodejs-intro-to-socketio/" optional="1" %}}
-- {{% contentlink path="topics/redux-intro/" optional="1" flavour="javascript" %}}
-- {{% contentlink path="topics/js-and-node-specific/mongodb/" optional="1"  %}}
-- {{% contentlink path="topics/js-and-node-specific/dotenv/"  %}}
-- {{% contentlink path="agile/agile-scrum" %}}
-- {{% contentlink path="agile/agile-scrum-slides/" %}}
 - {{% contentlink path="language-agnostic/validate-id-number" flavour="javascript" %}}
 - {{% contentlink path="sql/shop-project" flavour="" %}}
