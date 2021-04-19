@@ -5,7 +5,7 @@ flavours:
 - none
 prerequisites:
   hard:
-  - sql/topics/intro-to-relational-databases
+  - topics/solo-learn/sql/4-challenges
   - topics/intro-to-docker/
   soft: []
 ready: true
