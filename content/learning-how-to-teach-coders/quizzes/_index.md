@@ -1,13 +1,14 @@
 ---
+_db_id: 649
 content_type: topic
 title: Quizzes
 ---
 
-## What The Sessions Should Be About
+## What The session should be about
 
 <!-- This type of session involves the leader and follower working through some kind of Q&A type quiz. The topic could be very basic or something more advanced. -->
 
-The session should be about a junior staff members or jtl giving the recruits some questions, quizzes on various topics to work through and see if recruits have a strong and good understanding on the basics foundational skills.
+The session should be about a leader and follower and the leader needs to give the follower some questions, quizzes on various topics to work through and see if the follower have a strong and good understanding on the basic foundational skills.
 
 ## Purpose
 
@@ -37,9 +38,3 @@ If recruits are struggling with some concepts and cannot think of solutions to b
 - [CodeQuizzes](https://www.codequizzes.com/)
 - [JavaScript Quiz](https://www.w3schools.com/js/js_quiz.asp)
 - [Java Quiz](https://www.w3schools.com/java/java_quiz.asp)  
-
-## Practice Problem Solving 
-- [Hackerrank](https://www.hackerrank.com/)
-- [Edabit](https://edabit.com/)
-- [CodeWars](https://www.codewars.com/dashboard)
-- [Project Euler](https://projecteuler.net/)
