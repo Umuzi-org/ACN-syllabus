@@ -18,4 +18,4 @@ Please do the following:
 
 2. Fill in the assessment. The instructions are in the document. 
    
-3. Watch this space! We'll share instructions on how to upload this stuff in the near future.
+4. Upload the document to google drive and submit a link. Please make sure that the link works. If your work is private then we wont be able to review it 
