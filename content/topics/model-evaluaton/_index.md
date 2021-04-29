@@ -1,7 +1,6 @@
 ---
 _db_id: 12
 content_type: topic
-ready: true
 title: Model Evaluation
 ---
 

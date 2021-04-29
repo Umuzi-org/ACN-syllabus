@@ -1,11 +1,12 @@
 ---
 _db_id: 41
 content_type: topic
-ready: true
 title: Google forms like a boss
 ---
 
-Here are links on how to:
+Please review this [presentation](https://drive.google.com/file/d/1CzfFBSa0PbDwPSFaHfBq0Ouz2MjmG8WN/view)
+
+Here are some further links on how to:
 
 - [use a google form](https://support.google.com/docs/answer/6281888?co=GENIE.Platform%3DDesktop&hl=en#)
 - [create and grade quizzes](https://support.google.com/docs/answer/7032287?hl=en&ref_topic=6063584#)

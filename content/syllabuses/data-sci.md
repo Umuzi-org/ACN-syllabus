@@ -10,7 +10,7 @@ _db_id: 2
 - {{% contentlink path="projects/katas/level-2" flavour="python" %}}
 - {{% contentlink path="language-agnostic/intro-to-hackerrank" flavour="python" %}}
 - {{% contentlink path="projects/data-science-specific/data-wrangling" flavour="python" %}}
-- {{% contentlink path="topics/general-coding-best-practices" %}}
+- {{% contentlink path="topics/clean-code" %}}
 - {{% contentlink path="projects/data-science-specific/statistical-thinking" flavour="python" %}}
 - {{% contentlink path="topics/python-specific/oop-for-python" %}}
 - {{% contentlink path="topics/python-specific/automated-testing-with-pytest"%}}

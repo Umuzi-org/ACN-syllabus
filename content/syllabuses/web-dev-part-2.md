@@ -4,7 +4,7 @@ title: Web Development - part 2
 ---
 
 - {{% contentlink path="topics/web-frontend/intro-to-web-design" %}}
-- {{% contentlink path="topics/general-coding-best-practices" %}}
+- {{% contentlink path="topics/clean-code" %}}
 - {{% contentlink path="projects/semitone-challenge/gui-part-1" flavour="javascript,noframework" %}}
 - {{% contentlink path="projects/nodejs/file-io" flavour="javascript" %}}
 - {{% contentlink path="topics/js-and-node-specific/logging" %}}

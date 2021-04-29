@@ -1,7 +1,6 @@
 ---
 _db_id: 33
 content_type: topic
-ready: true
 tags:
 - surveys
 title: Survey design

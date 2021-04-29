@@ -8,7 +8,7 @@ _db_id: 3
 - {{% contentlink path="topics/big-picture-web-dev" %}}
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/2-es6" %}}
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/4-debugging" %}}
-- {{% contentlink path="topics/clean-code" %}}
+- {{% contentlink path="topics/clean-code/java-script" %}}
 - {{% contentlink path="topics/js-and-node-specific/super-basic-intro-to-node" %}}
 - {{% contentlink path="topics/how-to-ask-for-help-with-your-code" %}}
 - {{% contentlink path="projects/katas/level-2" flavour="javascript" %}}
@@ -18,7 +18,7 @@ _db_id: 3
 - {{% contentlink path="topics/free-code-camp/responsive-web-design/3-applied-visual-design" %}}
 - {{% contentlink path="topics/intro-to-css-architecture" %}}
 - {{% contentlink path="projects/first-personal-website" %}}
-- {{% contentlink path="topics/general-coding-best-practices" %}}
+- {{% contentlink path="topics/clean-code" %}}
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/7-object-orientated-programming" %}}
 - {{% contentlink path="topics/jasmine-unit-tests" %}}
 - {{% contentlink path="projects/oop/animals/part2"  flavour="javascript" %}}

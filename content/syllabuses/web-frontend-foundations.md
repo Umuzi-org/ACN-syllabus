@@ -16,7 +16,7 @@ title: Web frontend foundations
 - {{% contentlink path="topics/web-frontend/intro-to-web-design/" %}}
 - {{% contentlink path="projects/first-personal-website" %}}
 - {{% contentlink path="topics/free-code-camp/responsive-web-design/3-applied-visual-design" %}}
-- {{% contentlink path="topics/clean-code/general/" %}}
+- {{% contentlink path="topics/clean-code/" %}}
 - {{% contentlink path="topics/jasmine-unit-tests" %}}
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/5-basic-data-structures" %}}
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/6-basic-algorithmic-scripting" %}}
@@ -24,7 +24,6 @@ title: Web frontend foundations
 - {{% contentlink path="projects/oop/animals/part2"  flavour="javascript" %}}
 - {{% contentlink path="topics/free-code-camp/responsive-web-design/4-applied-accessability" %}}
 - {{% contentlink path="topics/free-code-camp/responsive-web-design/5-responsive-web-design-principles" %}}
-
 - {{% contentlink path="projects/semitone-challenge/gui-part-2"  flavour="javascript,noframework" %}}
 - {{% contentlink path="projects/tdd/password-checker/part2" flavour="javascript" %}}
 - {{% contentlink path="topics/data-ethics-and-privacy" %}}
