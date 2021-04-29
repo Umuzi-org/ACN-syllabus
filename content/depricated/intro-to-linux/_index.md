@@ -1,6 +1,6 @@
 ---
 _db_id: 17
-content_type: topic
+content_type: workshop
 title: 'Introduction to Linux: Live demo'
 todo:
 - 'these all seem bad in different ways: Some aren''t in depth, some go into too much
