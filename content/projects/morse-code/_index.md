@@ -13,10 +13,10 @@ submission_type: repo
 tags:
 - problem solving
 - data structures
+- defensive programming
 title: Morse code
----
 
-## Exercise: Morse code
+---
 
 Create two functions:
 

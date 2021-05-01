@@ -1,12 +1,14 @@
 ---
 _db_id: 697
-content_type: topic
+content_type: project
 prerequisites:
   hard:
   - topics/solo-learn/sql/3-join-table-operations
 ready: true
 title: Solo Learn - SQL - Module 4 - Challenges
-topic_needs_review: true
+submission_type: link
+tags:
+    - sql
 ---
 
 Complete the above mentioned module on Solo Learn

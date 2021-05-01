@@ -3,6 +3,10 @@ _db_id: 141
 content_type: topic
 ready: true
 title: Super basic intro to Node
+tags:
+  - js 
+  - node
+  - backend
 ---
 
 Most people are introduced to JavaScript in the context of a web browser. JS adds smarts to HTML and CSS.

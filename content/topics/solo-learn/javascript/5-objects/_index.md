@@ -1,13 +1,15 @@
 ---
-_db_id: 464
+_db_id: 461
 content_type: topic
 prerequisites:
   hard:
-  - topics/solo-learn/javascript/dom-and-events
+  - topics/solo-learn/javascript/4-functions
   soft: []
 ready: true
-title: Solo Learn - JavaScript - Module 8 - ECMAScript 6
-topic_needs_review: true
+title: Solo Learn - JavaScript - Module 5 - Objects
+topic_needs_review: false
+tags:
+    - javascript
 ---
 
 Complete the above mentioned module on Solo Learn

@@ -3,6 +3,9 @@ _db_id: 61
 content_type: topic
 ready: true
 title: Data Ethics and Privacy
+tags:
+  - ethics
+  - privacy
 ---
 
 Software development and data science can be really powerful. And with great power come great responsibility, Uncle Ben was right.

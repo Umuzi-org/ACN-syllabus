@@ -2,9 +2,10 @@
 _db_id: 88
 content_type: topic
 ready: true
-tags:
-- clean code
 title: Clean Code
+tags:
+  - clean-code
+  - xml
 ---
 
 Watch this: [Clean Code: Fundamentals, Episode 1. Clean Code by Uncle Bob (Robert C. Martin)

@@ -64,3 +64,10 @@ Hello, my name is Ryan and I am 30 years old. My interests are being a hardarse,
 In OOP this is known as abstraction. We created a simple model of a more complex thing. We only represent the attributes and functionality that we need.
 
 When an object instance is created from a class, the class's constructor function is run to create it. This process of creating an object instance from a class is called instantiation — the object instance is instantiated from the class. `person` is an instance of `Person`
+
+## Acceptance criteria
+
+A person might have many interests, or they might only have 1. If they are depressed then they might not be interested in anything at all. Make sure you can handle all cases! 
+
+Also, it's really imporant that you submit good clean code! MAke sure you name your variables clearly. Make sure you are following the convention of the langage you are using. Make sure your code in no way resembles spagetti.
+

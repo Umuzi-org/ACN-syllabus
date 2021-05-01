@@ -1,9 +1,11 @@
 ---
 _db_id: 175
 content_type: topic
-date: 2019-03-19 16:50:16+02:00
 ready: true
 title: Agile & Scrum
+tags:
+  - agile
+  - scrum
 ---
 
 #### Definition of Agile:

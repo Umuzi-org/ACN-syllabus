@@ -1,13 +1,15 @@
 ---
-_db_id: 450
+_db_id: 453
 content_type: topic
 prerequisites:
   hard:
-  - topics/solo-learn/java/conditionals-and-loops
+  - topics/solo-learn/java/1-basic-concepts
   soft: []
 ready: true
-title: Solo Learn - Java - Module 3 - Arrays
-topic_needs_review: true
+title: Solo Learn - Java - Module 2 -Conditionals and Loops
+topic_needs_review: false
+tags:
+ - java
 ---
 
 Complete the above mentioned module on Solo Learn

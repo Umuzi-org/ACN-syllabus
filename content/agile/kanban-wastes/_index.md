@@ -3,6 +3,10 @@ _db_id: 624
 content_type: topic
 ready: true
 title: Kanban wastes
+tags:
+  - agile
+  - kanban
+  - prioritisation
 ---
 
 You can think of kanban as a way to prioritize work. Kanban is a methodology used in professional dev teams and even manufacturing. 

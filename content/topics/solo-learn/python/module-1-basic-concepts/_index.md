@@ -1,9 +1,12 @@
 ---
 _db_id: 527
-content_type: topic
+content_type: project
+sumbission_type: link
 ready: true
 title: Solo Learn - Python - Module 1 - Basic Concepts
-topic_needs_review: true
+
+tags:
+    - python
 ---
 
 Complete the above mentioned module on Solo Learn

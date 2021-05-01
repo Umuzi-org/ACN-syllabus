@@ -1,9 +1,11 @@
 ---
 _db_id: 698
-content_type: topic
+content_type: project
+sumbission_type: link
 ready: true
 title: Solo Learn - SQL - Module 1 - Basic Concepts
-topic_needs_review: true
+tags:
+    - sql
 ---
 
 Complete the above mentioned module on Solo Learn

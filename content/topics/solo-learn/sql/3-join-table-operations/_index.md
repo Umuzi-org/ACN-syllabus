@@ -6,7 +6,7 @@ prerequisites:
   - topics/solo-learn/sql/2-filtering-functions-subqueries
 ready: true
 title: Solo Learn - SQL - Module 3 - JOIN, Table Operations
-topic_needs_review: true
+topic_needs_review: false
 ---
 
 Complete the above mentioned module on Solo Learn

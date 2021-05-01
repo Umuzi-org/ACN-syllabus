@@ -11,6 +11,9 @@ ready: true
 story_points: 3
 submission_type: continue_repo
 title: Level 2 coding challenges
+tags: 
+  - algrithms 
+  - clean-code
 ---
 
 ## Task 2.1

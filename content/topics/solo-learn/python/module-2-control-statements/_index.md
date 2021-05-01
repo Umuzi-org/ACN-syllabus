@@ -7,7 +7,9 @@ prerequisites:
   soft: []
 ready: true
 title: Solo Learn - Python - Module 2 - Control Statements
-topic_needs_review: true
+topic_needs_review: false
+tags:
+    - python
 ---
 
 Complete the above mentioned module on Solo Learn

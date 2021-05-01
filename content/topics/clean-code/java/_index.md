@@ -6,6 +6,9 @@ prerequisites:
   - topics/clean-code/general
 ready: true
 title: Clean Code for Java
+tags:
+  - clean-code
+  - java
 ---
 
 Code is read more often than it is written. Assist yourself and others by keeping your code clear and readable!
