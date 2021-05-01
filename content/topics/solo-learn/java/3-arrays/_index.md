@@ -6,10 +6,10 @@ prerequisites:
   - topics/solo-learn/java/2-conditionals-and-loops
   soft: []
 ready: true
+tags:
+- java
 title: Solo Learn - Java - Module 3 - Arrays
 topic_needs_review: false
-tags:
- - java
 ---
 
 Complete the above mentioned module on Solo Learn

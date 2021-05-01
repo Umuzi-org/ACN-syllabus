@@ -1,15 +1,17 @@
 ---
 _db_id: 465
 content_type: project
-sumbission_type: link
+flavours:
+- none
 prerequisites:
   hard:
   - topics/solo-learn/javascript/2-basic-concepts
   soft: []
 ready: true
-title: Solo Learn - JavaScript - Module 3 - Conditionals and Loops
+submission_type: link
 tags:
-    - javascript
+- javascript
+title: Solo Learn - JavaScript - Module 3 - Conditionals and Loops
 ---
 
 Complete the above mentioned module on Solo Learn

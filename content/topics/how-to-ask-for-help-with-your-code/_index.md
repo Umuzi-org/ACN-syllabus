@@ -2,10 +2,10 @@
 _db_id: 127
 content_type: topic
 ready: true
-title: How to ask for help with your code
 tags:
-    - soft-skills
-    - communication
+- soft-skills
+- communication
+title: How to ask for help with your code
 ---
 
 A big part of learning to be a programmer of any kind is knowing how to get help. This means knowing how to ask questions. Your questions should be short and clear. Your question should include all the information that is needed to answer the question. Practice asking good questions. It's like a superpower. If you are easy to help then people will help you.

@@ -183,4 +183,4 @@ Insurance | Do you have insurance? | 1 Yes
 Mobile_money_classification |   | 0 no mobile money and no other financial service (saving, borrowing, insurance)
 |       |               | 1 no mobile money, but at least one other financial service
 |       |               | 2 mobile money only
-|       |               | 3 mobile money and at least one other financial service              
+|       |               | 3 mobile money and at least one other financial service

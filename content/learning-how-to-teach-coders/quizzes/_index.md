@@ -37,4 +37,4 @@ If recruits are struggling with some concepts and cannot think of solutions to b
 - [Data science questions](https://github.com/alexeygrigorev/data-science-interviews)
 - [CodeQuizzes](https://www.codequizzes.com/)
 - [JavaScript Quiz](https://www.w3schools.com/js/js_quiz.asp)
-- [Java Quiz](https://www.w3schools.com/java/java_quiz.asp)  
+- [Java Quiz](https://www.w3schools.com/java/java_quiz.asp)

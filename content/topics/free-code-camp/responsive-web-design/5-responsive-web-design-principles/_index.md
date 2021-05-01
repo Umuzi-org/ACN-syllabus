@@ -1,10 +1,11 @@
 ---
 _db_id: 311
-ready: true
-title: FreeCodeCamp - Responsive Web Design Principles
 content_type: project
+flavours:
+- none
+ready: true
 submission_type: link
-
+title: FreeCodeCamp - Responsive Web Design Principles
 ---
 
 Make an account here if you haven't already: https://www.freecodecamp.org/learn

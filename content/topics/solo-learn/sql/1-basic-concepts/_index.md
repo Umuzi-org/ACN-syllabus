@@ -1,11 +1,13 @@
 ---
 _db_id: 698
 content_type: project
-sumbission_type: link
+flavours:
+- none
 ready: true
-title: Solo Learn - SQL - Module 1 - Basic Concepts
+submission_type: link
 tags:
-    - sql
+- sql
+title: Solo Learn - SQL - Module 1 - Basic Concepts
 ---
 
 Complete the above mentioned module on Solo Learn

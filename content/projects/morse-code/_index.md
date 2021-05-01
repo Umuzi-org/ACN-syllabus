@@ -15,7 +15,6 @@ tags:
 - data structures
 - defensive programming
 title: Morse code
-
 ---
 
 Create two functions:

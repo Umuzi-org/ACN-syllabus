@@ -2,9 +2,9 @@
 _db_id: 183
 content_type: topic
 ready: true
-title: The Tech Landscape Terminology
 tags:
-  - terminology
+- terminology
+title: The Tech Landscape Terminology
 ---
 
 The tech landscape is vast with interconnected technologies that comprise backend, frontend and database functionalities. These technologies vary, ranging from languages, frameworks, IDEs, databases and platforms.

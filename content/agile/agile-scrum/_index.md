@@ -2,10 +2,10 @@
 _db_id: 175
 content_type: topic
 ready: true
-title: Agile & Scrum
 tags:
-  - agile
-  - scrum
+- agile
+- scrum
+title: Agile & Scrum
 ---
 
 #### Definition of Agile:

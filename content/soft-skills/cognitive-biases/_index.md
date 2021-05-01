@@ -2,10 +2,10 @@
 _db_id: 447
 content_type: topic
 ready: true
-title: Cognitive Biases
 tags:
-  - soft-skills
-  - rational thinking
+- soft-skills
+- rational thinking
+title: Cognitive Biases
 ---
 
 You’ve heard of software bugs, right? Well, human minds also have bugs. People often make the wrong decisions even when they have all the information they need to make the right ones. This has been studied by very clever people. Read about cognitive biases and try to spot them in yourself and the people around you.

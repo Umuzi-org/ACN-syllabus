@@ -2,11 +2,11 @@
 _db_id: 554
 content_type: topic
 ready: true
-title: Django and Javascript
 tags:
-  - django
-  - javascript
-  - python
+- django
+- javascript
+- python
+title: Django and Javascript
 ---
 
 As you now know, you can write Django views that generate HTML responses. What ends up running in the user's browser is a plain ol website. And so you can do whatever you would usually do with HTML.

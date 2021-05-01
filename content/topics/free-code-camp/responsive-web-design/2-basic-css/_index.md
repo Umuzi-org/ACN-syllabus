@@ -1,13 +1,14 @@
 ---
 _db_id: 310
+content_type: project
+flavours:
+- none
 ready: true
+submission_type: link
 tags:
 - css
 - responsive web design
 title: FreeCodeCamp - Basic CSS
-content_type: project
-submission_type: link
-
 ---
 
 Make an account here if you haven't already: https://www.freecodecamp.org/learn

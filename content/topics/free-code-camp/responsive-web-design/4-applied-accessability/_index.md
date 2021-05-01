@@ -1,10 +1,11 @@
 ---
 _db_id: 308
-ready: true
-title: FreeCodeCamp - Applied Accessability
 content_type: project
+flavours:
+- none
+ready: true
 submission_type: link
-
+title: FreeCodeCamp - Applied Accessability
 ---
 
 Make an account here if you haven't already: https://www.freecodecamp.org/learn

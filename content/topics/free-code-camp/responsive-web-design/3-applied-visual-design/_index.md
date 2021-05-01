@@ -1,10 +1,11 @@
 ---
 _db_id: 309
-ready: true
-title: FreeCodeCamp - Applied Visual Design
 content_type: project
+flavours:
+- none
+ready: true
 submission_type: link
-
+title: FreeCodeCamp - Applied Visual Design
 ---
 
 Make an account here if you haven't already: https://www.freecodecamp.org/learn

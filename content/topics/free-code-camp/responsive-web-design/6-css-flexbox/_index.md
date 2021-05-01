@@ -1,10 +1,11 @@
 ---
 _db_id: 305
-ready: true
-title: FreeCodeCamp - CSS Flexbox
 content_type: project
+flavours:
+- none
+ready: true
 submission_type: link
-
+title: FreeCodeCamp - CSS Flexbox
 ---
 
 Make an account here if you haven't already: https://www.freecodecamp.org/learn

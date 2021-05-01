@@ -6,10 +6,10 @@ prerequisites:
   - topics/solo-learn/javascript/6-core-objects
   soft: []
 ready: true
+tags:
+- javascript
 title: Solo Learn - JavaScript - Module 7 - DOM & Events
 topic_needs_review: false
-tags:
-    - javascript
 ---
 
 Complete the above mentioned module on Solo Learn

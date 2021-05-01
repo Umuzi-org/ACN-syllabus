@@ -1,8 +1,10 @@
 ---
 _db_id: 314
 content_type: project
-submission_type: link
+flavours:
+- none
 ready: true
+submission_type: link
 title: FreeCodeCamp - Intermediate Algorithm Scripting
 ---
 

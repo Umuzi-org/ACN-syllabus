@@ -2,10 +2,10 @@
 _db_id: 588
 content_type: topic
 ready: true
-title: Honor Code
 tags:
-  - professionalism
-  - ethics
+- professionalism
+- ethics
+title: Honor Code
 ---
 
 Integrity is important to us and our partners. And if you want to have an epic career, it should be important to you too.

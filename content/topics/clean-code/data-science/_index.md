@@ -2,10 +2,10 @@
 _db_id: 86
 content_type: topic
 ready: true
-title: Clean Code for Data Science
 tags:
-  - clean-code
-  - python
+- clean-code
+- python
+title: Clean Code for Data Science
 ---
 
 Code is read more often than it is written. Notebooks, especially, are made to be looked at. Assist yourself and others by keeping your code and notebooks neat!

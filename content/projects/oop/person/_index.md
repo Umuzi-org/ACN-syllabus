@@ -70,4 +70,3 @@ When an object instance is created from a class, the class's constructor functio
 A person might have many interests, or they might only have 1. If they are depressed then they might not be interested in anything at all. Make sure you can handle all cases! 
 
 Also, it's really imporant that you submit good clean code! MAke sure you name your variables clearly. Make sure you are following the convention of the langage you are using. Make sure your code in no way resembles spagetti.
-

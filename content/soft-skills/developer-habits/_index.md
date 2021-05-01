@@ -2,9 +2,9 @@
 _db_id: 444
 content_type: topic
 ready: true
-title: developer-habits
 tags:
-  - soft-skills
+- soft-skills
+title: developer-habits
 ---
 
 The desire for success is, arguably, part of our genetic make-up. Being successful means being happy, and pretty much everyone strives for happiness. When we become happy, chemicals in our brains reward us with positive feelings and this motivate us to get more.

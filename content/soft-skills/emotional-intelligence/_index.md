@@ -2,10 +2,10 @@
 _db_id: 446
 content_type: topic
 ready: true
-title: Emotional Intelligence
 tags:
-  - soft-skills
-  - emotional intelligence
+- soft-skills
+- emotional intelligence
+title: Emotional Intelligence
 ---
 
 In order to be a high performer you need to handle the technical stuff. Having intelligence and rational problem solving abilities is super important of course. But there is another kind of intelligence that is worth developing. Emotional intelligence is simply necessary if you want to have a high value career. Professionals deal with people!

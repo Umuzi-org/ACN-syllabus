@@ -2,10 +2,9 @@
 _db_id: 89
 content_type: topic
 ready: true
-title: General Clean Code Guidelines
 tags:
-  - clean-code
-
+- clean-code
+title: General Clean Code Guidelines
 ---
 
 “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” ― Martin Fowler

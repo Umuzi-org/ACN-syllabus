@@ -5,9 +5,9 @@ flavours:
 - javascript
 ready: true
 submission_type: repo
-title: ExpressJS
 tags:
-   - express
+- express
+title: ExpressJS
 ---
 
 ### Instructions

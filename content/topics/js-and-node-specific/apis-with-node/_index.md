@@ -2,12 +2,12 @@
 _db_id: 138
 content_type: topic
 ready: true
-title: APIs and Node
 tags:
-  - node
-  - express
-  - apis
-  - rest
+- node
+- express
+- apis
+- rest
+title: APIs and Node
 ---
 
 Please read the following. It'll give you an intro to how you can use Express to create RESTful apis.

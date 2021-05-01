@@ -1,10 +1,11 @@
 ---
 _db_id: 306
-ready: true
-title: FreeCodeCamp - CSS Grid
 content_type: project
+flavours:
+- none
+ready: true
 submission_type: link
-
+title: FreeCodeCamp - CSS Grid
 ---
 
 Make an account here if you haven't already: https://www.freecodecamp.org/learn

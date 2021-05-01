@@ -1,8 +1,10 @@
 ---
 _db_id: 315
 content_type: project
-submission_type: link
+flavours:
+- none
 ready: true
+submission_type: link
 title: FreeCodeCamp - Basic Data Structures
 ---
 

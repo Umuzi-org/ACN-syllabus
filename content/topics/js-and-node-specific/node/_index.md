@@ -2,11 +2,11 @@
 _db_id: 131
 content_type: topic
 ready: true
-title: Node
 tags:
-    - node
-    - javascript
-    - backend
+- node
+- javascript
+- backend
+title: Node
 ---
 
 Wikipedia.org defines Node.js as an open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside of a browser.

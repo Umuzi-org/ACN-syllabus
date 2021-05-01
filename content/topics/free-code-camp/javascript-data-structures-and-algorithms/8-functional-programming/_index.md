@@ -1,9 +1,9 @@
 ---
 _db_id: 318
 content_type: topic
-topic_needs_review: false
 ready: true
 title: FreeCodeCamp - Functional Programming
+topic_needs_review: false
 ---
 
 Make an account here if you haven't already: https://www.freecodecamp.org/learn

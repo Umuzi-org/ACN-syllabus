@@ -2,11 +2,11 @@
 _db_id: 91
 content_type: topic
 ready: true
-title: 
 tags:
-  - unit-testing
-  - bdd
-  - jasmine
+- unit-testing
+- bdd
+- jasmine
+title: Jasmine unit tests
 ---
 
 Jasmine is a unit testing framework we like a lot. Techically it's a Behavior Driven Development (BDD) framework.

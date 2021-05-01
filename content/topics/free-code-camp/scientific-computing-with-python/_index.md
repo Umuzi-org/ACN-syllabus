@@ -1,10 +1,11 @@
 ---
 _db_id: 398
-ready: false
-title: FreeCodeCamp - Scientific Computing with Python
 content_type: project
+flavours:
+- none
+ready: false
 submission_type: link
-
+title: FreeCodeCamp - Scientific Computing with Python
 ---
 
 Make an account here if you haven't already: https://www.freecodecamp.org/learn

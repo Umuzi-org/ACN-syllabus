@@ -1,12 +1,14 @@
 ---
 _db_id: 312
 content_type: project
-submission_type: link
+flavours:
+- none
 ready: true
-title: FreeCodeCamp - Object Orientated Programming
+submission_type: link
 tags:
-  - javascript
-  - oop
+- javascript
+- oop
+title: FreeCodeCamp - Object Orientated Programming
 ---
 
 Make an account here if you haven't already: https://www.freecodecamp.org/learn

@@ -1,12 +1,14 @@
 ---
 _db_id: 443
 content_type: project
+flavours:
+- none
 ready: true
-title: Learning How To Learn
 submission_type: link
 tags:
-  - soft-skills
-  - meta-cognition
+- soft-skills
+- meta-cognition
+title: Learning How To Learn
 ---
 
 This course will make you better at learning new things. It'll give you some new strategies and superpowers that will serve you well no matter where you go in life.

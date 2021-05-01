@@ -1,10 +1,9 @@
 ---
 _db_id: 321
 content_type: topic
-topic_needs_review: false
-
 ready: true
 title: FreeCodeCamp - Regular Expressions
+topic_needs_review: false
 ---
 
 Make an account here if you haven't already: https://www.freecodecamp.org/learn

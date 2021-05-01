@@ -9,6 +9,8 @@ prerequisites:
   soft: []
 ready: true
 submission_type: repo
+tags:
+- spring-boot
 title: Introduction to Spring Boot - part 1
 ---
 

@@ -9,10 +9,10 @@ prerequisites:
   - projects/git-exercises
 ready: true
 submission_type: link
+tags:
+- algrithms
+- clean-code
 title: Level 0 coding challenges
-tags: 
-  - algrithms 
-  - clean-code
 ---
 
 Complete these tasks in the correct language. If you are here to learn JavaScript, do them in JavaScript. If you have been told to use Python then use Python.

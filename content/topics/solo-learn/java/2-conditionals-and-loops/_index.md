@@ -6,10 +6,10 @@ prerequisites:
   - topics/solo-learn/java/1-basic-concepts
   soft: []
 ready: true
+tags:
+- java
 title: Solo Learn - Java - Module 2 -Conditionals and Loops
 topic_needs_review: false
-tags:
- - java
 ---
 
 Complete the above mentioned module on Solo Learn

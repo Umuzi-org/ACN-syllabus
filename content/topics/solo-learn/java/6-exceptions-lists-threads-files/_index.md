@@ -1,15 +1,17 @@
 ---
 _db_id: 452
 content_type: project
-sumbission_type: link
+flavours:
+- none
 prerequisites:
   hard:
   - topics/solo-learn/java/5-more-on-classes
   soft: []
 ready: true
-title: Solo Learn - Java - Module 6 - Exceptions, Lists, Threads & Files
+submission_type: link
 tags:
- - java
+- java
+title: Solo Learn - Java - Module 6 - Exceptions, Lists, Threads & Files
 ---
 
 Complete the above mentioned module on Solo Learn

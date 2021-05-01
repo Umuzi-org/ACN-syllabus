@@ -5,10 +5,10 @@ prerequisites:
   hard:
   - topics/solo-learn/sql/1-basic-concepts
 ready: true
+tags:
+- sql
 title: Solo Learn - SQL - Module 2 - Filtering, Functions, Subqueries
 topic_needs_review: false
-tags:
-    - sql
 ---
 
 Complete the above mentioned module on Solo Learn

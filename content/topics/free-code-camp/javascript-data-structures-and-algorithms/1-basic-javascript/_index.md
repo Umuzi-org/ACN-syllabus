@@ -1,11 +1,13 @@
 ---
 _db_id: 316
 content_type: project
-submission_type: link
+flavours:
+- none
 ready: true
+submission_type: link
+tags:
+- javascript
 title: FreeCodeCamp - Basic Javascript
-tags: 
-  - javascript
 ---
 
 Make an account here if you haven't already: https://www.freecodecamp.org/learn

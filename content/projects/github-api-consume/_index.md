@@ -10,9 +10,11 @@ prerequisites:
 ready: true
 story_points: 3
 submission_type: repo
-tags: [api, github, logical-operators]
+tags:
+- api
+- github
+- logical-operators
 title: Consume Github API
-
 ---
 
 In this project you'll make use of Github's awesome API. We chose Github for this project because:

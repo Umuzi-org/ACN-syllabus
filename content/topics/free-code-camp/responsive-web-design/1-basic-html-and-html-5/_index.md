@@ -1,13 +1,15 @@
 ---
 _db_id: 307
 content_type: project
+flavours:
+- none
 ready: true
+submission_type: link
 tags:
 - html
 - html5
 - responsive web design
 title: FreeCodeCamp - Basic HTML and HTML5
-submission_type: link
 ---
 
 Make an account here if you haven't already: https://www.freecodecamp.org/learn

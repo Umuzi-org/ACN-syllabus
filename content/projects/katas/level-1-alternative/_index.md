@@ -6,10 +6,10 @@ flavours:
 ready: true
 story_points: 3
 submission_type: repo
+tags:
+- algrithms
+- clean-code
 title: Level 1 coding challenges (alt)
-tags: 
-  - algrithms 
-  - clean-code
 ---
 
 These exercises are here to help you test out and demonstrate your knowledge of the basic flow control mechanisms and syntax for your language. These exercises are relevant whether you are doing Java, JavaScript, Python, Kotlin or any other modern language.
