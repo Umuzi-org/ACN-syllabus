@@ -2,6 +2,9 @@
 _db_id: 317
 content_type: topic
 ready: true
+tags:
+- javascript
+- es6
 title: FreeCodeCamp - ES6
 topic_needs_review: false
 ---

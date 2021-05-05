@@ -5,7 +5,13 @@ flavours:
 - none
 ready: true
 submission_type: link
+tags:
+- html
+- css
 title: FreeCodeCamp - CSS Flexbox
+prerequisites:
+  hard:
+  - topics/free-code-camp/responsive-web-design/5-responsive-web-design-principles
 ---
 
 Make an account here if you haven't already: https://www.freecodecamp.org/learn

@@ -7,9 +7,20 @@ tags:
 title: Intro to software architecture
 ---
 
-Software architecture is a pretty vast topic. This here is just scratching the surface.
+Software architecture is a pretty vast topic. This here is just scratching the surface. One good rule of thumb when you are starting out is:
 
-## Separate display logic from data logic
+**Architect your code so that it is testible.**
+
+If your code is easy to test then that has a bunch of benefits:
+- of course your code works, because you tested it
+- your code is broken down into small testible units so that you can test one thing at a time. This means that the code is reusable in different circumstances
+- your code is broken down into small clear things - clear code is a big deal 
+
+## Think about layers 
+
+Here's an example. Imagine you are writing an app that has a user interface. The user interacts with the gui and then the stuff drawn on the gui gets updated.
+
+This can be seperates out into multiple layers. YOu can think of a data layer and a gui layer. 
 
 If your data and your gui get all mixed up then things get very hard to test. Here's an approach you might consider:
 

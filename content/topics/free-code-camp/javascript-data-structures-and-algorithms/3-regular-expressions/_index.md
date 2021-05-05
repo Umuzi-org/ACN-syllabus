@@ -2,6 +2,8 @@
 _db_id: 321
 content_type: topic
 ready: true
+tags:
+- javascript
 title: FreeCodeCamp - Regular Expressions
 topic_needs_review: false
 ---

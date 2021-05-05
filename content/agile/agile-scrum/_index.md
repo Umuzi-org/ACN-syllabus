@@ -8,7 +8,7 @@ tags:
 title: Agile & Scrum
 ---
 
-#### Definition of Agile:
+#### Definition of Agile
 
 Agile project management is an iterative and incremental approach to delivering requirements throughout the project life cycle. At the core, agile projects should exhibit central values and behaviours of trust, flexibility, empowerment and collaboration.
 

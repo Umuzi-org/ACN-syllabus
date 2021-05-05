@@ -5,6 +5,8 @@ flavours:
 - none
 ready: true
 submission_type: link
+tags:
+- javascript
 title: FreeCodeCamp - Intermediate Algorithm Scripting
 ---
 

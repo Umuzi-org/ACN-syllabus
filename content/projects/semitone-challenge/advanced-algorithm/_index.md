@@ -14,6 +14,8 @@ ready: true
 submission_type: continue_repo
 title: semitone difference - Advanced algorithm
 weight: 3
+tags:
+- problem solving
 ---
 
 Adjust your `JamBuddy` class so that it can handle flats and sharps.

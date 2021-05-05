@@ -3,8 +3,14 @@ _db_id: 309
 content_type: project
 flavours:
 - none
+prerequisites:
+  hard:
+  - topics/free-code-camp/responsive-web-design/2-basic-css
 ready: true
 submission_type: link
+tags:
+- html
+- css
 title: FreeCodeCamp - Applied Visual Design
 ---
 

@@ -2,6 +2,8 @@
 _db_id: 313
 content_type: topic
 ready: true
+tags:
+- javascript
 title: FreeCodeCamp - Basic Algorithm Scripting
 topic_needs_review: false
 ---
