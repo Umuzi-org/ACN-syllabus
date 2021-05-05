@@ -121,3 +121,64 @@ Then that means there is a contentlink that is pointint to a file that doesn't e
 ## Syllabus Content
 
 Look inside the content directory. The documentation is composed of a bunch of markdown files (all named `_index.md`) with a lil metadata. Ok, a lot of metadata.
+
+### WINDOWS 10 USERS
+
+Ensure you have a compatible Linux terminal for windows, if not, checkout: https://ubuntu.com/tutorials/ubuntu-on-windows#1-overview
+
+Make sure your global Github details like your username and email is set up correctly. Run the following commands
+```
+git config --global user.name "Your username on Github"
+git config --global user.email "youremail@yourdomain.com"
+```
+Don't try to 'git clone --recursive git@github.com:Umuzi-org/ACN-syllabus.git' if you don't have a public SSH key in your Github account.
+If you are unsure, rather use:
+```
+git clone --recursive https://github.com/UserName_on_Github/ACN-syllabus.git
+```
+
+Now you can run the following two commands, the correct Hugo version should be installed after running the second
+command
+```
+sudo apt install golang
+./install_hugo.sh
+```
+Run the following
+```
+hugo serve -b "http://localhost:1313/"
+
+That's it :) now you'll be able to poke around the main site
+```
+Installing pipenv will probably be different depending on which Python you have, you must have nothing less than
+Python 3.
+```
+pip3 install pipenv
+pipenv install
+```
+If you get the error 'virtualenv.seed.via_app_data' after running pipenv install then you need to first do the following
+```
+pip3 uninstall virtualenv
+pip3 install pipenv
+pipenv install
+pipenv shell
+```
+It is the 'pipenv install' command which ensures that the correct depedencies are installed from the Pipfile in the repository.
+Do not install 'frontmatter' by yourself, run the 'pipenv install' command which will ensure that the correct frontmatter library
+is installed. Now you can run lint.py
+```
+python3 lint.py
+```
+
+You can also do all of this from the terminal of an IDE like Pycharm, again you will have to ensure
+that you install any dependencies from the Pipfile.  You will probably run into trouble when you try to
+run hugo, make sure to set the path to hugo, eg. C:\Users\UserName\Hugo\ in your system and user path variables.
+See https://www.youtube.com/watch?v=C04dlR1Ufj4\ for details.
+Also, when running lint.py the 'grep' command won't work as it is not a known Windows terminal command.
+Go to the lint.py file, you will need to comment out the line with the 'grep' command and rewrite using
+the 'findstr' command
+```
+#os.system('grep -r "contentlink-missing" public')
+ os.system('findstr "contentlink-missing" public')
+```
+DO NOT commit the changes you made to the lint.py file as this will have a massive adverse effect on everyone else
+who is running lint.py from a non Windows platform.
