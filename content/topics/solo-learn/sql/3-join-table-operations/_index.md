@@ -7,6 +7,8 @@ prerequisites:
 ready: true
 title: Solo Learn - SQL - Module 3 - JOIN, Table Operations
 topic_needs_review: false
+tags:
+- sql
 ---
 
 Complete the above mentioned module on Solo Learn
