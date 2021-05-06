@@ -2,6 +2,10 @@
 _db_id: 554
 content_type: topic
 ready: true
+tags:
+- django
+- javascript
+- python
 title: Django and Javascript
 ---
 

@@ -2,6 +2,10 @@
 _db_id: 624
 content_type: topic
 ready: true
+tags:
+- agile
+- kanban
+- prioritisation
 title: Kanban wastes
 ---
 

@@ -2,6 +2,9 @@
 _db_id: 86
 content_type: topic
 ready: true
+tags:
+- clean-code
+- python
 title: Clean Code for Data Science
 ---
 

@@ -18,7 +18,6 @@ tags:
 - node
 - ajax
 title: Add a little Ajax
-weight: 5
 ---
 
 There is no need to create a new git repo for this code submission. This is a continuation of your previous work.

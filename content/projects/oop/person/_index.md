@@ -74,3 +74,8 @@ When an object instance is created from a class, the class's constructor functio
 5. **Attributes** - Make sure that the class is using all of the attributes stated in the instructions above.
 6. **Multiple Interests, Commas and Spacing** - Make sure that the interests array attribute can take in multiple interests and they all get printed out seperated with a comma and space, and the last interest should have an ``and`` before it.
 7. **Component or not yet component** - If all of the instructions above have not been bet then the recruit should get a ``NYC`` with the instructions that have not been followed in his feedback.
+## Acceptance criteria
+
+A person might have many interests, or they might only have 1. If they are depressed then they might not be interested in anything at all. Make sure you can handle all cases! 
+
+Also, it's really imporant that you submit good clean code! MAke sure you name your variables clearly. Make sure you are following the convention of the langage you are using. Make sure your code in no way resembles spagetti.

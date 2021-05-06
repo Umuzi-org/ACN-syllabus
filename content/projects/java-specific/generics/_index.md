@@ -10,6 +10,8 @@ prerequisites:
   soft: []
 ready: true
 submission_type: repo
+tags:
+- generics
 title: Java Generics
 ---
 

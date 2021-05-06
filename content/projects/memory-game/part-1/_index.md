@@ -6,6 +6,9 @@ flavours:
 - typescript
 - any_frontend_framework
 - redux
+prerequisites:
+  hard:
+  - topics/basic-architecture-concepts
 ready: true
 story_points: 5
 submission_type: repo

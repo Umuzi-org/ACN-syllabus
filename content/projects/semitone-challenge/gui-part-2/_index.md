@@ -17,6 +17,9 @@ ready: true
 submission_type: continue_repo
 title: semitone difference - A gui that is more...awesome
 weight: 4
+tags:
+- html 
+- css
 ---
 
 Extend your simple gui with the following behavior:

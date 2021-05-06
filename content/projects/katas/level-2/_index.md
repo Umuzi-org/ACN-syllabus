@@ -10,6 +10,9 @@ prerequisites:
 ready: true
 story_points: 3
 submission_type: continue_repo
+tags:
+- algrithms
+- clean-code
 title: Level 2 coding challenges
 ---
 
