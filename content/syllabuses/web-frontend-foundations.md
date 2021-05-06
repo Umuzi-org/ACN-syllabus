@@ -16,7 +16,7 @@ title: Web frontend foundations
 - {{% contentlink path="topics/web-frontend/intro-to-web-design/" %}}
 - {{% contentlink path="projects/first-personal-website" %}}
 - {{% contentlink path="topics/free-code-camp/responsive-web-design/3-applied-visual-design" %}}
-- {{% contentlink path="topics/clean-code/" %}}
+- {{% contentlink path="workshops/general-coding-best-practices" %}}
 - {{% contentlink path="topics/jasmine-unit-tests" %}}
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/5-basic-data-structures" %}}
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/6-basic-algorithmic-scripting" %}}

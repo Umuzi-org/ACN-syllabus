@@ -9,7 +9,6 @@ _db_id: 7
 - {{% contentlink path="topics/solo-learn/java/conditionals-and-loops" %}}
 - {{% contentlink path="topics/solo-learn/java/arrays" %}}
 - {{% contentlink path="topics/clean-code/java" %}}
-- {{% contentlink path="topics/clean-code" %}}
 - {{% contentlink path="topics/how-to-ask-for-help-with-your-code" %}}
 - {{% contentlink path="projects/katas/level-2" flavour="java" %}}
 - {{% contentlink path="language-agnostic/intro-to-hackerrank" flavour="java" %}}
