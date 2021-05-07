@@ -404,3 +404,16 @@ Your repo should be all of the following:
 We just covered the basics here. Please make sure you understand this stuff. It's super important. Git might seem like a weird theoretical thing to a lot of you. It might seem completely unrelated to the actual job of writing code. But it's not. Git makes teamwork on dev teams possible. Without it we'd spend more time shouting at each other than writing useful code. So learn it. Be comfortable with it. When we start working in teams later on all will be made clear.
 
 If you are curious now, spend some time googling git branching strategies. We use the feature branching strategy here. We'll cover it in depth later on in the course.
+
+## Instructions For Reviewers
+
+- Ensure that there are 3 branches: main, history, and milkshake-flavours
+- The main branch should consist of 4 files: .gitignore, README.md, history.txt, and milkshakes.md
+- The history branch should consist of 2 files: README.md and history.txt.
+- The milkshake-flavours branch should consist of 2 files: README.md and milshakes.md.
+- The repo should have a minimum of 9 commits.
+- On the main branch:
+ 1. `.gitignore` file should have `ignore-me.db` and `/large-directory-that-should-be-local-only` in it.
+ 2. `README.md` should have `booya` in it. 
+ 3. `history.txt` should have the latest 1000 lines of commands typed on the person's local machine.
+ 4. `milkshakes.md` should have 3 milkshake flavours in it.
