@@ -61,6 +61,6 @@ Also, we'll be looking out for good developer habits. Please make sure you push 
 
 - [How to make a GitHub Page](https://pages.github.com/)
 - [CSS Grid](https://scrimba.com/g/gR8PTE)(Screencast tutorials)
-- [https://css-tricks.com/snippets/css/complete-guide-grid/](More info on CSS Grid)
+- [More info on CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Web Developer Portfolios to inspire you](https://medium.freecodecamp.org/15-web-developer-portfolios-to-inspire-you-137fb1743cae)
 - [Building a Data Science Portfolio](https://www.dataquest.io/blog/build-a-data-science-portfolio/)
