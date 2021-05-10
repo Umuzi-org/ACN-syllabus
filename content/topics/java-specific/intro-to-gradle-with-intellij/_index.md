@@ -2,6 +2,9 @@
 _db_id: 113
 content_type: topic
 ready: true
+tags:
+- gradle
+- java
 title: Introduction to Gradle
 ---
 

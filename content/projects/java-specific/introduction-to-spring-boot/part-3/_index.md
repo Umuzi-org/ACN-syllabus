@@ -12,6 +12,8 @@ prerequisites:
   soft: []
 ready: true
 submission_type: continue_repo
+tags:
+- spring-boot
 title: Introduction to Spring Boot - part 3
 ---
 

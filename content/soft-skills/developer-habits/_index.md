@@ -2,6 +2,8 @@
 _db_id: 444
 content_type: topic
 ready: true
+tags:
+- soft-skills
 title: developer-habits
 ---
 

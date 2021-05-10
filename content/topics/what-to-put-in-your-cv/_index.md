@@ -4,6 +4,7 @@ content_type: topic
 ready: true
 tags:
 - getting a job
+- professionalism
 title: What to put in your CV
 ---
 

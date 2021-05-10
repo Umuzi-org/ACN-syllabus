@@ -2,6 +2,9 @@
 _db_id: 447
 content_type: topic
 ready: true
+tags:
+- soft-skills
+- rational thinking
 title: Cognitive Biases
 ---
 

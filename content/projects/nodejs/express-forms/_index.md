@@ -21,8 +21,6 @@ title: Express, forms and templates
 weight: 3
 ---
 
-There is no need to create a new git repo for this code submission. This is a continuation of your previous work.
-
 ## create a basic html form
 
 Create an HTML form. This form will (eventually) be used to create Visitor fields in your mongo database. Your form should have the following fields:

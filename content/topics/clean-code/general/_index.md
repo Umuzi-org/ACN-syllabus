@@ -2,6 +2,8 @@
 _db_id: 89
 content_type: topic
 ready: true
+tags:
+- clean-code
 title: General Clean Code Guidelines
 ---
 
