@@ -2,6 +2,9 @@
 _db_id: 127
 content_type: topic
 ready: true
+tags:
+- soft-skills
+- communication
 title: How to ask for help with your code
 ---
 

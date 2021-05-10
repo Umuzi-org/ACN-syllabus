@@ -84,6 +84,7 @@ Get a bit creative:
 2. for loops and 2d arrays
 3. function calls and the order of execution of code
 4. classes and object instantiation
+5. tdd
 
 ## Why should the leader do the typing?
 

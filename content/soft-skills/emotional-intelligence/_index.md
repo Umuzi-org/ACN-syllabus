@@ -2,6 +2,9 @@
 _db_id: 446
 content_type: topic
 ready: true
+tags:
+- soft-skills
+- emotional intelligence
 title: Emotional Intelligence
 ---
 

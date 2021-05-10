@@ -4,7 +4,6 @@ We are on a mission to support as many code schools as we can. Learn more here:
 
 Learn more about the African Coding Network here:[African coding Network](https://www.africancoding.network/)
 
-
 This syllabus is a Hugo based static site (for now). But on top of that, it is the configuration of our Tilde learning platform. You can see [Tilde](https://github.com/Umuzi-org/Tilde) for more.  
 
 I'm sure you've heard of infrastructure-as-code, pipeline-as-code and other x-as-code things? Well, this is a syllabus-as-code. Our learning platform eats this up and generates a bunch of trello-like cards that move across the personal Kanban boards of students using the platform.
@@ -12,8 +11,6 @@ I'm sure you've heard of infrastructure-as-code, pipeline-as-code and other x-as
 In order to make this work, we need to be strict on the shape of the syllabus files. We have very specific naming and metadata conventions that contributors need to follow. We'll talk more about that later. But let's start by getting you set up :)
 
 This [video](https://www.youtube.com/watch?v=j5-uaSgIGI0&feature=youtu.be) will walk you trough the whole process. Or you can just read the docs.
-
-
 
 ## To contribute
 

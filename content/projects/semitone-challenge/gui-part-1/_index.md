@@ -15,6 +15,9 @@ ready: true
 submission_type: continue_repo
 title: semitone difference - Make a simple GUI
 weight: 2
+tags:
+- html 
+- css
 ---
 
 Create a basic web site that a user can use to interact with the JamBuddy class.

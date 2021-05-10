@@ -15,6 +15,9 @@ prerequisites:
 ready: true
 submission_type: continue_repo
 title: semitone difference - Add Redux
+tags:
+- problem solving
+- redux
 ---
 
 Add redux to your game. Everything to do with updating what is displayed based on your data should be handled using redux.

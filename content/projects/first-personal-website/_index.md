@@ -15,6 +15,7 @@ submission_type: link
 tags:
   - html
   - css
+  - responsive web design
 title: Build your first personal website
 ---
 

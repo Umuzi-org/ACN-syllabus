@@ -6,6 +6,9 @@ flavours:
 ready: true
 story_points: 3
 submission_type: repo
+tags:
+- algrithms
+- clean-code
 title: Level 1 coding challenges
 ---
 

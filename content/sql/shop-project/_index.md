@@ -5,7 +5,7 @@ flavours:
 - none
 prerequisites:
   hard:
-  - sql/topics/intro-to-relational-databases
+  - topics/solo-learn/sql/4-challenges
   - topics/intro-to-docker/
   soft: []
 ready: true
@@ -13,7 +13,7 @@ story_points: 3
 submission_type: repo
 tags:
 - sql
-title: SQL
+title: Shop Database using sql
 ---
 
 ## Installation:
@@ -28,9 +28,9 @@ title: SQL
 
 Save all of your instructions in a script file - you will submit this file on Gnomio and github.
 
-1. Create a database called "Umuzi".
+1. Create a database called "shop".
 
-2. Create the following tables in the Umuzi database:
+2. Create the following tables in the shop database:
 
    - Customers
    - Employees
