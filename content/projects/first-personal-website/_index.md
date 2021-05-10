@@ -2,19 +2,19 @@
 _db_id: 220
 content_type: project
 flavours:
-- none
+  - none
 prerequisites:
   hard:
-  - topics/free-code-camp/responsive-web-design/1-basic-html-and-html-5
-  - topics/free-code-camp/responsive-web-design/2-basic-css
-  - topics/what-to-put-in-your-cv
-  - topics/web-frontend/intro-to-web-design/
+    - topics/free-code-camp/responsive-web-design/1-basic-html-and-html-5
+    - topics/free-code-camp/responsive-web-design/2-basic-css
+    - topics/what-to-put-in-your-cv
+    - topics/web-frontend/intro-to-web-design/
 ready: true
 story_points: 3
 submission_type: link
 tags:
-- html
-- css
+  - html
+  - css
 title: Build your first personal website
 ---
 
@@ -58,9 +58,9 @@ Also, we'll be looking out for good developer habits. Please make sure you push 
 
 ### Links
 
-- How to make a GitHub Page : https://pages.github.com/
-- CSS Grid: https://scrimba.com/g/gR8PTE (Screencast tutorials)
-- https://css-tricks.com/snippets/css/complete-guide-grid/ (more info)
-- Web Developer Portfolios to inspire you (https://medium.freecodecamp.org/15-web-developer-portfolios-to-inspire-you-137fb1743cae)
-- Building a Data Science Portfolio (https://www.dataquest.io/blog/build-a-data-science-portfolio/)
-- Tips to include towards creating an effective Portfolio (https://www.freecodecamp.org/news/how-to-build-an-awesome-data-science-portfolio/)
+- [How to make a GitHub Page](https://pages.github.com/)
+- [CSS Grid](https://scrimba.com/g/gR8PTE) (Screencast tutorials)
+- [More info on CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [Web Developer Portfolios to inspire you](https://medium.freecodecamp.org/15-web-developer-portfolios-to-inspire-you-137fb1743cae)
+- [Building a Data Science Portfolio](https://www.dataquest.io/blog/build-a-data-science-portfolio/)
+- [Tips to include towards creating an effective Portfolio](https://www.freecodecamp.org/news/how-to-build-an-awesome-data-science-portfolio/)
