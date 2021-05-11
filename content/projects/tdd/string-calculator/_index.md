@@ -206,3 +206,13 @@ add("1,2,3//;\n1000,1;2")
 ### why is this important?
 
 - If you're wondering to yourself, "Why is this sooo important!?" take a look at {{% contentlink path="/topics/data_validation_and_verification/" %}}
+
+## Instructions For Reviewers
+
+- Look out for file structure. It might seem obvious, but people sometimes mess up the file structure of a TDD project. Refer to : **Set up your environment** which is at the top of this page.
+
+- Code should be clean, DRY and should follow the KISS(Keep It Simple, Stupid) principal - look out for these when reviewing. Also ensure that they have used a tool like Prettier or Black to format their code.
+
+- Make sure that the output is as per project instructions. test everything.
+
+- Make sure that the tests make sense, tests should be specific and useful.
