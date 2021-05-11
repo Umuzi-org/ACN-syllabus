@@ -5,16 +5,13 @@ flavours:
 - none
 prerequisites:
   hard:
-  - null
+  - topics/free-code-camp/responsive-web-design/4-applied-accessability
 ready: true
 submission_type: link
 tags:
 - html
 - css
 title: FreeCodeCamp - Responsive Web Design Principles
-prerequisites:
-  hard:
-    - topics/free-code-camp/responsive-web-design/4-applied-accessability
 ---
 
 Make an account here if you haven't already: https://www.freecodecamp.org/learn

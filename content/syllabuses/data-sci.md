@@ -6,6 +6,7 @@ _db_id: 2
 - {{% contentlink path="agile/agile-scrum" %}}
 - {{% contentlink path="topics/clean-code/python" %}}
 - {{% contentlink path="topics/how-to-ask-for-help-with-your-code" %}}
+- {{% contentlink path="topics/solo-learn/python/module-5-more-types" %}}
 - {{% contentlink path="projects/katas/level-2" flavour="python" %}}
 - {{% contentlink path="language-agnostic/intro-to-hackerrank" flavour="python" %}}
 - {{% contentlink path="projects/data-science-specific/data-wrangling" flavour="python" %}}
