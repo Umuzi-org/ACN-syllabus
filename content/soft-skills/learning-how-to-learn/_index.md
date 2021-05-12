@@ -24,3 +24,5 @@ This course takes 15 hours in total. Spread it out over a few days. If you try t
 This course takes some time and doing it all in one go will not make sense because then you wont learn the material well. When you start this card, assume you will be working on this course for no more than 3 hours per day.
 
 This course takes approximately 15 hours to complete. If you do 3 hours per day then you should finish in a week.
+
+Once you have completed this course take a screenshot of the completion message, upload it and submit the link on the project card
