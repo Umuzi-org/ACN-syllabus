@@ -178,3 +178,46 @@ eg `combine([11,22,33], [1,2,3])` should return
 ```
 [11,1,22,2,33,3]
 ```
+
+## Instructions for Reviewers
+
+- Ensure that every task has its own file, and branch.
+- Check if a specific task wants an output to be returned, if so the **return** keyword should be used to stop the execution of the function.
+- Check if a specific task wants an output to be printed, if so code should be outputted by using **print**, **console.log** or **System.out.println**, depending on the language used.
+
+**Task 1.1**
+
+- The instructions does not specify whether a value should be returned or printed. Therefore, either is competent.
+- The instructions also does not specify whether a function should be created. Therefore, if a function was created or only lines of code were written and it works, it is competent.
+- When a 1000 is the input, ensure that the output is 233168.
+
+**Task 1.2 and Task 1.3**
+
+- Ensure that the function takes in two integer arguments.
+- Ensure that the logical operators are correct.
+- Ensure that keywords(**not strings**) true or false are being returned.
+
+**Task 1.4**
+
+- Ensure that the function takes in an integer argument.
+- The number that you input should output that amount of hashes in rows and columns.
+
+
+**Task 1.5**
+
+- Ensure that the function takes in an integer argument.
+- When a positive number is the input, a right-angled triangle of hashes should be the output.
+- When a negative number is the input, an upside-down right-angled triangle of hashes should be the output.
+- All 3 sides of the triangle should the same amount as the input.
+
+**Task 1.6**
+
+- Ensure that an **array of strings** is being passed as an argument.
+- The function should take in any amount of strings.
+- If there are strings with the same length, all should be printed in "next line" form.
+
+**Task 1.7**
+
+- Ensure that two arrays are being passed as arguments.
+- Ensure that the array which is being outputted consists of alternating values of the two arrays that are being inputted.
+- Ensure that the function works with unequal array lengths.
