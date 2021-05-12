@@ -29,7 +29,6 @@ _db_id: 3
 - {{% contentlink path="topics/free-code-camp/responsive-web-design/5-responsive-web-design-principles" %}}
 - {{% contentlink path="topics/free-code-camp/responsive-web-design/6-css-flexbox" optional="1" %}}
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/3-regular-expressions" %}}
-- {{% contentlink path="projects/tdd/string-calculator" flavour="javascript" %}}
 - {{% contentlink path="projects/tdd/password-checker/part1" flavour="javascript" %}}
 - {{% contentlink path="topics/tech-terminology" %}}
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/8-functional-programming" %}}
@@ -38,3 +37,8 @@ _db_id: 3
 - {{% contentlink path="topics/js-and-node-specific/node" %}}
 - {{% contentlink path="language-agnostic/validate-id-number" flavour="javascript" %}}
 - {{% contentlink path="sql/shop-project" flavour="" %}}
+<<<<<<< HEAD
+=======
+- {{% contentlink path="projects/nodejs/express-forms" flavour="javascript" %}}
+- {{% contentlink path="projects/github-api-consume" flavour="javascript" %}}
+>>>>>>> develop
