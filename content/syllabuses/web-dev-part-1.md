@@ -37,8 +37,6 @@ _db_id: 3
 - {{% contentlink path="topics/js-and-node-specific/node" %}}
 - {{% contentlink path="language-agnostic/validate-id-number" flavour="javascript" %}}
 - {{% contentlink path="sql/shop-project" flavour="" %}}
-<<<<<<< HEAD
-=======
 - {{% contentlink path="projects/nodejs/express-forms" flavour="javascript" %}}
 - {{% contentlink path="projects/github-api-consume" flavour="javascript" %}}
 >>>>>>> develop
