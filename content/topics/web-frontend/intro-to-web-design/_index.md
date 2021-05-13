@@ -2,6 +2,8 @@
 _db_id: 73
 content_type: topic
 ready: true
+tags:
+- web design
 title: Introduction to web design
 ---
 
@@ -21,7 +23,7 @@ Web design is a Web development process that focuses on the look and feel of the
 are all considered and organized to create a website or web application that looks good and is easy to use.
 
 ### Layout & Responsive design
-_Layout and responsiveness are connected so while learning how to make your site responsivess you will learn different layouts to achieve responsiveness._
+_Layout and responsiveness are connected so while learning how to make your site responsive you will learn different layouts to achieve responsiveness._
 
 A responsive web site is one that changes shape / or layout to accommodate different devices. Since cellphones are so powerful these days it is usually considered best practice to design your site in a "mobile first" way. This means that you should first make sure that your site works well on a phone, then you make sure it works well on larger devices.
 

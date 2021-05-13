@@ -210,6 +210,12 @@ commit d2559d9758f3ec0f7928f6cbef705c6fa9679edf (HEAD -> milkshake-flavours)
 Author: Sheena O'Connell <sheena.oconnell@gmail.com>
 Date:   Tue Apr 23 15:25:07 2019 +0200
 
+    randon readme changes
+    
+commit l8543u7648f3ec0f7928f6cbef705c6fagv78dsb
+Author: Sheena O'Connell <sheena.oconnell@gmail.com>
+Date:   Tue Apr 23 15:25:07 2019 +0200
+
     added initial flavours
 
 commit a57585d3cf93e64c04e62e58dfe8151d191503cf (main)

@@ -6,7 +6,7 @@ flavours:
 pre: '<b> EASY: </b>'
 prerequisites:
   hard:
-  - projects/data-science-specific/data-visualisation
+  - projects/data-science-specific/data-visualisation/mobile-money-viz
   soft:
   - projects/data-science-specific/data-wrangling
 ready: true

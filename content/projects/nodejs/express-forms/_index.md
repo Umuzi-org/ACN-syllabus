@@ -10,7 +10,6 @@ prerequisites:
   - projects/nodejs/sql
   - projects/nodejs/file-io
   - topics/js-and-node-specific/expressjs
-  - workshops/intro-to-express
   soft: []
 ready: true
 story_points: 3
@@ -21,8 +20,6 @@ tags:
 title: Express, forms and templates
 weight: 3
 ---
-
-There is no need to create a new git repo for this code submission. This is a continuation of your previous work.
 
 ## create a basic html form
 

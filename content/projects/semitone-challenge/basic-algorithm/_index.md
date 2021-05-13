@@ -13,6 +13,8 @@ ready: true
 submission_type: repo
 title: semitone difference - basic algorithm
 weight: 1
+tags:
+- problem solving
 ---
 
 This is a multi-step project designed to level up many different skills.

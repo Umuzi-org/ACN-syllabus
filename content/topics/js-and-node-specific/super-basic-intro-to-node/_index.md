@@ -2,6 +2,10 @@
 _db_id: 141
 content_type: topic
 ready: true
+tags:
+- js
+- node
+- backend
 title: Super basic intro to Node
 ---
 

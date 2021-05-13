@@ -2,6 +2,8 @@
 _db_id: 183
 content_type: topic
 ready: true
+tags:
+- terminology
 title: The Tech Landscape Terminology
 ---
 

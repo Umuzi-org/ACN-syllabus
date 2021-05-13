@@ -1,0 +1,40 @@
+---
+title: Web Development - part 1
+_db_id: 3
+---
+
+- {{% contentlink path="agile/agile-scrum" %}}
+- {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/1-basic-javascript/"%}}
+- {{% contentlink path="workshops/big-picture-web-dev" %}}
+- {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/2-es6" %}}
+- {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/4-debugging" %}}
+- {{% contentlink path="topics/clean-code" %}}
+- {{% contentlink path="topics/js-and-node-specific/super-basic-intro-to-node" %}}
+- {{% contentlink path="topics/how-to-ask-for-help-with-your-code" %}}
+- {{% contentlink path="projects/katas/level-2" flavour="javascript" %}}
+- {{% contentlink path="language-agnostic/intro-to-hackerrank" flavour="javascript" %}}
+- {{% contentlink path="topics/free-code-camp/responsive-web-design/1-basic-html-and-html-5" %}}
+- {{% contentlink path="topics/free-code-camp/responsive-web-design/2-basic-css" %}}
+- {{% contentlink path="topics/free-code-camp/responsive-web-design/3-applied-visual-design" %}}
+- {{% contentlink path="workshops/intro-to-css-architecture" %}}
+- {{% contentlink path="projects/first-personal-website" %}}
+- {{% contentlink path="workshops/general-coding-best-practices" %}}
+- {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/7-object-orientated-programming" %}}
+- {{% contentlink path="topics/jasmine-unit-tests" %}}
+- {{% contentlink path="projects/oop/animals/part2"  flavour="javascript" %}}
+- {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/5-basic-data-structures" %}}
+- {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/6-basic-algorithmic-scripting" %}}
+- {{% contentlink path="projects/semitone-challenge/basic-algorithm"  flavour="javascript" %}}
+- {{% contentlink path="topics/free-code-camp/responsive-web-design/4-applied-accessability" %}}
+- {{% contentlink path="topics/free-code-camp/responsive-web-design/5-responsive-web-design-principles" %}}
+- {{% contentlink path="topics/free-code-camp/responsive-web-design/6-css-flexbox" optional="1" %}}
+- {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/3-regular-expressions" %}}
+- {{% contentlink path="projects/tdd/string-calculator" flavour="javascript" %}}
+- {{% contentlink path="projects/tdd/password-checker/part1" flavour="javascript" %}}
+- {{% contentlink path="topics/tech-terminology" %}}
+- {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/8-functional-programming" %}}
+- {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/9-intermediate-algorithmic-scripting" %}}
+- {{% contentlink path="topics/free-code-camp/responsive-web-design/7-css-grid" %}}
+- {{% contentlink path="topics/js-and-node-specific/node" %}}
+- {{% contentlink path="language-agnostic/validate-id-number" flavour="javascript" %}}
+- {{% contentlink path="sql/shop-project" flavour="" %}}

@@ -15,8 +15,13 @@ prerequisites:
   soft: []
 ready: true
 submission_type: continue_repo
+tags:
+- web-frontend
+- html
+- css
+- git-feature-branching
+- tdd
 title: extra features for your memory game
-weight: 4
 ---
 
 Please make sure you are following Git Feature Branching at this point. It's really important and really useful.

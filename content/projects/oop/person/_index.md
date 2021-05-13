@@ -75,8 +75,21 @@ Also, it's really imporant that you submit good clean code! MAke sure you name y
 
 1. **Naming convension** - Unclear names are bad, make sure variable names have clear meanings, stick to javacript camelCasing not Camel_Casing and name it what it is, the class and function should have the exact name and spelling as the example above.
 2. **Global variables** - are bad cause their values can be changed by any function and reduce flexibility of the program, it is suggested not to use global variables but instead use local.
+<<<<<<< HEAD
 3. **Commented code** - check if there are no commented code in the project file, commented code is not good as it can be a blocker and take up unecessary space.
 4. **Attributes** - Make sure that the class is using all of the attributes stated in the instructions above `name`, `age`, `gender` and `interests`.
 5. **Multiple Interests, Commas and Spacing** - Make sure that the interests array attribute can take in multiple interests and they all get printed out seperated with a comma and space, and the last interest should have an ``and`` before it.
 6. **Single Interest or no Interests** - Check if the class can work with single interests, and the string output should be different from the multiple interest output instead of `my interests are` it should be `my interest is`, also if there are no interests then the output should a string with the first 3 attributes name, age, and male `Hello, my name is Ryan, my gender is male and I am 30 years old.` and you could add something like `I have know interests`
 7. **Competent or not yet competent** - If all of the instructions above have not been bet then the recruit should get a ``NYC`` with the instructions that have not been followed in his feedback.
+=======
+3. **Dry and clean Code** - Make sure that the code is well documented, dry and clean. Clean code is easier to read and takes less time to fix bugs if there are any. Dry code means no repeating the same code, rather use a function and call it when needed. check if there are no repeated code anywhere.
+4. **Commented code** - check if there are no commented code in the project file, commented code is no good as it can be a blocker and take up unecessary space.
+5. **Attributes** - Make sure that the class is using all of the attributes stated in the instructions above.
+6. **Multiple Interests, Commas and Spacing** - Make sure that the interests array attribute can take in multiple interests and they all get printed out seperated with a comma and space, and the last interest should have an ``and`` before it.
+7. **Component or not yet component** - If all of the instructions above have not been bet then the recruit should get a ``NYC`` with the instructions that have not been followed in his feedback.
+## Acceptance criteria
+
+A person might have many interests, or they might only have 1. If they are depressed then they might not be interested in anything at all. Make sure you can handle all cases! 
+
+Also, it's really imporant that you submit good clean code! MAke sure you name your variables clearly. Make sure you are following the convention of the langage you are using. Make sure your code in no way resembles spagetti.
+>>>>>>> 749278ff96df9fa49c1f19db4e24a864e61a2461

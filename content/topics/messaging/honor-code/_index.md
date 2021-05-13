@@ -2,6 +2,9 @@
 _db_id: 588
 content_type: topic
 ready: true
+tags:
+- professionalism
+- ethics
 title: Honor Code
 ---
 
