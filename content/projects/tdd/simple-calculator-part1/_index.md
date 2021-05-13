@@ -161,3 +161,15 @@ multiply(1,3)
 multiply(-1,3)
 // should still return -3
 ```
+
+## Instructions for reviewer
+
+* File structure is important, expected file structure displayed above.
+* Code should be DRY code and clean code.
+* `__init__.py` not needed if repo is set up properly (python).
+* The point of tests in TDD isn't only to have tests but to have very specific tests. For a given input we don't just want to know that they pass or fail. So instead of one function that tests everything you want specific tests.
+* Use formatting tools like Black or Prettier.
+* Check for naming convention, use language's naming convention.
+* Do not use builtin function names as variable e.g. `sum`.
+* All tests should pass.
+* Tests should have descriptive names.
