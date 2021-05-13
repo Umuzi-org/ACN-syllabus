@@ -73,10 +73,6 @@ Also, it's really imporant that you submit good clean code! MAke sure you name y
 
 ## Instructions for reviewer
 
-1. **Naming convension** - Unclear names are bad, make sure variable names have clear meanings, stick to javacript camelCasing not Camel_Casing and name it what it is, the class and function should have the exact name and spelling as the example above.
-2. **Global variables** - are bad cause their values can be changed by any function and reduce flexibility of the program, it is suggested not to use global variables but instead use local.
-3. **Commented code** - check if there are no commented code in the project file, commented code is not good as it can be a blocker and take up unecessary space.
-4. **Attributes** - Make sure that the class is using all of the attributes stated in the instructions above `name`, `age`, `gender` and `interests`.
-5. **Multiple Interests, Commas and Spacing** - Make sure that the interests array attribute can take in multiple interests and they all get printed out seperated with a comma and space, and the last interest should have an ``and`` before it.
-6. **Single Interest or no Interests** - Check if the class can work with single interests, and the string output should be different from the multiple interest output instead of `my interests are` it should be `my interest is`, also if there are no interests then the output should a string with the first 3 attributes name, age, and male `Hello, my name is Ryan, my gender is male and I am 30 years old.` and you could add something like `I have know interests`
-7. **Competent or not yet competent** - If all of the instructions above have not been bet then the recruit should get a ``NYC`` with the instructions that have not been followed in his feedback.
+1. **Multiple Interests, Commas and Spacing** - Make sure that the interests array attribute can take in multiple interests and they all get printed out seperated with a comma and space, and the last interest should have an ``and`` before it also your class should contain and use all of the atributes above.
+2. **Single Interest or no Interests** - Check if the class can work with single interests, and the string output should be different from the multiple interest output instead of `my interests are` it should be `my interest is`, also if there are no interests then the output should a string with the first 3 attributes name, age, and male `Hello, my name is Ryan, my gender is male and I am 30 years old.` and you could add something like `I have know interests`
+3. **Competent or not yet competent** - If all of the instructions above have not been bet then the recruit should get a ``NYC`` with the instructions that have not been followed in his feedback.
