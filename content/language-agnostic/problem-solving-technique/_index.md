@@ -51,6 +51,12 @@ These wonderful articles explain this stuff really well. Please read them:
 - https://simpleprogrammer.com/solving-problems-breaking-it-down/
 - https://hackernoon.com/how-to-approach-any-coding-problem-9230f3ad6f9
 
+### General Problem solving
+
+The resources above are great resources for coding related problem solving techniques. But, problem solving is not unique only to coding. It is a skill to be practiced in everyday life. Please checkout the following content from MIT:
+
+- https://ccmit.mit.edu/problem-solving/
+
 ## Practice
 
 Of course, reading about code and watching other people code is great. But if you personally want to get good at this stuff: Practice practice practice.
