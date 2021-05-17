@@ -16,7 +16,12 @@ This [video](https://www.youtube.com/watch?v=j5-uaSgIGI0&feature=youtu.be) will 
 
 We are honoured by any contributions you may want to make.
 There are lots of ways to contribute. You can improve the instructions on a specific project, add extra info to some metadata, or spin up a whole new curriculum, if interested, take a minute to read our [contribution guidelines and instructions document](https://github.com/Umuzi-org/ACN-syllabus/blob/develop/contribute.md) for any information about contributing to the project.
-
+## Initial setup
+Make sure your global Github details like your username and email is set up correctly. Run the following commands
+```
+git config --global user.name "Your username on Github"
+git config --global user.email "youremail@yourdomain.com"
+```
 ## To clone this repo
 
 There is a submodule in here so clone recursively:
@@ -126,11 +131,9 @@ Look inside the content directory. The documentation is composed of a bunch of m
 
 Ensure you have a compatible Linux terminal for windows, if not, checkout: https://ubuntu.com/tutorials/ubuntu-on-windows#1-overview
 
-Make sure your global Github details like your username and email is set up correctly. Run the following commands
-```
-git config --global user.name "Your username on Github"
-git config --global user.email "youremail@yourdomain.com"
-```
+Make sure your global Github details like your username and email is set up correctly. See above for details on setting up
+your global username and email on terminal.
+
 Don't try to 'git clone --recursive git@github.com:Umuzi-org/ACN-syllabus.git' if you don't have a public SSH key in your Github account.
 If you are unsure, rather use:
 ```
