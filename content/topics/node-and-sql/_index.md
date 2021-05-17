@@ -1,5 +1,5 @@
 ---
 _db_id: 44
-content_type: workshop
+content_type: topic
 title: Introduction to Node and SQL
 ---

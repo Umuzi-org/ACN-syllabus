@@ -1,6 +1,6 @@
 ---
 _db_id: 34
-content_type: workshop
+content_type: topic
 date: 2019-03-19 16:50:16+02:00
 title: Node Sync/Async
 weight: 15

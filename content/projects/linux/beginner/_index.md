@@ -8,7 +8,6 @@ prerequisites:
   - topics/linux/intro-to-linux
   - topics/linux/intro-to-bash
   soft:
-  - workshops/intro-to-linux
 story_points: 1
 submission_type: repo
 tags:

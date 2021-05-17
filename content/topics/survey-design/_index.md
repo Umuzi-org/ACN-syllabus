@@ -1,7 +1,6 @@
 ---
 _db_id: 33
-content_type: workshop
-ready: true
+content_type: topic
 tags:
 - surveys
 title: Survey design

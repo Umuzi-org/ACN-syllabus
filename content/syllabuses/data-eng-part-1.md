@@ -7,7 +7,7 @@ _db_id: 4
 - {{% contentlink path="agile/agile-scrum" %}}
 - {{% contentlink path="topics/clean-code/python" %}}
 - {{% contentlink path="topics/how-to-ask-for-help-with-your-code" %}}
-- {{% contentlink path="workshops/big-picture-web-dev" %}}
+- {{% contentlink path="topics/big-picture-web-dev" %}}
 - {{% contentlink path="projects/katas/level-2" flavour="python" %}}
 - {{% contentlink path="language-agnostic/intro-to-hackerrank" flavour="python"%}}
 - {{% contentlink path="workshops/general-coding-best-practices" %}}

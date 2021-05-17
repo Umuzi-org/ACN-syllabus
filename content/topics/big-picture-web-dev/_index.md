@@ -6,4 +6,4 @@ tags:
 title: Big Picture of Web Dev
 ---
 
-Ask Ryan for the video ;)
+{{< youtube Chu8nkdYUYw >}}
