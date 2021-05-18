@@ -6,7 +6,6 @@ flavours:
 ready: true
 submission_type: link
 tags:
-
 - data structures
 - algorithms
 - problem solving
