@@ -6,9 +6,11 @@ flavours:
 ready: true
 submission_type: link
 tags:
+
 - data structures
 - algorithms
 - problem solving
+
 title: Get started with Hackerrank
 ---
 
@@ -25,6 +27,10 @@ When you go for job interviews as a coder, employers will often expect you to so
 I once had to solve a whole lot of tricky problems with 3 senior technical staff members looming over me at the same time. True story. It was ok though, I'd even say it was fun. Because I was prepared.
 
 When it comes to leveling up your problem solving abilities, the earlier you start the better. The tricks you learn by completing Hackerrank problems will just make your life better.
+
+Speaking about Problem solving... Before you begin with Hackerrank, please have a look at the following content first:
+
+- https://ccmit.mit.edu/problem-solving/
 
 ## Instructions
 
