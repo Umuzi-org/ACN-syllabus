@@ -59,22 +59,17 @@ Also, we'll be looking out for good developer habits. Please make sure you push 
 
 ### Links
 
-- How to make a GitHub Page : https://pages.github.com/
-- CSS Grid: https://scrimba.com/g/gR8PTE (Screencast tutorials)
-- https://css-tricks.com/snippets/css/complete-guide-grid/ (more info)
-- Web Developer Portfolios to inspire you (https://medium.freecodecamp.org/15-web-developer-portfolios-to-inspire-you-137fb1743cae)
-
-* Building a Data Science Portfolio (https://www.dataquest.io/blog/build-a-data-science-portfolio/)
+- [How to make a GitHub Page](https://pages.github.com/)
+- [CSS Grid](https://scrimba.com/g/gR8PTE) (Screencast tutorials)
+- [More info on CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [Web Developer Portfolios to inspire you](https://medium.freecodecamp.org/15-web-developer-portfolios-to-inspire-you-137fb1743cae)
+- [Building a Data Science Portfolio](https://www.dataquest.io/blog/build-a-data-science-portfolio/)
+- [Tips to include towards creating an effective Portfolio](https://www.freecodecamp.org/news/how-to-build-an-awesome-data-science-portfolio/)
 
 ## Instructions for reviewer 
-Build your first personal website project
 
-- Read the project instructions first and see what they require
-- Have a look at some website examples online
-- The link submitted should direct you straight to the website [some links will be in the readme file which is okay]
-- Everything should be linked correctly [social media accounts, work profiles like (github,linkedIN), CV, portfolio/projects,etc] 
-- You should see [About me, skills,contact, etc] as described in the instructions. These should direct you to the right place
+- The link submitted should direct you straight to the website
+- Everything should be linked correctly [social media accounts, work profiles like (github,linkedIN), CV, portfolio/projects,pages] 
 - Font and text size should be very clear [makes reading efficient]
-- Information should be relevant according to what the instructions require
 - They should make use of the entire web page [work spaced out and not squashed]
-- IT SHOULD BE RESPONSIVE TO ALL SCREEN SIZES [CSS Grid should be used]
+- It should be responsive to all screen sizes 
