@@ -72,3 +72,43 @@ Import the [MDG data](MDG_Export_20191227.csv) to a Jupyter Notebook. You will n
 - Is the relationship statistically significant? Report the appropriate statistic(s) to support your answer.
 
 13. Calculate the Spearman Rank-Order Correlation Coefficient. This test only looks at the _order_ of the categories, not the _values_. The Spearman Rank-Order Coefficient is therefore not influenced by non-normality of variables or outliers. How do the results of this test compare the results of the Pearson's correlation?
+
+## Instructions for reviewer
+
+1. A recruit should be able to find any problems in the dataset without printing out the entire dataset like
+   one would do in an Excel spreadsheet for example.  One thing to check for is changing the way pandas prints
+   a dataset, things such as pd.set_option( ).
+   
+2. Recruits should understand the difference between a missing value and a NaN value.  It seems that students use
+   the terminology interchangeably.
+   
+3. Recruits need to be able to make the correct deductions following commands such as .info( ) and .describe( ). 
+   Sometimes recruits will use these commands since they know it is required of them, but they are not entirely 
+   comfortable with what is presented to them by these commands.
+   
+4. How do recruits answer basic questions such as 'How many countries are represented'.  If it is a case of endless
+   'for' loops and 'if' statements then the recruit is not comfortable with the basic functionality which pandas or
+   numpy provides.
+   
+5. Does the recruit clean the dataframe, impute missing values and set the dataframe in a neat order at the beginning
+   of the project.  If not, the recruit will continue to create sub-dataframes for each question to follow.  This is
+   bad practice.
+   
+6. Recruits should be comfortable in answering questions such as 'Who are the top and bottom five countries in terms of
+   CO2 emissions in 1990, and what are their emissions' using standard pandas functionality such as .nlargest( ),
+   .contains( ), .groupby( ).  When recruits don't understand how to use these functions as a collective they revert
+   to things such as printing out an entire dataframe or finding the answer through a series of loops.
+   
+7. Any plots that are to be done should be neat and easily readable.  The plot must have a heading, the labels should
+   be in bold, the x and y axes should make sense (Multipliers should be added if necessary).
+   
+8. Most recruits have no problem in calculating the standard error or the standard deviation in the mean, however,
+   when they have to explain their findings they find it difficult to do so since they do not thoroughly grasp the 
+   underlying statistical concepts, or they have forgotten their true meaning since they last studied the topic.
+   
+9. Pearson coefficient, Spearman coefficient, correlation coefficient, p-value, Null hypothesis and Alternative hypothesis.  
+   This is where most recruits have major difficulty.  They can find the answers to the questions through the code easy 
+   enough, but they cannot clearly and simply explain what these terms mean and how they all work together, when to accept
+   or reject a Null hypothesis, if the p-value is small, but the Null hypothesis is stated not as a negative but as
+   a positive, should I still reject the Null hypothesis?  These are the kind of questions recruits should be
+   comfortable to answer.
