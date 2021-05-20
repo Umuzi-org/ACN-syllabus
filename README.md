@@ -16,6 +16,13 @@ This [video](https://www.youtube.com/watch?v=j5-uaSgIGI0&feature=youtu.be) will 
 
 We are honoured by any contributions you may want to make.
 There are lots of ways to contribute. You can improve the instructions on a specific project, add extra info to some metadata, or spin up a whole new curriculum, if interested, take a minute to read our [contribution guidelines and instructions document](https://github.com/Umuzi-org/ACN-syllabus/blob/develop/contribute.md) for any information about contributing to the project.
+
+## running locally
+
+This is a Hugo based application.
+
+**PLEASE NOTE** We are using hugo version 0.51. We have run into some annoying problems when upgrading hugo in the past so please just use this version.
+If you are tempted to give us a PR that upgrades this to the latest version of hugo, PLEASE DONT. The plan is to upgrade this all to use Eleventy in the near future.
 ## Initial setup
 Make sure your global Github details like your username and email is set up correctly. Run the following commands in
 your terminal.
@@ -37,14 +44,6 @@ Eg:
 ```
 git clone --recursive git@github.com:Umuzi-org/ACN-syllabus.git
 ```
-
-## running locally
-
-This is a Hugo based application.
-
-**PLEASE NOTE** We are using hugo version 0.51. We have run into some annoying problems when upgrading hugo in the past so please just use this version.
-If you are tempted to give us a PR that upgrades this to the latest version of hugo, PLEASE DONT. The plan is to upgrade this all to use Eleventy in the near future.
-
 ### To get yourself set up on a Debian based machine (linux ubuntu/mint)
 
 ```
@@ -128,12 +127,7 @@ public/syllabuses/data-eng-boot/index.html:  <span class="contentlink-missing" d
 ```
 
 Then that means there is a contentlink that is pointint to a file that doesn't exist. Did the file move? Was it deleted? Is something misspelled?
-
-## Syllabus Content
-
-Look inside the content directory. The documentation is composed of a bunch of markdown files (all named `_index.md`) with a lil metadata. Ok, a lot of metadata.
-
-### WINDOWS 10 USERS
+## WINDOWS 10 USERS
 
 Ensure you have a compatible Linux terminal for windows, if not, checkout: https://ubuntu.com/tutorials/ubuntu-on-windows#1-overview
 
@@ -182,3 +176,6 @@ the 'findstr' command
 ```
 DO NOT commit the changes you made to the lint.py file as this will have a massive adverse effect on everyone else
 who is running lint.py from a non Windows platform.
+## Syllabus Content
+
+Look inside the content directory. The documentation is composed of a bunch of markdown files (all named `_index.md`) with a lil metadata. Ok, a lot of metadata.
