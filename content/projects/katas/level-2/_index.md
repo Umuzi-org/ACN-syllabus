@@ -82,6 +82,11 @@ Negative numbers should still print things upside down. Eg:
   #
 ```
 
+### Up for a Challenge?
+This section is not compulsory. If you do this we’ll think you’re cool.
+
+Add some functionality to `triangle` so that an error/exception gets raised if an incorrect mode is entered.
+
 ## Task 2.3
 
 Write a function that takes a list of strings an prints them as columns, with a single space between the columns
