@@ -1,6 +1,6 @@
 ---
-_db_id: 56
-title: Data Engineering - part 2
+_db_id: 58
+title: Data Engineering - part 2 (Old Mutual)
 ---
 
 - {{% contentlink path="projects/data-science-specific/data-wrangling" flavour="python" %}}
@@ -19,7 +19,7 @@ title: Data Engineering - part 2
 - {{% contentlink path="projects/python-specific/sqlalchemy-migrations" flavour="python" %}}
 - {{% contentlink path="projects/python-specific/flask-rest-api/part-1" flavour="python" %}}
 - {{% contentlink path="projects/python-specific/mongo" flavour="python" %}}
-- {{% contentlink path="projects/rabbitmq" flavour="python" %}}
-- {{% contentlink path="projects/dags-with-airflow" flavour="python" %}}
 - {{% contentlink path="topics/data-infrastructure/choosing-a-task-queue" %}}
 - {{% contentlink path="topics/optimizations-and-big-o/" %}}
+
+content/docker/flask-and-docker

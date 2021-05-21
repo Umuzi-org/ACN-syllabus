@@ -7,7 +7,7 @@ prerequisites:
   hard:
   - topics/linux/intro-to-linux
   - topics/linux/intro-to-bash
-  soft:
+  soft: null
 story_points: 1
 submission_type: repo
 tags:

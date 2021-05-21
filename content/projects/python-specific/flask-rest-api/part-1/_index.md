@@ -27,7 +27,7 @@ What you need is a profound apprectation for what an API is and how it works.
 
 ## Why Flask?
 
-Firstly Flask is simple compared to Django. You can jump right in and learn the API lessons we are trying to teach here. The lessons you learn in Flask are very transferrable - if you do get into Django later on then you'll have a good understanding of its foundations by default.
+Firstly Flask is simple compared to Django. You can jump right in and learn the API lessons we are trying to teach here. The lessons you learn in Flask are very transferrable - if you do get into Django later on then you'll have a good understanding of its foundations by default. 
 
 ## Let's go
 
@@ -44,7 +44,7 @@ For every computer we'll need to know:
 - hard drive space
 - form-factor (mini, mini,etc)
 
-Note that some of the fields can only allow certain values. This is often called enumeration.
+Note that some of the fields can only allow certain values. This is often called enumeration. 
 
 Expose some REST api endoints. The content type must be json.
 

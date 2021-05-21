@@ -1,7 +1,7 @@
 ---
 _db_id: 14
 content_type: topic
-title: Clean Code
+title: Clean Code index
 ---
 
 > “_Any fool can write code that a computer can understand.

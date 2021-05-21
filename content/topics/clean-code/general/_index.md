@@ -141,5 +141,3 @@ If you don't code defensively your code might for example fail to complete its w
    - If a function is more than 30 lines of code consider breaking it down
    - If you keep using the word and when describing a function consider breaking it down
  - Don't use global variables.
-
-

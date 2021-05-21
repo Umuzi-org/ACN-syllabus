@@ -23,7 +23,7 @@ You are required to create a back-end service that will help capture basic infor
 
 ## database setup
 
-1. Set up a postgresql database on your computer. Please use Docker to do this. You can find more information here: {{% contentlink path="topics/intro-to-docker" %}}
+1. Set up a postgresql database on your computer. Please use Docker to do this. You can find more information here: {{% contentlink path="docker/intro-to-docker" %}}
 2. Create a table inside the database and name it Visiters.
 3. The table must contain the following fields :
 
