@@ -149,4 +149,12 @@ Please don't re-implement the same check in two different places. Good code is D
 
 ## Java Resources
 
+## Instructions for reviewers
+
 - https://howtodoinjava.com/junit5/expected-exception-example/
+
+1. **Conditions** - There are 7 conditions above, so make sure that all conditions are being used for both of the functions passwordIsValid and PasswordStrength. 
+2. **Error messages** - Make sure the passwordIsValid function should throw the relevant error messages and should match the 7 conditions above (word-for-word). The error messages can all be used in an object and be called from the tests and functions.
+3. **Count conditions and what to return** - For passwordStrength function, if condition 1 and 2 is not met and all the other conditions are met then the function should return Invalid. e.g. if I pass in this password P@ssw 12 then the function should return Invalid cause condition 2 is not met password should be longer than 8 characters.
+4. **Testing** - Make sure that the spec file contains multiple test cases that are not short and check if every condition is working correctly for both functions and the relevant error messages are used. The tests should prove that the functions are working correctly and the code cannot break. e.g.
+`P$$12 A` should fail for both functions, for PasswordIsValid the relevant error message should be thrown and for passwordStrength `Invalid` should be returned.
