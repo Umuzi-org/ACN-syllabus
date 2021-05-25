@@ -10,6 +10,11 @@ prerequisites:
   soft: []
 ready: true
 submission_type: repo
+tags:
+- tdd
+- logging
+- exception-handling
+- log4j
 title: File IO + Logging + Errors
 ---
 
