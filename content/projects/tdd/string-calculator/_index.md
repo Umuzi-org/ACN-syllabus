@@ -209,10 +209,12 @@ add("1,2,3//;\n1000,1;2")
 
 ## Instructions For Reviewers
 
-- Tests are nessesary for this project. Proper testing to be followed. If someone uses mocks and spies - that is incompetent.
+- Proper TDD to be followed. Mocks and Spies are not needed for this project.
 
-- Make sure that the output is as per project instructions. Proper error handling to be used. no `print`, `console.log`. an error is to be thrown when needed and a value returned when needed.
+- Proper error handling to be used. no `print`/`console.log`. an exception is to be thrown when needed and a value returned when needed.
 
-- Ensure that the add function takes in the correct data-type as argument - the datatype should be a string.
+- Ensure that the add function the takes a string as an argument.
 
 - There is to be only one function. The `add()` function.
+
+- Understanding of regular expression methods should be demonstrated within the project.
