@@ -60,3 +60,19 @@ You will be expected to properly test your code. You can use whatever testing fr
 
 - https://www.guru99.com/introduction-to-database-sql.html
 - https://www.w3schools.com/sql/sql_intro.asp
+
+## Instructions for reviewers
+
+- Connection strings should never be exposed. Ensure that the `.dotenv` module has been utilized.
+
+- The `.dotenv` file should exist in the `.gitignore` file.
+
+- Ensure that `Docker` and `docker-compose` have been used. The `docker-compose.yml` file should be at the root of the project.
+
+- Ensure that the proper data type is returned for each function.
+
+- Ensure that `Pool.connect || Client.connect` and `Pool.end || Client.end` is used correctly. there is generally no need to for opening and closing your connection inside every function.
+
+- Ensure the use of `return`, not `console.log`.
+
+- When it comes to testing for this project, have a look at {% contentLink path="topics/unit-testing-mocks-and-spies" %} (jasmine specific), and make sure that mocks and spies are utilized properly.
