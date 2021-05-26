@@ -23,14 +23,14 @@ This is a Hugo based application.
 
 **PLEASE NOTE** We are using hugo version 0.51. We have run into some annoying problems when upgrading hugo in the past so please just use this version.
 If you are tempted to give us a PR that upgrades this to the latest version of hugo, PLEASE DONT. The plan is to upgrade this all to use Eleventy in the near future.
-## Initial setup
+### Initial setup
 Make sure your global Github details like your username and email is set up correctly. Run the following commands in
 your terminal.
 ```
 git config --global user.name "Your username on Github"
 git config --global user.email "youremail@yourdomain.com"
 ```
-## To clone this repo
+### To clone this repo
 Don't try to 'git clone --recursive git@github.com:Umuzi-org/ACN-syllabus.git' if you don't have a public SSH key in your Github account.
 If you are unsure, rather use:
 ```
@@ -127,7 +127,7 @@ public/syllabuses/data-eng-boot/index.html:  <span class="contentlink-missing" d
 ```
 
 Then that means there is a contentlink that is pointint to a file that doesn't exist. Did the file move? Was it deleted? Is something misspelled?
-## WINDOWS 10 USERS
+### WINDOWS 10 USERS
 
 Ensure you have a compatible Linux terminal for windows, if not, checkout: https://ubuntu.com/tutorials/ubuntu-on-windows#1-overview
 
