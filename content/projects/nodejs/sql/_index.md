@@ -75,4 +75,4 @@ You will be expected to properly test your code. You can use whatever testing fr
 
 - Ensure the use of `return`, not `console.log`.
 
-- When it comes to testing for this project, have a look at {% contentLink path="topics/unit-testing-mocks-and-spies" %} (jasmine specific), and make sure that mocks and spies are utilized properly.
+- When it comes to testing for this project, have a look at {{% contentlink path="topics/unit-testing-mocks-and-spies" %}} (jasmine specific), and make sure that mocks and spies are utilized properly.
