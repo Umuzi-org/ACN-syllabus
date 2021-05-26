@@ -9,7 +9,7 @@ ready: false
 submission_type: link
 tags:
 - ncit
-title: 'NCIT Summative Assessment: Module 1 & 2'
+title: 'NCIT Summative Assessment: 1'
 ---
 
 Please do the following:
