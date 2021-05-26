@@ -215,6 +215,6 @@ add("1,2,3//;\n1000,1;2")
 
 - Ensure that the add function the takes a string as an argument.
 
-- The function that needs to be constatntly updated is the `add()` function. It's even better if the `add()` function relies on other tiny functions.
+- The function that needs to be constantly updated is the `add()` function. It's even better if the `add()` function relies on other tiny functions.
 
 - Understanding of regular expression methods should be demonstrated within the project.
