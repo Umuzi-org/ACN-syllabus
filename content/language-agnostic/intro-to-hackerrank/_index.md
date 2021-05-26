@@ -9,6 +9,9 @@ tags:
 - data structures
 - algorithms
 - problem solving
+prerequisites:
+  hard:
+  - language-agnostic/problem-solving-technique
 title: Get started with Hackerrank
 ---
 
