@@ -65,13 +65,13 @@ You will be expected to properly test your code. You can use whatever testing fr
 
 - Connection strings should never be exposed. Ensure that the `.dotenv` module has been utilized.
 
-- The .dotenv file should not be present in the repo and should be specifically excluded through use of .gitignore.
+- The `.dotenv` file should not be present in the repo and should be specifically excluded through use of `.gitignore.`
 
-- Ensure that `Docker` and `docker-compose` have been used. The `docker-compose.yml` file should be at the root of the project.
+- Ensure that Docker and docker-compose have been used. The `docker-compose.yml` file should be at the root of the project.
 
 - Ensure that the proper data type is returned for each function.
 
-- If used in the project, Ensure that `Pool.connect || Client.connect` and `Pool.end || Client.end` is used correctly. There is generally no need to for opening and closing your connection inside every function
+- If used in the project, Ensure that `Pool.connect || Client.connect` and `Pool.end || Client.end` is used correctly. There is generally no need to for opening and closing your connection inside every function.
 
 - Ensure the use of `return`, not `console.log`.
 
