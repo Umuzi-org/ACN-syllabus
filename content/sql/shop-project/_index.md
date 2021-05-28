@@ -6,7 +6,7 @@ flavours:
 prerequisites:
   hard:
   - topics/solo-learn/sql/4-challenges
-  - topics/intro-to-docker/
+  - docker/intro-to-docker/
   soft: []
 ready: true
 story_points: 3
