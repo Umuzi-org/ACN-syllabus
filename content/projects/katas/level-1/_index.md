@@ -181,10 +181,6 @@ eg `combine([11,22,33], [1,2,3])` should return
 
 ## Instructions for Reviewers
 
-- Ensure that every task has its own file, and branch.
-- Check if a specific task wants an output to be returned, if so the **return** keyword should be used to stop the execution of the function.
-- Check if a specific task wants an output to be printed, if so code should be outputted by using **print**, **console.log** or **System.out.println**, depending on the language used.
-
 **Task 1.1**
 
 - The instructions does not specify whether a value should be returned or printed. Therefore, either is competent.
@@ -194,8 +190,6 @@ eg `combine([11,22,33], [1,2,3])` should return
 **Task 1.2 and Task 1.3** 
 
 - Ensure that keywords(**not strings**) true or false are being returned.
-
-**Task 1.4 and Task 1.5** is pretty straight forward.
 
 **Task 1.6** 
 
