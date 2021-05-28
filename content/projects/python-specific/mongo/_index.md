@@ -9,7 +9,13 @@ prerequisites:
   soft: []
 ready: true
 submission_type: repo
-tags: []
+tags: 
+- docker
+- mongodb
+- postgresql
+- .yaml
+- tdd
+- unit-testing
 title: Python and MongoDB
 ---
 

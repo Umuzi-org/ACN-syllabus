@@ -9,6 +9,15 @@ prerequisites:
   soft:
   - topics/data-science-specific/intro-to-google-colab
 submission_type: repo
+tags:
+- virtual-environments
+- jupyter-notebook
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- scipy
+- scikit-learn
 title: A Visual History of Nobel Prize Winners
 ---
 

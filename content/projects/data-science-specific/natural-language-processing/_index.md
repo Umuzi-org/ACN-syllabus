@@ -13,6 +13,12 @@ story_points: 21
 submission_type: repo
 tags:
 - nlp
+- pandas
+- numpy
+- statistics
+- feature-selection
+- sklearn
+- regular expressions
 title: Natural language processing
 ---
 

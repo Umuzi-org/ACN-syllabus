@@ -15,6 +15,9 @@ story_points: 5
 submission_type: repo
 tags:
 - oop-data-sci
+- plotly
+- seaborn
+- sklearn
 title: OOP for data science
 ---
 

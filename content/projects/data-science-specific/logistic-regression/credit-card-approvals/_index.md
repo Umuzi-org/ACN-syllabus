@@ -17,6 +17,11 @@ story_points: 2
 submission_type: repo
 tags:
 - datacamp-logistic-regression
+- sklearn
+- pandas
+- numpy
+- confusion-matrices
+- data-wrangling
 title: Predict credit card approvals
 ---
 

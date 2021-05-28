@@ -15,6 +15,9 @@ story_points: 13
 submission_type: repo
 tags:
 - simple-linear-regression
+- probability-statistics
+- plotly
+- seaborn
 title: Cross-validation & Simple Linear Regression
 ---
 

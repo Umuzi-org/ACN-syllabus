@@ -14,6 +14,10 @@ story_points: 8
 submission_type: repo
 tags:
 - data-visualisation-mobile-money
+- statistics
+- probability-theory
+- pandas
+- virtual-environments
 title: Financial Services Use in Tanzania
 ---
 

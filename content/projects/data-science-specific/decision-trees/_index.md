@@ -16,6 +16,11 @@ story_points: 8
 submission_type: repo
 tags:
 - decision-trees
+- plotly
+- seaborn
+- sklearn
+- pandas
+- feature-selection-process
 title: Decision Trees
 ---
 

@@ -10,7 +10,13 @@ prerequisites:
   soft: []
 ready: true
 submission_type: repo
-tags: []
+tags:
+- flask
+- django
+- tdd
+- json
+- html
+- sqlalchemy
 title: create a REST api to interact with actual database
 ---
 

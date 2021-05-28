@@ -11,6 +11,10 @@ ready: true
 submission_type: repo
 tags:
 - apache-airflow
+- postgresql
+- sql
+- sqlite
+- .gitignore
 title: DAGs with Airflow
 ---
 

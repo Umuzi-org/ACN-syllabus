@@ -17,6 +17,10 @@ story_points: 8
 submission_type: repo
 tags:
 - kmeans
+- sklearn
+- pandas
+- matplotlib
+- confusion-matrices
 title: K-Means Clustering Assignment
 ---
 

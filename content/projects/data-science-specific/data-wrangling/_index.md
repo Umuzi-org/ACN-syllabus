@@ -15,6 +15,9 @@ story_points: 5
 submission_type: repo
 tags:
 - data-wrangling
+- pandas
+- numpy
+- matplotlib
 title: Data Wrangling
 ---
 

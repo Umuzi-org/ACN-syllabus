@@ -14,6 +14,12 @@ story_points: 3
 submission_type: repo
 tags:
 - multiple-linear-regression
+- data-wrangling
+- statistics
+- pandas
+- numpy
+- feature-selection
+- probability-theory
 title: Multivariate Linear Regression
 ---
 

@@ -9,7 +9,13 @@ prerequisites:
   soft: []
 ready: true
 submission_type: repo
-tags: []
+tags:
+- docker
+- postgresql
+- .yaml
+- sqlalchemy
+- tdd
+- git-feature-branching
 title: Database migrations with SQLAlchemy
 ---
 
