@@ -67,6 +67,14 @@ Now fit your model to your test set. DO NOT BUILD A NEW MODEL ON THE TEST SET! S
 
 8. How does your model compare when running it on the test set - what is the difference in the Root Mean Square Error (RMSE) between the training and test sets? Is there any evidence of overfitting?
 
-## References
+### References
 
 Data is made up and inspired by Cohen, Cohen, West & Aiken. Applied Multiple Regression/Correlation Analysis for the Behavioral Sciences, 3rd Edition.
+
+## Instructions for reviewer
+
+1. Make sure the amount of variance explained and statistical significance is correctly interpreted. Simply computing these values is not sufficient, the student needs to demonstrate understanding.
+
+2. Note that `statsmodel` suppresses the constant term unless it's added or (you use formula notation). If the model is built without a constant term, this should be justified. If a constant term is added, it should also be explained why this is necessary.
+
+3. When fitting the model to the test data, make sure that a new model isn't being build. There should only be one model in the notebook. 
