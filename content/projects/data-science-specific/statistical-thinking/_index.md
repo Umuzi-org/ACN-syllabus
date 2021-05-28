@@ -19,7 +19,6 @@ tags:
 - plotly
 - probability-theory
 - correlation-theory
-
 title: Statistical Thinking
 ---
 
