@@ -5,7 +5,7 @@ _db_id: 7
 
 - {{% contentlink path="agile/agile-scrum" %}}
 - {{% contentlink path="topics/solo-learn/java/1-basic-concepts" %}}
-- {{% contentlink path="workshops/big-picture-web-dev" %}}
+- {{% contentlink path="topics/big-picture-web-dev" %}}
 - {{% contentlink path="topics/solo-learn/java/2-conditionals-and-loops" %}}
 - {{% contentlink path="topics/solo-learn/java/3-arrays" %}}
 - {{% contentlink path="topics/clean-code" %}}

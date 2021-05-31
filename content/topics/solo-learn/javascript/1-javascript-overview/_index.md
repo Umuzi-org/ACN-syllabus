@@ -17,3 +17,5 @@ topic_needs_review: false
 Complete the above mentioned module on Solo Learn
 
 https://www.sololearn.com/Course/JavaScript/
+
+Please submit the link to your profile e.g https://www.sololearn.com/profile/21320495

@@ -2,7 +2,7 @@
 _db_id: 66
 content_type: topic
 ready: true
-title: Intro to CSS architecture
+title: Intro to CSS architecture resources
 ---
 
 1. [CSS Architecture and the Three Pillars of Maintainable CSS](https://www.sitepoint.com/css-architecture-and-the-three-pillars-of-maintainable-css/)
