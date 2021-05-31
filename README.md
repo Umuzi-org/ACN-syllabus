@@ -23,16 +23,22 @@ This is a Hugo based application.
 
 **PLEASE NOTE** We are using hugo version 0.51. We have run into some annoying problems when upgrading hugo in the past so please just use this version.
 If you are tempted to give us a PR that upgrades this to the latest version of hugo, PLEASE DONT. The plan is to upgrade this all to use Eleventy in the near future.
-### Initial setup
+
+### initial setup
+
 Make sure your global Github details like your username and email is set up correctly. Run the following commands in
 your terminal.
+
 ```
 git config --global user.name "Your username on Github"
 git config --global user.email "youremail@yourdomain.com"
 ```
-### To clone this repo
+
+### to clone this repo
+
 Don't try to 'git clone --recursive git@github.com:Umuzi-org/ACN-syllabus.git' if you don't have a public SSH key in your Github account.
 If you are unsure, rather use:
+
 ```
 git clone --recursive https://github.com/UserName_on_Github/ACN-syllabus.git
 ```
@@ -44,7 +50,8 @@ Eg:
 ```
 git clone --recursive git@github.com:Umuzi-org/ACN-syllabus.git
 ```
-### To get yourself set up on a Debian based machine (linux ubuntu/mint)
+
+### to get yourself set up on a Debian based machine (linux ubuntu/mint)
 
 ```
 sudo apt install golang
@@ -69,7 +76,7 @@ brew install go
 brew install hugo -> look for version 0.51
 ```
 
-### To run the development server, once it is installed
+### to run the development server, once it is installed
 
 ```
 hugo serve -b "http://localhost:1313/"
@@ -77,7 +84,7 @@ hugo serve -b "http://localhost:1313/"
 
 That's it :) now you'll be able to poke around the main site
 
-### Setting up and running the linter
+### setting up and running the linter
 
 Make sure you have Python3 installed. This wont work with legacy Python (python2.7 == legacy == dangerzone).
 We use [Pipenv](https://pipenv.pypa.io/en/latest/) for dependency management, to install run
@@ -87,21 +94,25 @@ pip install pipenv
 ```
 
 Once installed Pipenv will create a virtual environment and install all required packages, just run
+
 ```
 pipenv install
 ```
 
 To activate the environment run
+
 ```
 pipenv shell
 ```
 
 You should now be all set to run the linter
+
 ```
 python lint.py
 ```
 
 If you want to run the linter again, there's no need to do the whole setup again. Do this:
+
 ```
 # activate pipenv environment
 pipenv shell
@@ -127,38 +138,40 @@ public/syllabuses/data-eng-boot/index.html:  <span class="contentlink-missing" d
 ```
 
 Then that means there is a contentlink that is pointint to a file that doesn't exist. Did the file move? Was it deleted? Is something misspelled?
-### WINDOWS 10 USERS
+
+### Windows 10
 
 Ensure you have a compatible Linux terminal for windows, if not, checkout: https://ubuntu.com/tutorials/ubuntu-on-windows#1-overview
 
 After cloning recursively from the repo and setting up your global github email and username you can run the following 
 two commands, the correct Hugo version should be installed after running the second command.
+
 ```
 sudo apt install golang
 ./install_hugo.sh
 ```
-Run the following
-```
-hugo serve -b "http://localhost:1313/"
 
-That's it :) now you'll be able to poke around the main site
-```
 Installing pipenv will probably be different depending on which Python you have, you must have nothing less than
 Python 3.
+
 ```
 pip3 install pipenv
 pipenv install
 ```
+
 If you get the error 'virtualenv.seed.via_app_data' after running pipenv install then you need to first do the following
+
 ```
 pip3 uninstall virtualenv
 pip3 install pipenv
 pipenv install
 pipenv shell
 ```
+
 It is the 'pipenv install' command which ensures that the correct depedencies are installed from the Pipfile in the repository.
 Do not install 'frontmatter' by yourself, run the 'pipenv install' command which will ensure that the correct frontmatter library
 is installed. Now you can run lint.py
+
 ```
 python3 lint.py
 ```
@@ -170,12 +183,15 @@ See https://www.youtube.com/watch?v=C04dlR1Ufj4\ for details.
 Also, when running lint.py the 'grep' command won't work as it is not a known Windows terminal command.
 Go to the lint.py file, you will need to comment out the line with the 'grep' command and rewrite using
 the 'findstr' command
+
 ```
 #os.system('grep -r "contentlink-missing" public')
  os.system('findstr "contentlink-missing" public')
 ```
+
 DO NOT commit the changes you made to the lint.py file as this will have a massive adverse effect on everyone else
 who is running lint.py from a non Windows platform.
+
 ## Syllabus Content
 
 Look inside the content directory. The documentation is composed of a bunch of markdown files (all named `_index.md`) with a lil metadata. Ok, a lot of metadata.
