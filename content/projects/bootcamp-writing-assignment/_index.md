@@ -14,28 +14,11 @@ We have a few questions for you. Please answer each of them in a separate MARKDO
 
 We also want you to know yourself better. A lot of people don't really sit down and think about what they are trying to do in the long run. What their own success looks like and what might get in the way of their success. The questions in this exercise are designed to help you define and reach your goals.
 
-### What is markdown?
-
-It's a seriously useful way of writing text files. A lot of software projects use it for documentation. It's built into Github as well.
-
-This website you are looking at is generated from markdown files. Now is a good time to get used to it.
-
-Have some links :)
-
-- https://www.ultraedit.com/company/blog/community/what-is-markdown-why-use-it.html
-- https://www.markdownguide.org/cheat-sheet/
-
-To create a markdown file just create a file with the extension `.md`. That's it.
-
-If you are using ACode on your android device, you can press the "play" button in the editor and your markdown will get rendered as a website.
-
-If you are running vscode you can right click on a markdown file and select "open preview" to see what your work looks like.
-
 ### The questions
 
-Please create a separate file for each of these. Remember to pay attention to your sentence structure, spelling and grammar. 
+Please create a separate file for each of these. Please use the question number as a part of each file name. 
 
-If you need a little help with your grammar, [Grammarly](https://app.grammarly.com/) is a really useful service. Being able to communicate clearly and professionally in text is a super power.
+Remember to pay attention to your sentence structure, spelling and grammar. If you need a little help with your grammar, [Grammarly](https://app.grammarly.com/) is a really useful service. Being able to communicate clearly and professionally in text is a super power.
 
 #### 1. Your history [200 - 500 words]
 
@@ -61,7 +44,7 @@ What makes you think you have what it takes? What traits or attributes do you ha
 
 #### 6. What might get in the way of your success? [<= 300 words]
 
-The courses offered here are hard - a lot of people struggle for lots of different reasons.
+The courses offered here are HARD - a lot of people struggle for lots of different reasons.
 
 What weaknesses do you have that might stand in the way of your success? And what strategies do you have for overcoming these challenges? 
 
@@ -93,3 +76,19 @@ What are your current commitments, both financial and time.
 We need to know this in order to assess if a full time learnership is feasible for you. 
 
 NB! Be honest and open, if you are untruthful here this could cause major problems, possibly even dismissal, at a later stage.
+
+#### 11. The importance of understanding code
+
+This learnership is a great opportunity. Some people try to get in by copying code that isn't theirs and just submitting stuff that they don't understand. When we catch this kind of behavior then we have to reject people. It's kinda sad when that happens. 
+
+Imagine a coder who manages to get through the entire syllabus by copying people and submitting code that they don't understand. After the learnership is over they would try to get a job. If they manage to get a job then they would just get fired. 
+
+Why? Because coders solve new problems with code. At your first job you'll be asked to use your skills and understanding in order to solve problems that nobody has ever solved before. And if you don't have a solid understanding of the foundations then you wont be able to do your job. 
+
+In your own words please describe:
+
+- why copying other people's code is a bad idea
+- why taking the time to fully understand concepts is a good idea
+
+
+
