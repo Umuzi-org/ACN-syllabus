@@ -9,9 +9,9 @@ prerequisites:
   - docker/intro-to-docker
   - projects/python-specific/flask-rest-api/part-1
   - projects/python-specific/flask-rest-api/part-2
+ready: true
 submission_type: continue_repo
 title: Flask and docker
-ready: true
 ---
 
 Before you do this, please revise {{% contentlink path="docker/intro-to-docker" %}}. You are going to need to have solid understanding of all the **Advanced Topics**.
