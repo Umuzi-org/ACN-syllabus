@@ -5,7 +5,7 @@ ready: true
 tags:
 - python
 - decorators
-title: Python Decorators
+title: Python Decorators - Intro
 ---
 
 https://www.codementor.io/@sheena/introduction-to-decorators-du107vo5c
