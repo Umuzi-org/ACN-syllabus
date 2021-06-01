@@ -89,6 +89,3 @@ In your own words please describe:
 
 - why copying other people's code is a bad idea
 - why taking the time to fully understand concepts is a good idea
-
-
-
