@@ -11,7 +11,7 @@ You'll need to be set up so that you can write and run code on your own device. 
 
 Make sure git is installed.
 
-{% contentlink path="environment-setup/git" %}}
+{{% contentlink path="environment-setup/git" %}}
 
 ## If you have a computer
 
