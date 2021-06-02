@@ -14,6 +14,9 @@ prerequisites:
   - projects/oop/person
 ready: true
 submission_type: repo
+tags:
+- data-structures
+- array-manipulation
 title: Java collections
 ---
 
