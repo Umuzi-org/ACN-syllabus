@@ -1,6 +1,7 @@
 ---
 title: Data Dashboard Analysis
 content_type: project
+submission_type: link
 ready: true
 ---
 
@@ -24,4 +25,4 @@ Use figma to create your dashboard. Check out this [link](https://www.figma.com/
 You’re welcome to do your own additional research! 
 
 ### Expected outcomes/Deliverables
-A simple mid-high-fi wireframe.
+Create a mid to high-fi wireframe on figma. Submit a link to your file once completed.

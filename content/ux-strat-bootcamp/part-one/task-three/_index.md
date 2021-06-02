@@ -1,5 +1,6 @@
 ---
 title: Task Three
+content_type: topic
 ready: true
 ---
 

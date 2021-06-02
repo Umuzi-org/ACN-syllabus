@@ -1,7 +1,7 @@
 ---
 title: User Flows
 content_type: project
-submission_type: link 
+submission_type: link
 ready: true
 ---
 
@@ -23,6 +23,6 @@ Check out this link on [Lucid Chart](https://www.lucidchart.com/blog/how-to-make
 You’re welcome to do your own additional research! 
 
 ### Expected outcomes/Deliverables
-A simple user flow diagram. Submit a link to figma project.
+Cearte a simple user flow diagram on Figma. Once completed submit a link to your figma project.
 
  

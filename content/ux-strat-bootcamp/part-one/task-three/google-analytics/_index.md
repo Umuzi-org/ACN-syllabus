@@ -1,6 +1,7 @@
 ---
 title: Google Analytics
 content_type: project
+submission_type: link
 ready: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Wireframing
 content_type: project
-submission_type: link 
+submission_type: link
 ready: true
 ---
 
@@ -23,4 +23,4 @@ See [here](https://www.figma.com/templates/wireframe-kits/?fuid=9115381559641046
 Google is your friend
 
 ### Expected outcomes/Deliverables
-Mid-fidelity wireframes. Submit a link to Figma file
+Develop mid-fidelity wireframes. Once completed submit a link to your Figma file.

@@ -1,7 +1,7 @@
 ---
 title: Sketch Possible Solution
 content_type: project
-submission_type: link
+submission_type: link 
 ready: true
 ---
 

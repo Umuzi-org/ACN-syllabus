@@ -1,5 +1,6 @@
 ---
 title: Task Five
+content_type: topic
 ready: true
 ---
 

@@ -1,7 +1,5 @@
 ---
 title: UX Strategy Bootcamp
-content_type: project
-submission_type: link
 ---
 
 ## **Welcome to Bootcamp**
@@ -10,9 +8,9 @@ submission_type: link
 
 The following sessions are required:
 
-**MORNING BRIEFING SESSION: 09h30 - 10h30** (Google meet)
+**MORNING BRIEFING SESSION: On Google Meet
 
-**AFTERNOON REVIEW SESSION: 15h00 - 16h30** (Google meet)
+**AFTERNOON REVIEW SESSION: On Google Meet
 
 ### Ground Rules
 
@@ -27,7 +25,9 @@ The following sessions are required:
 Create a free student account using this [link] (https://www.figma.com/education/?fuid=911538155964104607).
 Watch this [short tutorial](https://www.youtube.com/watch?v=WhlNnf1711M) and [this](https://www.youtube.com/watch?v=jk1T0CdLxwU&t=186s) to get started working on Figma.
  
+This bootcamp is split into two parts and wach part consists of 5 parts. Feel free to move at a pace you are comfortable with, but everyone should be finsished and ready to present the first part (dsahboard analysis and visualisation) within 5 working days. After presenting the first part you will have 5 working days to do part two and all its tasks. 
 
+Work smart.
 
 
 

@@ -1,6 +1,7 @@
 ---
 title: Interviews
 content_type: project
+submission_type: link
 ready: true
 ---
 
@@ -30,7 +31,8 @@ Write down a list of questions to be used in your interviews and the approach yo
 If all else fails, google is your friend.
 
 ### Expected outcomes/Deliverables
-Extensive raw data (notes and digital files) on the users’ surroundings and context.
+Extensive raw data (notes and digital files) on the users’ surroundings and context. 
+Create a Google doc with all your work and submit a link.
 
  
 

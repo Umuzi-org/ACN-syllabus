@@ -1,5 +1,6 @@
 ---
 title: Task Four
+content_type: topic
 ready: true
 ---
 

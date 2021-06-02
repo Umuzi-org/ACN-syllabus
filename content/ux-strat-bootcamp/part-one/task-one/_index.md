@@ -1,5 +1,6 @@
 ---
 title: Task One
+content_type: topic
 ready: true
 ---
 

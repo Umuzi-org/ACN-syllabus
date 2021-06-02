@@ -1,5 +1,6 @@
 ---
 content_type: project
+submission_type: link
 ready: true
 title: User Journey Mapping
 ---
@@ -21,6 +22,8 @@ Capture your user’s daily commute journey. In each frame, capture what they’
 If all else fails, google is your friend.
 
 ### Expected outcomes/Deliverables 
-User journey highlighting what the user is thinking, doing and feeling in each frames.
+Using Figma create a user journey highlighting what the user is thinking, doing and feeling in each frames.
+
+Once completed submit a link to your figma project
 
 See example in [figma template](https://www.figma.com/file/qJboVl9JQR2FwXnbD4qJyo/Strategy-Bootcamp-(Tilde-Test)?node-id=901%3A229)

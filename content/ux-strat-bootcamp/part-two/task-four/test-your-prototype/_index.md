@@ -1,7 +1,7 @@
 ---
 title: Test Your Prototype
 content_type: topic
-submission_type: link
+submission_type: link 
 ready: true
 ---
 

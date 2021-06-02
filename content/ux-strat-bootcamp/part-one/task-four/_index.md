@@ -1,5 +1,6 @@
 ---
 title: Task Four
+submission_type: topic
 ready: true
 ---
 

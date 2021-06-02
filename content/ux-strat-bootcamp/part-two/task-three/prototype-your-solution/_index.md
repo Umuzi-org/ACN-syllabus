@@ -1,7 +1,7 @@
 ---
 title: Prototype Your Solution
 content_type: project
-submission_type: link
+submission_type: link 
 ready: true
 ---
 
@@ -27,4 +27,4 @@ A well thought out prototype that will test specific variables about the problem
 [How to Prototype your ideas](https://www.designkit.org/methods#filter)
 
 ### Deliverable:
-Sumbit a link to figma project file
+Create a prototype on figma and submit a link to your file

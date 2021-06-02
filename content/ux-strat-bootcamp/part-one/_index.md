@@ -1,5 +1,6 @@
 ---
 title: Part One
+content_type: topic
 ---
 
 # Welcome to Bootcamp

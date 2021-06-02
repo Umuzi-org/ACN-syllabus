@@ -1,5 +1,6 @@
 ---
 title: Part Two
+content_type: topic
 ---
 
 # Challenge: Improve working professionals' experiences of working remotely
