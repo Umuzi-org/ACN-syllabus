@@ -64,3 +64,32 @@ Features: exprior, yearsworked, market, degree, otherqual, position, male, Field
 5. [OPTIONAL] Create a class called `InfluenceCalculator` that takes a model fit object as an argument and has methods for calculating and displaying leverage values and Cook's distance. Call these methods `leverage`, `cooks_distance`. This is easiest to do using the package `statsmethods` to create the linear regression model object. Are there any observations that may be influencing the models?
 
 _Tip:_ These classes should be able to work with any regression problem. You can re-use these classes in upcoming assignments when inspecting models and you can also make classes in future that can work for both regression and classification problems.
+
+## Instructions for reviewer
+
+1. Learners should easily apply the skills they learned in Animals part 1 and Animals part 2 with reference to OOP.
+   It should not be the case that a learner is unable to do the basics, for instance, creating a class and having
+   a 'constructor'/__init__() function in order to initialize and object when it is created from the class.
+
+2. One of the main purposes of OOP is the reusableness of code.  Therefore it is important that learners do not
+   create new classes, objects or code when the same result could have been achieved if the learner understood OOP
+   and therefore made use of what was already developed and available.
+
+3. Learners should show a clear understanding of Inheritance from parent classes.  This would be most evidently
+   showed by the use of super() and the way in which a child class is created, seeing that super() is not the only way
+   of going about it, a learner could for instance have "class child_class(parent_class):".
+
+4. The same rules apply with regards to plots as with previous projects.  Plots should be neat and self-explanatory,
+   plots should have clear and concise labeling and the data represented should be easy to read and intuitive.  There
+   should not be a histogram plot when a scatter plot is needed and vice-versa.
+
+5. Learners should show an adequate understanding of decorators.  Although decorators can be tricky, it might be that
+   various functions and functionality overlap, these slight changes in functionality can then easily be catered for
+   by the appropriate use of decorators.  This is then another way to ensure that learners don't create unecessary functions,
+   hence, the code stays DRY.
+
+6. Since Inheritance and Polymorphism are core concepts of OOP, adequate understanding of these concepts will be revealed when
+   learners make use of creating classes which inherent from a parent class, just like in Animals part 1 where both Cat and Dog
+   were classes which inherited from class Animal. The same then is true for Polymorphism, an easy example is where the sound()
+   function in Animals part 1. had different execution based on if the object which called the sound() function was a Cat or a Dog
+   class.
