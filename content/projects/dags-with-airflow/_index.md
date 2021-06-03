@@ -14,7 +14,7 @@ tags:
 - postgresql
 - sql
 - sqlite
-- .gitignore
+- dags
 title: DAGs with Airflow
 ---
 
