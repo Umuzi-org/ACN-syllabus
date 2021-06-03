@@ -81,6 +81,9 @@ Now upload your file to Github and create a new branch.
 
 Make a PR that in order to merge your stuff into the main branch. You'll notice that you can't merge it though. This is because the main branch is protected. You need to get a little help.
 
+#### Video Tutorial for 1 & 2 below
+
+{{% youtube KyDxI7gOQbo %}}
 ### 3. Get your PR merged
 
 In order to get your stuff merged into master, you need 2 people to "Approve" your PR.
