@@ -409,12 +409,7 @@ If you are curious now, spend some time googling git branching strategies. We us
 
 - Ensure that there are 3 branches: main, history, and milkshake-flavours
 - The main branch should consist of 4 files: .gitignore, README.md, history.txt, and milkshakes.md
-- The history branch should consist of 3 files: README.md, history.txt and milkshakes.md. Consider that main should be merged into history before the .gitignore file is created.
-- The milkshake-flavours branch should consist of 2 files: README.md and milshakes.md.
-- The repo should have a minimum of 9 commits. Take a look at the network diagram or graph to check the commits that were made.
+- The history branch should consist of 3 files. Consider that main should be merged into history before the .gitignore file is created.
+- The milkshake-flavours branch should consist of 2 files.
+- The repo should have a minimum of 9 commits. Take a look at the network diagram or graph to check that the branches are present and have been merged into main. Also, check that main has been merged back into history.
 - Ensure that there are no merge conflicts on the README.md file.
-- On the main branch:
- 1. `.gitignore` file should have `ignore-me.db` and `/large-directory-that-should-be-local-only` in it.
- 2. `README.md` should have `booya` in it. 
- 3. `history.txt` should have the latest 1000 lines of commands typed on the person's local machine.
- 4. `milkshakes.md` should have 3 milkshake flavours in it.
