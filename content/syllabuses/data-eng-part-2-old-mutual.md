@@ -19,7 +19,7 @@ title: Data Engineering - part 2 (Old Mutual)
 - {{% contentlink path="topics/data-infrastructure/database-comparison/" %}}
 - {{% contentlink path="projects/python-specific/sqlalchemy-migrations" flavour="python" %}}
 - {{% contentlink path="projects/python-specific/flask-rest-api/part-1" flavour="python" %}}
-- {{% contentlink path="docker/flask-and-docker" flavour="python" %}}
+- {{% contentlink path="docker/flask-and-docker"  %}}
 - {{% contentlink path="topics/data-infrastructure/choosing-a-task-queue" %}}
 - {{% contentlink path="topics/optimizations-and-big-o/" %}}
 - {{% contentlink path="projects/python-specific/mongo" flavour="python" %}}
