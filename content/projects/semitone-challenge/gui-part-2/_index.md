@@ -42,3 +42,16 @@ gui displays: "Streak: 3"
 user gets wrong answer
 gui displays: "Streak: 0"   <<< the streak is reset to zero because the user got the answer wrong
 ```
+
+## Instructions for Reviewer
+- Ensure that when multiple calls have been made to the select notes function only two notes gets returned
+- To check if the code contains a bug call the function twice, have a print statement under it, and check if two notes are returned.
+
+- Make sure the notes always get updated when the select notes button is clicked.
+
+- The JamBuddy class should still work correctly in the terminal and should not be mixed up with frontend DOM manipulation generally this will make your code more cleaner and easily readble.
+
+- Ensure that the spec file should contain tests that checks the correct distance of the two notes.
+- Ensure that there are no unnecessary copying and pasting of variables, all variables used in different files should be exported and imported correctly.
+
+- Ensure that specs also contain test cases testing DOM manipulation and that the test cases are working correctly.
