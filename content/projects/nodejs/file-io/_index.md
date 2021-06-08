@@ -85,3 +85,15 @@ charlie = load(3)
 charlie.comments = "Winning!"
 charlie.save() # results in an UPDATE to visitor_3.json
 ```
+
+## Instructions for reviewer
+
+- The `fs` module is readily availible in Node.js, so there wont be any need to have node_modules in the repo.
+
+- Please make sure that the save method saves the data in lower case and that whitespace is replaced by an underscore.
+
+- The use of string literals is highly encouraged for the save method.
+
+- The load function should print/consol.log the visitor data. ensure that the visitor data is not returned instead.
+
+- Edge cases should be catered for. We should check that the load function takes in the proper data type.
