@@ -153,7 +153,9 @@ Please don't re-implement the same check in two different places. Good code is D
 
 ## Instructions for reviewers
 
-1. **Error messages** - Make sure the passwordIsValid function should throw the relevant error messages and should match the 7 conditions above. The error messages can all be used in an object and be called from the tests and functions.
-2. **Count conditions and what to return** - For passwordStrength function, if condition 1 and 2 is not met and all the other conditions are met then the function should return Invalid. e.g. if I pass in this password P@ssw 12 then the function should return Invalid cause condition 2 is not met `password should be longer than 8 characters`.
-3. **Testing** - Make sure that the spec file contains multiple test cases that are not short and checks if every condition is working correctly for both functions and the relevant error messages are thrown. The tests should prove that the functions are working correctly and that the code does not break. e.g.
-`P$$12 A` or `User1@` should fail for both functions, for PasswordIsValid the relevant error message should be thrown and for passwordStrength `Invalid` should be returned.
+- **Error messages** - Make sure the passwordIsValid function throws the relevant error messages and should match the 7 conditions above. The error messages can all be used in an object and be called in your tests and functions.
+
+- **Count conditions and what to return** - For passwordStrength function, if condition 1 and 2 is not met and all the other conditions are met then the function should return Invalid. e.g. if I pass in `P@ssw 12` then the function should return Invalid cause condition 2 is not met `password should be longer than 8 characters`.
+
+- **Testing** - Make sure that the spec file contains multiple test cases that are not short and checks if every condition is working correctly for both functions and the relevant error messages are thrown. The tests should prove that the functions are working correctly and that the code does not break. e.g.
+`P$$12 A` or `User1@` should fail for both functions, for PasswordIsValid the relevant error message should be thrown, and for passwordStrength `Invalid` should be returned.
