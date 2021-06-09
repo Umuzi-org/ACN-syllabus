@@ -129,4 +129,4 @@ Earlier I hinted that there are ways to prevent migration chaos. When it comes t
 3. The devs can then mess around with their local migrations and dev databases as much as they need to without corrupting the master branch. PRs that include any references to migrations are rejected with a snotty message
 4. When it comes time to deploy the master branch migrations are generated off a real database and those migrations are pushed into the master branch
 
-Just in case you nerds are interested, the main Tilde database is a google cloud SQL instance running postgres, and we're using the Django ORM instead of sqlalchemy. But the basic principles are the same. 
+Just in case you nerds are interested, the main Tilde database is a google cloud SQL instance running postgres, and we're using the Django ORM instead of sqlalchemy. But the basic principles are the same.
