@@ -13,9 +13,6 @@ ready: true
 submission_type: repo
 tags:
 - google-datastudio
-- html
-- css
-- plotly-dash
 title: Google Data Studio Assignment
 ---
 
