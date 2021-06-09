@@ -3,6 +3,8 @@ title: clean code
 content_type: topic
 ---
 
+aaaaaaa
+
 Clean code is critical to the work success of coders in the workplace. If a person gets a job as a junior coder and just writes spaghetti code in their new job they'll just annoy every technical person on their team. If they start their career by being annoying then their jobs are less likely to last. We need to produce juniors who pay attention to detail and care about the quality of their code.
 
 If a person only writes spaghetti code then they will waste a lot of time if they ever try to solve a juicy problem. Their code will be buggy and unmaintainable at best.
