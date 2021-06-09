@@ -58,7 +58,7 @@ System.out.println(greeting)
 This should output:
 
 ```
-Hello, my name is Ryan and I am 30 years old. My interests are being a hardarse, agile and ssd hard drives.
+Hello, my name is Ryan, my gender is male and I am 30 years old. My interests are being a hardarse, agile and ssd hard drives.
 ```
 
 In OOP this is known as abstraction. We created a simple model of a more complex thing. We only represent the attributes and functionality that we need.
@@ -69,4 +69,14 @@ When an object instance is created from a class, the class's constructor functio
 
 A person might have many interests, or they might only have 1. If they are depressed then they might not be interested in anything at all. Make sure you can handle all cases! 
 
-Also, it's really imporant that you submit good clean code! MAke sure you name your variables clearly. Make sure you are following the convention of the langage you are using. Make sure your code in no way resembles spagetti.
+Also, it's really important that you submit good clean code! MAke sure you name your variables clearly. Make sure you are following the convention of the language you are using. Make sure your code in no way resembles spaghetti.
+
+## Instructions for reviewer
+
+1. **Multiple interests, commas and spacing** - Make sure that the interests array attribute can take in multiple interests and they all get printed out separated with a comma and space, and the last interest should have an ``and`` before it also your class should contain and use all of the attributes above.
+2. **Single interest or no interests** - Check if the class can work with single interests, and the string output should be different from the multiple interest output instead of `my interests are` it should be `my interest is`, also if there are no interests then the output should a string with the first 3 attributes name, age, and male `Hello, my name is Ryan, my gender is male and I am 30 years old.` and you could add something like `I have no interests`.
+
+Mark this as Excellent if:
+
+1. **There is a separate function just for building the interests string** If the student makes multiple small, single purpose, clear functions instead of one giant function then that is good. 
+2. Makes use of templating instead of string concatenation as much as possible. In Python this means using f-strings, in Javascript it means using template literals, in Java this means using `String.format`.

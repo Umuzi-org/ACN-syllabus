@@ -16,8 +16,8 @@ _db_id: 2
 - {{% contentlink path="topics/python-specific/automated-testing-with-pytest"%}}
 - {{% contentlink path="projects/data-science-specific/data-visualisation" %}}
 - {{% contentlink path="topics/python-specific/virtual-envs/" %}}
-- {{% contentlink path="workshops/survey-design" %}}
-- {{% contentlink path="workshops/google-forms-like-a-boss" %}}
+- {{% contentlink path="topics/survey-design" %}}
+- {{% contentlink path="topics/google-forms-like-a-boss" %}}
 - {{% contentlink path="projects/data-science-specific/cross-validation-and-simple-linear-regression/" flavour="python" %}}
 - {{% contentlink path="projects/morse-code" flavour="python" %}}
 - {{% contentlink path="workshops/intro-to-data-ethics" %}}

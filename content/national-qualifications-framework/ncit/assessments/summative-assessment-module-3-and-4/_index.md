@@ -9,7 +9,7 @@ ready: false
 submission_type: link
 tags:
 - ncit
-title: 'NCIT Summative Assessment: Module 3 & 4'
+title: 'NCIT Summative Assessment: 2'
 ---
 
 Please do the following:
@@ -18,4 +18,4 @@ Please do the following:
 
 2. Fill in the assessment. The instructions are in the document. 
    
-4. Upload the document to google drive and submit a link. Please make sure that the link works. If your work is private then we wont be able to review it
+3. Upload the document to google drive and submit a link. Please make sure that the link works. If your work is private then we wont be able to review it
