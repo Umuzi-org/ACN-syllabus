@@ -88,7 +88,7 @@ charlie.save() # results in an UPDATE to visitor_3.json
 
 ## Instructions for reviewer
 
-- The `fs` module is readily availible in Node.js, so there wont be any need to have node_modules in the repo.
+- The `fs` module is readily available in Node.js, so there wont be any need to have node_modules in the repo.
 
 - Please make sure that the save method saves the data in lower case and that whitespace is replaced by an underscore.
 
@@ -96,4 +96,6 @@ charlie.save() # results in an UPDATE to visitor_3.json
 
 - The load function should print/consol.log the visitor data. ensure that the visitor data is not returned instead.
 
-- Edge cases should be catered for. We should check that the load function takes in the proper data type.
+- Edge cases should be catered for. We should make sure that the load function takes in the proper data type.
+
+- Use Mocks and spies when testing this project - since you will be interacting with the file system.
