@@ -412,4 +412,4 @@ If you are curious now, spend some time googling git branching strategies. We us
 - Check if there are multiple commits.
 - Check the commit messages to see if a recruit actually knows how to add, commit or push using the terminal or command line. If the commit message is `Add files via upload`, it indicates that the command line was not used.
 - Ensure that there are no merge conflict. If this kind of text `<<<<<<< HEAD` or `=======` appears, it indicates that merge conflicts were not resolved.
-
+- Ensure that a recruit actually had a merge conflict to resolve by using the command `git show`.
