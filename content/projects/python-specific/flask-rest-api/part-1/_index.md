@@ -13,9 +13,6 @@ submission_type: repo
 tags:
 - flask
 - django
-- tdd
-- json
-- html
 - sqlalchemy
 title: create a REST api to interact with actual database
 ---

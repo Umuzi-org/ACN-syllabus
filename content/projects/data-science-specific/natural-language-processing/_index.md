@@ -13,12 +13,9 @@ story_points: 21
 submission_type: repo
 tags:
 - nlp
-- pandas
-- numpy
-- statistics
-- feature-selection
-- sklearn
-- regular expressions
+- sentiment-analysis
+- nltk
+- textblob
 title: Natural language processing
 ---
 

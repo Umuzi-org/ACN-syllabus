@@ -12,10 +12,7 @@ submission_type: repo
 tags: 
 - docker
 - mongodb
-- postgresql
-- .yaml
 - tdd
-- unit-testing
 title: Python and MongoDB
 ---
 

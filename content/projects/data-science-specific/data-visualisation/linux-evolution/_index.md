@@ -11,8 +11,7 @@ ready: true
 story_points: 3
 submission_type: repo
 tags:
-- data-visualisation-datacamp
-- linux-terminal
+- data-visualisation
 title: Evolution of Linux Visualisation
 ---
 

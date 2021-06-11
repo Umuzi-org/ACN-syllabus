@@ -12,10 +12,7 @@ submission_type: repo
 tags:
 - docker
 - postgresql
-- .yaml
 - sqlalchemy
-- tdd
-- git-feature-branching
 title: Database migrations with SQLAlchemy
 ---
 

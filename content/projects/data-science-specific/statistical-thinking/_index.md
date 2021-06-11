@@ -13,12 +13,6 @@ story_points: 13
 submission_type: repo
 tags:
 - stats
-- data-wrangling
-- pandas
-- numpy
-- plotly
-- probability-theory
-- correlation-theory
 title: Statistical Thinking
 ---
 

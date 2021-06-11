@@ -14,11 +14,8 @@ story_points: 8
 submission_type: repo
 tags:
 - plotly
-- statistics
-- probability-theory
-- pandas
-- numpy
-- virtual-environments
+- dashboard
+- data-visualisation
 title: Plotly Dashboard Assignment
 ---
 
