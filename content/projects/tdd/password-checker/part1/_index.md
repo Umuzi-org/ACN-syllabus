@@ -128,10 +128,10 @@ password_strength(password)
 
 This function should count the number of conditions met and then return a string that describes the strength of the password. Valid strings are "invalid", "weak","medium" and "strong".
 
-- If number of conditions met >= 6: return "strong"
-- If number of conditions met >= 4: return "medium"
-- If number of conditions met >= 3: return "weak"
 - If conditions 1 or 2 are not met: return "invalid"
+- If number of conditions met >= 3: return "weak"
+- If number of conditions met >= 4: return "medium"
+- If number of conditions met >= 6: return "strong"
 
 ## Note on DRY code
 
@@ -153,7 +153,7 @@ Please don't re-implement the same check in two different places. Good code is D
 
 ## Instructions for reviewers
 
-- **Error messages** - Make sure the passwordIsValid function throws the relevant error messages and should match the 7 conditions above. The error messages can all be used in an object and be called in your tests and functions.
+- **Error messages** - Make sure the passwordIsValid function throws the relevant error messages and should match the 7 conditions above. Use a seperate file for your error messages.
 
 - **Count conditions and what to return** - For passwordStrength function, if condition 1 and 2 is not met and all the other conditions are met then the function should return Invalid. e.g. if I pass in `P@ssw 12` then the function should return Invalid cause condition 2 is not met `password should be longer than 8 characters`.
 
