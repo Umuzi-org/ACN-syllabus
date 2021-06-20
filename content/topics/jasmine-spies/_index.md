@@ -176,6 +176,5 @@ By default a spy will only report if a call was done without calling through the
 ### References
 
 [An Introduction to Jasmine Unit Testing.]( https://www.freecodecamp.org/news/jasmine-unit-testing-tutorial-4e757c2cbf42/#Understanding%20Spies )  
-[Spy on JavaScript Methods Using the Jasmine Testing Framework]( https://www.htmlgoodies.com/html5/javascript/spy-on-javascript-methods-using-the-jasmine-testing-framework.html )   
-[Spies in Isolation]( https://www.htmlgoodies.com/html5/javascript/spy-on-javascript-methods-using-the-jasmine-testing-framework.html )  
+[Spy on JavaScript Methods Using the Jasmine Testing Framework]( https://www.htmlgoodies.com/html5/javascript/spy-on-javascript-methods-using-the-jasmine-testing-framework.html )  
 [Spying On JavaScript methods using Jasmine]( https://blog.codeship.com/jasmine-spyon/ )
