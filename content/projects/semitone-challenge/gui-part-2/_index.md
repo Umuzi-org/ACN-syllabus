@@ -44,11 +44,11 @@ gui displays: "Streak: 0"   <<< the streak is reset to zero because the user got
 ```
 
 ## Instructions for Reviewer
-- Ensure that when multiple calls have been made to the select notes function only two notes are returned. 
+- Ensure that when multiple calls have been made to the selectNotes function only two notes are returned. 
 - To check if the code contains a bug call the function twice, have a print statement under it, and check if two notes are returned.
 - Make sure the notes always get updated when the select notes button is clicked.
-- The JamBuddy class should still work correctly in the terminal and should not be mixed up with frontend DOM manipulation generally this will make your code cleaner.
-- Ensure that the spec file should contain tests that check the correct distance of the two notes.
+- The JamBuddy class should still work correctly in the terminal and should not be mixed up with frontend DOM manipulation.
+- Ensure that the spec file contains tests that check the correct distance between the two notes.
 - Ensure that there are no unnecessary copying and pasting of variables, all variables used in different files should be exported and imported correctly.
-- Ensure that specs also contain DOM manipulation test cases and that they are working correctly.
-- Ensure that the scorestreak gets incremented by 1  each time when a user guesses the correct answer and when the answer is not correct the scorestreak gets reset to 0.
+- Ensure that the specs also contain DOM manipulation test cases.
+- Ensure that the scorestreak gets incremented by 1 each time when a user guesses the correct answer and when the answer is not correct the scorestreak gets reset to 0.
