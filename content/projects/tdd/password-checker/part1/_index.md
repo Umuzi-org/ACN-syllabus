@@ -21,7 +21,7 @@ title: password-checker
 
 ### Javascript
 
-Please test your code using jasmine.
+Please note that this is a unit testing project. Make sure you demonstrate solid understandings of unit testing and test your code using the required framework.
 
 Your directory structure should look like this.
 
@@ -153,9 +153,6 @@ Please don't re-implement the same check in two different places. Good code is D
 
 ## Instructions for reviewers
 
-- **Error messages** - Make sure the passwordIsValid function throws the relevant error messages and should match the 7 conditions above. Use a seperate file for your error messages.
+- For passwordStrength function ensure that when conditions 1 and 2 are not met and all the other conditions are met the function returns Invalid and not weak, medium, or strong. e.g `P@ssw 12` or `User1@` should be Invalid.
 
-- **Count conditions and what to return** - For passwordStrength function, if condition 1 and 2 is not met and all the other conditions are met then the function should return Invalid. e.g. if I pass in `P@ssw 12` then the function should return Invalid cause condition 2 is not met `password should be longer than 8 characters`.
-
-- **Testing** - Make sure that the spec file contains multiple test cases that are not short and checks if every condition is working correctly for both functions and the relevant error messages are thrown. The tests should prove that the functions are working correctly and that the code does not break. e.g.
-`P$$12 A` or `User1@` should fail for both functions, for PasswordIsValid the relevant error message should be thrown, and for passwordStrength `Invalid` should be returned.
+- For PasswordIsValid function, ensure that the function doesn't output or return anything when all conditions are met. e.g `P@ssw0rd 12` function shouldn't output anything.
