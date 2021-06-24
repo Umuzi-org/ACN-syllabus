@@ -69,7 +69,7 @@ Also, we'll be looking out for good developer habits. Please make sure you push 
 ## Instructions for reviewer 
 
 - The link submitted should direct you to the website.
-		- All social media accounts and work profiles should work.
-		- Font and text size should be clear.
-		- They should make use of the entire web page.
+- All social media accounts and work profiles should work.
+- Font and text size should be clear.
+- They should make use of the entire web page.
 - It should be responsive to all screen sizes.
