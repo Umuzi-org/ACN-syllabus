@@ -28,7 +28,7 @@ In this challenge you will create 3 classes
 
 1. Super class called `Animal`
 2. `Dog` and `Cat` class which both **extends** `Animal` class (a dog is an animal and a cat is an animal)
-3. `Dog` and `Cat` class should only have 1 function, which is their own implementation of the `sound()` function. This is polymorphism
+3. `Dog` and `Cat` class should only have 1 function, which is their own implementation of the `sounds()` function. This is polymorphism
 4. a `Home` class. But we'll talk about that later...
 
 ```
