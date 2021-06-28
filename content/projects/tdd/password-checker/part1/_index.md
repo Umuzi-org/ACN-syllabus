@@ -21,7 +21,7 @@ title: password-checker
 
 ### Javascript
 
-Please note that this is a unit testing project. Make sure you demonstrate solid understandings of unit testing and test your code using the required framework.
+Please note that this is a unit testing project. Make sure you demonstrate a solid understanding of unit testing and test your code using the required framework.
 
 Your directory structure should look like this.
 
@@ -128,10 +128,10 @@ password_strength(password)
 
 This function should count the number of conditions met and then return a string that describes the strength of the password. Valid strings are "invalid", "weak","medium" and "strong".
 
-- If conditions 1 or 2 are not met: return "invalid"
-- If number of conditions met >= 3: return "weak"
-- If number of conditions met >= 4: return "medium"
 - If number of conditions met >= 6: return "strong"
+- If number of conditions met >= 4: return "medium"
+- If number of conditions met >= 3: return "weak"
+- If conditions 1 or 2 are not met: return "invalid"
 
 ## Note on DRY code
 
@@ -153,6 +153,6 @@ Please don't re-implement the same check in two different places. Good code is D
 
 ## Instructions for reviewers
 
-- For passwordStrength function ensure that when conditions 1 and 2 are not met and all the other conditions are met the function returns Invalid and not weak, medium, or strong. e.g `P@ssw 12` or `User1@` should be Invalid.
+- For passwordStrength function, if conditions 1 and 2 are not met and all the other conditions are met the function should return Invalid. e.g `P@ssw 12` or `User1@` should be Invalid.
 
-- For PasswordIsValid function, ensure that the function doesn't output or return anything when all conditions are met. e.g `P@ssw0rd 12` function shouldn't output anything.
+- For PasswordIsValid function, if all conditions are met nothing should be printed or returned. e.g `P@ssw0rd 12` shouldn't output anything.
