@@ -133,3 +133,8 @@ eg:
 home.adoptPet(dog1) // totally ok
 home.adoptPet(dog1) // not ok at all
 ```
+
+## Instructions for reviewer
+- The Animal class should follow the document's diagram's instructions exactly.
+- A constructor that accepts a string to set the name for constructed pet  should exist.
+- If the bonus part of the project is attempted; a house cannot adopt a specific instance of a pet more than once.
