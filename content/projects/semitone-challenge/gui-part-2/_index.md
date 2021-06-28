@@ -51,4 +51,4 @@ gui displays: "Streak: 0"   <<< the streak is reset to zero because the user got
 - Ensure that the spec file contains tests that check the correct distance between the two notes.
 - Ensure that there are no unnecessary copying and pasting of variables, all variables used in different files should be exported and imported correctly.
 - Ensure that the specs also contain DOM manipulation test cases.
-- Ensure that the scorestreak gets incremented by 1 each time when a user guesses the correct answer and when the answer is not correct the scorestreak gets reset to 0.
+- Ensure that the scorestreak gets incremented by 1 each time when a user gets the correct answer and when the answer is not correct the scorestreak gets reset to 0.
