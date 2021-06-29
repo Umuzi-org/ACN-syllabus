@@ -82,6 +82,6 @@ Data is made up and inspired by Cohen, Cohen, West & Aiken. Applied Multiple Reg
 
 2. Note that `statsmodel` suppresses the constant term unless it's added or (you use the formula notation). If the model is built without a constant term, this should be justified. If a constant term is added, it should also be explained why this is necessary.
 
-3. When fitting the model to the test data, make sure that a new model isn't being build. There should only be one model in the notebook.
+3. When fitting the model to the test data, make sure that a new model isn't being built. There should only be one model in the notebook.
 
 4. A common mistake is misinterpreting the condition for overfitting using the RMSE criterion. Pay attention to which is higher/lower and weather this has been interrupted correctly.
