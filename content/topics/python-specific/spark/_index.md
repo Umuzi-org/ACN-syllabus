@@ -4,6 +4,7 @@ content_type: topic
 prerequisites:
   hard:
   - projects/data-science-specific/data-wrangling
+  - projects/understanding-map-reduce
   - sql/shop-project/
   soft: []
 ready: true

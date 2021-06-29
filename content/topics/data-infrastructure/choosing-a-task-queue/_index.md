@@ -1,8 +1,8 @@
 ---
 _db_id: 63
 content_type: topic
+ready: true
 title: ZeroMQ versus RabbitMQ versus Kafka
-ready: True
 ---
 
 If you have a function that needs to be executed 1000 times on 1000 pieces of data, and you have a 50 computers that are all set up to help get the task done, then it would be useful to know how to effectively distribute the work across the computers. 

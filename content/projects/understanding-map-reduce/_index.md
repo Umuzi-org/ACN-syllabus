@@ -1,9 +1,11 @@
 ---
-title: Understanding map reduce
-flavours: [any_language]
-content_type: project 
-submission_type: repo 
+_db_id: 704
+content_type: project
+flavours:
+- any_language
 ready: true
+submission_type: repo
+title: Understanding map reduce
 ---
 
 Many programming languages have map and reduce functions. In this project you'll learn about why that stuff is cool and you'll do some katas to get your heads around it.
