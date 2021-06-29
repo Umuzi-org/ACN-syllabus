@@ -85,10 +85,10 @@ Data is made up and inspired by Cohen, Cohen, West & Aiken. [Applied Multiple Re
 
 1. All relevant instructions from the [simple-linear-regression](http://syllabus.africacode.net/projects/data-science-specific/cross-validation-and-simple-linear-regression/index.html) project also apply here.
 
-2. EDA means actually analysing the data; it's now enough to create a graph, there needs to be commentary on what it reveals about the data.
+2. EDA means actually analysing the data; it's not enough to create a graph, there needs to be commentary on what it reveals about the data.
 
 3. For the one-hot encoding, make sure that HR is used as the reference category.
 
-4. An understanding of multicollinearity should be clearly demonstrated and checked with any of the standard techniques.
+4. An understanding of multi-collinearity should be clearly demonstrated and checked with any of the standard techniques.
 
 5. A common issue is incorrect interpretation of the residuals plot. Make sure interpretation demonstrates understanding for what the residual tell us about the appropriateness of the model.
