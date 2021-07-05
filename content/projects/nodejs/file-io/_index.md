@@ -89,12 +89,10 @@ charlie.save() # results in an UPDATE to visitor_3.json
 ## Instructions for reviewer
 
 
-- Please make sure that the save method saves the data in lower case and that whitespace is replaced by an underscore. This is the only accepted format.
+- The save method should save the data in lower case and whitespace should be replaced by an underscore. This is the only accepted format.
 
-- The use of string literals is highly encouraged for the save method. It's good if a recruit uses them
+- The load function should print/console.log the visitor data. Ensure that the visitor data is not returned instead.
 
-- The load function should print/console.log the visitor data. ensure that the visitor data is not returned instead.
+- Edge cases should be catered for. The recruit should make sure that the load function takes in the proper data type.
 
-- Edge cases should be catered for. We should make sure that the load function takes in the proper data type.
-
-- Use Mocks and spies if/when testing this project - since you will be interacting with the file system.
+- The recruit should use mocks and spies if/when testing this project - since the project requires interacting with the file system.
