@@ -77,17 +77,17 @@ Import the [MDG data](MDG_Export_20191227.csv) to a Jupyter Notebook. You will n
 
 1. A learner should be able to find any problems in the dataset without printing out the entire dataset like
    one would do in an Excel spreadsheet for example.  One thing to check for is changing the way pandas prints
-   a dataset, things such as pd.set_option( ).
+   a dataset, things such as `pd.set_option()`.
 
 2. Learners should understand the difference between a missing value and a NaN value.  It seems that students use
    the terminology interchangeably.
 
-3. Learners need to be able to make the correct deductions following commands such as .info( ) and .describe( ). 
+3. Learners need to be able to make the correct deductions following commands such as `.info()` and `.describe()`. 
    Sometimes learners will use these commands since they know it is required of them, but they are not entirely 
    comfortable with what is presented to them by these commands.
 
 4. How do learners answer basic questions such as 'How many countries are represented'.  If it is a case of endless
-   'for' loops and 'if' statements then the recruit is not comfortable with the basic functionality which pandas or
+   `for` loops and `if` statements then the learner is not comfortable with the basic functionality which pandas or
    numpy provides.
 
 5. Does the learner clean the dataframe, impute missing values and set the dataframe in a neat order at the beginning
@@ -95,8 +95,8 @@ Import the [MDG data](MDG_Export_20191227.csv) to a Jupyter Notebook. You will n
    bad practice.
 
 6. Learners should be comfortable in answering questions such as 'Who are the top and bottom five countries in terms of
-   CO2 emissions in 1990, and what are their emissions' using standard pandas functionality such as .nlargest( ),
-   .contains( ), .groupby( ).  When learners don't understand how to use these functions as a collective they revert
+   CO2 emissions in 1990, and what are their emissions' using standard pandas functionality such as `.nlargest()`,
+   `.contains()`, `.groupby()`.  When learners don't understand how to use these functions as a collective they revert
    to things such as printing out an entire dataframe or finding the answer through a series of loops.
 
 7. Any plots that are to be done should be neat and easily readable.  The plot must have a heading, the labels should
