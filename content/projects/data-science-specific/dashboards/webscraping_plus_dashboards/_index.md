@@ -14,6 +14,8 @@ submission_type: repo
 tags:
 - webscraping
 - dashboard
+- beautifulsoup
+- regular-expressions
 title: Webscraping and Live Dashboard Assignment
 ---
 

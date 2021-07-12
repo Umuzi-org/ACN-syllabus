@@ -11,6 +11,7 @@ ready: true
 submission_type: repo
 tags:
 - apache-airflow
+- dags
 title: DAGs with Airflow
 ---
 

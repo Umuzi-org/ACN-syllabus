@@ -13,7 +13,9 @@ ready: true
 story_points: 3
 submission_type: repo
 tags:
-- multiple-linear-regression
+- linear-regression
+- data-analysis
+- statistics
 title: Multivariate Linear Regression
 ---
 

@@ -17,6 +17,8 @@ story_points: 8
 submission_type: repo
 tags:
 - kmeans
+- sklearn
+- clustering
 title: K-Means Clustering Assignment
 ---
 

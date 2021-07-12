@@ -13,6 +13,9 @@ story_points: 21
 submission_type: repo
 tags:
 - nlp
+- sentiment-analysis
+- nltk
+- textblob
 title: Natural language processing
 ---
 

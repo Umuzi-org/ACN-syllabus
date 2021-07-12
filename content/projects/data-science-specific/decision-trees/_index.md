@@ -16,6 +16,9 @@ story_points: 8
 submission_type: repo
 tags:
 - decision-trees
+- sklearn
+- statistics
+- classification
 title: Decision Trees
 ---
 

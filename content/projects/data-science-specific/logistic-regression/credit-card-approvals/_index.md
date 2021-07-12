@@ -16,7 +16,8 @@ ready: true
 story_points: 2
 submission_type: repo
 tags:
-- datacamp-logistic-regression
+- logistic-regression
+- sklearn
 title: Predict credit card approvals
 ---
 

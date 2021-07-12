@@ -14,6 +14,8 @@ story_points: 8
 submission_type: repo
 tags:
 - plotly
+- dashboard
+- data-visualisation
 title: Plotly Dashboard Assignment
 ---
 
