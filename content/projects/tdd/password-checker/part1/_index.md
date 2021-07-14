@@ -153,6 +153,7 @@ Please don't re-implement the same check in two different places. Good code is D
 
 ## Instructions for reviewers
 
-- For passwordStrength function, if conditions 1 and 2 are not met and all the other conditions are met the function should return Invalid. e.g `P@ssw 12` or `User1@` should be Invalid.
+- For passwordStrength function, If any one of these passwords is passed in `P@ssw 12` or `User1@` ensure Invalid is returned.
 
-- For PasswordIsValid function, if all conditions are met nothing should be printed or returned. e.g `P@ssw0rd 12` shouldn't output anything.
+- Ensure that the passwordIsValid function doesn't return or print any of the error messages above and that the throw or throw Error statements are used.
+
