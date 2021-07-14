@@ -20,14 +20,14 @@ The contents of the State of the Nation Address (SONA) for every year dating bac
 
 1. Create a corpus from the English-language text for the SONAs dating back to 2000. Save them with the speaker information and date for later analysis. Where there is more than one SONA per year, get both.
 
-2. Use `NLTK` to create a document-term matrix from the text. To do this, the text should be:
+2. Use `NLTK` to create a document-term matrix from the text. To do this, the text should be:  
 
-- in lowercase with punctuation and numbers removed (tip: use regular expressions)
-- tokenized and lemmatized
-- without stop words
-- in a matrix
+  * in lowercase with punctuation and numbers removed (tip: use regular expressions)
+  * tokenized and lemmatized
+  * without stop words
+  * in a matrix
 
-3. Examine the most frequently removed terms in each speech. You may need to add additional stop words that are said very often, such as "South Africa" and "country". If a word occurs in the top 10 words in each SONA, add it to the stop words list.
+3. Examine the most frequently used terms in each speech. You may need to add additional stop words that are said very often, such as "South Africa" and "country". If a word occurs in the top 10 words in each SONA, add it to the stop words list.
 
 4. How do the speeches compare in terms of complexity and length? How many speeches are there per president? On average, which presidents use the most unique words and which presidents use the most words?
 
