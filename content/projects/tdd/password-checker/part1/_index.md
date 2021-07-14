@@ -150,10 +150,3 @@ Please don't re-implement the same check in two different places. Good code is D
 ## Java Resources
 
 - https://howtodoinjava.com/junit5/expected-exception-example/
-
-## Instructions for reviewers
-
-- For passwordStrength function, If any one of these passwords is passed in `P@ssw 12` or `User1@` ensure Invalid is returned.
-
-- Ensure that the passwordIsValid function doesn't return or print any of the error messages above and that the throw or throw Error statements are used.
-
