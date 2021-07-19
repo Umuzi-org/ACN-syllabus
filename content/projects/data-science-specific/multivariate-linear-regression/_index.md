@@ -43,6 +43,7 @@ Import the data [salary.csv](salary.csv) to a Jupyter Notebook. A description of
     - Which variables seem like good predictors of salary?
     - Do any of the variables need to be transformed to be able to use them in a linear regression model?
 
+
 2. Perform some basic **features engineering** by one-hot encoding the variable Field into three dummy variables, using HR as the reference category. You can use pandas' `get_dummies()` function for this (refer to "Background materials 1-3").
 
 3. Perform **correlation and statistical significance analysis** to validate the relationship salary to each of the potential predictor variables:
@@ -51,22 +52,22 @@ Import the data [salary.csv](salary.csv) to a Jupyter Notebook. A description of
     - Calculate p-values related to the Pearson correlation coefficients
     - Address any problems that may adversely affect the multiple regression (e.g multicollinearity)
 
+
 4. Conduct some basic **feature selection** tasks by aggregating results from EDA, correlation matrix and p-values. Justify your feature selection decisions.
 
-5. **Train model**:
-    - Split your data into a training and test set.
-    - Fit a multiple linear regression model using a training dataset with corresponding features selected above
+5. **Train model**: Split your data into a training and test set. Fit a multiple linear regression model using a training dataset with corresponding features selected above
     - Use the multiple linear regression model created from independent variables selected above and the training dataset to predict _salary_ using the training dataset.
     - Interpret the standardised coefficients given in the statsmodels output.
     - What are the most important features when predicting employee salary?
 
-6. **Evaluate model**
 
-    - Run your model on the _test set_.
+6. **Evaluate model**: Run your model on the _test set_.
+
     - Calculate and explain the significance of the Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Square Error (RMSE) and R-squared values for your model
     - Calculate the standardised residuals (`resid()`) and standardised predicted values (`fittedvalues()`).
     - Plot the residuals versus the predicted values using seaborn's `residplot` with predicted values as the x parameter, and the actual values as y, specify `lowess=True`.
     - Are there any problems with the regression?
+
 
 7. **Benchmark with cross-validation model**
 
