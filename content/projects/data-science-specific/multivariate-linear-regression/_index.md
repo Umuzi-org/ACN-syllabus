@@ -37,45 +37,42 @@ Import the data [salary.csv](salary.csv) to a Jupyter Notebook. A description of
 
 ### Steps and questions
 
-1. Perform some **exploratory data analysis (EDA)** is by creating appropriate plots (e.g scatterplots and histograms) to visualise and investigate relationships between dependent variables and the target/independent variable (salary).
+1. Perform some **exploratory data analysis (EDA)** by creating appropriate plots (e.g scatterplots and histograms) to visualise and investigate relationships between dependent variables and the target/independent variable (salary).
 
-- Create a descriptive statistics table to further characterise and describe the population under investigation.
-- Which variables seem like good predictors of salary?
-- Do any of the variables need to be transformed to be able to use them in a linear regression model?
+    - Create a descriptive statistics table to further characterise and describe the population under investigation.
+    - Which variables seem like good predictors of salary?
+    - Do any of the variables need to be transformed to be able to use them in a linear regression model?
 
 2. Perform some basic **features engineering** by one-hot encoding the variable Field into three dummy variables, using HR as the reference category. You can use pandas' `get_dummies()` function for this (refer to "Background materials 1-3").
 
 3. Perform **correlation and statistical significance analysis** to validate the relationship salary to each of the potential predictor variables:
 
-- Calculate Pearson correlation coefficient and plot the corresponding correlation matrix
-- Calculate p-values related to the Pearson correlation coefficients
-- Address any problems that may adversely affect the multiple regression (e.g multicollinearity)
+    - Calculate Pearson correlation coefficient and plot the corresponding correlation matrix
+    - Calculate p-values related to the Pearson correlation coefficients
+    - Address any problems that may adversely affect the multiple regression (e.g multicollinearity)
 
-5.  Conduct some basic **feature selection** tasks by aggregating results from EDA, correlation matrix and p-values. Justify your feature selection decisions.
+4. Conduct some basic **feature selection** tasks by aggregating results from EDA, correlation matrix and p-values. Justify your feature selection decisions.
 
-6.  Split your data into a training and test set.
+5. **Train model**:
+    - Split your data into a training and test set.
+    - Fit a multiple linear regression model using a training dataset with corresponding features selected above
+    - Use the multiple linear regression model created from independent variables selected above and the training dataset to predict _salary_ using the training dataset.
+    - Interpret the standardised coefficients given in the statsmodels output.
+    - What are the most important features when predicting employee salary?
 
-7.  **Train model**:
+6. **Evaluate model**
 
-- Fit a multiple linear regression model using a training dataset with corresponding features selected above
-- Use the multiple linear regression model created from independent variables selected above and the training dataset to predict _salary_ using the training dataset.
-- Interpret the standardised coefficients given in the statsmodels output.
-- What are the most important features when predicting employee salary?
+    - Run your model on the _test set_.
+    - Calculate and explain the significance of the Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Square Error (RMSE) and R-squared values for your model
+    - Calculate the standardised residuals (`resid()`) and standardised predicted values (`fittedvalues()`).
+    - Plot the residuals versus the predicted values using seaborn's `residplot` with predicted values as the x parameter, and the actual values as y, specify `lowess=True`.
+    - Are there any problems with the regression?
 
-8. **Test model**: Run your model on the _test set_.
+7. **Benchmark with cross-validation model**
 
-9. **Evaluate model**
-
-- Calculate and explain the significance of the Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Square Error (RMSE) and R-squared values for your model
-- Calculate the standardised residuals (`resid()`) and standardised predicted values (`fittedvalues()`).
-- Plot the residuals versus the predicted values using seaborn's `residplot` with predicted values as the x parameter, and the actual values as y, specify `lowess=True`.
-- Are there any problems with the regression?
-
-10. **Benchmark with cross-validation model**
-
-- Perform cross-validation using the training dataset, test and evaluate the cross-validation model with test data
-- Compare performance of the cross-validation model (less prone to over-fitting) to determine whether the developed model has overfitted or not
-- Does it seem like you have a reasonably good model?
+    - Perform cross-validation using the training dataset, test and evaluate the cross-validation model with test data
+    - Compare performance of the cross-validation model (less prone to over-fitting) to determine whether the developed model has overfitted or not
+    - Does it seem like you have a reasonably good model?
 
 ### References
 
