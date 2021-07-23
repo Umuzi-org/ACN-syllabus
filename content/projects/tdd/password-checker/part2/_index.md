@@ -16,7 +16,7 @@ tags:
 title: Add logging to password checker
 ---
 
-In part one of this exercise you created two functions. Now you are going to upgrade that program by adding some logging capabilities.
+In part one of this exercise you created two functions. Now you are going to upgrade that program by adding some logging capabilities. You are expected to use the recommended logging library(or framework) for your programming language, e.g. Winston(for javascript) and so on.
 
 1. Whenever `passwordIsOk` returns true, log the following message
 
