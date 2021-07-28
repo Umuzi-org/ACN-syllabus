@@ -87,7 +87,7 @@ That's it :) now you'll be able to poke around the main site
 
 ### setting up and running the linter a Debian based machine (linux ubuntu/mint)
 
-Make sure you have Python3 installed. This wont work with legacy Python (python2.7 == legacy == dangerzone).
+Make sure you have Python3 installed. This won't work with legacy Python (python2.7 == legacy == dangerzone).
 We use [Pipenv](https://pipenv.pypa.io/en/latest/) for dependency management, to install run
 
 ```
@@ -123,22 +123,6 @@ python lint.py
 ```
 
 The linter starts off by looking over all the frontmatter and making sure that's fine. Then it builds the site and looks for trouble.
-
-Some error messages are a bit funny looking. If you see something like this:
-
-```
-content/projects/django-airbnb-clone/users-can-crud-properties/_index.md has unrecognized frontmatter: reatdy
-```
-
-Then it means that there is a typo in the given file.
-
-And then if you get a message like this:
-
-```
-public/syllabuses/data-eng-boot/index.html:  <span class="contentlink-missing" data="topics/intro-to-tilde"
-```
-
-Then that means there is a contentlink that is pointint to a file that doesn't exist. Did the file move? Was it deleted? Is something misspelled?
 
 ### setting up and running the linter on windows
 
@@ -182,6 +166,24 @@ the 'findstr' command
 
 DO NOT commit the changes you made to the lint.py file as this will have a massive adverse effect on everyone else
 who is running lint.py from a non Windows platform.
+
+### linter error messages
+
+Some error messages are a bit funny looking. If you see something like this:
+
+```
+content/projects/django-airbnb-clone/users-can-crud-properties/_index.md has unrecognized frontmatter: reatdy
+```
+
+Then it means that there is a typo in the given file.
+
+And then if you get a message like this:
+
+```
+public/syllabuses/data-eng-boot/index.html:  <span class="contentlink-missing" data="topics/intro-to-tilde"
+```
+
+Then that means there is a contentlink that is pointint to a file that doesn't exist. Did the file move? Was it deleted? Is something misspelled?
 
 ## Syllabus Content
 
