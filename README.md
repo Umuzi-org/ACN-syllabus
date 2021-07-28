@@ -36,19 +36,8 @@ git config --global user.email "youremail@yourdomain.com"
 
 ### to clone this repo
 
-Don't try to 'git clone --recursive git@github.com:Umuzi-org/ACN-syllabus.git' if you don't have a public SSH key in your Github account.
-If you are unsure, rather use:
-
 ```
 git clone --recursive https://github.com/UserName_on_Github/ACN-syllabus.git
-```
-
-If you do have a public SSH key in your Github account then you can do the following, there is a submodule in here so clone recursively:
-
-Eg:
-
-```
-git clone --recursive git@github.com:Umuzi-org/ACN-syllabus.git
 ```
 
 ### to get yourself set up on a Debian based machine (linux ubuntu/mint)
@@ -76,6 +65,18 @@ brew install go
 brew install hugo -> look for version 0.51
 ```
 
+### Windows 10
+
+Ensure you have a compatible Linux terminal for windows, if not, checkout: https://ubuntu.com/tutorials/ubuntu-on-windows#1-overview
+
+After cloning recursively from the repo and setting up your global github email and username you can run the following 
+two commands, the correct Hugo version should be installed after running the second command.
+
+```
+sudo apt install golang
+./install_hugo.sh
+```
+
 ### to run the development server, once it is installed
 
 ```
@@ -84,7 +85,7 @@ hugo serve -b "http://localhost:1313/"
 
 That's it :) now you'll be able to poke around the main site
 
-### setting up and running the linter
+### setting up and running the linter a Debian based machine (linux ubuntu/mint)
 
 Make sure you have Python3 installed. This wont work with legacy Python (python2.7 == legacy == dangerzone).
 We use [Pipenv](https://pipenv.pypa.io/en/latest/) for dependency management, to install run
@@ -139,17 +140,7 @@ public/syllabuses/data-eng-boot/index.html:  <span class="contentlink-missing" d
 
 Then that means there is a contentlink that is pointint to a file that doesn't exist. Did the file move? Was it deleted? Is something misspelled?
 
-### Windows 10
-
-Ensure you have a compatible Linux terminal for windows, if not, checkout: https://ubuntu.com/tutorials/ubuntu-on-windows#1-overview
-
-After cloning recursively from the repo and setting up your global github email and username you can run the following 
-two commands, the correct Hugo version should be installed after running the second command.
-
-```
-sudo apt install golang
-./install_hugo.sh
-```
+### setting up and running the linter on windows
 
 Installing pipenv will probably be different depending on which Python you have, you must have nothing less than
 Python 3.
