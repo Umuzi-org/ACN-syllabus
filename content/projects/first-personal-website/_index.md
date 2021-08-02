@@ -59,6 +59,10 @@ Start small and simple. Get the basic structure in first. Don't sit and obsess o
 
 Also, we'll be looking out for good developer habits. Please make sure you push your code often and your git commit messages actually make sense!
 
+Try to avoid fancy flowery language, it's actually more impressive when people get straight to the point. Communicate clearly and efficiently.
+
+Demonstrate attention to detail. Make sure your stuff is tidy. Use whitespace as needed. Make sure your pictures are not squashed or stretched.
+
 ### Links
 
 - [How to make a GitHub Page](https://pages.github.com/)
