@@ -32,6 +32,8 @@ lettersToMoreseCode("Hi there")
 // ".... .. / - .... . .-. ."
 ```
 
+Make sure to cater for punctuation marks and all special characters.
+
 Include the following assertions in your code:
 
 - assert that the output and input both have the same number of characters represented

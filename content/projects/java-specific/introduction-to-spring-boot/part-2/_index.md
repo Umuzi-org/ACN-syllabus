@@ -13,6 +13,10 @@ ready: true
 submission_type: continue_repo
 tags:
 - spring-boot
+- annotations
+- unit-testing
+- caching
+- security
 title: Introduction to Spring Boot - part 2
 ---
 

@@ -57,13 +57,18 @@ Import the data [salary.csv](salary.csv) to a Jupyter Notebook. A description of
 2. Using the statsmodels package and the _training data_, run a simple linear regression for Salary with one predictor variable: Years Worked.
    - Does the model significantly predict the dependent variable? Report the amount of variance explained (R^2) and significance value (p) to support your answer.
    - What percentage of the variance in employees’ salaries is accounted for by the number of years they have worked?
+
 3. What does the unstandardized coefficient (B or 'coef' in statsmodels) tell you about the relationship between Years Worked and Salary?
+
 4. What do the 95% confidence intervals [0.025, 0.975] mean?
+
 5. Calculate the expected salary for someone with 12 years’ work experience.
+
 6. Calculate the expected salary for someone with 80 years’ work experience. Are there any problems with this prediction? If so, what are they?
+
 7. We have only looked at the number of years an employee has worked. What other employee characteristics might influence their salary?
 
-Now fit your model to your test set. DO NOT BUILD A NEW MODEL ON THE TEST SET! Simply use your existing, model, to predict salaries in the test set.
+    Now fit your model to your test set. DO NOT BUILD A NEW MODEL ON THE TEST SET! Simply use your existing, model, to predict salaries in the test set.
 
 8. How does your model compare when running it on the test set - what is the difference in the Root Mean Square Error (RMSE) between the training and test sets? Is there any evidence of overfitting?
 

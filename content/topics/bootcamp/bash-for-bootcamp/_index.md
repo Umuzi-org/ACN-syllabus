@@ -17,7 +17,7 @@ The first step is to open the command line or terminal on your device:
   - using [linux subsystem for windows](https://itsfoss.com/install-bash-on-windows/), just open your linux terminal
 - If you are using mac or linux, jkust open your terminal
 
-If this is the first time you've ever opened such a program, DONT PANIC! You'll get used to this thing.
+If this is the first time you've ever opened such a program, DON'T PANIC! You'll get used to this thing.
 
 Now you'll need to learn a few basic commands to get by:
 

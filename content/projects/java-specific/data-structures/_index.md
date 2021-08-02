@@ -10,6 +10,10 @@ prerequisites:
   soft: []
 ready: true
 submission_type: repo
+tags:
+- problem-solving
+- array-manipulation
+- tdd
 title: Java data structures
 ---
 

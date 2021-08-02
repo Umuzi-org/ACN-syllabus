@@ -11,6 +11,10 @@ prerequisites:
   - sql/shop-project
 ready: true
 submission_type: repo
+tags:
+- sql
+- spring-boot
+- jdbc
 title: SQL Extended
 ---
 

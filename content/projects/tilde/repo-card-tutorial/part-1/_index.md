@@ -5,6 +5,7 @@ flavours:
 - none
 prerequisites:
   hard:
+  - environment-setup
   - topics/github/intro
 ready: true
 submission_type: repo
@@ -35,7 +36,7 @@ Also note that you will get invitations to collaborate on other people's repos f
 
 ### Why can't I just give you a link to my work?
 
-I'm going to tell you a little secret. Working with junior developers is annoying. Generally when a junior developer gets their first job and have to interact with a serious code base and a team of mid and senior developers, they just bump their heads on git for weeks. Even if they know how to write code, they dont know how to write code on a team.
+I'm going to tell you a little secret. Working with junior developers is annoying. Generally when a junior developer gets their first job and have to interact with a serious code base and a team of mid and senior developers, they just bump their heads on git for weeks. Even if they know how to write code, they don't know how to write code on a team. They don't know how to be useful.
 
 Generally when you work on a serious project with a serious team, you'll need to incorporate your code into their repo. So we want you to start practicing now.
 
@@ -49,16 +50,40 @@ We "protect" the main branch in order to stop you from pushing to it. The reason
 
 If you look at the project details you'll see that a repo has been created for you. Please click on the link and visit the repo page on Github.
 
-### 1. Make a branch
+For now you can interact with Github using the user interface. You don't need to worry about using git from the command line. Not just yet anyway. In future projects you'll become a git command-line ninja. For now we just need you to see how Tilde and Github play together. 
 
-Create a branch. In your branch add a markdown file. This is a plain text file with the extension `.md`. You can create one of these with ny old text editor. We'll learn more about markdown later, it's a useful tool for documenting projects.
+### 1. Make a file
 
-In your markdown file, just write some stuff. Whatever you want really. Make a new commit on your branch with your new content.
+Open up your test editor of choice and create a markdown file. This is a plain text file with the extension `.md`. In your markdown file, just write some stuff. Whatever you want really. We'll learn more about markdown later, it's a useful tool for documenting projects.
+
+#### What is markdown?
+
+It's a seriously useful way of writing text files. A lot of software projects use it for documentation. It's built into Github as well.
+
+This website you are looking at is generated from markdown files. Now is a good time to get used to it.
+
+Have some links :)
+
+- https://www.ultraedit.com/company/blog/community/what-is-markdown-why-use-it.html
+- https://www.markdownguide.org/cheat-sheet/
+
+To create a markdown file just create a file with the extension `.md`. That's it.
+
+If you are using ACode on your android device, you can press the "play" button in the editor and your markdown will get rendered as a website.
+
+If you are running vscode you can right click on a markdown file and select "open preview" to see what your work looks like.
+
+If anything up until this point doesn't make sense please ask for help! Our staff are dedicated to setting you up for success.
 
 ### 2. Make a PR (Pull Request)
 
-Make a PR that in order to merge your stuff into master. You'll notice that you can't merge it though. This is because the main branch is protected. You need to get a little help.
+Now upload your file to Github and create a new branch. 
 
+Make a PR that in order to merge your stuff into the main branch. You'll notice that you can't merge it though. This is because the main branch is protected. You need to get a little help.
+
+#### Video Tutorial for 1 & 2 below
+
+{{% youtube KyDxI7gOQbo %}}
 ### 3. Get your PR merged
 
 In order to get your stuff merged into master, you need 2 people to "Approve" your PR.
