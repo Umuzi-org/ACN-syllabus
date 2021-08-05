@@ -1,6 +1,6 @@
 ---
-title: Functions, return statements and printing/logging
 content_type: topic
+title: Functions, return statements and printing/logging
 ---
 
 Students should 100% understand the following concepts. Note that simply memorizing this stuff will be insufficient. In the final test the different concepts will be combined in complex ways.

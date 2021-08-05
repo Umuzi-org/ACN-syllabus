@@ -18,6 +18,7 @@ story_points: 8
 submission_type: repo
 tags:
 - logistic-regression
+- sklearn
 title: Predict breast cancer
 ---
 
