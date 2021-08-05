@@ -36,6 +36,7 @@ Now, in your language of choice (not bash, use Java, Python or Js) write a funct
 - end date
 
 The function should output a list or array of pull requests on the repo such that the PRs were created, updated, merged or closed between the given two dates.
+For each PR include the `id`, `user` (who opened the PR), `title`, `state`, and when it was created.
 
 Please be sure to follow the standard naming conventions for your language.
 
