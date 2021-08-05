@@ -14,7 +14,8 @@ ready: true
 story_points: 5
 submission_type: repo
 tags:
-- oop-data-sci
+- oop
+- linear-regression
 title: OOP for data science
 ---
 

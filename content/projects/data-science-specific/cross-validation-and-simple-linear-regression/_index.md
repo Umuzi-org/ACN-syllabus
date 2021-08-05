@@ -14,7 +14,9 @@ ready: true
 story_points: 13
 submission_type: repo
 tags:
-- simple-linear-regression
+- linear-regression
+- statistics
+- data-analysis
 title: Cross-validation & Simple Linear Regression
 ---
 
