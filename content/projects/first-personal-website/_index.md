@@ -70,3 +70,12 @@ To learn more about Github Pages visit this link https://guides.github.com/featu
 - [Web Developer Portfolios to inspire you](https://medium.freecodecamp.org/15-web-developer-portfolios-to-inspire-you-137fb1743cae)
 - [Building a Data Science Portfolio](https://www.dataquest.io/blog/build-a-data-science-portfolio/)
 - [Tips to include towards creating an effective Portfolio](https://www.freecodecamp.org/news/how-to-build-an-awesome-data-science-portfolio/)
+
+
+## Instructions for reviewer 
+
+- The link submitted should direct you to the website.
+- All social media accounts and work profiles should work.
+- Font and text size should be clear.
+- They should make use of the entire web page.
+- It should be responsive to all screen sizes.

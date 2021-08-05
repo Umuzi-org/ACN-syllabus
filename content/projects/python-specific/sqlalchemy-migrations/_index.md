@@ -9,7 +9,10 @@ prerequisites:
   soft: []
 ready: true
 submission_type: repo
-tags: []
+tags:
+- docker
+- postgresql
+- sqlalchemy
 title: Database migrations with SQLAlchemy
 ---
 
