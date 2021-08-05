@@ -19,10 +19,6 @@ submission_type: repo
 tags:
 - logistic-regression
 - sklearn
-- pandas
-- numpy
-- matplotlib
-- feature-selection
 title: Predict breast cancer
 ---
 
