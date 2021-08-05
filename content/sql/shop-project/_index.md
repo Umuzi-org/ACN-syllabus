@@ -5,8 +5,8 @@ flavours:
 - none
 prerequisites:
   hard:
-  - topics/solo-learn/sql/4-challenges
-  - docker/intro-to-docker/
+    - topics/solo-learn/sql/4-challenges
+    - docker/intro-to-docker/
   soft: []
 ready: true
 story_points: 3
@@ -26,7 +26,7 @@ title: Shop Database using sql
 
 ## Part 1: Creating a database
 
-Save all of your instructions in a script file - you will submit this file on Gnomio and github.
+Save all of your instructions in script files - you will submit these files on Gnomio and github.
 
 1. Create a database called "shop".
 
@@ -48,13 +48,13 @@ Save all of your instructions in a script file - you will submit this file on Gn
 
 ### Customers Table
 
-| CustomerID (int) | FirstName (varchar50) | LastName (varchar50) | Gender (varchar) | Address (varchar200)  | Phone (int 10) | Email (varchar100)     | City (varchar20) | Country (varchar50) |
-| ---------------- | --------------------- | -------------------- | ---------------- | --------------------- | -------------- | ---------------------- | ---------------- | ------------------- |
-| 1                | John                  | Hibert               | Male             | 284 chaucer st        | 084789657      | john@gmail.com         | Johannesburg     | South Africa        |
-| 2                | Thando                | Sithole              | Female           | 240 Sect 1            | 0794445584     | thando@gmail.com       | Cape Town        | South Africa        |
-| 3                | Leon                  | Glen                 | Male             | 81 Everton Rd,Gillits | 0820832830     | Leon@gmail.com         | Durban           | South Africa        |
-| 4                | Charl                 | Muller               | Mal              | 290A Dorset Ecke      | +44856872553   | Charl.muller@yahoo.com | Berlin           | Germany             |
-| 5                | Julia                 | Stein                | Female           | 2 Wernerring          | +448672445058  | Js234@yahoo.com        | Frankfurt        | Germany             |
+| CustomerID (int) | FirstName (varchar50) | LastName (varchar50) | Gender (varchar) | Address (varchar200)  | Phone (varchar 20) | Email (varchar100)     | City (varchar20) | Country (varchar50) |
+| ---------------- | --------------------- | -------------------- | ---------------- | --------------------- | ------------------ | ---------------------- | ---------------- | ------------------- |
+| 1                | John                  | Hibert               | Male             | 284 chaucer st        | 084789657          | john@gmail.com         | Johannesburg     | South Africa        |
+| 2                | Thando                | Sithole              | Female           | 240 Sect 1            | 0794445584         | thando@gmail.com       | Cape Town        | South Africa        |
+| 3                | Leon                  | Glen                 | Male             | 81 Everton Rd,Gillits | 0820832830         | Leon@gmail.com         | Durban           | South Africa        |
+| 4                | Charl                 | Muller               | Male             | 290A Dorset Ecke      | +44856872553       | Charl.muller@yahoo.com | Berlin           | Germany             |
+| 5                | Julia                 | Stein                | Female           | 2 Wernerring          | +448672445058      | Js234@yahoo.com        | Frankfurt        | Germany             |
 
 ### Employees Table
 
@@ -90,7 +90,7 @@ Save all of your instructions in a script file - you will submit this file on Gn
 
 ## Part 2: Querying a database
 
-Save all of your instructions in a script file - you will submit this file on Gnomio and github.
+Save all of your instructions in script files - you will submit these files on Gnomio and github.
 
 7. SELECT ALL records from table Customers.
 
@@ -125,3 +125,7 @@ Save all of your instructions in a script file - you will submit this file on Gn
 22. Using INNER JOIN create a query that selects all Payments with Customer information.
 
 23. Select all products that have turnable front wheels.
+
+## Files to submit
+- yaml/yml file with container setup.
+- `src` directory with 3 SQL script files(a script to create tables, populate tables and one to query the database).
