@@ -40,7 +40,7 @@ What we want to do is build a simple application that a musician can use to test
 
 In the second video, Justin talks about a game that you can play with a jam buddy. Your buddy picks two notes from the note circle and tells them to you, then you tell your buddy how many semi-tones seperate those notes. That is basically what we are building here.
 
-The final goal is to have a program that outputs two notes from the note circle and then allows the user to enter a number. The program needs to be ablt to tell the user if they chose the correct number or not.
+The final goal is to have a program that outputs two notes from the note circle and then allows the user to enter a number. The program needs to be able to tell the user if they chose the correct number or not.
 
 For those of you studying web dev, you will be expected to build a simple user interface for this thing using vanilla js. For those of you studying Python you can make a command-line utility that does this.
 
