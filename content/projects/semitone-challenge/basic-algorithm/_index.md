@@ -27,7 +27,7 @@ We want to see the following skills demonstrated in different parts of this proj
 - conditions
 - datatypes
 - operators
-- DOM maipulation
+- DOM manipulation
 
 This project should be completed in a TDD way.
 
