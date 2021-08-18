@@ -67,7 +67,7 @@ Note: you can do all of this stuff from the command line! You should be using li
 
 1. type in `nano README.md`. This will open up a text editor. Type in some stuff and then press `ctrl x` to exit. Then `y` then `enter`. This will save your changes
 2. type in `cat README.md`. This will print your file to the console
-3. take a look at the `git stats` again and make sure you understand it
+3. take a look at the `git status` again and make sure you understand it
 4. commit your changes to your repo. Your commit should have the message `"second commit"`
 5. make some more changes to your readme and make a `"third commit"`
 
