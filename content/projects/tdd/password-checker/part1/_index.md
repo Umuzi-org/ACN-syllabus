@@ -130,7 +130,7 @@ This function should count the number of conditions met and then return a string
 
 - If number of conditions met >= 6: return "strong"
 - If number of conditions met >= 4: return "medium"
-- If number of conditions met >= 3: return "weak"
+- If number of conditions met == 3: return "weak"
 - If conditions 1 or 2 are not met: return "invalid"
 
 ## Note on DRY code
