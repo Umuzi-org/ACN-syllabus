@@ -8,11 +8,12 @@ prerequisites:
   hard:
   - projects/data-science-specific/statistical-thinking
   - projects/data-science-specific/data-visualisation
-  - projects/data-science-specific/cross-validation-and-simple-linear-regression
-  - projects/data-science-specific/multivariate-linear-regression
   - projects/data-science-specific/logistic-regression/credit-card-approvals
   - topics/jupyter-notebooks-best-practices
   - topics/data-science-specific/data-science-methodology
+  soft:
+  - projects/data-science-specific/cross-validation-and-simple-linear-regression
+  - projects/data-science-specific/multivariate-linear-regression
 ready: true
 story_points: 8
 submission_type: repo
