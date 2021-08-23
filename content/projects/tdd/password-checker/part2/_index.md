@@ -16,7 +16,7 @@ tags:
 title: Add logging to password checker
 ---
 
-In part one of this exercise you created two functions. Now you are going to upgrade that program by adding some logging capabilities.
+In part one of this exercise you created two functions. Now you are going to upgrade that program by adding some logging capabilities using Log4J.
 
 1. Whenever `passwordIsOk` returns true, log the following message
 

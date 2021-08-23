@@ -5,8 +5,8 @@ flavours:
 - none
 prerequisites:
   hard:
-    - topics/solo-learn/sql/4-challenges
-    - docker/intro-to-docker/
+  - topics/solo-learn/sql/4-challenges
+  - docker/intro-to-docker/
   soft: []
 ready: true
 story_points: 3
@@ -26,7 +26,7 @@ title: Shop Database using sql
 
 ## Part 1: Creating a database
 
-Save all of your instructions in script files - you will submit these files on Gnomio and github.
+Save all of your instructions in script files - you will submit these files on Github.
 
 1. Create a database called "shop".
 
@@ -90,7 +90,7 @@ Save all of your instructions in script files - you will submit these files on G
 
 ## Part 2: Querying a database
 
-Save all of your instructions in script files - you will submit these files on Gnomio and github.
+Save all of your instructions in script files - you will submit these files on Github.
 
 7. SELECT ALL records from table Customers.
 
