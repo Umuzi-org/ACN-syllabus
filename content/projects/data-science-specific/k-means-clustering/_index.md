@@ -7,7 +7,6 @@ pre: '<b>MEDIUM: </b>'
 prerequisites:
   hard:
   - projects/data-science-specific/statistical-thinking
-  - projects/data-science-specific/data-visualisation
   - projects/data-science-specific/logistic-regression
   - topics/data-science-specific/clustering
   - topics/jupyter-notebooks-best-practices
