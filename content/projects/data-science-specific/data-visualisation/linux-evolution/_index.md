@@ -5,8 +5,8 @@ flavours:
 - python
 pre: '<b>MEDIUM: </b>'
 prerequisites:
-  hard:
-  - projects/tdd/simple-calculator-part1
+  soft:
+  - projects/data-science-specific/data-wrangling
 ready: true
 story_points: 3
 submission_type: repo

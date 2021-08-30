@@ -8,6 +8,7 @@ prerequisites:
   hard:
   - projects/data-science-specific/statistical-thinking
   - projects/data-science-specific/data-visualisation/mobile-money-viz
+  - topics/data-science-specific/data-science-methodology
   soft:
   - topics/jupyter-notebooks-best-practices
 ready: true

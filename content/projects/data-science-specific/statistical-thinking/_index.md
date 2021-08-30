@@ -6,8 +6,10 @@ flavours:
 pre: '<b>MEDIUM: </b>'
 prerequisites:
   hard:
-  - projects/data-science-specific/data-visualisation/mobile-money-viz
+  - projects/data-science-specific/data-visualisation/linux-evolution
   - topics/jupyter-notebooks-best-practices
+  soft:
+  - projects/data-science-specific/data-wrangling
 ready: true
 story_points: 13
 submission_type: repo
@@ -83,8 +85,8 @@ Import the [MDG data](MDG_Export_20191227.csv) to a Jupyter Notebook. You will n
 2. Learners should understand the difference between a missing value and a NaN value.  It seems that students use
    the terminology interchangeably.
 
-3. Learners need to be able to make the correct deductions following commands such as `.info()` and `.describe()`. 
-   Sometimes learners will use these commands since they know it is required of them, but they are not entirely 
+3. Learners need to be able to make the correct deductions following commands such as `.info()` and `.describe()`.
+   Sometimes learners will use these commands since they know it is required of them, but they are not entirely
    comfortable with what is presented to them by these commands.
 
 4. How do learners answer basic questions such as 'How many countries are represented'.  If it is a case of endless
@@ -104,11 +106,11 @@ Import the [MDG data](MDG_Export_20191227.csv) to a Jupyter Notebook. You will n
    be in bold, the x and y axes should make sense (Multipliers should be added if necessary).
 
 8. Most learners have no problem in calculating the standard error or the standard deviation in the mean, however,
-   when they have to explain their findings they find it difficult to do so since they do not thoroughly grasp the 
+   when they have to explain their findings they find it difficult to do so since they do not thoroughly grasp the
    underlying statistical concepts, or they have forgotten their true meaning since they last studied the topic.
 
 9. Pearson coefficient, Spearman coefficient, correlation coefficient, p-value, Null hypothesis and Alternative hypothesis.  
-   This is where most learners have major difficulty.  They can find the answers to the questions through the code easy 
+   This is where most learners have major difficulty.  They can find the answers to the questions through the code easy
    enough, but they cannot clearly and simply explain what these terms mean and how they all work together, when to accept
    or reject a Null hypothesis, if the p-value is small, but the Null hypothesis is stated not as a negative but as
    a positive, should I still reject the Null hypothesis?  These are the kind of questions learners should be
