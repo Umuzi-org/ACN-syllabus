@@ -53,3 +53,6 @@ for n in [0,1,2]:
     print("here")    # this one only executes 3 times. Why?
 ```
 
+## all learners should be able to reason about continue and break in a single for loop
+
+## all learners should be able to reason about continue and break within a nested for loop
