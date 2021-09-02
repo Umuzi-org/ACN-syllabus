@@ -2,7 +2,7 @@
 title: For loops
 ---
 
-Many people do pattern matching instead of understanding. Here are some common things that will be tested:
+Many people do pattern matching instead of understanding. Here are some common things that will be tested
 
 ## JS and Java learners understands that they can count up and down
 
@@ -56,3 +56,9 @@ for n in [0,1,2]:
 ## all learners should be able to reason about continue and break in a single for loop
 
 ## all learners should be able to reason about continue and break within a nested for loop
+
+## all learners should be able to iterate over strings and arrays
+
+## all learners should understand the basics of while loops
+
+## all learners should be able to use loops to solve basic problems such as the

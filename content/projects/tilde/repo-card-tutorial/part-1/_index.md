@@ -50,11 +50,27 @@ We "protect" the main branch in order to stop you from pushing to it. The reason
 
 If you look at the project details you'll see that a repo has been created for you. Please click on the link and visit the repo page on Github.
 
-For now you can interact with Github using the user interface. You don't need to worry about using git from the command line. Not just yet anyway. In future projects you'll become a git command-line ninja. For now we just need you to see how Tilde and Github play together. 
+For now you can interact with Github using the user interface. You don't need to worry about using git from the command line. Not just yet anyway. In future projects you'll become a git command-line ninja. For now we just need you to see how Tilde and Github play together.
+
+### Super important note about adding reviewers to your Pull Request
+
+Whenever you add a person to a pull request then they get an email. So if you randomly add absolutely everyone to your PR then absolutely everyone gets an email.
+
+That is called Spam. Nobody likes spam. Even Mother Theresa. So we, and Mother Theresa, would appreciate it if you didn't spam people.
+
+Who should you add to your PR as reviewers?  For now, don't add anyone.
+
+Generally it is best practice to only add people to your PR if you know who they are and know that they are the correct people to perform a review.
+
+I repeat: For now you should not add any reviewers to any of your PRs because we REALLY REALLY DISLIKE SPAMMERS A LOT.
 
 ### 1. Make a file
 
-Open up your test editor of choice and create a markdown file. This is a plain text file with the extension `.md`. In your markdown file, just write some stuff. Whatever you want really. We'll learn more about markdown later, it's a useful tool for documenting projects.
+Open up your test editor of choice and create a markdown file. This is a plain text file. Name it `important.md`.
+
+Inside the text file please write a list of everyone you should be adding to your PR as reviewers and why.
+
+Hint: The list should be empty. And the reasons are explained in this document if you scroll up a little.
 
 #### What is markdown?
 
@@ -77,16 +93,19 @@ If anything up until this point doesn't make sense please ask for help! Our staf
 
 ### 2. Make a PR (Pull Request)
 
-Now upload your file to Github and create a new branch. 
+Now upload your file to Github and create a new branch.
 
 Make a PR that in order to merge your stuff into the main branch. You'll notice that you can't merge it though. This is because the main branch is protected. You need to get a little help.
+
+Now don't add any reviewers. Because it will make Mother Theresa sad.
 
 #### Video Tutorial for 1 & 2 below
 
 {{% youtube KyDxI7gOQbo %}}
+
 ### 3. Get your PR merged
 
-In order to get your stuff merged into master, you need 2 people to "Approve" your PR.
+In order to get your stuff merged into master, you need 2 people to "Approve" your PR. Don't add people to your PR on Github. We'll handle it via Tilde.
 
 Read more about PR approvals here: https://docs.github.com/en/enterprise/2.13/user/articles/approving-a-pull-request-with-required-reviews
 
