@@ -1,5 +1,5 @@
 ---
-title: For loops
+title: "Assessment: For loops"
 ---
 
 Many people do pattern matching instead of understanding. Here are some common things that will be tested
@@ -11,9 +11,9 @@ for (some_initialiser,some_check,some_update){
     ...
 }
 ```
-They should be able to reason about ech of the different parts of the loops configuration.
+They should be able to reason about each of the different parts of the loops configuration.
 
-## python learners understand `range` and `in`
+\## python learners understand `range` and `in`
 
 ```
 for x in [1,2,3,4,5]:
@@ -55,10 +55,39 @@ for n in [0,1,2]:
 
 ## all learners should be able to reason about continue and break in a single for loop
 
+eg:
+```
+for (let i = 0; i < 5; i++){
+    print(i)
+    print("a")
+    if (i <2) continue; // what does this do?
+    print("b")
+    if (i>4) break;     // how about this?
+    print("c")
+}
+```
+
 ## all learners should be able to reason about continue and break within a nested for loop
+
+```
+for (let n=0; n<3 n++){
+    print(n)
+    for (let i = 0; i < 5; i++){
+        print(i)
+        print("a")
+        if (i <2) continue; // what does this do?
+        print("b")
+        if (i>4) break;     // how about this?
+        print("c")
+    }
+}
+```
 
 ## all learners should be able to iterate over strings and arrays
 
+Some people think you need to turn stings into arrays before you can start iterating over them. This is not the case!
+
 ## all learners should understand the basics of while loops
 
-## all learners should be able to use loops to solve basic problems such as the
+- Can you convert a for loop into a while loop?
+- How do `break` and `continue` statements work in while loops versus for loops?
