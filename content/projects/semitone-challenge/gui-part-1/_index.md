@@ -36,11 +36,21 @@ If you are required to do this in a web framework then do so, otherwise create a
 
 Please put your html in a file called index.html in your root directory.
 
+### DOM Manipulation
+
+DOM Manipulation is very useful when it comes modifying the content, structure or styling of an HTML page.
+
+useful Link: [JavaScript HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)
+
+
 ### Unit tests
 
 TDD is a must. Yes, you need to even unit test your DOM manipulations.
 
-This is useful: https://github.com/jsdom/jsdom 
+useful Links:
+
+- https://github.com/jsdom/jsdom 
+- https://github.com/ResponsiveWebApps/DOMTestingJasmine
 
 When testing your dom, don't just check that your boring html exists. Make sure that when the "Get random notes" button is clicked then the right dom elements get updated. Tests do not exist to take up space, they exist to make sure your code actually works.
 
