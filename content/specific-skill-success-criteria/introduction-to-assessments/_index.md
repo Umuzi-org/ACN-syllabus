@@ -1,4 +1,7 @@
 ---
+_db_id: 713
+content_type: topic
+ready: true
 title: Introduction to live assessments
 ---
 

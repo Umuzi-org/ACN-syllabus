@@ -1,7 +1,8 @@
 ---
-title: "Assessment: Classes and objects"
+_db_id: 711
 content_type: topic
-topic_needs_review: True
+title: 'Assessment: Classes and objects'
+topic_needs_review: true
 ---
 
 All students need to provably understand all of the following concepts:

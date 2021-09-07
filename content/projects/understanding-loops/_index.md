@@ -1,10 +1,16 @@
 ---
-title: Shopping cart calculations
+_db_id: 705
+content_type: project
+flavours:
+- any_language
+ready: true
+submission_type: repo
 tags:
 - loops
 - functions
 - foundations
 - data structures
+title: Shopping cart calculations
 ---
 
 A lot of noob programmers don't know why understanding is important. They think they can just copy code from people and that's enough to get by. BUT as soon as you get your first job you'll need to solve some serious problems on your own.
@@ -122,4 +128,3 @@ Write a function called `get customers with open baskets` that returns a list/ar
 - having the main data structure as a global is ok, but there shouldn't be other global variables
 - there can be some global constants to help prevent typos. eg `const DELIVERED="DELIVERED"`
 - functions are supposed to return very specific things
-

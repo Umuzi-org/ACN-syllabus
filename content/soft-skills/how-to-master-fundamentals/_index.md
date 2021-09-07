@@ -1,4 +1,7 @@
 ---
+_db_id: 706
+content_type: topic
+ready: true
 title: How to become a ninja
 ---
 
@@ -58,5 +61,3 @@ For example, lets say you have a `continue` statement inside a while loop, insid
 - When you are getting the answers wrong: Strip out complexity, try to zoom into the thing you are not understanding
 
 Once you think you understand something, test yourself again in a different way. Restructure your code so it demonstrates the same concept. **Test yourself, don't kid yourself**
-
-

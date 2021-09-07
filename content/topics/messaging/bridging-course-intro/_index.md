@@ -1,6 +1,7 @@
 ---
-title: Intro to bridging course
+_db_id: 715
 content_type: topic
+title: Intro to bridging course
 ---
 
 Congrats! You made it into the bridging course.

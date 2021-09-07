@@ -1,7 +1,9 @@
 ---
-title: "Assessment: For loops"
+_db_id: 712
 content_type: topic
-topic_needs_review: True
+ready: true
+title: 'Assessment: For loops'
+topic_needs_review: true
 ---
 
 Many people do pattern matching instead of understanding. Here are some common things that will be tested

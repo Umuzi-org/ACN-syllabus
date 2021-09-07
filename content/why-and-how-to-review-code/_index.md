@@ -1,4 +1,6 @@
 ---
+_db_id: 714
+content_type: topic
 title: Why and how to review code
 ---
 
@@ -50,5 +52,3 @@ If you can help people understand stuff, then you will be helping them kick-star
 And if someone tries to just spoonfeed you answers instead of giving you feedback you can learn from, please give them feedback and help them become a better reviewer.
 
 # Always remember that the goal of code review in an education setting is UNDERSTANDING. Help each other understand. Not just "complete" stuff
-
-
