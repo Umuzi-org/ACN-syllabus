@@ -7,7 +7,7 @@ Congrats! You made it into the bridging course.
 
 Getting through the full Umuzi program is pretty hard. We made this course so that we can make sure we can set as many people up for success as possible. The worst thing we can do is accept someone into our course when they aren't quite ready for it because if a person is not quite work-ready by the end then it's a waste of a year and really stressful and horrible for everyone involved.
 
-The idea behind this course is to allow you to polish up a few skills that were covered in the bootcamp. We also want to help you learn how to learn more effectively.
+The idea behind this course is to allow you to polish up a few skills that were covered in the bootcamp. We also want to help you learn how to learn more effectively and add a little shine to some of your so-called "soft" skills. (Soft skills are hard you guys)
 
 You can learn how to learn better. Being an effective learner will supercharge your whole life.
 
@@ -15,15 +15,21 @@ You can learn how to learn better. Being an effective learner will supercharge y
 
 The first thing to know is that you'll have a bunch of cards on your Tilde boards. You need to deal with those cards in the usual way.
 
+Make sure you read everything properly and focus on understanding.
+
 ## FOCUS NOW
 
 Understating is CRITICAL!!!
 
-If you manage to get all your Tilde cards into the Complete column and one of our staff members talks to you and it turns out that you don't understand the code that you submitted then we wont be able to accept you into any of our full program.
+If you manage to get all your Tilde cards into the Complete column and one of our staff members talks to you and it turns out that you don't understand the code that you submitted then we wont be able to accept you into any of our full programs.
 
 This is not a race, there is no prize for the person who finishes first.
 
 If you can UNDERSTAND all the stuff covered in this course then you're golden. **Even if that means you move your cards slowly.**
+
+Make sure you read everything properly.
+
+If you submitted work during the bootcamp and you didn't 100% understand it, then please go back and revisit that stuff.  Re-do the tutorials and make sure you master the material. You should be able to do the projects yourself! As a professional you will be asked to do way harder stuff, **if you want a career then master the material**.
 
 ## It's our job to make content that helps you understand
 
@@ -36,6 +42,12 @@ We wont be spoonfeeding you though. We want to turn you into a professional. Pro
 We won't be expecting you to work on any specific schedule. But we will expect you to be consistent. Try to build a sustainable habit. Work on this course a bit every day.
 
 If you are moving too slowly and you are in danger of not finishing the bridging course in time then we'll let you know as soon as we can. Then you'll be able to adapt quickly.
+
+## Your target
+
+You have a lot of cards on your board. We need you to get the following into the "COMPLETE" column:
+
+Everything up to and including the first three Assessment cards. When you move an assessment card into the "review" column then you're basically asking to be tested. If you UNDERSTAND all the code you wrote and all the concepts covered then you'll do fine in the tests.
 
 ## Danger zone
 

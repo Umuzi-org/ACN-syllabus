@@ -21,7 +21,7 @@ If you have not yet clicked the "start project" button for this card, do so now.
 It might take a few seconds to move. The reason for this is that a whole lot of things are happening in the background.
 
 - A github repo is created for you to work on. This is a private repo, so only certain people can see it
-- The main branch is protected. We'll talk more about what this means a little bit later
+- The `main` branch is protected. We'll talk more about what this means a little bit later
 - you are added as a "collaborator" on the repo so you have access
 
 Now explore the card. Click on the details button and see what's there.
@@ -38,9 +38,11 @@ Also note that you will get invitations to collaborate on other people's repos f
 
 I'm going to tell you a little secret. Working with junior developers is annoying. Generally when a junior developer gets their first job and have to interact with a serious code base and a team of mid and senior developers, they just bump their heads on git for weeks. Even if they know how to write code, they don't know how to write code on a team. They don't know how to be useful.
 
+We aim to create useful junior devs. Not annoying junior devs. When you get your first job, we want you to keep it. If you get fired because you can't use git then that would be pretty sad.
+
 Generally when you work on a serious project with a serious team, you'll need to incorporate your code into their repo. So we want you to start practicing now.
 
-I admit it might feel a little weird at first, but you'll get used to it :)
+I admit it might feel a little weird at first, but you'll get the hang of it :)
 
 ### Why can't I push to the main branch?
 

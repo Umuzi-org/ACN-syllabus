@@ -57,5 +57,3 @@ Umuzi used to be an in person training organisation. Covid changed that. When Um
 Also, before you get your first real job as a professional techie, you are going to get interviewed. You can also consider this practice for those scary job interviews.
 
 As a techie, you're going to need to be familiar with how you hadle stress, and you are going to need to learn to think under pressure. If you can get that right then you will do great things. But be patient with yourself.
-
-
