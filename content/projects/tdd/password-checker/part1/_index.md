@@ -130,7 +130,7 @@ This function should count the number of conditions met and then return a string
 
 - If number of conditions met >= 6: return "strong"
 - If number of conditions met >= 4: return "medium"
-- If number of conditions met >= 3: return "weak"
+- If number of conditions met == 3: return "weak"
 - If conditions 1 or 2 are not met: return "invalid"
 
 ## Note on DRY code
@@ -156,4 +156,3 @@ Please don't re-implement the same check in two different places. Good code is D
 - For passwordStrength function, if any one of these passwords is passed in `P@ssw 12` or `User1@` ensure Invalid is returned.
 
 - Ensure that the passwordIsValid function doesn't return or print any of the error messages above and that the throw or throw Error statements are used.
-

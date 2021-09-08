@@ -25,7 +25,7 @@ This isn't like high-school, memorizing stuff and getting hints isn't the way to
 
 ## Keep an eye on your inbox
 
-You're going to be invited to collaborate on a bunch of Github repos as time goes by. It is CRITICAL that you accept those invites. Otherwise you wont be able to do the required work.
+If you are a coder: You're going to be invited to collaborate on a bunch of Github repos as time goes by. It is CRITICAL that you accept those invites. Otherwise you wont be able to do the required work.
 
 ### Communication
 
@@ -42,7 +42,7 @@ applicant: the code wont run
 staff member: Is there an error message?
 applicant: here is a shakey, blurrey video of my computer: [attatchment: suuuuucks.zip]
 staff member: Please send me the error text as actual text
-applicant: here it is: [one tiny useless part of the error message]
+applicant: here it is: [one tiny useless part of the error message chosen at random]
 staff member: Sometimes I wonder how we got this far as a species (quits job)
 ```
 
@@ -59,7 +59,7 @@ staff member: Here is an explanation [explanation], and here are some resources 
 
 The ideal: Don't be late for meetings. And if you are given a deadline then make sure you meet it.
 
-Life is messy sometimes being perfect isn't always possible. That's ok, we're all human and we can understand when things are hard. But it is on _YOU_ to communicate effectively.
+Life is messy sometimes and being perfect isn't always possible. That's ok, we're all human and we can understand when things are hard. But it is on _YOU_ to communicate effectively.
 
 - if you can't make it to an event: say something ahead of time. As soon as you see a problem, communicate about it
 - if you think you wont hit a deadline: say something ahead of time. As soon as you see a problem, communicate about it
@@ -72,7 +72,7 @@ If you get into our program you'll be expected to seek out help when you need it
 
 If you get stuck: Don't suffer in silence. Ask the other bootcampers, and ask the staff. Be a team player.
 
-If you help someone, don't just give them code to use. They need to understand how to solve the problems themselves. For real. If we catch people copying each other or encouraging copying then those people will be rejected from our program.
+If you help someone, don't just give them code to use, don't do each other's homework. They need to understand how to solve the problems themselves. For real. If we catch people copying each other or encouraging copying then those people will be rejected from our program.
 
 If you ask someone for help, don't just ask them for answers. You need to understand how to solve the problems yourself.
 
@@ -80,7 +80,7 @@ If you ask someone for help, don't just ask them for answers. You need to unders
 
 Ok, this is a bit heavy. But it's really important that you understand this stuff.
 
-If we catch you copying each other's work, we'll immediately take you off the program. Why? Because we need to train professionals who can actually do work and add value. When you get a job as a professional coder you'll be asked to build things that nobody has ever built, there will be nobody to copy from.
+If we catch you copying each other's work, we'll immediately take you off the program. Why? Because we need to train professionals who can actually do work and add value. When you get a job as a professional you'll be asked to build things that nobody has ever built, there will be nobody to copy from. If all you can do is copy, then you wont have a career.
 
 If you are disrespectful or abusive towards any of your peers or staff members and we see it, you're out. We don't expect you to be super formal or anything, just be kind to each other.
 
@@ -90,9 +90,9 @@ If you suck up to staff members or try to bribe your way in, you're out.
 
 ## Don't be a spammer
 
-Don't add random people as reviewers on your pull requests, that is called spam. Everyone you add to your PR gets an email. Don't just randomly add everyone. That's just annoying.
+**CODERS:** Don't add random people as reviewers on your pull requests, that is called spam. Everyone you add to your PR gets an email. Don't just randomly add everyone. That's just annoying.
 
-Respect people's time. There was one bootcamper who somehow got the CTO's personal phone number and thought it was ok to send midnight messages asking for help with code. That kind of thing is not no appropriate. You need to respect the boundaries of staff members and of your peers.
+**Everyone** Respect people's time. There was one bootcamper who somehow got the CTO's personal phone number and thought it was ok to send midnight messages asking for help with code. That kind of thing is not no appropriate. You need to respect the boundaries of staff members and of your peers.
 
 ## How you should prioritize your work
 

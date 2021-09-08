@@ -9,7 +9,7 @@ prerequisites:
   soft: []
 ready: true
 submission_type: repo
-tags: 
+tags:
 - docker
 - mongodb
 - tdd
