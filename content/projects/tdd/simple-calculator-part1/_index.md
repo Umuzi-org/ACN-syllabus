@@ -161,3 +161,11 @@ multiply(1,3)
 multiply(-1,3)
 // should still return -3
 ```
+
+## Instructions for reviewer
+
+* `__init__.py` not needed if repo is set up properly (python).
+* The point of tests in TDD isn't only to have tests but to have very specific tests. For a given input we don't just want to know that they pass or fail. So instead of one function that tests everything you want specific tests.
+* Do not use builtin function names as variable e.g. `sum`.
+* Tests should have descriptive names.
+* Builtin functions should not be used in this project.

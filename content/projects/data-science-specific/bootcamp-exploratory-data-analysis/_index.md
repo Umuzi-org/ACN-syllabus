@@ -10,6 +10,9 @@ prerequisites:
   - topics/data-science-specific/intro-to-google-colab
 ready: true
 submission_type: repo
+tags:
+- statistics
+- data-analysis
 title: Bootcamp Exploratory Data Analysis
 ---
 

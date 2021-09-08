@@ -20,7 +20,7 @@ Submit the final version of your presentation slides from your design thinking s
 
 Ensure this document meets the standards and criteria in {{% contentlink path="national-qualifications-framework/ncit/content/write-a-report" %}}
 
-It should be labeled like: FirstName LastName - Research Notes
+It should be labeled like: FirstName LastName - Technical Report
 
 Recommended format: PDF
    

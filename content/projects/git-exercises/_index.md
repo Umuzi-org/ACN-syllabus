@@ -67,7 +67,7 @@ Note: you can do all of this stuff from the command line! You should be using li
 
 1. type in `nano README.md`. This will open up a text editor. Type in some stuff and then press `ctrl x` to exit. Then `y` then `enter`. This will save your changes
 2. type in `cat README.md`. This will print your file to the console
-3. take a look at the `git stats` again and make sure you understand it
+3. take a look at the `git status` again and make sure you understand it
 4. commit your changes to your repo. Your commit should have the message `"second commit"`
 5. make some more changes to your readme and make a `"third commit"`
 
@@ -411,3 +411,4 @@ If you are curious now, spend some time googling git branching strategies. We us
 - Check if the learner understands how merging works, by ensuring that the main branch has files merged into it. You can also take a look at the network diagram to check for merging.
 - Check the commit messages to see if a learner actually knows how to add, commit or push using the terminal or command line. If the commit message is `Add files via upload`, it indicates that the command line was not used.
 - Ensure that there are no merge conflict. If this kind of text `<<<<<<< HEAD` or `=======` appears on the README.md file, it indicates that merge conflicts were not resolved.
+
