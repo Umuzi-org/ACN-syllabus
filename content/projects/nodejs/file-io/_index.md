@@ -88,11 +88,8 @@ charlie.save() # results in an UPDATE to visitor_3.json
 
 ## Instructions for reviewer
 
+- The load function should print/console.log the visitor data. Ensure that the visitor data is not returned instead. UNLESS, the learner has taken up the challenge on laid out in the instructions section (instruction 4)
 
-- The save method should save the data in lower case and whitespace should be replaced by an underscore. This is the only accepted format.
+- Edge cases should be catered for. The learner should make sure that the load function takes in the proper data type.
 
-- The load function should print/console.log the visitor data. Ensure that the visitor data is not returned instead.
-
-- Edge cases should be catered for. The recruit should make sure that the load function takes in the proper data type.
-
-- The recruit should use mocks and spies if/when testing this project - since the project requires interacting with the file system.
+- The learner should use mocks and spies if/when testing this project - since the project requires interacting with the file system.
