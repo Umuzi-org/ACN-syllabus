@@ -7,7 +7,7 @@ title: Introduction to live assessments
 
 Imagine you decide you want to build a house. So you hire a builder to help you out. You discover that the builder doesn't know what a brick is. So you fire the dude.
 
-Imagine hiring a carpenter who doesn't know how to use a screwdriver.
+Imagine hiring a carpenter who can't identify the business end of a screwdriver.
 
 For every profession, there are certain skills that are fundamental. People who don't have these skills just get fired.
 And people who do have these skills can go on to do great things.
@@ -40,10 +40,9 @@ The assessment will take the form of a meeting. A trusted member of our communit
 
 They will write some code and ask you what it prints to the terminal. If you get the answer right then they'll make a change to the code. they might add some more code, they might remove something, they might swap things around.
 
-The staff member might also ask you specific questions about how to approach solving a problem.
+They might also ask you specific questions about how to approach solving a problem. They could get pretty creative.
 
-**If you just memorised stuff you will fail**. You need to UNDERSTAND in order to pass the assessment.
-
+**If you just memorised stuff you will fail!** You need to UNDERSTAND in order to pass the assessment.
 ## Stressed out?
 
 Tests are scary. Live tests where someone is making you think out loud are even more stressful than regular tests. We get it.

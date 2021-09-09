@@ -24,6 +24,6 @@ Linux Ubuntu or Mint will be demonstrated to the recruits. Demonstrate:
 
 ## Prerequisites for speaker
 
-Whoever is doing ths workshop should be familiar with th excercises given to recruits. Questions will come up, you should be able to answer them.
+Whoever is doing ths workshop should be familiar with the exercises given to recruits. Questions will come up, you should be able to answer them.
 
 - {{% contentlink path="projects/linux" %}}
