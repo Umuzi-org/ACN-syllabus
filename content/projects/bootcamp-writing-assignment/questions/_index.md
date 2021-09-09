@@ -1,8 +1,9 @@
 ---
-title: "Bootcamp writing assignment questions"
+_db_id: 730
 content_type: project
-submission_type: nosubmit
 ready: true
+submission_type: nosubmit
+title: Bootcamp writing assignment questions
 ---
 
 ## 1. Your history [200 - 500 words]
