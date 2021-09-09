@@ -18,7 +18,7 @@ title: Level 2 coding challenges
 
 ## Task 2.1
 
-Update your existing square function so that it takes 2 parameters. The first parameter should be the size of the square, and the second one should be the character to use when drawing the square. The second parameter should be optional.
+Update your existing square function so that it takes 2 parameters; do not overload the square function. The first parameter should be the size of the square, and the second one should be the character to use when drawing the square. The second parameter should be optional.
 
 eg `square(2)` should output
 
@@ -36,7 +36,7 @@ eg `square(2, '*')` should output
 
 ## Task 2.2
 
-Upgrade your triangle function so that it takes in an optional argument named `mode`.
+Upgrade your triangle function so that it takes in an optional argument named `mode`; do not overload the triangle function.
 
 `triangle(3)` should print
 
