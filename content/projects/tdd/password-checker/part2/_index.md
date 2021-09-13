@@ -16,7 +16,7 @@ tags:
 title: Add logging to password checker
 ---
 
-In part one of this exercise you created two functions. Now you are going to upgrade that program by adding some logging capabilities.
+In part one of this exercise you created two functions. Now you are going to upgrade that program by adding some logging capabilities. You are expected to use the recommended logging library(or framework) for your programming language, e.g. Winston(for javascript) and so on.
 
 1. Whenever `passwordIsOk` returns true, log the following message
 
@@ -40,7 +40,7 @@ Take note, we aren't actually logging the user's password. In general you want t
 - The log level should be `error`
 - The log should be printed to the standard output / terminal / console
 - Error logs should also be stored in a file called `errors.log`
-- Your debug logs SHOULD NOT be inside the `error.log` file
-- Make sure that you update your .gitignore so that the `error.log` file is not in your repo
+- Your debug logs SHOULD NOT be inside the `errors.log` file
+- Make sure that you update your .gitignore so that the `errors.log` file is not in your repo
 
 Please take note: All your previous tests should all pass.

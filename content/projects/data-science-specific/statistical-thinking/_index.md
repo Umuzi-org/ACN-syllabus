@@ -107,7 +107,7 @@ Import the [MDG data](MDG_Export_20191227.csv) to a Jupyter Notebook. You will n
    when they have to explain their findings they find it difficult to do so since they do not thoroughly grasp the
    underlying statistical concepts, or they have forgotten their true meaning since they last studied the topic.
 
-9. Pearson coefficient, Spearman coefficient, correlation coefficient, p-value, Null hypothesis and Alternative hypothesis.  
+9. Pearson coefficient, Spearman coefficient, correlation coefficient, p-value, Null hypothesis and Alternative hypothesis.
    This is where most learners have major difficulty.  They can find the answers to the questions through the code easy
    enough, but they cannot clearly and simply explain what these terms mean and how they all work together, when to accept
    or reject a Null hypothesis, if the p-value is small, but the Null hypothesis is stated not as a negative but as

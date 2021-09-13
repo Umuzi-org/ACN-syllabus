@@ -119,7 +119,7 @@ Rules: Don't delete any data in your production database! But you can completely
 
 ## Submission instructions
 
-For this project we will need you to commit your migrations to your feature branch. The migrations should get your database to a point where the recruit and cohort tables are both set up properly.
+For this project we will need you to commit your migrations to your feature branches. The migrations should get your database to a point where the recruit and cohort tables are both set up properly.
 
 We'll also need you to give us a bunch of working scripts for creating recruits.
 
