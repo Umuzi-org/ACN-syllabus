@@ -19,14 +19,13 @@ _db_id: 2
 - {{% contentlink path="topics/survey-design" %}}
 - {{% contentlink path="topics/google-forms-like-a-boss" %}}
 - {{% contentlink path="projects/data-science-specific/cross-validation-and-simple-linear-regression/" flavour="python" %}}
-- {{% contentlink path="projects/morse-code" flavour="python" %}}
 - {{% contentlink path="workshops/intro-to-data-ethics" %}}
 - {{% contentlink path="topics/data-ethics-and-privacy" %}}
 - {{% contentlink path="projects/tdd/string-calculator" flavour="python" %}}
 - {{% contentlink path="projects/data-science-specific/multivariate-linear-regression" flavour="python" %}}
-- {{% contentlink path="projects/github-api-consume" flavour="python" %}}
-- {{% contentlink path="projects/oop/animals/part2"  flavour="python" %}}
+- {{% contentlink path="projects/oop/animals/part1"  flavour="python" %}}
 - {{% contentlink path="projects/data-science-specific/oop-for-data-science" flavour="python" %}}
+- {{% contentlink path="projects/github-api-consume" flavour="python" %}}
 - {{% contentlink path="projects/data-science-specific/dashboards/plotly_dashboards" flavour="python" %}}
 - {{% contentlink path="sql/shop-project/" %}}
 - {{% contentlink path="projects/data-science-specific/logistic-regression/breast-cancer"  flavour="python"%}}
