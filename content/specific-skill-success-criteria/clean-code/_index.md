@@ -1,5 +1,7 @@
 ---
+_db_id: 707
 content_type: topic
+ready: true
 title: clean code
 ---
 
