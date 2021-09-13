@@ -5,8 +5,8 @@ flavours:
 - python
 pre: '<b>MEDIUM: </b>'
 prerequisites:
-  soft:
-  - projects/data-science-specific/data-wrangling
+  hard:
+  - projects/bootcamp-exploratory-data-analysis
 ready: true
 story_points: 3
 submission_type: repo
