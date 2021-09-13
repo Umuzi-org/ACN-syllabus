@@ -6,7 +6,7 @@ flavours:
 pre: '<b>MEDIUM: </b>'
 prerequisites:
   hard:
-  - projects/bootcamp-exploratory-data-analysis
+  - projects/data-science-specific/bootcamp-exploratory-data-analysis
 ready: true
 story_points: 3
 submission_type: repo
