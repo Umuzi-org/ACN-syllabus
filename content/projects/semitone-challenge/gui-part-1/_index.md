@@ -53,6 +53,19 @@ useful Links:
 - https://github.com/ResponsiveWebApps/DOMTestingJasmine
 
 When testing your dom, don't just check that your boring html exists. Make sure that when the "Get random notes" button is clicked then the right dom elements get updated. Tests do not exist to take up space, they exist to make sure your code actually works.
+In your tests you can use the document.addEventListener() method to check if a button has been clicked e.g.
+```
+//create a var and assign in with the html button element using the id
+let button = document.getElementById("btn");
+let notesDiv = document.getElementById("displayNotes").innerHTML;
+//create an onclick event with the clickable button
+button.addEventListener("Click", function(){
+  //assign the div with random notes
+  notesDiv.innerHTML = buddy.selectNotes();
+})
+// the notes div should not be empty after the click event, so expect it not to be empty
+expect(notesDiv.innerHTML).not.toBe("")
+```
 
 ### Make it look reasonably good
 
