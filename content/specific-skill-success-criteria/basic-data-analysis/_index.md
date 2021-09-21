@@ -18,6 +18,15 @@ All students must understand all of the following concepts:
 
 #### Mean (Average value):
 ```
+Calculating the mean (average value) by yourself:
+
+list_of_speed_data = [87, 94, 78, 77, 85, 86]
+
+mean = (87+94+78+77+85+86) = 507/6 = 84.5
+
+
+Calculating the mean using numpy:
+
 import numpy
 
 list_of_speed_data = [99, 86, 87, 88, 111, 86, 103, 87, 94, 78, 77, 85, 86]
@@ -28,6 +37,26 @@ x = numpy.mean(list_of_speed_data)
 
 #### Median (Middle value):
 ```
+Calculating the median (middle value) by yourself:
+
+list_of_speed_data = [100, 200, 300, 400, 500, 600]
+
+When we have an even amount of numbers we need to calculate the mean (average) of the two middle 
+numbers, in this case 300 and 400.  So the mean (average) of 300 and 400 is (300+400)/2 = 350.
+Therefore the mean (middle) value is:  median = 350
+
+
+When we have an odd amount of numbers we need to divide the total amount of numbers by 2 and then
+round up to the nearest integer.  For instance:
+
+list_of_speed_data = [100, 200, 300, 400, 500, 600, 700]
+
+There are seven numbers in the list, 7/2 = 3.5, if we round up to the nearest integer we get 4.  
+Therefore, the 4th number in the list will be the median (middle) value:  median = 400
+
+
+Calculating the median using numpy:
+
 import numpy
 
 list_of_speed_data = [99, 86, 87, 88, 111, 86, 103, 87, 94, 78, 77, 85, 86]
@@ -38,6 +67,11 @@ x = numpy.median(list_of_speed_data)
 
 #### Mode (Most frequent value):
 ```
+The mode is the value which occurs the most in a set.  So if you had a set [2, 2, 2, 3] then the
+mode would be 2 since 2 is the value which occurs most frequently in the set.
+
+Calculating the mode with stats from the scipy module:
+
 from scipy import stats
 
 list_of_speed_data = [99, 86, 87, 88, 111, 86, 103, 87, 94, 78, 77, 85, 86]
