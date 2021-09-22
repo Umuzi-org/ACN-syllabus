@@ -4,7 +4,7 @@ content_type: project
 flavours:
 - any_language
 prerequisites:
-  hard:
+  hard: null
 ready: true
 submission_type: link
 tags:
