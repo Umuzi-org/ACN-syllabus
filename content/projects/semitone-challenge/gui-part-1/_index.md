@@ -36,36 +36,13 @@ If you are required to do this in a web framework then do so, otherwise create a
 
 Please put your html in a file called index.html in your root directory.
 
-### DOM Manipulation
-
-DOM Manipulation is very useful when it comes modifying the content, structure or styling of an HTML page.
-
-useful Link: [JavaScript HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)
-
-
 ### Unit tests
 
 TDD is a must. Yes, you need to even unit test your DOM manipulations.
 
-useful Links:
-
-- https://github.com/jsdom/jsdom 
-- https://github.com/ResponsiveWebApps/DOMTestingJasmine
+This is useful: https://github.com/jsdom/jsdom 
 
 When testing your dom, don't just check that your boring html exists. Make sure that when the "Get random notes" button is clicked then the right dom elements get updated. Tests do not exist to take up space, they exist to make sure your code actually works.
-In your tests you can use the document.addEventListener() method to check if a button has been clicked e.g.
-```
-//create a var and assign in with the html button element using the id
-let button = document.getElementById("btn");
-let notesDiv = document.getElementById("displayNotes").innerHTML;
-//create an onclick event with the clickable button
-button.addEventListener("Click", function(){
-  //assign the div with random notes
-  notesDiv.innerHTML = buddy.selectNotes();
-})
-// the notes div should not be empty after the click event, so expect it not to be empty
-expect(notesDiv.innerHTML).not.toBe("")
-```
 
 ### Make it look reasonably good
 
