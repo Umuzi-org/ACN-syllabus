@@ -38,17 +38,13 @@ Take a look at this to see how you can see Tilde's data structures:
 Ideally you will be able to build stuff at least as complicated as that. But we'e going to start with some simpler things.
 ## Get started with the project by addding the data to your repo
 
-First of all, please download this data in [this file](data.json) and add it to your repo.
-
-Generally you would do some clever things to import the data, but for now you can just paste it straight into your code as a global variable.
-
-Please note: Generally, global variables are considered bad. For this project it's ok because we just want you to focus on getting the fuctionality to work.
+First of all, please download this data in [this file](data.json) and add it to your repo. Your code is going to have to read this data structure.
 
 If you look at the data you'll see that what we have is a list or array of elements. Each element represents a shopping basket.
 
 Each shopping basket has a few different pieces:
 1. email: this is the email address of the customer
-2. status: this can have a few differnet values:
+2. status: this can have a few different values:
    1. OPEN means that the person is still busy shopping
    2. PAID means that the person has paid for the basket in full, they are waiting for delivery
    3. DELIVERED means that the customer has paid for and received their stuff
@@ -64,6 +60,8 @@ For example if there is an item in the shopping cart that looks like this:
 {"name": "hamster", "quantity": 2, "price": 20}
 ```
 Then it means that the person is buying 2 hamsters at a price of R20 each. So that's R40 in total.
+
+Please note that one person can have multiple baskets. If you look at the data, you'll see that tshepo@umuzi.org has 4 baskets. Two have been delivered, one has been paid for (so he's awaiting delivery) and one is open (so he's setting up his next order).
 
 ## Write some functionality
 
@@ -125,6 +123,5 @@ Write a function called `get customers with open baskets` that returns a list/ar
 ## Notes to reviewers
 
 - the code must be DRY
-- having the main data structure as a global is ok, but there shouldn't be other global variables
 - there can be some global constants to help prevent typos. eg `const DELIVERED="DELIVERED"`
 - functions are supposed to return very specific things
