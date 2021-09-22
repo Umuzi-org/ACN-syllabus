@@ -5,7 +5,7 @@ flavours:
 - any_language
 prerequisites:
   hard:
-  - topics/intro-to-asserive-programming
+  - topics/intro-to-assertive-programming
   soft: []
 ready: true
 story_points: 3
@@ -27,7 +27,7 @@ morseCodeToLetters
 eg:
 
 ```
-lettersToMoreseCode("Hi there")
+lettersToMorseCode("Hi there")
 // should return
 // ".... .. / - .... . .-. ."
 ```
@@ -45,6 +45,7 @@ Make sure that when you do this, your code remains clean and DRY. DRY - it's a t
 
 - https://en.wikipedia.org/wiki/Morse_code
 - https://morsecode.scphillips.com/translator.html
+- https://morsecode.world/international/morse2.html
 - https://www.electronics-notes.com/articles/ham_radio/morse_code/characters-table-chart.php
 
 ## Remarks
@@ -58,3 +59,21 @@ For a problem like this one, unit tests are more appropriate.
 This is optional.
 
 Add unit tests to your code. Leave the assertions in there just so that we can see that you know how to hit the requirements we laid out. But if you have some passing tests as well that would be sweet.
+
+## Instructions for Reviewers
+
+- Ensure that both functions work with alphabets, numbers and all types of special characters that exist on a keyboard. 
+- Make sure that both functions returns and not prints the output.
+- When using assertions make sure that the assert statements are checking if the input and output lengths and input and output spaces are the same by checking if they are equal.
+- If Unit tests are used, make sure that there is a test that checks the input and output lengths and ensure that imports and exports was used correctly.
+- Make sure that the assertions do not print an error if empty strings are passed in both functions, e.g 
+
+```
+lettersToMorseCode("") // shouldn't print an assertion failure
+morseCodeToLetters("") // shouldn't print an assertion failure
+```
+
+## Mark as excellent if:
+
+- An assertion function was used to assert if both functions input and output data are the same
+- A global object was used to contain all the data e.g alphabets, numbers, special characters and morse code
