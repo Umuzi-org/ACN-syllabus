@@ -27,12 +27,10 @@ morseCodeToLetters
 eg:
 
 ```
-lettersToMoreseCode("Hi there")
+lettersToMorseCode("Hi there")
 // should return
 // ".... .. / - .... . .-. ."
 ```
-
-Make sure to cater for punctuation marks and all special characters.
 
 Include the following assertions in your code:
 
@@ -45,7 +43,6 @@ Make sure that when you do this, your code remains clean and DRY. DRY - it's a t
 
 - https://en.wikipedia.org/wiki/Morse_code
 - https://morsecode.scphillips.com/translator.html
-- https://www.electronics-notes.com/articles/ham_radio/morse_code/characters-table-chart.php
 
 ## Remarks
 
@@ -58,3 +55,14 @@ For a problem like this one, unit tests are more appropriate.
 This is optional.
 
 Add unit tests to your code. Leave the assertions in there just so that we can see that you know how to hit the requirements we laid out. But if you have some passing tests as well that would be sweet.
+
+## Instructions for Reviewers
+
+- Ensure that both functions can convert all types of characters to morse code and morse code to all types of characters like alphabets, numbers and special characters.
+- When using assertions make sure that the assert statements are checking if the input and output lengths and input and output spaces are the same by checking if they are equal.
+- Make sure that the assertions does not print an error if empty strings are passed in both functions, e.g 
+```
+lettersToMorseCode("") // shouldn't print an assertion failure
+morseCodeToLetters("") // shouldn't print an assertion failure
+```
+- If Unit tests are used, make sure that there is a test that checks input and output lengths.
