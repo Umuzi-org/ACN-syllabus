@@ -10,7 +10,7 @@ submission_type: link
 tags:
 - statistics
 - data-analysis
-title: Bootcamp Exploratory Data Analysis
+title: Exploratory Data Analysis
 ---
 
 You can find the instructions, relevant files etc. here: {{% contentlink path="projects/data-science-specific/bootcamp-exploratory-data-analysis" flavour="python" %}}
