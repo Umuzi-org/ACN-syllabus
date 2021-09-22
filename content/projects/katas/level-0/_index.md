@@ -5,8 +5,6 @@ flavours:
 - any_language
 prerequisites:
   hard:
-  - topics/messaging/honor-code
-  - projects/git-exercises
 ready: true
 submission_type: link
 tags:
