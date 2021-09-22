@@ -43,5 +43,4 @@ Tests are very important. Please follow the following best practices:
 ## Instructions for the reviewer
 
 - Check that once cards are matched, they cannot be flipped over again.
-- Check the good naming conventions are followed for files, variables, functions, classes and so on.
 - Make sure the specs actually tests the functionality of the code. Changes in the source files should affect the tests.

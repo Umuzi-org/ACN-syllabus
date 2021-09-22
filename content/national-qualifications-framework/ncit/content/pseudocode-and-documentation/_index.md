@@ -106,7 +106,7 @@ https://www.wikihow.com/Write-Pseudocode
 
 A quick summary (halfway down the page) with examples: http://userpages.wittenberg.edu/bshelburne/Comp150/Algorithms.htm
 
-A quick video description is [here](https://www.khanacademy.org/computing/computer-programming/programming/good-practices/p/lanning-with-pseudo-code)
+A quick video description is [here](https://www.khanacademy.org/computing/computer-programming/programming/good-practices/pt/planning-with-pseudo-code)
 
 ## 4. DONT DO THIS
 
@@ -116,9 +116,9 @@ var a = 0; // declare a variable called a
 
 If you ever catch yourself rewriting your code as English sentences then you are doing it wrong. It adds no value.
 
-Comments in your code exist to add clarty. Coders read code. They dont need you to rewite things in English. 
+Comments in your code exist to add clarity. Coders read code. They dont need you to rewite things in English. 
 
-Commants should be used to overcome confusing things. Eg you can explain *why* you are doing something. Or you could link to an external document that explains an algorithm you are implementing.
+Comments should be used to overcome confusing things. Eg you can explain *why* you are doing something. Or you could link to an external document that explains an algorithm you are implementing.
 
 Also, if you choose good variable and function names then comments become less necessary.
 

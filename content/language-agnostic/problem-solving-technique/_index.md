@@ -4,12 +4,12 @@ content_type: topic
 ready: true
 tags:
 - problem solving
-title: Problem decomposition
+title: Problem solving techniques
 ---
 
 As a coder, your job is to write code that solves problems. Problems that nobody has ever seen before! Problems that can't be Googled or YouTubed! Problems where the answers don't even exist on StackOverflow!
 
-What you need is a strategy that will work on any old problem. This might sound like something magical, but it exists.
+What you need is a strategy that will work on any problem. This might sound like something magical, but it exists.
 
 Basically every problem can be broken down into smaller problems. And those problems can be broken down again and again. Eventually you end up with a bunch of tidy little problems that can be written down as simple lines of code.
 
@@ -44,7 +44,7 @@ When writing tests for your code, it's important to test all the inputs
 - **Do follow coding best practice** Your code should be easy to read, it should make its intention clear. Choose meaningful names for your variables. Keep things DRY
 - **Do take time to plan your code** If you jump straight into writing code before planning it out and thinking it through, you'll end up wasting time. `Less haste == More speed`
 - **Don't try to show off** Some people think that making their code as fancy as possible is a good thing. Trust me. It is not. The best code is clear and readable. And it works.
-- **Don't write hightly nested code unless you have to** If you have a loop inside a loop inside an if statement inside a loop, you ARE doing it wrong. Remember you need to write code that humans can read. Break things down into functions if you need to
+- **Don't write highly nested code unless you have to** If you have a loop inside a loop inside an if statement inside a loop, you ARE doing it wrong. Remember you need to write code that humans can read. Break things down into functions if you need to
 
 ## Resources
 
@@ -53,6 +53,12 @@ These wonderful articles explain this stuff really well. Please read them:
 - https://medium.com/@dannysmith/breaking-down-problems-its-hard-when-you-re-learning-to-code-f10269f4ccd5
 - https://simpleprogrammer.com/solving-problems-breaking-it-down/
 - https://hackernoon.com/how-to-approach-any-coding-problem-9230f3ad6f9
+
+### General Problem solving
+
+The resources above are great resources for coding related problem solving techniques. But, problem solving is not unique only to coding. It is a skill to be practiced in everyday life. Please checkout the following content from MIT:
+
+- https://ccmit.mit.edu/problem-solving/
 
 ## Practice
 

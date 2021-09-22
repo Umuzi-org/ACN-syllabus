@@ -3,6 +3,9 @@ _db_id: 627
 content_type: project
 flavours:
 - any_language
+prerequisites:
+  hard:
+  - language-agnostic/problem-solving-technique
 ready: true
 submission_type: link
 tags:

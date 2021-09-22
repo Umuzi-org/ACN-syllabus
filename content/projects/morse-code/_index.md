@@ -32,6 +32,8 @@ lettersToMorseCode("Hi there")
 // ".... .. / - .... . .-. ."
 ```
 
+Make sure to cater for punctuation marks and all special characters.
+
 Include the following assertions in your code:
 
 - assert that the output and input both have the same number of characters represented
@@ -44,6 +46,7 @@ Make sure that when you do this, your code remains clean and DRY. DRY - it's a t
 - https://en.wikipedia.org/wiki/Morse_code
 - https://morsecode.scphillips.com/translator.html
 - https://morsecode.world/international/morse2.html
+- https://www.electronics-notes.com/articles/ham_radio/morse_code/characters-table-chart.php
 
 ## Remarks
 

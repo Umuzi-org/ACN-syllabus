@@ -4,7 +4,7 @@ public/
 .vscode/
 .idea/
 venv/
-
+env/
 umuzi-tech-dept
 /.vs/slnx.
 /.vs/*

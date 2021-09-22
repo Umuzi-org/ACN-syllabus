@@ -5,7 +5,7 @@ _db_id: 7
 
 - {{% contentlink path="agile/agile-scrum" %}}
 - {{% contentlink path="topics/solo-learn/java/1-basic-concepts" %}}
-- {{% contentlink path="workshops/big-picture-web-dev" %}}
+- {{% contentlink path="topics/big-picture-web-dev" %}}
 - {{% contentlink path="topics/solo-learn/java/2-conditionals-and-loops" %}}
 - {{% contentlink path="topics/solo-learn/java/3-arrays" %}}
 - {{% contentlink path="topics/clean-code" %}}
@@ -19,7 +19,7 @@ _db_id: 7
 - {{% contentlink path="projects/oop/person" flavour="java" %}}
 - {{% contentlink path="projects/oop/animals/part2" flavour="java" %}}
 - {{% contentlink path="projects/java-specific/introduction-to-spring-boot/part-1" flavour="java" %}}
-- {{% contentlink path="projects/tdd/string-calculator" flavour="java" %}}
 - {{% contentlink path="projects/tdd/password-checker/part1" flavour="java" %}}
 - {{% contentlink path="language-agnostic/validate-id-number" flavour="java" %}}
 - {{% contentlink path="sql/shop-project" flavour="" %}}
+- {{% contentlink path="projects/github-api-consume" flavour="java" %}}
