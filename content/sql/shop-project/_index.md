@@ -27,7 +27,9 @@ title: Shop Database using sql
 - Your repository should have a **.yml** file 
 - Your repository should have **.sql** files
 - The different SQL commands should be saved in different descriptive script files i.e.
-when the reviewer is looking for the commands you used for creating the database they should be able to navigate to a file named **create-database.sql**  , navigate to a file named **create-tables.sql** for the commands used to create the database tables , and navigate to the files that contain the commands used for inserting table records and querying the database
+  - when the reviewer is looking for the commands you used for creating the database they should be able to navigate to a file named **create-database.sql** ,  
+  - navigate to a file named **create-tables.sql** for the commands used to create the database tables , and 
+  - navigate to the files that contain the commands used for inserting table records and querying the database
 
 ## Instructions
 
