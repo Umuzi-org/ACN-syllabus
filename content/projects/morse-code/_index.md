@@ -62,18 +62,15 @@ Add unit tests to your code. Leave the assertions in there just so that we can s
 
 ## Instructions for Reviewers
 
-- Ensure that both functions work with alphabets, numbers and all types of special characters that exist on a keyboard. 
+- Ensure that the lettersToMorseCode function can convert numbers, special characters and alphabets to morseCode and the morseCodeToLetters function can convert morse code to numbers, alphabets and special characters.
 - Make sure that both functions returns and not prints the output.
 - When using assertions make sure that the assert statements are checking if the input and output lengths and input and output spaces are the same by checking if they are equal.
 - If Unit tests are used, make sure that there is a test that checks the input and output lengths and ensure that imports and exports was used correctly.
+- Make sure an assertion function was used to assert if both functions input and output data are the same
+- Make sure a global constant was used to contain all the data e.g alphabets, numbers, special characters and morse code.
 - Make sure that the assertions do not print an error if empty strings are passed in both functions, e.g 
 
 ```
 lettersToMorseCode("") // shouldn't print an assertion failure
 morseCodeToLetters("") // shouldn't print an assertion failure
 ```
-
-## Mark as excellent if:
-
-- An assertion function was used to assert if both functions input and output data are the same
-- A global object was used to contain all the data e.g alphabets, numbers, special characters and morse code
