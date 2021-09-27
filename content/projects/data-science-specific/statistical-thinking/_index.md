@@ -6,7 +6,7 @@ flavours:
 pre: '<b>MEDIUM: </b>'
 prerequisites:
   hard:
-  - projects/data-science-specific/data-visualisation/mobile-money-viz
+  - projects/data-science-specific/data-visualisation/linux-evolution
   - topics/jupyter-notebooks-best-practices
 ready: true
 story_points: 13

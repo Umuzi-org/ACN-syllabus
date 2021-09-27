@@ -7,6 +7,7 @@ pre: '<b>MEDIUM: </b>'
 prerequisites:
   hard:
   - topics/python-specific/oop-for-python
+  - projects/oop/animals/part1
   - projects/data-science-specific/cross-validation-and-simple-linear-regression
   - projects/data-science-specific/multivariate-linear-regression
   soft: []

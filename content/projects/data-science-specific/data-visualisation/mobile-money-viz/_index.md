@@ -8,7 +8,6 @@ prerequisites:
   hard:
   - projects/data-science-specific/data-visualisation/linux-evolution
   - topics/jupyter-notebooks-best-practices
-  - projects/tdd/simple-calculator-part1
 ready: true
 story_points: 8
 submission_type: repo

@@ -8,8 +8,7 @@ prerequisites:
   hard:
   - projects/data-science-specific/statistical-thinking
   - projects/data-science-specific/data-visualisation/mobile-money-viz
-  soft:
-  - topics/jupyter-notebooks-best-practices
+  - topics/data-science-specific/data-science-methodology
 ready: true
 story_points: 13
 submission_type: repo
