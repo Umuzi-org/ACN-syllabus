@@ -12,32 +12,22 @@ All students must understand all of the following concepts:
 - Statistical concepts:  Standard deviation and Variance
 - Statistical concepts:  Correlation and p-value (Probability value) and Null-hypothesis vs. Alternative-hypothesis
 - Statistical concepts:  Standard deviation and Standard error
-- Python concepts:  Thirteen questions and how you would answer them using Python and Pandas
 
 ### Statistical concepts: Mean, Median and Mode
 
 #### Mean (Average value):
 ```
-Calculating the mean (average value) by yourself:
+Calculating the mean (average value):
 
 list_of_speed_data = [87, 94, 78, 77, 85, 86]
 
 mean = (87+94+78+77+85+86) = 507/6 = 84.5
-
-
-Calculating the mean using numpy:
-
-import numpy
-
-list_of_speed_data = [99, 86, 87, 88, 111, 86, 103, 87, 94, 78, 77, 85, 86]
-
-x = numpy.mean(list_of_speed_data)
 ```
 
 
 #### Median (Middle value):
 ```
-Calculating the median (middle value) by yourself:
+Calculating the median (middle value):
 
 list_of_speed_data = [100, 200, 300, 400, 500, 600]
 
@@ -53,15 +43,6 @@ list_of_speed_data = [100, 200, 300, 400, 500, 600, 700]
 
 There are seven numbers in the list, 7/2 = 3.5, if we round up to the nearest integer we get 4.  
 Therefore, the 4th number in the list will be the median (middle) value:  median = 400
-
-
-Calculating the median using numpy:
-
-import numpy
-
-list_of_speed_data = [99, 86, 87, 88, 111, 86, 103, 87, 94, 78, 77, 85, 86]
-
-x = numpy.median(list_of_speed_data)
 ```
 
 
@@ -69,14 +50,6 @@ x = numpy.median(list_of_speed_data)
 ```
 The mode is the value which occurs the most in a set.  So if you had a set [2, 2, 2, 3] then the
 mode would be 2 since 2 is the value which occurs most frequently in the set.
-
-Calculating the mode with stats from the scipy module:
-
-from scipy import stats
-
-list_of_speed_data = [99, 86, 87, 88, 111, 86, 103, 87, 94, 78, 77, 85, 86]
-
-x = stats.mode(list_of_speed_data)
 ```
 
 
@@ -88,42 +61,39 @@ x = stats.mode(list_of_speed_data)
 
 3rd quartile:  Middle number between the median and the largest value of the dataset
 
-```
-import numpy as np
-
-data = [32, 36, 46, 47, 56, 69, 75, 79, 79, 88, 89, 91, 92, 93, 96, 97, 101, 105, 112, 116]
-
-# First quartile (Q1)
-Q1 = np.percentile(data, 25, interpolation = 'midpoint')
-  
-# Third quartile (Q3)
-Q3 = np.percentile(data, 75, interpolation = 'midpoint')
-  
-# Interquaritle range (IQR)
-IQR = Q3 - Q1
-
-
-OR YOU CAN DO THIS:
-
-
-from scipy import stats
-
-# Interquartile range (IQR)
-IQR = stats.iqr(data, interpolation = 'midpoint')
-```
-
 
 
 ### Statistical concepts: Standard deviation and Variance
 Standard deviation and variance are both determined by using the mean of the dataset.  Variance measures the average degree to which each number is different from the mean.  Standard deviation is a statistic that looks at how far from the mean a group of numbers is, by using the square root of the variance.  Standard deviation is similar to variance, which gives the measure of deviation whereas variance provides the value squared.
 
 ```
-from statistics import stdev, variance
+Formula for standard deviation:  square root of [(1/N)*Sigma i=1 to N of (x - u)^2 ]
+sample_data = [9, 2, 5, 4, 12, 7, 8, 11]
 
-sample_data = [1, 2, 3, 4, 5]
- 
-print(f"Standard Deviation is: {stdev(sample_data)}")
-print(f"Variance is: {variance(sample_data)}")
+Step 1: Calculate the Mean (average value) = (9+2+5+4+12+7+8+11)/8 = 7.25
+
+Step 2:  For each number in sample_date, subtract the mean from the number and square the result
+
+(9-7.25)^2 = 3.06
+(2-7.25)^2 = 27.56
+(5-7.25)^2 = 5.06
+(4-7.25)^2 = 10.56
+(12-7.25)^2 = 22.56
+(7-7.25)^2 = 0.06
+(8-7.25)^2 = 0.56
+(11-7.25)^2 = 14.06
+
+[3.06, 27.56, 5.06, 10.56, 22.56, 0.06, 0.56, 14.06]
+
+Step 3:  Calculate the mean of all the numbers squared you calculated in step 2.  It is important to notice
+         that once you have calculated step 3 you already have the Variance, the calculation done in step 4
+         will simply give you the standard deviation.
+
+(3.06+27.56+5.06+10.56+22.56+0.06+0.56+14.06)/8 = 10.435 (This is the variance)
+
+Step 4:  Take the square root of step 3 and you are done
+
+Square root of 10.435 = 3.23
 ```
 
 
@@ -183,190 +153,3 @@ Experiment 5:  80kg
 So then if we calculate a mean of the means it would be:  (70+60+70+70+80)/5 = 70kg
 ```
 From here we can form an idea of the standard deviation each mean has from the ‘mean-of-the-means’.  So for instance, in experiment 1 the mean was 70kg so it’s mean is right on top of the ‘mean-of-the-means’.  Experiment 5 on the other hand is 10kg’s away from the ‘mean-of-the-means’.  This standard deviation from the ‘mean-of-the-means’ is actually referred to as the Standard Error.  If you had a single set of measurements, ergo, not five experiments but just one and you were asked to plot the standard error what would you plot?  Simply plot the standard deviation, seeing that the standard error refers to a kind of ‘standard deviation’ but it actually applies to the ‘standard deviation’ of means to the ‘mean-of-the-means’, within the context of a single experiment the standard error would then be the standard deviation of the mean.
-
-
-
-### Python concepts: Thirteen questions and how you would answer them using Python and Pandas
-
-#### Question 1:
-If we wanted to make use of the pandas module and name it 'pd', how would we import it?
-```
-import pandas as pd
-```
-
-#### Question 2:
-If we want to read data from a file named 'data.csv' and store the data in a dataframe object named 'df' what would we do?
-```
-df = pd.read_csv('data.csv')
-```
-
-#### Question 3:
-How will you find the region with the highest population over 60 if you make use of the groupby functionality so that you see the ‘Region’ and too the right of it you see the maximum value for the column ‘Over60’ for the particular region.  You should make use of .groupby and .max() in a single line of code?
-```
-print(df.groupby('Region')['Over60'].max())
-Or
-print(df.groupby('Region').Over60.max())
-```
-
-Here is what it would look like:
-```
-Region
-Africa                   13.23
-Americas                 20.82
-Eastern Mediterranean    12.03
-Europe                   26.97
-South-East Asia          13.96
-Western Pacific          31.92
-Name: Over60, dtype: float64
-```
-
-#### Question 4:
-Continuing on from the previous question, suppose we wanted the values we get in sorted
-order, how would you apply  the functionality of `.sort_values(ascending=True)` to the previous line of code in order to retrieve the desired result?
-```
-print(df.groupby('Region')['Over60'].max().sort_values(ascending=True))
-```
-
-Here is what it would look like:
-```
-Region
-Eastern Mediterranean    12.03
-Africa                   13.23
-South-East Asia          13.96
-Americas                 20.82
-Europe                   26.97
-Western Pacific          31.92
-Name: Over60, dtype: float64
-```
-
-#### Question 5:
-What will `pd.describe( )` look like and what is it for?
-
-Here is what it will look like:
-```
-         Population     Under15      Over60  FertilityRate  LifeExpectancy  ChildMortality  CellularSubscribers
-count  1.940000e+02  194.000000  194.000000     183.000000      194.000000      194.000000           184.000000
-mean   3.635997e+04   28.732423   11.163660       2.940656       70.010309       36.148969            93.641522
-std    1.379031e+05   10.534573    7.149331       1.480984        9.259075       37.992935            41.400447
-min    1.000000e+00   13.120000    0.810000       1.260000       47.000000        2.200000             2.570000
-25%    1.695750e+03   18.717500    5.200000       1.835000       64.000000        8.425000            63.567500
-50%    7.790000e+03   28.650000    8.530000       2.400000       72.500000       18.600000            97.745000
-75%    2.453525e+04   37.752500   16.687500       3.905000       76.000000       55.975000           120.805000
-max    1.390000e+06   49.990000   31.920000       7.580000       83.000000      181.600000           196.410000
-```
-Clearly the above result gives us some descriptive statistics regarding the dataset.  We can easily see what the
-minimum, maximum, IQR etc values are for each column.
-
-#### Question 6:
-How will you display how many .NaN values there are in 'df', making sure to get a single result and not a table which shows how many .NaN values there are per column?
-```
-print(df.isnull().sum())
-```
-
-What it would look like as a table:
-```
-Country                           0
-Region                            0
-Population                        0
-Under15                           0
-Over60                            0
-FertilityRate                    11
-LifeExpectancy                    0
-ChildMortality                    0
-CellularSubscribers              10
-LiteracyRate                     91
-GNI                              32
-PrimarySchoolEnrollmentMale      93
-PrimarySchoolEnrollmentFemale    93
-dtype: int64
-```
-
-
-What it would look like as a single result:
-```
-print(df.isnull().sum().sum())
-
-330
-```
-
-#### Question 7:
-Find the min value of the Over60 column using `.describe()`:
-```
-print(df.describe()['Over60'].min())
-```
-
-#### Question 8:
-Calculate the IQR of the FertilityRate column using `.describe()`, making sure that your results are printed to the console:
-```
-print(int(df.describe()['FertilityRate']['75%']) - int(df.describe()['FertilityRate']['25%']))
-```
-
-#### Question 9:
-Find the maximum value in each column with a single 'For' loop and using `.describe()`
-```
-for column in df.describe():
-    print(df.describe()[column].max())
-```
-
-Here is what it would look like:
-```
-1390000.0
-194.0
-194.0
-183.0
-194.0
-194.0
-196.41
-103.0
-86440.0
-101.0
-101.0
-```
-
-#### Question 10:
-Print all rows of 'df' but only for the columns 'Region', 'Country' and 'GNI'.  Be sure to make use of the functionality `.loc`
-```
-print(df.loc[:, ['Region', 'Country', 'GNI']])
-```
-
-Here is what it would look like:
-```
-                    Region                                    Country      GNI
-0    Eastern Mediterranean                                Afghanistan   1140.0
-1                   Europe                                    Albania   8820.0
-2                   Africa                                    Algeria   8310.0
-3                   Europe                                    Andorra      NaN
-4                   Africa                                     Angola   5230.0
-5                 Americas                        Antigua and Barbuda  17900.0
-6                 Americas                                  Argentina  17130.0
-7                   Europe                                    Armenia   6100.0
-8          Western Pacific                                  Australia  38110.0
-9                   Europe                                    Austria  42050.0
-10                  Europe                                 Azerbaijan   8960.0
-```
-
-#### Question 11:
-For the rows that have .NaN values, calculate the mean of the previous row and the following row and then interpolate the .NaN values with this newly calculated value.
-```
-df.interpolate(method='linear', axis=0, inplace=True)
-```
-
-#### Question 12:
-Check if the dataset contains any duplicate values
-```
-print(df.duplicated())
-```
-
-#### Question 13:
-Suppose you are told that the assumed Null hypothesis is that a R5 coin is a fair coin, therefore, no matter how many times you flip it, the probability of landing on either side is equal.  Suppose now we flip the coin 10 times and it lands on heads 8 times out of the 10 flips, the following is used to calculate the p-value:
-```
-- 40320 (The number of ways 8 ‘heads’ can be arranged in 8 spaces)
-- 181440 (The number of ways you can have 8 ‘heads’ out of 10 flips)
-- Possible arrangements:  181440/40320 = 4,5
-- Total outcomes:  2^10 = 1024
-- P-value of this happening:  4,5/1024 = 4,3X10^-3 = 0,0044
-```
-Given that the standard threshold value for rejecting the Null hypothesis is anything less than or equal to 0,05, would you say that there is enough evidence to reject the Null hypothesis and accept the alternative hypothesis?
-```
-Solution:  Yes, there is enough evidence, we should accept the alternative hypothesis that this coin is indeed not a fair coin.
-```
