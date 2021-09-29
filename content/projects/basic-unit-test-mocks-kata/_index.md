@@ -155,14 +155,15 @@ then they are wrong.
 - link to the quote author's wikipedia page straight from the email/sms
 - add extra information such as a weather report
 
+
 **Instructions for reviewer**
 
 - Please pay attention to how the unit tests are written:
 
-> They should demonstrate that the code does what it should and does it efficiently.
+> The learner should demonstrate that the code does what it should and does it efficiently.
 
-> They should test correctly. Please refer to : https://umuzi-org.github.io/tech-department/topics/jasmine-spies/
+> They should test correctly. Please refer to [Jasmine spies](https://umuzi-org.github.io/tech-department/topics/jasmine-spies/).
 
-- It is good if the code sends emails to multiple recipients.
+- It is good if the files are well organized/structured. i.e. a configuration file with only the configuration in it, a send-email file that only sends the email, etc.
 
-- It is good if the files are well organized. i.e , a configuration file with only the configuration in it, a sendEmail file that only sends the email, etc.
+- Look out for code structure. Sending emails to multiple recipients is not a requirement, but if the code is structured well enough, then doing so should be easy. 
