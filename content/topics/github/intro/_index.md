@@ -2,6 +2,9 @@
 _db_id: 587
 content_type: topic
 ready: true
+tags:
+- git
+- github
 title: Basic introduction to Github
 ---
 

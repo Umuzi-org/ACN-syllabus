@@ -206,3 +206,15 @@ add("1,2,3//;\n1000,1;2")
 ### why is this important?
 
 - If you're wondering to yourself, "Why is this sooo important!?" take a look at {{% contentlink path="/topics/data_validation_and_verification/" %}}
+
+## Instructions For Reviewers
+
+- Proper TDD to be followed. Mocks and Spies are not needed for this project.
+
+- Proper error handling to be used. no `print`/`console.log`. an exception is to be thrown when needed and a value returned when needed.
+
+- Ensure that the add function the takes a string as an argument.
+
+- The function that needs to be constantly updated is the `add()` function. It's even better if the `add()` function relies on other tiny functions.
+
+- Understanding of regular expression methods should be demonstrated within the project.

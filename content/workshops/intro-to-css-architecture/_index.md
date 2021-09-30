@@ -1,6 +1,6 @@
 ---
 _db_id: 7
-content_type: workshop
+content_type: topic
 ready: true
 title: Intro to CSS architecture
 ---

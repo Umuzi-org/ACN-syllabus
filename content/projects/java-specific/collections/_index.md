@@ -8,12 +8,15 @@ prerequisites:
   - projects/oop/animals
   - topics/java-specific/collections-and-datastructures
   soft:
-  - topics/intro-to-docker
+  - docker/intro-to-docker
   - topics/java-specific/intro-to-gradle-with-intellij
   - projects/oop/dice
   - projects/oop/person
 ready: true
 submission_type: repo
+tags:
+- data-structures
+- array-manipulation
 title: Java collections
 ---
 

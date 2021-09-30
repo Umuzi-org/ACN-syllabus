@@ -5,6 +5,9 @@ prerequisites:
   hard:
   - topics/clean-code/general
 ready: true
+tags:
+- clean-code
+- javascript
 title: Clean Code For JavaScript
 ---
 

@@ -22,6 +22,8 @@ Once you have these foundations out of the way you can move onto integrating red
 
 ## Instructions
 
+Please note that this is a pure Redux project and doesn't have anything to do with React. When setting up the project, ensure that you separate things into multiple files, e.g. a separate file for the actions, etc. Group things that belong together and make your work clean. Have fun!
+
 Take a little time to google IoT home automation and come up with a list of things you might want to automate in your home once you are a wealthy and successful professional coder. Arrange all the different things you might want to automate into a state object. Here's an example:
 
 ```

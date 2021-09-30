@@ -12,6 +12,11 @@ prerequisites:
   soft: []
 ready: true
 submission_type: continue_repo
+tags:
+- spring-boot
+- rest-api
+- mvc
+- annotations
 title: Introduction to Spring Boot - part 3
 ---
 

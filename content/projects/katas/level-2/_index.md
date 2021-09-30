@@ -10,12 +10,15 @@ prerequisites:
 ready: true
 story_points: 3
 submission_type: continue_repo
+tags:
+- algrithms
+- clean-code
 title: Level 2 coding challenges
 ---
 
 ## Task 2.1
 
-Update your existing square function so that it takes 2 parameters. The first parameter should be the size of the square, and the second one should be the character to use when drawing the square. The second parameter should be optional.
+Update your existing square function so that it takes 2 parameters; do not overload the square function. The first parameter should be the size of the square, and the second one should be the character to use when drawing the square. The second parameter should be optional.
 
 eg `square(2)` should output
 
@@ -33,7 +36,7 @@ eg `square(2, '*')` should output
 
 ## Task 2.2
 
-Upgrade your triangle function so that it takes in an optional argument named `mode`.
+Upgrade your triangle function so that it takes in an optional argument named `mode`; do not overload the triangle function.
 
 `triangle(3)` should print
 
@@ -78,6 +81,11 @@ Negative numbers should still print things upside down. Eg:
  ###
   #
 ```
+
+### Up for a Challenge?
+This section is not compulsory. If you do this we’ll think you’re cool.
+
+Add some functionality to `triangle` so that an error/exception gets raised if an incorrect mode is entered.
 
 ## Task 2.3
 

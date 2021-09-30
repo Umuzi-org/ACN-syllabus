@@ -21,7 +21,6 @@ Read and understand the following:
 - https://github.com/shashikumarraja/pytest_tutorial
 - https://automationpanda.com/2017/03/14/python-testing-101-pytest/
 - [Writing Tests](https://docs.python-guide.org/writing/tests/)
-- [Improve your python understanding: Unit testing](https://jeffknupp.com/blog/2013/12/09/improve-your-python-understanding-unit-testing/)
 
 And [here are the pytest docs](https://docs.pytest.org/en/latest/). The official documentation is a source of the latest and greatest straight-from-the-horses-mouth knowledge.
 
@@ -38,4 +37,4 @@ why and how you need to test your code) and unit testing with python's unittest.
 
 We will expect your project to follow industry-recognised best practices when you submit them to us.
 
-Take a look at[this repo](https://github.com/Umuzi-org/python-pytest-reference-dir-structure). We'll require that you follow this structure when you submit your work.
+**NB!** Take a look at [this repo](https://github.com/Umuzi-org/python-pytest-reference-dir-structure). **We'll require that you follow this structure when you submit your work.**

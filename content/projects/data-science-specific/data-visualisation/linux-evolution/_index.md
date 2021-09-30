@@ -6,12 +6,12 @@ flavours:
 pre: '<b>MEDIUM: </b>'
 prerequisites:
   hard:
-  - projects/tdd/simple-calculator-part1
+  - projects/data-science-specific/bootcamp-exploratory-data-analysis
 ready: true
 story_points: 3
 submission_type: repo
 tags:
-- data-visualisation-datacamp
+- data-visualisation
 title: Evolution of Linux Visualisation
 ---
 

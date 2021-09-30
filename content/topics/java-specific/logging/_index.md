@@ -2,6 +2,10 @@
 _db_id: 101
 content_type: topic
 ready: true
+tags:
+- log4j
+- logging
+- java
 title: Java Logging with Log4j
 ---
 

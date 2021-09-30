@@ -1,6 +1,9 @@
 ---
 _db_id: 553
 content_type: topic
+flavours:
+- javascript
+- typescript
 prerequisites:
   hard:
   - topics/redux-thunks

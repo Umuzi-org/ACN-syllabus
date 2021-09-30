@@ -1,67 +1,36 @@
 ---
 title: "Data Science"
 _db_id: 2
-
 ---
 
-- Introduction to NCIT curriculum
-- NCIT 01: Conducting research and user interviews
-- NCIT 02: Reporting
-- NCIT 03: Research presentation
 - {{% contentlink path="agile/agile-scrum" %}}
-- NCIT 18: Agile project management
-- NCIT 19: Agile meetings
-- {{% contentlink path="workshops/how-to-be-a-professional" %}}
 - {{% contentlink path="topics/clean-code/python" %}}
-- {{% contentlink path="projects/git-exercises" %}}
-- NCIT 04: Version control (GIT) for teamwork
-- {{% contentlink path="projects/katas/level-2" flavour="python" %}}
-- {{% contentlink path="projects/first-personal-website" %}}
 - {{% contentlink path="topics/how-to-ask-for-help-with-your-code" %}}
-- NCIT 10: Workshop: Giving and receiving constructive feedback
-- NCIT 06: Web design for business
-- NCIT 07: Building an online business
-- NCIT 12: Business and technology
-- NCIT 09: Ethics and Professionalism in IT
+- {{% contentlink path="topics/solo-learn/python/module-5-more-types" %}}
+- {{% contentlink path="projects/katas/level-2" flavour="python" %}}
+- {{% contentlink path="language-agnostic/intro-to-hackerrank" flavour="python" %}}
 - {{% contentlink path="workshops/general-coding-best-practices" %}}
 - {{% contentlink path="topics/python-specific/oop-for-python" %}}
 - {{% contentlink path="topics/python-specific/automated-testing-with-pytest"%}}
 - {{% contentlink path="topics/python-specific/virtual-envs/" %}}
-- {{% contentlink path="workshops/survey-design" %}}
-- {{% contentlink path="workshops/google-forms-like-a-boss" %}}
-- {{% contentlink path="projects/morse-code" flavour="python" %}}
-- {{% contentlink path="projects/data-science-specific/data-visualisation" %}}
-- {{% contentlink path="workshops/intro-to-data-ethics" %}}
-- NCIT 11: Test-driven development
-- {{% contentlink path="projects/tdd/string-calculator" flavour="python" %}}
-- {{% contentlink path="projects/data-science-specific/statistical-thinking" flavour="python" %}}
-- {{% contentlink path="topics/tech-terminology" %}}
-- NCIT 12: Business and technology
 - {{% contentlink path="projects/data-science-specific/data-wrangling" flavour="python" %}}
+- {{% contentlink path="projects/data-science-specific/statistical-thinking" flavour="python" %}}
+- {{% contentlink path="projects/data-science-specific/data-visualisation" %}}
+- {{% contentlink path="topics/survey-design" %}}
+- {{% contentlink path="topics/google-forms-like-a-boss" %}}
 - {{% contentlink path="projects/data-science-specific/cross-validation-and-simple-linear-regression/" flavour="python" %}}
-- {{% contentlink path="projects/data-science-specific/multivariate-linear-regression" flavour="python" %}}
-- {{% contentlink path="projects/oop/animals/part2"  flavour="python" %}}
-- NCIT 13: Object-oriented programming
-- {{% contentlink path="national-qualifications-framework/ncit/content/how-the-internet-works" %}}
+- {{% contentlink path="workshops/intro-to-data-ethics" %}}
 - {{% contentlink path="topics/data-ethics-and-privacy" %}}
-- NCIT 05: History of the Internet
-- NCIT 08: Pseudocode and documentation
+- {{% contentlink path="projects/tdd/string-calculator" flavour="python" %}}
+- {{% contentlink path="projects/data-science-specific/multivariate-linear-regression" flavour="python" %}}
+- {{% contentlink path="projects/oop/animals/part1"  flavour="python" %}}
 - {{% contentlink path="projects/data-science-specific/oop-for-data-science" flavour="python" %}}
+- {{% contentlink path="projects/github-api-consume" flavour="python" %}}
 - {{% contentlink path="projects/data-science-specific/dashboards/plotly_dashboards" flavour="python" %}}
-- NCIT 14: Database Development
 - {{% contentlink path="sql/shop-project/" %}}
-- NCIT 15: Analytics, Surveys, and Reports / Input & Output
 - {{% contentlink path="projects/data-science-specific/logistic-regression/breast-cancer"  flavour="python"%}}
-- {{% contentlink path="agile/agile-scrum-slides/" %}}
-- {{% contentlink path="projects/data-science-specific/decision-trees" flavour="python"%}}
-- NCIT 16: Thinking like a machine / Boolean algebra, logic
-- NCIT 17: Search and sort techniques
-- NCIT 18: Agile project management
-- NCIT 19: Agile meetings
-- NCIT 20: Managing the Software Development Process
 - {{% contentlink path="topics/optimizations-and-big-o/" %}}
-- NCIT Summative assessment
-- {{% contentlink path="workshops/git-for-teamwork/" %}}
 - {{% contentlink path="topics/data-infrastructure/database-comparison/" %}}
+- {{% contentlink path="projects/data-science-specific/decision-trees" flavour="python"%}}
 - {{% contentlink path="projects/data-science-specific/k-means-clustering" flavour="python"%}}
 - {{% contentlink path="projects/data-science-specific/natural-language-processing" flavour="python"%}}

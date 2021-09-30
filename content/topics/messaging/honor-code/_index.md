@@ -2,6 +2,9 @@
 _db_id: 588
 content_type: topic
 ready: true
+tags:
+- professionalism
+- ethics
 title: Honor Code
 ---
 
@@ -28,11 +31,11 @@ Tilde, and our projects, tests and other content exist to help you learn, and to
 
 ## Why does understanding matter?
 
-If you graduate and get a job, you will expected to solve new problems. You will be expected to create things that nobody has created before. There won't be anyone to copy from, there won't be a way to cheat or hide from the system.
+If you graduate and get a job, you will be expected to solve new problems. You will be expected to create things that nobody has created before. There won't be anyone to copy from, there won't be a way to cheat or hide from the system.
 
 If you want a solid career, understanding is golden.
 
-And from our side, if people who graduate from our program don't know what they are doing then it makes it much harder for use to create opportunities for people. If you pursue understanding then you'll help us to help more people.
+And from our side, if people who graduate from our program don't know what they are doing then it makes it much harder for us to create opportunities for people. If you pursue understanding then you'll help us to help more people.
 
 ## What is plagiarism?
 

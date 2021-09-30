@@ -1,0 +1,11 @@
+Population - in thousands
+Under15 - %
+Over60 - %                
+FertilityRate - Avg. number of children per woman
+LifeExpectancy - years
+ChildMortality - number of children who die within the first five years of life, per 1000 births
+CellularSubscribers 
+LiteracyRate - %
+GNI - per capita gross national income
+PrimarySchoolEnrollmentMale - %
+PrimarySchoolEnrollmentFemale - %

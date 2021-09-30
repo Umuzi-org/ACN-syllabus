@@ -9,15 +9,16 @@ prerequisites:
   - topics/data-validation-and-quality-control
   - topics/jupyter-notebooks-best-practices
   - topics/data-ethics-and-privacy
-  - projects/tdd/simple-calculator-part1
 ready: true
 story_points: 5
 submission_type: repo
 tags:
 - data-wrangling
+- jupyter-notebooks
 title: Data Wrangling
 ---
 
+Please make use of Jupyter notebooks while doing this project.
 ## Key concepts
 
 - merging data frames
@@ -26,7 +27,10 @@ title: Data Wrangling
 
 ## Tutorials
 
+- If you are new to Jupiter: https://realpython.com/jupyter-notebook-introduction/
 - Intro to pandas and data manipulation [here](https://www.kaggle.com/learn/pandas)
+- https://towardsdatascience.com/data-wrangling-with-pandas-5b0be151df4e
+- https://towardsdatascience.com/7-must-know-data-wrangling-operations-with-python-pandas-849438a90d15
 - If you'd like more, complete the DataCamp skills track [Data Manipulation with Python](https://www.datacamp.com/tracks/data-manipulation-with-python)
 
 ## Assignment

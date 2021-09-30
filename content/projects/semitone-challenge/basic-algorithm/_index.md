@@ -11,6 +11,8 @@ prerequisites:
   soft: []
 ready: true
 submission_type: repo
+tags:
+- problem solving
 title: semitone difference - basic algorithm
 weight: 1
 ---
@@ -25,7 +27,7 @@ We want to see the following skills demonstrated in different parts of this proj
 - conditions
 - datatypes
 - operators
-- DOM maipulation
+- DOM manipulation
 
 This project should be completed in a TDD way.
 
@@ -38,7 +40,7 @@ What we want to do is build a simple application that a musician can use to test
 
 In the second video, Justin talks about a game that you can play with a jam buddy. Your buddy picks two notes from the note circle and tells them to you, then you tell your buddy how many semi-tones seperate those notes. That is basically what we are building here.
 
-The final goal is to have a program that outputs two notes from the note circle and then allows the user to enter a number. The program needs to be ablt to tell the user if they chose the correct number or not.
+The final goal is to have a program that outputs two notes from the note circle and then allows the user to enter a number. The program needs to be able to tell the user if they chose the correct number or not.
 
 For those of you studying web dev, you will be expected to build a simple user interface for this thing using vanilla js. For those of you studying Python you can make a command-line utility that does this.
 
@@ -98,4 +100,3 @@ console.log(correct) # true because: G G# A A# B - the note circle is a CIRCLE, 
 Make sure you do this in a TDD way. And that code sample from the top needs to run as is.
 
 Please just supply a working class. The only place you should instantiate your class is inside your unit tests
-

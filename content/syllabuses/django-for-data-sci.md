@@ -5,7 +5,7 @@ _db_id: 32
 
 - {{% contentlink path="topics/django/why-datasci-should-learn-django" %}}
 - {{% contentlink path="topics/watch-this-space" %}}
-- {{% contentlink path="workshops/big-picture-web-dev" %}}
+- {{% contentlink path="topics/big-picture-web-dev" %}}
 - {{% contentlink path="projects/django-airbnb-clone/etl-script" flavour="django" %}}
 - {{% contentlink path="projects/django-airbnb-clone/visualisations-with-plotly-py" flavour="django"%}}
 - {{% contentlink path="projects/django-airbnb-clone/data-export-script" flavour="django"%}}

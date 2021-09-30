@@ -31,7 +31,7 @@ Otherwise take a look here for full installation instructions: https://www.jetbr
 Now let's make a class file:
 
 - select File > New > Java Class
-- name yuor class `HelloWorld` and select `Class`
+- name your class `HelloWorld` and select `Class`
 - edit the new file so it looks like this (this should seem very familiar)
 
 ```
@@ -63,12 +63,12 @@ That's it :)
 
 ## Optional: Learn how to use Java SDK from the command line
 
-
 ### Java SDK
 
 First install openJDK
 
 If you are running Ubuntu Linux or similar then you can just do this:
+
 ```
 sudo apt install openjdk-11-jdk
 ```
