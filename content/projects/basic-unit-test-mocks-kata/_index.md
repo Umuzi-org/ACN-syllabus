@@ -162,7 +162,7 @@ then they are wrong.
 
 > The learner should demonstrate that the code does what it should and does it efficiently.
 
-> They should test correctly. Please refer to [Jasmine spies](https://umuzi-org.github.io/tech-department/topics/jasmine-spies/).
+> They should test correctly. Please refer to {{% contentlink path="topics/jasmine-spies" %}}
 
 - It is good if the files are well organized/structured. i.e. a configuration file with only the configuration in it, a send-email file that only sends the email, etc.
 
