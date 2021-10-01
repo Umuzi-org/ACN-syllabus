@@ -96,4 +96,4 @@ charlie.save() # results in an UPDATE to visitor_3.json
 
 - Please pay careful attention to DRY code. How do you do this :
  
- > Imagine that the code produced by the learner needs maintained, imagine that some parts of the code will have to change over time. Ideally, changes to the code should be made just once, and that change should affect everything else without going through the file(s) looking to change the same thing. 
+ > Imagine that the code produced by the learner needs to be maintained, imagine that some parts of the code will have to change over time. Ideally, changes to the code should be made just once, and that change should affect everything else without going through the file(s) looking to change the same thing. 
