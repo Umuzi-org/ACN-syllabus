@@ -1,32 +1,61 @@
 ---
 _db_id: 360
 content_type: topic
+ncit_specific_outcomes:
+- assessment_criteria:
+  - The identification lists marketing options which are relevant to the web site
+  - The identification describes how the marketing options could be used to enhance
+    the web site
+  outcome: 1
+  title: Identify various marketing options for use within e-Commerce web sites.
+- assessment_criteria:
+  - The explanation identifies legal issues concerning e-Commerce web sites
+  - The explanation outlines how these legal issues should be incorporated when building
+    the web site
+  - The explanation ensures that all relevant legal issues have been addressed when
+    implementing the web site
+  outcome: 2
+  title: Explain the legal issues concerning the building of an e-Commerce web site.
+- assessment_criteria:
+  - Identify possible service providers for hosting the web site
+  - Identify the costs involved in order to host the web site
+  - Understand contractual agreements for hosting the web site
+  outcome: 3
+  title: Demonstrate an understanding of hosting arrangements for an e-Commerce web
+    site.
+- assessment_criteria:
+  - The provision ensures that a "help facility" is available on the web site
+  - The provision ensures that any technical difficulties experienced on the web site,
+    can be resolved timeously and with ease
+  - The provision ensures that telephonic or online (or similar ) assistance is available
+    in the event of difficulties being experienced.
+  outcome: 4
+  title: Demonstrate an understanding of providing support for an e-Commerce web site.
 ncit_standards:
 - 115385
-ready: false
-tags: []
+prerequisites:
+  hard:
+  - projects/first-personal-website
+ready: true
+tags:
+- ncit
+- business
 title: Building an online business
 ---
 
 ## 1. Marketing
 
-As we have discussed in previous units, the internet has become a lucrative opportunity for businesses, and a wide variety of products and services are now offered exclusively online. Your online gaming platform will be one of these many businesses. As you may already know, a key part of any business activity, online or physical, is marketing. How do you find and keep customers? How can you persuade users to subscribe to your game, buy your merchandise, upgrade their membership?
+As you know, the internet has provided many lucrative opportunities for businesses. A wide variety of products and services are now offered exclusively online. As you may already know, a key part of any business activity, online or physical, is marketing. How do you find and keep customers? How can you persuade users to subscribe to your game, buy your merchandise, upgrade their membership?
 
 
 As we move more and more of our commercial activity onto the internet, marketing has taken various digital forms. Intelligent, targeted advertising that capitalises on the amount of information we are now able to gather about users is something that businesses can really use to their advantage. Here are a few popular examples of online advertising (we will go into more detail about them in the next section):
 
-
  - Affiliation with better-known websites through referral marketing or banner advertising
-
  - Search engine optimization to help a website to rank higher in organic search engine listings like Google, Yahoo or Bing. Google also offer paid services to help your search rankings
-
  - Email marketing through services like Mailchimp
-
  - Social media marketing
 
-
 One of the crucial advantages of online marketing is that it delivers real-time, specific and very intelligent reporting which can be responded to immediately. We live in an age of what is sometimes referred to as Big Data. Have a look at this article for more information:
-
 
 https://www.networkworld.com/article/3194585/big-data/big-data-algorithms-and-the-future-of-advertising.html
 
@@ -34,27 +63,19 @@ https://www.networkworld.com/article/3194585/big-data/big-data-algorithms-and-th
 
 An online marketing option is developed by focusing on three objectives:
 
-
 1. helping new visitors to find the website
-
 2. turning visitors into customers (sometimes called conversions),
-
 3. and enhancing your website’s usability and after-sale marketing to encourage repeat visitors.
 
-
 A website needs to entice new visitors to visit, then provide sufficient incentive to turn those visitors into a buying customers and finally retain those customers and maybe even make them brand ambassadors themselves.
-
 
 Below are explanations of some of the most popular methods to do this:
 
 **Search engine optimization (SEO)** is one of the most critical parts of e-commerce marketing. It is based on special algorithms that analyze the instances of specific keywords on your website. Because users navigate the Internet through search engines like Google, these results play a large role in the success of your website. A good SEO campaign can position your online business to rise to the top of the Google rankings. Eg. If you have made an online fantasy game, you want to make sure that people who are searching for ‘online fantasy game’ will be able to find your product.
 
-
 **Pay-per-click advertising (PPC)** operates similarly to SEO since it is based on keywords. However, whereas search engine optimization works organically (meaning that a marketing firm doesn’t have to pay for it), PPC results show up as “Ads” on Google or other search engines. Marketing campaigns pay to be represented by specific keywords, and owe money each time a user clicks on one of these ‘sponsored’ links. PPC and SEO campaigns often work very well together, by covering a variety of organic and paid keywords.
 
-
 **Social media marketing** is now crucial to online businesses.  By creating an effective Facebook business page or beautiful instagram account you might entice potential customers to ‘like’ or ‘follow’ your page and products. They might then be inspired to make purchases through exclusive offers and discounts. You will not only gain immeasurable word-of-mouth advertising through the network, but will establish yourself as a trustworthy, reputable Internet business.
-
 
 **Email marketing** through services like Mailchimp has become ubiquitous over the internet and even controversial in recent years because of Spam email and the ethics surrounding the acquisition of email addresses. Still, thoughtful and relevant email campaigns with updates about your business, new products and services, or exclusive offers can help keep customers engaged with your brand.
 
@@ -65,9 +86,7 @@ Below are explanations of some of the most popular methods to do this:
 
 While the user experience and content may not always be an explicit part of your marketing strategy, it plays a crucial role in converting visitors of your website into customers. Once you have attracted users to your site you need to convince them to buy your product or service.
 
-
 While the quality and pricing of the product is important, so is their experience of your website; for example it should load quickly, look good, be easy to read and navigate. Revisit the Web Design section to remind yourself how to create an attractive website.
-
 
 It is also important to think about the content. Is it clear what your products and services are? On the product pages specifically, all offerings should be easy to understand and accompanied by extensive details and photos. Online shoppers are drawn to purchase if they can become familiar with your product and its costs quickly. Consider providing a sample video of your game, or testimonials from users who have played it. Maybe you even want to offer a trial version for a limited period of time. If you are offering merchandise, are there enough pictures of it, details of what it’s made of, how big it is?
 
@@ -117,11 +136,8 @@ Any prices quoted on the website must be clear and unambiguous. Also, state whet
 If your business is a private or public limited company or a Limited Liability Partnership, the business emails must include the following details in legible characters:
 
  - Your company's registered name (e.g. XYZ Ltd)
-
  - Your company registration number;
-
  - Your place of registration and
-
  - Your registered office address
 
 #### Copyright
@@ -131,23 +147,18 @@ Copyright gives the creator of certain types of material rights to control the u
 
 You cannot use someone else's text copy or photos or images on your website without their permission. Some creators or authors may allow you to use their material for free provided they are credited. A copyright notice on a website will often set out what you can and can't do with the material on that site. You may consider adding a suitable copyright notice to your own website. Keep in mind that the absence of a copyright notice does not mean you are free to reuse the material on a website - by default you should assume that other people's works is covered by copyright unless stated otherwise.
 
-
 As the internet grows it has become more and more difficult to control the use and sharing of
 
 content. In fact many industries have suffered from illegal free file sharing of copyrighted materials, as we discussed in the context of books and music. Local and international authorities continue to find ways to tackle this problem but grassroots organisations have also tried to solve the issue. One successful solution has been Creative Commons. You can read more here: https://creativecommons.org/about/ and potentially use their licensing options for your platform. Consider how you want control your creativity on the internet. Would you be happy for people to use the characters, storylines or imagery of your game as long as they credit you?
 
-
 #### Data Protection
 Data Protection requires that you notify the Information Commissioner what you are going to use the personal data you collect for. Out of this requirement comes the website Privacy Policy. The main purpose of these statements is to fulfil the information disclosure requirements of the Data Protection Act and inform or reassure your website visitors that the information they provide to you is going to be used appropriately. This has been the subject of much debate in recent years. If you’re unsure do research on current laws. Have a look at this article on South African data protection from 2018: https://uk.practicallaw.thomsonreuters.com/5-503-0787.
-
 
 #### User Agreements
 Users must check a box stating they agree to your businesses User Agreements and your Privacy Policy. They must “opt in” to these agreements when they sign up for your site or purchase a product or service from you.
 
-
 #### Email Marketing
 It is illegal to send unsolicited email messages except in limited circumstances. If customers have consented to receiving information from you in the past, i.e. opted in, you can send them information on other things you think they might be interested in. You must give these people the option to opt out of receiving any further messages from you. Your email marketing software will usually help to ensure that you conform to legal requirements.
-
 
 #### Returned Goods
 Buyers can return goods and get a full refund in the first one to two weeks of ownership of goods. International regulations stipulate that online retailers are barred from imposing charges and penalties on people returning goods even if they are returned after a long time and have given the user some benefit. The only charge that may be made to the consumer because of the exercise of his right of withdrawal is the direct cost of returning the goods, e.g. physical products that require shipping.
@@ -163,17 +174,17 @@ Consider some of the following when you’re designing your website:
 
 
  - One of the simplest tests you can do to see if your website follows the most basic of Accessibility requirements is to see if your web site text size changes if you reset the text size in the browser - all your text should change size.
-
  - Do your images have alternative text that can be read out for people with visual impairment.
-
  - Is your HTML markup structured correctly? Have a look at this article: https://medium.com/alistapart/writing-html-with-accessibility-in-mind-a62026493412
 
 ## 3. Hosting your site
 
 ### Web hosting?
+
 A web hosting service, at its very basic level, is a type of Internet service that primarily gives you physical server space to store the files of your website. Typically you will pay for a web hosting service alongside a domain name though you can buy each of those services separately. There are many companies competing to deliver this service now. They will provide not only hard-disk space but a wide range of other technical services necessary to deliver a complex online business. This will often include database management, maintenance of hardware and software, provision of backup and security, content integrity, credit card processing, email services, and high speed connections.
 
 ### Service providers for hosting an online business
+
 It is up to you to find a web hosting service that suits the needs of your online gaming platform. Such considerations include database server software, scripting software, and operating system.
 
 
@@ -183,6 +194,7 @@ Web hosting services provide different packages to suit different business needs
 As the internet has grown and even small one-person businesses find themselves in need of a website, web hosting services have tried to streamline the technical process of setting up a website. This means that, if you so choose, your service provider can install a content management system (e.g. Wordpress or Drupal) at the click of a button and manage its backup independently. Consider how much control you need over the technical side of your web hosting service when you choose your package.
 
 ### The costs of hosting
+
 The costs of web hosting will depend on the requirements and features you desire for the site. As an online business offering paid products important aspects to consider include:
 
 **Security**
@@ -194,6 +206,7 @@ Remember that your customers are giving you personal information and sensitive i
 When you rely on your customers’ business to generate your income to stay in business it is important to make sure your website is available to them as much as possible. If your site is slow or unavailable your customers will go elsewhere due to sheer frustration and a sense that you are not reliable.
 
 **Dedicated, Cloud and VPS**
+
 When considering Ecommerce web hosting, you may want to choose another option over shared server space. While shared hosting may be sufficient for a small start-up business, as your business grows and the popularity of your site increases you may experience some degradation of services. If your business projections indicate the potential for a highly successful site you may want to consider dedicated, cloud or VPS hosting.
 
 **Payment systems**
@@ -201,6 +214,7 @@ When considering Ecommerce web hosting, you may want to choose another option ov
 Almost all web hosts will be compatible with the main payment gateways so you can accept PayPal and major credit cards. However, make sure to verify that your payment gateway is compatible with all payment means you plan to accept.
 
 ### Contractual agreements for hosting the web site
+
 A Contractual agreements is a legal agreement between a web host and its customer, specifying the mutual rights and obligations of the web host and the customer. A hosting agreement should cover not just hosting services, but all the ancillary services that a web host provides. These may include control panels, email services, domain name services, SSL certificates, and so on.
 
 

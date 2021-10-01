@@ -1,11 +1,51 @@
 ---
 _db_id: 358
 content_type: topic
+flavours:
+- any_language
+ncit_specific_outcomes:
+- assessment_criteria:
+  - The demonstration identifies situations from real-life problems where inheritance
+    is applicable.
+  - The demonstration implements inheritance in OOP language.
+  outcome: 1
+  title: Demonstrate an understanding of inheritance in object oriented programming
+    (OOP)
+- assessment_criteria:
+  - The demonstration identifies situations from real-life problems where polymorphism
+    is applicable.
+  - The demonstration implements polymorphism in OOP language.
+  outcome: 2
+  title: Demonstrate an understanding of polymorphism in object oriented programming
+    (OOP).
+- assessment_criteria:
+  - The analysis describes basic UML standards to identify classes.
+  - The analysis identifies base and sub-classes in a problem situation.
+  - The analysis identifies polymorphism in a problem situation.
+  - The analysis identifies inter-class communication in a problem situation.
+  outcome: 3
+  title: Analyse problem situations to plan an OOP implementation.
+- assessment_criteria:
+  - Describe the purpose of abstract classes in the optimisation of re-usability.
+  - Describe wrapper classes and their need in OOP design.
+  - Implement abstract and wrapper classes in OOP language.
+  outcome: 4
+  title: Use abstract classes to optimise re-usability.
+- assessment_criteria:
+  - Describes different design patterns.
+  - Explain the advantages of using the chosen design pattern.
+  - Implement the chosen design pattern in an OOP language.
+  outcome: 5
+  title: Use basic design patterns to optimise re-usability.
 ncit_standards:
 - 115378
-ready: false
+prerequisites:
+  hard:
+  - projects/oop/animals/part1
+ready: true
 tags:
 - oop
+- ncit
 title: Object-Oriented Programming
 ---
 
@@ -15,16 +55,11 @@ Object-oriented programming is one of the most powerful design philosophies in a
 
 
  - Encapsulation
-
  - Abstraction
-
  - Inheritance
-
  - Polymorphism
 
-
 These sound like very technical and difficult concepts, but as this video will show, they are relatively straightforward to understand and use.
-
 
 Watch this video: [OOP in 7 minutes](https://youtu.be/pTB0EiLXUC8)
 
@@ -65,7 +100,6 @@ E.g. Both Motorbikes and Cars are kinds of MotorVehicles and therefore share som
 
 An instance of a class. Objects have state, identity and behaviour.
 
-
 **Polymorphism**
 
 Literally, “many forms”. Generally, the ability of different classes of object to respond to the same message in different, class-specific ways. Polymorphic methods are those which might have the same name, but but different implementations. For example, a subclass (child class) might override a parent class's method and implement it in a different way.
@@ -74,14 +108,11 @@ Literally, “many forms”. Generally, the ability of different classes of obje
 
 ## 3. Abstract classes and wrappers
 
-
 ## Abstract classes
 
 When you’re developing a program with many similar parts, it takes way too much time and effort to keep duplicating code for each class. Imagine how hard it would be to maintain a large project with thousands of classes! Besides, it violates the **DRY** principle of good programming: **Don’t Repeat Yourself!** There must be a better way.
 
-
 Thankfully, there are many design patterns that allow you to share code between classes. One of these is called an “abstract class”. (Unfortunately, JavaScript doesn’t have native support for the concept of “abstract classes”, but it is still possible to implement as you will see below.) In languages like C# and Java, you simply create a new class with the keyword “abstract” (e.g. “public abstract class Mammal”) and write in its body all the methods you would like your other classes to share in common. Since an abstract class is still a class, your “Cat” and “Dog” classes can inherit from it. This means that instead of writing a “sleep” method for each animal, you only need to write it in the “Mammal” class, and the other animals will be able to use it too.
-
 
 But if any class can have inheritance, why not just use a regular class? The answer is that abstract classes have two special features:
 
@@ -100,16 +131,19 @@ If you would like a class that cannot be constructed, but whose subclasses can, 
 
 ```
 class Abstract {
-constructor() {
-if (new.target === Abstract) {
-throw new TypeError("Cannot construct Abstract instances directly"); }
+  constructor() {
+    if (new.target === Abstract) {
+      throw new TypeError("Cannot construct Abstract instances directly"); 
+    }
+  }
 }
-}
+
 class Derived extends Abstract {
-constructor() {
-super(); // more Derived-specific stuff here, maybe
+  constructor() {
+    super(); // more Derived-specific stuff here, maybe
+  }
 }
-}
+
 const a = new Abstract(); // new.target is Abstract, so it throws
 
 const b = new Derived(); // new.target is Derived, so no error
@@ -122,11 +156,14 @@ If you're specifically looking for requiring certain methods be implemented, you
 
 ```
 class Abstract {
-constructor() {
-if (this.method === undefined) { // or maybe test typeof this.method === "function"
-throw new TypeError("Must override method"); }
+  constructor() {
+    if (this.method === undefined) { 
+      // or maybe test typeof this.method === "function"
+      throw new TypeError("Must override method"); 
+    }
+  }
 }
-}
+
 class Derived1 extends Abstract {}
 class Derived2 extends Abstract { method() {} }
 const a = new Abstract(); // this.method is undefined; error
@@ -134,20 +171,14 @@ const b = new Derived1(); // this.method is undefined; error
 const c = new Derived2(); // this.method is Derived2.prototype.method; no error
 ```
 
-_____
 
 Abstract classes help you improve your code not only through what they can do, but also through what they can’t. They can hold common features for many classes to inherit, without accidentally becoming objects themselves. They can also force you to write unique implementations of a common method, preventing human errors of forgetfulness. When you set up a class hierarchy, seriously consider whether you need a normal class to inherit from, or whether an abstract class will do. It may end up making the difference between a solid or buggy program.
 
-
-
 ### Wrapper classes
-
 
 **Wrapper classes** are a topic you won’t come across much in JavaScript. In other languages, like C# and Java, they have methods to turn primitive data types (int, float, string, etc) into objects. Wrapper classes are used to convert any data type into an object.
 
-
 A wrapper class wraps (encloses) around a data type and gives it an object appearance. Wherever, the data type is required as an object, this object can be used. Wrapper classes include methods to unwrap the object and give back the data type. It can be compared with a chocolate. The manufacturer wraps the chocolate with some foil or paper to prevent from pollution. The user takes the chocolate, removes and throws the wrapper and eats it.
-
 
 In JavaScript, nearly everything is an object, which means you can assign properties and methods to nearly everything. However if you try to assign a property to a String, you’ll get “undefined”. By reading the short article below, you can learn more about the quirks of JavaScript and how it wraps its primitive data types as objects temporarily.
 
@@ -160,12 +191,9 @@ Design patterns are reusable solutions to commonly occurring problems in softwar
 
 One reason for this is that they help us build upon the combined experience of many developers that came before us and ensure we structure our code in an optimized way, meeting the needs of problems we're attempting to solve.
 
-
 Design patterns also provide us a common vocabulary to describe solutions. This can be significantly simpler than describing syntax and semantics when we're attempting to convey a way of structuring a solution in code form to others.
 
-
 [This book](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) is a wonderful resource on design patterns in JavaScript. It’s worth bookmarking so you can revisit it as needed. For now, you must read the following sections. The first 2 provide an intro to design patterns. The following 3 give examples of common design patterns you will use in your code:
-
 
 https://addyosmani.com/resources/essentialjsdesignpatterns/book/#categoriesofdesignpatterns
 

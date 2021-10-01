@@ -2,6 +2,10 @@
 _db_id: 109
 content_type: topic
 ready: true
+tags:
+- java
+- collections
+- data-structures
 title: Java collections and data structures
 ---
 

@@ -2,6 +2,8 @@
 _db_id: 70
 content_type: topic
 ready: true
+tags:
+- api
 title: API basics
 ---
 

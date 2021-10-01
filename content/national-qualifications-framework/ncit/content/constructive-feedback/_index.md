@@ -1,10 +1,53 @@
 ---
 _db_id: 359
 content_type: topic
+ncit_specific_outcomes:
+- assessment_criteria:
+  - The provision is selected in terms of type and channel
+  - The provision ensures that the language, content and tone of feedback fit the
+    situation, the occasion, the subject matter and the audience
+  - The provision describes the behavior or event which is the focus of feedback,
+    in neutral terms, with the absence of reference to character or personality of
+    the recipient
+  - The provision identifies legal and ethical requirements that impact on the time
+    and place where feedback is provided
+  - The provision ensures that the content of the message meets the objectives set
+    for providing feedback
+  - The provision ensures that constructive feedback incorporates listening, open
+    questions, paraphrasing and responding to receiver reactions
+  outcome: 1
+  title: Provide constructive feedback.
+- assessment_criteria:
+  - The analysis identifies issues related to providing feedback in terms of context/
+    situation
+  - The analysis identifies the purpose and/ or outcomes for specific feedback contexts/
+    situations
+  - The analysis identifies consequences and/ or anticipated reactions for specific
+    feedback contexts/ situations
+  - The analysis ensures that the content and tone of feedback fit the situation,
+    the occasion, the subject matter and the audience
+  - The analysis identifies the legal and organisational requirements that impact
+    on the type and manner of feedback provided
+  outcome: 2
+  title: Analyse feedback contexts and/ or situations.
+- assessment_criteria:
+  - The response ensures that the medium, language, content and tone fits the situation,
+    the occasion, the matter and the audience
+  - The response clarifies feedback received, in terms of the objectives and issues
+    raised
+  - The response evaluates feedback received, in terms of its applicability to the
+    objectives and issues raised
+  - The response incorporates identifying options and/ or strategies for further action
+  - The response evaluated the outcome of feedback to determine if the objectives
+    are met, or require further action
+  outcome: 3
+  title: Respond constructively to feedback.
 ncit_standards:
 - 115431
-ready: false
-tags: []
+ready: true
+tags:
+- ncit
+- communication
 title: Constructive Feedback
 ---
 
@@ -15,17 +58,13 @@ Feedback is an essential element for everyone in an organization. Giving feedbac
 **Some situations which require giving constructive feedback include:**
 
  - Ongoing performance discussions
-
  - Providing specific performance pointers
-
  - Letting someone know the consequences of their behavior
 
 **Some clues that constructive feedback is needed are when:**
 
  - Someone asks for your opinion about how they are doing
-
  - An unresolved problems persist (errors occur again and again)
-
  - Someone’s performance doesn't meet expectations
 
 ### Ways to make feedback constructive
@@ -33,8 +72,6 @@ Feedback is an essential element for everyone in an organization. Giving feedbac
 The key to constructive feedback is making sure that it has value. Constructive feedback is a tool that is used to build things up, not break things down. It lets the other person know that you are on their side.
 
 If you can't think of a constructive purpose for giving feedback, don't give it at all.
-
-_______
 
 
 **1. Focus on description rather than judgement.**
@@ -49,10 +86,6 @@ rather than
 
 *Your communication skills are good!*
 
-
-_________
-
-
 **2. Focus on observation rather than inference.**
 
 Observations refer to what you can see or hear about an individual's behavior, while inferences refer to the assumptions and interpretations you make from what you see or hear. Focus on what the person did and your reaction.
@@ -66,9 +99,6 @@ rather than describe what you assume to be the person's motivation
 
 *I guess you don't care about teaching!*
 
-_______
-
-
 **3. Focus on behavior rather than the person**
 
 Refer to what an individual does rather than on what you imagine she or he is. To focus on behavior, use adverbs, which describe action, rather than adjectives, which describe qualities.
@@ -81,13 +111,9 @@ rather than
 
 *You talk too much!*
 
-_______
-
 **4. Provide a balance of positive and negative feedback**
 
 If you consistently give only positive or negative feedback, people will distrust the feedback and it will become useless.
-
-_______
 
 **5. Be aware of feedback overload.**
 
@@ -96,8 +122,6 @@ Select two or three important points you want to make and offer feedback about t
 For example:
 
 *You are really quick to complete tasks and good at meeting deadlines. But the number of typing errors you are currently making is higher than expected.*
-
-_______
 
 Giving feedback constructively benefits everyone. You, as the project manager or supervisor, use the on-going exchange of information as a way of getting to know your people and providing them with valuable guidance in their work. The employee, manager, supervisor, or peer receives data that makes that makes their job easier. The organization gains in improved productivity of its workforce.
 
@@ -260,11 +284,8 @@ Tell the feedback giver that **you’d like to discuss their feedback with them*
 Show them that you are **interested in listening to whatever they want to say**.  Below are four responses to feedback that demonstrate you are listening:
 
  - *Paraphrase:* After listening carefully to a person, paraphrase or summarize their ideas in your own words.
-
  - *Summarize:* Restate in a succinct fashion the information you gathered. This is used to confirm a shared understanding of what has been said or decided. It gives a feeling of closure to a conversation.
-
  - *Ask Open-ended Questions: *Open-ended questions usually begin with words like: What, Who, Where, When, and How and are difficult to answer with a simple “yes” or “no” response.  E.g., “What do you think about that?” Open-ended questions indicate your interest in learning more about the issues, ideas, and reasoning that are important to the feedback giver. Avoid asking “why” type questions that can put a person on the spot, e.g., “Why do you think that way?”
-
  - *Use Silence: *Wait for the other person to respond and finish talking. Then pause rather than respond right away. These pauses are not intended to be embarrassing. By not filling the vacuum, you let the other person know you are listening and are interested in what he/she is saying and that you are making space for more.
 
 
@@ -294,9 +315,7 @@ Be sure to get clear from the feedback givers exactly what they are asking you t
 After you’ve taken in the feedback and become more aware, it’s up to you to choose what action you will take – if any.  You will be more likely to follow through if
 
  - You select only a few changes (up to three)
-
  - You select changes you believe are in the interests of you and your peers
-
  - You genuinely want to make them.
 
 **Commit yourself to specific actions by specific dates**

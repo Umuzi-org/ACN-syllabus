@@ -5,14 +5,15 @@ flavours:
 - none
 prerequisites:
   hard:
-  - sql/topics/intro-to-relational-databases
-  - topics/intro-to-docker/
+  - topics/solo-learn/sql/4-challenges
+  - docker/intro-to-docker/
   soft: []
 ready: true
 story_points: 3
 submission_type: repo
-tags: []
-title: SQL
+tags:
+- sql
+title: Shop Database using sql
 ---
 
 ## Installation:
@@ -21,15 +22,24 @@ title: SQL
 - Instead of installing Postgres on your computer, you can launch it with a docker composition
 - MySQL is nice and lot's of people use it in industry, but it doesn't actually implement standard SQL, it sort of does it's own thing a bit. Postgres is a much more standard DB, and industry loooooves it
 
+## Structure:
+
+- Your repository should have a **.yml** file 
+- Your repository should have **.sql** files
+- The different SQL commands should be saved in different descriptive script files i.e.
+  - when the reviewer is looking for the commands you used for creating the database they should be able to navigate to a file named **create-database.sql** ,  
+  - navigate to a file named **create-tables.sql** for the commands used to create the database tables , and 
+  - navigate to the files that contain the commands used for inserting table records and querying the database
+
 ## Instructions
 
 ## Part 1: Creating a database
 
 Save all of your instructions in a script file - you will submit this file on Gnomio and github.
 
-1. Create a database called "Umuzi".
+1. Create a database called "shop".
 
-2. Create the following tables in the Umuzi database:
+2. Create the following tables in the shop database:
 
    - Customers
    - Employees

@@ -12,6 +12,8 @@ prerequisites:
   soft: []
 ready: true
 submission_type: continue_repo
+tags:
+- problem solving
 title: semitone difference - Advanced algorithm
 weight: 3
 ---

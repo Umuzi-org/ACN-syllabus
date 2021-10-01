@@ -2,6 +2,8 @@
 _db_id: 125
 content_type: topic
 ready: true
+tags:
+- jdbc-templates
 title: JDBC templates
 ---
 

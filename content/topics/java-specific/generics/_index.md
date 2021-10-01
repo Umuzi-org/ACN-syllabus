@@ -2,6 +2,8 @@
 _db_id: 102
 content_type: topic
 ready: true
+tags:
+- generics
 title: Java Generics
 ---
 

@@ -4,11 +4,12 @@ content_type: project
 flavours:
 - any_language
 prerequisites:
-  hard:
-  - topics/messaging/honor-code
-  - projects/git-exercises
+  hard: null
 ready: true
 submission_type: link
+tags:
+- algrithms
+- clean-code
 title: Level 0 coding challenges
 ---
 
@@ -162,7 +163,7 @@ This might help: https://www.wikihow.com/Calculate-the-Area-of-a-Triangle
 
 ## Task 0.6
 
-White a function that takes in three numbers and returns the maximum number.
+Write a function that takes in three numbers and returns the maximum number.
 
 Do this without using any builtin methods. Write your own logic from scratch.
 

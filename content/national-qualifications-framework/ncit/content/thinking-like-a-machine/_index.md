@@ -1,9 +1,49 @@
 ---
 _db_id: 639
 content_type: topic
+flavours:
+- any_language
+ncit_specific_outcomes:
+- assessment_criteria:
+  - The description identifies the different problem solving techniques.
+  - The description identifies situations where specific problem solving techniques
+    would be more suitable than others
+  - The description utilises the top-down problem solving approach in real life problems
+    known to the learner.
+  - The description allows for the practice of problem breakdown in picture drawing
+    applications.
+  outcome: 1
+  title: Describe different approaches to problem solving.
+- assessment_criteria:
+  - Usage describes the logical operators by drawing truth tables
+  - Usage provides examples of problem situations where a specific operator can be
+    used.
+  - Usage identifies which of the operators should be used to represent given situations.
+  - Usage combines different operators to form Boolean expressions by setting up truth
+    tables.
+  outcome: 2
+  title: Use logical operators in descriptions of rules and relationships in a problem
+    situation.
+- assessment_criteria:
+  - The simplification describes the rules of Boolean algebra.
+  - The simplification uses the Boolean algebra rules to simplify given expressions.
+  - The simplification uses Karnaugh maps to represent Boolean expressions.
+  - The simplification involves writing down the simplified expression from the map.
+  outcome: 3
+  title: Simplify Boolean expressions with Boolean algebra and Karnaugh maps.
+- assessment_criteria:
+  - The description identifies the common causes of errors
+  - The description identifies error isolation techniques.
+  - The description identifies various testing techniques.
+  outcome: 4
+  title: Describe the basic concepts of error detection.
 ncit_standards:
 - 115367
-ready: false
+prerequisites:
+  hard:
+  - language-agnostic/problem-solving-technique
+  - language-agnostic/intro-to-hackerrank
+ready: true
 tags:
 - ncit
 - problem-solving
@@ -28,6 +68,49 @@ What number goes inside the final triangle?
 Next, try playing the game Mastermind [(you can play online here)](http://www.webgamesonline.com/mastermind/). It may seem like you need a lot of luck to win this game, but there are algorithms you can use to win every time. Can you find an algorithm to win this game?
 
 ## 2. Logical operators
+
+If you think you know what "logic" means, you probably don't... In this section we'll be going through what it means in the context of computer programming.
+
+You know about True and False by now. These are referred to as boolean values. Some coding expressions evaluate to boolean values, and you can store boolean values inside variables.
+
+eg:
+```[js]
+even = input_number %2 === 0
+```
+
+In this case, if the input_number is 5 then `even` would be false. And if `input_number` was equal to 2 then `even` would be equal to true.
+
+Now a Logical Operator is a way of combining boolean values into new boolean values. Some of these logical operators have some very normal sounding names. `and` and `or` are locical operators.
+
+Here's an example:
+
+If `it is a Tuesday` AND `Mom hasn't phoned me for 7 days` then `call Mom`.
+
+The `and` logical operator results in a boolean true output like so:
+
+|it is a Tuesday | Mom hasn't phoned me for 7 days | Call Mom
+|-----|-----|----|
+|false|false|false|
+|false|true|false|
+|true|false|false|
+|true|true|true|
+
+
+Here is another example
+
+
+If `it is a Tuesday` OR `Mom hasn't phoned me for 7 days` then `call Mom`.
+
+The `OR` logical operator results in a boolean true output like so:
+
+|it is a Tuesday | Mom hasn't phoned me for 7 days | Call Mom
+|-----|-----|----|
+|false|false|false|
+|false|true|true|
+|true|false|true|
+|true|true|true|
+
+Different languages have different syntax for writing this stuff as code. But the concepts are the same across languages.
 
 ### Truth Tables
 

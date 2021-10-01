@@ -2,6 +2,10 @@
 _db_id: 64
 content_type: topic
 ready: true
+tags:
+- databases
+- sql
+- nosql
 title: Database Comparison
 ---
 

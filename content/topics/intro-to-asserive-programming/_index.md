@@ -2,6 +2,8 @@
 _db_id: 145
 content_type: topic
 ready: true
+tags:
+- defensive-programming
 title: Introduction to assertive programming
 ---
 
@@ -9,7 +11,7 @@ You've all heard of "defensive driving", right? When driving a car you do certai
 
 Because mistakes happen. Sometimes the road is bad, sometimes there's a cow in the road, sometimes the other drivers on the road are inattentive. Sometimes you are inattentive.
 
-Ok. Now let's talk about code. Code is written by humans for humans. Humans are prone to human error. Humans make mistakes all the time, there will be typos, off-by-one errors, assumptions and all sorts of weird nonesense.
+Ok. Now let's talk about code. Code is written by humans for humans. Humans are prone to human error. Humans make mistakes all the time, there will be typos, off-by-one errors, assumptions and all sorts of weird nonsense.
 
 Assertive programming is one way to do defensive programming. It has loads of benefits.
 
@@ -19,7 +21,7 @@ First consider the following code:
 # python
 
 def refund_client(refund_amount):
-    assert refund_amount > 0, f"refund amound needs to be positive, this is invalid {refund_amount}"
+    assert refund_amount > 0, f"refund amount needs to be positive, this is invalid {refund_amount}"
     now_do_the_actual_work()
 
 ```
@@ -28,7 +30,7 @@ def refund_client(refund_amount):
 // javascript
 
 function refundClient(refundAmount){
-    console.assert(refundAmount > 0, `refund amound needs to be positive, this is invalid ${refundAmount}`)
+    console.assert(refundAmount > 0, `refund amount needs to be positive, this is invalid ${refundAmount}`)
     nowDoTheActualWork()
 }
 
@@ -43,9 +45,9 @@ This is good for a few different things:
 
 Also, in general, the earlier you find a problem the cheaper it it to fix. This is a fact of life. Seriously.
 
-In terms of coding, let's talk a bit more about the `refund_amount` assertion. Imagine a piece of software that is all about shopping. Occasionaly users require refunds. What might happen if somehow a negative refund amount slips into the system? It might show up as something weird on a frontend and make the end users distrust the system, then the backend devs will blame the frontend devs, maybe the accounting system will be negatively effected (of course the frontend devs will be blamed for this too, at least for a little while), the refund wont be paid to the user on time, and lots of other aweful nasty stuff.
+In terms of coding, let's talk a bit more about the `refund_amount` assertion. Imagine a piece of software that is all about shopping. Occasionally users require refunds. What might happen if somehow a negative refund amount slips into the system? It might show up as something weird on a frontend and make the end users distrust the system, then the backend devs will blame the frontend devs, maybe the accounting system will be negatively effected (of course the frontend devs will be blamed for this too, at least for a little while), the refund wont be paid to the user on time, and lots of other awful nasty stuff.
 
-That one little line of code prefents all sorts of crazy stuff from happening in the code.
+That one little line of code prevents all sorts of crazy stuff from happening in the code.
 
 Assertions save lives!
 
@@ -54,13 +56,17 @@ Assertions save lives!
 This excellent article talks about the benefits of failing fast and loudly:
 https://www.martinfowler.com/ieeeSoftware/failFast.pdf
 
-This discussion on Stackoverflow is about where assertions are inappropriate. It makes use of heavy wordds like `public methods` and stuff like that. Basically a shortcut to doing this right is thinking about who is going to see your error message and how the error message will be useful to them.
+This discussion on Stackoverflow is about where assertions are inappropriate. It makes use of heavy words like `public methods` and stuff like that. Basically a shortcut to doing this right is thinking about who is going to see your error message and how the error message will be useful to them.
 https://stackoverflow.com/questions/13832487/why-should-assertions-not-be-used-for-argument-checking-in-public-methods
 
-## Java Resources
+## Java resources
 
 - https://www.geeksforgeeks.org/assertions-in-java/
 
 ## JS resources
 
 - https://developer.mozilla.org/en-US/docs/Web/API/console/assert
+
+## Python resources
+
+- https://wiki.python.org/moin/UsingAssertionsEffectively

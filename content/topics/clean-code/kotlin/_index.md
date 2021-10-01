@@ -2,6 +2,9 @@
 _db_id: 82
 content_type: topic
 ready: true
+tags:
+- clean-code
+- kotlin
 title: Clean Code for Kotlin
 ---
 

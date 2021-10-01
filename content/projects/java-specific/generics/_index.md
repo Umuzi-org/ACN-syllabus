@@ -10,6 +10,9 @@ prerequisites:
   soft: []
 ready: true
 submission_type: repo
+tags:
+- generics
+- array-manipulation
 title: Java Generics
 ---
 

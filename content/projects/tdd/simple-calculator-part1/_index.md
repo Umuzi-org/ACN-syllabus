@@ -39,10 +39,10 @@ After setting up Jasmine on the terminal, please ensure that your directory has 
 
 - A src folder that has a file called:
 
-  - simple_calculator.js <---- this is where you will implement all your functionality.
+  - simple-calculator.js <---- this is where you will implement all your functionality.
 
 - A spec folder that has a file called:
-  - simple_calculator_spec.js <---- this is where you will put your tests.
+  - simple-calculator_spec.js <---- this is where you will put your tests.
 
 Your directory structure should look like this:
 
@@ -51,9 +51,9 @@ Your directory structure should look like this:
     >spec
         > support
             - jasmine.json
-        - simple_calculator_spec.js
+        - simple-calculator-spec.js
     >src
-        - simple_calculator.js
+        - simple-calculator.js
     - package.json
 ```
 
@@ -71,6 +71,7 @@ Your project is expected to be completed using pytest. You are expected to follo
 ```
 
 Please take a look at this topic to see an explanation of the required directory structure.
+
 {{%contentlink "topics/python-specific/automated-testing-with-pytest" %}}
 
 ### Java
@@ -160,3 +161,11 @@ multiply(1,3)
 multiply(-1,3)
 // should still return -3
 ```
+
+## Instructions for reviewer
+
+* `__init__.py` not needed if repo is set up properly (python).
+* The point of tests in TDD isn't only to have tests but to have very specific tests. For a given input we don't just want to know that they pass or fail. So instead of one function that tests everything you want specific tests.
+* Do not use builtin function names as variable e.g. `sum`.
+* Tests should have descriptive names.
+* Builtin functions should not be used in this project.

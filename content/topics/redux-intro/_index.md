@@ -10,9 +10,9 @@ title: Basic introduction to Redux
 
 ## Redux is
 
-- marketed as a state managment tool. It can be used to manage state an a whole lot more
+- marketed as a state management tool. It can be used to manage state an a whole lot more
 - usually used with React or other frontend web framework
-- concepts are similar to the Command Pattern. The command pattern is an OOP design pattern that unlocks a lot of stuff beyond simple state managment
+- concepts are similar to the Command Pattern. The command pattern is an OOP design pattern that unlocks a lot of stuff beyond simple state management
 
 ## Resources
 

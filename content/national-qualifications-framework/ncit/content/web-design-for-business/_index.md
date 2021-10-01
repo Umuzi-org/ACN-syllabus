@@ -1,10 +1,31 @@
 ---
 _db_id: 367
 content_type: topic
+ncit_specific_outcomes:
+- assessment_criteria:
+  - The discussion outlines the primary basis on which web sites are designed
+  - The discussion identifies different uses of the Internet as business tool
+  outcome: 1
+  title: Discuss the use of web sites in business.
+- assessment_criteria:
+  - The demonstration identifies the basic concepts to apply to design and production
+    of the web pages
+  - The demonstration explains the use of techniques to make the web site accessible
+    and popular
+  - The demonstration recognises the need to protect a web site
+  outcome: 2
+  title: Demonstrate an understanding of the basic concepts of web-site design for
+    business use.
 ncit_standards:
 - 115374
-ready: false
-tags: []
+prerequisites:
+  hard:
+  - projects/first-personal-website
+ready: true
+tags:
+- ncit
+- business
+- web design
 title: Web Design for Business
 ---
 
@@ -66,7 +87,11 @@ This list does not cover all the ways that the internet is used by businesses to
 
 ## 2. Basics of web design
 
-The internet has changed dramatically since its creation, both technologically and in the way it is used, and with it so has the aesthetic of web design. Have a look at this blog post to see how web design has evolved. You may find some of the screenshots entertaining in their simplicity but remember that the internet was conceived as an information sharing tool for academics and not as a business tool. Nowadays, that has completely changed. More advanced programming tools allow us to achieve visually stimulating and even interactive interfaces, so much so that User Interface Design is now an area of study and job title. The aesthetic continues to develop, as do new trends, it is not difficult to notice them yourself. For example one of the major developments in web design has been the spread of handheld internet enabled devices and the move to mobile-friendly/responsive design or a mobile-first approach.
+The internet has changed dramatically since its creation, both technologically and in the way it is used, and with it so has the aesthetic of web design. The internet was conceived as an information sharing tool for academics and not as a business tool, so websites used to be really simple looking. 
+
+Take a look at this to get a picture of how web design has changed over the years: https://quibble.digital/the-evolution-of-web-design/ 
+
+Nowadays, that has completely changed. More advanced programming tools allow us to achieve visually stimulating and even interactive interfaces, so much so that User Interface Design is now an area of study and job title. The aesthetic continues to develop, as do new trends, it is not difficult to notice them yourself. For example one of the major developments in web design has been the spread of handheld internet enabled devices and the move to mobile-friendly/responsive design or a mobile-first approach.
 
 Web design has become a big part of all businesses. Large organisations are likely to have a dedicated designer who visualises the interface and a developer who implements it technically. There can therefore be a large distinction between the role of a web designer and a web developer. Smashing Magazine is a great resource if you’re interested in these roles and the community working in them. On the other hand, there are a number of different online tools that allow people with limited technological and design knowledge to create a good looking, functioning and responsive website easily. These are sometimes called Content Management Systems. Some popular ones include Wordpress (self-hosted), Squarespace (hosted), and Shopify (hosted ecommerce).
 

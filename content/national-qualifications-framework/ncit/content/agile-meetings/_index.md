@@ -1,12 +1,59 @@
 ---
 _db_id: 357
 content_type: topic
+ncit_specific_outcomes:
+- assessment_criteria:
+  - The demonstration describes the types of technical meetings and their uses.
+  - The demonstration identifies leadership styles used in meeting procedures.
+  - The demonstration identifies decision making processes used in meetings.
+  - The demonstration describes meeting conventions relevant to the type of meeting
+    chosen.
+  - The demonstration identifies that the note taker should have technical background
+    knowledge.
+  outcome: 1
+  title: Demonstrate knowledge of different types of technical practitioners meetings.
+- assessment_criteria:
+  - The preparation ensures physical arrangements for the meeting is done, relevant
+    to the type of meeting.
+  - The preparation ensures that meeting outcomes are clear, concise and well documented.
+  - The preparation ensures that meeting invitations are extended to relevant participants
+    timeously.
+  - The preparation completes and distribute the meeting agenda and other supporting
+    documentation needed for the type of meeting.
+  outcome: 2
+  title: Prepare for a technical practitioners meeting.
+- assessment_criteria:
+  - The chair and members agree on rules and guidelines on behavior.
+  - The chair applies agreed meeting conventions throughout the meeting, according
+    to the type of meeting and in accordance with  the standing procedures of the
+    organisation(s) involved.
+  - The chair ensures that the published agenda is followed.
+  - The chair provides for active participation by all members to avoid/ minimize
+    conflict.
+  - The chair ensures that meeting topics are prioritised and that discussion times
+    are allocated according to importance, urgency, complexity and agenda.
+  - The chair ensures that agreed decisions are clear, accurate, includes a time frame
+    for action and are within the mandate of the type of meeting conducted.
+  outcome: 3
+  title: Chair a technical practitioners meeting.
+- assessment_criteria:
+  - The follow up ensures minutes of the meeting is produced accurately and in line
+    with the policy of the organisation.
+  - The follow up communicates agreed records of discussion to interested parties
+    in a format and time frame that meet requirements of the type of meeting and of
+    the organisation(s) involved.
+  outcome: 4
+  title: Conduct post meeting follow up for a technical meeting.
 ncit_standards:
 - 114051
-ready: false
+prerequisites:
+  hard:
+  - national-qualifications-framework/ncit/content/agile-project-management
+ready: true
 tags:
 - agile
 - scrum
+- ncit
 title: Agile Meetings
 ---
 
@@ -21,9 +68,7 @@ Scrum (n): A framework within which people can address complex adaptive problems
 Scrum is:
 
  - Lightweight
-
  - Simple to understand
-
  - Difficult to master
 
 Scrum is not a process, technique, or definitive method. Rather, it is a framework within which you can employ various processes and techniques.
@@ -33,6 +78,7 @@ The Scrum framework consists of Scrum Teams and their associated roles, events, 
 The essence of Scrum is a small team of people. The individual team is highly flexible and adaptive. These strengths continue operating in single, several, many, and networks of teams that develop, release, operate and sustain the work and work products of thousands of people.
 
 ### Scrum Values
+
 When the values of **commitment, courage, focus, openness and respect** are embodied and lived by the Scrum Team, the Scrum pillars of transparency, inspection, and adaptation come to life and build trust for everyone. The Scrum Team members learn and explore those values as they work with the Scrum events, roles and artifacts.
 
 Successful use of Scrum depends on people becoming more proficient in living these five values. People personally commit to achieving the goals of the Scrum Team. The Scrum Team members have courage to do the right thing and work on tough problems. Everyone focuses on the work of the Sprint and the goals of the Scrum Team. The Scrum Team and its stakeholders agree to be open about all the work and the challenges with performing the work. Scrum Team members respect each other to be capable, independent people.
@@ -65,6 +111,7 @@ The Product Owner is one person, not a committee. If someone else wants to chang
 For the Product Owner to succeed, the entire organization must respect his or her decisions. The Product Owner’s decisions are visible in the content and ordering of the Product Backlog. No one can force the Development Team to work from a different set of requirements.
 
 #### The Development Team
+
 The Development Team consists of professionals who do the work of delivering a potentially releasable Increment of "Done" product at the end of each Sprint. A "Done" increment is required at the Sprint Review. Only members of the Development Team create the Increment.
 
 Development Teams are structured and empowered by the organization to organize and manage their own work.
@@ -72,13 +119,9 @@ Development Teams are structured and empowered by the organization to organize a
 Development Teams have the following characteristics:
 
  - They are self-organizing. No one (not even the Scrum Master) tells the Development Team how to turn Product Backlog into Increments of potentially releasable functionality;
-
  - Development Teams are cross-functional, with all the skills as a team necessary to create a product Increment;
-
  - Scrum recognizes no titles for Development Team members, regardless of the work being performed by the person;
-
  - Scrum recognizes no sub-teams in the Development Team, regardless of domains that need to be addressed like testing, architecture, operations, or business analysis; and,
-
  - Individual Development Team members may have specialized skills and areas of focus, but accountability belongs to the Development Team as a whole.
 
 **Development Team Size**
@@ -93,19 +136,12 @@ The Scrum Master is a servant-leader for the Scrum Team. The Scrum Master helps 
 **Scrum Master Service to the Product Owner**
 
  - The Scrum Master serves the Product Owner in several ways, including:
-
  - Ensuring that goals, scope, and product domain are understood by everyone on the Scrum Team as well as possible;
-
  - Finding techniques for effective Product Backlog management;
-
  - Helping the Scrum Team understand the need for clear and concise Product Backlog items;
-
  - Understanding product planning in an empirical environment;
-
  - Ensuring the Product Owner knows how to arrange the Product Backlog to maximize value;
-
  - Understanding and practicing agility; and,
-
  - Facilitating Scrum events as requested or needed.
 
 **Scrum Master Service to the Development Team**
@@ -113,13 +149,9 @@ The Scrum Master is a servant-leader for the Scrum Team. The Scrum Master helps 
 The Scrum Master serves the Development Team in several ways, including:
 
  - Coaching the Development Team in self-organization and cross-functionality;
-
  - Helping the Development Team to create high-value products;
-
  - Removing impediments to the Development Team’s progress;
-
  - Facilitating Scrum events as requested or needed; and,
-
  - Coaching the Development Team in organizational environments in which Scrum is not yet fully adopted and understood.
 
 **Scrum Master Service to the Organization**
@@ -127,13 +159,9 @@ The Scrum Master serves the Development Team in several ways, including:
 The Scrum Master serves the organization in several ways, including:
 
  - Leading and coaching the organization in its Scrum adoption;
-
  - Planning Scrum implementations within the organization;
-
  - Helping employees and stakeholders understand and enact Scrum and empirical product development;
-
  - Causing change that increases the productivity of the Scrum Team; and,
-
  - Working with other Scrum Masters to increase the effectiveness of the application of Scrum in the organization.
 
 ## 3. Scrum Events
@@ -150,9 +178,7 @@ Sprints contain and consist of the Sprint Planning, Daily Scrums, the developmen
 During the Sprint:
 
  - No changes are made that would endanger the Sprint Goal;
-
  - Quality goals do not decrease; and,
-
  - Scope may be clarified and re-negotiated between the Product Owner and Development Team as more is learned.
 
 Each Sprint may be considered a project with no more than a one-month horizon. Like projects, Sprints are used to accomplish something. Each Sprint has a goal of what is to be built, a design and flexible plan that will guide building it, the work, and the resultant product increment.
@@ -168,7 +194,6 @@ Sprint Planning is time-boxed to a maximum of eight hours for a one-month Sprint
 Sprint Planning answers the following:
 
  - What can be delivered in the Increment resulting from the upcoming Sprint?
-
  - How will the work needed to deliver the Increment be achieved?
 
 **Topic One: What can be done this Sprint?**
@@ -201,9 +226,7 @@ The Development Team uses the Daily Scrum to inspect progress toward the Sprint 
 Some Development Teams will use questions, some will be more discussion based. Here is an example of what might be used:
 
  - What did I do yesterday that helped the Development Team meet the Sprint Goal?
-
  - What will I do today to help the Development Team meet the Sprint Goal?
-
  - Do I see any impediment that prevents me or the Development Team from meeting the Sprint Goal?
 
 The Development Team or team members often meet immediately after the Daily Scrum for detailed discussions, or to adapt, or replan, the rest of the Sprint’s work.
@@ -216,19 +239,12 @@ This is at most a four-hour meeting for one-month Sprints. For shorter Sprints, 
 The Sprint Review includes the following elements:
 
  - Attendees include the Scrum Team and key stakeholders invited by the Product Owner;
-
  - The Product Owner explains what Product Backlog items have been "Done" and what has not been "Done";
-
  - The Development Team discusses what went well during the Sprint, what problems it ran into, and how those problems were solved;
-
  - The Development Team demonstrates the work that it has "Done" and answers questions about the Increment;
-
  - The Product Owner discusses the Product Backlog as it stands. He or she projects likely target and delivery dates based on progress to date (if needed);
-
  - The entire group collaborates on what to do next, so that the Sprint Review provides valuable input to subsequent Sprint Planning;
-
  - Review of how the marketplace or potential use of the product might have changed what is the most valuable thing to do next; and,
-
  - Review of the timeline, budget, potential capabilities, and marketplace for the next anticipated releases of functionality or capability of the product.
 
 The result of the Sprint Review is a revised Product Backlog that defines the probable Product Backlog items for the next Sprint. The Product Backlog may also be adjusted overall to meet new opportunities.
@@ -244,9 +260,7 @@ The Scrum Master ensures that the meeting is positive and productive. The Scrum 
 The purpose of the Sprint Retrospective is to:
 
  - Inspect how the last Sprint went with regards to people, relationships, process, and tools;
-
  - Identify and order the major items that went well and potential improvements; and,
-
  - Create a plan for implementing improvements to the way the Scrum Team does its work.
 
 The Scrum Master encourages the Scrum Team to improve, within the Scrum process framework, its development process and practices to make it more effective and enjoyable for the next Sprint. During each Sprint Retrospective, the Scrum Team plans ways to increase product quality by improving work processes or adapting the definition of "Done", if appropriate and not in conflict with product or organizational standards.
@@ -258,6 +272,7 @@ By the end of the Sprint Retrospective, the Scrum Team should have identified im
 The documents used in Scrum, known as artifacts, represent work or value to provide transparency and opportunities for inspection and adaptation. Artifacts defined by Scrum are specifically designed to maximize transparency of key information so that everybody has the same understanding of the artifact.
 
 #### Product Backlog
+
 The Product Backlog is an ordered list of everything that is known to be needed in the product. It is the single source of requirements for any changes to be made to the product. The Product Owner is responsible for the Product Backlog, including its content, availability, and ordering.
 
 A Product Backlog is never complete. The earliest development of it lays out the initially known and best-understood requirements. The Product Backlog evolves as the product and the environment in which it will be used evolves. The Product Backlog is dynamic; it constantly changes to identify what the product needs to be appropriate, competitive, and useful.
@@ -283,7 +298,9 @@ The Sprint Backlog is a plan with enough detail that changes in progress can be 
 As new work is required, the Development Team adds it to the Sprint Backlog. As work is performed or completed, the estimated remaining work is updated. When elements of the plan are deemed unnecessary, they are removed. Only the Development Team can change its Sprint Backlog during a Sprint. The Sprint Backlog is a highly visible, real-time picture of the work that the Development Team plans to accomplish during the Sprint, and it belongs solely to the Development Team.
 
 **Monitoring Sprint Progress**
+
 At any point in time in a Sprint, the total work remaining in the Sprint Backlog can be summed. The Development Team tracks this total work remaining at least for every Daily Scrum to project the likelihood of achieving the Sprint Goal. By tracking the remaining work throughout the Sprint, the Development Team can manage its progress.
 
 #### Increment
+
 The Increment is the sum of all the Product Backlog items completed during a Sprint and the value of the increments of all previous Sprints. At the end of a Sprint, the new Increment must be "Done," which means it must be in useable condition and meet the Scrum Team’s definition of "Done". An increment is a body of inspectable, done work that supports empiricism at the end of the Sprint. The increment is a step toward a vision or goal. The increment must be in useable condition regardless of whether the Product Owner decides to release it.

@@ -2,26 +2,22 @@
 _db_id: 131
 content_type: topic
 ready: true
+tags:
+- node
+- javascript
+- backend
 title: Node
 ---
 
 Wikipedia.org defines Node.js as an open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside of a browser.
 
-Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running
-scripts server-side to produce dynamic web page content before the page is sent to the user's web browser.
+Node.js lets you write JavaScript code that runs on a server. This has many uses:
+- command line utilities and utility scripts
+- web app backends that dynamically generate web page html or expose apis
 
-The article below unfold the following points
+Here are a few articles to get your head around the concepts:
 
-1. What is Node.js
-2. Why Node js
-3. Node installation process
-4. Asynchronous vs Synchronous
-
-## Resources
-
-- [Understanding the basics of Node.js](https://medium.com/prod-io/understanding-the-basics-of-node-js-99e01c5d844f)
-- https://codeburst.io/getting-started-with-node-js-a-beginners-guide-b03e25bca71b
-- https://docs.npmjs.com/about-packages-and-modules
-- https://www.w3schools.com/nodejs/nodejs_npm.asp
-- https://medium.com/@richardkall/installing-node-js-using-node-version-manager-nvm-c21546a613bc
-- https://medium.com/@richardkall/installing-node-js-using-node-version-manager-nvm-c21546a613bc
+- [Server-side website programming first steps](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps): please read all the guides listed under the "Guides" heading.
+- [About Node](https://nodejs.org/en/about/) : try to understand this whole page 
+- [The Node Package Manager](https://docs.npmjs.com/about-packages-and-modules)
+- [Node tutorial](https://www.w3schools.com/nodejs/nodejs_npm.asp) Please work through the whole tutorial. There are all sorts of cool things you can do with this knowledge

@@ -6,8 +6,10 @@ prerequisites:
   - topics/solo-learn/python/module-1-basic-concepts
   soft: []
 ready: true
+tags:
+- python
 title: Solo Learn - Python - Module 2 - Control Statements
-topic_needs_review: true
+topic_needs_review: false
 ---
 
 Complete the above mentioned module on Solo Learn
