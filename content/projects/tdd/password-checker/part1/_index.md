@@ -103,7 +103,7 @@ password_is_valid(password)
 2. password should be longer than than 8 characters
 3. password should have at least one lowercase letter
 4. password should have at least one uppercase letter
-5. password should at least have one digit
+5. password should have at least have one digit
 6. password should have at least one special character
 7. password should have at least one whitespace character
 
