@@ -53,5 +53,4 @@ As a user I want to be able to see how many turns I've had. The game needs to ke
 
 - Check that once cards are matched, they cannot be flipped over again.
 - Make sure the specs actually tests the functionality of the code. Changes in the source files should affect the tests.
-- Make sure that cards can not be clicked once the timer has run out.
 - Check that card clicks are registered correctly; no multiple clicks and already flipped or matched cards don't register additional clicks.
