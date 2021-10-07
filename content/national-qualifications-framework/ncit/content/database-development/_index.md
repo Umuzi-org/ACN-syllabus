@@ -105,10 +105,10 @@ title: Database Development
 ### 2. Introduction to SQL
 For a basic intro to SQL commands, watch this video:
 {{< youtube bEtnYWuo2Bw >}} 
-[Please find here the reading material for this section](https://umuzi.gnomio.com/pluginfile.php/5047/mod_book/chapter/3565/Introduction%20to%20SQL.pdf)
+[Please find here the reading material for this section](https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=7b17a072bd&attid=0.2&permmsgid=msg-f:1712784028101475596&th=17c507ffb3f37d0c&view=att&disp=inline&realattid=f_kue2vmxf1&saddbat=ANGjdJ9CCKi0-Le_abii932nlQb0dy9JM4XPvJIhsCkKdyHzyeqnOTDizKfhsCN2BpbWJrpGYZydalhr1O40uoxozrTeBBPHWxdXm1e7-0BDn9kYGFt8aeDTmnO52-Br6Skoet32uxlyyvDMjMJqsFf-t7uZUtK8i1KKcPheZScb00A9tWP37-SfzTOGYJNMJx4Y7bgf2ReVY7VMWJjlv-z9Wwr9PFWH84nAqkeZphtCplzS1QVQTVOwvjrVIUiBa2TRU6PW2hqFFxHhxglB6iHtVydWSlghcuRJbXNoFELEvHWu4wiiszrs9e5j_75V7VkfaD_3vODciqOZDO-Z6joxkPqwsl_XzeCf3MlyRZUNnVxOWkBKckOkKVkDdplQu-aCd58wZ1vjX-tEPIoCubs1XyYfv_LrXgBb3il1b_UGXQAGv3VD6VyoQ59OAWbhhDNvSXLap0PquSMRRv9G5lmOw_L7suMw5dVUBjOZuvOY0Z1ZA63YlesaGXGvjmDoRNvl0QYKOBoyDRWvJyh_6RXSXS_K7RtXRcwChDl1EG3drsARxFCqDYQjrqzl659dy6cGfDavG6tk2ceGCyM8UdTyC8KWCQulbdC3x4SgOGFMGivNm-9tHaa6E38R36fIR7i-U1ZNtCrnOYWNhfJFPSS_gE2S-4iE4HHbXgggxaTuZWQHzC7eZdipnVD-_VA)
 
 ### 3. NoSql Databases
-[Please find here the reading material for this section](https://umuzi.gnomio.com/pluginfile.php/5047/mod_book/chapter/3566/NoSql%20presentation.pdf)
+[Please find here the reading material for this section](https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=7b17a072bd&attid=0.1&permmsgid=msg-f:1712784028101475596&th=17c507ffb3f37d0c&view=att&disp=inline&realattid=f_kue2vmx30&saddbat=ANGjdJ9urloQrWSwrNGmLC1EwqBtg7_FA9HnjXIkA2NbavSDWRee1IUqev_1Ly4xslnGy79_sz5EDSTMtxpY9CMjG0mV457qDfSoIU7BYxh2X4BpBcDwNQIvfeuHFyZz2vxO968b_hN_MIiZjt35nfKyPoGwPTDFhPk8vlDcu2Kulw9N2Z--6jMDR4YMayVJp_jrvnUtMTONboROmrJ9GXkh_jfxaFc_AB1Vf-4w9uyndBS_osyUyik-rs4VtLljox4LRGqdyiuueNSYpQXzRI5Y8TO0ZJqe0i56I7wbHx2UBPbitA869qn3NSaehicdgpD0FWlfcloJvadhdFw8g5MTkmn2g0pl6ALcBm5uQmy3zO5n_NGUOaXXYUojOVBc01fPXL4F7luTpeAztRCyeS3GAGT6DYz8Trw3LVN3gxXcPRubcU0v_RO-_2z4DdZbkMXJXXWFb8v3xJKdJ0w3oV5kdwTA8hr78Lh6dWqxgopUFepXiS7-HRpwKMMAfsiGoOear6AdkhT7h9uQSRpFztN6qqP-BgQK_WlW02h6FiKbzJ6dUW5GIA0J_eO1YSyQ3lwraMtGD4sDnskSTuhEDjL5AJ-feG-RbF_b_43L9CfJcEb1mDOnTKhlQ8ZgfxejDk0zT0LPeFaYBwm8t_WbTUZy5IZwa7c1wKF2R1CSMAeLeRYf_LM_lqTxfKJFEPw)
 
 ### 4. MongoDB
 For a basic introduction to MongoDB please check out the video below.
