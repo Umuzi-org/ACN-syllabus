@@ -40,6 +40,12 @@ For Mac:
 
 https://docs.docker.com/docker-for-mac/install/
 
+For Windows:
+
+https://docs.docker.com/desktop/windows/install/
+
+An extension for VSCode can be installed as well https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker
+
 ### Super important
 
 For some reason most people don't follow ALL the installation instructions.

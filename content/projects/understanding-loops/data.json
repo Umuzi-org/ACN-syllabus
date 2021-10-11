@@ -1,0 +1,213 @@
+[
+    {
+        "email": "tshepo@umuzi.org",
+        "status": "OPEN",
+        "items": [
+            {
+                "name": "hamster",
+                "quantity": 2,
+                "price": 20
+            },
+            {
+                "name": "saw dust",
+                "quantity": 1,
+                "price": 20
+            },
+            {
+                "name": "hamster-cage",
+                "quantity": 1,
+                "price": 150
+            },
+            {
+                "name": "book: how to care for your hamster",
+                "quantity": 1,
+                "price": 150
+            }
+        ]
+    },
+    {
+        "email": "tshepo@umuzi.org",
+        "status": "PAID",
+        "items": [
+            {
+                "name": "balloons",
+                "quantity": 1,
+                "price": 25
+            },
+            {
+                "name": "big friggin cake",
+                "quantity": 1,
+                "price": 150
+            },
+            {
+                "name": "candles",
+                "quantity": 1,
+                "price": 30
+            }
+        ]
+    },
+    {
+        "email": "tshepo@umuzi.org",
+        "status": "DELIVERED",
+        "items": [
+            {
+                "name": "tooth brush",
+                "quantity": 1,
+                "price": 50
+            },
+            {
+                "name": "soap",
+                "quantity": 3,
+                "price": 15
+            }
+        ]
+    },
+    {
+        "email": "tshepo@umuzi.org",
+        "status": "DELIVERED",
+        "items": [
+            {
+                "name": "tent",
+                "quantity": 1,
+                "price": 1999
+            }
+        ]
+    },
+
+    {
+        "email": "sally@umuzi.org",
+        "status": "DELIVERED",
+        "items": [
+            {
+                "name": "tent",
+                "quantity": 1,
+                "price": 1999
+            },
+            {
+                "name": "headlamp",
+                "quantity": 1,
+                "price": 250
+            },
+            {
+                "name": "hiking boots",
+                "quantity": 1,
+                "price": 1000
+            }
+        ]
+    },
+
+    {
+        "email": "sally@umuzi.org",
+        "status": "PAID",
+        "items": [
+            {
+                "name": "hamster",
+                "quantity": 1,
+                "price": 20
+            },
+            {
+                "name": "saw dust",
+                "quantity": 1,
+                "price": 20
+            },
+            {
+                "name": "hamster-cage",
+                "quantity": 1,
+                "price": 150
+            }
+        ]
+    },
+
+    {
+        "email": "sally@umuzi.org",
+        "status": "DELIVERED",
+        "items": [
+            {
+                "name": "book: how to care for your hamster",
+                "quantity": 1,
+                "price": 150
+            }
+        ]
+    },
+
+    {
+        "email": "mpho@umuzi.org",
+        "status": "OPEN",
+        "items": [
+            {
+                "name": "hammer",
+                "quantity": 1,
+                "price": 200
+            },
+            {
+                "name": "bag of nails",
+                "quantity": 1,
+                "price": 50
+            },
+            {
+                "name": "128 GB SSD Hard drive",
+                "quantity": 2,
+                "price": 600
+            }
+
+        ]
+    },
+
+    {
+        "email": "ryan@umuzi.org",
+        "status": "PAID",
+        "items": [
+            {
+                "name": "128 GB SSD Hard drive",
+                "quantity": 2,
+                "price": 600
+            },
+            {
+                "name": "book: how to suceed at being a hard arse",
+                "quantity": 1,
+                "price": 160
+            }
+        ]
+    },
+    {
+        "email" : "mo@umuzi.org",
+        "status": "DELIVERED",
+        "items": [
+            {
+                "name": "balloons",
+                "quantity": 1,
+                "price": 25
+            },
+            {
+                "name": "big friggin cake",
+                "quantity": 2,
+                "price": 150
+            }
+        ]
+    },
+    {
+        "email" : "mo@umuzi.org",
+        "status": "DELIVERED",
+        "items": [
+
+        ]
+    },
+    {
+        "email" : "mo@umuzi.org",
+        "status": "DELIVERED",
+        "items": [
+            {
+                "name": "balloons",
+                "quantity": 1,
+                "price": 25
+            },
+            {
+                "name": "big friggin cake",
+                "quantity": 1,
+                "price": 150
+            }
+        ]
+    }
+]
+
+

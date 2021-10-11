@@ -86,7 +86,7 @@ Test -> Does dog eat food should Fail
 
 //Cat Tests
 Cat cat = new Cat();
-Test -> Does cat Barkark should Fail
+Test -> Does cat Bark should Fail
 Test -> Does cat Meow should Pass
 Test -> Does cat eat meat should Fail
 Test -> Does cat eat Food should Pass
