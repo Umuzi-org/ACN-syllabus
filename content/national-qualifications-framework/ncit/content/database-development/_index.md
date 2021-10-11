@@ -105,6 +105,7 @@ title: Database Development
 ### 2. Introduction to SQL
 For a basic intro to SQL commands, watch this video:
 {{< youtube bEtnYWuo2Bw >}} 
+
 [Please find here the reading material for this section](https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=7b17a072bd&attid=0.2&permmsgid=msg-f:1712784028101475596&th=17c507ffb3f37d0c&view=att&disp=inline&realattid=f_kue2vmxf1&saddbat=ANGjdJ9CCKi0-Le_abii932nlQb0dy9JM4XPvJIhsCkKdyHzyeqnOTDizKfhsCN2BpbWJrpGYZydalhr1O40uoxozrTeBBPHWxdXm1e7-0BDn9kYGFt8aeDTmnO52-Br6Skoet32uxlyyvDMjMJqsFf-t7uZUtK8i1KKcPheZScb00A9tWP37-SfzTOGYJNMJx4Y7bgf2ReVY7VMWJjlv-z9Wwr9PFWH84nAqkeZphtCplzS1QVQTVOwvjrVIUiBa2TRU6PW2hqFFxHhxglB6iHtVydWSlghcuRJbXNoFELEvHWu4wiiszrs9e5j_75V7VkfaD_3vODciqOZDO-Z6joxkPqwsl_XzeCf3MlyRZUNnVxOWkBKckOkKVkDdplQu-aCd58wZ1vjX-tEPIoCubs1XyYfv_LrXgBb3il1b_UGXQAGv3VD6VyoQ59OAWbhhDNvSXLap0PquSMRRv9G5lmOw_L7suMw5dVUBjOZuvOY0Z1ZA63YlesaGXGvjmDoRNvl0QYKOBoyDRWvJyh_6RXSXS_K7RtXRcwChDl1EG3drsARxFCqDYQjrqzl659dy6cGfDavG6tk2ceGCyM8UdTyC8KWCQulbdC3x4SgOGFMGivNm-9tHaa6E38R36fIR7i-U1ZNtCrnOYWNhfJFPSS_gE2S-4iE4HHbXgggxaTuZWQHzC7eZdipnVD-_VA)
 
 ### 3. NoSql Databases
@@ -124,4 +125,4 @@ Please follow the link below depending on your platform:
 
 **Applying CRUD operations with the low-level MongoDB driver**
 
-Please follow along with the lecture using the provided reading material. [Please click here to download the material.](https://umuzi.gnomio.com/pluginfile.php/5047/mod_book/chapter/3567/Node%20Craftsman.pdf)
+Please follow along with the lecture using the provided reading material. [Please click here to download the material.](https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=7b17a072bd&attid=0.1&permmsgid=msg-f:1712954474936149722&th=17c5a304f2fc26da&view=att&disp=inline&realattid=f_kugndddc0&saddbat=ANGjdJ-d11dln2049sXQeKvn-mBWZBemSEJMb-ZYulTRTmLglYXrG0sPoE6lubAf3HGFBOfnVI3ATvUMR3FzickVpsj6MWiNeDB7rDCwIMuUtBv5MOF-v7qv7zyOGYWdHbObBe3tEbGdiRw8hB4reQw7NsjOKtPB5yJOtLTMsDyF4QTxOBnFzOPZ9xvR-XIDKbwKhPlEGzd8W3MBwEU4PnV-Neaa-Gn41eXyq0auzJnRSOb7S6WrVYxo7IceYPEPlaSyZCc-xol_gsglpknj_KKTwVG7r_SHHYBT2MbFPy6vTcpzX_tUuowleXyWFiybMjoJfQyGP5B6nEhG5aw5D1AnLaVqg9itNqzyyxlbJi5iyD5mFGl3km87OYEag3207RdynLHv_FG3i1MvX11bVIdfArtucrBfpn9xJOIjkF01ncVR79r9PNs6Y4rNFYujdrzB4cKdMHSeEddfTNJm1XxVr7y7_5yFmZkotKggkb_gFR8xrkP-awy4GXBnY-bLXZJiORUuh67GaJY-FyFY36m97ZMiZpXOCmvNoY3DjNIEjkEHwp-n5zBF9r2KdxFhC5TjzdRvqt6-JFo-9JRhcEBwEa8vx-7gwOU4ZWouLaQ7D0sHnV4m1UtbHFGy93ouO5iG4lYHoiF5NggWIlBILFdXQsNV7Ho7QC3YprvrNOFwnCn6WffXb7f8In12b9s)
