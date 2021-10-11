@@ -16,7 +16,12 @@ tags:
 title: Add logging to password checker
 ---
 
-In part one of this exercise you created two functions. Now you are going to upgrade that program by adding some logging capabilities. You are expected to use the recommended logging library(or framework) for your programming language, e.g. Winston(for javascript) and so on.
+In part one of this exercise you created two functions. Now you are going to upgrade that program by adding some logging capabilities. 
+You are expected to use the recommended logging library(or framework) for your programming language:
+
+- Javascript: Winston
+- Java: log4J-2
+- Python: logging
 
 1. Whenever `passwordIsValid` returns true, log the following message
 
