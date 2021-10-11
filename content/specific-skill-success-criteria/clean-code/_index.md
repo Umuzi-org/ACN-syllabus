@@ -11,7 +11,7 @@ If a person only writes spaghetti code then they will waste a lot of time if the
 
 In testing this skill, samples of code will be shown to the students and they will need to say how the code can be cleaned up.
 
-Concepts to understand:
+## Concepts to understand:
 
 - code should be DRY
 - remember the principle of KISS (google it folks)

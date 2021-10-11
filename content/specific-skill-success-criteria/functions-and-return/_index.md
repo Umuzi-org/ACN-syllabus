@@ -1,14 +1,19 @@
 ---
 _db_id: 709
-content_type: topic
+content_type: project
 ready: true
 title: 'Assessment: Functions, return statements and printing to the terminal'
-topic_needs_review: true
+submission_type: link
 ---
+
 
 Students should 100% understand the following concepts. Note that simply memorizing this stuff will be insufficient. In the final test the different concepts will be combined in complex ways.
 
 Make use of print statements in order to check that the student knows what order things will happen in.
+
+## Note about submission format
+
+On Tilde you'll notice that this card is asking for a link submission. **Please don't worry about submitting a link**. You will be assessed according to {{% contentlink path="specific-skill-success-criteria/introduction-to-assessments" %}}
 
 ## return and print are different things
 

@@ -1,12 +1,18 @@
 ---
 _db_id: 712
-content_type: topic
 ready: true
 title: 'Assessment: For loops'
 topic_needs_review: true
+content_type: project
+submission_type: link
 ---
 
+
 Many people do pattern matching instead of understanding. Here are some common things that will be tested
+
+## Note about submission format
+
+On Tilde you'll notice that this card is asking for a link submission. **Please don't worry about submitting a link**. You will be assessed according to {{% contentlink path="specific-skill-success-criteria/introduction-to-assessments" %}}
 
 ## JS and Java learners understands that they can count up and down
 
