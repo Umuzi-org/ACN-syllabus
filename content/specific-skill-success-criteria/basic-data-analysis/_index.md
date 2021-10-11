@@ -1,9 +1,10 @@
 ---
 _db_id: 710
 title: 'Assessment: Basic data analysis'
-topic_needs_review: true
 content_type: project
 submission_type: link
+flavours:
+- none
 ---
 ## Note about submission format
 

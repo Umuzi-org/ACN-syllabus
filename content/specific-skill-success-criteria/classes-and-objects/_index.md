@@ -3,6 +3,8 @@ _db_id: 711
 title: 'Assessment: Classes and objects'
 content_type: project
 submission_type: link
+flavours:
+- any_language
 ---
 
 ## Note about submission format

@@ -5,6 +5,8 @@ title: 'Assessment: For loops'
 topic_needs_review: true
 content_type: project
 submission_type: link
+flavours:
+- any_language
 ---
 
 
