@@ -7,7 +7,10 @@ pre: '<b>MEDIUM: </b>'
 prerequisites:
   hard:
   - topics/data-science-specific/natural-language-processing
+  - topics/data-science-specific/data-science-methodology
   - topics/jupyter-notebooks-best-practices
+  - projects/data-science-specific/multivariate-linear-regression
+  - projects/data-science-specific/logistic-regression
 ready: true
 story_points: 21
 submission_type: repo
