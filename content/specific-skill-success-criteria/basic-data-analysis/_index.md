@@ -36,7 +36,7 @@ Given a list of numbers, the learner should be able to calculate the mode.
 eg1: `[2,3,4,2]`
 eg2: `[2,3,4,2,3]`
 
-## Interquartile range (IQR)
+## Interquartile range `IQR`
 
 Given a list of numbers, the learner must be able to calculate the 1st, 2nd and 3rd quartile.
 
@@ -52,7 +52,7 @@ Make sure to check that they know how to handle:
 - If you show the learner a plot of some data and ask them if standard deviation is meaningful they should be able to tell you. Eg: Is it worth calculating the standard deviation of an exponential distribution?
 - If you have a normal distribution where the curve is flat, and another one where the curve is pointy, then which one has the higher standard deviation?
 
-## Correlation coefficient (R)
+## Correlation coefficient `R`
 
 The learner should know:
 - what is the minimum value that the correlation coefficient can have? What does it mean if we have this value?
