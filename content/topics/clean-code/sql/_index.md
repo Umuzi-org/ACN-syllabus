@@ -14,8 +14,8 @@ As you advance in this career, you might find yourself having to work with a tea
 
 ### Script files naming
 - Make sure that your script file name describes the purpose of the SQL commands it contains: `school.sql` doesn't really say much about the script file content but `insert-records.sql` does, and will make it easy for the next programmer to find the file containing the commands you used to insert table records
-- File names normally follow this format: `create_database.sql` or `create-database.sql` 
-- It's good practice to separate script files according to their purpose, e.g. `create-database.sql` for the commands you use for creating a database, `create-tables.sql` for the commands used for creating tables, e.t.c
+- SQL script file names normally follow this format: `create_tables.sql` or `create-tables.sql` 
+- It's good practice to name script files according to their purpose, e.g. `create-tables.sql` for the commands you use for creating tables, `insert-records.sql` for the commands used for inserting records, e.t.c
 
 ### Comments
 
@@ -37,7 +37,7 @@ FROM customers;
 It's good practice to:
 
 - write all the SQL keywords in UPPERCASE
-- write all the identifiers using one of these formats: `customers`, `first_name` or `FirstName`)
+- write all the identifiers using one of these formats: `customers` or `first_name`)
 - have a semi-colon `;` at the end of an expression
 
 ### Indentation, Alignment and Consistency
@@ -56,9 +56,22 @@ FROM clients
 INNER JOIN places ON places.client_id = clients.id  
 WHERE province = 'Free State';
 ```
+```
+SELECT clients.id, places.province 
+FROM clients 
+INNER JOIN places ON places.client_id = clients.id  
+WHERE province = 'Free State';
+```
 
-Remember good SQL code is easy to read and understand.
+Remember, good SQL code is easy to read and understand.
 
+### Databases
+If you're creating a school database, name it `school` instead of just `database`
+
+### Tables and table columns
+- Name a table using a singular instead of plural, i.e. `customer`, `account`, e.t.c 
+- Primary key column: It's good practice to name this column as just `id`
+- Foreign key column: Use the specific table's name and a "id" e.g. `customer_id` - that way it easily references the foreign key to the `customer` table 
 
 
  
