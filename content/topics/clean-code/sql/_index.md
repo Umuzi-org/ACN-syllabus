@@ -25,19 +25,19 @@ As you advance in this career, you might find yourself having to work with a tea
 ### SQL Expressions
 
 ```
-INSERT INTO customers (first_name, last_name)
+INSERT INTO customer (first_name, last_name)
 VALUES ('John', 'Doe');
 ```
 
 ```
 SELECT first_name 
-FROM customers;
+FROM customer;
 ```
 
 It's good practice to:
 
 - write all the SQL keywords in UPPERCASE
-- write all the identifiers using one of these formats: `customers` or `first_name`)
+- write all the identifiers using one of these formats: `customer` or `first_name`)
 - have a semi-colon `;` at the end of an expression
 
 ### Indentation, Alignment and Consistency
@@ -49,17 +49,17 @@ SELECT clients.id, clients.first_name, places.province FROM clients INNER JOIN p
 Example of good indentation:
 ```
 SELECT 
-    clients.id, 
-    clients.first_name, 
-    places.province 
-FROM clients 
-INNER JOIN places ON places.client_id = clients.id  
+    client.id, 
+    client.first_name, 
+    place.province 
+FROM client 
+INNER JOIN place ON place.client_id = client.id  
 WHERE province = 'Free State';
 ```
 ```
-SELECT clients.id, places.province 
-FROM clients 
-INNER JOIN places ON places.client_id = clients.id  
+SELECT client.id, place.province 
+FROM client 
+INNER JOIN place ON place.client_id = client.id  
 WHERE province = 'Free State';
 ```
 
