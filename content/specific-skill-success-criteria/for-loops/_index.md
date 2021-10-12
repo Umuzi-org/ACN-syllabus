@@ -1,14 +1,12 @@
 ---
 _db_id: 712
-ready: true
-title: 'Assessment: For loops'
-topic_needs_review: true
 content_type: project
-submission_type: link
 flavours:
 - any_language
+ready: true
+submission_type: link
+title: 'Assessment: For loops'
 ---
-
 
 Many people do pattern matching instead of understanding. Here are some common things that will be tested
 

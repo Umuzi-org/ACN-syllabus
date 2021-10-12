@@ -1,13 +1,12 @@
 ---
 _db_id: 709
-ready: true
-title: 'Assessment: Functions, return statements and printing to the terminal'
 content_type: project
-submission_type: link
 flavours:
 - any_language
+ready: true
+submission_type: link
+title: 'Assessment: Functions, return statements and printing to the terminal'
 ---
-
 
 Students should 100% understand the following concepts. Note that simply memorizing this stuff will be insufficient. In the final test the different concepts will be combined in complex ways.
 

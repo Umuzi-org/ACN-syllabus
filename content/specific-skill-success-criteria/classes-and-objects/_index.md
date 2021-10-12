@@ -1,10 +1,10 @@
 ---
 _db_id: 711
-title: 'Assessment: Classes and objects'
 content_type: project
-submission_type: link
 flavours:
 - any_language
+submission_type: link
+title: 'Assessment: Classes and objects'
 ---
 
 ## Note about submission format

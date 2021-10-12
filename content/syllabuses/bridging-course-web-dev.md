@@ -12,7 +12,7 @@ title: Web dev bridging course
 - {{% contentlink path="projects/understanding-loops" flavour="javascript" %}}
 - {{% contentlink path="projects/katas/level-1" flavour="javascript" %}}
 - {{% contentlink path="specific-skill-success-criteria/introduction-to-assessments" %}}
-- {{% contentlink path="specific-skill-success-criteria/functions-and-return" %}}
-- {{% contentlink path="specific-skill-success-criteria/for-loops" %}}
+- {{% contentlink path="specific-skill-success-criteria/functions-and-return" flavour="javascript" %}}
+- {{% contentlink path="specific-skill-success-criteria/for-loops" flavour="javascript" %}}
 - {{% contentlink path="projects/oop/animals/part1"  flavour="javascript" %}}
-- {{% contentlink path="specific-skill-success-criteria/classes-and-objects" %}}
+- {{% contentlink path="specific-skill-success-criteria/classes-and-objects" flavour="javascript" %}}

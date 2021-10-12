@@ -1,11 +1,12 @@
 ---
 _db_id: 710
-title: 'Assessment: Basic data analysis'
 content_type: project
-submission_type: link
 flavours:
 - none
+submission_type: link
+title: 'Assessment: Basic data analysis'
 ---
+
 ## Note about submission format
 
 On Tilde you'll notice that this card is asking for a link submission. **Please don't worry about submitting a link**. You will be assessed according to {{% contentlink path="specific-skill-success-criteria/introduction-to-assessments" %}}
