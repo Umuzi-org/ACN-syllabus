@@ -184,7 +184,7 @@ As another example, if you were developing a "forgot password" or "confirm email
 - add extra information such as a weather report
 
 
-**Instructions for reviewer**
+## Instructions for reviewer
 
 - Please pay attention to how the unit tests are written:
 
