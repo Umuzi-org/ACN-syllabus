@@ -18,6 +18,12 @@ tags:
 - data-analysis
 - statistics
 title: Multivariate Linear Regression
+learning_outcomes:
+- eda
+- handle_categorical_variables
+- justify_feature_selection
+- linear_model_evaluation
+- cross_validation
 ---
 
 This week is all about one-hot encoding and multiple regression.
