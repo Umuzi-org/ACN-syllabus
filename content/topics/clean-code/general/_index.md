@@ -13,7 +13,7 @@ Always keep in mind that code is READ more often than it is written, so you shou
 
 ## Naming conventions
 
- - Make sure your naming conventions use vowels. tld_crd is hard to intemperate, but tilde_card would make sense in context.
+ - Make sure your naming conventions use vowels. tld_crd is hard to interpret, but tilde_card would make sense in context.
  - Be consistent in your code-base as much as possible. Consistency in your code makes it much easier to understand.
  - Meaningful abbreviations are ok
 
