@@ -1,2 +1,4 @@
-ds_can_perform_moves: can perform moves
-ds_something_else: other skills
+ds_can_perform_moves:
+  description: can perform moves
+ds_something_else:
+  description: other skills
