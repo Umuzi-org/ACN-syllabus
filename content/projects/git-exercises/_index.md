@@ -19,11 +19,11 @@ title: Git Basic Exercises
 
 ## Introduction
 
-From this point forward, you will be expected to work with git like a real developer. This excercise exists to teach you the necessary skills. This stuff will serve you for your whole career. Git is critical to professional devs.
+From this point forward, you will be expected to work with git like a real developer. This exercise exists to teach you the necessary skills. This stuff will serve you for your whole career. Git is critical to professional devs.
 
 Professionals are comfortable using git from the command line. Let's get cracking :)
 
-## Skillz you'll learn
+## Skills you'll learn
 
 By the end of this you are expected to know:
 
@@ -114,7 +114,7 @@ Why would you want to do this? Well, it's very useful to be able to go back and 
 
 The real power of git is in branching. Branching is what allows big teams of developers to work on the same code base. Basically different developers make branches for different things and then those branches can be merged together into one mighty application.
 
-**Please Note** At some point during this exercise you'll get an error message! It'll say something about a merge conflict. DON'T PANIC! Merge conflicts are a fact of life and you'll need to figure out how to fix it. (This)[https://opensource.com/article/20/4/git-merge-conflict] should help.
+**Please Note** At some point during this exercise you'll get an error message! It'll say something about a merge conflict. DON'T PANIC! Merge conflicts are a fact of life and you'll need to figure out how to fix it. [This](https://opensource.com/article/20/4/git-merge-conflict) should help.
 
 Let's explore branching a little bit.
 
@@ -366,7 +366,7 @@ Go look at your network page. each of the dots there represent commits you made.
 ### gitignore
 
 1. Create a new file `touch ignore-me.db`
-2. Now use `git status` to see what is going on in your repo, you will see ignore-me.bd as an unstaged file.
+2. Now use `git status` to see what is going on in your repo, you will see ignore-me.db as an unstaged file.
 3. Now lets create a .gitignore file type `nano .gitignore`
 4. In this file type `ignore-me.db` save and exit your .gitignore file
 5. Now use `git status` you will notice that `ignore-me.db` is no longer an unstaged file and is no longer being tracked by github and .gitignore is being tracked.
