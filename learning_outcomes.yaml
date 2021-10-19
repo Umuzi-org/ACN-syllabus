@@ -14,10 +14,9 @@ justify_feature_selection:
   description: Justify their feature selection using metrics such as Pearson's correlation
     coefficients and their related p-values.
 linear_model_evaluation:
-  description: Evaluate the quality of a model by assessing metrics such as the Mean Absolute Error (MAE), Root Mean Square Error (RMSE) and R-squared values.
-
-cross_validation:
-  description: Understand the benefits of cross-validation on the quality of the model.
+  _db_id: 5
+  description: Evaluate the quality of a model by assessing metrics such as the Mean
+    Absolute Error (MAE), Root Mean Square Error (RMSE) and R-squared values.
 
 # Build your first personal website
 web_dev_hosting: 
