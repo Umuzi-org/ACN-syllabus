@@ -3,6 +3,10 @@ _db_id: 232
 content_type: project
 flavours:
 - python
+learning_outcomes:
+- data_sci_oop
+- data_sci_oop_metrics_class
+- data_sci_oop_diagnostic_class
 pre: '<b>MEDIUM: </b>'
 prerequisites:
   hard:

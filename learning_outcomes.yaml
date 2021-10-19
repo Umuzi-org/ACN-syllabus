@@ -48,11 +48,15 @@ data_sci_seaborn:
 data_sci_visual_eda:
   description: Use graphs to reason about relationships between variables, and support insights gained from exploratory analysis.
 
-data_sci_name_me:
-  description: Add text here
+data_sci_oop:
+  description: Apply OOP techniques of encapsulation, inheritance, and polymorphism within the context of data science.
 
-# Project: Predict credit card approvals SheenaOk
-Learning outcomes: By completing this project, a learner should be able to:
+data_sci_oop_metrics_class:
+  description: Create a class with methods to compute model metrics; residuals, standardised residuals, Mean Squared Error (MSE) and Root Mean Squared Error (RMSE).
+
+data_sci_oop_diagnostic_class:
+  description: Create a class that will produce diagnostic plots for any given regression model.
+
 data_sci_classification:
   description: Understand the nature of classification problems and how to solve them using supervised learning techniques.
 
@@ -62,8 +66,7 @@ data_sci_classification_metrics:
 data_sci_hyper_parameter_tuning:
   description: Optimise a classification model using hyper-parameter tuning.
 
-# This is different in the context of regression vs classification
-data_sci_name_me:
+data_sci_classification_feature_selection:
   description: Justify feature selection and determine most important features.
 
 data_sci_sensitivity_specificity:
@@ -75,7 +78,6 @@ data_sci_decision_trees:
 data_sci_confusion_matrix_classification_report:
   description: Correctly interpret the results of a confusion matrix and a classification report.
 
-# Project: K-Means Clustering AssignmentSheenaOk
 data_sci_unsupervised_learning:
   description: Understand what unsupervised learning techniques are and their role within the data science methodology.
 
@@ -88,8 +90,6 @@ data_sci_cluster_optimisation:
 data_sci_cluster_metrics:
   description: Discuss how successful clustering was by referring to appropriate metrics (e.g. silhouette, adjusted rand index, etc.) or graphs.
 
-
-# Project: Natural language processing SheenaOk
 data_sci_nlp:
   description: Understand the nature and purpose of Natural Language Processing (NLP) techniques, and apply them to a given corpus.
 
@@ -101,13 +101,3 @@ data_sci_nlp_frequency_analysis:
 
 data_sci_sentiment_analysis:
   description: Use TextBlob to perform sentiment analysis, describing the subjectivity and polarity/objectivity within a text.
-
-# Project: OOP for data science
-data_sci_oop:
-  description: Apply OOP techniques of encapsulation, inheritance, and polymorphism within the context of data science.
-
-data_sci_oop_metrics_class:
-  description: Create a class with methods to compute model metrics; residuals, standardised residuals, Mean Squared Error (MSE) and Root Mean Squared Error (RMSE).
-
-data_sci_oop_diagnostic_class:
-  description: Create a class that will produce diagnostic plots for any given regression model.
