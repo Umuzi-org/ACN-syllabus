@@ -14,6 +14,14 @@ tags:
 - algrithms
 - clean-code
 title: Level 2 coding challenges
+learning_outcomes:
+- code_algorithmic_thinking
+- code_pseudo_code
+- code_problem_breakdown
+- code_control_flow
+- code_naming_convention
+- code_code_documentation
+- code_existing_code_update
 ---
 
 ## Task 2.1

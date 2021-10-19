@@ -46,3 +46,24 @@ code_oop_basic_encapsulation:
 
 code_oop_basic_class_instantiation:
   description: Demonstrate instantiating a single class.
+
+code_algorithmic_thinking:
+  description: Approach coding/programming problems algorithmically.
+
+code_pseudo_code:
+  description: Translate pseudo code to actual code.
+
+code_problem_breakdown:
+  description: Break programming problems down to isolated pieces and assemble a working solution.
+
+code_control_flow:
+  description: Demonstrate basic programming flow control mechanisms.
+
+code_naming_convention:
+  description: Justify naming conventions for the language used to solve a programming kata.
+
+code_code_documentation:
+  description: Identify when and how to document/comment code.
+
+code_existing_code_update:
+  description: Update existing code according to new specifications.

@@ -10,6 +10,13 @@ tags:
 - algrithms
 - clean-code
 title: Level 1 coding challenges
+learning_outcomes:
+- code_algorithmic_thinking
+- code_pseudo_code
+- code_problem_breakdown
+- code_control_flow
+- code_naming_convention
+- code_code_documentation
 ---
 
 These exercises are here to help you test out and demonstrate your knowledge of the basic flow control mechanisms and syntax for your language. These exercises are relevant whether you are doing Java, JavaScript, Python, Kotlin or any other modern language.
