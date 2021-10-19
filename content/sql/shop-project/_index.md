@@ -14,6 +14,13 @@ submission_type: repo
 tags:
 - sql
 title: Shop Database using sql
+learning_outcomes:
+- sql_docker_composition
+- sql_one_to_one_relationship
+- sql_one_to_many_relationship
+- sql_many_to_many_relation
+- sql_query_data
+- sql_query_data_by_group
 ---
 
 ## Installation:

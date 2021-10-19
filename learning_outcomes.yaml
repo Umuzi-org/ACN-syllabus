@@ -99,3 +99,21 @@ code_control_flow_invariants:
 
 code_error_messages:
   description: Choose useful error messages so that failing code can be corrected easily.
+
+sql_docker_composition:
+  description: Use Postgres within a docker composition.
+
+sql_one_to_one_relationship:
+  description: Create sql tables that demonstrate a one-to-one relationship.
+
+sql_one_to_many_relationship:
+  description: Create sql tables that demonstrate a one-to-many relationship.
+
+sql_many_to_many_relation:
+  description: Create sql tables that demonstrate a many-to-many relationship.
+
+sql_query_data:
+  description: Query data using simple select statements with conditionals, joins(left, right, inner, outer).
+
+sql_query_data_by_group:
+  description: Query data using group by clause
