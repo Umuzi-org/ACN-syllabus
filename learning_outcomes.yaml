@@ -76,3 +76,18 @@ code_algorithm_use:
 code_implement_tdd:
   description: Implement TDD when being guided through the process step by step.
 
+git_create_a_repository:
+description: Set up and create a repository on GitHub.
+
+git_make_commits:
+  description: Make commits to a repository.
+
+git_create_branches:
+  description: Create branches and switch between them.
+
+git_use_gitignore:
+  description: Use gitignore files.
+
+git_merge_branches:
+  description: Merge branches and overcome merge conflicts.
+
