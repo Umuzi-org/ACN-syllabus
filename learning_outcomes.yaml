@@ -20,6 +20,7 @@ linear_model_evaluation:
 cross_validation:
   description: Understand the benefits of cross-validation on the quality of the model.
 
+# Build your first personal website
 web_dev_hosting: 
   description: Host a basic web page to the using GitHub.
 
@@ -32,6 +33,7 @@ web_dev_web_page_structure:
 web_dev_web_design_principals: 
   description: Implement simple web design principles that focus on UI, simple navigation, using adaptive formatting and keeping all visuals consistent and appealing.
 
+# Animals part 1
 code_oop_class_instantiation:
   description: Instantiating several distinct instances of multiple classes.
 
@@ -47,12 +49,14 @@ code_oop_inheritance:
 code_oop_compostion:
   description: Demonstrate composition by having one class instance keep track of other class instances
 
+# Person
 code_oop_basic_encapsulation:
   description: Demonstrate encapsulation - Understand the basic idea of a class as a collection of attributes and functions.
 
 code_oop_basic_class_instantiation:
   description: Demonstrate instantiating a single class.
 
+# Programming katas
 code_algorithmic_thinking:
   description: Approach coding/programming problems algorithmically.
 
@@ -74,6 +78,7 @@ code_code_documentation:
 code_existing_code_update:
   description: Update existing code according to new specifications.
 
+# Validate a South African ID
 code_validation:
   description: Validate input data. 
 
@@ -83,6 +88,7 @@ code_algorithm_use:
 code_implement_tdd:
   description: Implement TDD when being guided through the process step by step.
 
+# git basic execises
 git_create_a_repository:
 description: Set up and create a repository on GitHub.
 
@@ -107,6 +113,7 @@ code_control_flow_invariants:
 code_error_messages:
   description: Choose useful error messages so that failing code can be corrected easily.
 
+# shop database using sql
 sql_docker_composition:
   description: Use Postgres within a docker composition.
 
@@ -124,8 +131,3 @@ sql_query_data:
 
 sql_query_data_by_group:
   description: Query data using group by clause
-
-_db_id: 5
-  description: Evaluate the quality of a model by assessing metrics such as the Mean
-    Absolute Error (MAE), Root Mean Square Error (RMSE) and R-squared values.
-
