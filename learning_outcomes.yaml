@@ -91,3 +91,5 @@ git_use_gitignore:
 git_merge_branches:
   description: Merge branches and overcome merge conflicts.
 
+code_basic_calculation:
+  description: Perform basic algebraic calculations using code.
