@@ -93,3 +93,9 @@ git_merge_branches:
 
 code_basic_calculation:
   description: Perform basic algebraic calculations using code.
+
+code_control_flow_invariants:
+  description: Check assumptions about the programs flow of control using assertions(Control flow invariants).
+
+code_error_messages:
+  description: Choose useful error messages so that failing code can be corrected easily.

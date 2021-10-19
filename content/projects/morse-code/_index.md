@@ -15,6 +15,9 @@ tags:
 - data structures
 - defensive programming
 title: Morse code
+learning_outcomes:
+- code_control_flow_invariants
+- code_error_messages
 ---
 
 Create two functions:
