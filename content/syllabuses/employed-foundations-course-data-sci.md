@@ -1,7 +1,7 @@
 ---
+_db_id: 77
 title: Foundations of data sci for employed learners
 ---
-
 
 - {{% contentlink path="topics/messaging/employed-foundations-course-intro" %}}
 
@@ -29,4 +29,3 @@ title: Foundations of data sci for employed learners
 - {{% contentlink path="projects/data-science-specific/bootcamp-exploratory-data-analysis" flavour="python" %}}
 - {{% contentlink path="projects/data-science-specific/statistical-thinking" flavour="python" %}}
 - {{% contentlink path="specific-skill-success-criteria/basic-data-analysis" %}}
-

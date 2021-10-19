@@ -1,7 +1,7 @@
 ---
+_db_id: 76
 title: Foundations of data eng for employed learners
 ---
-
 
 - {{% contentlink path="topics/messaging/employed-foundations-course-intro" %}}
 
