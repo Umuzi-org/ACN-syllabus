@@ -3,6 +3,10 @@ _db_id: 247
 content_type: project
 flavours:
 - python
+learning_outcomes:
+- data_sci_data_processing
+- data_sci_data_validation
+- data_sci_pandas
 pre: '<b>MEDIUM: </b>'
 prerequisites:
   hard:
