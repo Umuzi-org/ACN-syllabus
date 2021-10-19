@@ -71,7 +71,8 @@ code_validation:
   description: Validate input data. 
 
 code_algorithm_use:
-  description:
+  description: Introduce and integrate existing algorithms to the code base.
 
 code_implement_tdd:
-  description:
+  description: Implement TDD when being guided through the process step by step.
+
