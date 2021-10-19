@@ -1,14 +1,19 @@
-eda:
-  description: Perform exploratory data analysis on a dataset, creating appropriate graphs and interpreting descriptive statistics of the variables.
-
-handle_categorical_variables:
-  description: Understand how to handle categorical data, the potential multicollinearity this raises, and how this affects the modelling process.
-
-justify_feature_selection:
-  description: Justify their feature selection using metrics such as Pearson's correlation coefficients and their related p-values.
-
-linear_model_evaluation:
-  description: Evaluate the quality of a model by assessing metrics such as the Mean Absolute Error (MAE), Root Mean Square Error (RMSE) and R-squared values.
-
 cross_validation:
+  _db_id: 1
   description: Understand the benefits of cross-validation on the quality of the model.
+eda:
+  _db_id: 2
+  description: Perform exploratory data analysis on a dataset, creating appropriate
+    graphs and interpreting descriptive statistics of the variables.
+handle_categorical_variables:
+  _db_id: 3
+  description: Understand how to handle categorical data, the potential multicollinearity
+    this raises, and how this affects the modelling process.
+justify_feature_selection:
+  _db_id: 4
+  description: Justify their feature selection using metrics such as Pearson's correlation
+    coefficients and their related p-values.
+linear_model_evaluation:
+  _db_id: 5
+  description: Evaluate the quality of a model by assessing metrics such as the Mean
+    Absolute Error (MAE), Root Mean Square Error (RMSE) and R-squared values.
