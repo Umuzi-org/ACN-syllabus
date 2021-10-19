@@ -41,3 +41,8 @@ code_oop_inheritance:
 code_oop_compostion:
   description: Demonstrate composition by having one class instance keep track of other class instances
 
+code_oop_basic_encapsulation:
+  description: Demonstrate encapsulation - Understand the basic idea of a class as a collection of attributes and functions.
+
+code_oop_basic_class_instantiation:
+  description: Demonstrate instantiating a single class.

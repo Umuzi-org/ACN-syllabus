@@ -12,6 +12,9 @@ submission_type: repo
 tags:
 - oop
 title: Person
+learning_outcomes:
+- code_oop_basic_encapsulation
+- code_oop_basic_class_instantiation
 ---
 
 Create a `class` called `Person` which defines the generic data and functionality of a human.
