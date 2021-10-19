@@ -18,10 +18,10 @@ tags:
 - responsive web design
 title: Build your first personal website
 learning_outcomes:
-- code_hosting
-- code_responsive_page_design
-- code_web_page_structure
-- code_web_design_principals
+- web_dev_hosting
+- web_dev_responsive_page_design
+- web_code_web_page_structure
+- web_code_web_design_principals
 ---
 
 For the learnership you will create a website with your CV and a portfolio of your work. Create the website and host it on Github. You will be expected to keep your portfolio up to date throughout the learnership.
