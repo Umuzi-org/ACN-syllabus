@@ -34,7 +34,6 @@ code_oop_polymorphism:
 code_oop_encapsulation:
   description: Demonstrate encapsulation - Understand the basic idea of a class as a collection of attributes and functions.
 
-
 code_oop_inheritance:
   description: Demonstrate inheritance with a 2 level inheritance hierarchy.
 
@@ -67,3 +66,12 @@ code_code_documentation:
 
 code_existing_code_update:
   description: Update existing code according to new specifications.
+
+code_validation:
+  description: Validate input data. 
+
+code_algorithm_use:
+  description:
+
+code_implement_tdd:
+  description:

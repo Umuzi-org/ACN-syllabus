@@ -10,6 +10,11 @@ tags:
 - problem-solving
 - validation
 title: Validate a South African ID number
+learning_outcomes:
+- code_validation
+- code_problem_breakdown
+- code_algorithm_use
+- code_implement_tdd
 ---
 
 In this project we'll be practicing Test Driven Development while solving a validation problem.
