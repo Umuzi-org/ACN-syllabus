@@ -52,11 +52,11 @@ Notice that the full name used in the file is all lower-case and spaces are repl
 eg:
 
 ```
-alice.load("Alice Cooper")
+Visitor.load("Alice Cooper")
 // prints out all of Alice's information
 
 
-bob.load("Bob Marley")
+Visitor.load("Bob Marley")
 // Same deal for good ol Bob
 ```
 

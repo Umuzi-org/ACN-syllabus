@@ -3,13 +3,16 @@ _db_id: 247
 content_type: project
 flavours:
 - python
+learning_outcomes:
+- data_sci_data_processing
+- data_sci_data_validation
+- data_sci_pandas
 pre: '<b>MEDIUM: </b>'
 prerequisites:
   hard:
   - topics/data-validation-and-quality-control
   - topics/jupyter-notebooks-best-practices
   - topics/data-ethics-and-privacy
-  - projects/tdd/simple-calculator-part1
 ready: true
 story_points: 5
 submission_type: repo
@@ -19,7 +22,7 @@ tags:
 title: Data Wrangling
 ---
 
-Please make use of Jupyter notebooks while doing this project. 
+Please make use of Jupyter notebooks while doing this project.
 ## Key concepts
 
 - merging data frames

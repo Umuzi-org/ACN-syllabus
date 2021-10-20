@@ -4,9 +4,7 @@ content_type: project
 flavours:
 - any_language
 prerequisites:
-  hard:
-  - topics/messaging/honor-code
-  - projects/git-exercises
+  hard: null
 ready: true
 submission_type: link
 tags:

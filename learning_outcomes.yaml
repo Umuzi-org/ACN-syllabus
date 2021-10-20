@@ -1,0 +1,103 @@
+data_sci_cross_validation:
+  _db_id: 1
+  description: Understand the benefits of cross-validation on the quality of the model.
+data_sci_eda:
+  _db_id: 2
+  description: Perform exploratory data analysis on a dataset by creating appropriate
+    graphs and interpreting descriptive statistics of the variables.
+data_sci_handle_categorical_variables:
+  _db_id: 3
+  description: Understand how to handle categorical data, the potential multicollinearity
+    this raises, and how this affects the modelling process.
+data_sci_justify_feature_selection:
+  _db_id: 4
+  description: Justify their feature selection using metrics such as Pearson's correlation
+    coefficients and their related p-values.
+data_sci_linear_model_evaluation:
+  _db_id: 5
+  description: Evaluate the quality of a model by assessing metrics such as the Mean
+    Absolute Error (MAE), Root Mean Square Error (RMSE) and R-squared values.
+
+data_sci_linear_model_metrics:
+  description: Understand basic statistical metrics such as; variance explained by the model, significance values, confidence intervals.
+
+data_sci_linear_model_summary:
+  description: Interpret the standard summary of a linear regression model; for example what the unstandardised coefficient tells us about the relationship between variables.
+
+data_sci_linear_model_overfitting:
+  description: Evaluate model overfitting using the RMSE criterion.
+
+data_sci_data_processing:
+  description: Use pandas for data manipulation by extracting, filtering, and transforming data in DataFrames.
+
+data_sci_data_validation:
+  description: Perform basic data validation and quality control.
+
+data_sci_pandas:
+  description: Apply summary functions, maps, and grouping to aggregate data based on conditional statements.
+
+data_sci_visualisations:
+  description: To combine, merge, and aggregate data to create visualisations.
+
+data_sci_graphs_based_on_data_type:
+  description: Identify appropriate graphs based on data type (continuous vs categorical).
+
+data_sci_seaborn:
+  description: Create and interpret statistical graphs using seaborn.
+
+data_sci_visual_eda:
+  description: Use graphs to reason about relationships between variables, and support insights gained from exploratory analysis.
+
+data_sci_oop:
+  description: Apply OOP techniques of encapsulation, inheritance, and polymorphism within the context of data science.
+
+data_sci_oop_metrics_class:
+  description: Create a class with methods to compute model metrics; residuals, standardised residuals, Mean Squared Error (MSE) and Root Mean Squared Error (RMSE).
+
+data_sci_oop_diagnostic_class:
+  description: Create a class that will produce diagnostic plots for any given regression model.
+
+data_sci_classification:
+  description: Understand the nature of classification problems and how to solve them using supervised learning techniques.
+
+data_sci_classification_metrics:
+  description: Evaluate model performance and discuss classification metrics within the context of the given problem, correctly reporting metrics isn’t sufficient. Learners should be able to relate these to the actual problem being modelled.
+
+data_sci_hyper_parameter_tuning:
+  description: Optimise a classification model using hyper-parameter tuning.
+
+data_sci_classification_feature_selection:
+  description: Justify feature selection and determine most important features.
+
+data_sci_sensitivity_specificity:
+  description: Reason about sensitivity and specificity, with the aid of the Receiver Operating Characteristic (ROC) curve and metrics such as precision, recall, and the F1-score.
+
+data_sci_decision_trees:
+  description: Use tree based methods for classification problems.
+
+data_sci_confusion_matrix_classification_report:
+  description: Correctly interpret the results of a confusion matrix and a classification report.
+
+data_sci_unsupervised_learning:
+  description: Understand what unsupervised learning techniques are and their role within the data science methodology.
+
+data_sci_k_means:
+  description: Correctly apply K-Means clustering to a given problem, identifying attributes results in similar groupings.
+
+data_sci_cluster_optimisation:
+  description: Understand how to use the elbow or silhouette method to find the optimal number of clusters.
+
+data_sci_cluster_metrics:
+  description: Discuss how successful clustering was by referring to appropriate metrics (e.g. silhouette, adjusted rand index, etc.) or graphs.
+
+data_sci_nlp:
+  description: Understand the nature and purpose of Natural Language Processing (NLP) techniques, and apply them to a given corpus.
+
+data_sci_nlp_data_preparation:
+  description: Prepare a data set for NLP by building a basic NLP analysis pipeline.
+
+data_sci_nlp_frequency_analysis:
+  description: Perform frequency analysis, compare complexity scores, and create appropriate visualisations such as word clouds to gain insights about a text.
+
+data_sci_sentiment_analysis:
+  description: Use TextBlob to perform sentiment analysis, describing the subjectivity and polarity/objectivity within a text.

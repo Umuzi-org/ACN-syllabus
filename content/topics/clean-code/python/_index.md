@@ -57,7 +57,7 @@ In some fonts, these characters are indistinguishable from the numerals one and 
 
 ### When to break the rules
 
-If you are working with someone else's code and there is a different convention in place then follow that convention. It's really imnportant to stay consistent. Inconsistent code leaves people guessing, and guesses make bugs. 
+If you are working with someone else's code and there is a different convention in place then follow that convention. It's really important to stay consistent. Inconsistent code leaves people guessing, and guesses make bugs. 
 
 
 ## Comments

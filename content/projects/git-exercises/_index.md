@@ -19,11 +19,11 @@ title: Git Basic Exercises
 
 ## Introduction
 
-From this point forward, you will be expected to work with git like a real developer. This excercise exists to teach you the necessary skills. This stuff will serve you for your whole career. Git is critical to professional devs.
+From this point forward, you will be expected to work with git like a real developer. This exercise exists to teach you the necessary skills. This stuff will serve you for your whole career. Git is critical to professional devs.
 
 Professionals are comfortable using git from the command line. Let's get cracking :)
 
-## Skillz you'll learn
+## Skills you'll learn
 
 By the end of this you are expected to know:
 
@@ -67,7 +67,7 @@ Note: you can do all of this stuff from the command line! You should be using li
 
 1. type in `nano README.md`. This will open up a text editor. Type in some stuff and then press `ctrl x` to exit. Then `y` then `enter`. This will save your changes
 2. type in `cat README.md`. This will print your file to the console
-3. take a look at the `git stats` again and make sure you understand it
+3. take a look at the `git status` again and make sure you understand it
 4. commit your changes to your repo. Your commit should have the message `"second commit"`
 5. make some more changes to your readme and make a `"third commit"`
 
@@ -114,7 +114,7 @@ Why would you want to do this? Well, it's very useful to be able to go back and 
 
 The real power of git is in branching. Branching is what allows big teams of developers to work on the same code base. Basically different developers make branches for different things and then those branches can be merged together into one mighty application.
 
-**Please Note** At some point during this exercise you'll get an error message! It'll say something about a merge conflict. DON'T PANIC! Merge conflicts are a fact of life and you'll need to figure out how to fix it. (This)[https://opensource.com/article/20/4/git-merge-conflict] should help.
+**Please Note** At some point during this exercise you'll get an error message! It'll say something about a merge conflict. DON'T PANIC! Merge conflicts are a fact of life and you'll need to figure out how to fix it. [This](https://opensource.com/article/20/4/git-merge-conflict) should help.
 
 Let's explore branching a little bit.
 
@@ -366,7 +366,7 @@ Go look at your network page. each of the dots there represent commits you made.
 ### gitignore
 
 1. Create a new file `touch ignore-me.db`
-2. Now use `git status` to see what is going on in your repo, you will see ignore-me.bd as an unstaged file.
+2. Now use `git status` to see what is going on in your repo, you will see ignore-me.db as an unstaged file.
 3. Now lets create a .gitignore file type `nano .gitignore`
 4. In this file type `ignore-me.db` save and exit your .gitignore file
 5. Now use `git status` you will notice that `ignore-me.db` is no longer an unstaged file and is no longer being tracked by github and .gitignore is being tracked.
@@ -404,3 +404,10 @@ Your repo should be all of the following:
 We just covered the basics here. Please make sure you understand this stuff. It's super important. Git might seem like a weird theoretical thing to a lot of you. It might seem completely unrelated to the actual job of writing code. But it's not. Git makes teamwork on dev teams possible. Without it we'd spend more time shouting at each other than writing useful code. So learn it. Be comfortable with it. When we start working in teams later on all will be made clear.
 
 If you are curious now, spend some time googling git branching strategies. We use the feature branching strategy here. We'll cover it in depth later on in the course.
+
+## Instructions For Reviewers
+
+- Check if multiple branches exist, to ensure learners understand how to create branches.
+- Check if the learner understands how merging works, by ensuring that the main branch has files merged into it. You can also take a look at the network diagram to check for merging.
+- Check the commit messages to see if a learner actually knows how to add, commit or push using the terminal or command line. If the commit message is `Add files via upload`, it indicates that the command line was not used.
+- Ensure that there are no merge conflict. If this kind of text `<<<<<<< HEAD` or `=======` appears on the README.md file, it indicates that merge conflicts were not resolved.

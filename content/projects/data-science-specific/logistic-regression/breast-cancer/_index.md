@@ -3,6 +3,11 @@ _db_id: 253
 content_type: project
 flavours:
 - python
+learning_outcomes:
+- data_sci_classification
+- data_sci_classification_metrics
+- data_sci_classification_feature_selection
+- data_sci_sensitivity_specificity
 pre: '<b>MEDIUM: </b>'
 prerequisites:
   hard:
@@ -18,6 +23,7 @@ story_points: 8
 submission_type: repo
 tags:
 - logistic-regression
+- sklearn
 title: Predict breast cancer
 ---
 

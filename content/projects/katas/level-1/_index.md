@@ -198,4 +198,3 @@ eg `combine([11,22,33], [1,2,3])` should return
 **Task 1.7**
 
 - Ensure that the array which is being outputted consists of alternating values of the two arrays that are being inputted.
-- Ensure that the function works with unequal array lengths.

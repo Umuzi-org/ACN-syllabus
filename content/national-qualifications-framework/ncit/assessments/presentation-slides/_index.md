@@ -16,12 +16,12 @@ tags:
 title: 'NCIT assessment: Presentation Slides'
 ---
 
-Submit the final version of your presentation slides from your design thinking sprint to fulfill the presentation requirements.
+Submit the final version of your presentation slides from your "design thinking sprint" (DTS) or your "make us better" (MUB) sprint to fulfill the presentation requirements.
 
 Ensure this document meets the standards and criteria in {{% contentlink path="national-qualifications-framework/ncit/content/presenting-your-findings" %}}
 
 It should be labeled like: FirstName LastName - Research Notes
 
-Recommended format: PDF
+Required format: Google Doc
 
-Watch this space! We'll share instructions on how to upload this stuff in the near future.
+Upload the document to google drive and submit a link. Please make sure that the link works. If your work is private then we won't be able to review it

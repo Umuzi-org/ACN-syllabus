@@ -8,7 +8,7 @@ ready: true
 tags:
 - python
 - decorators
-title: Python Decorators - Intro
+title: Python Decorators - Advanced
 ---
 
 https://www.codementor.io/@sheena/advanced-use-python-decorators-class-function-du107nxsv
