@@ -3,32 +3,36 @@ cross_validation:
   description: Understand the benefits of cross-validation on the quality of the model.
 eda:
   _db_id: 2
-  description: Perform exploratory data analysis on a dataset, creating appropriate
+  description:
+    Perform exploratory data analysis on a dataset, creating appropriate
     graphs and interpreting descriptive statistics of the variables.
 handle_categorical_variables:
   _db_id: 3
-  description: Understand how to handle categorical data, the potential multicollinearity
+  description:
+    Understand how to handle categorical data, the potential multicollinearity
     this raises, and how this affects the modelling process.
 justify_feature_selection:
   _db_id: 4
-  description: Justify their feature selection using metrics such as Pearson's correlation
+  description:
+    Justify their feature selection using metrics such as Pearson's correlation
     coefficients and their related p-values.
 linear_model_evaluation:
   _db_id: 5
-  description: Evaluate the quality of a model by assessing metrics such as the Mean
+  description:
+    Evaluate the quality of a model by assessing metrics such as the Mean
     Absolute Error (MAE), Root Mean Square Error (RMSE) and R-squared values.
 
 # Build your first personal website
-web_dev_hosting: 
+web_dev_hosting:
   description: Host a basic web page to the using GitHub.
 
-web_dev_responsive_page_design: 
+web_dev_responsive_page_design:
   description: Design responsive web pages that accommodate for different types of devices.
 
-web_dev_web_page_structure: 
+web_dev_web_page_structure:
   description: Describe the structure of a web page using Hyper Text Markup Language (HTML) and build a grid layout system using CSS Grid.
 
-web_dev_web_design_principals: 
+web_dev_web_design_principals:
   description: Implement simple web design principles that focus on UI, simple navigation, using adaptive formatting and keeping all visuals consistent and appealing.
 
 # Animals part 1
@@ -78,7 +82,7 @@ code_existing_code_update:
 
 # Validate a South African ID
 code_validation:
-  description: Validate input data. 
+  description: Validate input data.
 
 code_algorithm_use:
   description: Introduce and integrate existing algorithms to the code base.
@@ -88,7 +92,7 @@ code_implement_tdd:
 
 # git basic execises
 git_create_a_repository:
-description: Set up and create a repository on GitHub.
+  description: Set up and create a repository on GitHub.
 
 git_make_commits:
   description: Make commits to a repository.
