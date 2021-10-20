@@ -11,6 +11,14 @@ tags:
 - algrithms
 - clean-code
 title: Level 0 coding challenges
+learning_outcomes:
+- code_algorithmic_thinking
+- code_pseudo_code
+- code_problem_decomposition
+- code_control_flow
+- code_naming_convention
+- code_code_documentation
+- code_basic_calculation
 ---
 
 Complete these tasks in the correct language. If you are here to learn JavaScript, do them in JavaScript. If you have been told to use Python then use Python.

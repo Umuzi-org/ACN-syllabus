@@ -13,6 +13,12 @@ submission_type: repo
 tags:
 - oop
 title: Animals Part 1. OOP basics
+learning_outcomes:
+- code_oop_class_instantiation
+- code_oop_polymorphism
+- code_oop_encapsulation
+- code_oop_inheritance
+- code_oop_composition
 ---
 
 This Challenge should test topics from your OOP knowledge

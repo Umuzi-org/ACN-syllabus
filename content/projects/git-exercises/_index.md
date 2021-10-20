@@ -15,6 +15,12 @@ submission_type: link
 tags:
 - git
 title: Git Basic Exercises
+learning_outcomes:
+- git_create_a_repository
+- git_make_commits
+- git_create_branches
+- git_use_gitignore
+- git_merge_branches
 ---
 
 ## Introduction

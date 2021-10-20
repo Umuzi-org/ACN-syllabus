@@ -3,20 +3,18 @@ data_sci_cross_validation:
   description: Understand the benefits of cross-validation on the quality of the model.
 data_sci_eda:
   _db_id: 2
-  description: Perform exploratory data analysis on a dataset by creating appropriate
-    graphs and interpreting descriptive statistics of the variables.
+  description: Perform exploratory data analysis on a dataset by creating appropriate graphs and interpreting descriptive statistics of the variables.
 data_sci_handle_categorical_variables:
   _db_id: 3
-  description: Understand how to handle categorical data, the potential multicollinearity
-    this raises, and how this affects the modelling process.
+  description: Understand how to handle categorical data, the potential multicollinearity this raises, and how this affects the modelling process.
 data_sci_justify_feature_selection:
   _db_id: 4
-  description: Justify their feature selection using metrics such as Pearson's correlation
+  description:
+    Justify their feature selection using metrics such as Pearson's correlation
     coefficients and their related p-values.
 data_sci_linear_model_evaluation:
   _db_id: 5
-  description: Evaluate the quality of a model by assessing metrics such as the Mean
-    Absolute Error (MAE), Root Mean Square Error (RMSE) and R-squared values.
+  description: Evaluate the quality of a model by assessing metrics such as the Mean Absolute Error (MAE), Root Mean Square Error (RMSE) and R-squared values.
 
 data_sci_linear_model_metrics:
   description: Understand basic statistical metrics such as; variance explained by the model, significance values, confidence intervals.
@@ -101,3 +99,106 @@ data_sci_nlp_frequency_analysis:
 
 data_sci_sentiment_analysis:
   description: Use TextBlob to perform sentiment analysis, describing the subjectivity and polarity/objectivity within a text.
+
+  # Build your first personal website
+web_dev_hosting:
+  description: Host a basic web page to the using GitHub.
+
+web_dev_responsive_page_design:
+  description: Design responsive web pages that accommodate for different types of devices.
+
+web_dev_web_page_structure:
+  description: Describe the structure of a web page using Hyper Text Markup Language (HTML) and build a grid layout system using CSS Grid.
+
+web_dev_web_design_principals:
+  description: Implement simple web design principles that focus on UI, simple navigation, using adaptive formatting and keeping all visuals consistent and appealing.
+
+# Animals part 1 AND person
+code_oop_class_instantiation:
+  description: Instantiating several distinct instances of multiple classes.
+
+code_oop_polymorphism:
+  description: Demonstrated polymorphism by overriding a function and making use of superclass methods.
+
+code_oop_encapsulation:
+  description: Demonstrate encapsulation - Understand the basic idea of a class as a collection of attributes and functions.
+
+code_oop_inheritance:
+  description: Demonstrate inheritance with a 2 level inheritance hierarchy.
+
+code_oop_composition:
+  description: Demonstrate composition by having one class instance keep track of other class instances
+
+# Programming katas
+
+code_algorithmic_thinking:
+  description: Approach coding/programming problems algorithmically.
+
+code_pseudo_code:
+  description: Translate pseudo code to actual code.
+
+code_problem_decomposition:
+  description: Break programming problems down to isolated pieces and assemble a working solution.
+
+code_control_flow:
+  description: Demonstrate basic programming flow control mechanisms. For example functions, loops and if statements
+
+code_naming_convention:
+  description: Naming conventions introduced and enforced
+
+code_code_documentation:
+  description: Identify when and how to document/comment code.
+
+code_existing_code_update:
+  description: Update existing code according to new specifications.
+
+# Validate a South African ID
+code_validation:
+  description: Validate input data.
+
+code_tdd:
+  description: Implement TDD when being guided through the process step by step.
+
+# git basic exercises
+git_create_a_repository:
+  description: Set up and create a repository on GitHub.
+
+git_make_commits:
+  description: Make commits to a repository.
+
+git_create_branches:
+  description: Create branches and switch between them.
+
+git_use_gitignore:
+  description: Use gitignore files.
+
+git_merge_branches:
+  description: Merge branches and overcome merge conflicts.
+
+code_basic_calculation:
+  description: Perform basic algebraic calculations using code.
+
+code_assert_statements:
+  description: Check assumptions about the programs flow of control using assertions(Control flow invariants).
+
+code_error_messages:
+  description: Choose useful error messages so that failing code can be corrected easily.
+
+# shop database using sql
+sql_docker_composition:
+  description: Use Postgres within a docker composition.
+
+sql_one_to_one_relationship:
+  description: Create sql tables that demonstrate a one-to-one relationship.
+
+sql_one_to_many_relationship:
+  description: Create sql tables that demonstrate a one-to-many relationship.
+
+sql_many_to_many_relation:
+  description: Create sql tables that demonstrate a many-to-many relationship.
+
+sql_query_data_with_join:
+  description: Query data using simple select statements with conditionals, joins(left, right, inner, outer).
+
+sql_query_data_with_group_by:
+  description: Query data using group by clause
