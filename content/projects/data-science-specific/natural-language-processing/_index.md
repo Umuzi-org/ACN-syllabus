@@ -3,6 +3,11 @@ _db_id: 237
 content_type: project
 flavours:
 - python
+learning_outcomes:
+- data_sci_nlp
+- data_sci_nlp_data_preparation
+- data_sci_nlp_frequency_analysis
+- data_sci_sentiment_analysis
 pre: '<b>MEDIUM: </b>'
 prerequisites:
   hard:

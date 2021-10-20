@@ -13,10 +13,11 @@ title: Level 1 coding challenges
 learning_outcomes:
 - code_algorithmic_thinking
 - code_pseudo_code
-- code_problem_breakdown
+- code_problem_decomposition
 - code_control_flow
 - code_naming_convention
 - code_code_documentation
+- code_basic_calculation
 ---
 
 These exercises are here to help you test out and demonstrate your knowledge of the basic flow control mechanisms and syntax for your language. These exercises are relevant whether you are doing Java, JavaScript, Python, Kotlin or any other modern language.
@@ -194,11 +195,11 @@ eg `combine([11,22,33], [1,2,3])` should return
 - The instructions also does not specify whether a function should be created. Therefore, if a function was created or only lines of code were written and it works, it is competent.
 - When a 1000 is the input, ensure that the output is 233168.
 
-**Task 1.2 and Task 1.3** 
+**Task 1.2 and Task 1.3**
 
 - Ensure that keywords(**not strings**) true or false are being returned.
 
-**Task 1.6** 
+**Task 1.6**
 
 - If there are strings with the same length, all should be printed in "next line" form.
 

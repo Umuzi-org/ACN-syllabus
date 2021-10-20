@@ -16,7 +16,7 @@ tags:
 - tdd
 title: simple-calculator part 1
 learning_outcomes:
-- code_implement_tdd
+- code_tdd
 - code_existing_code_update
 - code_basic_calculation
 ---

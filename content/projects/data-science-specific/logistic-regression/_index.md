@@ -1,6 +1,10 @@
 ---
 _db_id: 254
 content_type: topic
+learning_outcomes:
+- data_sci_classification
+- data_sci_classification_metrics
+- data_sci_hyper_parameter_tuning
 prerequisites:
   hard:
   - projects/data-science-specific/cross-validation-and-simple-linear-regression

@@ -16,7 +16,7 @@ tags:
 - defensive programming
 title: Morse code
 learning_outcomes:
-- code_control_flow_invariants
+- code_assert_statements
 - code_error_messages
 ---
 
@@ -55,7 +55,7 @@ Make sure that when you do this, your code remains clean and DRY. DRY - it's a t
 
 Admittedly this project is a little bit contrived. Assertions are great for adding runtime checks to values and adding documentation-as-code.
 
-For a problem like this one, unit tests are more appropriate. 
+For a problem like this one, unit tests are more appropriate.
 
 ## Up for a challenge?
 
@@ -71,7 +71,7 @@ Add unit tests to your code. Leave the assertions in there just so that we can s
 - If Unit tests are used, make sure that there is a test that checks the input and output lengths and ensure that imports and exports was used correctly.
 - Make sure an assertion function was used to assert if both functions input and output data are the same.
 - Make sure a global constant was used to contain all the data e.g letters of the alphabets, numbers, special characters and morse code.
-- Make sure that the assertions do not print an error if empty strings are passed in both functions, e.g. 
+- Make sure that the assertions do not print an error if empty strings are passed in both functions, e.g.
 
 ```
 lettersToMorseCode("") // shouldn't print an assertion failure
