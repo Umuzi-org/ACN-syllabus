@@ -1,6 +1,6 @@
 ---
-_db_id: 75
-title: Foundations of web dev for employed learners
+_db_id: 78
+title: Foundations of java for employed learners
 ---
 
 - {{% contentlink path="topics/messaging/employed-foundations-course-intro" %}}
@@ -20,12 +20,12 @@ title: Foundations of web dev for employed learners
 - {{% contentlink path="soft-skills/learning-how-to-learn" %}}
 - {{% contentlink path="soft-skills/how-to-master-fundamentals" %}}
 - {{% contentlink path="topics/clean-code/java-script" %}}
-- {{% contentlink path="projects/katas/level-0" flavour="javascript" %}}
-- {{% contentlink path="language-agnostic/intro-to-hackerrank" flavour="javascript" %}}
-- {{% contentlink path="projects/understanding-loops" flavour="javascript" %}}
-- {{% contentlink path="projects/katas/level-1" flavour="javascript" %}}
+- {{% contentlink path="projects/katas/level-0" flavour="java" %}}
+- {{% contentlink path="language-agnostic/intro-to-hackerrank" flavour="java" %}}
+- {{% contentlink path="projects/understanding-loops" flavour="java" %}}
+- {{% contentlink path="projects/katas/level-1" flavour="java" %}}
 - {{% contentlink path="specific-skill-success-criteria/introduction-to-assessments" %}}
-- {{% contentlink path="specific-skill-success-criteria/functions-and-return" flavour="javascript" %}}
-- {{% contentlink path="specific-skill-success-criteria/for-loops" flavour="javascript" %}}
-- {{% contentlink path="projects/oop/animals/part1"  flavour="javascript" %}}
-- {{% contentlink path="specific-skill-success-criteria/classes-and-objects" flavour="javascript" %}}
+- {{% contentlink path="specific-skill-success-criteria/functions-and-return" flavour="java" %}}
+- {{% contentlink path="specific-skill-success-criteria/for-loops" flavour="java" %}}
+- {{% contentlink path="projects/oop/animals/part1"  flavour="java" %}}
+- {{% contentlink path="specific-skill-success-criteria/classes-and-objects" flavour="java" %}}

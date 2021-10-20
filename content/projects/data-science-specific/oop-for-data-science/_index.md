@@ -3,6 +3,10 @@ _db_id: 232
 content_type: project
 flavours:
 - python
+learning_outcomes:
+- data_sci_oop
+- data_sci_oop_metrics_class
+- data_sci_oop_diagnostic_class
 pre: '<b>MEDIUM: </b>'
 prerequisites:
   hard:
@@ -87,3 +91,4 @@ _Tip:_ These classes should be able to work with any regression problem. You can
    for by the appropriate use of decorators.  This is then another way to ensure that learners don't create unnecessary functions,
    hence, the code stays DRY.  Note, the use of decorators is Not a pre-requisite for this project, but if the functionality is
    used it should be used and implemented properly.
+
