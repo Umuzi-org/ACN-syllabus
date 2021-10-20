@@ -3,6 +3,9 @@ _db_id: 184
 content_type: project
 flavours:
 - any_language
+learning_outcomes:
+- code_assert_statements
+- code_error_messages
 prerequisites:
   hard:
   - topics/intro-to-assertive-programming
@@ -15,9 +18,6 @@ tags:
 - data structures
 - defensive programming
 title: Morse code
-learning_outcomes:
-- code_assert_statements
-- code_error_messages
 ---
 
 Create two functions:

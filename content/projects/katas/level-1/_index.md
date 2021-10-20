@@ -3,13 +3,6 @@ _db_id: 219
 content_type: project
 flavours:
 - any_language
-ready: true
-story_points: 3
-submission_type: repo
-tags:
-- algrithms
-- clean-code
-title: Level 1 coding challenges
 learning_outcomes:
 - code_algorithmic_thinking
 - code_pseudo_code
@@ -18,6 +11,13 @@ learning_outcomes:
 - code_naming_convention
 - code_code_documentation
 - code_basic_calculation
+ready: true
+story_points: 3
+submission_type: repo
+tags:
+- algrithms
+- clean-code
+title: Level 1 coding challenges
 ---
 
 These exercises are here to help you test out and demonstrate your knowledge of the basic flow control mechanisms and syntax for your language. These exercises are relevant whether you are doing Java, JavaScript, Python, Kotlin or any other modern language.

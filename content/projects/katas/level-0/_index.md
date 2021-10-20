@@ -3,14 +3,6 @@ _db_id: 416
 content_type: project
 flavours:
 - any_language
-prerequisites:
-  hard: null
-ready: true
-submission_type: link
-tags:
-- algrithms
-- clean-code
-title: Level 0 coding challenges
 learning_outcomes:
 - code_algorithmic_thinking
 - code_pseudo_code
@@ -19,6 +11,14 @@ learning_outcomes:
 - code_naming_convention
 - code_code_documentation
 - code_basic_calculation
+prerequisites:
+  hard: null
+ready: true
+submission_type: link
+tags:
+- algrithms
+- clean-code
+title: Level 0 coding challenges
 ---
 
 Complete these tasks in the correct language. If you are here to learn JavaScript, do them in JavaScript. If you have been told to use Python then use Python.
