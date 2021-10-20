@@ -3,6 +3,11 @@ _db_id: 245
 content_type: project
 flavours:
 - python
+learning_outcomes:
+- data_sci_visualisations
+- data_sci_graphs_based_on_data_type
+- data_sci_seaborn
+- data_sci_visual_eda
 pre: '<b>MEDIUM: </b>'
 prerequisites:
   hard:
