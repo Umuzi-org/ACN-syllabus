@@ -1,5 +1,4 @@
 ---
-_db_id: 
 content_type: topic
 ready: true
 tags:
@@ -8,7 +7,7 @@ tags:
 title: Clean Code for SQL
 ---
 
-**SQL (Structured Query Language)** is mostly used to manipulate data from a relational database. A database is a container to help organize data and efficiently store and retrieve data. **Relational databases** describe the data and the relationships between data entities. 
+**SQL (Structured Query Language)** is mostly used to manipulate data from a relational database. A database helps organize data and efficiently store and retrieve data. **Relational databases** describe the data and the relationships between data entities. 
 
 As you advance in this career, you might find yourself having to work with a team most of the time, need to re-visit previously-written SQL code or better yet a potential client might want to read your code - so it is very important to write code that is understandable, logical, organized and modifiable when working with databases. 
 
@@ -69,9 +68,25 @@ Remember, good SQL code is easy to read and understand.
 If you're creating a school database, name it `school` instead of just `database`
 
 ### Tables and table columns
-- Name a table using a singular instead of plural, i.e. `customer`, `account`, e.t.c 
+- Name a table using a singular instead of plural, i.e. `customer`, `payment`, e.t.c 
 - Primary key column: It's good practice to name this column as just `id`
 - Foreign key column: Use the specific table's name and a "id" e.g. `customer_id` - that way it easily references the foreign key to the `customer` table 
 
+
+#### customer Table
+
+| id            | first_name | last_name | gender     | address               | email               |
+| ------------- | ---------- | --------- | ---------- | --------------------- | --------------      |
+| 1             | John       | Doe       | Male       | 284 Chaucer St        | john@gmail.com      | 
+| 2             | Thando     | Sithole   | Female     | 240 Sect 1            | thando@gmail.com    | 
+| 3             | Leon       | Glen      | Male       | 81 Everton Rd,Gillits | leon@gmail.com      | 
+
+#### payment Table
+
+| id            | customer_id     | payment_type    | payment_date     |
+| ------------- | --------------- | --------------- | ---------------- | 
+| 1             | 1               | Cheque          | 06-10-2010       | 
+| 2             | 1               | Cash            | 03-09-2018       |            
+| 3             | 2               | Cash            | 06-09-2020       | 
 
  
