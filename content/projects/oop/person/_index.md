@@ -3,6 +3,9 @@ _db_id: 223
 content_type: project
 flavours:
 - any_language
+learning_outcomes:
+- code_oop_encapsulation
+- code_oop_class_instantiation
 prerequisites:
   hard: []
   soft: []
@@ -12,9 +15,6 @@ submission_type: repo
 tags:
 - oop
 title: Person
-learning_outcomes:
-- code_oop_encapsulation
-- code_oop_class_instantiation
 ---
 
 Create a `class` called `Person` which defines the generic data and functionality of a human.

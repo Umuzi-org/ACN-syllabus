@@ -3,6 +3,10 @@ _db_id: 273
 content_type: project
 flavours:
 - any_language
+learning_outcomes:
+- code_tdd
+- code_existing_code_update
+- code_basic_calculation
 pre: '<b>EASY: </b>'
 prerequisites:
   hard:
@@ -15,10 +19,6 @@ submission_type: repo
 tags:
 - tdd
 title: simple-calculator part 1
-learning_outcomes:
-- code_tdd
-- code_existing_code_update
-- code_basic_calculation
 ---
 
 The objective of this project is to build a calulator that can perform multiplication and addition on multiple integers. Do not build a front-end (UI). Complete this project by using a TDD approach.
