@@ -3,6 +3,14 @@ _db_id: 416
 content_type: project
 flavours:
 - any_language
+learning_outcomes:
+- code_algorithmic_thinking
+- code_pseudo_code
+- code_problem_decomposition
+- code_control_flow
+- code_naming_convention
+- code_code_documentation
+- code_basic_calculation
 prerequisites:
   hard: null
 ready: true

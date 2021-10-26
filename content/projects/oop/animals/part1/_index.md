@@ -3,6 +3,12 @@ _db_id: 224
 content_type: project
 flavours:
 - any_language
+learning_outcomes:
+- code_oop_class_instantiation
+- code_oop_polymorphism
+- code_oop_encapsulation
+- code_oop_inheritance
+- code_oop_composition
 prerequisites:
   hard:
   - projects/oop/person

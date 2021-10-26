@@ -3,6 +3,11 @@ _db_id: 220
 content_type: project
 flavours:
 - none
+learning_outcomes:
+- web_dev_hosting
+- web_dev_responsive_page_design
+- web_dev_web_page_structure
+- web_dev_web_design_principals
 prerequisites:
   hard:
   - topics/free-code-camp/responsive-web-design/1-basic-html-and-html-5

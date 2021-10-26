@@ -3,6 +3,10 @@ _db_id: 273
 content_type: project
 flavours:
 - any_language
+learning_outcomes:
+- code_tdd
+- code_existing_code_update
+- code_basic_calculation
 pre: '<b>EASY: </b>'
 prerequisites:
   hard:

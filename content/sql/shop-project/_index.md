@@ -3,6 +3,13 @@ _db_id: 200
 content_type: project
 flavours:
 - none
+learning_outcomes:
+- sql_docker_composition
+- sql_one_to_one_relationship
+- sql_one_to_many_relationship
+- sql_many_to_many_relation
+- sql_query_data_with_join
+- sql_query_data_with_group_by
 prerequisites:
   hard:
   - topics/solo-learn/sql/4-challenges
@@ -24,11 +31,11 @@ title: Shop Database using sql
 
 ## Structure:
 
-- Your repository should have a **.yml** file 
+- Your repository should have a **.yml** file
 - Your repository should have **.sql** files
 - The different SQL commands should be saved in different descriptive script files i.e.
-  - when the reviewer is looking for the commands you used for creating the database they should be able to navigate to a file named **create-database.sql** ,  
-  - navigate to a file named **create-tables.sql** for the commands used to create the database tables , and 
+  - when the reviewer is looking for the commands you used for creating the database they should be able to navigate to a file named **create-database.sql** ,
+  - navigate to a file named **create-tables.sql** for the commands used to create the database tables , and
   - navigate to the files that contain the commands used for inserting table records and querying the database
 
 ## Instructions

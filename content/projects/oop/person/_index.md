@@ -3,6 +3,9 @@ _db_id: 223
 content_type: project
 flavours:
 - any_language
+learning_outcomes:
+- code_oop_encapsulation
+- code_oop_class_instantiation
 prerequisites:
   hard: []
   soft: []
@@ -67,7 +70,7 @@ When an object instance is created from a class, the class's constructor functio
 
 ## Acceptance criteria
 
-A person might have many interests, or they might only have 1. If they are depressed then they might not be interested in anything at all. Make sure you can handle all cases! 
+A person might have many interests, or they might only have 1. If they are depressed then they might not be interested in anything at all. Make sure you can handle all cases!
 
 Also, it's really important that you submit good clean code! MAke sure you name your variables clearly. Make sure you are following the convention of the language you are using. Make sure your code in no way resembles spaghetti.
 
@@ -78,5 +81,5 @@ Also, it's really important that you submit good clean code! MAke sure you name 
 
 Mark this as Excellent if:
 
-1. **There is a separate function just for building the interests string** If the student makes multiple small, single purpose, clear functions instead of one giant function then that is good. 
+1. **There is a separate function just for building the interests string** If the student makes multiple small, single purpose, clear functions instead of one giant function then that is good.
 2. Makes use of templating instead of string concatenation as much as possible. In Python this means using f-strings, in Javascript it means using template literals, in Java this means using `String.format`.

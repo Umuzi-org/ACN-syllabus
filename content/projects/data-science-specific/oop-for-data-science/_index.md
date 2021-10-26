@@ -71,7 +71,6 @@ It is efficient to put machine learning models and other data science techniques
 
 _Tip:_ These classes should be able to work with any regression problem. You can re-use these classes in upcoming assignments when inspecting models and you can also make classes in future that can work for both regression and classification problems.
 
-
 ## Instructions for reviewer
 
 1. One of the main purposes of OOP is the reusability of code.  Therefore it is important that learners do not
@@ -92,3 +91,4 @@ _Tip:_ These classes should be able to work with any regression problem. You can
    for by the appropriate use of decorators.  This is then another way to ensure that learners don't create unnecessary functions,
    hence, the code stays DRY.  Note, the use of decorators is Not a pre-requisite for this project, but if the functionality is
    used it should be used and implemented properly.
+

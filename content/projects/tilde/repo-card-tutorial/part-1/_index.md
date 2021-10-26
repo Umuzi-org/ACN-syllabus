@@ -68,7 +68,7 @@ I repeat: For now you should not add any reviewers to any of your PRs because we
 
 ### 1. Make a file
 
-Open up your test editor of choice and create a markdown file. This is a plain text file. Name it `important.md`.
+Open up your text editor of choice and create a markdown file. This is a plain text file. Name it `important.md`.
 
 Inside the text file please write a list of everyone you should be adding to your PR as reviewers and why.
 

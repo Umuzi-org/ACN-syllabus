@@ -3,6 +3,12 @@ _db_id: 288
 content_type: project
 flavours:
 - none
+learning_outcomes:
+- git_create_a_repository
+- git_make_commits
+- git_create_branches
+- git_use_gitignore
+- git_merge_branches
 prerequisites:
   hard:
   - topics/github/intro
