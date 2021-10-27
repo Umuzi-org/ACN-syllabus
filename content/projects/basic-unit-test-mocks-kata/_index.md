@@ -186,13 +186,10 @@ As another example, if you were developing a "forgot password" or "confirm email
 
 ## Instructions for reviewer
 
-- Please pay attention to how the unit tests are written:
+- Unit tests:
+ - The learner should demonstrate that the email sends only once, with the correct arguments.
+ - The learner should demonstrate an understanding of mocks and spies. Please see {{% contentlink path="topics/unit-testing-mocks-and-spies" %}} .
 
-> The learner should demonstrate that the code does what it should and does it efficiently.
+- The learner should have well organized/structured files, i.e. a configuration file with only the configuration in it, a send-email file that only sends the email, etc.
 
-> They should test correctly. Please refer to {{% contentlink path="topics/jasmine-spies" %}}
-
-- It is good if the files are well organized/structured. i.e. a configuration file with only the configuration in it, a send-email file that only sends the email, etc.
-
-- Look out for code structure. Sending emails to multiple recipients is not a requirement, but if the code is structured well enough, then doing so should be easy. 
-
+- Look out for the overall structure of the code. Sending emails to multiple recipients is not a requirement, but if the code is structured well enough, then doing so should be easy. 
