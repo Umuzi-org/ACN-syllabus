@@ -17,6 +17,13 @@ tags:
 - node
 - sql
 title: Node & SQL assignment
+learning_outcomes:
+  web_dev_database_connection
+  web_dev_database_queries
+  wed_dev_enviromental_variables
+  web_dev_docker_configuration
+  web_dev_database_management_system
+  web_dev_indepth_tdd
 ---
 
 You are required to create a back-end service that will help capture basic information about prospective students who come to inquire here at Umuzi.
