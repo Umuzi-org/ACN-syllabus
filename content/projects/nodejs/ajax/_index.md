@@ -18,6 +18,10 @@ tags:
 - node
 - ajax
 title: Add a little Ajax
+learning_outcomes:
+  web_dev_async_calls_with_ajax
+  web_dev_crud_operations
+  web_dev_routes
 ---
 
 There is no need to create a new git repo for this code submission. This is a continuation of your previous work.
