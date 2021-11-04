@@ -16,6 +16,11 @@ tags:
 - FileIO
 title: Node & File IO
 weight: 1
+learning_outcomes:
+  web_dev_file_system
+  web_dev_json_file_creation
+  web_dev_classes
+  web_dev_methods_and_functions
 ---
 
 You are required to create a back-end service that will help capture basic information about prospective students who come to inquire here at Umuzi. In this project you'll just be storing and retrieving information from plain old json files.
