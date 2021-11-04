@@ -19,6 +19,7 @@ tags:
 - ajax
 title: Add a little Ajax
 learning_outcomes:
+  wed_dev_client_side_testing
   web_dev_async_function_calls_with_ajax
   web_dev_crud_operations_and_data_presentation
   web_dev_routes

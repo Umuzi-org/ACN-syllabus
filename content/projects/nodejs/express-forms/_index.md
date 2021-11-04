@@ -23,6 +23,7 @@ learning_outcomes:
   web_dev_server_setup
   web_dev_form_creation
   web_dev_using_templating_engines
+  wed_dev_client_side_testing
   web_dev_data_rendering
   web_dev_dbms_set_up
   web_dev_host_static_files
