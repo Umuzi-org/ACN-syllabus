@@ -15,6 +15,12 @@ tags:
 - github
 - logical-operators
 title: Consume Github API
+learning_outcomes:
+  web_dev_http_requests
+  web_dev_api_call_tools
+  web_dev_restful_apis
+  web_dev_json_data_representation
+  web_dev_api_consumption
 ---
 
 In this project you'll make use of Github's awesome API. We chose Github for this project because:

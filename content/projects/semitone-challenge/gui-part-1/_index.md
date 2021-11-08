@@ -18,6 +18,14 @@ tags:
 - css
 title: semitone difference - Make a simple GUI
 weight: 2
+learning_outcomes:
+  web_dev_shuffling_elements
+  web_dev_indexing
+  web_dev_two_dimensional_arrays
+  web_dev_testing_dom_events_with_spies
+  web_dev_testing_dom_elements_with_jsdom
+  web_dev_event_handling
+  web_dev_simple_gui_design
 ---
 
 Create a basic web site that a user can use to interact with the JamBuddy class.

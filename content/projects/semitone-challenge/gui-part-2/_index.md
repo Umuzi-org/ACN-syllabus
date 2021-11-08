@@ -20,6 +20,15 @@ tags:
 - css
 title: semitone difference - A gui that is more...awesome
 weight: 4
+learning_outcomes: 
+  web_dev_shuffling_elements
+  web_dev_indexing
+  web_dev_two_dimensional_arrays
+  web_dev_testing_dom_events_with_spies
+  web_dev_testing_dom_elements_with_jsdom
+  web_dev_event_handling
+  web_dev_simple_gui_design 
+  wed_dev_advanced_gui_design 
 ---
 
 Extend your simple gui with the following behavior:

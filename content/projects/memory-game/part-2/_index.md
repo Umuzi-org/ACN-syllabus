@@ -22,6 +22,10 @@ tags:
 - git-feature-branching
 - tdd
 title: extra features for your memory game
+learning_outcomes:
+  web_dev_state_management
+  web_dev_code_modification
+  web_dev_testing_dom_elements_with_jsdom
 ---
 
 Please make sure you are following Git Feature Branching at this point. It's really important and really useful.

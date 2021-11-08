@@ -17,6 +17,12 @@ tags:
 - Dom Manipulation
 - Mocks and spies
 title: Memory game web app
+learning_outcomes:
+  web_dev_dom_manipulation
+  web_dev_event_handling
+  web_dev_virtual_dom
+  wed_dev_client_side_testing
+  web_dev_testing_dom_elements_with_jsdom
 ---
 
 Here is an example of a memory game: http://dkmgames.com/memory/pairsrun.php
