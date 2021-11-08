@@ -3,7 +3,7 @@ _db_id: 695
 content_type: project
 flavours:
 - python
-ready: false
+ready: true
 submission_type: repo
 tags:
 - FileIO
@@ -48,8 +48,9 @@ load("Bob Marley")
 
 ## Resources
 
-- [Working With Files in Python](https://www.w3schools.com/nodejs/nodejs_filesystem.asp)
+- [Working With Files in Python](https://realpython.com/working-with-files-in-python/)
 - [JSON](https://www.w3schools.com/js/js_json_intro.asp): Make sure you understand everything up to the end of "JSON Arrays"
+- [Python JSON package](https://www.w3schools.com/python/python_json.asp)
 
 ## Up for a challenge?
 
