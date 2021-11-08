@@ -39,11 +39,11 @@ eg:
 
 ```
 load("Alice Cooper")
-// prints out all of Alice's goodies
+# prints out all of Alice's goodies
 
 
 load("Bob Marley")
-// Same deal for good ol Bob
+# Same deal for good ol Bob
 ```
 
 ## Resources
