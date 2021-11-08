@@ -33,7 +33,7 @@ charlie.save() # results in visitor_charley_sheen.json
 
 Notice that the full name used in the file is all lower-case and spaces are replaced by underscores.
 
-3. Create a function called `load` that takes in a name and then grabs a Visitor object from file. It should simply `console.log` the visitor.
+3. Create a function called `load` that takes in a name and then grabs a Visitor object from file. It should simply `print` the visitor.
 
 eg:
 
@@ -56,7 +56,7 @@ load("Bob Marley")
 
 Here are some upgrades you can add to your project if you are up for it.
 
-4. Update your `load` function so that it returns an instance of `Visitor` instead of just `console.log`ging it. You'll need to learn a little bit about Syncronous versus Asyncronous code to get this one right :)
+4. Update your `load` function so that it returns an instance of `Visitor` instead of just `print`ging it. You'll need to learn a little bit about Synchronous versus Asynchronous code to get this one right :)
 
 5. Make use of integer ids when saving things to files.
 
@@ -87,6 +87,6 @@ charlie.save() # results in an UPDATE to visitor_3.json
 
 - The learner should use mocks and spies if/when testing this project - since the project requires interacting with the file system.
 
-- Please pay careful attention to DRY code. How do you do this :
+- Please pay careful attention to DRY code. How do you do this:
 
  > Imagine that the code produced by the learner needs to be maintained, imagine that some parts of the code will have to change over time. Ideally, changes to the code should be made just once, and that change should affect everything else without going through the file(s) looking to change the same thing.
