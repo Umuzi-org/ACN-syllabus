@@ -14,7 +14,7 @@ You are required to create a back-end service that will help capture basic infor
 
 ## Instructions
 
-1. Create a class called Visitor. Instances of this class should have the following properties:
+1. Create a class called `Visitor`. Instances of this class should have the following properties:
 
 - full name
 - age
@@ -33,16 +33,15 @@ charlie.save() # results in visitor_charley_sheen.json
 
 Notice that the full name used in the file is all lower-case and spaces are replaced by underscores.
 
-3. Create a function called `load` that takes in a name and then grabs a Visitor object from file. It should simply `print` the visitor.
+3. Create a function called `load` that takes in a name and then grabs a Visitor object from file. It should return the visitors instance.
 
 eg:
 
 ```
-load("Alice Cooper")
-# prints out all of Alice's goodies
+Visitor.load("Alice Cooper")
+# returns all of Alice's goodies
 
-
-load("Bob Marley")
+Visitor.load("Bob Marley")
 # Same deal for good ol Bob
 ```
 
@@ -56,11 +55,7 @@ load("Bob Marley")
 
 Here are some upgrades you can add to your project if you are up for it.
 
-4. Update your `load` function so that it returns an instance of `Visitor` instead of just `print`ging it. You'll need to learn a little bit about Synchronous versus Asynchronous code to get this one right :)
-
-5. Make use of integer ids when saving things to files.
-
-Update your save function so it works like this:
+5. Make use of integer ids when saving things to files. Update your save function so it works like this:
 
 ```
 alice.save()   # results in visitor_1.json
@@ -81,12 +76,9 @@ charlie.save() # results in an UPDATE to visitor_3.json
 
 ## Instructions for reviewer
 
-- The load function should print/console.log the visitor data. Ensure that the visitor data is not returned instead. UNLESS, the learner has taken on the challenge laid out in the instructions section (instruction 4)
-
+- The load function should a visitor instance and not just print the visitor data.
 - Edge cases should be catered for. The learner should make sure that the load function takes in the proper data type.
-
-- The learner should use mocks and spies if/when testing this project - since the project requires interacting with the file system.
-
+- The learner should use mocks if/when testing this project - since the project requires interacting with the file system.
 - Please pay careful attention to DRY code. How do you do this:
 
  > Imagine that the code produced by the learner needs to be maintained, imagine that some parts of the code will have to change over time. Ideally, changes to the code should be made just once, and that change should affect everything else without going through the file(s) looking to change the same thing.
