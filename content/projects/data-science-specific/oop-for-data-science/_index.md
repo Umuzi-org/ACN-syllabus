@@ -79,7 +79,6 @@ _Tip:_ These classes should be able to work with any regression problem. You can
 2. Learners should show a clear understanding of Inheritance from parent classes.  This would be most evidently
    showed by the use of super() and the way in which a child class is created.
 
-3. Learners should show an adequate understanding of decorators if they make use of them, although decorators can be tricky, 
-   The use of decorators would then be another way to ensure that learners don't create unnecessary functions,
-   hence, the code stays DRY.  Note, the use of decorators is Not a pre-requisite for this project.
+3. Decorators are another way to ensure that learners don't create unnecessary functions, so the code stays DRY.  
+   If the learner chooses to use decorators then it should be done properly. Note, the use of decorators is not required for this project.
 
