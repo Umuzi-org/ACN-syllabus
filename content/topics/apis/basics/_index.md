@@ -20,5 +20,5 @@ You'll also need to know a bit about JSON
 
 The following tools are useful for manually playing with api:
 
-- [curl](https://quickleft.com/blog/command-line-tutorials-curl/)
+- [curl basics](https://web.archive.org/web/20181012061506/https://quickleft.com/blog/command-line-tutorials-curl/) | [official tutorial](https://curl.se/docs/manual.html)
 - [Postman](https://www.getpostman.com/postman)
