@@ -50,3 +50,10 @@ Please be sure to follow the standard naming conventions for your language.
 ## Resources
 
 - [An introduction to curl using GitHub's API](https://gist.github.com/tazjel/8735770).
+
+
+## Instructions for reviewers
+- Ensure that the function works with any github User and repository name, meaning that the function should not only work with one User/repo name. 
+- Ensure that the function prints and not returns the output.
+- Ensure that the correct error/exception messages are used when trying to handle errors, if an incorrect user or repo was passed in the function call then the error messages should be explicit e.g. `Error 404 User or Repo Not Found`.
+- Ensure that the output is a list or an array it can be an array with multiple objects depending on teh dates passed in, If there were no open, closed, updated or merged PR's between the two dates an empty array or list should be printed out.
