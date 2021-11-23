@@ -51,8 +51,7 @@ Please be sure to follow the standard naming conventions for your language.
 
 - [An introduction to curl using GitHub's API](https://gist.github.com/tazjel/8735770).
 
-
-## Instructions for reviewers
+### Instructions for reviewers
 - Ensure that the function works with any github User and repository name, meaning that the function should not only work with one User/repo name. 
 - Ensure that the function prints and not returns the output.
 - Ensure that the correct error/exception messages are used when trying to handle errors, if an incorrect user or repo was passed in the function call then the error messages should be explicit e.g. `Error 404 User or Repo Not Found`.
