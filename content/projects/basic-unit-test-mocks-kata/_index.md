@@ -190,6 +190,5 @@ As another example, if you were developing a "forgot password" or "confirm email
  - The learner should demonstrate that the email sends only once, with the correct arguments.
  - The learner should demonstrate an understanding of mocks and spies. Please see {{% contentlink path="topics/unit-testing-mocks-and-spies" %}} .
 
-- The learner should have well organized/structured files, i.e. a configuration file with only the configuration in it, a send-email file that only sends the email, etc.
+- Sending emails to multiple recipients is not a requirement, but if the code is structured well enough, then doing so should be easy. The unit test should demonstrate that the code in not restricted to sending just one email. 
 
-- Look out for the overall structure of the code. Sending emails to multiple recipients is not a requirement, but if the code is structured well enough, then doing so should be easy. 
