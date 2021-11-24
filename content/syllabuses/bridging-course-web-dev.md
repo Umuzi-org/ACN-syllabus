@@ -9,7 +9,6 @@ title: Web dev bridging course
 - {{% contentlink path="topics/clean-code/java-script" %}}
 - {{% contentlink path="projects/katas/level-0" flavour="javascript" %}}
 - {{% contentlink path="language-agnostic/intro-to-hackerrank" flavour="javascript" %}}
-- {{% contentlink path="projects/understanding-loops" flavour="javascript" %}}
 - {{% contentlink path="projects/katas/level-1" flavour="javascript" %}}
 - {{% contentlink path="specific-skill-success-criteria/introduction-to-assessments" %}}
 - {{% contentlink path="specific-skill-success-criteria/functions-and-return" flavour="javascript" %}}

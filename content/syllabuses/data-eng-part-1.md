@@ -19,3 +19,4 @@ _db_id: 4
 - {{% contentlink path="projects/python-specific/file-io" flavour="python" %}}
 - {{% contentlink path="language-agnostic/validate-id-number" flavour="python" %}}
 - {{% contentlink path="sql/shop-project" flavour="" %}}
+- {{% contentlink path="projects/understanding-loops" flavour="python" %}}
