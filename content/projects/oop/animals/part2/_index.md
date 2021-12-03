@@ -118,6 +118,7 @@ Use Jasmine to test your code.
 1. Update `Animal` super class `eats()` function to return a String, "Food".
 2. Update `Dog` class `sounds()` function to return a `String`, "Bark".
 3. Update `Cat` class `sounds()` function to return a `String`, "Meow".
+4. Make sure the `makeAllSounds()` method still works properly.
 
 ```
 // JavaScript
