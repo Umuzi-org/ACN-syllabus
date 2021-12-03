@@ -2,19 +2,19 @@
 _db_id: 225
 content_type: project
 flavours:
-- any_language
+  - any_language
 from_repo: projects/oop/animals/part1
 prerequisites:
   hard:
-  - projects/tdd/simple-calculator-part1
-  - projects/oop/animals/part1
+    - projects/tdd/simple-calculator-part1
+    - projects/oop/animals/part1
   soft: []
 ready: true
 story_points: 3
 submission_type: continue_repo
 tags:
-- unit-testing
-- oop
+  - unit-testing
+  - oop
 title: Animals Part 2. Adding Tests
 ---
 
@@ -52,7 +52,24 @@ The code you push to git should have the following structure:
 
 Please refer to the following to find out more: {{% contentlink path="topics/java-specific/project-submission-requirements" %}}
 
+### JavaScript
+
+Your directory structure should look like this.
+
+```
+    >node_modules    <---- make sure this is in your .gitignore
+    >spec
+        > support
+            - jasmine.json
+        - animals_spec.js
+    >src
+        - animals.js
+    - package.json
+```
+
 ## Instructions
+
+### For Java
 
 You'll be using JUnit.
 
@@ -67,11 +84,11 @@ You'll be using JUnit.
 Dog dog = new Dog()
 
 dog.eats()    // -> 'Food'
-dog.sounds() // -> 'Barks'
+dog.sounds() // -> 'Bark'
 
 Cat cat = new Cat()
 
-cat.eat()    // -> 'Food'
+cat.eats()    // -> 'Food'
 cat.sounds() // -> 'Meow'
 ```
 
@@ -93,8 +110,53 @@ Test -> Does cat eat Food should Pass
 Test -> Does cat eat food should Fail
 
 ```
+
+### For JavaScript
+
+Use Jasmine to test your code.
+
+1. Update `Animal` super class `eats()` function to return a String, "Food".
+2. Update `Dog` class `sounds()` function to return a `String`, "Bark".
+3. Update `Cat` class `sounds()` function to return a `String`, "Meow".
+
+```
+// JavaScript
+
+Dog dog = new Dog()
+
+dog.eats()    // -> 'Food'
+dog.sounds() // -> 'Bark'
+
+Cat cat = new Cat()
+
+cat.eats()    // -> 'Food'
+cat.sounds() // -> 'Meow'
+```
+
+Then create tests for your `eats()` and `sounds()` methods on the `Dog` and `Cat` classes with Jasmine.
+
+```
+// JavaScript
+
+//Dog Tests
+let dog = new Dog();
+Test -> Does dog eat Food should Pass
+Test -> Does dog eat food should Fail
+Test -> Does dog Roar should Fail
+Test -> Does dog Bark should Pass
+
+//Cat Tests
+let cat = new Cat();
+Test -> Does cat Bark should Fail
+Test -> Does cat Meow should Pass
+Test -> Does cat eat meat should Fail
+Test -> Does cat eat Food should Pass
+Test -> Does cat eat food should Fail
+
+```
+
 ### Up for a Challenge?
 
 This section is not compulsory. If you do this we'll think you're cool.
 
-Add some extra tests for your Home class.  Make sure that it makes all the right noises. And that you can't adopt the same pet twice.
+Add some extra tests for your Home class. Make sure that it makes all the right noises. And that you can't adopt the same pet twice.
