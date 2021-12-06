@@ -31,7 +31,7 @@ Your directory structure should look like this.
         > support
             -jasmine.json
         - password_is_valid_spec.js
-        - password_is_ok_spec.js
+        - password_strength.js
     >src
         - password_checker.js
     - package.json
@@ -39,16 +39,16 @@ Your directory structure should look like this.
 
 ### Python
 
-Your project is expected to be completed using pytest. You are expected to follow industry best practices in all things. This means that you need to have a directory structure that is in good shape. Please name your files and folders like this:
+Your project is expected to be completed using `pytest`. You are expected to follow industry best practices in all things. This means that you need to have a directory structure that is in good shape. Please name your files and folders like this:
 
 ```
 ├── password_checker   the package under test
 │   └── password_checker.py
-├── requirements.txt    installation requiremnts
+├── requirements.txt    installation requirements
 ├── setup.py            installation script for the package under test
 └── tests               all package tests go in this directory
     ├── test_password_is_valid.py
-    └── test_password_is_ok.py
+    └── test_password_strength.py
 ```
 
 Please take a look at this topic to see an explanation of the required directory structure.
