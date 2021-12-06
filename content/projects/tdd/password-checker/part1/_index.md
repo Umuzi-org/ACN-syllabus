@@ -126,7 +126,7 @@ passwordStrength(password)
 password_strength(password)
 ```
 
-This function should count the number of conditions met and then return a string that describes the strength of the password. Valid strings are "invalid", "weak","medium" and "strong".
+This function should count the number of conditions met and then return a string that describes the strength of the password. Valid strings are "invalid", "weak", "medium" and "strong".
 
 - If number of conditions met >= 6: return "strong"
 - If number of conditions met >= 4: return "medium"
@@ -153,6 +153,5 @@ Please don't re-implement the same check in two different places. Good code is D
 
 ## Instructions for reviewers
 
-- For passwordStrength function, if any one of these passwords is passed in `P@ssw 12` or `User1@` ensure Invalid is returned.
-
-- Ensure that the passwordIsValid function doesn't return or print any of the error messages above and that the throw or throw Error statements are used.
+- For password strength, make sure cases of invalid passwords are checked, for example these passwords are both invalid; `P@ssw 12`, `User1@`.  
+- Actual passwords should never be printed to the terminal, for example in assert messages or when raising exceptions.
