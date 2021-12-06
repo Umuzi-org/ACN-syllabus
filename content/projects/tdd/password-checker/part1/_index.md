@@ -52,7 +52,7 @@ Your project is expected to be completed using `pytest`. You are expected to fol
 ```
 
 Please take a look at this topic to see an explanation of the required directory structure.
-{{%contentlink "topics/python-specific/automated-testing-with-pytest" %}}
+{{% contentlink path="topics/python-specific/automated-testing-with-pytest" %}}
 
 ### Java
 
