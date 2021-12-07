@@ -4,6 +4,10 @@ content_type: project
 flavours:
 - javascript
 from_repo: projects/nodejs/file-io
+learning_outcomes:
+- wed_dev_client_side_testing
+- web_dev_crud_operations_and_data_presentation
+- web_dev_routes
 prerequisites:
   hard:
   - topics/intro-to-ajax
@@ -18,11 +22,6 @@ tags:
 - node
 - ajax
 title: Add a little Ajax
-learning_outcomes:
-  wed_dev_client_side_testing
-  web_dev_async_function_calls_with_ajax
-  web_dev_crud_operations_and_data_presentation
-  web_dev_routes
 ---
 
 There is no need to create a new git repo for this code submission. This is a continuation of your previous work.

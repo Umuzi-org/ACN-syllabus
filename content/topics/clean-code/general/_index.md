@@ -180,4 +180,3 @@ There are a few very common pitfalls people fall into. Here are a few things to 
 3. Files and folders should be named well too, code should be organized well
 4. Code is overcomplicated, or there is random junk code that should have been deleted but wasn't
 5. Language specific naming conventions should be followed
-
