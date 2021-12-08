@@ -11,7 +11,6 @@ tags:
 title: Clean Code for Python
 ---
 
-
 ## Tabs or Spaces
 
 Python is about whitespace and if you are working on a team then your whitespace better line up otherwise you'll just make errors.

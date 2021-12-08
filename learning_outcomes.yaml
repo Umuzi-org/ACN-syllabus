@@ -214,13 +214,148 @@ sql_query_data_with_join:
   _db_id: 64
   description: Query data using simple select statements with conditionals, joins(left,
     right, inner, outer).
+web_dev_api_call_tools:
+  _db_id: 86
+  description: Compare APIs like fetch and libraries such as Axios and identify which
+    tools do a better job of making network requests.
+web_dev_api_consumption:
+  _db_id: 89
+  description: Demonstrate an understanding of consuming APIs.
+web_dev_async_calls_with_ajax:
+  _db_id: 66
+  description: Demonstrate a working knowledge of using AJAX to make asynchronous
+    function calls to a web server
+web_dev_classes:
+  _db_id: 98
+  description: Demonstrate a working knowledge of working with classes and creating
+    methods.
+web_dev_code_modification:
+  _db_id: 80
+  description: Modify and update an existing code base
+web_dev_crud_operations:
+  _db_id: 78
+  description: Develop basic CRUD operations.
+web_dev_crud_operations_and_data_presentation:
+  _db_id: 67
+  description: Demonstrate a deeper understanding of performing CRUD operations to
+    a database and presenting retrieved data from a database to the client; on the
+    fly.
+web_dev_data_rendering:
+  _db_id: 74
+  description: Demonstrate how to render collected data from the database to the front
+    end.
+web_dev_database_connection:
+  _db_id: 90
+  description: Connect to a database using Node.js.
+web_dev_database_management_system:
+  _db_id: 94
+  description: Utilize the Postgresql Database Management System.
+web_dev_database_queries:
+  _db_id: 91
+  description: Demonstrate understanding of using SQL commands to create a database,
+    create tables, insert table records and query the database.
+web_dev_dbms_set_up:
+  _db_id: 75
+  description: Demonstrate a working knowledge of setting up and working with a database
+    management system (DBMS).
+web_dev_docker_configuration:
+  _db_id: 93
+  description: "Demonstrate understanding of Docker and configuring an application\u2019\
+    s services using Docker-Compose."
+web_dev_dom_manipulation:
+  _db_id: 81
+  description: Implement DOM manipulation techniques using HTML, CSS, and JavaScript.
+web_dev_event_handling:
+  _db_id: 82
+  description: Demonstrate understanding of DOM manipulation (Click event handling,
+    using data entered by the user through HTML input elements).
+web_dev_expose_business_logic:
+  _db_id: 69
+  description: Demonstrate an understanding of APIs as a way to offer access to the
+    business logic of the application.
+web_dev_expose_specific_endpoint:
+  _db_id: 70
+  description: Define which parts of the API should be exposed.
+web_dev_file_system:
+  _db_id: 96
+  description: Use the file system module to interact with the file system by creating
+    files and reading from files.
+web_dev_form_creation:
+  _db_id: 72
+  description: Collect client data through the use of HTML form controls as well as
+    text input controls.
+web_dev_host_static_files:
+  _db_id: 76
+  description: Use Express to host static resources such as HTML and CSS.
 web_dev_hosting:
   _db_id: 34
   description: Host a basic web page to the using GitHub.
+web_dev_http_requests:
+  _db_id: 85
+  description: Demonstrate an understanding of how to send and receive HTTP requests.
+web_dev_indepth_tdd:
+  _db_id: 95
+  description: Demonstrate an in depth understanding of using mocks and spies to test
+    APIs.
+web_dev_indexing:
+  _db_id: 101
+  description: "Demonstrate understanding of retrieving an element\u2019s index position\
+    \ from an array"
+web_dev_json_data_representation:
+  _db_id: 88
+  description: Represent data with the JSON data-interchange format.
+web_dev_json_file_creation:
+  _db_id: 97
+  description: Store and retrieve data to and from JSON files.
+web_dev_methods_and_functions:
+  _db_id: 99
+  description: Integrate both classe methods and standard functions to solve a problem.
 web_dev_responsive_page_design:
   _db_id: 35
   description: Design responsive web pages that accommodate for different types of
     devices.
+web_dev_restful_apis:
+  _db_id: 87
+  description: Demonstrate a working knowledge of REST APIs.
+web_dev_routes:
+  _db_id: 68
+  description: Demonstrate a deeper understanding of routes and how to work with handler
+    functions.
+web_dev_routes_and_controllers:
+  _db_id: 77
+  description: Demonstrate a working knowledge of routes and controllers.
+web_dev_server_setup:
+  _db_id: 71
+  description: Demonstrate a working knowledge of setting up a simple Express server.
+web_dev_shuffling_elements:
+  _db_id: 100
+  description: "Demonstrate basic mathematical operations based on the user\u2019\
+    s interactivity with the GUI and display results on the DOM."
+web_dev_simple_gui_design:
+  _db_id: 105
+  description: Demonstrate a basic understanding of simple UI/UX design through user-friendly
+    styling, text, and functionality.
+web_dev_state_management:
+  _db_id: 79
+  description: Demonstrate an understanding of simple state management using JavaScript.
+web_dev_testing_dom_elements_with_jsdom:
+  _db_id: 104
+  description: Demonstrate an understanding of testing the DOM using Jasmine Unit
+    Testing.
+web_dev_testing_dom_events_with_spies:
+  _db_id: 103
+  description: Demonstrate an understanding of testing DOM events using Mocks and
+    Spies.
+web_dev_two_dimensional_arrays:
+  _db_id: 102
+  description: Demonstrate understanding of working with one dimensional and two-dimensional
+    arrays.
+web_dev_using_templating_engines:
+  _db_id: 73
+  description: Design pages(templates) using the Pug templating engine for Express.
+web_dev_virtual_dom:
+  _db_id: 84
+  description: Demonstrate how a virtual DOM works - through the use of JSDOM.
 web_dev_web_design_principals:
   _db_id: 37
   description: Implement simple web design principles that focus on UI, simple navigation,
@@ -229,101 +364,13 @@ web_dev_web_page_structure:
   _db_id: 36
   description: Describe the structure of a web page using Hyper Text Markup Language
     (HTML) and build a grid layout system using CSS Grid.
-web_dev_async_calls_with_ajax:
-  description: Demonstrate a working knowledge of using AJAX to make asynchronous function 
-  calls to a web server.
-web_dev_crud_operations_and_data_presentation:
-  description: Demonstrate a deeper understanding of performing CRUD operations to a database 
-  and presenting retrieved data from a database to the client; on the fly.
-web_dev_routes:
-  description: Demonstrate a deeper understanding of routes and how to work with handler functions.
-web_dev_expose_business_logic:
-  description: Demonstrate an understanding of APIs as a way to offer access to the business 
-  logic of the application.
-web_dev_expose_specific_endpoint:
-  description: Define which parts of the API should be exposed.
-web_dev_server_setup:
-  description: Demonstrate a working knowledge of setting up a simple Express server.
-web_dev_form_creation:
-  description: Collect client data through the use of HTML form controls as well as text 
-  input controls.
-web_dev_using_templating_engines:
-  description: Design pages(templates) using the Pug templating engine for Express.
-web_dev_data_rendering:
-  description: Demonstrate how to render collected data from the database to the front end.
-web_dev_dbms_set_up:
-  description: Demonstrate a working knowledge of setting up and working with a database 
-  management system (DBMS).
-web_dev_host_static_files:
-  description: Use Express to host static resources such as HTML and CSS.
-web_dev_routes_and_controllers:
-  description: Demonstrate a working knowledge of routes and controllers.
-web_dev_crud_operations:
-  description: Develop basic CRUD operations.
-web_dev_state_management:
-  description: Demonstrate an understanding of simple state management using JavaScript.
-web_dev_code_modification:
-  description: Modify and update an existing code base
-web_dev_dom_manipulation:
-  description: Implement DOM manipulation techniques using HTML, CSS, and JavaScript.
-web_dev_event_handling:
-  description: Apply DOM event listeners to a DOM object and determine an action to 
-  take upon an event execution.
-wed_dev_client_side_testing:
-  description: Implement TDD using JSOM and get exposure to testing client-side JavaScript 
-  in a Node.js environment.
-web_dev_virtual_dom:
-  description: Demonstrate how a virtual DOM works - through the use of JSDOM.
-web_dev_http_requests:
-  description: Demonstrate an understanding of how to send and receive HTTP requests.
-web_dev_api_call_tools:
-  description: Compare APIs like fetch and libraries such as Axios and identify which tools 
-  do a better job of making network requests.
-web_dev_restful_apis:
-  description: Demonstrate a working knowledge of REST APIs.
-web_dev_json_data_representation:
-  description: Represent data with the JSON data-interchange format.
-web_dev_api_consumption:
-  description: Demonstrate an understanding of consuming APIs.
-web_dev_database_connection:
-  description: Connect to a database using Node.js.
-web_dev_database_queries:
-  description: Demonstrate understanding of using SQL commands to create a database, 
-  create tables, insert table records and query the database.
-wed_dev_enviromental_variables:
-  description: Make use of environmental variables.
-web_dev_docker_configuration:
-  description: Demonstrate understanding of Docker and configuring an application’s services 
-  using Docker-Compose.
-web_dev_database_management_system:
-  description: Utilize the Postgresql Database Management System.
-web_dev_indepth_tdd: 
-  description: Demonstrate an in depth understanding of using mocks and spies to test APIs.
-web_dev_file_system:
-  description: Use the file system module to interact with the file system by creating files 
-  and reading from files.
-web_dev_json_file_creation:
-  description: Store and retrieve data to and from JSON files.
-web_dev_classes:
-  description: Demonstrate a working knowledge of working with classes and creating methods.
-web_dev_methods_and_functions:
-  description: Integrate both classe methods and standard functions to solve a problem.
-web_dev_shuffling_elements:
-  description: Demonstrate basic mathematical operations based on the user’s interactivity with 
-  the GUI and display results on the DOM.
-web_dev_indexing:
-  description: Demonstrate understanding of retrieving an element’s index position from an array
-web_dev_two_dimensional_arrays:
-  description: Demonstrate understanding of working with one dimensional and two-dimensional arrays.
-web_dev_testing_dom_events_with_spies:
-  description: Demonstrate an understanding of testing DOM events using Mocks and Spies.
-web_dev_testing_dom_elements_with_jsdom:
-  description: Demonstrate an understanding of testing the DOM using Jasmine Unit Testing.
-web_dev_event_handling:
-  description: Demonstrate understanding of DOM manipulation (Click event handling, using data 
-  entered by the user through HTML input elements).
-web_dev_simple_gui_design:
-  description: Demonstrate a basic understanding of simple UI/UX design through user-friendly 
-  styling, text, and functionality.
 wed_dev_advanced_gui_design:
+  _db_id: 106
   description: Demonstrate an basic understanding of creating advanced UI/UX designs.
+wed_dev_client_side_testing:
+  _db_id: 83
+  description: Implement TDD using JSOM and get exposure to testing client-side JavaScript
+    in a Node.js environment.
+wed_dev_enviromental_variables:
+  _db_id: 92
+  description: Make use of environmental variables.

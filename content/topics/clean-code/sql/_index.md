@@ -1,4 +1,5 @@
 ---
+_db_id: 733
 content_type: topic
 ready: true
 tags:
@@ -87,6 +88,4 @@ If you're creating a school database, name it `school` instead of just `database
 | ------------- | --------------- | --------------- | ---------------- | 
 | 1             | 1               | Cheque          | 06-10-2010       | 
 | 2             | 1               | Cash            | 03-09-2018       |            
-| 3             | 2               | Cash            | 06-09-2020       | 
-
- 
+| 3             | 2               | Cash            | 06-09-2020       |

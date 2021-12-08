@@ -1,9 +1,9 @@
 ---
 _db_id: 77
-title: Foundations of data sci for employed learners
+title: DEPRECATED Foundations of data sci for employed learners
 ---
 
-- {{% contentlink path="topics/messaging/employed-foundations-course-intro" %}}
+- {{% contentlink path="topics/messaging/bridging-course-intro" %}}
 
 ## Intro to Tilde
 

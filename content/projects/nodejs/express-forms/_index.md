@@ -4,6 +4,16 @@ content_type: project
 flavours:
 - javascript
 from_repo: projects/nodejs/file-io
+learning_outcomes:
+- web_dev_server_setup
+- web_dev_form_creation
+- web_dev_using_templating_engines
+- wed_dev_client_side_testing
+- web_dev_data_rendering
+- web_dev_dbms_set_up
+- web_dev_host_static_files
+- web_dev_routes_and_controllers
+- web_dev_crud_operations
 pre: '<b>3: </b>'
 prerequisites:
   hard:
@@ -19,16 +29,6 @@ tags:
 - express
 title: Express, forms and templates
 weight: 3
-learning_outcomes:
-  web_dev_server_setup
-  web_dev_form_creation
-  web_dev_using_templating_engines
-  wed_dev_client_side_testing
-  web_dev_data_rendering
-  web_dev_dbms_set_up
-  web_dev_host_static_files
-  web_dev_routes_and_controllers
-  web_dev_crud_operations
 ---
 
 ## create a basic html form

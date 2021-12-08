@@ -3,6 +3,12 @@ _db_id: 186
 content_type: project
 flavours:
 - any_language
+learning_outcomes:
+- web_dev_http_requests
+- web_dev_api_call_tools
+- web_dev_restful_apis
+- web_dev_json_data_representation
+- web_dev_api_consumption
 prerequisites:
   hard:
   - topics/apis/basics/
@@ -15,12 +21,6 @@ tags:
 - github
 - logical-operators
 title: Consume Github API
-learning_outcomes:
-  web_dev_http_requests
-  web_dev_api_call_tools
-  web_dev_restful_apis
-  web_dev_json_data_representation
-  web_dev_api_consumption
 ---
 
 In this project you'll make use of Github's awesome API. We chose Github for this project because:
@@ -42,7 +42,7 @@ Now, in your language of choice (not bash, use Java, Python or Js) write a funct
 - end date
 
 The function should output a list or array of pull requests on the repo such that the PRs were created, updated, merged or closed between the given two dates.
-For each PR include the `id`, `user` (who opened the PR), `title`, `state`, and when it was created.  
+For each PR include the `id`, `user` (who opened the PR), `title`, `state`, and when it was created.
 While for private repos a token will be required, the function should be able to work on public repos (eg. [ACN-syllabus](https://github.com/Umuzi-org/ACN-syllabus)) without needing a token.
 
 Please be sure to follow the standard naming conventions for your language.
@@ -56,3 +56,4 @@ Please be sure to follow the standard naming conventions for your language.
 - Ensure that the function prints and does not return the output.
 - Ensure that the correct error/exception messages are used when trying to handle errors, if an incorrect user or repo was passed in a function call then the error messages should be explicit e.g. `Error 404 User or Repo Not Found`.
 - Ensure that the output is a list/array and depending on the dates passed in, If there were no open, closed, updated or merged PR's between the two dates an empty array/list should be printed out.
+

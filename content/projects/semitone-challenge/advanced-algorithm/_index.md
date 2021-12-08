@@ -5,6 +5,10 @@ flavours:
 - javascript
 - typescript
 from_repo: projects/semitone-challenge/basic-algorithm
+learning_outcomes:
+- web_dev_shuffling_elements
+- web_dev_indexing
+- web_dev_two_dimensional_arrays
 pre: <b>3. </b>
 prerequisites:
   hard:
@@ -16,10 +20,6 @@ tags:
 - problem solving
 title: semitone difference - Advanced algorithm
 weight: 3
-learning_outcomes:  
-  web_dev_shuffling_elements
-  web_dev_indexing
-  web_dev_two_dimensional_arrays
 ---
 
 Adjust your `JamBuddy` class so that it can handle flats and sharps.

@@ -81,4 +81,3 @@ _Tip:_ These classes should be able to work with any regression problem. You can
 
 3. Decorators are another way to ensure that learners don't create unnecessary functions, so the code stays DRY.  
    If the learner chooses to use decorators then it should be done properly. Note, the use of decorators is not required for this project.
-

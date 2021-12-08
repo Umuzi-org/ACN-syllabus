@@ -6,6 +6,15 @@ flavours:
 - typescript
 - any_frontend_framework
 from_repo: projects/semitone-challenge/basic-algorithm
+learning_outcomes:
+- web_dev_shuffling_elements
+- web_dev_indexing
+- web_dev_two_dimensional_arrays
+- web_dev_testing_dom_events_with_spies
+- web_dev_testing_dom_elements_with_jsdom
+- web_dev_event_handling
+- web_dev_simple_gui_design
+- wed_dev_advanced_gui_design
 pre: <b>4. </b>
 prerequisites:
   hard:
@@ -20,15 +29,6 @@ tags:
 - css
 title: semitone difference - A gui that is more...awesome
 weight: 4
-learning_outcomes: 
-  web_dev_shuffling_elements
-  web_dev_indexing
-  web_dev_two_dimensional_arrays
-  web_dev_testing_dom_events_with_spies
-  web_dev_testing_dom_elements_with_jsdom
-  web_dev_event_handling
-  web_dev_simple_gui_design 
-  wed_dev_advanced_gui_design 
 ---
 
 Extend your simple gui with the following behavior:
@@ -53,7 +53,7 @@ gui displays: "Streak: 0"   <<< the streak is reset to zero because the user got
 ```
 
 ## Instructions for Reviewer
-- Ensure that when multiple calls have been made to the selectNotes function only two notes are returned. 
+- Ensure that when multiple calls have been made to the selectNotes function only two notes are returned.
 - To check if the code contains a bug; call the function twice, have a print statement under it and check if two notes are returned.
 - Make sure the notes always get updated when the select notes button is clicked.
 - The JamBuddy class should still work correctly in the terminal and should not be mixed up with frontend DOM manipulation.
