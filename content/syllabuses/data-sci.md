@@ -28,7 +28,7 @@ _db_id: 2
 - {{% contentlink path="topics/survey-design" %}}
 - {{% contentlink path="topics/google-forms-like-a-boss" %}}
 - {{% contentlink path="projects/data-science-specific/cross-validation-and-simple-linear-regression/" flavour="python" %}}
-- {{% contentlink path="workshops/intro-to-data-ethics" %}}
+- {{% contentlink path="topics/intro-to-data-ethics" %}}
 - {{% contentlink path="topics/data-ethics-and-privacy" %}}
 - {{% contentlink path="projects/tdd/string-calculator" flavour="python" %}}
 - {{% contentlink path="projects/data-science-specific/multivariate-linear-regression" flavour="python" %}}

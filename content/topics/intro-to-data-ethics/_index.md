@@ -1,6 +1,7 @@
 ---
 _db_id: 43
 content_type: workshop
+pre: '<b>MEDIUM: </b>'
 prerequisites:
   hard:
   - topics/data-ethics-and-privacy
