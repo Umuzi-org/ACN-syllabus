@@ -4,6 +4,8 @@ content_type: project
 flavours:
 - javascript
 from_repo: projects/nodejs/file-io
+learning_outcomes:
+- web_dev_expose_business_logic
 pre: '<b>4: </b>'
 prerequisites:
   hard:
@@ -20,9 +22,6 @@ tags:
 - express
 title: Expose a JSON API
 weight: 4
-learning_outcomes:
-  web_dev_expose_business_logic
-  web_dev_expose_specific_endpoints
 ---
 
 There is no need to create a new git repo for this code submission. This is a continuation of your previous work.

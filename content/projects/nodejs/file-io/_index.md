@@ -3,6 +3,11 @@ _db_id: 280
 content_type: project
 flavours:
 - javascript
+learning_outcomes:
+- web_dev_file_system
+- web_dev_json_file_creation
+- web_dev_classes
+- web_dev_methods_and_functions
 pre: '<b>1: </b>'
 prerequisites:
   hard:
@@ -16,11 +21,6 @@ tags:
 - FileIO
 title: Node & File IO
 weight: 1
-learning_outcomes:
-  web_dev_file_system
-  web_dev_json_file_creation
-  web_dev_classes
-  web_dev_methods_and_functions
 ---
 
 You are required to create a back-end service that will help capture basic information about prospective students who come to inquire here at Umuzi. In this project you'll just be storing and retrieving information from plain old json files.
@@ -101,5 +101,5 @@ charlie.save() # results in an UPDATE to visitor_3.json
 - The learner should use mocks and spies if/when testing this project - since the project requires interacting with the file system.
 
 - Please pay careful attention to DRY code. How do you do this :
- 
+
  > Imagine that the code produced by the learner needs to be maintained, imagine that some parts of the code will have to change over time. Ideally, changes to the code should be made just once, and that change should affect everything else without going through the file(s) looking to change the same thing.

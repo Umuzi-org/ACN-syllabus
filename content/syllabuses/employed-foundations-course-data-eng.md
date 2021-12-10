@@ -1,9 +1,9 @@
 ---
 _db_id: 76
-title: Foundations of data eng for employed learners
+title: DEPRECATED Foundations of data eng for employed learners
 ---
 
-- {{% contentlink path="topics/messaging/employed-foundations-course-intro" %}}
+- {{% contentlink path="topics/messaging/bridging-course-intro" %}}
 
 ## Intro to Tilde
 
@@ -22,7 +22,6 @@ title: Foundations of data eng for employed learners
 - {{% contentlink path="topics/clean-code/java-script" %}}
 - {{% contentlink path="projects/katas/level-0" flavour="python" %}}
 - {{% contentlink path="language-agnostic/intro-to-hackerrank" flavour="python" %}}
-- {{% contentlink path="projects/understanding-loops" flavour="python" %}}
 - {{% contentlink path="projects/katas/level-1" flavour="python" %}}
 - {{% contentlink path="specific-skill-success-criteria/introduction-to-assessments" %}}
 - {{% contentlink path="specific-skill-success-criteria/functions-and-return" flavour="python" %}}

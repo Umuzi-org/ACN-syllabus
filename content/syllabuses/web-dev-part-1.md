@@ -7,10 +7,14 @@ _db_id: 3
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/1-basic-javascript/"%}}
 - {{% contentlink path="topics/big-picture-web-dev" %}}
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/2-es6" %}}
+- {{% contentlink path="specific-skill-success-criteria/introduction-to-assessments" %}}
+- {{% contentlink path="specific-skill-success-criteria/functions-and-return" flavour="python" %}}
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/4-debugging" %}}
 - {{% contentlink path="topics/clean-code/java-script" %}}
 - {{% contentlink path="topics/js-and-node-specific/super-basic-intro-to-node" %}}
 - {{% contentlink path="topics/how-to-ask-for-help-with-your-code" %}}
+- {{% contentlink path="specific-skill-success-criteria/for-loops" flavour="python" %}}
+
 - {{% contentlink path="projects/katas/level-2" flavour="javascript" %}}
 - {{% contentlink path="language-agnostic/intro-to-hackerrank" flavour="javascript" %}}
 - {{% contentlink path="topics/free-code-camp/responsive-web-design/1-basic-html-and-html-5" %}}
@@ -22,6 +26,7 @@ _db_id: 3
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/7-object-orientated-programming" %}}
 - {{% contentlink path="topics/jasmine-unit-tests" %}}
 - {{% contentlink path="projects/oop/animals/part2"  flavour="javascript" %}}
+- {{% contentlink path="specific-skill-success-criteria/classes-and-objects" flavour="python" %}}
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/5-basic-data-structures" %}}
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/6-basic-algorithmic-scripting" %}}
 - {{% contentlink path="projects/semitone-challenge/basic-algorithm"  flavour="javascript" %}}
@@ -39,3 +44,7 @@ _db_id: 3
 - {{% contentlink path="sql/shop-project" flavour="" %}}
 - {{% contentlink path="projects/nodejs/express-forms" flavour="javascript" %}}
 - {{% contentlink path="projects/github-api-consume" flavour="javascript" %}}
+- {{% contentlink path="projects/understanding-loops" flavour="javascript" %}}
+
+
+

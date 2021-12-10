@@ -4,6 +4,9 @@ content_type: project
 flavours:
 - typescript
 - javascript
+learning_outcomes:
+- web_dev_shuffling_elements
+- web_dev_indexing
 pre: <b>1. </b>
 prerequisites:
   hard:
@@ -15,9 +18,6 @@ tags:
 - problem solving
 title: semitone difference - basic algorithm
 weight: 1
-learning_outcomes:  
-  web_dev_shuffling_elements
-  web_dev_indexing
 ---
 
 This is a multi-step project designed to level up many different skills.
