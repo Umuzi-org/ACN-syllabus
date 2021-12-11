@@ -6,6 +6,7 @@ It also highlights any metadata problems (specifically missing titles)
 from pathlib import Path
 import frontmatter
 import yaml
+import os
 import logging
 logging.basicConfig(level=logging.WARN)
 
@@ -50,7 +51,7 @@ class IdChaecker:
     def check(cls, db_id, title, file_path):
         if file_path.name == "_index.md":
             # we are dealing with normal content items
-            seen = cls.seen_content_items 
+            seen = cls.seen_content_items
         else:
             seen = cls.seen_syllabuses
 
@@ -70,10 +71,11 @@ def check_one_file_frontmatter(file_path):
     name = file_path.name
     if not name.endswith(".md"):
         return
-    
+
     if name != "_index.md":
         # only checking content items
-        return 
+        return
+
     front = frontmatter.load(file_path)
 
     required = ["title","content_type"]
@@ -85,7 +87,7 @@ def check_one_file_frontmatter(file_path):
         "date",
         "disableToc",
         "todo",
-        
+
         "prerequisites",
         "tags",
         "story_points",
@@ -136,12 +138,24 @@ def check_one_file_frontmatter(file_path):
             assert option in flat_options, f"{option} not in {flat_options}"
 
 
+def check_grep(file_name):
+    with open(file_name, "r") as file:
+        file = file.readlines()
+    assert not file, "\n".join(file)
+
+
 def check_contentlinks_ok():
-    import os
+    file_name = "lint.result"
 
     os.system("hugo")
-    os.system('grep -r "contentlink-missing" public') 
-    # os.system('grep -r "contentlink-todo" public')  
+    os.system(f'grep -r "contentlink-missing" public > {file_name}')
+
+    os.system("clear")
+    check_grep(file_name)
+
+    # os.system('grep -r "contentlink-todo" public')
+
+    os.system("echo 'Well Done - no contentlinks missing'")
 
 
 if __name__ == "__main__":

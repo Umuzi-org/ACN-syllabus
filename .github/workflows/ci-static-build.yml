@@ -1,0 +1,29 @@
+name: end-to-end static site build
+
+on: push
+
+jobs:
+  build-linux:
+    runs-on: ubuntu-latest
+    steps:
+      - name: install dependencies
+        run: |
+          sudo apt update
+          sudo apt install golang pipenv sudo wget
+
+      - name: recursively checkout repos
+        uses: actions/checkout@v2
+        with:
+          submodules: recursive
+
+      - name: install hugo via script
+        run: |
+          cd /home/runner/work/ACN-syllabus/ACN-syllabus/
+          ./install_hugo.sh
+
+      - name: run linter
+        run: |
+          pipenv install
+          pipenv run pytest
+          pipenv run python lint.py
+
