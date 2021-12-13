@@ -2,19 +2,19 @@
 _db_id: 225
 content_type: project
 flavours:
-  - any_language
+- any_language
 from_repo: projects/oop/animals/part1
 prerequisites:
   hard:
-    - projects/tdd/simple-calculator-part1
-    - projects/oop/animals/part1
+  - projects/tdd/simple-calculator-part1
+  - projects/oop/animals/part1
   soft: []
 ready: true
 story_points: 3
 submission_type: continue_repo
 tags:
-  - unit-testing
-  - oop
+- unit-testing
+- oop
 title: Animals Part 2. Adding Tests
 ---
 
@@ -115,9 +115,9 @@ Test -> Does cat eat food should Fail
 
 Use Jasmine to test your code.
 
-1. Update `Animal` super class `eats()` function to return a String, "Food".
-2. Update `Dog` class `sounds()` function to return a `String`, "Bark".
-3. Update `Cat` class `sounds()` function to return a `String`, "Meow".
+1. Update `Animal` super class `eats()` method to return a String, "Food".
+2. Update `Dog` class `sounds()` method to return a `String`, "Bark".
+3. Update `Cat` class `sounds()` method to return a `String`, "Meow".
 4. Make sure the `makeAllSounds()` method still works properly.
 
 ```
