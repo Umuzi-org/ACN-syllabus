@@ -6,7 +6,9 @@ _db_id: 4
 - {{% contentlink path="topics/solo-learn/python/module-5-more-types" %}}
 - {{% contentlink path="agile/agile-scrum" %}}
 - {{% contentlink path="topics/clean-code/python" %}}
+- {{% contentlink path="topics/code-reviews/part-1-reviewers" %}}
 - {{% contentlink path="topics/how-to-ask-for-help-with-your-code" %}}
+- {{% contentlink path="topics/code-reviews/part-2-author" %}}
 - {{% contentlink path="topics/big-picture-web-dev" %}}
 - {{% contentlink path="specific-skill-success-criteria/introduction-to-assessments" %}}
 - {{% contentlink path="specific-skill-success-criteria/functions-and-return" flavour="python" %}}

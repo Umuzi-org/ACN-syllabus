@@ -9,7 +9,9 @@ _db_id: 2
 
 - {{% contentlink path="agile/agile-scrum" %}}
 - {{% contentlink path="topics/clean-code/python" %}}
+- {{% contentlink path="topics/code-reviews/part-1-reviewers" %}}
 - {{% contentlink path="topics/how-to-ask-for-help-with-your-code" %}}
+- {{% contentlink path="topics/code-reviews/part-2-author" %}}
 - {{% contentlink path="topics/solo-learn/python/module-5-more-types" %}}
 - {{% contentlink path="projects/katas/level-2" flavour="python" %}}
 - {{% contentlink path="specific-skill-success-criteria/introduction-to-assessments" %}}
