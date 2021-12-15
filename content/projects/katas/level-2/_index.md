@@ -127,3 +127,9 @@ Here are some resources you can use to continue this journey:
 - https://www.codewars.com: you should know about this already, it's legit!
 
 Have fun :)
+
+## Instructions for Reviewers
+
+**Task 2.1 and Task 2.2** 
+
+- Check that no new files are created for these tasks. Only the code inside the files that were submitted for Task 1.4 and Task 1.5 should be updated for Task 2.1 and Task 2.2 respectively.
