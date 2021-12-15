@@ -1,6 +1,6 @@
 ---
 content_type: topic
-ready: false
+ready: true
 flavours:
 - any_language
 prerequisites:
