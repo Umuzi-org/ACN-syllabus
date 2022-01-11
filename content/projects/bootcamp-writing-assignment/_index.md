@@ -5,6 +5,8 @@ flavours:
 - markdown
 ready: true
 submission_type: repo
+tags:
+- bootcamp-writing-assignment
 title: Bootcamp Writing Assignment
 ---
 
