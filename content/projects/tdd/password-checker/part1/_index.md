@@ -33,7 +33,7 @@ Your directory structure should look like this.
         - password_is_valid_spec.js
         - password_is_ok_spec.js
     >src
-        - password_checker_spec.js
+        - password_checker.js
     - package.json
 ```
 
@@ -44,7 +44,7 @@ Your project is expected to be completed using pytest. You are expected to follo
 ```
 ├── password_checker   the package under test
 │   └── password_checker.py
-├── requirements.txt    installation requirements
+├── requirements.txt    installation requiremnts
 ├── setup.py            installation script for the package under test
 └── tests               all package tests go in this directory
     ├── test_password_is_valid.py
