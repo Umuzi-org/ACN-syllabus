@@ -12,7 +12,7 @@ tags:
 title: Reviewer Communication During Code Reviews
 ---
 
-The people who's code you review, are people. Remember this. Treat them with respect.
+The people who's code you review are people. Remember this. Treat them with respect.
 
-- Lesson 1: [The Graceful Reviewer](https://www.youtube.com/watch?v=XY6eA2_2hOg)
-- Lesson 2: [Seed the Culture You Desire](https://www.youtube.com/watch?v=xT3oFHBDEZY)
+- Lesson 1: [The graceful reviewer](https://www.youtube.com/watch?v=XY6eA2_2hOg)
+- Lesson 2: [Seed the culture you desire](https://www.youtube.com/watch?v=xT3oFHBDEZY)

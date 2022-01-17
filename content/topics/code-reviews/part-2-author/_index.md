@@ -17,4 +17,4 @@ title: How to Ask for a Code Review
 You know how to ask for help with code. Code reviews require a similar tact.
 
 
-- [Both Author and Review Pull Requests](https://www.youtube.com/watch?v=PJjmw9TRB7s)
+- [Both author and review pull requests](https://www.youtube.com/watch?v=PJjmw9TRB7s)
