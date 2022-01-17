@@ -1,6 +1,6 @@
 ---
 _db_id: 43
-content_type: workshop
+content_type: topic
 pre: '<b>MEDIUM: </b>'
 prerequisites:
   hard:
