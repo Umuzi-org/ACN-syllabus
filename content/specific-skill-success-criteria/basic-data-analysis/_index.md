@@ -1,6 +1,7 @@
 ---
 _db_id: 710
 content_type: project
+ready: true
 flavours:
 - none
 submission_type: link
