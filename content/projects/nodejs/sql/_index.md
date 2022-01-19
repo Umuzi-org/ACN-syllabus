@@ -58,6 +58,7 @@ Create a single index script with the following functions:
 - update a visitor
 - view one visitor: given a visitor's id, return all information about that visitor
 - delete all visitors
+- view last visitor: return the last visitor's id in the database
 
 ## NOTE
 
