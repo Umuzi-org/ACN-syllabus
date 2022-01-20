@@ -53,7 +53,7 @@ Please be sure to follow the standard naming conventions for your language.
 
 ### Instructions for reviewers
 - Ensure that the function works with any github User and repository name, meaning that the function should not only work with one User/repo name. 
-- Ensure that the function prints and does not return the output.
+- Ensure that the function prints for JavaScript and for python the function should return the output.
 - Ensure that the correct error/exception messages are used when trying to handle errors, if an incorrect user or repo was passed in a function call then the error messages should be explicit e.g. `Error 404 User or Repo Not Found`.
 - Ensure that the output is a list/array and depending on the dates passed in, If there were no open, closed, updated or merged PR's between the two dates an empty array/list should be printed out.
 
