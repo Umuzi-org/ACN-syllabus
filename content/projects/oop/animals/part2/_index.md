@@ -161,3 +161,11 @@ Test -> Does cat eat food should Fail
 This section is not compulsory. If you do this we'll think you're cool.
 
 Add some extra tests for your Home class. Make sure that it makes all the right noises. And that you can't adopt the same pet twice.
+
+## Instructions for Reviewers
+
+- There should be no global variable.
+- `self` should not be overused, if a variable is only used in one place then it is not necessary to use `self`.
+- `eats()` method should return "Food" and not print.
+- `Dog` and `Cat` class `sounds()` should return their respective sounds "Bark" and "Meow".
+- There should be a test for each method in the child classes.
