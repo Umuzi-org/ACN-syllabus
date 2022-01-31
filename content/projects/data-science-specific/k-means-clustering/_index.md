@@ -3,11 +3,15 @@ _db_id: 235
 content_type: project
 flavours:
 - python
+learning_outcomes:
+- data_sci_unsupervised_learning
+- data_sci_k_means
+- data_sci_cluster_optimisation
+- data_sci_cluster_metrics
 pre: '<b>MEDIUM: </b>'
 prerequisites:
   hard:
   - projects/data-science-specific/statistical-thinking
-  - projects/data-science-specific/data-visualisation
   - projects/data-science-specific/logistic-regression
   - topics/data-science-specific/clustering
   - topics/jupyter-notebooks-best-practices
@@ -17,6 +21,8 @@ story_points: 8
 submission_type: repo
 tags:
 - kmeans
+- sklearn
+- clustering
 title: K-Means Clustering Assignment
 ---
 

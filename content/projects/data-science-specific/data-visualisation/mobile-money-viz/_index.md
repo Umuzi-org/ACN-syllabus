@@ -3,17 +3,23 @@ _db_id: 244
 content_type: project
 flavours:
 - python
+learning_outcomes:
+- data_sci_visualisations
+- data_sci_graphs_based_on_data_type
+- data_sci_seaborn
+- data_sci_visual_eda
 pre: '<b>MEDIUM: </b>'
 prerequisites:
   hard:
   - projects/data-science-specific/data-visualisation/linux-evolution
   - topics/jupyter-notebooks-best-practices
-  - projects/tdd/simple-calculator-part1
 ready: true
 story_points: 8
 submission_type: repo
 tags:
-- data-visualisation-mobile-money
+- data-visualisation
+- data-analysis
+- statistics
 title: Financial Services Use in Tanzania
 ---
 

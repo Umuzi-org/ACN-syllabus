@@ -28,7 +28,7 @@ ncit_standards:
 - 115365
 prerequisites:
   hard:
-  - workshops/survey-design
+  - topics/survey-design
 ready: true
 tags:
 - analytics

@@ -3,11 +3,15 @@ _db_id: 236
 content_type: project
 flavours:
 - python
+learning_outcomes:
+- data_sci_decision_trees
+- data_sci_classification_metrics
+- data_sci_sensitivity_specificity
+- data_sci_confusion_matrix_classification_report
 pre: '<b>MEDIUM: </b>'
 prerequisites:
   hard:
   - projects/data-science-specific/statistical-thinking
-  - projects/data-science-specific/data-visualisation
   - projects/data-science-specific/logistic-regression
   - topics/jupyter-notebooks-best-practices
   - topics/data-science-specific/data-science-methodology
@@ -16,6 +20,9 @@ story_points: 8
 submission_type: repo
 tags:
 - decision-trees
+- sklearn
+- statistics
+- classification
 title: Decision Trees
 ---
 

@@ -3,6 +3,14 @@ _db_id: 219
 content_type: project
 flavours:
 - any_language
+learning_outcomes:
+- code_algorithmic_thinking
+- code_pseudo_code
+- code_problem_decomposition
+- code_control_flow
+- code_naming_convention
+- code_code_documentation
+- code_basic_calculation
 ready: true
 story_points: 3
 submission_type: repo
@@ -178,3 +186,23 @@ eg `combine([11,22,33], [1,2,3])` should return
 ```
 [11,1,22,2,33,3]
 ```
+
+## Instructions for Reviewers
+
+**Task 1.1**
+
+- The instructions does not specify whether a value should be returned or printed. Therefore, either is competent.
+- The instructions also does not specify whether a function should be created. Therefore, if a function was created or only lines of code were written and it works, it is competent.
+- When a 1000 is the input, ensure that the output is 233168.
+
+**Task 1.2 and Task 1.3**
+
+- Ensure that keywords(**not strings**) true or false are being returned.
+
+**Task 1.6**
+
+- If there are strings with the same length, all should be printed in "next line" form.
+
+**Task 1.7**
+
+- Ensure that the array which is being outputted consists of alternating values of the two arrays that are being inputted.

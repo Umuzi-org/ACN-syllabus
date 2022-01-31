@@ -105,10 +105,11 @@ title: Database Development
 ### 2. Introduction to SQL
 For a basic intro to SQL commands, watch this video:
 {{< youtube bEtnYWuo2Bw >}} 
-[Please find here the reading material for this section](https://umuzi.gnomio.com/pluginfile.php/5047/mod_book/chapter/3565/Introduction%20to%20SQL.pdf)
+
+[Please find here the reading material for this section](https://drive.google.com/file/d/15aqA8BOU9oS_QMnJBQBKD8M5AWGIWTZA/view?usp=sharing)
 
 ### 3. NoSql Databases
-[Please find here the reading material for this section](https://umuzi.gnomio.com/pluginfile.php/5047/mod_book/chapter/3566/NoSql%20presentation.pdf)
+[Please find here the reading material for this section](https://drive.google.com/file/d/1Vcd2cMQEzwbhxdhXy5lEi89etSyRgJBa/view?usp=sharing)
 
 ### 4. MongoDB
 For a basic introduction to MongoDB please check out the video below.
@@ -124,4 +125,4 @@ Please follow the link below depending on your platform:
 
 **Applying CRUD operations with the low-level MongoDB driver**
 
-Please follow along with the lecture using the provided reading material. [Please click here to download the material.](https://umuzi.gnomio.com/pluginfile.php/5047/mod_book/chapter/3567/Node%20Craftsman.pdf)
+Please follow along with the lecture using the provided reading material. [Please click here to download the material.](https://drive.google.com/file/d/1SCMx726vbShESC9QBAYd49M16-guE3dJ/view?usp=sharing)

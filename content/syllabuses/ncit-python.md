@@ -26,3 +26,6 @@ title: NCIT - Python
 - {{% contentlink path="national-qualifications-framework/ncit/assessments/managing-the-software-development-process" %}}
 - {{% contentlink path="national-qualifications-framework/ncit/assessments/agile-project-management" %}}
 - {{% contentlink path="national-qualifications-framework/ncit/assessments/ethics-and-professionalism" %}}
+- {{% contentlink path="national-qualifications-framework/ncit/assessments/summative-assessment-1" %}}
+- {{% contentlink path="national-qualifications-framework/ncit/assessments/summative-assessment-2" %}}
+- {{% contentlink path="national-qualifications-framework/ncit/assessments/summative-assessment-3" %}}

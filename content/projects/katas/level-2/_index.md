@@ -4,6 +4,15 @@ content_type: project
 flavours:
 - any_language
 from_repo: projects/katas/level-1
+learning_outcomes:
+- code_algorithmic_thinking
+- code_pseudo_code
+- code_problem_decomposition
+- code_control_flow
+- code_naming_convention
+- code_code_documentation
+- code_existing_code_update
+- code_basic_calculation
 prerequisites:
   hard:
   - projects/katas/level-1
@@ -18,7 +27,7 @@ title: Level 2 coding challenges
 
 ## Task 2.1
 
-Update your existing square function so that it takes 2 parameters. The first parameter should be the size of the square, and the second one should be the character to use when drawing the square. The second parameter should be optional.
+Update your existing square function so that it takes 2 parameters; do not overload the square function. The first parameter should be the size of the square, and the second one should be the character to use when drawing the square. The second parameter should be optional.
 
 eg `square(2)` should output
 
@@ -36,7 +45,7 @@ eg `square(2, '*')` should output
 
 ## Task 2.2
 
-Upgrade your triangle function so that it takes in an optional argument named `mode`.
+Upgrade your triangle function so that it takes in an optional argument named `mode`; do not overload the triangle function.
 
 `triangle(3)` should print
 
@@ -82,6 +91,11 @@ Negative numbers should still print things upside down. Eg:
   #
 ```
 
+### Up for a Challenge?
+This section is not compulsory. If you do this we’ll think you’re cool.
+
+Add some functionality to `triangle` so that an error/exception gets raised if an incorrect mode is entered.
+
 ## Task 2.3
 
 Write a function that takes a list of strings an prints them as columns, with a single space between the columns
@@ -113,3 +127,9 @@ Here are some resources you can use to continue this journey:
 - https://www.codewars.com: you should know about this already, it's legit!
 
 Have fun :)
+
+## Instructions for Reviewers
+
+**Task 2.1 and Task 2.2** 
+
+- Check that no new files are created for these tasks. Only the code inside the files that were submitted for Task 1.4 and Task 1.5 should be updated for Task 2.1 and Task 2.2 respectively.

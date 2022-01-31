@@ -14,6 +14,7 @@ submission_type: repo
 tags:
 - webscraping
 - dashboard
+- jupyter-notebooks
 title: Live Dashboard Assignment
 ---
 

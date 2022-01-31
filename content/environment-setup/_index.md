@@ -5,17 +5,19 @@ ready: true
 title: Getting set up to write code on your device
 ---
 
-You'll need to be set up so that you can write and run code on your own device. There are a few options. Please follow the appropriate link:
+You'll need to be set up so that you can write and run code on your own device. There are a few options here. Please follow the appropriate link:
 
 ## Before you do anything
 
 Make sure git is installed.
 
-{% contentlink path="environment-setup/git" %}}
+{{% contentlink path="environment-setup/git" %}}
 
 ## If you have a computer
 
 Please follow the instructions below based on the language you are going to be using.
+
+If you are here for web dev, you'll be learning JavaScript, if you are here for Data Science or Data Engineering you'll be doing Python. And if you are doing our Java course, follow the Java instructions.
 
 - {{% contentlink path="environment-setup/javascript-on-computer" %}}
 - {{% contentlink path="environment-setup/python-on-computer" %}}
@@ -33,7 +35,6 @@ Using ACode: https://www.youtube.com/watch?v=XZAc-imlq88 This video focuses on J
 - {{% contentlink path="environment-setup/python-extras-on-android" %}}
 - {{% contentlink path="environment-setup/java-extras-on-android" %}}
 - {{% contentlink path="environment-setup/datascience-extras-on-android" %}}
-
 
 ## If you have an iPhone
 

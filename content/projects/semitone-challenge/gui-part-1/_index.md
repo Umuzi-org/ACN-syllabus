@@ -5,6 +5,14 @@ flavours:
 - javascript
 - any_frontend_framework
 from_repo: projects/semitone-challenge/basic-algorithm
+learning_outcomes:
+- web_dev_shuffling_elements
+- web_dev_indexing
+- web_dev_two_dimensional_arrays
+- web_dev_testing_dom_events_with_spies
+- web_dev_testing_dom_elements_with_jsdom
+- web_dev_event_handling
+- web_dev_simple_gui_design
 pre: <b>1. </b>
 prerequisites:
   hard:
@@ -13,11 +21,11 @@ prerequisites:
   soft: []
 ready: true
 submission_type: continue_repo
+tags:
+- html
+- css
 title: semitone difference - Make a simple GUI
 weight: 2
-tags:
-- html 
-- css
 ---
 
 Create a basic web site that a user can use to interact with the JamBuddy class.
@@ -40,7 +48,7 @@ Please put your html in a file called index.html in your root directory.
 
 TDD is a must. Yes, you need to even unit test your DOM manipulations.
 
-This is useful: https://github.com/jsdom/jsdom 
+This is useful: https://github.com/jsdom/jsdom
 
 When testing your dom, don't just check that your boring html exists. Make sure that when the "Get random notes" button is clicked then the right dom elements get updated. Tests do not exist to take up space, they exist to make sure your code actually works.
 
@@ -55,6 +63,6 @@ Here are a few tools you might want to explore:
 
 You can also do your own styling from scratch.
 
-Also, think about the user! Imagine a musician using this thing in order to learn music. If your site is confusing then people wouldn't use it. They'd just get annoyed and leave. 
+Also, think about the user! Imagine a musician using this thing in order to learn music. If your site is confusing then people wouldn't use it. They'd just get annoyed and leave.
 
 **Bad UX is a bug!** Make sure your user knows how to use your application. Make it dead obvious.

@@ -3,6 +3,11 @@ _db_id: 625
 content_type: project
 flavours:
 - any_language
+learning_outcomes:
+- code_validation
+- code_problem_decomposition
+- code_algorithmic_thinking
+- code_tdd
 ready: true
 submission_type: repo
 tags:

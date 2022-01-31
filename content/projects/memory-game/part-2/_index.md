@@ -7,6 +7,10 @@ flavours:
 - any_frontend_framework
 - redux
 from_repo: projects/memory-game/part-1
+learning_outcomes:
+- web_dev_state_management
+- web_dev_code_modification
+- web_dev_testing_dom_elements_with_jsdom
 prerequisites:
   hard:
   - projects/tdd/password-checker/part1
@@ -48,3 +52,10 @@ As a user I want to see how long it takes for me to finish the game. When the ga
 ## Feature 3: Count card flips
 
 As a user I want to be able to see how many turns I've had. The game needs to keep track of this count. When the game is done I want to see a message that tells me how many moves I took to finish the game.
+
+## Instructions for the reviewer
+
+- Check that once cards are matched, they cannot be flipped over again.
+- Make sure the specs actually tests the functionality of the code. Changes in the source files should affect the tests.
+- Make sure that cards can not be clicked once the timer stops.
+- Check that card clicks are registered correctly; no multiple clicks and already flipped or matched cards don't register additional clicks.
