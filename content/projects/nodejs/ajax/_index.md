@@ -4,6 +4,10 @@ content_type: project
 flavours:
 - javascript
 from_repo: projects/nodejs/file-io
+learning_outcomes:
+- wed_dev_client_side_testing
+- web_dev_crud_operations_and_data_presentation
+- web_dev_routes
 prerequisites:
   hard:
   - topics/intro-to-ajax

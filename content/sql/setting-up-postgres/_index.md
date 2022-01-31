@@ -27,4 +27,4 @@ For this option, the best thing is really to use Docker. This is hard mode so if
 
 To learn how to use Docker to run a Postgres instance please follow these instructions:
 
-{{% contentlink path="topics/intro-to-docker" %}}
+{{% contentlink path="docker/intro-to-docker" %}}

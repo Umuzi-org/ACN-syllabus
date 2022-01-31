@@ -6,6 +6,12 @@ flavours:
 - typescript
 - any_frontend_framework
 - redux
+learning_outcomes:
+- web_dev_dom_manipulation
+- web_dev_event_handling
+- web_dev_virtual_dom
+- wed_dev_client_side_testing
+- web_dev_testing_dom_elements_with_jsdom
 prerequisites:
   hard:
   - topics/basic-architecture-concepts
@@ -39,3 +45,8 @@ Tests are very important. Please follow the following best practices:
 
 - tdd!!!
 - if you are using plain ol js then your tests need to make use of mocks and spies to check that the frontend is being updated as it should be
+
+## Instructions for the reviewer
+
+- Check that once cards are matched, they cannot be flipped over again.
+- Make sure the specs actually tests the functionality of the code. Changes in the source files should affect the tests.

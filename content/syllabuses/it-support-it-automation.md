@@ -4,7 +4,7 @@ title: IT Support and IT automation
 ---
 
 ## IT Support
-- {{% contentlink path="topics/time-management" %}}
+- {{% contentlink path="soft-skills/time-management" %}}
 - {{% contentlink path="coursera/it-support/course-5-it-security" %}}
 
 ## IT Automation with Python

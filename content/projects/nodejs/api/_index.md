@@ -4,6 +4,8 @@ content_type: project
 flavours:
 - javascript
 from_repo: projects/nodejs/file-io
+learning_outcomes:
+- web_dev_expose_business_logic
 pre: '<b>4: </b>'
 prerequisites:
   hard:
