@@ -164,7 +164,7 @@ Add some extra tests for your Home class. Make sure that it makes all the right 
 
 ## Instructions for Reviewers
 
-- There should be no global variable.
+- There should be no global variables.
 - `self` should not be overused, if a variable is only used in one place then it is not necessary to use `self`.
 - `eats()` method should return "Food" and not print.
 - `Dog` and `Cat` class `sounds()` should return their respective sounds "Bark" and "Meow".
