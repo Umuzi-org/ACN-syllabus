@@ -80,5 +80,6 @@ We dont expect you to be perfect all the time. But we do expect you to keep an e
 By reviewing code and stating your opinion you will constantly test and upgrade your skills.
 
 ## Instruction:
-You need to demonstrate your understanding of the review column before putting this topic card into the review column. 
-To do this, FIRST, you need to do one of the project cards, The *How Repo Project work*. Once you've merged it and moved it to the review column you can then move this topic card to the review column for a review. *REMEMBER* to be marked competent on this topic card, Instructions must be followed.
+- You need to demonstrate your understanding of the review column before putting this topic card into the review column. 
+- To do this, FIRST, you need to do one of the project cards, The *How Repo Project work*. Once you've merged it and moved it to the review column you can then move this topic card to the review column for a review. 
+*REMEMBER* to be marked competent on this topic card, Instructions must be followed.
