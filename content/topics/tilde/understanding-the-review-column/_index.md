@@ -79,9 +79,12 @@ We dont expect you to be perfect all the time. But we do expect you to keep an e
 
 By reviewing code and stating your opinion you will constantly test and upgrade your skills.
 
-## Instruction:
+## Instructions:
 
 - You need to demonstrate your understanding of the review column before putting this topic card into the review column. 
-- To do this, FIRST, you need to do one of the project cards, The *How Repo Project work*. Once you've merged it and moved it to the review column you can then move this topic card to the review column for a review.
+- FIRST, these project cards should be marked competent:
 
-*REMEMBER*, to be marked competent on this topic card, Instructions must be followed.
+*Tilde project tutorial: How to submit a link*
+*Tilde project tutorial: How Repo projects work*
+
+If *both* these project cards aren't complete,  you will be red-flagged for this topic card if you move it to the review column. Instructions must be followed.
