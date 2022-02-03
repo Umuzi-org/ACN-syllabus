@@ -29,13 +29,13 @@ All students need to probably understand all of the following concepts:
 ## Constructors
 
 ```
-class Bank:
+class BankAccount:
   def __init__(self):
     pass
 ```
 
 ```
-class Bank:
+class BankAccount:
   def __init__(self, acc_no, amount):
     self.acc_no = acc_no
     self.amount = amount
@@ -44,13 +44,13 @@ class Bank:
 ## Instantiation
 
 ```
-saitama_acc = Bank("sa1234", 10000)
+saitama_acc = BankAccount("sa1234", 10000)
 ```
 
 ```
-kuroko_acc = Bank("ka1234", 300)
-tsukasa_acc = Bank("ta1234", 75010)
-vash_acc = Bank("va1234", 813650)
+kuroko_acc = BankAccount("ka1234", 300)
+tsukasa_acc = BankAccount("ta1234", 75010)
+vash_acc = BankAccount("va1234", 813650)
 ```
 
 
