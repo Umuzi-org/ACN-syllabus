@@ -23,3 +23,21 @@ All students need to probably understand all of the following concepts:
 - getters and setters
 - inheritance and overriding and extending methods
 - composition
+
+# Python
+
+## Constructors
+
+```
+class Bank:
+  def __init__(self):
+    pass
+```
+
+```
+class Bank:
+  def __init__(self, acc_no, amount):
+    self.acc_no = acc_no
+    self.amount = amount
+```
+
