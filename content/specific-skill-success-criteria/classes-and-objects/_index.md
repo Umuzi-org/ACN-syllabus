@@ -52,3 +52,36 @@ kuroko_acc = Bank("ka1234", 300)
 tsukasa_acc = Bank("ta1234", 75010)
 vash_acc = Bank("va1234", 813650)
 ```
+
+
+## Getters and setters
+
+### Getters
+
+```
+  def balance(self):
+    return self.amount
+```
+
+```
+saitama_acc.amount
+```
+
+```
+saitama_acc.balance()
+```
+
+### Setters
+
+```
+  def deposit(self, amount):
+    self.amount += amount
+
+  def withdraw(self, amount):
+    self.amount -= amount
+```
+
+```
+saitama_acc.deposit(500)
+saitama_acc.withdraw(320)
+```
