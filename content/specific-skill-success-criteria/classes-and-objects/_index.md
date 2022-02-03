@@ -41,3 +41,14 @@ class Bank:
     self.amount = amount
 ```
 
+## Instantiation
+
+```
+saitama_acc = Bank("sa1234", 10000)
+```
+
+```
+kuroko_acc = Bank("ka1234", 300)
+tsukasa_acc = Bank("ta1234", 75010)
+vash_acc = Bank("va1234", 813650)
+```
