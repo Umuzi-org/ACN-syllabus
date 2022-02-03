@@ -14,7 +14,7 @@ On Tilde you'll notice that this card is asking for a link submission. **Please 
 
 
 
-All students need to provably understand all of the following concepts:
+All students need to probably understand all of the following concepts:
 
 - how constructors work
 - construction of multiple class instances:
