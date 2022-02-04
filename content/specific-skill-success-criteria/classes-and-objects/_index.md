@@ -114,3 +114,15 @@ saitama_acc.withdraw(320)
 saitama_savings_acc.deposit(500)
 saitama_savings_acc.withdraw(320)
 ```
+
+## Overriding
+
+```
+    def deposit(self, amount):
+        self.main_acc_instance.amount -= amount
+        self.amount += amount
+
+    def withdraw(self, amount):
+        self.main_acc_instance.amount += amount
+        self.amount -= amount
+```
