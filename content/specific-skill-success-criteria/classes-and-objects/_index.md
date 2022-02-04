@@ -85,3 +85,32 @@ saitama_acc.balance()
 saitama_acc.deposit(500)
 saitama_acc.withdraw(320)
 ```
+
+
+## Inheritance
+
+```
+class SavingsAccount(BankAccount):
+  pass
+```
+
+```
+class SavingsAccount(BankAccount):
+    def __init__(self, acc_no, amount, main_acc_instance):
+        super().__init__(acc_no, amount)
+        self.main_acc_instance = main_acc_instance
+```
+
+```
+saitama_savings_acc = SavingsAccount('ssa1234', 0, saitama_acc)
+```
+
+```
+saitama_acc.deposit(500)
+saitama_acc.withdraw(320)
+```
+
+```
+saitama_savings_acc.deposit(500)
+saitama_savings_acc.withdraw(320)
+```
