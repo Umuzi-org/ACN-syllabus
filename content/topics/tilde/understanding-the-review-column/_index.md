@@ -78,3 +78,13 @@ In terms of accuracy, if you mark something as Competent and then a staff member
 We dont expect you to be perfect all the time. But we do expect you to keep an eye on cards you've reviewed. If a staff member disagrees with your review you need to look at it and figure out why they disagree with you. Then the next time you review someone's work you need to try to use your new knowledge.
 
 By reviewing code and stating your opinion you will constantly test and upgrade your skills.
+
+## Instructions:
+
+- You need to demonstrate your understanding of the review column before putting this topic card into the review column. 
+- FIRST, these project cards should be marked competent:
+
+*Tilde project tutorial: How to submit a link*
+*Tilde project tutorial: How Repo projects work*
+
+If *both* these project cards aren't complete,  you will be red-flagged for this topic card if you move it to the review column. Instructions must be followed.
