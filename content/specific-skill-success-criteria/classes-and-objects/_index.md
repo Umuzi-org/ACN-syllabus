@@ -27,13 +27,18 @@ All students need to probably understand all of the following concepts:
 # Python
 
 ## Constructors
+The `__init__()` method is called the constructor and is always called when an object is created, generally used for instantiating an object.
 
+### Default Constructor
+A simple constructor which doesn’t accept any arguments. Its definition has only one argument which is a reference to the instance being constructed.
 ```
 class BankAccount:
   def __init__(self):
     pass
 ```
 
+### Parameterized Constructor
+A constructor with parameters. Takes its first argument as a reference to the instance being constructed known as self and the rest of the arguments are provided by the programmer.
 ```
 class BankAccount:
   def __init__(self, acc_no, amount):
