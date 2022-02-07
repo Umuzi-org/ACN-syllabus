@@ -63,7 +63,7 @@ vash_acc = BankAccount("va1234", 813650)
 ## Getters and setters
 
 ### Getters
-
+A getter is a method that gets the value of a property.
 ```
   def balance(self):
     return self.amount
@@ -78,7 +78,7 @@ saitama_acc.balance()
 ```
 
 ### Setters
-
+A setter is a method that sets the value of a property.
 ```
   def deposit(self, amount):
     self.amount += amount
