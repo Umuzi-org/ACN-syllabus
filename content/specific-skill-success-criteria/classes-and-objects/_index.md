@@ -47,11 +47,12 @@ class BankAccount:
 ```
 
 ## Instantiation
-
+Instantiating a class is creating a copy of the class which inherits all class variables and methods. We simply call the class as if it were a function, passing the arguments that the `__init__()` method defines (except `self`).
 ```
 saitama_acc = BankAccount("sa1234", 10000)
 ```
 
+A class can have multiple instances.
 ```
 kuroko_acc = BankAccount("ka1234", 300)
 tsukasa_acc = BankAccount("ta1234", 75010)
