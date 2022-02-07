@@ -94,12 +94,15 @@ saitama_acc.withdraw(320)
 
 
 ## Inheritance
+It enables us to create a new class from an existing class. The new class is a specialized version of the existing class and it inherits all the non-private variables and methods of the existing class.
 
+No additional instance variable(s), `__init__()` can be left out
 ```
 class SavingsAccount(BankAccount):
   pass
 ```
 
+Additional instance variable(s), `super()` is used
 ```
 class SavingsAccount(BankAccount):
     def __init__(self, acc_no, amount, main_acc_instance):
@@ -122,7 +125,7 @@ saitama_savings_acc.withdraw(320)
 ```
 
 ## Overriding
-
+D
 ```
     def deposit(self, amount):
         self.main_acc_instance.amount -= amount
