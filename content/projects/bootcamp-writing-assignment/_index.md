@@ -18,11 +18,8 @@ We also want you to know yourself better. A lot of people don't really sit down 
 
 ### The questions
 
-Please create a separate file for each of the questions and name each file according to the question. Eg; 
-- Your history.md,
-- Why do you want this career.md,
-- Your free time.md, 
-- Relevant experience.md and so forth
+Please create a separate file for each of the questions and name each file according to it's question. 
+Eg; Your history.md, Why do you want this career.md, Your free time.md and so forth.
 
 Remember to pay attention to your sentence structure, spelling and grammar. If you need a little help with your grammar, [Grammarly](https://app.grammarly.com/) is a really useful service. Being able to communicate clearly and professionally in text is a super power.
 
