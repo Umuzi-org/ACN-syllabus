@@ -2,7 +2,8 @@
 _db_id: 711
 content_type: project
 ready: true
-tags: technical-assessment
+tags: 
+- technical-assessment
 flavours:
 - any_language
 submission_type: link
