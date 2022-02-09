@@ -94,7 +94,7 @@ saitama_acc.withdraw(320)
 
 
 ## Inheritance
-It enables us to create a new class from an existing class. The new class is a specialized version of the existing class and it inherits all the non-private variables and methods of the existing class.
+It enables us to create a new class from an existing class. The new class (child class) is a specialized version of the existing class (parent class) and it inherits all the non-private variables and methods of the existing class.
 
 No additional instance variable(s), `__init__()` can be left out
 ```
@@ -123,6 +123,9 @@ saitama_acc.withdraw(320)
 saitama_savings_acc.deposit(500)
 saitama_savings_acc.withdraw(320)
 ```
+
+### super()
+In a child class, a parent class can be referred to with the use of the `super()` function. The super function returns a temporary object of the superclass (parent class) that allows access to all of its methods to its child class. There's no need to specify the parent class name to access its methods. This function can be used both in single and multiple inheritances.
 
 ## Overriding
 If a child class defines a method with the same name as a method in the parent class, the child class method will override the parent class method, thus the child class method be implemented.
