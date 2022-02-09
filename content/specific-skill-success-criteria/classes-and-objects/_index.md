@@ -125,7 +125,7 @@ saitama_savings_acc.withdraw(320)
 ```
 
 ## Overriding
-Defining in the child class a method with the same name of a method in the parent class. If a method is overridden the implementation of the parent class is not considered at all.
+If a child class defines a method with the same name as a method in the parent class, the child class method will override the parent class method, thus the child class method be implemented.
 ```
     def deposit(self, amount):
         self.main_acc_instance.amount -= amount
