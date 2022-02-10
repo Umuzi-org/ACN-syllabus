@@ -1,9 +1,9 @@
 ---
 _db_id: 710
 content_type: project
-ready: true
 flavours:
 - none
+ready: true
 submission_type: link
 title: 'Assessment: Basic data analysis'
 ---
