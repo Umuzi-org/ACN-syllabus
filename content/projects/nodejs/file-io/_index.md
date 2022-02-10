@@ -82,6 +82,7 @@ charlie.save() # results in visitor_3.json
 alice.comments = "Kinda weird, I don't think he'll fit in"
 alice.save()   # results in an UPDATE to visitor_1.json
 ```
+- Do not overwrite existing `.json` files when `save()` is called on a different instance.
 
 Your load function should also get a bit of an update.
 
