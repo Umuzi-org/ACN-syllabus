@@ -125,7 +125,7 @@ saitama_savings_acc.withdraw(320)
 ```
 
 ### super()
-In a child class, a parent class can be referred to with the use of the `super()` function. The super function returns a temporary object of the superclass (parent class) that allows access to all of its methods to its child class. There's no need to specify the parent class name to access its methods. This function can be used both in single and multiple inheritances.
+In a child class, a parent class can be referenced by using the `super()` function. This super function returns a temporary object/instance of the superclass (parent class) that gives access to all its methods to its child class. There's no need to specify the parent class name to access its methods. This function can be used both in single and multiple inheritances.
 
 ## Overriding
 If a child class defines a method with the same name as a method in the parent class, the child class method will override the parent class method, thus the child class method be implemented.
