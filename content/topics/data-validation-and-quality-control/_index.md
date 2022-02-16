@@ -15,7 +15,7 @@ title: Data validation and quality control
 
   - How complete is the data?
   - It's very important to differentiate between data that is missing and data that has a zero value! These mean very different things!
-  - QC: get count of missing observations
+  - QC: get the count of missing observations
   - QC: Are all important variables measured?
 
 - Measurement accuracy:
