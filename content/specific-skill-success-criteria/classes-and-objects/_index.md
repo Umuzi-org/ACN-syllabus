@@ -16,12 +16,69 @@ On Tilde you'll notice that this card is asking for a link submission. **Please 
 
 
 
-All students need to provably understand all of the following concepts:
+All learners need to understand all of the following concepts:
 
-- how constructors work
-- construction of multiple class instances:
-  - make many objects of the same class
-  - interact with them and see that they are distinct
-- getters and setters
-- inheritance and overriding and extending methods
-- composition
+## JS learners should know how constructors work
+
+```
+class Car {
+  constructor(registrationId, color, brand){
+    this._registrationId = registrationId
+    this.color = color
+    this.brand = brand
+  }
+}
+```
+## JS learners should know how to instantiate many objects from the same class and interact with them
+
+```
+let car1 = new Car(1, "red", "honda")
+let car2 = new Car(2, "blue", "honda")
+let car3 = new Car(3, "white", "ford")
+
+car2.color = "black"
+console.log(car2.color) //the color of this car is no longer blue
+```
+## JS learners should know how to modify and access private members of a class
+
+```
+class Car {
+    ...
+
+    editRegistration(id){ //setter
+        this._registrationId = id
+    }
+    getRegistrationId(){ //getter
+        return this._registrationId
+    }
+}
+
+let car1 = new Car(1, "red", "honda")
+console.log(car1.registrationId) // would this print 1?
+
+car1.editRegistration(5)
+console.log(car1.getRegistrationId())
+
+```
+## JS learners should understand inheritance and overriding and extending methods
+```
+class Car {
+  ...
+
+  details(){
+    console.log(`Color: ${this.color}, Brand: ${this.brand}`)
+  }
+}
+
+class Model extends Car {
+  constructor(model){
+    super()
+    this.model = model
+  }
+  details(){
+    console.log(`Model: ${this.model}`)
+  }
+}
+
+let carModel = new Model("Toyota", "Corolla")
+```
