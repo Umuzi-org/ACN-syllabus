@@ -27,10 +27,10 @@ All students need to probably understand all of the following concepts:
 # Python
 
 ## Constructors
-The `__init__()` method is called the constructor and is always called when an object is created, generally used for instantiating an object.
+The `__init__()` method is called the constructor and is always called when an object is created, also known as instantiating an object.
 
 ### Default Constructor
-A simple constructor which doesn’t accept any arguments. Its definition has only one argument which is a reference to the instance being constructed.
+The default constructor is a simple constructor which doesn’t accept any arguments. Its definition has only one argument which is a reference to the instance being constructed.
 ```
 class BankAccount:
   def __init__(self):
@@ -38,7 +38,7 @@ class BankAccount:
 ```
 
 ### Parameterized Constructor
-A constructor with parameters. Takes its first argument as a reference to the instance being constructed known as self and the rest of the arguments are provided by the programmer.
+As the name suggests, a parameterized constructor is a constructor with parameters. Takes its first argument as a reference to the instance being constructed, known as `self` and the rest of the arguments are provided by the programmer.
 ```
 class BankAccount:
   def __init__(self, acc_no, amount):
@@ -61,6 +61,10 @@ vash_acc = BankAccount("va1234", 813650)
 
 
 ## Getters and setters
+The main purpose that getters and setters serve in object-orientated programs is for ensuring data encapsulation - or put another way, as a mechanism for hiding the implementation details of a class from the user. In Python, getters and setters are not the same as for other object-orientated languages. Private variables in Python are not actually hidden fields. In Python getters and setters are typically used when:
+
+- we want to add validation logic for getting and setting a value
+- to avoid the direct access of a class field so that private variables cannot be accessed directly/modified by an outside user
 
 ### Getters
 A getter is a method that gets the value of a property.
@@ -94,15 +98,15 @@ saitama_acc.withdraw(320)
 
 
 ## Inheritance
-It enables us to create a new class from an existing class. The new class (child class) is a specialized version of the existing class (parent class) and it inherits all the non-private variables and methods of the existing class.
+Inheritance enables us to create a new class from an existing class. The new class (child class) is a specialized version of the existing class (parent class) and it inherits all the non-private variables and methods of the existing class.
 
-No additional instance variable(s), `__init__()` can be left out
+If no additional instance variable(s) are required in the child class, `__init__()` can be left out.
 ```
 class SavingsAccount(BankAccount):
   pass
 ```
 
-Additional instance variable(s), `super()` is used
+If additional instance variable(s) are required in the child class, `super()` is used.
 ```
 class SavingsAccount(BankAccount):
     def __init__(self, acc_no, amount, main_acc_instance):
