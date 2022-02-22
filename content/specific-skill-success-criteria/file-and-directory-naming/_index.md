@@ -1,36 +1,50 @@
-## Naming files and folders 
+---
+_db_id: 
+content_type: topic
+ready: true
+title: 
+---
+
+# Naming files and folders 
 
 It can be helpful to know what naming style is being used, independent of what it is being used for. Naming conventions are rules which enable 
 the titling of electronic and physical folders, documents and records in a consistent and logical way. This ensures that the correct records can 
 be located, identified and retrieved from a filing system in a timely fashion, and that they are stored in an appropriate secure location. Ideally,
- the best time to think about how to name and structure the documents and directories you create is at the start of a project. 
+the best time to think about how to name and structure the documents and directories you create is at the start of a project. 
 
-## Benefits of naming conventions
 
-Naming records consistently, logically and in a predictable way will distinguish similar records from one another at a glance, and by doing so will facilitate the storage and retrieval of data. Through consistency and the application of logical standards, we benefit from secure storage, and the 
+# Benefits of naming conventions
+
+Naming records consistently, logically and in a predictable way will distinguish similar records from one another at a glance, and by doing so will 
+facilitate the storage and retrieval of data. Through consistency and the application of logical standards, we benefit from secure storage, and the 
 ability to locate and access information.
 
-## PYTHON
+
+## Python
 
 New modules and packages (including third-party frameworks) should adhere to the recommended naming conventions, but if a library already exists that 
 has a different style, internal consistency should take precedence. 
 
-How should I name my file in Python?  
+### How should I name my file in Python modules and packages?
 
-When deciding what to call a file in Python, there are some rules that must be followed.
-
-    Rule-1: My file name should be short.
-    Rule-2: Should use all lowercase while deciding ON A FILE NAME.
-    Rule-3: We can also use underscore(_) with the file name.
+Modules should have short, all-lowercase names. Underscores can be used in the module name if it improves readability. Python packages should also have short, 
+all-lowercase names, although the use of underscores is discouraged.Make directories (packages) and files (modules) snake_cased. KEEP IT SHORT AND MEANINGFUL.
 
 
-How should I name my package(directory) in Python?  
+#### NO:
+    production/
+        ProductionWorker.py
+        productionJobParamsSchema.json
 
-There are certain rules we need to follow while naming a package.
+#### Yes:  
+    production/
+        production_worker.py
+        production_job_params_schema.json
 
-    Rule-1: You should use all lowercase while deciding a name for a package.
-    Rule-2: If there are multiple words in your method name then they should be separated by an underscore(_).
-    Rule-3: It is always better to use a single word for a package name.
 
-Source : https://pythonguides.com/python-naming-conventions/
+Source : https://pythonguides.com/python-naming-conventions/, https://www.python.org/dev/peps/pep-0008/#package-and-module-names
 
+
+
+## Javascript
+## Java  
