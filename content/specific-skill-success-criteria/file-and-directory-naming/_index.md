@@ -2,15 +2,16 @@
 _db_id: 
 content_type: topic
 ready: true
-title: 
+title: Naming modules and packages 
 ---
 
-# Naming files and folders 
+# Naming modules and packages 
 
-It can be helpful to know what naming style is being used, independent of what it is being used for. Naming conventions are rules which enable 
-the titling of electronic and physical folders, documents and records in a consistent and logical way. This ensures that the correct records can 
-be located, identified and retrieved from a filing system in a timely fashion, and that they are stored in an appropriate secure location. Ideally,
-the best time to think about how to name and structure the documents and directories you create is at the start of a project. 
+Files are refered to as modules and directories as folders or packages.
+
+Naming conventions are rules which enable the titling of electronic and physical folders, documents and records in a consistent and logical way.
+This ensures that the correct records can be located, identified and retrieved from a filing system in a timely fashion, and that they are stored 
+in an appropriate secure location. 
 
 
 # Benefits of naming conventions
@@ -19,32 +20,49 @@ Naming records consistently, logically and in a predictable way will distinguish
 facilitate the storage and retrieval of data. Through consistency and the application of logical standards, we benefit from secure storage, and the 
 ability to locate and access information.
 
+Ideally,the best time to think about how to name and structure the documents and directories you create is at the start of a project. 
 
-## Python
+
+# Note do all programmers
 
 New modules and packages (including third-party frameworks) should adhere to the recommended naming conventions, but if a library already exists that 
 has a different style, internal consistency should take precedence. 
 
-### How should I name my file in Python modules and packages?
 
-Modules should have short, all-lowercase names. Underscores can be used in the module name if it improves readability. Python packages should also have short, 
-all-lowercase names, although the use of underscores is discouraged.Make directories (packages) and files (modules) snake_cased. KEEP IT SHORT AND MEANINGFUL.
+# How should I name my PYTHON modules and packages?
+
+
+Modules should have short, all-lowercase names and underscores can be used to improves readability. 
+
+
+Packages should also have short, all-lowercase names, although the use of underscores is discouraged.
 
 
 #### NO:
-    production/
-        ProductionWorker.py
-        productionJobParamsSchema.json
 
-#### Yes:  
-    production/
-        production_worker.py
-        production_job_params_schema.json
+    TASK/
+        1task.py
+        task 1.py
+        
+    passwordChecker/
+        add-logger.py
+
+    snakecase/
+        productionnotes.py
+        keepItShortAndmeaningfull.py
+
+#### Yes:
+    task/
+        task_1.py
+
+    password-checker/
+        add_logger.py
+
+    snake_case/
+        production_notes.py
+        kee_it_short_and_meaningfull.py
 
 
-Source : https://pythonguides.com/python-naming-conventions/, https://www.python.org/dev/peps/pep-0008/#package-and-module-names
-
-
-
+`[TODO]`
 ## Javascript
 ## Java  
