@@ -24,6 +24,22 @@ I am required by law to link to this cartoon: https://www.osnews.com/story/19266
 
 And this one https://xkcd.com/1513/ (hover your mouse over the picture for extra lols)
 
+
+## Naming modules and packages 
+
+Files are refered to as modules and directories as folders or packages.
+
+Naming conventions are rules which enable the titling of electronic and physical folders, documents and records in a consistent and logical way.
+This ensures that the correct records can be located, identified and retrieved from a filing system in a timely fashion, and that they are stored 
+in an appropriate secure location. 
+
+Ideally,the best time to think about how to name and structure the documents and directories you create is at the start of a project. 
+
+## Note to all programmers
+
+New modules and packages (including third-party frameworks) should adhere to the recommended naming conventions, but if a library already exists that 
+has a different style, internal consistency should take precedence. 
+
 ## Naming conventions
 
  - Make sure your naming conventions use vowels. tld_crd is hard to interpret, but tilde_card would make sense in context.
