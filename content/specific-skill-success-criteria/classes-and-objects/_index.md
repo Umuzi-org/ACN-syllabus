@@ -27,36 +27,27 @@ All students need to probably understand all of the following concepts:
 # Python
 
 ## Constructors
-The `__init__()` method is called the constructor and is always called when an object is created, also known as instantiating an object.
-
-### Default Constructor
-The default constructor is a simple constructor which doesn’t accept any arguments. Its definition has only one argument which is a reference to the instance being constructed.
+The constructor is a method that is called when an object is created. This method is defined in the class and can be used to initialize basic variables. In Python the `__init__()` method is called in place of the constructor - to instantiate (initialise) the object.
 ```
-class BankAccount:
+class Shape:
   def __init__(self):
     pass
 ```
+> Learner should also know how to create an initialiser that takes in arguments.
 
-### Parameterized Constructor
-As the name suggests, a parameterized constructor is a constructor with parameters. Takes its first argument as a reference to the instance being constructed, known as `self` and the rest of the arguments are provided by the programmer.
-```
-class BankAccount:
-  def __init__(self, acc_no, amount):
-    self.acc_no = acc_no
-    self.amount = amount
-```
 
 ## Instantiation
 Instantiating a class is creating a copy of the class which inherits all class variables and methods. We simply call the class as if it were a function, passing the arguments that the `__init__()` method defines (except `self`).
+Here we are going to have a look at a Rectangle object that takes in the `length` and the `width`, respectively:
 ```
-saitama_acc = BankAccount("sa1234", 10000)
+rectangle = Rectangle(2,4)
 ```
 
-A class can have multiple instances.
+An object can have multiple instances, meaning that each instance has its own different attribute values
 ```
-kuroko_acc = BankAccount("ka1234", 300)
-tsukasa_acc = BankAccount("ta1234", 75010)
-vash_acc = BankAccount("va1234", 813650)
+rectangle_small = Rectangle(2,4)
+rectangle_medium = Rectangle(4,12)
+rectangle_big = Rectangle(8,24)
 ```
 
 
@@ -66,79 +57,63 @@ The main purpose that getters and setters serve in object-orientated programs is
 - we want to add validation logic for getting and setting a value
 - to avoid the direct access of a class field so that private variables cannot be accessed directly/modified by an outside user
 
-### Getters
-A getter is a method that gets the value of a property.
-```
-  def balance(self):
-    return self.amount
-```
-
-```
-saitama_acc.amount
-```
-
-```
-saitama_acc.balance()
-```
-
-### Setters
-A setter is a method that sets the value of a property.
-```
-  def deposit(self, amount):
-    self.amount += amount
-
-  def withdraw(self, amount):
-    self.amount -= amount
-```
-
-```
-saitama_acc.deposit(500)
-saitama_acc.withdraw(320)
-```
-
 
 ## Inheritance
 Inheritance enables us to create a new class from an existing class. The new class (child class) is a specialized version of the existing class (parent class) and it inherits all the non-private variables and methods of the existing class.
 
 If no additional instance variable(s) are required in the child class, `__init__()` can be left out.
 ```
-class SavingsAccount(BankAccount):
+class Square(Rectangle):
   pass
 ```
 
-If additional instance variable(s) are required in the child class, `super()` is used.
+If additional instance variable(s) are required in the child class, `super()` (see below) is one of the methods that can be used.
 ```
-class SavingsAccount(BankAccount):
-    def __init__(self, acc_no, amount, main_acc_instance):
-        super().__init__(acc_no, amount)
-        self.main_acc_instance = main_acc_instance
-```
-
-```
-saitama_savings_acc = SavingsAccount('ssa1234', 0, saitama_acc)
+class Cuboid(Rectangle):
+  def __init__(self, length, width, height):
+      super().__init__(length, width)
+      self.height = height
 ```
 
-```
-saitama_acc.deposit(500)
-saitama_acc.withdraw(320)
-```
-
-```
-saitama_savings_acc.deposit(500)
-saitama_savings_acc.withdraw(320)
-```
 
 ### super()
 In a child class, a parent class can be referenced by using the `super()` function. This super function returns a temporary object/instance of the superclass (parent class) that gives access to all its methods to its child class. There's no need to specify the parent class name to access its methods. This function can be used both in single and multiple inheritances.
+```
+class Rectangle:
+  def __init__(self, length, width):
+    self.length = length
+    self.width = width
+
+  def area(self):
+    return self.length * self.width
+
+
+class Square(Rectangle):
+  def __init__(self, length):
+    super().__init__(length, length)
+```
+
+Here, `super()` is used to call the `__init__()` of the Rectangle class, allowing you to use it in the Square class without repeating code. Below, the core functionality remains after making changes:
+```
+square = Square(4)
+print(square.area()) # 16
+```
+
+Another example:
+```
+class Cuboid(Rectangle):
+    def __init__(self, length, width, height):
+        super().__init__(length, width)
+        self.height = height
+
+    def area(self):
+        return super().area() * self.height
+```
 
 ## Overriding
-If a child class defines a method with the same name as a method in the parent class, the child class method will override the parent class method, thus the child class method be implemented.
+If a child class defines a method with the same name as a method in the parent class, the child class method will override the parent class method, thus the child class method will be implemented, unless `super` is used.
+Using the Cuboid object above if super is not used:
 ```
-    def deposit(self, amount):
-        self.main_acc_instance.amount -= amount
-        self.amount += amount
-
-    def withdraw(self, amount):
-        self.main_acc_instance.amount += amount
-        self.amount -= amount
+  def area(self):
+    return self.length * self.width * self.height
 ```
