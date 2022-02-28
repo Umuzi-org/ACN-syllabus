@@ -11,6 +11,38 @@ tags:
 title: Clean Code for Python
 ---
 
+## How should I name my Python modules and packages?
+
+Modules should have short, all-lowercase names and underscores can be used to improves readability. 
+
+Packages should also have short, all-lowercase names, although the use of underscores is discouraged.
+
+#### NO:
+
+    TASK/
+        1task.py
+        Task2.py
+
+    passwordChecker/
+        add-logger.py
+
+    Standard/
+        snake case.py
+        keepItShortAndmeaningfull.py
+
+#### YES:
+    task/
+        task_1.py
+        task_2.py
+
+    password-checker/
+        add_logger.py
+
+    standard/
+        snake_case.py
+        keep_it_short_and_meaningfull.py
+
+
 ## Tabs or Spaces
 
 Python is about whitespace and if you are working on a team then your whitespace better line up otherwise you'll just make errors.
