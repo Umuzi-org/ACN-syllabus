@@ -8,5 +8,5 @@ This short syllabus is given to new potential students. Basically they will need
 - {{% contentlink path="topics/messaging/our-content-philosophy" %}}
 - {{% contentlink path="environment-setup" %}}
 - {{% contentlink path="projects/first-personal-website" %}}
-- {{% contentlink path="topics/bootcamp/bash-for-bootcamp" %}}
+- {{% contentlink path="projects/bash-for-bootcamp" %}}
 - {{% contentlink path="projects/git-exercises" %}}

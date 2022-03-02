@@ -12,7 +12,7 @@ learning_outcomes:
 prerequisites:
   hard:
   - topics/github/intro
-  - topics/bootcamp/bash-for-bootcamp
+  - projects/bash-for-bootcamp
   - topics/git
   soft: []
 ready: true
