@@ -1,9 +1,8 @@
 ---
-_db_id: 
 content_type: topic
 prerequisites:
   hard:
-  - topics/file-and-direcctory-naming/general
+  - topics/file-and-directory-naming/general
 ready: true
 tags:
 - File and directory naming
@@ -11,11 +10,10 @@ tags:
 title: File and directory naming in Python
 ---
 
-# How should I name my PYTHON modules and packages?
+## How should I name my PYTHON modules and packages?
 
 
 Modules should have short, all-lowercase names and underscores can be used to improves readability. 
-
 
 Packages should also have short, all-lowercase names, although the use of underscores is discouraged.
 
