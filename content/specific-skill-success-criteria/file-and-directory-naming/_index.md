@@ -23,7 +23,7 @@ ability to locate and access information.
 Ideally,the best time to think about how to name and structure the documents and directories you create is at the start of a project. 
 
 
-# Note do all programmers
+# Note to all programmers
 
 New modules and packages (including third-party frameworks) should adhere to the recommended naming conventions, but if a library already exists that 
 has a different style, internal consistency should take precedence. 
