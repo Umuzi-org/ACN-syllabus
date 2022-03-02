@@ -9,7 +9,6 @@ title: Introduction to Node and SQL
 - node-postgres has many features like callbacks, connection pooling, prepared statements, async/await and promises.
 - connection pooling allows your application to reuse existing database connections by automatically saving the connection to a pool so it can be reused instead of having to create a new connection every time data is being retrieved/accessed. An example of this can be a cache component where data is frequently accessed and stored.
 
-
 ### Connection pooling
 #### Client 
 - [Node & SQL tutorial using Client](https://node-postgres.com/api/client)
