@@ -43,17 +43,16 @@ Ensure you update the sharing permissions on your google doc to allow anyone wit
 1. What is the purpose of the `ls` command?
 2. What does the command `ls /` output?
 3. What does the `pwd` command do?
-4. When would you make use of the `pwd` command?
-5. What command would you use to make a new directory?
-6. What command would you use to navigate into a new directory?
-7. What command would you use to ‘upwards’ one level in the directory hierarchy?
-8. What command would you use to nagivate up two levels?
-9. What does the command `cd home` do?
-10. What is a *relative* path?
-11. What is a *absolute* path?
-12. Explain the usage of the `man` command?
-13. What command would you use to remove the directory *git-basic-exercises*?
-14. Explain the use of *tab completion*?
+4. What command would you use to make a new directory?
+5. What command would you use to navigate into a new directory?
+6. What command would you use to navigate ‘upwards’ one level in the directory hierarchy?
+7. What command would you use to nagivate upwards two levels?
+8. What does the command `cd home` do?
+9.  What is a *relative* path?
+10. What is a *absolute* path?
+11. Explain the usage of the `man` command?
+12. What command would you use to remove the directory *git-basic-exercises*?
+13. Explain the use of *tab completion*?
 
 
 
