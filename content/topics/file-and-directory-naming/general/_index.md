@@ -26,4 +26,4 @@ Ideally,the best time to think about how to name and structure the documents and
 # Note to all programmers
 
 New modules and packages (including third-party frameworks) should adhere to the recommended naming conventions, but if a library already exists that 
-has a different style, internal consistency should take precedence. 
+has a different style, internal consistency should take precedence.
