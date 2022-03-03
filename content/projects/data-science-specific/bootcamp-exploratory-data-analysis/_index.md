@@ -29,7 +29,7 @@ Your repo should contain everything needed to replicate your work:
 
 ## Questions
 
-The [data set](data.csv) consists of health and demographic data for the period 2014-2015, obtained from [Global Health Observatory Data Repository](http://apps.who.int/gho/data/node.main). Here is some  [metadata](data-info.txt) that may be useful.
+The [data set](data.csv) consists of health and demographic data for the period 2014-2015, obtained from [Global Health Observatory Data Repository](http://apps.who.int/gho/data/node.main). Here is some [metadata](data-info.txt) that may be useful.
 
 1. Are there any missing values in the data set? What, if anything should be done about them if there are?
 
