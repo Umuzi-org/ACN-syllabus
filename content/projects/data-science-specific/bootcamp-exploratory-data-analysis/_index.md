@@ -18,6 +18,11 @@ title: Bootcamp Exploratory Data Analysis
 
 ## Instructions
 
+- I
+- am
+- a
+- list 
+
 Your task is to use the given data to answer all the questions below. Any other additional analysis you think will help your submission is cool with us but NO external data may be used.
 
 We will not only be assessing your code but also how you structure and present your analysis. This [notebook](notebook.ipynb) has a guide of the general structure we expect.
