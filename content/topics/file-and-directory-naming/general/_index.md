@@ -19,7 +19,5 @@ has a different style, internal consistency should take precedence.
 
 ## Language specific naming conventions 
 
-##### Python : http://syllabus.africacode.net/topics/file-and-directory-naming/python/
-
-
+##### Python : {{% contentlink path="topics/file-and-directory-naming/python"  flavour="python" %}}
 
