@@ -23,6 +23,7 @@ Packages should also have short, all-lowercase names, although the use of unders
     TASK/
         1task.py
         task 1.py
+        task1.1.py
         
     passwordChecker/
         add-logger.py
@@ -35,6 +36,7 @@ Packages should also have short, all-lowercase names, although the use of unders
     task/
         task_1.py
         task_2.py
+        task_1_1.py
 
     password-checker/
         add_logger.py
