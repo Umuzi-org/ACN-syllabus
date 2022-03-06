@@ -19,7 +19,7 @@ title: password-checker
 
 ## Set up your environment
 
-### Javascript
+### JavaScript
 
 Please note that this is a unit testing project. Make sure you demonstrate a solid understanding of unit testing and test your code using the required framework.
 
@@ -83,7 +83,7 @@ Please refer to the following to find out more: {{% contentlink path="topics/jav
 Implement the following function by following a TDD methodology:
 
 ```
-// Javascript:
+// JavaScript:
 passwordIsValid(password)
 ```
 
@@ -97,22 +97,22 @@ passwordIsValid(password)
 password_is_valid(password)
 ```
 
-`password_is_valid` will check if the password meets a few different conditions. If one of the below conditions is not met then the relevant error/exception should be thrown/raised. Your error/exception message should match one of the following conditions exactly (word-for-word).
+`password_is_valid` will check if the password meets a few different conditions. If one of the below conditions is not met, then the relevant error/exception should be thrown/raised. Your error/exception message should match one of the following conditions exactly (word-for-word).
 
 1. password should exist
 2. password should be longer than 8 characters
 3. password should have at least one lowercase letter
 4. password should have at least one uppercase letter
-5. password should have at least have one digit
+5. password should have at least one digit
 6. password should have at least one special character
 7. password should have at least one whitespace character
 
-In the case of (6) above, a special character is a character that is on the keyboard but is not a number or letter. Eg `{ % & * " '` etc
+In the case of (6) above, a special character is a character that is on the keyboard but is not a number or letter. Eg: `{ % & * " '` etc.
 
 Next, implement a function called "password strength":
 
 ```
-// Javascript:
+// JavaScript:
 passwordStrength(password)
 ```
 
@@ -135,19 +135,19 @@ This function should count the number of conditions met and then return a string
 
 ## Note on DRY code
 
-Please don't re-implement the same check in two different places. Good code is DRY. Every piece of knowledge should be represented once in your code.
+Please don't re-implement the same check in two different places. Good code is DRY. Every piece of knowledge should only be represented once in your code.
 
-## JS Resources
+## JS resources
 
 - [JS Errors](https://www.w3schools.com/js/js_errors.asp)
 - [Errors and Jasmine](https://stackoverflow.com/questions/4144686/how-to-write-a-test-which-expects-an-error-to-be-thrown-in-jasmine)
 
-## Python Resources
+## Python resources
 
 - [Python Errors](https://www.codementor.io/sheena/how-to-write-python-custom-exceptions-du107ufv9?referral=sheena-kvo1e6ewh)
 - [Exceptions and Pytest](https://stackoverflow.com/questions/23337471/how-to-properly-assert-that-an-exception-gets-raised-in-pytest)
 
-## Java Resources
+## Java resources
 
 - https://howtodoinjava.com/junit5/expected-exception-example/
 
