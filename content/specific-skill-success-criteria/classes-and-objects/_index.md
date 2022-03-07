@@ -52,7 +52,6 @@ class Square(Rectangle):
   pass
 ```
 
-Learner should know how to use super.
 ```
 class Cuboid(Rectangle):
   def __init__(self, length, width, height):
