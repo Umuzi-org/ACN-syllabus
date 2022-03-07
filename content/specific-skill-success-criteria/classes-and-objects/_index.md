@@ -42,7 +42,7 @@ Learner should be able to instantiate the object.
 rectangle = Rectangle(2,4)
 ```
 
-Learner should also know what happens when the are multiple instances of an object.
+Learner should also understand how multiple instances of an object work.
 
 
 ## Inheritance
