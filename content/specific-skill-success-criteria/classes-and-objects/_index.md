@@ -43,6 +43,11 @@ rectangle = Rectangle(2,4)
 ```
 
 Learner should also understand how multiple instances of an object work.
+```
+small_rectangle1 = Rectangle(2, 4)
+small_rectangle2 = Rectangle(2, 4)
+medium_rectangle = Rectangle(4, 12)
+```
 
 
 ## Inheritance
