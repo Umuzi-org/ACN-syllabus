@@ -46,7 +46,7 @@ Learner should also understand how multiple instances of an object work.
 
 
 ## Inheritance
-Learner should know what is inheritance and what it means when a class inherits another class.
+Learner should know what is inheritance and what it means when a class inherits another class. Both single and multiple inheritance should be understood, and the use of `super()` in both cases.
 ```
 class Square(Rectangle):
   pass
