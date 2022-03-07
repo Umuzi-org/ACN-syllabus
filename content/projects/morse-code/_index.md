@@ -63,15 +63,15 @@ This is optional.
 
 Add unit tests to your code. Leave the assertions in there just so that we can see that you know how to hit the requirements we laid out. But if you have some passing tests as well that would be sweet.
 
-## Instructions for Reviewers
+## Instructions for reviewers
 
 - Ensure that the `lettersToMorseCode` function can convert numbers, special characters and letters of the alphabets to morse code and the `morseCodeToLetters` function can convert morse code to numbers, letters of the alphabets and special characters.
 - Make sure that both functions return the output. Neither function should print the output.
 - When using assertions make sure that the assert statements are checking if the input and output lengths and input and output spaces are the same by checking if they are equal.
-- If Unit tests are used, make sure that there is a test that checks the input and output lengths and ensure that imports and exports was used correctly.
+- If unit tests are used, make sure that there is a test that checks the input and output lengths and ensure that imports and exports were used correctly.
 - Make sure an assertion function was used to assert if both functions input and output data are the same.
 - Make sure a global constant was used to contain all the data e.g letters of the alphabets, numbers, special characters and morse code.
-- Make sure that the assertions do not print an error if empty strings are passed in both functions, e.g.
+- Make sure that the assertions do not print an error if empty strings are passed in both functions, eg:
 
 ```
 lettersToMorseCode("") // shouldn't print an assertion failure
