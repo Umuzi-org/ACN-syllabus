@@ -12,7 +12,7 @@ Naming conventions are rules which enable the titling of electronic and physical
 This ensures that the correct records can be located, identified and retrieved from a filing system in a timely fashion, and that they are stored 
 in an appropriate secure location. 
 
-## What should i consider when naming modules and packages
+## What should I consider when naming modules and packages
 
 New modules and packages (including third-party frameworks) should adhere to the recommended naming conventions, but if a library already exists that 
 has a different style, internal consistency should take precedence.
