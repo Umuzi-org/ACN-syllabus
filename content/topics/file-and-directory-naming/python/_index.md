@@ -10,13 +10,11 @@ tags:
 title: File and directory naming in Python
 ---
 
-## How should I name my PYTHON modules and packages?
+## How should I name my Python modules and packages?
 
+You should name your files and directories the same way you name Python variables.They should be small letters, and words should be separated by underscores, as that improves readability.
 
-Modules should have short, all-lowercase names and underscores can be used to improves readability. 
-
-Packages should also have short, all-lowercase names, although the use of underscores is discouraged.
-
+It is important to note that underscores are discouraged in file_names as opposed to using dashes, i.e.file-name and be sure to keep in mind that all Python files have a .py extension. See below the recommended Python file and directory naming style. Below is the recommended Python file and directory naming style.
 
 #### NO:
 ```
