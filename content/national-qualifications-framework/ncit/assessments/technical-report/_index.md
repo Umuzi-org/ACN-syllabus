@@ -16,14 +16,14 @@ tags:
 title: 'NCIT assessment: Technical Report'
 ---
 
-Create a technical report based off your "design thinking sprint" (DTS) or your "make us better" (MUB) to fulfill the research and technical report requirements.
+Create a technical report based off your "Design Thinking Sprint" (DTS) or your "Make Us Better" (MUB) to fulfill the research and technical report requirements.
 
 Ensure this document meets the standards and criteria in {{% contentlink path="national-qualifications-framework/ncit/content/write-a-report" %}}
 
-It should be labeled like: FirstName LastName - Technical Report
+How it should be labeled: FirstName LastName - Technical Report
 
 Required format: Google Doc
 
-Upload the document to google drive and submit a link. Please make sure that the link works. If your work is private then we won't be able to review it.
+Upload the document to google drive and submit a link. Please make sure that the link works. If your work is private, then we won't be able to review it.
 
-Watch this space! We'll share instructions on how to upload this stuff in the near future.
+Watch this space! We will share instructions on how to upload this stuff in the near future.
