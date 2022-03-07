@@ -97,7 +97,7 @@ passwordIsValid(password)
 password_is_valid(password)
 ```
 
-`password_is_valid` will check if the password meets a few different conditions. If one of the below conditions is not met then the relevant error/exception should be thrown/raised. Your error/exception message should match one of the following conditions exactly (word-for-word).
+`password_is_valid` will check if the password meets a few different conditions. If one of the below conditions is not met then the relevant error/exception should be thrown/raised (python: make use of ValueError). Your error/exception message should match one of the following conditions exactly (word-for-word).
 
 1. password should exist
 2. password should be longer than 8 characters
