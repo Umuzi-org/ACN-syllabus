@@ -19,30 +19,32 @@ Packages should also have short, all-lowercase names, although the use of unders
 
 
 #### NO:
-
-    TASK/
-        1task.py
-        task 1.py
-        task1.1.py
+```
+TASK/
+    1task.py
+    task 1.py
+    task1.1.py
         
-    passwordChecker/
-        add-logger.py
+passwordChecker/
+    add-logger.py
 
-    snakecase/
-        productionnotes.py
-        keepItShortAndmeaningfull.py
+snakecase/
+    productionnotes.py
+    keepItShortAndmeaningfull.py
+```
 
 #### Yes:
-    task/
-        task_1.py
-        task_2.py
-        task_1_1.py
 
-    password-checker/
-        add_logger.py
+```
+task/
+    task_1.py
+    task_2.py
+    task_1_1.py
 
-    snake_case/
-        production_notes.py
-        kee_it_short_and_meaningfull.py
+password-checker/
+    add_logger.py
 
-
+snake_case/
+    production_notes.py
+    kee_it_short_and_meaningfull.py
+```
