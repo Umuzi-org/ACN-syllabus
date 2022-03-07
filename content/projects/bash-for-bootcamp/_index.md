@@ -3,8 +3,8 @@ _db_id: 394
 content_type: project
 flavours:
 - none
-submission_type: link
 ready: true
+submission_type: link
 tags:
 - bash
 title: Beginning Bash
@@ -53,7 +53,3 @@ Ensure you update the sharing permissions on your google doc to allow anyone wit
 11. Explain the usage of the `man` command?
 12. What command would you use to remove the directory *git-basic-exercises*?
 13. Explain the use of *tab completion*?
-
-
-
-

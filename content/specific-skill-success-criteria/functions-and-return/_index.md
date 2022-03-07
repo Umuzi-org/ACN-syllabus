@@ -4,9 +4,9 @@ content_type: project
 flavours:
 - any_language
 ready: true
-tags: 
-- technical-assessment
 submission_type: link
+tags:
+- technical-assessment
 title: 'Assessment: Functions, return statements and printing to the terminal'
 ---
 

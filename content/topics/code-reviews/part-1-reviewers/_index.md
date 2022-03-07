@@ -1,11 +1,10 @@
 ---
+_db_id: 742
 content_type: topic
-ready: true
-flavours:
-- any_language
 prerequisites:
   hard:
   - why-and-how-to-review-code
+ready: true
 tags:
 - soft skills
 - communication

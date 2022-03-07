@@ -1,12 +1,12 @@
 ---
 _db_id: 710
 content_type: project
-ready: true
-tags:
-- technical-assessment
 flavours:
 - none
+ready: true
 submission_type: link
+tags:
+- technical-assessment
 title: 'Assessment: Basic data analysis'
 ---
 
