@@ -1,16 +1,17 @@
 ---
+_db_id: 529
 content_type: project
 flavours:
 - none
 prerequisites:
   hard:
-  - topics/solo-learn/python/6-more-types
+  - topics/solo-learn/python/module-4-exceptions-and-files
   soft: []
 ready: true
 submission_type: link
 tags:
 - python
-title: Solo Learn - Python Core - Module 7 - Functional Programming
+title: Solo Learn - Python - Module 5 - More Types
 ---
 
 Complete the above mentioned module on Solo Learn
