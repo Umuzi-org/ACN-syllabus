@@ -44,5 +44,5 @@ password-checker/
 
 snake_case/
     production_notes.py
-    kee_it_short_and_meaningful.py
+    keep_it_short_and_meaningful.py
 ```
