@@ -1,14 +1,13 @@
 ---
-_db_id: 526
+_db_id: 530
 content_type: topic
 prerequisites:
-  hard:
-  - topics/solo-learn/python/module-3-functions-and-modules
+  hard: []
   soft: []
 ready: true
 tags:
 - python
-title: Solo Learn - Python - Module 4 - Exceptions and Files
+title: Solo Learn - Python - Module 2 - Control Statements
 topic_needs_review: false
 ---
 

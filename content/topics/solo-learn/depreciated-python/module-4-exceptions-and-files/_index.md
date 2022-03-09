@@ -1,14 +1,13 @@
 ---
-_db_id: 530
+_db_id: 526
 content_type: topic
 prerequisites:
-  hard:
-  - topics/solo-learn/python/module-1-basic-concepts
+  hard: []
   soft: []
 ready: true
 tags:
 - python
-title: Solo Learn - Python - Module 2 - Control Statements
+title: Solo Learn - Python - Module 4 - Exceptions and Files
 topic_needs_review: false
 ---
 

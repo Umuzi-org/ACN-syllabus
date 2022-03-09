@@ -3,6 +3,7 @@ _db_id: 58
 title: Data Engineering - part 2 (Old Mutual)
 ---
 
+- {{% contentlink path="topics/solo-learn/python/10-pythonicness-and-packaging" %}}
 - {{% contentlink path="projects/data-science-specific/data-wrangling" flavour="python" %}}
 - {{% contentlink path="topics/data-ethics-and-privacy" %}}
 - {{% contentlink path="projects/tdd/password-checker/part2" flavour="python" %}}

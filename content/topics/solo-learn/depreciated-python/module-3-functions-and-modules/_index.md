@@ -4,8 +4,7 @@ content_type: project
 flavours:
 - none
 prerequisites:
-  hard:
-  - topics/solo-learn/python/module-2-control-statements
+  hard: []
   soft: []
 ready: true
 submission_type: link

@@ -17,9 +17,10 @@ title: Data eng bridging course
 
 ## Quick wins
 
-- {{% contentlink path="topics/solo-learn/python/module-1-basic-concepts" %}}
-- {{% contentlink path="topics/solo-learn/python/module-2-control-statements" %}}
-- {{% contentlink path="topics/solo-learn/python/module-3-functions-and-modules" %}}
+- {{% contentlink path="topics/solo-learn/python/1-basic-concepts" %}}
+- {{% contentlink path="topics/solo-learn/python/2-strings-and-variables" %}}
+- {{% contentlink path="topics/solo-learn/python/3-control-structures" %}}
+- {{% contentlink path="topics/solo-learn/python/4-functions-and-modules" %}}
 
 ## Git and environment
 
@@ -30,6 +31,7 @@ title: Data eng bridging course
 - {{% contentlink path="environment-setup" %}}
 ## The real work
 
+- {{% contentlink path="topics/solo-learn/python/6-more-types" %}}
 - {{% contentlink path="soft-skills/learning-how-to-learn" %}}
 - {{% contentlink path="soft-skills/how-to-master-fundamentals" %}}
 - {{% contentlink path="topics/clean-code/python" %}}
@@ -39,5 +41,6 @@ title: Data eng bridging course
 - {{% contentlink path="specific-skill-success-criteria/introduction-to-assessments" %}}
 - {{% contentlink path="specific-skill-success-criteria/functions-and-return" flavour="python" %}}
 - {{% contentlink path="specific-skill-success-criteria/for-loops" flavour="python" %}}
+- {{% contentlink path="topics/solo-learn/python/8-oop" %}}
 - {{% contentlink path="projects/oop/animals/part1"  flavour="python" %}}
 - {{% contentlink path="specific-skill-success-criteria/classes-and-objects" flavour="python" %}}
