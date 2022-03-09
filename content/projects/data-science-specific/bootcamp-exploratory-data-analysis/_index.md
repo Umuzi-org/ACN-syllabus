@@ -35,7 +35,7 @@ The [data set](data.csv) consists of health and demographic data for the period 
 
 2. Are there any other problems with the data? If so, fix them.
 
-3. Identify the country with the lowest % of population Under 15 and the one with the highest.
+3. Identify the country with the lowest % of population under 15 and the one with the highest.
 
 4. Which region has the highest % of population over 60?
 
@@ -49,4 +49,4 @@ The [data set](data.csv) consists of health and demographic data for the period 
 
 9. How is life expectancy related to wealth across different regions? How is wealth related to fertility across different regions? Do these relationships hold for African countries?
 
-10. Create appropriate graphs to visually represent the relationship between literacy and life expectancy by Region, and then for African countries. What can be concluded from the graphs? How confident can we be in the relationships represented here?
+10. Create appropriate graphs to visually represent the relationship between literacy and life expectancy by region, and then for African countries. What can be concluded from the graphs? How confident can we be in the relationships represented here?
