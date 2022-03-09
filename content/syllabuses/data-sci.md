@@ -12,7 +12,7 @@ _db_id: 2
 - {{% contentlink path="topics/code-reviews/part-1-reviewers" %}}
 - {{% contentlink path="topics/how-to-ask-for-help-with-your-code" %}}
 - {{% contentlink path="topics/code-reviews/part-2-author" %}}
-- {{% contentlink path="topics/solo-learn/python/module-5-more-types" %}}
+- {{% contentlink path="topics/solo-learn/python/6-more-types" %}}
 - {{% contentlink path="projects/katas/level-2" flavour="python" %}}
 - {{% contentlink path="specific-skill-success-criteria/introduction-to-assessments" %}}
 - {{% contentlink path="specific-skill-success-criteria/functions-and-return" flavour="python" %}}
@@ -32,11 +32,13 @@ _db_id: 2
 - {{% contentlink path="projects/data-science-specific/cross-validation-and-simple-linear-regression/" flavour="python" %}}
 - {{% contentlink path="topics/intro-to-data-ethics" %}}
 - {{% contentlink path="topics/data-ethics-and-privacy" %}}
+- {{% contentlink path="topics/solo-learn/python/9-regular-expressions" %}}
 - {{% contentlink path="projects/tdd/string-calculator" flavour="python" %}}
 - {{% contentlink path="projects/data-science-specific/multivariate-linear-regression" flavour="python" %}}
 - {{% contentlink path="projects/oop/animals/part1"  flavour="python" %}}
 - {{% contentlink path="specific-skill-success-criteria/classes-and-objects" flavour="python" %}}
 - {{% contentlink path="projects/data-science-specific/oop-for-data-science" flavour="python" %}}
+- {{% contentlink path="topics/solo-learn/python/10-pythonicness-and-packaging" %}}
 - {{% contentlink path="projects/github-api-consume" flavour="python" %}}
 - {{% contentlink path="projects/data-science-specific/dashboards/plotly_dashboards" flavour="python" %}}
 - {{% contentlink path="sql/shop-project/" %}}
