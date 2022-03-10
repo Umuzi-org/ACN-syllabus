@@ -17,9 +17,11 @@ title: Data science bridging course
 
 ## Quick wins
 
-- {{% contentlink path="topics/solo-learn/python/module-1-basic-concepts" %}}
-- {{% contentlink path="topics/solo-learn/python/module-2-control-statements" %}}
-- {{% contentlink path="topics/solo-learn/python/module-3-functions-and-modules" %}}
+- {{% contentlink path="topics/solo-learn/python/1-basic-concepts" %}}
+- {{% contentlink path="topics/solo-learn/python/2-strings-and-variables" %}}
+- {{% contentlink path="topics/solo-learn/python/3-control-structures" %}}
+- {{% contentlink path="topics/solo-learn/python/4-functions-and-modules" %}}
+
 ## Git and environment
 
 - {{% contentlink path="environment-setup/git" %}}
