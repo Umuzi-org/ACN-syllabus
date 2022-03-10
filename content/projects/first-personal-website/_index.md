@@ -44,6 +44,7 @@ Please submit a link to your website. DO NOT submit a link to your github repo. 
 
 To learn more about Github Pages visit this link https://guides.github.com/features/pages/
 
+
 ### Requirements:
 
 - Website can be a single page or have multiple pages (the structure is up to you), but it must contain the following information:
@@ -58,13 +59,20 @@ To learn more about Github Pages visit this link https://guides.github.com/featu
 - Feel free to use icons, colours, pictures or organograms if you need to
 - Host your site as a Github Page. In your README file include a link to your github page for easy navigation
 
-## Some advice
+## Some advice for Web devs
 
 - Start small and simple. Get the basic structure in first. Don't sit and obsess over choosing the right shade of green, or the perfect font.
 - Also, we'll be looking out for good developer habits. Please make sure you push your code often and your git commit messages actually make sense!
 - Try to avoid fancy flowery language, it's actually more impressive when people get straight to the point. Communicate clearly and efficiently.
 - Demonstrate attention to detail. Make sure your stuff is tidy. Use whitespace as needed. Make sure your pictures are not squashed or stretched.
 - This is not a creative writing exercise. Please tell the truth about your abilities and experience. If you did not do a job then do not list it. This should be obvious but... some people's children
+
+## Data Science and Engineering
+
+- Your portfolio can be a simple single page portfolio that contains the above mentioned requirements.
+- Make sure that only the necessary information is presented.
+- Make sure your stuff is tidy. Use whitespace as needed. Make sure your pictures are not squashed or stretched.
+- This is not a creative writing exercise. Please tell the truth about your abilities and experience. If you did not do a job then do not list it.
 
 ### Links
 
