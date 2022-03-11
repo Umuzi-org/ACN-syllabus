@@ -16,7 +16,7 @@ You should name your files and directories the same way you name Python variable
 
 It is important to note that the use of dashes in directory-naming takes preference as opposed to the use of underscores and be sure to keep in mind that all Python files have a .py extension. See below the recommended Python file and directory naming style. 
 
-#### NO:
+### NO:
 ```
 TASK/
     1task.py
@@ -31,7 +31,7 @@ snakecase/
     keepItShortAndmeaningful.py
 ```
 
-#### Yes:
+### Yes:
 
 ```
 task/
