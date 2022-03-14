@@ -28,4 +28,6 @@ In this topic, you will learn how to connect to a PostgreSQL database using node
 
 [Getting started with Node & SQL using Pool](https://node-postgres.com/api/pool)
 
+### Tutorial
+
 [Getting started with Node & SQL tutorial using Pool](https://www.digitalocean.com/community/tutorials/how-to-use-postgresql-with-node-js-on-ubuntu-20-04)
