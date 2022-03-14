@@ -17,5 +17,5 @@ has a different style, internal consistency should take precedence.
 
 ## Language specific naming conventions 
 
-##### Python : {{% contentlink path="topics/file-and-directory-naming/python"  flavour="python" %}}
+- Python : {{% contentlink path="topics/file-and-directory-naming/python" %}}
 
