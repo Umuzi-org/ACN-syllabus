@@ -52,14 +52,23 @@ To learn more about Github Pages visit this link https://guides.github.com/featu
   - Skills (Your tech stack: the languages and tools you use)
   - Projects/Portfolio (for now this might be a bit empty, but if you've worked on anything cool then tell us about it)
   - Contact (social media, email, phone, etc)
+- Host your site as a Github Page. In your README file include a link to your github page for easy navigation
+
+## Web Devs
 - Website must be responsive to different screen sizes - use a mobile-first approach!
   - Use CSS Grid (see tutorials below) to design your site and make it responsive
 - Website must be developed using HTML and CSS Grid with a logical structure and naming conventions in your code
 - You can also add some Javascript to make things more interactive
-- Feel free to use icons, colours, pictures or organograms if you need to
-- Host your site as a Github Page. In your README file include a link to your github page for easy navigation
+- Feel free to use icons, colours, pictures or organograms if you need to.
+- Make sure that your html passes through a [linter](https://validator.w3.org/). It is important to reduce errors and improve the overall quality of your code.
 
-## Some advice for Web devs
+## Data Science and Engineering
+
+- Your portfolio can be a simple single page portfolio that contains the above mentioned requirements.
+- Make sure that only the necessary information is presented.
+- Make sure your stuff is tidy. Use whitespace as needed. Make sure your pictures are not squashed or stretched.
+
+## Some advice
 
 - Start small and simple. Get the basic structure in first. Don't sit and obsess over choosing the right shade of green, or the perfect font.
 - Also, we'll be looking out for good developer habits. Please make sure you push your code often and your git commit messages actually make sense!
@@ -67,12 +76,6 @@ To learn more about Github Pages visit this link https://guides.github.com/featu
 - Demonstrate attention to detail. Make sure your stuff is tidy. Use whitespace as needed. Make sure your pictures are not squashed or stretched.
 - This is not a creative writing exercise. Please tell the truth about your abilities and experience. If you did not do a job then do not list it. This should be obvious but... some people's children
 
-## Data Science and Engineering
-
-- Your portfolio can be a simple single page portfolio that contains the above mentioned requirements.
-- Make sure that only the necessary information is presented.
-- Make sure your stuff is tidy. Use whitespace as needed. Make sure your pictures are not squashed or stretched.
-- This is not a creative writing exercise. Please tell the truth about your abilities and experience. If you did not do a job then do not list it.
 
 ### Links
 
