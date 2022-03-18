@@ -51,7 +51,7 @@ Please be sure to follow the standard naming conventions for your language.
 Make sure the output matches the following example structure:
 ```
 # input
-get_pull_requests("Umuzi-org", "ACN-syllabus", "22-03-01", "22-03-10")
+get_pull_requests("Umuzi-org", "ACN-syllabus", "2022-03-01", "2022-03-10")
 
 # output
 [
