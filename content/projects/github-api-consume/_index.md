@@ -39,8 +39,8 @@ Now, in your language of choice (not bash, use Java, Python or Js) write a funct
 
 - owner
 - repository name
-- start date
-- end date
+- start date (yyyy-mm-dd)
+- end date (yyyy-mm-dd)
 
 The function should output a list or array of pull requests on the repo such that the PRs were created, updated, merged or closed between the given two dates.
 For each PR include the `id`, `user` (who opened the PR), `title`, `state`, and when it was created.
