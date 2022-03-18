@@ -35,7 +35,7 @@ First, get familiar with consuming apis from the command line. Play with this. [
 
 Remember, `curl` is your friend. And so is `man`. (try typing in `man curl` at the command line)
 
-Now, in your language of choice (not bash, use Java, Python or Js) write a function with the input arguments:
+Now, in your language of choice (not bash, use Java, Python or Js) write a function (get_pull_requests) with the input arguments:
 - owner
 - repository name
 - start date
@@ -46,6 +46,21 @@ For each PR include the `id`, `user` (who opened the PR), `title`, `state`, and 
 While for private repos a token will be required, the function should be able to work on public repos (eg. [ACN-syllabus](https://github.com/Umuzi-org/ACN-syllabus)) without needing a token.
 
 Please be sure to follow the standard naming conventions for your language.
+
+Make sure the output matches the following example structure:
+```
+# input
+get_pull_requests("Umuzi-org", "ACN-syllabus", "22-03-01", "22-03-10")
+
+# output
+[
+  {"id":"874927260", "user":"ry-oc", "title":"update sololearn python and all contentlinks etc", "state":"closed"},
+  {"id":"872484561", "user":"Kate-bit-dev", "title":"Update _index.md", "state":"closed"},
+  {"id":"872481470", "user":"Kate-bit-dev", "title":"Update _index.md", "state":"closed"},
+  {"id":"872480774", "user":"Kate-bit-dev", "title":"Update _index.md", "state":"closed"},
+  {"id":"872480210", "user":"Kate-bit-dev", "title":"Update _index.md", "state":"closed"}
+]
+```
 
 ## Resources
 
