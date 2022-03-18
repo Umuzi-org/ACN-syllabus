@@ -55,11 +55,14 @@ get_pull_requests("Umuzi-org", "ACN-syllabus", "2022-03-01", "2022-03-10")
 
 # output
 [
-  {"id":"874927260", "user":"ry-oc", "title":"update sololearn python and all contentlinks etc", "state":"closed"},
-  {"id":"872484561", "user":"Kate-bit-dev", "title":"Update _index.md", "state":"closed"},
-  {"id":"872481470", "user":"Kate-bit-dev", "title":"Update _index.md", "state":"closed"},
-  {"id":"872480774", "user":"Kate-bit-dev", "title":"Update _index.md", "state":"closed"},
-  {"id":"872480210", "user":"Kate-bit-dev", "title":"Update _index.md", "state":"closed"}
+  {"id":876359209, "user":"FaithMo", "title":"added data sci and eng info", "state":"open", "created_at":"2022-03-10"},
+  {"id":"874927260", "user":"ry-oc", "title":"update sololearn python and all contentlinks etc", "state":"closed", "created_at": "2022-03-09"},
+  {"id":872630389, "user":"Andy-Nkumane", "title":"added clarity on python error raising", "state":"open", "created_at":"2022-03-07"},
+  {"id":"872484561", "user":"Kate-bit-dev", "title":"Update _index.md", "state":"closed", "created_at":"2022-03-06"},
+  {"id":"872482562", "user":"Kate-bit-dev", "title":"Update _index.md", "state":"open", "created_at":"2022-03-06"},
+  {"id":"872481470", "user":"Kate-bit-dev", "title":"Update _index.md", "state":"closed", "created_at":"2022-03-06"},
+  {"id":"872480774", "user":"Kate-bit-dev", "title":"Update _index.md", "state":"closed", "created_at":"2022-03-06"},
+  {"id":"872480210", "user":"Kate-bit-dev", "title":"Update _index.md", "state":"closed", "created_at":"2022-03-06"}
 ]
 ```
 
