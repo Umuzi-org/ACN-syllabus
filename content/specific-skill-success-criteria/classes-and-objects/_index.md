@@ -94,8 +94,8 @@ Learner should know how to instantiate a class object
 
 ```
   Rectangle rectangle1 = new Rectangle();
-  Rectangle rectangle2= new Rectangle(10.0, 6.0);
-  Rectangle rectangle2= new Rectangle(6.0, 7.0);
+  Rectangle rectangle2 = new Rectangle(10.0, 6.0);
+  Rectangle rectangle2 = new Rectangle(6.0, 7.0);
 
 ```
 Learner must know that to inherit from a class, the keyword extends is used. 
