@@ -6,9 +6,7 @@ title: File and directory naming
 
 ## Naming files and directories
 
-Naming conventions are rules which enable the titling of electronic and physical folders, documents and records in a consistent and logical way.
-This ensures that the correct records can be located, identified and retrieved from a filing system in a timely fashion, and that they are stored 
-in an appropriate secure location. 
+You can organize your documents and files in a logical and consistent manner by using naming conventions. The use of naming conventions helps to ensure the correct information can be located, identified, and retrieved from a file system quickly, as well as that it is stored in a secure location.
 
 ## What should I consider when naming files and directories
 
