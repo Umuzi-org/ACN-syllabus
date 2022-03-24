@@ -66,6 +66,8 @@ Learner should know how to override a function using super and without using sup
 
 ## Java
 
+### Constructors
+
 Learner should know that the constructor name must be same as its class name 
 
 ```
@@ -88,16 +90,20 @@ class Rectangle{
     // parameterized constructor
     Rectangle(double length, double width)
     ....
-
 ```
+
+### Instantiation
+
 Learner should know how to instantiate a class object
 
 ```
   Rectangle rectangle1 = new Rectangle();
   Rectangle rectangle2 = new Rectangle(10.0, 6.0);
   Rectangle rectangle2 = new Rectangle(6.0, 7.0);
-
 ```
+
+### Inheritance
+
 Learner must know that to inherit from a class, the keyword extends is used. 
 
 ```
@@ -113,5 +119,7 @@ class Cuboid extends Rectangle {
   ....
 }
 ```
+
+### Overriding
 
 Learner should know that constructors and methods declared with final or static cannot be overridden. If a method cannot be inherited, it cannot be overridden
