@@ -122,4 +122,4 @@ class Cuboid extends Rectangle {
 
 ### Overriding
 
-Learner should know that constructors and methods declared with final or static cannot be overridden. If a method cannot be inherited, it cannot be overridden
+Learner should know that constructors and methods declared with final or static cannot be overridden. If a method cannot be inherited, it cannot be overridden.
