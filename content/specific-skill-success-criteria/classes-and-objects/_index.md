@@ -65,6 +65,8 @@ Learner should know how to override a function using super and without using sup
 
 ## Javascript
 
+### Constructors
+
 Learner should know how constructors work
 
 ```
@@ -75,6 +77,8 @@ class Rectangle {
   }
 }
 ```
+### Instantiation
+
 Learner should know how to instantiate many objects from the same class and interact with them
 
 ```
@@ -87,6 +91,8 @@ console.log(smallRectangle1.length) //2
 console.log(mediumRectangle.width) //12
 
 ```
+### Private members
+
 Learner should know how to modify and access private members of a class
 
 ```
@@ -109,6 +115,8 @@ class Car {
 }
 
 ```
+### Inheritance and overriding
+
 Learner should understand inheritance and overriding and extending methods
 ```
 class Rectangle {
