@@ -1,12 +1,12 @@
 ---
 _db_id: 711
 content_type: project
-ready: true
-tags:
-- technical-assessment
 flavours:
 - any_language
+ready: true
 submission_type: link
+tags:
+- technical-assessment
 title: 'Assessment: Classes and objects'
 ---
 
@@ -14,71 +14,118 @@ title: 'Assessment: Classes and objects'
 
 On Tilde you'll notice that this card is asking for a link submission. **Please don't worry about submitting a link**. You will be assessed according to {{% contentlink path="specific-skill-success-criteria/introduction-to-assessments" %}}
 
+## Python
 
+### Constructors
 
-All learners need to understand all of the following concepts:
-
-## JS learners should know how constructors work
-
-```
-class Car {
-  constructor(registrationId, color, brand){
-    this._registrationId = registrationId
-    this.color = color
-    this.brand = brand
-  }
-}
-```
-## JS learners should know how to instantiate many objects from the same class and interact with them
+The constructor is a method that is called when an object is created. This method is defined in the class and can be used to initialize basic variables. In Python the `__init__()` method is called in place of the constructor - to instantiate (initialise) the object.
 
 ```
-let car1 = new Car(1, "red", "honda")
-let car2 = new Car(2, "blue", "honda")
-let car3 = new Car(3, "white", "ford")
-
-car2.color = "black"
-console.log(car2.color) //the color of this car is no longer blue
-```
-## JS learners should know how to modify and access private members of a class
-
-```
-class Car {
+class Rectangle:
+  def __init__(self, length, width):
     ...
+```
 
-    editRegistration(id){ //setter
-        this._registrationId = id
-    }
-    getRegistrationId(){ //getter
-        return this._registrationId
-    }
-}
+> Learner should know how to create an initialiser that takes in arguments and create instance variables.
 
-let car1 = new Car(1, "red", "honda")
-console.log(car1.registrationId) // would this print 1?
 
-car1.editRegistration(5)
-console.log(car1.getRegistrationId())
+### Instantiation
+
+Learner should be able to instantiate the object.
 
 ```
-## JS learners should understand inheritance and overriding and extending methods
+rectangle = Rectangle(2,4)
+```
+
+Learner should also understand how multiple instances of an object work.
+
+```
+small_rectangle1 = Rectangle(2, 4)
+small_rectangle2 = Rectangle(2, 4)
+medium_rectangle = Rectangle(4, 12)
+```
+
+### Inheritance
+
+Learner should know what is inheritance and what it means when a class inherits another class. Both single and multiple inheritance should be understood, and the use of `super()` in both cases.
+
+```
+class Square(Rectangle):
+  pass
+
+class Cuboid(Rectangle):
+  def __init__(self, length, width, height):
+      super().__init__(length, width)
+      self.height = height
+```
+
+### Overriding
+
+Learner should know how to override a function using super and without using super.
+
+## Javascript
+
+Learner should know how constructors work
+
+```
+class Rectangle {
+  constructor(length, width){
+    this.length = length
+    this.width = width
+  }
+}
+```
+Learner should know how to instantiate many objects from the same class and interact with them
+
+```
+let smallRectangle1 = new Rectangle(2, 4)
+let smallRectangle2 = new Rectangle(2, 4)
+let mediumRectangle = new Rectangle(4, 12)
+
+
+console.log(smallRectangle1.length) //2
+console.log(mediumRectangle.width) //12
+
+```
+Learner should know how to modify and access private members of a class
+
 ```
 class Car {
-  ...
 
-  details(){
-    console.log(`Color: ${this.color}, Brand: ${this.brand}`)
-  }
+    _length
+
+    constructor(length, width){
+      this._length = length
+      ...
+    }
+
+    setLength(newLength){ //setter
+        this._length = newLength
+    }
+
+    getLength(){ //getter
+        return this._length
+    }
 }
 
-class Model extends Car {
-  constructor(model){
-    super()
-    this.model = model
-  }
-  details(){
-    console.log(`Model: ${this.model}`)
-  }
-}
-
-let carModel = new Model("Toyota", "Corolla")
 ```
+Learner should understand inheritance and overriding and extending methods
+```
+class Rectangle {
+  ...
+  details(){
+    console.log(`length: ${this.length}, width: ${this.width}`)
+  }
+}
+
+class Cuboid extends Rectangle {
+  constructor(length, width){
+    super();
+  };
+  details(){
+    return `length: ${this.length}, width: ${this.width}`;
+  };
+};
+
+```
+
