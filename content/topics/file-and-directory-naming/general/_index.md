@@ -6,7 +6,7 @@ title: File and directory naming
 
 ## Naming files and directories
 
-You can organize your documents and files in a logical and consistent manner by using naming conventions. The use of naming conventions helps to ensure the correct information can be located, identified, and retrieved from a file system quickly, as well as that it is stored in a secure location.
+You can organize your files and directories in a logical and consistent manner by using naming conventions. The use of naming conventions helps to ensure the correct information can be located, identified, and retrieved from a file system quickly, as well as that it is stored in a secure location.
 
 ## What should I consider when naming files and directories
 
