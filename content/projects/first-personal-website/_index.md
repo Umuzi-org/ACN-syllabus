@@ -39,7 +39,7 @@ Please submit a link to your website. DO NOT submit a link to your github repo. 
 To learn more about Github Pages visit this link https://guides.github.com/features/pages/
 
 ## Javascript instructions
-- http://syllabus.africacode.net/projects/first-personal-website/website-javascript/
+- [Personal website for javascript](http://syllabus.africacode.net/projects/first-personal-website/website-javascript/)
 
 ## Python and Java instructions
-- http://syllabus.africacode.net/projects/first-personal-website/website-python-and-java/
+- [Personal website for java and python](http://syllabus.africacode.net/projects/first-personal-website/website-python-and-java/)
