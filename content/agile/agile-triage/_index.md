@@ -11,7 +11,7 @@ To start off with, here is a summary of how you should use your board to choose 
 
 ## Steps to Success
 
-1. Look at your "Review" column. Are there any cards in there that need a review from you? If yes, your first task is to review those cards. Try to start with cards that havent had feedback yet. And try get the easy stuff done first.
+1. Look at your "Review" column. Are there any cards in there that need a review from you? If yes, your first task is to review those cards. Try to start with cards that haven't had feedback yet and get the easy stuff done first.
 2. Look at Github. Does anyone need a review on a Pull Request? Do all the reviews anyone has asked you for.
 3. Look at your "Review Feedback" column. Do you have any cards there that need to be fixed up? If yes, start from the top.
 4. If you have any PRs and people have given you feedback, your next step is to address that feedback. When addressing your own feedback always try to work on the simplest project first.
@@ -28,9 +28,9 @@ First let's talk about the most obvious one. You are here to become a profession
 
 <iframe src="https://giphy.com/embed/cjuEzuATSjW6BfwV2L" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/RobertEBlackmon-reactions-duh-obviously-cjuEzuATSjW6BfwV2L">via GIPHY</a></p>
 
-It's actually a huge part of the job. Most of you will end up working on a team of developers and if the team can't communicate about the team's code then the team should probably all go work at MacDonalds or something and communicate about burger flipping instead. Yeah, it's that serious.
+It's actually a huge part of the job. Most of you will end up working on a team of developers and if the team can't communicate about the team's code then the team should probably all go work at MacDonald's or something and communicate about burger flipping instead. Yeah, it's that serious.
 
-The second reason is a bit more subtle. And pretty cool in my opinion. It's basically the secret sauce to high functioning teams. Ok ok... one of the secret sauces, there are a few. And if you take these philosophies and apply them anywhere in your life things will just go better for you.
+The second reason is a bit more subtle and pretty cool in my opinion. It's basically the secret sauce to high functioning teams. Ok ok... one of the secret sauces, there are a few. And if you take these philosophies and apply them anywhere in your life, things will just go better for you.
 
 Alright, are you ready? A little curious?
 
@@ -69,7 +69,7 @@ Once there are enough positive reviews on a Project Card then a staff member wil
 If you give a project a positive review ("competent" or "excellent"), and then a staff member gives it a negative review ("red flag" or "not yet competent") then this means one of two things:
 
 - maybe you don't know what competent looks like, maybe you don't have the skills. Or
-- maybe you are not a team player and don't care about giving good feedback to your peers
+- maybe you are not a team player and don't care about giving good feedback to your peers.
 
 You will be measured on this stuff! So do a good job!
 
@@ -94,7 +94,7 @@ In order to get your code into your master branch you need to get your PR approv
 
 This means that your **second highest** priority is giving people feedback on their PRs so that stuff can get merged. You will prioritise your peers, and your peers will prioritise you.
 
-Of course by prioritising **FEEDBACK FIRST** we help things get closed as fast as possible, but it also helps you to learn as fast as possible! If you make a mistake or get something right then it's good to know where you stand.
+Of course by prioritising **FEEDBACK FIRST** we help things get closed as fast as possible, but it also helps you learn as fast as possible! If you make a mistake or get something right then it's good to know where you stand.
 
 By always setting up your peers for success, you will be set up for success.
 
@@ -104,25 +104,25 @@ Code review is a tricky thing. Please remember that people have feelings. The fi
 
 **Don't be an A55h0L3!**
 
-Seriously. Be kind to each other. You are all here to grow. And you'll grow by helping each other. Code review can be frustrating and emotionally difficlt for a lot of people. If you ever start feeling annoyed try to be curious instead. It's a weird hack but it works for some people.
+Seriously. Be kind to each other. You are all here to grow. And you'll grow by helping each other. Code review can be frustrating and emotionally difficult for a lot of people. If you ever start feeling annoyed try to be curious instead. It's a weird hack but it works for some people.
 
 The second rule is:
 
 **Minimise back and forth**
 
-Do this by reviewing as much of the code as you can. Don't just stop at the first problem, talk about all the problems you see. That way when they ask for another review it will closer to Complete.
+Do this by reviewing as much of the code as you can. Don't just stop at the first problem, talk about all the problems you see. That way when they ask for another review it will be closer to Complete.
 
 The third rule of a good review is:
 
-**Help them to understand!**
+**Help them understand!**
 
-You wont be doing anyone any favors by doing their homework for them. Sometimes cheating the system seems like the easy way out but in the long run it's pretty dumb. Here are some consequences to taking part in cheating:
+You won't be doing anyone any favors by doing their homework for them. Sometimes cheating the system seems like the easy way out but in the long run it's pretty dumb. Here are some consequences to taking part in cheating:
 
-- Your buddy will just struggle more on their next project
-- Your buddy might just get fired from their very first job
-- Cheating on your work is also of course a serious offence and if anyone gets caught then there are consequences. And it sucks for everyone. So just dont.
+- Your buddy will just struggle more on their next project.
+- Your buddy might just get fired from their very first job.
+- Cheating on your work is also of course a serious offence and if anyone gets caught then there are consequences. And it sucks for everyone. So, just don't.
 
-If there is someone who is struggling and you feel like they need a staff member to come help them, please reach out. The whole point of this organisation is to help people grow! And that means everytone should understand what they are doing.
+If there is someone who is struggling and you feel like they need a staff member to come help them, please reach out. The whole point of this organisation is to help people grow! And that means everyone should understand what they are doing.
 
 ## Enough squishy stuff! What else can you tell me?
 
@@ -132,6 +132,6 @@ That's it really.
 
 ## Extra reading
 
-Our methods are based heavily on Kanban and (weirly enough) lean manufacturing methods. Check this out, it might chnge how you think: [Waste in software development](https://www.solutionsiq.com/resource/blog-post/waste-in-software-development/)
+Our methods are based heavily on Kanban and (weirdly enough) lean manufacturing methods. Check this out, it might change how you think: [Waste in software development](https://www.solutionsiq.com/resource/blog-post/waste-in-software-development/)
 
-Then if you want to know about how git really supports teamwork then you can learn about the [git feature branching](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow) (you'll learn about this later) stratergy.
+Then if you want to know about how git really supports teamwork then you can learn about the [git feature branching](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow) (you'll learn about this later) strategy.
