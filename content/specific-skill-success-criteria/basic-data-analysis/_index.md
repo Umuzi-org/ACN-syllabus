@@ -16,28 +16,28 @@ On Tilde you'll notice that this card is asking for a link submission. **Please 
 
 ## All concepts
 
-For each of the concepts covered below, the learner should know how to do the calculations by hand. If the learner only knows how to do this work using data science tooling (eg pandas) then they wont be in a good position to apply the tools correctly or reason about their output.
+For each of the concepts covered below, the learner should know how to do the calculations by hand. If the learner only knows how to do this work using data science tooling (e.g. pandas) then they won't be in a good position to apply the tools correctly or reason about their output.
 
 ## Mean (Average value):
 
 Given a list of numbers, the learner should be able to calculate the mean:
 
-eg the average of `[87, 94, 78, 77, 85, 86]` is 84.5.
+e.g. the average of `[87, 94, 78, 77, 85, 86]` is 84.5.
 
 ## Median
 
 Given a list of numbers the learner should be able to calculate the median. Make sure to check that they know how to handle:
 
-- lists with an even number of elements. Eg: `[87, 94, 78, 77, 85, 86]`
-- lists with an odd number of elements. Eg: `[87, 94, 77, 85, 86]`
-- lists that aren't sorted. Eg: `[30,2,12,1,8]`
+- lists with an even number of elements. E.g. : `[87, 94, 78, 77, 85, 86]`
+- lists with an odd number of elements. E.g. : `[87, 94, 77, 85, 86]`
+- lists that aren't sorted. E.g. : `[30,2,12,1,8]`
 
 ## Mode
 
 Given a list of numbers, the learner should be able to calculate the mode.
 
-eg1: `[2,3,4,2]`
-eg2: `[2,3,4,2,3]`
+e.g. 1: `[2,3,4,2]`
+e.g. 2: `[2,3,4,2,3]`
 
 ## Interquartile range `IQR`
 
@@ -45,14 +45,14 @@ Given a list of numbers, the learner must be able to calculate the 1st, 2nd and 
 
 Make sure to check that they know how to handle:
 
-- lists with an even number of elements. Eg: `[87, 94, 78, 77, 85, 86]`
-- lists with an odd number of elements. Eg: `[87, 94, 77, 85, 86]`
-- lists that aren't sorted. Eg: `[30,2,12,1,8]`
+- lists with an even number of elements. E.g. : `[87, 94, 78, 77, 85, 86]`
+- lists with an odd number of elements. E.g. : `[87, 94, 77, 85, 86]`
+- lists that aren't sorted. E.g. : `[30,2,12,1,8]`
 
 ## Variance and Standard deviation
 
 - The learner should be able to calculate the variance and standard deviation of a list of numbers
-- If you show the learner a plot of some data and ask them if standard deviation is meaningful they should be able to tell you. Eg: Is it worth calculating the standard deviation of an exponential distribution?
+- If you show the learner a plot of some data and ask them if standard deviation is meaningful they should be able to tell you. E.g. ,: Is it worth calculating the standard deviation of an exponential distribution?
 - If you have a normal distribution where the curve is flat, and another one where the curve is pointy, then which one has the higher standard deviation?
 
 ## Correlation coefficient `R`
@@ -71,7 +71,7 @@ The learner should be able to do simple calculations of probabilities. They shou
 Here are a few sample questions: what is the probability of...
 - throwing a 2 on a 6 sided die?
 - throwing an even number on a 6 sided die?
-- rolling 2 6 sided dice and getting a total value of 5? (eg one die lands on a 2 and the other on a 3)
+- rolling 2, 6 sided dice and getting a total value of 5? (e.g. one die lands on a 2 and the other on a 3)
 - rolling 3 sixes in a row if you roll a six sided dice 3 times
 - rolling 3 sixes in a row if you roll a six sided dice 5 times
 
@@ -83,4 +83,4 @@ The learner should know:
 
 The learner should be able to do calculations about p values based on known probabilities.
 
-Eg: if you roll a six sided dice 5 times and get 3 sixes in a row then is the die likely to be fair?
+E.g. : if you roll a six sided die 5 times and get 3 sixes in a row then is the die likely to be fair?
