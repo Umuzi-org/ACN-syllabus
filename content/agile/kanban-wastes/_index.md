@@ -12,18 +12,18 @@ title: Kanban wastes
 You can think of kanban as a way to prioritize work. Kanban is a methodology used in professional dev teams and even manufacturing. 
 
 We use Kanban techniques because:
-- it's common in industry, so it's important that junior coders really get it
-- it works really well, we use kanban to keep people moving in the right direction and making sure everyone has the support that they need
+- it's common in the industry, so it's important that junior coders really get it.
+- it works really well, we use Kanban to keep people moving in the right direction and making sure everyone has the support that they need.
 
 ## A good day
 
 When we are getting things right, then the following should all be true:
 
-1. students should be working on their highest priority task at all times
-2. students should be working at a sustainable rate, they shouldn't burn themselves out or go too slow
-3. students should learn the good habits that make work on a professional dev team successful
-4. if there are any problems then those problems need to be surfaced and dealt with quickly. The longer a problem waits to be addressed, the more costly it is to fix
-5. Everyone gets their work done in a way that grows their understanding and skills
+1. Students should be working on their highest priority task at all times.
+2. Students should be working at a sustainable rate, they shouldn't burn themselves out or go too slow.
+3. Students should learn the good habits that make working on a professional dev team successful.
+4. If there are any problems then those problems need to be surfaced and dealt with quickly. The longer a problem waits to be addressed, the more costly it is to fix.
+5. Everyone gets their work done in a way that grows their understanding and skills.
 
 ## Sources of waste
 
@@ -33,11 +33,11 @@ What is waste? There are a few different kinds:
 
 ### Partially done work
 
-This is somewhere where resources have been sunk, but no value has yet been created.
+This is where resources have been sunk, but no value has yet been created.
 
-Eg: imagine you owned a car factory. You cant sell half a car. You can only sell a car that is complete. Same with software. Half a feature is useless. Completing work adds value.
+E.g. : Imagine you owned a car factory. You can't sell half a car, you can only sell a car that is complete. Same with software, half a feature is useless. Completing work adds value.
 
-Therefore: bias your actions towards finishing things. Junior coders often like to chase shiney new things and start new projects before finishing what they started. This is normal, it's also ineffective.
+Therefore: bias your actions towards finishing things. Junior coders often like to chase shiney new things and start new projects before finishing what they started. This is normal but it's also ineffective.
 
 What this means in terms of Tilde: The more important a card is, the closer it will be to the right of the board.
 
@@ -45,9 +45,9 @@ What this means in terms of Tilde: The more important a card is, the closer it w
 
 These are activities that don't add value and should be removed.
 
-- is there a process that should be removed?
-- is there a process that can be replaced with a form?
-- is there a process that can be made more efficient?
+- Is there a process that should be removed?
+- Is there a process that can be replaced with a form?
+- Is there a process that can be made more efficient?
 
 If you see something useless happening, please voice your concerns :)
 
@@ -61,13 +61,13 @@ Multi tasking doesn't actually work. For brain-workers, attention is golden. Foc
 
 What does this mean in terms of Tilde? If you are in the middle of a task, try not to get distracted. Focus on finishing what you are working on. Then look for the next high priority task.
 
-If you task switch every time something new comes along and invite your team mates to tap you on the shoulder every 5 minutes you wont get much focus in.
+If you task switch every time something new comes along and invite your team mates to tap you on the shoulder every 5 minutes you won't get much focus in.
 
 Have you heard of flow? It's the best place to be for a dev. It generally takes 20 minutes to get into flow. Getting out of flow is expensive.
 
 ### Waiting
 
-On course waiting is pointless. If someone is waiting for you, your highest priority task would be to unblock them.
+Of course waiting is pointless. If someone is waiting for you, your highest priority task would be to unblock them.
 
 This means the following things take precedence over writing new code:
 
@@ -76,12 +76,12 @@ This means the following things take precedence over writing new code:
 
 ### Motion
 
-If a card keeps bouncing back between review feedback and review then that's wasteful. For every bounce, there will be some wasteful waiting going on. There's also an emotional cost, it sucks to have to deal with the same task over and over.
+If a card keeps bouncing back between review feedback and review then that's wasteful. For every bounce, there will be some wasteful waiting going on. There's also an emotional cost, it sucks to have to deal with the same task over and over again.
 
 How this relates to Tilde:
 
-- when you review someone's work, try to give them all the info they will need to succeed
-- when you receive feedback on your work, make sure you address all the feedback
+- when you review someone's work, try to give them all the info they will need to succeed.
+- when you receive feedback on your work, make sure you address all the feedback.
 
 ### Defects
 
@@ -103,8 +103,8 @@ In this case, helping Tshepo by doing some pairing with him could be useful, may
 
 Generally, if there are too many things clogging up a column, it means something has gone wrong. When something goes wrong it's important to:
 
-- fix the situation
-- figure out what went wrong. Surface the root cause. Perhaps there is a process change that is needed
+- fix the situation.
+- figure out what went wrong and surface the root cause. Perhaps there is a process change that is needed.
 
 ## Resources
 
