@@ -52,7 +52,7 @@ Make sure to check that they know how to handle:
 ## Variance and Standard deviation
 
 - The learner should be able to calculate the variance and standard deviation of a list of numbers
-- If you show the learner a plot of some data and ask them if standard deviation is meaningful they should be able to tell you. E.g. ,: Is it worth calculating the standard deviation of an exponential distribution?
+- If you show the learner a plot of some data and ask them if standard deviation is meaningful they should be able to tell you. E.g. is it worth calculating the standard deviation of an exponential distribution?
 - If you have a normal distribution where the curve is flat, and another one where the curve is pointy, then which one has the higher standard deviation?
 
 ## Correlation coefficient `R`
