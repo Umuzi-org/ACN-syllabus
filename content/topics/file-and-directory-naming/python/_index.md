@@ -18,15 +18,15 @@ It is important to note that the use of dashes in directory-naming takes prefere
 
 ### NO:
 ```
-TASK/
+TASK
     1task.py
     task 1.py
     task1.1.py
         
-passwordChecker/
+passwordChecker
     add-logger.py
 
-snakecase/
+snakecase
     productionnotes.py
     keepItShortAndmeaningful.py
 ```
@@ -34,15 +34,15 @@ snakecase/
 ### Yes:
 
 ```
-task/
+task
     task_1.py
     task_2.py
     task_1_1.py
 
-password-checker/
+password-checker
     add_logger.py
 
-snake_case/
+snake_case
     production_notes.py
     keep_it_short_and_meaningful.py
 ```
