@@ -49,7 +49,7 @@ For those of you studying web dev, you will be expected to build a simple user i
 
 ## Instructions
 
-Make a class called JamBuddy. JamBuddy should work like this:
+Make a class called JamBuddy. JamBuddy should have an attribute that keeps track of the currently selected notes and should be called currentSelectedNotes. JamBuddy class should work like this:
 
 JS:
 
@@ -57,6 +57,8 @@ JS:
 let buddy = new JamBuddy()
 let notes = buddy.selectNotes()
 console.log(notes) # this will print an array of two notes
+console.log(currentSelectedNotes) # this will print the same array of two notes 
+console.log(notes === currentSelectedNotes) # should print true notes and currentSelectedNotes should be the same 
 correct = buddy.checkAnswer(1)
 console.log(correct) # this will print True if the `1` was the correct answer
 ```
