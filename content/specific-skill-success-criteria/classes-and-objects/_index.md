@@ -82,9 +82,9 @@ class Rectangle {
 Learner should know how to instantiate many objects from the same class and interact with them
 
 ```
-let smallRectangle1 = new Rectangle(2, 4)
-let smallRectangle2 = new Rectangle(2, 4)
-let mediumRectangle = new Rectangle(4, 12)
+const smallRectangle1 = new Rectangle(2, 4)
+const smallRectangle2 = new Rectangle(2, 4)
+const mediumRectangle = new Rectangle(4, 12)
 
 
 console.log(smallRectangle1.length) //2
