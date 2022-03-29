@@ -12,23 +12,21 @@ submission_type: continue_repo
 title: 'Tilde project tutorial: How Continue Repo projects work'
 ---
 
-There are a few kinds of projects you can do and they can be submitted in different ways. In this tutorial you'll see how to get a "continue repo" project to complete.
+In this tutorial, you'll see how to get a "continue repo" project to complete.
 
 ## Start the project
 
-If you have not yet clicked the "start project" button for this card, do so now. You'll see the card move to In Progress.
+Now explore the card. Click on the Details button and see what's there.
 
-Now explore the card. Click on the details button and see what's there.
+*You'll notice that the repo attached to this card is something you have worked with before.*
 
-You'll notice that the repo attached to this card is something you have worked with before.
-
-## Make a new PR and get it merged
+## Make a new Pull Request and get it merged
 
 - Make a new branch
-- Add a bit more text to your markdown file.
-- Make a new PR
+- Edit and add a bit more text to the markdown file you created previously.
+- Make a new Pull Request
 - Get it merged
 
-## Move your card to the REVIEW column (AFTER YOUR PR IS MERGED! NOT BEFORE!)
+## Move your card to the REVIEW column (AFTER YOUR PULL REQUEST IS MERGED! NOT BEFORE!)
 
-This should feel very familiar. Do what it takes to get your card to complete.
+This will feel very familiar. Do what it takes to get your card complete.
