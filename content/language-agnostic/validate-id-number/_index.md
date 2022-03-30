@@ -91,7 +91,7 @@ The TDD procedure if often summarised as RED, GREEN, REFACTOR.
 
 #### Step 1:
 
-Write a test that expects your validator to return True if it is passed any of the following Id numbers: `2001014800086`, `2909035800085`
+Write a test that expects your validator to return True if it is passed any of the following ID numbers: `2001014800086`, `2909035800085`
 
 Pseudocode:
 
