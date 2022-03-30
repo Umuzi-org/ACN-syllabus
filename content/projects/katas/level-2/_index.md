@@ -98,7 +98,7 @@ Add some functionality to `triangle` so that an error/exception gets raised if a
 
 ## Task 2.3
 
-Write a function that takes a list of strings an prints them as columns, with a single space between the columns
+Write a function that takes a list of strings and prints them as columns, with a single space between the columns
 
 eg: `columns(["Write","good","code","every","day"])` gets printed as:
 
@@ -113,17 +113,17 @@ e     y
 
 ## Next Steps
 
-Well done for getting this far! These exercises practiced some really fundamental skills. You should be familiar with some loops, if statements, comparisons, and the syntax of functions. But even though we have hit the end of this project there is a LOT left for you to learn and practice.
+Well done for getting this far! These exercises practised some really fundamental skills. You should be familiar with some loops, if statements, comparisons, and the syntax of functions. But even though we have hit the end of this project there is a LOT left for you to learn and practice.
 
-Make sure you really understand all the code you wrote here. You can't build a house without a foundation. You need a solid foundational skills so you can be a pro!
+Make sure you really understand all the code you wrote here. You can't build a house without a foundation. You need solid foundational skills so you can be a pro!
 
-So keep practicing. Practice in your free time, practice if you are ahead of schedule with one of your projects, practice if you need a break from another task. Push yourself and be awesome! You can even practice with a pen and paper.
+So keep practising. Practice in your free time, practice if you are ahead of schedule with one of your projects, practice if you need a break from another task. Push yourself and be awesome! You can even practice with a pen and paper.
 
-Remember that you are here to become a professional! Professionals take ownership of their own learning and skills, and professionals help the people around them to become successful.
+Remember that you are here to become a professional! Professionals take ownership of their learning and skills, and professionals help the people around them to become successful.
 
 Here are some resources you can use to continue this journey:
 
-- https://adriann.github.io/programming_problems.html : this has lots of cool little exercises. They're mostly pretty small, you could do a few every day if you wanted to. Even one per day would be a winner
+- https://adriann.github.io/programming_problems.html: this has lots of cool little exercises. They're mostly pretty small, you could do a few every day if you wanted to. Even one per day would be a winner
 - https://www.codewars.com: you should know about this already, it's legit!
 
 Have fun :)
