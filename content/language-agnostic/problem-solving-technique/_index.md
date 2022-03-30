@@ -43,7 +43,7 @@ When writing tests for your code, it's important to test all the inputs
 - **Don't try to write everything on one line**. A lot of geeklings try to solve absolutely everything on one line. Don't do that! Break it down. Make each step of your logic very clear and simple to follow.
 - **Do follow coding best practice** Your code should be easy to read, it should make its intention clear. Choose meaningful names for your variables. Keep things DRY.
 - **Do take time to plan your code** If you jump straight into writing code before planning it out and thinking it through, you'll end up wasting time. `Less haste == More speed`.
-- **Don't try to show off** Some people think that making their code as fancy as possible is a good thing. Trust me, it is not. The best code is clear and readable. And it works.
+- **Don't try to show off** Some people think that making their code as fancy as possible is a good thing. Trust me, it is not. The best code is clear and readable and it works.
 - **Don't write highly nested code unless you have to** If you have a loop inside a loop inside an if statement inside a loop, you ARE doing it wrong. Remember you need to write code that humans can read. Break things down into functions if you need to.
 
 ## Resources
