@@ -19,9 +19,9 @@ Git is a critical tool for any kind of coder. We'll get git set up before you do
 
 ## If you have an Android device
 
-Start off by installing Termux: https://play.google.com/store/apps/details?id=com.termux&hl=en_ZA
+Start by installing Termux: https://play.google.com/store/apps/details?id=com.termux&hl=en_ZA
 
-It's a terminal application that let's you execute bash commands.
+It's a terminal application that lets you execute bash commands.
 
 Now you need to set Git up on Termux:
 
@@ -43,7 +43,7 @@ This video walks you through the process:  https://www.youtube.com/watch?v=DG3l9
 Note:
 
 - If any of these commands ask you if you want to continue, then type in `Y` then enter.
-- At some point Termux will ask you for a github password. When you type in a password then it looks like nothing is being typed. This is normal. Just type out your password like you normally would and press enter.
+- At some point, Termux will ask you for a GitHub password. When you type in a password then it looks like nothing is being typed. This is normal. Just type out your password like you normally would and press enter.
 - you can use the tab key for autocompletion, and the up arrow to get the previous command. This should speed you up a little bit.
 
 ## If you have an iPhone
@@ -55,6 +55,6 @@ Eish, we haven't managed to find anything good here. If you have any suggestions
 Do your best to find a solution on your own
 
 - ask your friends and family if you can borrow something
-- see if you can find an Internet cafe and try make a deal
-- see if there are any co-working spaces near you that have computers available
-- see if you can make a plan with someone who refurbishes computers for a living, sometimes you can pick up gear very cheaply
+- see if you can find an Internet cafe and try to make a deal
+- see if any co-working spaces near you have computers available
+- see if you can make a plan with someone who refurbishes computers for a living, sometimes you can pick up the gear very cheaply
