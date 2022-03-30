@@ -29,4 +29,4 @@ Now explore the card. Click on the Details button and see what's there.
 
 ## Move your card to the REVIEW column (AFTER YOUR PULL REQUEST IS MERGED! NOT BEFORE!)
 
-This will feel very familiar. Do what it takes to get your card complete.
+This will feel very familiar. Do what it takes to get your card to the complete column.
