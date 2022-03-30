@@ -41,10 +41,10 @@ title: Presenting your findings
 
 ### 1. Introduction to presentations
 
-Presentations are a part of most real-life work environments. They are an effective tool in a variety of different situations; you may have to give a presentation as an employee in a large company where you need to communicate your work and goals with your colleagues and managers, or it may be to get funding for a project. Either way it is a valuable skill to be able to summarise and communicate your ideas to other people in a concise and understandable way.
+Presentations are a part of most real-life work environments. They are an effective tool in a variety of different situations; you may have to give a presentation as an employee in a large company where you need to communicate your work and goals with your colleagues and managers, or it may be to get funding for a project. Either way, it is a valuable skill to be able to summarise and communicate your ideas to other people concisely and understandably.
 
 
-They can take different forms and the format will vary but for this project you will be creating a 10 minute presentation of your report.
+They can take different forms and the format will vary but for this project, you will be creating a 10-minute presentation of your report.
 
 #### Target Audience
 
@@ -62,7 +62,7 @@ As you will be presenting your report think about what information you might pre
 
 ### 2. Preparing a presentation
 
-Much of the preparation for your presentation will have been done while creating your report. The process for both is the same, but the main difference is that a presentation won’t go as in depth as a report and is more of a summary of information. Most presentations will be between 10 and 30 minutes long (yours should only be 10). While this may sound like a long time, you will be surprised how quickly time can go when you talk, so the fundamental skill of preparing a presentation is choosing the information to share and thinking about how you will present it.
+Much of the preparation for your presentation will have been done while creating your report. The process for both is the same, but the main difference is that a presentation won’t go as in-depth as a report and is more of a summary of information. Most presentations will be between 10 and 30 minutes long (yours should only be 10). While this may sound like a long time, you will be surprised how quickly time can go when you talk, so the fundamental skill of preparing a presentation is choosing the information to share and thinking about how you will present it.
 
 Since you have already written a report, you have all the information that is going to go into the presentation already. What you need to think about is:
 
@@ -70,7 +70,7 @@ What is your report about and why is it important to the audience
 
 Which parts are necessary for the audience to understand your conclusion
 
-And how will you present that information; will you use bullet point lists in a slideshow? Do you need diagrams/images? Are videos or sound necessary? How much text will you put on the slides?
+And how will you present that information; will you use bullet-point lists in a slideshow? Do you need diagrams/images? Are videos or sounds necessary? How much text will you put on the slides?
 
 
 #### Don’ts
@@ -99,7 +99,7 @@ Try to keep the focus on what you’re saying rather than the visuals. They shou
 
 #### Powerpoint and Google Slides
 
-There are different tools you can use to help you present information. For this project we will be using a slideshow based tool. You can either use Powerpoint, if you have the software installed on your computer, or Google Slides, which is a free web-application that provides similar functionality.
+There are different tools you can use to help you present information. For this project, we will be using a slideshow based tool. You can either use Powerpoint if you have the software installed on your computer, or Google Slides, which is a free web application that provides similar functionality.
 
 You will be using these programs to create a slideshow that will run alongside your spoken presentation. This is the format you will be presenting your report research in. It should provide a visual aid to the information. It is up to you what you display and how many slides you have but here are some tips on creating the slideshow:
 
@@ -107,13 +107,13 @@ You will be using these programs to create a slideshow that will run alongside y
 
  - Don’t fill your slides with text, you want people to focus on what you’re saying.
  - Think about how much time you have and how much time you need to explain the different parts of your report. You don’t want to have to rush through the information and speak quickly.
- - Include images, diagrams and videos to help illustrate your message. Ensure that they are good quality.
+ - Include images, diagrams and videos to help illustrate your message. Ensure that they are of good quality.
  - Keep the aesthetic simple and professional, you don’t want your presentation to distract people from what you’re saying.
  - Use transitions and effects in moderation. They can be distracting and look unprofessional.
  - Plan the slides so they synchronise with what you’re saying. Know when to switch between them.
 
 
-Think about how the slides will compliment what you’re actually saying. A good presentation involves skilled public speaking and a planned presentation.
+Think about how the slides will complement what you’re actually saying. A good presentation involves skilled public speaking and a planned presentation.
 
 ### 4. Presentation skills
 
@@ -122,15 +122,15 @@ Mastering public speaking can be crucial to the growth of your business and the 
 
 **Relate to the audience**
 
-You can use personal stories or relate it to your audience’s work and circumstances. Examples and custom demos can help you with that.
+You can use personal stories or relate them to your audience’s work and circumstances. Examples and custom demos can help you with that.
 
 **Rehearse, rehearse, rehearse**
 
-Don’t just think you can wing a presentation. You need to rehearse and then warm up. Feeling comfortable and practiced will help calm your nerves and keep you from freezing in front of your audience
+Don’t just think you can wing a presentation. You need to rehearse and then warm-up. Feeling comfortable and practised will help calm your nerves and keep you from freezing in front of your audience
 
 **Plan but don’t write a script**
 
-Consider creating small flash cards that remind you of your key points in a bulleted list. They might also indicate when you need to change the slide. Remember that you don’t want to be reading an essay word for word. You also don’t want to read exactly what’s on your slide, the audience can read that themselves.
+Consider creating small flashcards that remind you of your key points in a bulleted list. They might also indicate when you need to change the slide. Remember that you don’t want to be reading an essay word for word. You also don’t want to read exactly what’s on your slide, the audience can read that themselves.
 
 **Include interactive elements**
 
@@ -147,17 +147,17 @@ Have a Questions and Answers (Q & A) section at the end to give the audience a c
 ### 5. Feedback and Improving
 
 
-In presentation etiquette, it all comes down to one thing: valuing your audience. This means speaking directly to them, having all the information prepared and practiced, and above all, being worthwhile of their time. If you remain focused on providing value to your audience, you’ll find yourself giving successful presentations every time. You might not always give the best presentation but you will always learn something and be able to improve. Here are some ways of you can keep improving:
+In presentation etiquette, it all comes down to one thing: valuing your audience. This means speaking directly to them, having all the information prepared and practised, and above all, being worthwhile of their time. If you remain focused on providing value to your audience, you’ll find yourself giving successful presentations every time. You might not always give the best presentation but you will always learn something and be able to improve. Here are some ways you can keep improving:
 
 
-**Practice**
+**Practise**
 
 It’s only through actually rehearsing your presentation that you will get a sense of how you can improve it. You can do this in a mirror, or you can ask a friend/classmate to listen. You could even record yourself. Crucially you should time yourself to make sure you’re within 10 minutes.
 
 
 When you do this, you might discover that you need to:
 
- - Change the order of the slides, or points your making
+ - Change the order of the slides, or points you're making
  - You might need to remove information to keep within the time limit
  - Include more pictures to illustrate what you’re saying
 
@@ -169,7 +169,7 @@ Communicate with your audience. You don’t have to be very formal. Ask them if 
 
 **Feedback**
 
-Feedback is crucial to learning any skill. When you have worked on something closely and for a long time it can be hard to step back and assess it objectively. Like with your report which you gave to classmates to proofread, ask for constructive criticism from a friend or, depending on your audience, after the presentation ask your audience how they think it went. You could even ask them to anonymously write their feedback down.
+Feedback is crucial to learning any skill. When you have worked on something closely and for a long time it can be hard to step back and assess it objectively. Like with your report which you gave to classmates to proofread, ask for constructive criticism from a friend or, depending on your audience after the presentation ask your audience how they think it went. You could even ask them to anonymously write their feedback down.
 
 ### 6. Next steps
 
@@ -182,4 +182,4 @@ While feedback is one way of gauging how successful your presentation has been, 
  - Did people engage with your Q & As? That can be a good indication that people were listening and interested in what you were saying.
 
 
-If you think the presentation was successful you might want to keep the presentation template. Perhaps reflect on the experience and make notes for next time you have to do a presentation. Since your classmates will be presenting their reports as well, what do you think was successful about their presentations? Is there something you have learnt from them?
+If you think the presentation was successful you might want to keep the presentation template. Perhaps reflect on the experience and make notes for the next time you have to do a presentation. Since your classmates will be presenting their reports as well, what do you think was successful about their presentations? Is there something you have learnt from them?
