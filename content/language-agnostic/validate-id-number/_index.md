@@ -70,7 +70,7 @@ function validate_phone_number(phone_number){
 
 Write a function that validates South African ID numbers. Please name your function according to the common naming conventions for the language you are using.
 
-If the Id number is valid then return true, if it is not valid then return false.
+If the ID number is valid then return true, if it is not valid then return false.
 
 A South African Id number is a 13-digit number which is defined by the following format: YYMMDDSSSSCAZ.
 
