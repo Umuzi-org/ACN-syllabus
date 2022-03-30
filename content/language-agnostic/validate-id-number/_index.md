@@ -104,7 +104,7 @@ Run your test. It should fail (RED).
 
 #### Step 2:
 
-Write enough code to make your test pass
+Write enough code to make your test pass.
 
 Pseudocode:
 
