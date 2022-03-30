@@ -21,7 +21,7 @@ Sometimes you get weird kind of problems and you simply don't know what the step
 
 Try to actually do the problem by hand. Or perhaps a smaller version of the problem.
 
-E.g.: If you are instructed to do something interesting to an array with length 1000, see what you can manually do to an array of length 5 that is equivalent. Try solve it a few times with different inputs and see if you can find a pattern that you can break down :)
+For example, if you are instructed to do something interesting to an array with length 1000, see what you can manually do to an array of length 5 that is equivalent. Try solve it a few times with different inputs and see if you can find a pattern that you can break down :)
 
 ## Beware of the edge cases
 
