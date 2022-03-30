@@ -128,7 +128,7 @@ Run your tests again. Everything is GREEN now.
 
 #### Keep going
 
-Now it starts to get more interesting. Each of the digits in the Id number mean different things and have different validation logic.
+Now it starts to get more interesting. Each of the digits in the ID number mean different things and have different validation logic.
 
 1. Use TDD to implement validation logic for the 2 digits denoting the year.
 2. Use TDD to implement validation logic for the 2 digits denoting the month.
