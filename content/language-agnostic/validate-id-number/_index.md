@@ -72,7 +72,7 @@ Write a function that validates South African ID numbers. Please name your funct
 
 If the ID number is valid then return true, if it is not valid then return false.
 
-A South African Id number is a 13-digit number which is defined by the following format: YYMMDDSSSSCAZ.
+A South African ID number is a 13-digit number which is defined by the following format: YYMMDDSSSSCAZ.
 
 - The first 6 digits (YYMMDD) are based on your date of birth. 20 February 1992 is displayed as 920220.
 - The next 4 digits (SSSS) are used to define your gender. Females are assigned numbers in the range 0000-4999 and males from 5000-9999.
