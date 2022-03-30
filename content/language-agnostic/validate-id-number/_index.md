@@ -83,7 +83,7 @@ A South African ID number is a 13-digit number which is defined by the following
 
 Note that we'll be following a TDD approach. This means you need to write a test, make the test pass, then write the next test, etc. Here are the first few steps of the process:
 
-The TDD procedure if often summarised as RED, GREEN, REFACTOR.
+The TDD procedure is often summarised as RED, GREEN, REFACTOR.
 
 - RED = write a test. The test should fail.
 - GREEN = write just enough code to make the test pass.
