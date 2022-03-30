@@ -17,7 +17,7 @@ It sounds simple, but it's something that takes quite a lot of practice.
 
 ## What if I don't know how to break down the problem?
 
-Sometimes you get weird kinda problems and you simply don't know what the steps are. This is tricky. In these cases it's really nice to rely on a pencil and paper. Because there is no school like the old school.
+Sometimes you get weird kind of problems and you simply don't know what the steps are. This is tricky. In these cases it's really nice to rely on a pencil and paper. Because there is no school like the old school.
 
 Try to actually do the problem by hand. Or perhaps a smaller version of the problem.
 
