@@ -97,7 +97,7 @@ for (let n=0; n<3 n++){
 
 ## All learners should be able to iterate over strings and arrays.
 
-Some people think you need to turn strings into arrays before you can start iterating over them, this is not the case!
+Some people think you need to turn strings into arrays before you can start iterating over them. This is not the case!
 
 ## All learners should understand the basics of while loops.
 
