@@ -52,7 +52,7 @@ Eish, we haven't managed to find anything good here. If you have any suggestions
 
 ## If you don't have the gear you need
 
-Do your best to find a solution on your own
+Do your best to find a solution on your own. You can try the following:
 
 - ask your friends and family if you can borrow something
 - see if you can find an Internet cafe and try to make a deal
