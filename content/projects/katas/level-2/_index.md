@@ -117,7 +117,7 @@ Well done for getting this far! These exercises practised some really fundamenta
 
 Make sure you really understand all the code you wrote here. You can't build a house without a foundation. You need solid foundational skills so you can be a pro!
 
-So keep practising. practise in your free time, practise if you are ahead of schedule with one of your projects, practise if you need a break from another task. Push yourself and be awesome! You can even practise with a pen and paper.
+So keep practising. Practise in your free time, practise if you are ahead of schedule with one of your projects, practise if you need a break from another task. Push yourself and be awesome! You can even practise with a pen and paper.
 
 Remember that you are here to become a professional! Professionals take ownership of their learning and skills, and professionals help the people around them to become successful.
 
