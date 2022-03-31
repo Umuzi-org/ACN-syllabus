@@ -30,7 +30,7 @@ title: Javascript - Build your first personal website
   - Skills (Your tech stack: the languages and tools you use)
   - Projects/Portfolio (for now this might be a bit empty, but if you've worked on anything cool then tell us about it)
   - Contact (social media, email, phone, etc)
-- Host your site as a Github Page. In your README file include a link to your github page for easy navigation
+- Host your site as a Github Page. In your README file include a link to your github page for easy navigation.
 
 ## Some advice
 
