@@ -68,7 +68,7 @@ Learner should know how to override a function using super and without using sup
 
 ### Constructors
 
-Learner should know that the constructor name must be same as its class name 
+Learner should know that the constructor name must be same as its class name. 
 
 ```
 class Rectangle{
@@ -94,7 +94,7 @@ class Rectangle{
 
 ### Instantiation
 
-Learner should know how to instantiate a class object
+Learner should know how to instantiate a class object.
 
 ```
   Rectangle rectangle1 = new Rectangle();
