@@ -49,7 +49,7 @@ As a professional technologist you will be asked to do way harder stuff, **if yo
 
 That means that if anything is ambiguous or confusing, we need to sort things out so that it makes sense.
 
-We won't be spoonfeeding you though. We want to turn you into a professional. Professionals overcome problems and seek understanding. So if you ask a question that you should be able to figure out on your own we might tell you to go figure it out. Don't take it personally.
+We won't be spoonfeeding you though. We want to turn you into a professional. Professionals overcome problems and seek understanding. So if you ask a question that you should be able to figure out on your own, we might tell you to go figure it out. Don't take it personally.
 
 **Seeking understanding is like a gym for your brain.**
 
@@ -62,15 +62,15 @@ Many of the "slower" kids just gave up and decided that they were incapable. A l
 
 Now, this is a remote course. Different people doing our course have different interests, aspirations and home lives. We believe that making everyone work in lockstep would be a silly thing to do. So you get to work at your own pace.
 
-We do, however, have standards: We do have some minimum "pace" requirements you'll need to meet. Otherwise, you just won't learn enough to gain a useful set of skills. If your pace is too slow we will let you know.
+We do, however, have standards: We do have some minimum "pace" requirements you'll need to meet. Otherwise, you just won't learn enough to gain a useful set of skills. If your pace is too slow, we will let you know.
 
 ## Try to build good habits
 
 If you are juggling another job or other responsibilities then we strongly encourage you to come up with a schedule so that you can work on your course regularly.
 
-- you could spend an hour or two on this course before or after work
-- you could dedicate your weekends to working on this
-- you could reach out to a colleague and get them to help keep you accountable to your own goals
+- you could spend an hour or two on this course before or after work;
+- you could dedicate your weekends to working on this;
+- you could reach out to a colleague and get them to help keep you accountable to your own goals.
 
 Please, for your own good, build good habits.
 
@@ -102,12 +102,12 @@ One thing to note is that we really are rooting for you. We won't try to catch y
 
 From time to time you'll be invited to take part in live discussions. These will happen on Google Meet or Streamyard. Here's what you need to know:
 
-1. You need to watch your inbox to make sure you don't miss any invitations
-2. When you get an invitation you need to respond to it. Say "yes" if you can make it, "no" if you can't. If you can't make it then let us know why so we can reschedule
-3. Be on time. Set an alarm and try to be a few minutes early so that nothing goes wrong
-4. Make sure you are somewhere with good internet and electricity. It's your professional responsibility to be present. For example, If you have load shedding you need to find a place where you can work from
-5. You'll need a working microphone so you can participate in the discussion
-6. Try to join on an actual computer if you can, there will generally be a screen share going on and you'll need to be able to read the code that is displayed
+1. You need to watch your inbox to make sure you don't miss any invitations.
+2. When you get an invitation you need to respond to it. Say "yes" if you can make it, "no" if you can't. If you can't make it then let us know why so we can reschedule.
+3. Be on time. Set an alarm and try to be a few minutes early so that nothing goes wrong.
+4. Make sure you are somewhere with good internet and electricity. It's your professional responsibility to be present. For example, If you have load shedding you need to find a place where you can work from.
+5. You'll need a working microphone so you can participate in the discussion.
+6. Try to join on an actual computer if you can. There will generally be a screen share going on and you'll need to be able to read the code that is displayed.
 7. These sessions are often recorded for quality and training purposes - our staff members review and critique each other's sessions. This makes everyone better.
 
 ## The end
