@@ -35,16 +35,16 @@ title: Javascript - Build your first personal website
 ## Some advice
 
 - Website must be responsive to different screen sizes - use a mobile-first approach!
-  - Use CSS Grid (see tutorials below) to design your site and make it responsive
-- Website must be developed using HTML and CSS Grid with a logical structure and naming conventions in your code
-- You can also add some Javascript to make things more interactive
+  - Use CSS Grid (see tutorials below) to design your site and make it responsive.
+- Website must be developed using HTML and CSS Grid with a logical structure and naming conventions in your code.
+- You can also add some Javascript to make things more interactive.
 - Feel free to use icons, colours, pictures or organograms if you need to.
 - Make sure that your html passes through a [linter](https://validator.w3.org/). It is important to reduce errors and improve the overall quality of your code.
 - Start small and simple. Get the basic structure in first. Don't sit and obsess over choosing the right shade of green, or the perfect font.
 - Also, we'll be looking out for good developer habits. Please make sure you push your code often and your git commit messages actually make sense!
 - Try to avoid fancy flowery language, it's actually more impressive when people get straight to the point. Communicate clearly and efficiently.
 - Demonstrate attention to detail. Make sure your stuff is tidy. Use whitespace as needed. Make sure your pictures are not squashed or stretched.
-- This is not a creative writing exercise. Please tell the truth about your abilities and experience. If you did not do a job then do not list it. This should be obvious but... some people's children
+- This is not a creative writing exercise. Please tell the truth about your abilities and experience. If you did not do a job then do not list it.
 
 
 ### Links
