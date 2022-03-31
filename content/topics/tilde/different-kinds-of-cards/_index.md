@@ -20,9 +20,9 @@ A topic is something self-study. All you need to do is make sure that you unders
 
 The general procedure for you is:
 
-- Choose to start the topic by clicking the relevant button
-- follow the link to the content and make sure you UNDERSTAND the material
-- Choose to finish the topic by clicking the relevant button
+- choose to start the topic by clicking the relevant button;
+- follow the link to the content and make sure you UNDERSTAND the material;
+- choose to finish the topic by clicking the relevant button.
 
 Once you say you are finished with a topic then the card will move into either the "Review" or "Complete" column.
 
@@ -33,9 +33,9 @@ This is where the magic happens.
 
 Projects are deliverables. We need to see you demonstrate your skills. By submitting projects (and reviewing other people's work) you will move through the course and prove your competence.
 
-Projects come in two different forms: Link projects and Repo projects. These behave a little bit different to each other. We'll go into detail and demonstrate those differences by actually doing a few projects and moving them to Complete.
+Projects come in two different forms: Link projects and Repo projects. These behave a little bit different to each other. We'll go into detail and demonstrate those differences by actually doing a few projects and moving them to the complete column.
 
-If you are writing code, you'll be working a lot with repo projects. If you are a non-tech person (e.g., if you are focusing on UX, strat, or something low-code) then you won't need to worry about repo projects.
+If you are writing code, you'll be working a lot with repo projects. If you are a non-tech person (for example, if you are focusing on UX, strat, or something low-code) then you won't need to worry about repo projects.
 
 Please take note that there is a "details" button on project cards that have some progress. As projects move forward through the board, they can be associated with all sorts of extra info. You will be able to view that information by clicking on "Details".
 
