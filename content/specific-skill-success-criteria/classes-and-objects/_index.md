@@ -105,11 +105,11 @@ class Car {
       ...
     }
 
-    setLength(newLength){ //setter
+    set length(newLength){ //setter
         this._length = newLength
     }
 
-    getLength(){ //getter
+    get length(){ //getter
         return this._length
     }
 }
