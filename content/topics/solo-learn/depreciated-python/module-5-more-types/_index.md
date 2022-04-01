@@ -4,13 +4,13 @@ content_type: project
 flavours:
 - none
 prerequisites:
-  hard:
+  hard: null
   soft: []
 ready: true
 submission_type: link
 tags:
 - python
-title: Solo Learn - Python - Module 5 - More Types
+title: Solo Learn - Python - Module 5 - More Types - Depricated
 ---
 
 Complete the above mentioned module on Solo Learn

@@ -7,7 +7,7 @@ ready: true
 submission_type: link
 tags:
 - python
-title: Solo Learn - Python Core - Module 1 - Basic Concepts
+title: Solo Learn - Python Core - Module 1 - Basic Concepts - Depricated
 ---
 
 Complete the above mentioned module on Solo Learn.
