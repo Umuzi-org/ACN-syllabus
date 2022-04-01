@@ -1,5 +1,5 @@
 ---
-content_type: project
+content_type: topic
 flavours:
 - none
 prerequisites:
@@ -7,10 +7,10 @@ prerequisites:
   - topics/solo-learn/python/5-exceptions-and-files
   soft: []
 ready: true
-submission_type: link
 tags:
 - python
 title: Solo Learn - Python Core - Module 6 - More Types
+topic_needs_review: false
 ---
 
 Complete the above mentioned module on Solo Learn
