@@ -24,8 +24,8 @@ These exercises are here to help you test out and demonstrate your knowledge of 
 
 Please follow best practices when doing this work!
 
-- Use git: push your code every day! Maybe even a few times every day. If you don't back up your work and something terrible happens to your computer then you will not be granted an extension. Make sure your commit messages make sense
-- Be careful about how you name your functions and variables. Be consistent. Be clear. Call it what it is. Any fool can write code that a machine can understand, professionals write code that people understand.
+- Use git: push your code every day! Maybe even a few times every day. If you don't back up your work and something terrible happens to your computer then you will not be granted an extension. Make sure your commit messages make sense.
+- Be careful about how you name your functions and variables. Be consistent. Be clear. Call it what it is. Any fool can write code that a machine can understand, professionals write code that people can understand.
 
 ## Note
 
@@ -33,17 +33,17 @@ The exercises below are meant to be language-agnostic. If we use the word `print
 
 If we say a function takes an input then we don't mean you should ask the user to type something. What we need is a function parameter or argument.
 
-## Note to web devs
+## Note to web devs:
 
 Please don't submit any HTML or CSS. Please don't use `document.write`. We are interested in seeing how you implement these algorithms. Use `console.log` if you are asked to print things.
 
-## What does success look like
+## What does success look like?
 
 Katas are pretty common in coding (and martial arts). Katas are about practicing and perfecting fundamental skills. There are a few different skills we need to see here.
 
 The first thing is Git! It's seriously important so we want to see you developing good habits.
 
-For every exercise in this project you need to make a new Pull Request on github and a new branch.
+For every exercise in this project, you need to make a new pull request on github and a new branch.
 
 So if you are writing code for the first exercise you should do this:
 
@@ -67,9 +67,9 @@ git checkout -b task/2
 
 Look at your network graph for your repo whenever you push your code. It should not resemble spaghetti or any other noodle. It should be neat and tidy.
 
-You can see the network graph of your repo by looking at the url: https://github.com/[YOUR REPO PATH]/network
+You can see the network graph of your repo by looking at the url: https://github.com/[YOUR REPO PATH]/network. Note: please put in your own repo path in [YOUR REPO PATH]
 
-If you follow the simple instructions in the "what does success look like" section then you'll be fine here.
+If you follow the simple instructions in the "what does success look like?" section then you'll be fine here.
 
 ## Super important!
 
@@ -86,7 +86,7 @@ Find the sum of all the multiples of 3 or 5 below 1000.
 ## Task 1.2
 
 Write a function that takes 2 numbers as input.
-If either of the numbers is 3 AND the sum of the numbers contains a 3 then return true. Otherwise return false
+If either of the numbers is 3 AND the sum of the numbers contains a 3 then return true. Otherwise return false.
 
 ## Task 1.3
 
@@ -97,14 +97,14 @@ If either of the numbers is 65, OR if the sum of the numbers is 65 then return t
 
 Write a function, name it `square`. It takes in an integer and then prints out a square using the hash character.
 
-eg `square(2)` should print
+e.g. `square(2)` should print:
 
 ```
 ##
 ##
 ```
 
-eg `square(4)` should print
+e.g. `square(4)` should print:
 
 ```
 ####
@@ -115,14 +115,14 @@ eg `square(4)` should print
 
 ## Task 1.5
 
-eg `triangle(2)` should print
+e.g. `triangle(2)` should print:
 
 ```
 #
 ##
 ```
 
-eg `triangle(4)` should print
+e.g. `triangle(4)` should print:
 
 ```
 #
@@ -133,14 +133,14 @@ eg `triangle(4)` should print
 
 If negative numbers are input then the triangle should be upside down
 
-eg `triangle(-2)` should print
+e.g. `triangle(-2)` should print:
 
 ```
 ##
 #
 ```
 
-eg `triangle(-4)` should print
+e.g. `triangle(-4)` should print:
 
 ```
 ####
@@ -153,9 +153,9 @@ eg `triangle(-4)` should print
 
 Write a function that takes in an array/list of strings and then prints out the longest one
 
-eg: `longest(["the","quick","brown", "fox", "ate", "my", "chickens"])`
+e.g. `longest(["the","quick","brown", "fox", "ate", "my", "chickens"])`
 
-should print
+should print:
 
 ```
 chickens
@@ -163,11 +163,11 @@ chickens
 
 If there are multiple longest strings then print them all.
 
-eg:
+e.g.
 
 `longest(["once", "upon", "a", "time"])`
 
-should print
+should print:
 
 ```
 once
@@ -181,7 +181,7 @@ Write a function that combines two lists by taking alternate elements and return
 
 If your function can work with lists of unequal size, we'll think you’re cool.
 
-eg `combine([11,22,33], [1,2,3])` should return
+e.g. `combine([11,22,33], [1,2,3])` should return:
 
 ```
 [11,1,22,2,33,3]
@@ -191,8 +191,8 @@ eg `combine([11,22,33], [1,2,3])` should return
 
 **Task 1.1**
 
-- The instructions does not specify whether a value should be returned or printed. Therefore, either is competent.
-- The instructions also does not specify whether a function should be created. Therefore, if a function was created or only lines of code were written and it works, it is competent.
+- The instructions do not specify whether a value should be returned or printed. Therefore, either is competent.
+- The instructions also do not specify whether a function should be created. Therefore, if a function was created or only lines of code were written and it works, it is competent.
 - When a 1000 is the input, ensure that the output is 233168.
 
 **Task 1.2 and Task 1.3**

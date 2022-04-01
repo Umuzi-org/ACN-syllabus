@@ -1,6 +1,6 @@
 ---
 _db_id: 745
-content_type: project
+content_type: topic
 flavours:
 - none
 prerequisites:
@@ -8,10 +8,10 @@ prerequisites:
   - topics/solo-learn/python/3-control-structures
   soft: []
 ready: true
-submission_type: link
 tags:
 - python
 title: Solo Learn - Python Core - Module 4 - Functions & Modules
+topic_needs_review: false
 ---
 
 Complete the above mentioned module on Solo Learn
