@@ -1,10 +1,6 @@
 ---
-<<<<<<< HEAD
 _db_id: 749
-content_type: project
-=======
 content_type: topic
->>>>>>> 12fd3bcb1796cee7622379128c847208d35a3e28
 flavours:
 - none
 prerequisites:
