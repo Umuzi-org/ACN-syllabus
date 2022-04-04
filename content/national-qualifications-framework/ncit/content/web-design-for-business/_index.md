@@ -20,7 +20,7 @@ ncit_standards:
 - 115374
 prerequisites:
   hard:
-  - projects/first-personal-website
+  - projects/web-development-website
 ready: true
 tags:
 - ncit

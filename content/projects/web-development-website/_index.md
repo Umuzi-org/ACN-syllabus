@@ -1,8 +1,7 @@
 ---
 content_type: project
 flavours:
-- html
-- css
+- none
 learning_outcomes:
 - web_dev_hosting
 - web_dev_responsive_page_design
