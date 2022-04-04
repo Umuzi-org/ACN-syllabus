@@ -71,7 +71,6 @@ class Cuboid(Rectangle):
 
 ### Overriding
 
-<<<<<<< HEAD
 Learner should know how to override a function using super and without using super.
 
 ## Javascript
@@ -148,6 +147,3 @@ class Cuboid extends Rectangle {
 
 ```
 
-=======
-Learner should know how to override a function using super and without using super.
->>>>>>> 35c3d24154cf989f8887efc5464e01899bffd5ca
