@@ -32,15 +32,15 @@ title: How the internet works
 
 ## What is The Internet?
 
-The Internet is a massive network of networks, a networking infrastructure. It connects billions of computers and internet-enabled devices together globally, forming a network in which any device can communicate with any other device as long as they are both connected to the Internet. Information that travels over the Internet does so via a variety of languages known as protocols.
+The Internet is a massive network of networks, a networking infrastructure. It connects billions of computers and internet-enabled devices globally, forming a network in which any device can communicate with any other device as long as they are connected to the Internet. Information that travels over the Internet does so via languages known as protocols.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h8K49dD52WA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## The Internet and The Web (World Wide Web)?
 
-The World Wide Web, or simply Web, is a way of accessing information over the medium of the Internet and it is the most major application of internet technology today. It is an information-sharing model that is built on top of the Internet.
+The World Wide Web(www.), or simply Web, is a way of accessing information over the medium of the Internet and it is the major application of internet technology today. It is an information-sharing model that is built on top of the Internet.
 
-These days, we often just say "The Internet" when we refer to anything we access via a web browser or smartphone. However, the World Wide Web and the Internet aren't the same thing. The Web uses a specific protocol called HTTP (hypertext transfer protocol), which is just one of the protocols used to transmit information over the Internet. For example, the Internet, not the Web, is also used for e-mail (which uses IMAP, POP and SMTP), instant messaging, peer-to-peer networks, and FTP (file transfer protocol). So the Web is just a portion of the Internet, albeit a large portion, but the two terms are not synonymous and should not be confused.
+These days, we often just say "The Internet" when we refer to anything we access via a web browser or smartphone. However, the World Wide Web and the Internet aren't the same things. The Web uses a specific protocol called HTTP (hypertext transfer protocol), which is just one of the protocols used to transmit information over the Internet. For example, the Internet, not the Web, is also used for e-mail (which uses IMAP, POP and SMTP), instant messaging, peer-to-peer networks, and FTP (file transfer protocol). So the Web is just a portion of the Internet, albeit a large portion, but the two terms are not synonymous and should not be confused.
 
 ## How does the Internet work?
 
@@ -60,7 +60,7 @@ https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhite
 
 - The Web is a distributed information system
 - It is made up of web pages (files/documents)
-- These pages contain multimedia (text, images, video, etc)
+- These pages contain multimedia (texts, images, videos)
 - They are linked together via hyperlinks
 - A website is a collection of web pages
 - Websites are stored on computers called web servers
@@ -84,18 +84,18 @@ Here are a few examples:
 
 #### Document distribution
 
-- Reducing cost and improving timeliness of distributed information
+- Reducing cost and improving the timeliness of distributed information
 - Exchange large volumes of data using Electronic Data Interchange (EDI)
 - Provide a secure medium for the distribution of confidential information
 
 #### Inter-company communication
 
-- Share product catalogs exclusively with trade partners
+- Share product catalogues exclusively with trade partners
 - Database access
 
 #### Provide interactive services
 
-- Conduct company wide surveys
+- Conduct company-wide surveys
 - Develop and use training programs
 - Manage customer support portal
 
@@ -103,7 +103,7 @@ Here are a few examples:
 
 Provide or access services provided by one company to a group of other companies, eg. training, online banking application managed by one company on behalf of affiliated banks
 
-Intranet and extranets have a wide variety of advantages but like with anything they have their downsides too. For example extranets can be expensive to implement and maintain, especially if hosted internally rather than by an application service provider (e.g. hardware, software, employee training costs), and their security can be a concern when hosting valuable or proprietary information. Keep this in mind when considering using them.
+Intranets and Extranets have a wide variety of advantages but like with anything they have their downsides too. For example, extranets can be expensive to implement and maintain, especially if hosted internally rather than by an application service provider (e.g. hardware, software, employee training costs), and their security can be a concern when hosting valuable or proprietary information. Keep this in mind when considering using them.
 
 ## Web applications
 
@@ -113,11 +113,11 @@ The internet has expanded since its inception and nowadays we use it in a wide v
 
 The term Webmail (or Web-based email) is an email service offered by a company or Internet service provider through a website. Common examples are Gmail or Yahoo! Mail.
 
-Webmail is more often than not accessed through an email client rather than a web browser. For example iOS and Android devices both have native Mail applications that use the IMAP, POP and SMTP protocols to receive and send mail. You can also find other applications that will do the same. This is not a new technology and has existed almost since the advent of the Internet but it has become more commonly used with mobile phones. Its main advantage is that you can manage multiple webmails through one application and you can access your mail even when you’re offline.
+Webmail is more often than not accessed through an email client rather than a web browser. For example, iOS and Android devices both have native Mail applications that use the IMAP, POP and SMTP protocols to receive and send mail. You can also find other applications that will do the same. This is not a new technology and has existed almost since the advent of the Internet but it has become more commonly used with mobile phones. Its main advantage is that you can manage multiple webmails through one application and you can access your mail even when you’re offline.
 
 ### Instant messaging (IM)
 
-This is a form of communication over the web that offers quick transmission of text-based messages from sender to receiver. More advanced instant messaging allows enhanced modes of communication, such as live voice or video calling, video chat and inclusion of hyperlinks to media. Telegram, Whatsapp, iMessage and Facebook Messenger are examples of instant messaging.
+This is a form of communication over the web that offers quick transmission of text-based messages from sender to receiver. More advanced instant messaging allows enhanced modes of communication, such as live voice or video calling, video chat and the inclusion of hyperlinks to media. Telegram, Whatsapp, iMessage and Facebook Messenger are examples of instant messaging.
 
 ### VoIP
 
