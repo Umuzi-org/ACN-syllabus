@@ -1,4 +1,5 @@
 ---
+_db_id: 220
 content_type: project
 flavours:
 - any_language
@@ -15,7 +16,7 @@ tags:
 - html
 - css
 - responsive web design
-title: Build your first personal website
+title: DEPRECIATED - Build your first personal website
 ---
 
 For the learnership you will create a website with your CV and a portfolio of your work. Create the website and host it on Github. You will be expected to keep your portfolio up to date throughout the learnership.
@@ -38,8 +39,8 @@ Please submit a link to your website. DO NOT submit a link to your github repo. 
 
 To learn more about Github Pages visit this link https://guides.github.com/features/pages/
 
-## Javascript instructions
-- {{% contentlink path="projects/first-personal-website/website-javascript" %}}
+## Web Development instructions
+- {{% contentlink path="projects/first-personal-website/web-development" %}}
 
-## Python and Java instructions
-- {{% contentlink path="projects/first-personal-website/website-python-and-java/" %}}
+## Simple Website instructions
+- {{% contentlink path="projects/first-personal-website/simple-website/" %}}
