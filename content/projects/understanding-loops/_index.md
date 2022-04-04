@@ -36,9 +36,9 @@ Take a look at this to see how you can see Tilde's data structures:
 {{% youtube Jx0jq2SiFS4 %}}
 
 Ideally you will be able to build stuff at least as complicated as that. But we'e going to start with some simpler things.
-## Get started with the project by addding the data to your repo
+## Get started with the project by adding the data to your repo
 
-First of all, please download this data in [this file](data.json) and add it to your repo. Your code is going to have to read this data structure.
+First of all, please download this data in [this file](data.json) and add it to your repo. All your functions should take this data structure in as an argument.
 
 If you look at the data you'll see that what we have is a list or array of elements. Each element represents a shopping basket.
 
@@ -67,10 +67,10 @@ Please note that one person can have multiple baskets. If you look at the data, 
 
 ### get baskets belonging to a single customer
 
-Write a function called `get customer baskets` that has an email address as an argument and returns a list/array of all the shopping baskets that belong to the customer with that email address.
+Write a function called `get customer baskets` that takes in an email address and the data array as an argument and returns a list/array of all the shopping baskets that belong to the customer with that email address.
 
 If the customer has no shopping baskets then return an empty list/array.
-
+e.g. `getCustomerBaskets("tshepo@umuzi.org", dataStore);`
 ### get a list of all the customer email addresses
 
 Write a function called `get all customers` that returns a list of customer email addresses. The list must have no duplicates.
@@ -125,3 +125,4 @@ Write a function called `get customers with open baskets` that returns a list/ar
 - the code must be DRY
 - there can be some global constants to help prevent typos. eg `const DELIVERED="DELIVERED"`
 - functions are supposed to return very specific things
+- All the functions above should take in at least one argument, the data array and should work with similar data.
