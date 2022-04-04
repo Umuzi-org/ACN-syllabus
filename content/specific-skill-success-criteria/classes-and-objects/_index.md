@@ -14,6 +14,16 @@ title: 'Assessment: Classes and objects'
 
 On Tilde you'll notice that this card is asking for a link submission. **Please don't worry about submitting a link**. You will be assessed according to {{% contentlink path="specific-skill-success-criteria/introduction-to-assessments" %}}
 
+
+All students need to provably understand all of the following concepts:  
+- how constructors work
+- construction of multiple class instances:
+  - make many objects of the same class
+  - interact with them and see that they are distinct
+- getters and setters
+- inheritance and overriding and extending methods
+- composition
+
 ## Python
 
 ### Constructors
@@ -61,6 +71,7 @@ class Cuboid(Rectangle):
 
 ### Overriding
 
+<<<<<<< HEAD
 Learner should know how to override a function using super and without using super.
 
 ## Javascript
@@ -137,3 +148,6 @@ class Cuboid extends Rectangle {
 
 ```
 
+=======
+Learner should know how to override a function using super and without using super.
+>>>>>>> 35c3d24154cf989f8887efc5464e01899bffd5ca

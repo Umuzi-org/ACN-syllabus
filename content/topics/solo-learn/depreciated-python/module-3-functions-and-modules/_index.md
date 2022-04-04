@@ -4,13 +4,13 @@ content_type: project
 flavours:
 - none
 prerequisites:
-  hard:
+  hard: null
   soft: []
 ready: true
 submission_type: link
 tags:
 - python
-title: Solo Learn - Python - Module 3 - Functions & Modules
+title: Solo Learn - Python - Module 3 - Functions & Modules - Depricated
 topic_needs_review: false
 ---
 

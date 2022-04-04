@@ -21,12 +21,12 @@ Create a `class` called `Person` which defines the generic data and functionalit
 
 A class is a collection of attributes and functions. Different languages use different terminology for these things, but the bacic concepts are the same.
 
-Give your `Person` class should have the following attributes:
+Your `Person` class should have the following attributes:
 
 - name
 - age
 - gender
-- interests. This is a list or array of strings
+- interests. This is a list or array of strings.
 
 Give your `Person` class a `hello` function:
 
@@ -66,7 +66,7 @@ Hello, my name is Ryan, my gender is male and I am 30 years old. My interests ar
 
 In OOP this is known as abstraction. We created a simple model of a more complex thing. We only represent the attributes and functionality that we need.
 
-When an object instance is created from a class, the class's constructor function is run to create it. This process of creating an object instance from a class is called instantiation — the object instance is instantiated from the class. `person` is an instance of `Person`
+When an object instance is created from a class, the class's constructor function is run to create it. This process of creating an object instance from a class is called instantiation — the object instance is instantiated from the class. `person` is an instance of `Person`.
 
 ## Acceptance criteria
 
@@ -81,5 +81,6 @@ Also, it's really important that you submit good clean code! Make sure you name 
 
 Mark this as Excellent if:
 
-1. **There is a separate function just for building the interests string** If the student makes multiple small, single purpose, clear functions instead of one giant function then that is good.
+1. **There is a separate function just for building the interests string**. If the student makes multiple small, single purpose, clear functions instead of one giant function then that is good.
 2. Makes use of templating instead of string concatenation as much as possible. In Python this means using f-strings, in Javascript it means using template literals, in Java this means using `String.format`.
+3. Also meets normal excellence criteria as specified on Tilde under "HOW DO I CHOOSE A STATUS?".
