@@ -14,7 +14,9 @@ title: File and directory naming in Python
 
 You should name your files and directories the same way you name Python variables.They should be small letters, and words should be separated by underscores, as that improves readability.
 
-It is important to note that the use of dashes in directory-naming takes preference as opposed to the use of underscores and be sure to keep in mind that all Python files have a .py extension. See below the recommended Python file and directory naming style. 
+It is important to note that the use of underscores in directory_naming takes preference as opposed to the use of dashes.
+
+Also, be sure to keep in mind that all Python files have a .py extension. See below the recommended Python file and directory naming style. 
 
 ### NO:
 ```
