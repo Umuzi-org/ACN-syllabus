@@ -28,6 +28,7 @@ _db_id: 7
 - {{% contentlink path="sql/shop-project" flavour="" %}}
 - {{% contentlink path="projects/github-api-consume" flavour="java" %}}
 - {{% contentlink path="projects/understanding-loops" flavour="java" %}}
+- {{% contentlink path="projects/simple-website" %}}
 
 
 
