@@ -46,4 +46,4 @@ The other common problem is people deleting their work. Once we have reviewed yo
 
 **So seriosly, dont delete stuff that you have submitted!**
 
-(Except maybe this perfectly useless doc, if you want because it actually is useless)
+(Except maybe this perfectly useless doc, if you want, because it actually is useless)
