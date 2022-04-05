@@ -25,7 +25,7 @@ As you progress through, you will have to write a lot of code. Your code will be
 ## General best practices
 
 - make a separate repo for every project (we don't want to have to sift through unrelated code when marking your work)
-- make sure that you _push_ your latest work before the end of the business day **every day**
+- make sure that you _push_ your latest work before logging off for the day **every day**
 - if you are working on a team, make sure you _pull_ the master branch often
 - give your Git branches meaningful and specific names
 - give your commits meaningful messages
