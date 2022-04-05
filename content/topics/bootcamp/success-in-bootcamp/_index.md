@@ -61,7 +61,7 @@ The ideal: Don't be late for meetings. And if you are given a deadline then make
 
 Life is messy sometimes and being perfect isn't always possible. That's ok, we're all human and we can understand when things are hard. But it is on _YOU_ to communicate effectively.
 
-- If you can't make it to an event: say something ahead of time. As soon as you see a problem, communicate about it.
+- If you can't make it to an event: say something ahead of time. As soon as you identify a problem, communicate about it.
 - If you think you won't hit a deadline: say something ahead of time. As soon as you see a problem, communicate about it.
 
 I'm sure you see the pattern...
