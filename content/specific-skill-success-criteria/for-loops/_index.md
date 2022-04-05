@@ -14,7 +14,7 @@ Many people do pattern matching instead of understanding. Here are some common t
 
 ## Note about submission format
 
-On Tilde you'll notice that this card is asking for a link submission. **Please don't worry about submitting a link**. You will be assessed according to {{% contentlink path="specific-skill-success-criteria/introduction-to-assessments" %}}
+On Tilde you'll notice that this card is asking for link submission. **Please don't worry about submitting a link**. You will be assessed according to {{% contentlink path="specific-skill-success-criteria/introduction-to-assessments" %}}
 
 ## JS and Java learners understand that they can count up and down.
 
@@ -23,7 +23,7 @@ for (some_initialiser,some_check,some_update){
     ...
 }
 ```
-They should be able to reason about each of the different parts of the loops configuration.
+They should be able to reason about each of the different parts of the configuration of the loops.
 
 \## Python learners understand `range` and `in`.
 
@@ -35,7 +35,7 @@ for x in range(len(arr))
     ...
 ```
 
-- They should be able to move forwards or backwards.
+- They should be able to move forward or backwards.
 - They should also understand how to use `enumerate`.
 
 ## All learners understand that the whole body of the loop executes on each iteration.
@@ -79,7 +79,7 @@ for (let i = 0; i < 5; i++){
 }
 ```
 
-## All learners should be able to reason about continue and break within a nested for loop.
+## All learners should be able to reason about `continue` and `break` within a nested for loop.
 
 ```
 for (let n=0; n<3 n++){
