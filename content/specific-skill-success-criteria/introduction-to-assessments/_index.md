@@ -49,8 +49,8 @@ Tests are scary. Live tests where someone is making you think out loud are even 
 
 But there are a few things to keep in mind:
 
-1. we are doing this to help you. If you get fired from your first job we would be sad;
-2. the person who is testing you wants you to succeed and if you stumble they will do their best to help you do better in the next test.
+1. We are doing this to help you. If you get fired from your first job we would be sad.
+2. The person who is testing you wants you to succeed. If you stumble they will do their best to help you do better in the next test.
 
 It is also worth understanding that coding of any sort can be a high-stress job. Let me tell you a story:
 
