@@ -38,7 +38,7 @@ Take a look at this to see how you can see Tilde's data structures:
 Ideally you will be able to build stuff at least as complicated as that. But we'e going to start with some simpler things.
 ## Get started with the project by adding the data to your repo
 
-First of all, please download this data in [this file](data.json) and add it to your repo. All your functions should take this data structure in as an argument.
+First of all, please download this data in [this file](data.json) and add it to your repo. All of your functions should take this data structure in as an argument.
 
 If you look at the data you'll see that what we have is a list or array of elements. Each element represents a shopping basket.
 
@@ -125,4 +125,4 @@ Write a function called `get customers with open baskets` that returns a list/ar
 - the code must be DRY
 - there can be some global constants to help prevent typos. eg `const DELIVERED="DELIVERED"`
 - functions are supposed to return very specific things
-- All the functions above should take in at least one argument, the data array and should work with similar data.
+- All of your functions stated above should take in at least one argument, the data array and should work with similar data.
