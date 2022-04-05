@@ -30,7 +30,7 @@ For the learnership you will create a website with your CV and a portfolio of yo
 
 Create a personal website to showcase your talents and ambitions.
 
-The content and information you choose to display are up to you. There should be some information about your skills, interests, and previous experience, as well as information on how to get in touch with you. Think about the user experience when designing your layout and navigation.
+The content and information you choose to display is up to you. There should be some information about your skills, interests, and previous experience, as well as information on how to get in touch with you. Think about the user experience when designing your layout and navigation.
 
 The HTML and CSS should be developed logically with good naming conventions that would allow another developer to easily understand and build upon your code. There is something called "Semantic Markup" - read all about it [here](https://seekbrevity.com/semantic-markup-important-web-design/).
 
