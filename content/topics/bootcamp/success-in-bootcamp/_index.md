@@ -70,7 +70,7 @@ I'm sure you see the pattern...
 
 If you get into our program you'll be expected to seek out help when you need it, and you'll be expected to help each other. Practice that now.
 
-If you get stuck: Don't suffer in silence. Ask the other bootcampers the staff. Be a team player.
+If you get stuck: Don't suffer in silence. Ask the other bootcampers or our staff. Be a team player.
 
 If you help someone, don't just give them code to use, don't do each other's homework. They need to understand how to solve the problems themselves for real. If we catch people copying each other or encouraging copying then those people will be rejected from our program.
 
