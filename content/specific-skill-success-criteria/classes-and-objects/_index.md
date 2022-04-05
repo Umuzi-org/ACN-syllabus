@@ -72,3 +72,65 @@ class Cuboid(Rectangle):
 ### Overriding
 
 Learner should know how to override a function using super and without using super.
+
+
+## Java
+
+### Constructors
+
+Learner should know that the constructor name must be same as its class name. 
+
+```
+class Rectangle{
+
+    Rectangle(){
+      ....
+    }    
+```
+Learner should know that a single class can have multiple constructors with different numbers of parameters. 
+
+```
+class Rectangle{
+    ....
+
+    // no arg constructor
+    Rectangle()
+    ....
+
+    // parameterized constructor
+    Rectangle(double length, double width)
+    ....
+```
+
+### Instantiation
+
+Learner should know how to instantiate a class object.
+
+```
+  Rectangle rectangle1 = new Rectangle();
+  Rectangle rectangle2 = new Rectangle(10.0, 6.0);
+  Rectangle rectangle2 = new Rectangle(6.0, 7.0);
+```
+
+### Inheritance
+
+Learner must know that to inherit from a class, the keyword extends is used. 
+
+```
+class Square extends Rectangle { .... }
+
+class Cuboid extends Rectangle {
+  private double length, width, height;
+   
+  public Cuboid(double length, double width, double height) {
+    super(length, width);
+    this.length = height;
+  }
+  ....
+}
+```
+
+### Overriding
+
+Learner should know that constructors and methods declared with final or static cannot be overridden. If a method cannot be inherited, it cannot be overridden.
+
