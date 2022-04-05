@@ -43,7 +43,7 @@ Eish, we haven't managed to find anything good here. If you have any suggestions
 
 Do your best to find a solution on your own
 
-- ask your friends and family if you can borrow something
-- see if you can find an Internet cafe and try make a deal
-- see if there are any co-working spaces near you that have computers available
-- see if you can make a plan with someone who refurbishes computers for a living, sometimes you can pick up gear very cheaply
+- Ask your friends and family if you can borrow something.
+- See if you can find an internet cafe and try make a deal.
+- See if there are any co-working spaces near you that have computers available.
+- See if you can make a plan with someone who refurbishes computers for a living, sometimes you can pick up gear very cheaply.
