@@ -22,7 +22,7 @@ Tilde and our projects, tests and other content exist to help you learn and to h
 
 1. If we give you a test, then your answers will be your own. You will not copy people.
 2. If we give you a project to do, you do it yourself. You can ask for help with understanding, but you need to code it yourself.
-3. If anyone tries to copy your work, say no. Tell them why it's a bad idea and help them understand the work
+3. If anyone tries to copy your work, say no. Tell them why it's a bad idea and help them understand the work.
 4. If you get stuck, ask for help. If you think someone else needs help, be brave enough to ask the "stupid questions".
 5. If you see someone who is engaging in dishonest activity, tell a staff member! If you are reviewing someone's work and it looks like they copied it, you can give it a RED FLAG and add a comment showing where they copied work from.
 6. Be nice. Be respectful. Be helpful. If you have any meetings or workshops, be on time.
