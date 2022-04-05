@@ -13,7 +13,7 @@ We expect you to WRITE YOUR OWN CODE! If we catch you copy-pasting then we wont 
 
 Why?
 
-A real coder aims to understand stuff. If you want to be a professional coder and all you know how to do is copy-paste other people's hard work you won't make it as a professional.
+A real coder aims to understand stuff. If you want to be a professional coder and all you know how to do is copy-paste other people's hard work, you won't make it as a professional.
 
 ## Help each other intelligently
 
