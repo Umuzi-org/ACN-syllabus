@@ -41,7 +41,7 @@ Your project is expected to be completed using pytest. You are expected to follo
 ```
 ├── string_calculator   the package under test
 │   └── calculator.py
-├── requirements.txt    installation requiremnts
+├── requirements.txt    installation requirements
 ├── setup.py            installation script for the package under test
 └── tests               all package tests go in this directory
     └── test_calculator.py
@@ -116,6 +116,15 @@ add("//4\n142")
 In the first case, the default delimiter is: ";".
 
 In the second case, the default delimiter is: "4".
+
+**Note:** you are not expected to handle integer delimiters where the delimiter and the digit your adding are the same. For example
+
+```
+add("//4\n14244")
+add("//88\n18882")
+```
+
+Strings like these should raise an error, `'ERROR: invalid input'`.
 
 #### 5. Modify the add function so that it can handle negative integers
 
@@ -202,6 +211,7 @@ add("1,2,3//;\n1000,1;2")
     'ERROR: invalid input'
 
 ```
+
 
 ### Why is this important?
 
