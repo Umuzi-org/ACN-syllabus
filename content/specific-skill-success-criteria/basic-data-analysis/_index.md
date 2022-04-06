@@ -30,7 +30,7 @@ Given a list of numbers the learner should be able to calculate the median. Make
 
 - lists with an even number of elements. For example : `[87, 94, 78, 77, 85, 86]`
 - lists with an odd number of elements. For example : `[87, 94, 77, 85, 86]`
-- Lists that aren't sorted. For example : `[30,2,12,1,8]`
+- lists that aren't sorted. For example : `[30,2,12,1,8]`
 
 ## Mode
 
