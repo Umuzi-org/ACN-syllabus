@@ -63,7 +63,7 @@ Please remember user interfaces are for users. Think about your users and how th
 - The user is always right. If a user gets confused by your website then it means that your website is confusing. Swallow your pride and accept criticism.
 - Always have an escape strategy. If a user clicks on a button and navigates somewhere strange, they should be able to go back.
 - Don't use too many colours. And remember that some of your users will be colour-blind
-- Be consistent
+- Be consistent.
 - Make sure that the most important parts of your site look important. Make them big, and put them at the top. Guide your users to interact with the right components
 - Make desired actions easy. Imagine two e-commerce sites with a similar style, selling similar items. On-site A the user needs to click the mouse 10 times to make a purchase, on-site B the user needs to click the mouse 3 times to make a purchase. Site B will make more sales.
 - Familiarity breeds trust. If your website looks familiar then people will take it seriously
