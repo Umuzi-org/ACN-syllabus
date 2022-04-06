@@ -22,7 +22,7 @@ When we are getting things right, then the following should all be true:
 1. Students should be working on their highest priority task at all times.
 2. Students should be working at a sustainable rate, they shouldn't burn themselves out or go too slow.
 3. students should learn the good habits that make work on a professional dev team successful.
-4. if there are any problems then those problems need to be surfaced and dealt with quickly. The longer a problem waits to be addressed, the more costly it is to fix.
+4. If there are any problems then those problems need to be surfaced and dealt with quickly. The longer a problem waits to be addressed, the more costly it is to fix.
 5. Everyone gets their work done in a way that grows their understanding and skills.
 
 ## Sources of waste
