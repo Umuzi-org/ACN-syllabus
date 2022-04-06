@@ -72,7 +72,7 @@ Here are a few sample questions: what is the probability of...
 - throwing a 2 on a six-sided die?
 - throwing an even number on a six-sided die?
 - rolling 2 six-sided dice and getting a total value of 5? (for example, one die lands on a 2 and the other on a 3)
-- Rolling 3 sixes in a row if you roll a six-sided die 3 times
+- rolling 3 sixes in a row if you roll a six-sided die 3 times
 - Rolling 3 sixes in a row if you roll a six-sided die 5 times
 
 ## P-value
