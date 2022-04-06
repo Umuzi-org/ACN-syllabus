@@ -61,7 +61,7 @@ Please remember user interfaces are for users. Think about your users and how th
 - Make sure your front-end is discoverable. What would a new user think to do when they arrive for the first time?
 - Make sure that your front-end is learnable. If you need your users to take novel actions make sure that the users can remember how to do those actions later.
 - The user is always right. If a user gets confused by your website then it means that your website is confusing. Swallow your pride and accept criticism.
-- Always have an escape strategy. If a user clicks on a button and navigates somewhere strange, they should be able to go back
+- Always have an escape strategy. If a user clicks on a button and navigates somewhere strange, they should be able to go back.
 - Don't use too many colours. And remember that some of your users will be colour-blind
 - Be consistent
 - Make sure that the most important parts of your site look important. Make them big, and put them at the top. Guide your users to interact with the right components
