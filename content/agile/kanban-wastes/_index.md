@@ -35,7 +35,7 @@ What is waste? There are a few different kinds:
 
 This is somewhere where resources have been sunk, but no value has yet been created.
 
-Eg: imagine you owned a car factory. You can't sell half a car. You can only sell a car that is complete. Same with software. Half a feature is useless. Completing work adds value.
+For example: imagine you owned a car factory. You can't sell half a car. You can only sell a car that is complete. Same with software. Half a feature is useless. Completing work adds value.
 
 Therefore: bias your actions towards finishing things. Junior coders often like to chase shiny new things and start new projects before finishing what they started. This is normal, it's also ineffective.
 
