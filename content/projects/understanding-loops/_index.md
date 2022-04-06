@@ -132,4 +132,4 @@ e.g. `getCustomersWithOpenBaskets(dataArray);`
 - the code must be DRY
 - there can be some global constants to help prevent typos. eg `const DELIVERED="DELIVERED"`
 - functions are supposed to return very specific things
-- All of your functions stated above should take in at least one argument, the data array, and should work with similar data.
+- All the functions stated above should take in at least one argument, the data array, and should work with similar data.
