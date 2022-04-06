@@ -71,7 +71,7 @@ The learner should be able to do simple calculations of probabilities. They shou
 Here are a few sample questions: what is the probability of...
 - throwing a 2 on a six-sided die?
 - throwing an even number on a six-sided die?
-- Rolling 2 six-sided dice and getting a total value of 5? (for example, one die lands on a 2 and the other on a 3)
+- rolling 2 six-sided dice and getting a total value of 5? (for example, one die lands on a 2 and the other on a 3)
 - Rolling 3 sixes in a row if you roll a six-sided die 3 times
 - Rolling 3 sixes in a row if you roll a six-sided die 5 times
 
