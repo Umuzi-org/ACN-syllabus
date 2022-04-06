@@ -69,7 +69,7 @@ Show the learner some scatter plots and ask them to tell you about the correlati
 The learner should be able to do simple calculations of probabilities. They should know when probabilities should be multiplied and when they should be added.
 
 Here are a few sample questions: what is the probability of...
-- Throwing a 2 on a six-sided die?
+- throwing a 2 on a six-sided die?
 - Throwing an even number on a six-sided die?
 - Rolling 2 six-sided dice and getting a total value of 5? (for example, one die lands on a 2 and the other on a 3)
 - Rolling 3 sixes in a row if you roll a six-sided die 3 times
