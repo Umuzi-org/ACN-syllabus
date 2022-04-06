@@ -26,7 +26,7 @@ for i in range(5):
 
 ## Cheat codes
 
-If you are running VSCode then you can set it up to autoformat your code whenever you hit save. You'll be asked what formatter to use. We recommend using [Black](https://github.com/psf/black). Once you go black you never go back.
+If you are running VSCode, then you can set it up to autoformat your code whenever you hit save. You'll be asked what formatter to use. We recommend using [Black](https://github.com/psf/black). Once you go black you never go back.
 
 ## Naming Conventions
 
