@@ -19,7 +19,7 @@ Please go through this content and do your best to understand all the things.
 
 ## Github versus Git
 
-One thing to know is that Git and Github are not the same things. Git is a foundational tool; you don't need to use Github if you want to use Git.
+One thing to know is that Git and Github are not the same thing. Git is a foundational tool; you don't need to use Github if you want to use Git.
 
 Github is a web application and a collection of tools that make Git useful.
 
