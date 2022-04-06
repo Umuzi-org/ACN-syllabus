@@ -40,7 +40,7 @@ The Internet is a massive network of networks, a networking infrastructure. It c
 
 The World Wide Web(www.), or simply Web, is a way of accessing information over the medium of the Internet and it is the major application of internet technology today. It is an information-sharing model that is built on top of the Internet.
 
-These days, we often just say "The Internet" when we refer to anything we access via a web browser or smartphone. However, the World Wide Web and the Internet aren't the same things. The Web uses a specific protocol called HTTP (hypertext transfer protocol), which is just one of the protocols used to transmit information over the Internet. For example, the Internet, not the Web, is also used for e-mail (which uses IMAP, POP and SMTP), instant messaging, peer-to-peer networks, and FTP (file transfer protocol). So the Web is just a portion of the Internet, albeit a large portion, but the two terms are not synonymous and should not be confused.
+These days, we often just say "The Internet" when we refer to anything we access via a web browser or smartphone. However, the World Wide Web and the Internet aren't the same thing. The Web uses a specific protocol called HTTP (hypertext transfer protocol), which is just one of the protocols used to transmit information over the Internet. For example, the Internet, not the Web, is also used for e-mail (which uses IMAP, POP and SMTP), instant messaging, peer-to-peer networks, and FTP (file transfer protocol). So the Web is just a portion of the Internet, albeit a large portion, but the two terms are not synonymous and should not be confused.
 
 ## How does the Internet work?
 
