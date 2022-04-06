@@ -25,14 +25,14 @@ are all considered and organized to create a website or web application that loo
 ### Layout & Responsive design
 _Layout and responsiveness are connected so while learning how to make your site responsive you will learn different layouts to achieve responsiveness._
 
-A responsive web site is one that changes shape / or layout to accommodate different devices. Since cellphones are so powerful these days it is usually considered best practice to design your site in a "mobile first" way. This means that you should first make sure that your site works well on a phone, then you make sure it works well on larger devices.
+A responsive website changes shape / or layout to accommodate different devices. Since cell phones are so powerful these days it is usually considered best practice to design your site in a "mobile-first" way. This means that you should first make sure that your site works well on a phone, then you make sure it works well on larger devices.
 
 This is generally achieved through the use of CSS-Grid.
 https://www.freecodecamp.org/news/intro-to-css-grid-layout/
 
 ### Accessibility
 
-A lot of people have disabilities. When you design a website, you should try keep that in mind.
+A lot of people have disabilities. When you design a website, you should try to keep that in mind.
 
 Here's a great introduction to web accessibility.
 
@@ -52,18 +52,20 @@ The main difference between good and bad websites is determined by visual appeal
 
 
 
-### Guidelines to achieving good Web Design
+### Guidelines for achieving good Web Design
 
 Please remember user interfaces are for users. Think about your users and how they will interact with your work.
+
 ### Basics:
+
 - Make sure your front-end is discoverable. What would a new user think to do when they arrive for the first time?
 - Make sure that your front-end is learnable. If you need your users to take novel actions make sure that the users can remember how to do those actions later.
-- The user is always right. If a user gets confused by your website then it means that your website is confusing. Swallow your pride and accept criticism
-- Always have an escape strategy. If a user clicks on a button and navigates somewhere strange, they should be able to go back
-- Don't use too many colors. And remember that some of your users will be color-blind
-- be consistent
-- Make sure that the most important parts of your site look important. Make them big, put them at the top. Guide your users to interact with the right components
-- Make desired actions easy. Imagine two e-commerce sites with a similar style, selling similar items. On site A the user needs to click the mouse 10 times to make a purchase, on site B the user needs to click the mouse 3 times to make a purchase. Site B will make more sales.
+- The user is always right. If a user gets confused by your website then it means that your website is confusing. Swallow your pride and accept criticism.
+- Always have an escape strategy. If a user clicks on a button and navigates somewhere strange, they should be able to go back.
+- Don't use too many colours. And remember that some of your users will be colour-blind
+- Be consistent.
+- Make sure that the most important parts of your site look important. Make them big, and put them at the top. Guide your users to interact with the right components.
+- Make desired actions easy. Imagine two e-commerce sites with a similar style, selling similar items. On-site A the user needs to click the mouse 10 times to make a purchase, on-site B the user needs to click the mouse 3 times to make a purchase. Site B will make more sales.
 - Familiarity breeds trust. If your website looks familiar then people will take it seriously
 
 ### Design Principle: KISS
@@ -78,15 +80,15 @@ Please remember user interfaces are for users. Think about your users and how th
 
 ### Tools for design
 Before developing your site it is normally a good idea to have a clue of what it should look like, this can save you time and have you working towards a better design. 
-You can create your own wireframes and prototypes using different softwares. 
-A great open source tool to try out is Figma.
-- [Click here to install Figma on your linux machine ](https://snapcraft.io/install/figma-linux/mint)
+You can create your wireframes and prototypes using different software. 
+A great open-source tool to try out is Figma.
+- [Click here to install Figma on your Linux machine ](https://snapcraft.io/install/figma-linux/mint)
 
 Not using Linux or don't want to download Figma on your machine? No problem, you can use Figma on your browser to get up and running on your next prototype or simple wireframe- [Click here](https://www.figma.com/)
 
 ### Further learning materials
 
-Found this topic on Web Design intresting? Feel free to check out the material below.
+Found this topic on Web Design interesting? Feel free to check out the material below.
 
 -  https://www.pagecloud.com/blog/web-design-guide
 - [design-101-for-developers](https://academy.realm.io/posts/christopher-downer-design-101-for-developers/)
