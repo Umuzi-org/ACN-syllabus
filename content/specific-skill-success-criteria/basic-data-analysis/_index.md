@@ -51,7 +51,7 @@ Make sure to check that they know how to handle:
 
 ## Variance and Standard deviation
 
-- The learner should be able to calculate the variance and standard deviation of a list of numbers
+- The learner should be able to calculate the variance and standard deviation of a list of numbers.
 - If you show the learner a plot of some data and ask them if standard deviation is meaningful they should be able to tell you. E.g. is it worth calculating the standard deviation of an exponential distribution?
 - If you have a normal distribution where the curve is flat, and another one where the curve is pointy, then which one has the higher standard deviation?
 
@@ -72,8 +72,8 @@ Here are a few sample questions: what is the probability of...
 - throwing a 2 on a six-sided die?
 - throwing an even number on a six-sided die?
 - rolling 2 six-sided dice and getting a total value of 5? (e.g. one die lands on a 2 and the other on a 3)
-- rolling 3 sixes in a row if you roll a six-sided die 3 times
-- rolling 3 sixes in a row if you roll a six-sided die 5 times
+- rolling 3 sixes in a row if you roll a six-sided die 3 times.
+- rolling 3 sixes in a row if you roll a six-sided die 5 times.
 
 ## P-value
 
