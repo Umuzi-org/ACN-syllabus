@@ -15,7 +15,7 @@ title: Clean Code for Python
 
 Python is about whitespace and if you are working on a team then your whitespace better line up otherwise you'll just make errors.
 
-If you are running VSCode then set it up so that whenever you hit the Tab key it makes 4 spaces.
+If you are running VSCode, then set it up so that whenever you hit the Tab key it makes 4 spaces.
 
 Your code should always use 4 spaces to indent:
 
