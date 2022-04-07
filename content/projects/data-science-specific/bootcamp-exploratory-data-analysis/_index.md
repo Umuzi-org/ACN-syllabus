@@ -36,7 +36,7 @@ The [data set](data.csv) consists of health and demographic data for the period 
 
 2. Are there any other problems with the data? If so, fix them.
 
-3. Identify the country with the lowest % of the population under 15 and the one with the highest.
+3. Identify the country with the lowest % of their population under 15 and the one with the highest.
 
 4. Which region has the highest % of the population over 60?
 
