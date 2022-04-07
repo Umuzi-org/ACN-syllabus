@@ -33,7 +33,7 @@ This challenge should test topics from your OOP knowledge.
 In this challenge, you will create 3 classes.
 
 1. Super class called `Animal`
-2. `Dog` and `Cat` class both **extends** `Animal` class (a dog is an animal, and a cat is an animal).
+2. `Dog` and `Cat` class both **extend** `Animal` class (a dog is an animal, and a cat is an animal).
 3. `Dog` and `Cat` class should only have one function, which is their own implementation of the `sounds()` function. This is polymorphism.
 4. A `Home` class, but we will talk about that later...
 
