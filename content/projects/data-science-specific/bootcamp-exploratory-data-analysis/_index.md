@@ -38,7 +38,7 @@ The [data set](data.csv) consists of health and demographic data for the period 
 
 3. Identify the country with the lowest % of their population under 15 and the one with the highest.
 
-4. Which region has the highest % of the population over 60?
+4. Which region has the highest % of their population over 60?
 
 5. Does fertility decrease as income increases? Are there any countries that don't seem to follow this relation?
 
