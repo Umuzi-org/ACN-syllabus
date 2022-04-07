@@ -4,7 +4,7 @@ content_type: topic
 title: Why and how to review code
 ---
 
-It's worth knowing that code review is a fact of life in major software companies. For example the engineers at Google think it's really important and Google does pretty well.
+It's worth knowing that code review is a fact of life in major software companies. For example, the engineers at Google think it's really important and Google does pretty well.
 
 So trust that it is important. You need to learn how to do it well.
 
@@ -13,7 +13,7 @@ Here are a couple of articles that will help you get your head around how profes
 - https://sophiebits.com/2018/12/25/why-review-code.html
 - https://www.smashingmagazine.com/2019/06/bringing-healthy-code-review-mindset/
 
-When working on a professional team, on a real piece of software, following a good code review process leads to getting the code merged and deployed. It makes the code useful. It makes the code work. So a lot of people will think that the ONLY reason for doing code review is to make sure that the code works. But that is incorrect thinking.
+When working on a professional team, on a real piece of software, following a good code review process leads to getting the code merged and deployed. It makes the code useful. It makes the code work. So a lot of people will think that the ONLY reason for doing a code review is to make sure that the code works. But that is incorrect thinking.
 
 Code review is largely about the growth of people's skills. It's about knowledge sharing. Since we are all about personal growth we're going to focus on those aspects of code review.
 
@@ -42,13 +42,13 @@ If you spot misunderstandings and you are unsure how you can help, reach out to 
 
 Remember that: **The only reasonable measure of success is the number of people you have helped**
 
-If you can help people understand stuff, then you will be helping them kick-start their careers. You'll indirectly be helping them to support their families and positively effect their communities. It's a powerful thing.
+If you can help people understand stuff, then you will be helping them kick-start their careers. You'll indirectly be helping them to support their families and positively affect their communities. It's a powerful thing.
 
 ## When receiving feedback
 
 - **DO** stay humble
-- **DO NOT** takew it personally
+- **DO NOT** take it personally
 
-And if someone tries to just spoonfeed you answers instead of giving you feedback you can learn from, please give them feedback and help them become a better reviewer.
+And if someone tries to just spoonfeed you answers instead of giving you the feedback you can learn from, please give them feedback and help them become a better reviewer.
 
 # Always remember that the goal of code review in an education setting is UNDERSTANDING. Help each other understand. Not just "complete" stuff
