@@ -25,7 +25,7 @@ For example, if you are instructed to do something interesting to an array with 
 
 ## Beware of the edge cases
 
-An edge case is kinda a funny thing to understand. You need to think of extreme values and see if your code can handle that.
+An edge case is kind of a funny thing to understand. You need to think of extreme values and see if your code can handle that.
 
 For example:
 
