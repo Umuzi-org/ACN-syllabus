@@ -20,12 +20,12 @@ title: Statistical Thinking
 
 At the end of this assignment you should be able to:
 
-- Do exploratory data analysis on a new dataset
-- Know what the measures of central tendency and spread are used for
-- Know when to use which measure of central tendency
-- Be able to describe different distributions and interpret a histogram
-- Know what outliers are and how they affect measures of central tendency and spread
-- Be able to interpret correlations from a graph and from the correlation coefficient
+- Do exploratory data analysis on a new dataset.
+- Know what the measures of central tendency and spread are used for.
+- Know when to use which measure of central tendency.
+- Describe different distributions and interpret a histogram.
+- Know what outliers are and how they affect measures of central tendency and spread.
+- Interpret correlations from a graph and from the correlation coefficient
 
 ## Background material
 
@@ -41,22 +41,22 @@ Complete the DataCamp courses [Statistical Thinking in Python Part 1](https://ww
 
 ### Instructions
 
-The Millennium Development Goals were a set of 8 goals for 2015 that were defined by the United Nations to help improve living conditions and the conditions of our planet. Key indicators were defined for each of these goals, to see whether they were being met. We will have a look at some of the key indicators from _Goal 7: Ensure environmental sustainability_, namely carbon dioxide emissions, protected land and sea areas, and forests. The full dataset can be found at http://mdgs.un.org/.
+The Millennium Development Goals were a set of 8 goals for 2015 that were defined by the United Nations to help improve living conditions and the conditions of our planet. Key indicators were defined for each of these goals, to see whether they were being met. We will have a look at some of the key indicators from _Goal 7: Ensure environmental sustainability_, namely carbon dioxide (CO2) emissions, protected land and sea areas, and forests. The full dataset can be found at http://mdgs.un.org/.
 
 Import the [MDG data](MDG_Export_20191227.csv) to a Jupyter Notebook. You will need the packages `matplotlib`, `numpy`, `seaborn`, `pandas` and `scipy`.
 
 ### Questions
 
 1. How many different countries are represented? How many missing values are there by country, year and series?
-2. Who are the top and bottom 5 countries in terms of C02 emissions in 1990 and what are their emissions? How has this changed by 2011?
+2. Who are the top and bottom 5 countries in terms of CO2 emissions in 1990 and what are their emissions? How has this changed by 2011?
 
   - Do you spot any problems with the data? If so, fix it.
 
-3. Calculate the mean and median C02 emissions for 1990. Why do you think these values differ?
+3. Calculate the mean and median CO2 emissions for 1990. Why do you think these values differ?
 4. Calculate the minimum, maximum and interquartile range of the CO2 emissions for 1990. Using this information, and the mean and median, what does this tell you about the distribution of CO2 emissions?
 5. Create a histogram of the CO2 emissions for 1990. Is this what you expected from your answers in questions 3 and 4?
 6. Calculate the standard deviation and standard error of the mean for CO2 emissions in 1990. How is the standard error different from the standard deviation?
-7. Create a line graph to show C02 emissions in Brazil, Russia, China, India, the USA and South Africa over time. What does the graph tell you about the difference and change in C02 emissions in these countries?
+7. Create a line graph to show CO2 emissions in Brazil, Russia, China, India, the USA and South Africa over time. What does the graph tell you about the difference and change in C02 emissions in these countries?
 8. What is the mean and standard deviation for land area covered by forest in 1990? Why do you think the standard deviation is so large?
 9. Create histograms for land area covered by forest and percentage of area protected in 1990. Describe the distributions.
 10. Create a scatterplot with a regression line using `seaborn.regplot` to show the relationship between the proportion of land area covered by forest and the percentage of area protected in 2000.
@@ -100,7 +100,7 @@ Import the [MDG data](MDG_Export_20191227.csv) to a Jupyter Notebook. You will n
    `.contains()`, `.groupby()`.  When learners don't understand how to use these functions as a collective they revert
    to things such as printing out an entire dataframe or finding the answer through a series of loops.
 
-7. Any plots that are to be done should be neat and easily readable.  The plot must have a heading, the labels should
+7. Any plots that are to be done, should be neat and easily readable.  The plot must have a heading, the labels should
    be in bold, the x and y axes should make sense (Multipliers should be added if necessary).
 
 8. Most learners have no problem in calculating the standard error or the standard deviation in the mean, however,
