@@ -17,19 +17,19 @@ tags:
 title: Validate a South African ID number
 ---
 
-In this project we'll be practicing Test Driven Development while solving a validation problem.
+In this project, we'll be practising Test Driven Development while solving a validation problem.
 
 Please make sure that you commit your code often! At least every time you get one of your tests to pass. Also please make sure you make your git commit messages meaningful.
 
 ## Validation problems
 
-As a coder, you will often be asked to validate things. For example you might be getting data from a crazy csv file and you could be given the instruction: get all the valid South African cellphone numbers. Or you might need to help users choose a valid password (e.g. the password needs to be more than 6 characters and some other conditions). You might need to check that email addresses given to you are valid. Or any number of other things.
+As a coder, you will often be asked to validate things. For example, you might be getting data from a crazy CSV file and you could be given the instruction: get all the valid South African cellphone numbers. Or you might need to help users choose a valid password (e.g. the password needs to be more than 6 characters and some other conditions). You might need to check that the email addresses given to you are valid. Or any number of other things.
 
 Validating data is pretty easy when you get the hang of it.
 
-Generally the procedure would be something like this,
+Generally, the procedure would be something like this,
 
-This is pseudocode:
+This is the pseudocode:
 
 ```
 function validate_stuff(stuff){
@@ -54,12 +54,12 @@ Your function would look a bit like this (pseudocode):
 
 ```
 function validate_phone_number(phone_number){
-    if phone number doesnt start with 27:
-        throw error
-    if phone number isnt the right length:
-        throw error
-    if phone number contains characters that aren't numbers:
-        throw error
+    if the phone number doesnt start with +27:
+        throw an error
+    if the phone number is not the right length:
+        throw an error
+    if the phone number contains characters that aren't numbers:
+        throw an error
 
     return "phone number is valid"
 }
@@ -72,7 +72,7 @@ Write a function that validates South African ID numbers. Please name your funct
 
 If the ID number is valid then return true, if it is not valid then return false.
 
-A South African ID number is a 13-digit number which is defined by the following format: YYMMDDSSSSCAZ.
+A South African ID number is a 13-digit number that is defined by the following format: YYMMDDSSSSCAZ.
 
 - The first 6 digits (YYMMDD) are based on your date of birth. 20 February 1992 is displayed as 920220.
 - The next 4 digits (SSSS) are used to define your gender. Females are assigned numbers in the range 0000-4999 and males from 5000-9999.
@@ -128,7 +128,7 @@ Run your tests again. Everything is GREEN now.
 
 #### Keep going
 
-Now it starts to get more interesting. Each of the digits in the ID number mean different things and have different validation logic.
+Now it starts to get more interesting. Each of the digits in the ID number means different things and has different validation logic.
 
 1. Use TDD to implement validation logic for the 2 digits denoting the year.
 2. Use TDD to implement validation logic for the 2 digits denoting the month.
