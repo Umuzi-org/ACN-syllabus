@@ -51,15 +51,15 @@ tags:
 title: Thinking like a machine
 ---
 
-## 1. Problem solving
+## 1. Problem-solving
 
-In this unit, we’ll explore how computers work at a fundamental level. This will help you understand how to be better at using computer programming as a problem solving tool. Your goal should be to become a good problem solver no matter what technology you use. By learning more about computer programming basics like logical operators and the laws of Boolean algebra, you’ll be better equipped to harness the power of computing to solve problems.
+In this unit, we’ll explore how computers work at a fundamental level. This will help you understand how to be better at using computer programming as a problem-solving tool. Your goal should be to become a good problem solver no matter what technology you use. By learning more about computer programming basics like logical operators and the laws of Boolean algebra, you’ll be better equipped to harness the power of computing to solve problems.
 
-We’ll start this unit by introducing some basic problem solving methods, then move on to computer science concepts in the next sections. To start, watch the first three videos in [this playlist](https://www.youtube.com/watch?v=YgzpqlF54lo&list=PLKQ5LYb497AZIZe9dBWy8GwLluVaMQVj0).
+We’ll start this unit by introducing some basic problem-solving methods, and then move on to computer science concepts in the next sections. To start, watch the first three videos in [this playlist](https://www.youtube.com/watch?v=YgzpqlF54lo&list=PLKQ5LYb497AZIZe9dBWy8GwLluVaMQVj0).
 
 As you become a better programmer, you may want to watch more videos from this playlist. It covers some good topics and tools for solving programs through code.
 
-**Now, let’s put some problem solving skills to the test.**
+**Now, let’s put some problem-solving skills to the test.**
 
 What number goes inside the final triangle?
 
@@ -69,9 +69,9 @@ Next, try playing the game Mastermind [(you can play online here)](http://www.we
 
 ## 2. Logical operators
 
-If you think you know what "logic" means, you probably don't... In this section we'll be going through what it means in the context of computer programming.
+If you think you know what "logic" means, you probably don't... In this section, we'll be going through what it means in the context of computer programming.
 
-You know about True and False by now. These are referred to as boolean values. Some coding expressions evaluate to boolean values, and you can store boolean values inside variables.
+You know about True and False by now. These are referred to as boolean values. Some coding expressions evaluate boolean values, and you can store boolean values inside variables.
 
 eg:
 ```[js]
@@ -80,7 +80,7 @@ even = input_number %2 === 0
 
 In this case, if the input_number is 5 then `even` would be false. And if `input_number` was equal to 2 then `even` would be equal to true.
 
-Now a Logical Operator is a way of combining boolean values into new boolean values. Some of these logical operators have some very normal sounding names. `and` and `or` are locical operators.
+Now a Logical Operator is a way of combining boolean values into new boolean values. Some of these logical operators have some very normal sounding names. `and` and `or` are logical operators.
 
 Here's an example:
 
@@ -186,7 +186,7 @@ Every Boolean function can be expressed by an algebraic expression, like F = A+B
 
 #### Boolean Expression
 
-In the example below, F is the output of the Boolean function, and A, B and C are the inputs. The + means OR and the . means AND.
+In the example below, F is the output of the Boolean function, and A, B and C are the inputs. The '+' means OR and the '.' means AND.
 
 F = A+B*C
 
@@ -198,6 +198,6 @@ Here is an example of a truth table for the Boolean expression listed above
 
 ### Karnaugh Maps (K-Maps)
 
-A Karnaugh Map is a grid-like representation of a truth table.  It is really just another way of presenting a truth table, but the mode of presentation gives more insight.  A Karnaugh map has zero and one entries at different positions. Each position in a grid corresponds to a truth table entry. They are useful for simplifying complex Boolean expressions, especially those with more than 2 variables.
+A Karnaugh Map is a grid-like representation of a truth table.  It is just another way of presenting a truth table, but the mode of presentation gives more insight.  A Karnaugh map has zero and one entry at different positions. Each position in a grid corresponds to a truth table entry. They are useful for simplifying complex Boolean expressions, especially those with more than 2 variables.
 
 (Optional) For more information about using K-Maps to simplify Boolean expressions, watch this video: https://youtu.be/PA0kBrpHLM4
