@@ -66,12 +66,12 @@ There are three basic types of program errors.
 
 **Syntax errors**
 
-These are the easiest errors to deal with because your console will usually tell you right away if there is a syntax error. A syntax error occurs when you don’t follow the rules of your programming language. If you make a mistake in how you type a variable or function name (especially a function built in to JavaScript), then the program will end and the console will throw an error message
+These are the easiest errors to deal with because your console will usually tell you right away if there is a syntax error. A syntax error occurs when you don’t follow the rules of your programming language. If you make a mistake in how you type a variable or function name (especially a function built into JavaScript), then the program will end and the console will throw an error message
 
 
 **Semantic errors**
 
-If there is a semantic error in your program, it will run successfully in the sense that the computer will not generate any error messages. However, your program will not do the right thing. It will do something else. Specifically, it will do what you told it to do. The problem is that the program you wrote is not the program you wanted to write. The meaning of the program (its semantics) is wrong. Identifying semantic errors can be tricky because it requires you to work backward by looking at the output of the program and trying to figure out what it is doing.
+If there is a semantic error in your program, it will run successfully in the sense that the computer will not generate any error messages. However, your program will not do the right thing. It will do something else. Specifically, it will do what you told it to do. The problem is that the program you wrote is not the program you wanted to write. The meaning of the program (its semantics) is wrong. Identifying semantic errors can be tricky because it requires you to work backwards by looking at the output of the program and trying to figure out what it is doing.
 
 
 **Logic errors**
@@ -79,24 +79,24 @@ If there is a semantic error in your program, it will run successfully in the se
 Logic errors are the hardest ones to debug. They occur when the result the program produces doesn’t match the result you expect it to produce. Most of the time, logic errors are found in the process. Logic errors occur when you implement the algorithm for solving the problem incorrectly. The key to fixing logic errors is to be able to reproduce the error consistently. A repeatable logic error is much easier to track down and fix than an error that appears to be occurring randomly.
 
 
-One of the ways to find these type of errors is to output the program's relevant variables to the console [calling console.log(myVar) at strategic points in your code] in order to find where the error is in your program. Although this will not work in all cases, it is the easiest way to find the problem if the program produces incorrect results because of an error in logic.
+One of the ways to find these types of errors is to output the program's relevant variables to the console [calling console.log(myVar) at strategic points in your code] in order to find where the error is in your program. Although this will not work in all cases, it is the easiest way to find the problem if the program produces incorrect results because of an error in logic.
 
 Apart from these errors in your code, it’s possible to encounter errors when you are working with extreme numbers:
 
 
 **Overflow error**
 
-An error that occurs when the computer attempts to handle a number that is too large for it. Every computer has a well-defined range of values that it can represent. If during execution of a program it arrives at a number outside this range, it will experience an overflow error.
+An error occurs when the computer attempts to handle a number that is too large for it. Every computer has a well-defined range of values that it can represent. If during the execution of a program it arrives at a number outside this range, it will experience an overflow error.
 
 
 **Underflow error**
 
-The term arithmetic underflow (or "floating point underflow", or just "underflow") happens when the result of a calculation is a number of smaller absolute value than the computer can actually represent in memory on its CPU.
+The term arithmetic underflow (or "floating point underflow", or just "underflow") happens when the result of a calculation is a number of smaller absolute values than the computer can actually represent in memory on its CPU.
 
 
 **Conversion error**
 
-When you are converting one type of data to another, errors can often occur. For example, you may find there are errors when you convert a CSV file to an Excel file (or XML to Word). There are no shortage of issues when you are trying to share files between programs, or convert a file type from one program to another.
+When you are converting one type of data to another, errors can often occur. For example, you may find there are errors when you convert a CSV file to an Excel file (or XML to Word). There is no shortage of issues when you are trying to share files between programs or convert a file type from one program to another.
 
 1. Detecting errors through testing
 
@@ -123,14 +123,14 @@ Integration testing is mainly useful for situations where unit testing is not en
 **Functional Testing**
 
 
-Functional testing is defined as the testing of complete functionality of some application. In practice, with web apps, this means using some tool to automate a browser, which is then used to click around on the pages to test the application.
+Functional testing is defined as the testing of the complete functionality of some application. In practice, with web apps, this means using some tool to automate a browser, which is then used to click around on the pages to test the application.
 
 
 You might use a unit test to test an individual function and an integration test to check that two parts of the program play nice. Functional tests are on a whole other level. While you can have hundreds of unit tests, you usually want to have only a small amount of functional tests. This is mainly because functional tests can be difficult to write and maintain due to their very high complexity. They also run very slowly, because they simulate real user interaction on a web page, so even page load times become a factor.
 
 ## 3. Test-driven development
 
-Check out the following tutorial which teaches the basics of TDD in 30 minutes. There are lots of bonus lessons, including some that use Node.js, which you are encouraged to go through as well. **Don't just read it! Actually download the testing libraries and code it yourself.**
+Check out the following tutorial which teaches the basics of TDD in 30 minutes. There are lots of bonus lessons, including some that use Node.js, which you are encouraged to go through as well. **Don't just read it! Actually, download them testing libraries and code it yourself.**
 
 https://github.com/dwyl/learn-tdd
 
@@ -139,4 +139,4 @@ Want more examples? Here’s another great TDD tutorial that focuses on using AP
 
 https://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro/
 
-As these tutorials state, using test-driven development may seem like extra work at first, but the benefits are enormous, especially for larger projects. TDD helps you think through the requirements of your program, and breaks it into bite-sized pieces which makes it more fun to develop and less prone to error.
+As these tutorials state, using test-driven development may seem like extra work at first, but the benefits are enormous, especially for larger projects. Test-Driven Development helps you think through the requirements of your program and breaks it into bite-sized pieces which makes it more fun to develop and less prone to error.
