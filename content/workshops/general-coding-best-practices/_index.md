@@ -1,6 +1,6 @@
 ---
 _db_id: 19
-content_type: workshop
+content_type: topic
 ready: true
 title: Clean Code (language agnostic)
 ---
