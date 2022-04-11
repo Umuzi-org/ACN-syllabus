@@ -82,7 +82,7 @@ What is the need for documenting something everyone knows? Create a vision, if i
 
 **Wait before documenting**
 
-This is the best way to avoid the false information in your papers document late. Wait until the decision is implemented and there’s no going back until you actually put it on paper. The information is stabilized and reliable. You economize the cost, time and effort, spent on redoing your documents. Note: This only applies to high-level documents that explain your program to a user. You should document your code with comments/pseudocode before you write any code.
+This is the best way to avoid the false information in your papers, document later in the process. Wait until the decision is implemented and there’s no going back until you actually put it on paper. The information is stabilized and reliable. You economize the cost, time and effort, spent on redoing your documents. Note: This only applies to high-level documents that explain your program to a user. You should document your code with comments/pseudocode before you write any code.
 
 **Be specific**
 
