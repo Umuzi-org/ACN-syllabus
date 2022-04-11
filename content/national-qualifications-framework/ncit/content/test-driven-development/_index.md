@@ -130,7 +130,7 @@ You might use a unit test to test an individual function and an integration test
 
 ## 3. Test-driven development
 
-Check out the following tutorial which teaches the basics of TDD in 30 minutes. There are lots of bonus lessons, including some that use Node.js, which you are encouraged to go through as well. **Don't just read it! Actually, download them testing libraries and code it yourself.**
+Check out the following tutorial which teaches the basics of TDD in 30 minutes. There are lots of bonus lessons, including some that use Node.js, which you are encouraged to go through as well. **Don't just read it! Actually, download the testing libraries and code it yourself.**
 
 https://github.com/dwyl/learn-tdd
 
