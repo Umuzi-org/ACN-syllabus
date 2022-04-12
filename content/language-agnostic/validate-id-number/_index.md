@@ -27,7 +27,7 @@ As a coder, you will often be asked to validate things. For example, you might b
 
 Validating data is pretty easy when you get the hang of it.
 
-Generally, the procedure would be something like this,
+Generally, the procedure would be something like this;
 
 This is the pseudocode:
 
