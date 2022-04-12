@@ -22,7 +22,7 @@ At the end of this assignment you should be able to:
 
 - do exploratory data analysis on a new dataset.
 - know what the measures of central tendency and spread are used for.
-- Know when to use which measure of central tendency.
+- know when to use which measure of central tendency.
 - Describe different distributions and interpret a histogram.
 - Know what outliers are and how they affect measures of central tendency and spread.
 - Interpret correlations from a graph and from the correlation coefficient
