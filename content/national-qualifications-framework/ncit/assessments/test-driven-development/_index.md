@@ -21,4 +21,4 @@ Please do the following:
 
 Follow this link and download the document. If you have an Umuzi email address then you will have access to the document. If you do not have an Umuzi email address you may need to request access.
 Complete the assessment. The instructions are in the document.
-Upload the document to google drive and submit a link. Please make sure that the link works. If your work is private then we won't be able to review it
+Upload the document to google drive and submit a link. Please make sure that the link works. If your work is private then we won't be able to review it.
