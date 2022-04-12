@@ -62,6 +62,6 @@ The resources above are great resources for coding related problem-solving techn
 
 ## Practice
 
-Of course, reading about code and watching other people code is great. But if you want to get good at this stuff: Practice practice practice.
+Of course, reading about code and watching other people code is great. But if you want to get good at this stuff: Practise practise practise.
 
 Hackerrank is a great resource.
