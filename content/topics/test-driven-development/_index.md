@@ -15,7 +15,7 @@ By now you should know a bit about what unit tests are and why we do them. The n
 
 Test-Driven Development (TDD) is a methodology in which tests are written before the code. This probably seems a little bit strange but it has a lot of advantages.
 
-The basic algorithm you follow in TDD is the same no matter what language you are write in. Here it is:
+The basic algorithm you follow in TDD is the same no matter what language you write in. Here it is:
 
 RED -> GREEN -> REFACTOR -> repeat until victory!
 
