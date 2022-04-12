@@ -20,7 +20,7 @@ title: Statistical Thinking
 
 At the end of this assignment you should be able to:
 
-- Do exploratory data analysis on a new dataset.
+- do exploratory data analysis on a new dataset.
 - Know what the measures of central tendency and spread are used for.
 - Know when to use which measure of central tendency.
 - Describe different distributions and interpret a histogram.
