@@ -24,7 +24,7 @@ At the end of this assignment you should be able to:
 - know what the measures of central tendency and spread are used for.
 - know when to use which measure of central tendency.
 - describe different distributions and interpret a histogram.
-- Know what outliers are and how they affect measures of central tendency and spread.
+- know what outliers are and how they affect measures of central tendency and spread.
 - Interpret correlations from a graph and from the correlation coefficient
 
 ## Background material
