@@ -40,7 +40,7 @@ title: Pseudocode and documentation
 
 ### 1. Why document?
 
-Documenting software is one of the most crucial, but often most neglected, parts of the development process. Documenting your variables, functions, and entire programs is absolutely necessary if you are to succeed as a coder. Various sources will tell you to dedicate at least 10% of your development time to documentation. That is reasonable advice, and should be adopted when you are planning the development of any program or website.
+Documenting software is one of the most crucial, but often most neglected parts of the development process. Documenting your variables, functions, and entire programs is absolutely necessary if you are to succeed as a coder. Various sources will tell you to dedicate at least 10% of your development time to documentation. That is reasonable advice, and should be adopted when you are planning the development of any program or website.
 
 After we cover some best practices for documentation, we will cover the general process for documentation (listed below). Each of these will be covered in detail in the following sections.
 
@@ -82,7 +82,7 @@ What is the need for documenting something everyone knows? Create a vision, if i
 
 **Wait before documenting**
 
-This is the best way to avoid the false information in your papers. Document late. Wait until the decision is implemented and there’s no going back until you actually put it on paper. The information is stabilized and reliable. You economize the cost, time and effort, spent on redoing your documents. Note: This only applies to high-level documents that explain your program to a user. You should document your code with comments/pseudocode before you write any code.
+This is the best way to avoid the false information in your papers, document later in the process. Wait until the decision is implemented and there’s no going back until you actually put it on paper. The information is stabilized and reliable. You economize the cost, time and effort, spent on redoing your documents. Note: This only applies to high-level documents that explain your program to a user. You should document your code with comments/pseudocode before you write any code.
 
 **Be specific**
 
@@ -122,7 +122,7 @@ Comments should be used to overcome confusing things. Eg you can explain *why* y
 
 Also, if you choose good variable and function names then comments become less necessary.
 
-eg;
+For example:
 ```
 // BAD
 
