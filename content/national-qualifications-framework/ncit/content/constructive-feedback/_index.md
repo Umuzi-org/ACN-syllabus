@@ -53,7 +53,7 @@ title: Constructive Feedback
 
 ## 1. Giving constructive feedback
 
-Feedback is an essential element for everyone in an organization. Giving feedback is a task you perform again and again (especially as a supervisor), letting people know where they are and where to go next in terms of expectations and goals - yours, their own, and the organizations. Feedback is a useful tool for indicating when things are going in the right direction or for redirecting problem performance. Your objective in giving feedback is to guide by supplying information in a useful manner, either to encourage effective behaviour or to guide someone back on track toward successful performance.
+Feedback is an essential element for everyone in an organization. Giving feedback is a task you perform again and again (especially as a supervisor), letting people know where they are and where to go next in terms of expectations and goals - yours, their own, and the organization's. Feedback is a useful tool for indicating when things are going in the right direction or for redirecting problem performance. Your objective in giving feedback is to guide by supplying information in a useful manner, either to encourage effective behaviour or to guide someone back on track toward successful performance.
 
 **Some situations which require giving constructive feedback include:**
 
