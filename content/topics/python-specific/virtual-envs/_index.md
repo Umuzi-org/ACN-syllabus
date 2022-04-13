@@ -5,13 +5,13 @@ ready: true
 title: Virtual Environments
 ---
 
-A good solid understanding of virtual environments is critical to any serious Python developer. The purpose of a virtual env is "isolation of dependencies". This will probably sound confusing but I'll explain with an example.
+A good solid understanding of virtual environments is critical to any serious Python developer. The purpose of a virtual env is "isolation of dependencies". This will probably sound confusing but below is an explanation with an example.
 
 Let's say you are working on two separate python projects on your computer.
 
-Your first project is a legacy project. It's pretty old and you are trying to get it to work with modern python. It relies heavily on an ooooold version of `requests`. And your second project is hip with the times, it also relies on `requests` but it is using the latest and greatest version.
+Your first project is a legacy project. It's pretty old and you are trying to get it to work with modern python. It relies heavily on a really old version of `requests`. Your second project is hip with the times, it also relies on `requests` but it is using the latest and greatest version.
 
-If you could only install one version of `requests` then you would only be able to run one of those two projects on your computer. Which sucks.
+If you could only install one version of `requests` then you would only be able to run one of those two projects on your computer, which sucks.
 
 Virtual environments let you isolate your projects from each other so they each have their own separate copies of dependencies.
 
@@ -21,13 +21,13 @@ Please read this primer: https://realpython.com/python-virtual-environments-a-pr
 
 A virtualenv is really just a directory with a bunch of python stuff inside it.
 
-Every virtual env has it's own instance of the Python executable. So if you have a `python3.8` venv and it is active and you type in `python` it will run `python3.8`. If you type `python3` then it will also run `python3.8`. Same thing with pip.
+Every virtualenv has it's own instance of the Python executable. So if you have a `python3.8` venv and it is active and you type in `python` it will run `python3.8`. If you type `python3` then it will also run `python3.8`. Same thing with pip.
 
 ## A really handy trick
 
-Whenever you activate a virtualenv it runs a script called `activate`. This is a plain simple bash script. This means you can put extra stuff in there. It's very useful for setting up environmental variables, you can `export` your variables near the top of your activate script to make sure they are always available on your development machine.
+Whenever you activate a virtualenv it runs a script called `activate`, this is a plain simple bash script. This means you can put extra stuff in there. It's very useful for setting up environmental variables, you can `export` your variables near the top of your activate script to make sure they are always available on your development machine.
 
-For example, let's say you are writing a program that sends emails. And in order to send the emails the program needs to be able to authenticate using a keyfile.
+For example, let's say you are writing a program that sends emails, and in order to send the emails the program needs to be able to authenticate using a keyfile.
 
 Your python code could maybe be something like this:
 
@@ -74,13 +74,13 @@ python your_script.py
 
 ## Latest and greatest tooling
 
-Ideally in serious projects you should be using a tool called `pipenv`. This probably wont make sense until you understand virtualenvironments. It feels very similar to `npm` and `yarn` for those of you with a JavaScript background.
+Ideally in serious projects you should be using a tool called `pipenv`. This probably won't make sense until you understand virtualenvironments. It feels very similar to `npm` and `yarn` for those of you with a JavaScript background.
 
 This guide explains it nicely: https://realpython.com/pipenv-guide/
 
 ## Our expectations of you
 
-- We expect you to be using modern python
-- normal virtual environments are fine. But if you want to use virtualenvwrapper or pipenv that would be fine
-- if you git commit your virtualenv on any of your projects then you wont be marked as competent. The best you'll be able to hope for is "not yet competent"
-- use python 3. Python 2.7 is legacy python
+- We expect you to be using modern python.
+- Normal virtual environments are fine but if you want to use virtualenvwrapper or pipenv that would be fine.
+- If you git commit your virtualenv on any of your projects then you won't be marked as competent. The best you'll be able to hope for is "not yet competent".
+- Use python 3. Python 2.7 is legacy python.
