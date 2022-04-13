@@ -8,7 +8,7 @@ title: Intro to CSS architecture
 The following are to be demonstrated:
 
 1. Why the need to organize our CSS?
-2. Separation of Concerns (what is it ?)
+2. Separation of Concerns (what is it ?).
 3. Modular Architecture
 
 ## Resources
