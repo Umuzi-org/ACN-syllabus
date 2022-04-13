@@ -41,7 +41,7 @@ task
     task_2.py
     task_1_1.py
 
-password-checker
+password_checker
     add_logger.py
 
 snake_case
