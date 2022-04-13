@@ -11,13 +11,13 @@ title: Super basic intro to Node
 
 Most people are introduced to JavaScript in the context of a web browser. JS adds smarts to HTML and CSS.
 
-JS is a proper programming language so it can do a whole lot more than make a web page clever. Basically it doesn't need to interact with a website in order to work. You can use it on the "back-end". It can be used to interact with filesystems and databases and all sorts of other things.
+JS is a proper programming language so it can do a whole lot more than making a web page clever. It doesn't need to interact with a website to work. You can use it on the "back-end". It can be used to interact with filesystems and databases and all sorts of other things.
 
-When JS is running on the backend it's usually referred to as Node. Node is really a "runtime environmnet" that can execute JS code.
+When JS is running on the backend it's usually referred to as Node. Node is a "runtime environment" that can execute JS code.
 
 Here are instructions on how to install node: https://nodejs.org/en/download/
 
-Try type this into a terminal:
+Try typing this into a terminal:
 
 ```
 node
@@ -32,11 +32,11 @@ console.log(greeting);
 
 So you see you can execute JavaScript code right there in your terminal and it just works.
 
-Now save the helloworld code above to a file named `hello.js`. You can execute this whenever you want to by saying `node hello.js` in a terminal. Or rather `node /path/to/hello.js` if you are in a different location.
+Now save the HelloWorld code above to a file named `hello.js`. You can execute this whenever you want to by saying `node hello.js` in a terminal. Or rather `node /path/to/hello.js` if you are in a different location.
 
 ### package managers
 
-There are a few different package managers. The two main ones are npm and yarn. In this course you'll be using npm.
+There are a few different package managers. The two main ones are npm and yarn. In this course, you'll be using npm.
 
 If you know how to use npm then using a different package manager will be pretty easy.
 
