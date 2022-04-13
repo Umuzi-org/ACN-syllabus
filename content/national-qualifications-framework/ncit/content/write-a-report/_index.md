@@ -71,7 +71,7 @@ Based on the research you did during your HCD (Human Centered Design) interviews
 The first step in writing any report is to create an outline. An outline breaks down the parts of your report in a clear and hierarchical manner. You should always create an outline before you start writing because it will help you organise your thoughts. If your outline is good, then your paper should be easy to write.
 
 
-The basic format for an outline uses an alternating series of numbers and letters, indented accordingly to indicate levels of importance. Here is a very basic structure for an outline.:
+The basic format for an outline uses an alternating series of numbers and letters, indented accordingly to indicate levels of importance. Here is a very basic structure for an outline:
 
 | Part of Outline | Description |
 |---|---|
