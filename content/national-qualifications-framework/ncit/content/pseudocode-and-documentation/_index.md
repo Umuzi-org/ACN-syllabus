@@ -104,7 +104,7 @@ To review the steps of how and why to write pseudocode, visit the following link
 
 https://www.wikihow.com/Write-Pseudocode
 
-A quick summary (halfway down the page) with examples: http://userpages.wittenberg.edu/bshelburne/Comp150/Algorithms.htm
+A quick summary (halfway down the page) with examples: https://web.archive.org/web/20210414161651/http://userpages.wittenberg.edu/bshelburne/Comp150/Algorithms.htm
 
 A quick video description is [here](https://www.khanacademy.org/computing/computer-programming/programming/good-practices/pt/planning-with-pseudo-code)
 
