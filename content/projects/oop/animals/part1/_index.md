@@ -54,19 +54,19 @@ cat.sounds() // -> 'Cat meows'
 ```
 // JavaScript
 
-var dog = new Dog();
+let dog = new Dog();
 
 dog.eat(); // -> 'Rax eat'
 dog.sounds();// -> 'Dog barks'
 
-var cat = new Cat();
+let cat = new Cat();
 
 cat.eat();// -> 'Stormy eats'
 cat.sounds();// -> 'Cat meows'
 
 ```
 
-Now let's add composition. Make a new class called `Home`. Lots of people have dogs and cats in their homes. `Home` should have a function called `adoptPet` that takes any `Animal` as an input. The new pet should be stored in the `Home` object in an array/list. The `Home` object should also have a function called `makeAllSounds`. It should work like this:
+Now let's add composition. Make a new class called `Home`. Lots of people have dogs and cats in their homes. `Home` should have a function called `adoptPet` that takes any `Animal` as an input and returns the number of pets that have been adopted thus far. The new pet should be stored in the `Home` object in an array/list. The `Home` object should also have a function called `makeAllSounds`. It should work like this:
 
 ```
 // Java
@@ -77,18 +77,18 @@ Home home = new Home()
 ? cat = new Cat()
 
 home.makeAllSounds() // this doesn't do anything
-home.adoptPet(dog1)
+home.adoptPet(dog1) // 1
 home.makeAllSounds()
 // this prints:
 // Dog barks
 
-home.adoptPet(cat)
+home.adoptPet(cat) // 2
 home.makeAllSounds()
 // this prints:
 // Dog barks
 // Cat meows
 
-home.adoptPet(dog2)
+home.adoptPet(dog2) // 3
 home.makeAllSounds()
 // this prints:
 // Dog barks
@@ -99,25 +99,25 @@ home.makeAllSounds()
 ```
 // JavaScript
 
-var home = new Home();
-var dog1 = new Dog();
-var dog2 = new Dog();
-var cat = new Cat();
+let home = new Home();
+let dog1 = new Dog();
+let dog2 = new Dog();
+let cat = new Cat();
 
 
 home.makeAllSounds();// this doesn't give/return any result/data
-home.adoptPet(dog1);
+home.adoptPet(dog1); // 1
 home.makeAllSounds();
 // this prints :
 // Dog barks
 
-home.adoptPet(cat);
+home.adoptPet(cat); // 2
 home.makeAllSounds();
 // this prints :
 // Dog barks
 // Cat meows
 
-home.adoptPet(dog2);
+home.adoptPet(dog2); // 3
 home.makeAllSounds();
 // this prints :
 // Dog barks
@@ -136,8 +136,8 @@ Add some functionality to `adoptPet` so that an error/exception gets raised if y
 For example,
 
 ```
-home.adoptPet(dog1) // totally ok
-home.adoptPet(dog1) // not ok at all
+home.adoptPet(dog1) // returns the number of pets that have been adopted thus far
+home.adoptPet(dog1) // an error/exception gets raised
 ```
 
 ## Instructions for reviewer

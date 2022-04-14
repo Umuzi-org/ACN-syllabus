@@ -123,12 +123,12 @@ Use Jasmine to test your code.
 ```
 // JavaScript
 
-Dog dog = new Dog()
+let dog = new Dog()
 
 dog.eats()    // -> 'Food'
 dog.sounds() // -> 'Bark'
 
-Cat cat = new Cat()
+let cat = new Cat()
 
 cat.eats()    // -> 'Food'
 cat.sounds() // -> 'Meow'
