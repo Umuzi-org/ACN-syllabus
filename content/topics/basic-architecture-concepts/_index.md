@@ -24,7 +24,7 @@ This can be separated into multiple layers. You can think of a data layer and a 
 
 If your data and your GUI get all mixed up then things get very hard to test. Here's an approach you might consider:
 
-1. Think about what your data should look like. What is its shape of it? These things shouldn't know about HTML. For example, if you were writing a game server (with no front-end at all) then these data structures should be valid. Of course, you would be setting up these structures and interactions in a TDD manner
+1. Think about what your data should look like. What is the shape of it? These things shouldn't know about HTML. For example, if you were writing a game server (with no front-end at all) then these data structures should be valid. Of course, you would be setting up these structures and interactions in a TDD manner
 2. Figure out how your data will change. What are the inputs? What are the effects on the data? At this point, we still haven't considered drawing any pictures.
 3. Now for some display code. Here's a pretty good example adapted from one of your predecessors. This code comes from a project to do with a 10-pin bowling scoring system:
 
