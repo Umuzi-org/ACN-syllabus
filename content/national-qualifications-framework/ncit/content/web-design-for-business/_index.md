@@ -87,7 +87,7 @@ This list does not cover all the ways that the internet is used by businesses to
 
 ## 2. Basics of web design
 
-The internet has changed dramatically since its creation, both technologically and in the way it is used, and with it so has the aesthetic of web design. The internet was conceived as an information-sharing tool for academics and not as a business tool, so websites used to be simply looking. 
+The internet has changed dramatically since its creation, both technologically and in the way it is used, and with it so has the aesthetic of web design. The internet was conceived as an information-sharing tool for academics and not as a business tool, so websites used to be simple looking. 
 
 Take a look at this to get a picture of how web design has changed over the years: https://quibble.digital/the-evolution-of-web-design/ 
 
