@@ -50,7 +50,7 @@ The Internet is a worldwide network allowing you to reach people even very expen
 
 #### Communicate more efficiently and regularly
 
-Social media platforms and email communication means you can keep in more direct and constant contact with existing and potential customers; this communication might be new product information, sales or general company news. Moreover, with the vast information, we can now gather about users and their online behaviour businesses can take advantage of targeted online advertising.
+Social media platforms and email communication means you can keep in more direct and constant contact with existing and potential customers; this communication might be new product information, sales or general company news. Moreover, with the vast information we can now gather about users and their online behaviour businesses can take advantage of targeted online advertising.
 
 
 #### Provide product information
