@@ -35,7 +35,7 @@ ncit_standards:
 - 115385
 prerequisites:
   hard:
-  - projects/web-development-website
+  - projects/simple-website
 ready: true
 tags:
 - ncit
