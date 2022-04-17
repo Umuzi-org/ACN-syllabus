@@ -97,7 +97,7 @@ passwordIsValid(password)
 password_is_valid(password)
 ```
 
-`password_is_valid` will check if the password meets a few different conditions. If one of the below conditions is not met, then the relevant error/exception should be thrown/raised. Python should raise a specific error type. [This resource](https://www.tutorialsteacher.com/python/error-types-in-python) shows the types of errors that we get in Python, select the appropriate one for this application. Your error/exception message should match one of the following conditions exactly (word-for-word).
+`password_is_valid` will check if the password meets a few different conditions. If one of the below conditions is not met, then the relevant error/exception should be thrown/raised. Python should raise a specific error type. [This resource](https://www.tutorialsteacher.com/python/error-types-in-python) shows the types of errors that we get in Python, and selects the appropriate one for this application. Your error/exception message should match one of the following conditions exactly (word-for-word).
 
 1. password should exist
 2. password should be longer than 8 characters
@@ -154,4 +154,4 @@ Please don't re-implement the same check in two different places. Good code is D
 ## Instructions for reviewers
 
 - For password strength, make sure cases of invalid passwords are checked, for example these passwords are both invalid; `P@ssw 12`, `User1@`.  
-- Actual passwords should never be printed to the terminal, for example in assert messages or when raising exceptions.
+- Actual passwords should never be printed to the terminal, for example, in assert messages or when raising exceptions.

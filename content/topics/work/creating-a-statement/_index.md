@@ -5,6 +5,8 @@ ready: true
 title: Creating A Memorable Statement
 ---
 
+DEPRECATED
+
 Your personal statement should give your prospective employer a sense of who you are and what drives you. Your work ethic, career goals and work philosophy. In simple english, your personal statement is about what you do and your career ambitions and what drives you in your craft.
 
 Revisit the CV Workshop slides for 3 Steps to Crafting a Memorable Personal Statement

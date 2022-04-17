@@ -5,6 +5,8 @@ ready: true
 title: Mock Interviews Survey
 ---
 
+DEPRECATED
+
 As a recruit before your mock interview you will fill in this survey which will have general questions about yourself and also some information about your portfolio.
 
 Please click on this link to find the survey.

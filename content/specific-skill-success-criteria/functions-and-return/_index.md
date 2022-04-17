@@ -10,9 +10,9 @@ tags:
 title: 'Assessment: Functions, return statements and printing to the terminal'
 ---
 
-Students should 100% understand the following concepts. Note that simply memorising this stuff will be insufficient. In the final test the different concepts will be combined in complex ways.
+Students should 100% understand the following concepts. Note that simply memorizing this stuff will be insufficient. In the final test, the different concepts will be combined in complex ways.
 
-Make use of print statements in order to check that the student knows what order things will happen in.
+Make use of print statements to check that the student knows what order things will happen in.
 
 ## Note about submission format
 
@@ -36,7 +36,7 @@ Many think that the code will print `x = hi`. It does not.
 
 ## Multiple different return statements inside a single function
 
-eg:
+For example:
 
 ```
 def foo(colour):
@@ -53,7 +53,7 @@ x = foo("red")
 print(f"x = {x}")
 ```
 
-Many people think that the final print statement gets executed multiple times. It does not.
+Many people think that the final print statement gets executed multiple times but it does not.
 
 ## Return statements inside for loops
 
