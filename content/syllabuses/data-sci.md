@@ -49,4 +49,3 @@ _db_id: 2
 - {{% contentlink path="projects/data-science-specific/decision-trees" flavour="python"%}}
 - {{% contentlink path="projects/data-science-specific/k-means-clustering" flavour="python"%}}
 - {{% contentlink path="projects/data-science-specific/natural-language-processing" flavour="python"%}}
-- {{% contentlink path="projects/simple-website" %}}

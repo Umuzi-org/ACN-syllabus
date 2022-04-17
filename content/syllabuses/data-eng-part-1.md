@@ -29,4 +29,3 @@ _db_id: 4
 - {{% contentlink path="sql/shop-project" flavour="" %}}
 - {{% contentlink path="projects/understanding-loops" flavour="python" %}}
 - {{% contentlink path="topics/solo-learn/python/10-pythonicness-and-packaging" %}}
-- {{% contentlink path="projects/simple-website" %}}
