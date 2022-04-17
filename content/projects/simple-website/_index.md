@@ -47,7 +47,6 @@ To learn more about Github Pages visit this link https://guides.github.com/featu
 - Your portfolio can be a simple single page portfolio that contains the above mentioned requirements.
 - Make sure that only the necessary information is presented.
 - Make sure your stuff is tidy. Use whitespace as needed. Make sure your pictures are not squashed or stretched.
-- Website must be responsive to different screen sizes - use a mobile-first approach!
 
 ### Links
 
@@ -64,4 +63,3 @@ To learn more about Github Pages visit this link https://guides.github.com/featu
 - All social media accounts and work profiles should work.
 - Font and text size should be clear.
 - They should make use of the entire web page.
-- It should be responsive to all screen sizes.
