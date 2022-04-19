@@ -25,7 +25,7 @@ On the online shopping site, users (people who want to buy stuff) navigate aroun
 
 ## Why data matters
 
-As with any kind of techie, data will be a part of your life. You're going to need to learn how to make this stuff dance.
+As a techie, data will be a part of your life. You're going to need to learn how to make this stuff dance.
 
 For data scientists and data engineers, it's pretty obvious why this is the case. But seriously, for any kind of developer, it's friggin important.
 
@@ -67,7 +67,7 @@ Please note that one person can have multiple baskets. If you look at the data, 
 
 ### get baskets belonging to a single customer
 
-Write a function called `get customer baskets` that takes in an email address and the data array as an argument and returns a list/array of all the shopping baskets that belong to the customer with that email address.
+Write a function called `get customer baskets` that takes in the email address and the data array as arguments and returns a list/array of all the shopping baskets that belong to the customer with that email address.
 
 If the customer has no shopping baskets then return an empty list/array.
 
@@ -129,7 +129,7 @@ e.g. `getCustomersWithOpenBaskets(dataArray);`
 
 ## Notes to reviewers
 
-- the code must be DRY
-- there can be some global constants to help prevent typos. eg `const DELIVERED="DELIVERED"`
-- functions are supposed to return very specific things
-- All the functions stated above should take in at least one argument, the data array, and should work with similar data.
+- The code must be DRY
+- There can be some global constants to help prevent typos. eg `const DELIVERED="DELIVERED"`
+- Functions are supposed to return very specific things
+- All the functions stated above should take in at least one argument, the data array, and should work with similar data
