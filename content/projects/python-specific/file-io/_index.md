@@ -23,7 +23,7 @@ You are required to create a back-end service that will help capture basic infor
 - comments
 - name of the person who assisted the visitor
 
-2. Create a function called `save` that saves the visitor's data to a JSON file. The file name should be named like this `visitor_{their_full_name}.json`.
+2. Create a function called `save` that saves the visitor's data to a JSON file. The file name should be named like this, `visitor_{their_full_name}.json`.
 
 ```
 alice.save()   # results in visitor_alice_cooper.json
@@ -35,7 +35,7 @@ Notice that the full name used in the file is all lower-case and spaces are repl
 
 3. Create a function called `load` that takes in a name and then grabs a Visitor object from file. It should return the visitors instance.
 
-eg:
+For example:
 
 ```
 Visitor.load("Alice Cooper")
@@ -74,7 +74,7 @@ charlie.comments = "Winning!"
 charlie.save() # results in an UPDATE to visitor_3.json
 ```
 
-6. Add tests to your project to make sure all the functions are working as specified. Since you'll be interacting with files you'll need to know about mocks. Check out the python resources from here {{% contentlink path="topics/unit-testing-mocks-and-spies" %}}.
+6. Add tests to your project to make sure all the functions are working as specified. Since you'll be interacting with files, you'll need to know about mocks. Check out the python resources from here {{% contentlink path="topics/unit-testing-mocks-and-spies" %}}.
 
 ## Instructions for reviewer
 
@@ -83,4 +83,4 @@ charlie.save() # results in an UPDATE to visitor_3.json
 - The learner should use mocks if/when testing this project - since the project requires interacting with the file system.
 - Please pay careful attention to DRY code. How do you do this:
 
- > Imagine that the code produced by the learner needs to be maintained, imagine that some parts of the code will have to change over time. Ideally, changes to the code should be made just once, and that change should affect everything else without going through the file(s) looking to change the same thing.
+ > Imagine that the code produced by the learner needs to be maintained and some parts of the code will have to change over time. Ideally, changes to the code should be made just once, and that change should affect everything else without going through the file(s) looking to change the same thing.
