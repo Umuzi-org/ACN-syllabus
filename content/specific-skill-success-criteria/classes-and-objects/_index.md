@@ -162,30 +162,7 @@ console.log(smallRectangle1.length) //2
 console.log(mediumRectangle.width) //12
 
 ```
-### Private members
 
-Learner should know how to modify and access private members of a class
-
-```
-class Car {
-
-    _length
-
-    constructor(length, width){
-      this._length = length
-      ...
-    }
-
-    set length(newLength){ //setter
-        this._length = newLength
-    }
-
-    get length(){ //getter
-        return this._length
-    }
-}
-
-```
 ### Inheritance and overriding
 
 Learner should understand inheritance and overriding and extending methods
@@ -193,7 +170,7 @@ Learner should understand inheritance and overriding and extending methods
 class Rectangle {
   ...
   details(){
-    console.log(`length: ${this.length}, width: ${this.width}`)
+    return `The length of the Square is ${this.length}, the width of the Square is ${this.width}`;
   }
 }
 
@@ -202,6 +179,6 @@ class Cuboid extends Rectangle {
     super();
   };
   details(){
-    return `length: ${this.length}, width: ${this.width}`;
+    return `The length of the Cuboid is ${this.length}, the width of the Cuboid is ${this.width}`;
   };
 };
