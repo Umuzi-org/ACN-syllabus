@@ -27,15 +27,15 @@ title: Shop Database using sql
 
 - We are using Postgres
 - Instead of installing Postgres on your computer, you can launch it with a docker composition
-- MySQL is nice and lot's of people use it in industry, but it doesn't actually implement standard SQL, it sort of does it's own thing a bit. Postgres is a much more standard DB, and industry loooooves it
+- MySQL is nice and lots of people use it in industry, but it doesn't implement standard SQL, it sort of does its own thing a bit. Postgres is a much more standard DB, and the industry loooooves it
 
 ## Structure:
 
 - Your repository should have a **.yml** file
 - Your repository should have **.sql** files
 - The different SQL commands should be saved in different descriptive script files i.e.
-  - when the reviewer is looking for the commands you used for creating the database they should be able to navigate to a file named **create-database.sql** ,
-  - navigate to a file named **create-tables.sql** for the commands used to create the database tables , and
+  - when the reviewer is looking for the commands you used for creating the database they should be able to navigate to a file named **create-database.sql**,
+  - navigate to a file named **create-tables.sql** for the commands used to create the database tables, and
   - navigate to the files that contain the commands used for inserting table records and querying the database
 
 ## Instructions
@@ -100,9 +100,9 @@ Save all of your instructions in script files - you will submit these files on G
 
 | ProductId (int) | ProductName (varchar100) | Description (varchar300)                                                    | BuyPrice (decimal) |
 | --------------- | ------------------------ | --------------------------------------------------------------------------- | ------------------ |
-| 1               | Harley Davidson Chopper  | This replica features working kickstand, front suspension, gear-shift lever | R150.75            |
+| 1               | Harley Davidson Chopper  | This replica features a working kickstand, front suspension, gear-shift lever | R150.75            |
 | 2               | Classic Car              | Turnable front wheels, steering function                                    | R550.75            |
-| 3               | Sports car               | Turnable front wheels, steering function                                    | R700.60            |
+| 3               | Sportscar               | Turnable front wheels, steering function                                    | R700.60            |
 
 ## Part 2: Querying a database
 
@@ -126,9 +126,9 @@ Save all of your instructions in script files - you will submit these files on G
 
 15. Select all products with a price BETWEEN R100 and R600.
 
-16. Select all fields from "Customers" where country is "Germany" AND city is "Berlin".
+16. Select all fields from "Customers" where the country is "Germany" AND the city is "Berlin".
 
-17. Select all fields from "Customers" where city is "Cape Town" OR "Durban".
+17. Select all fields from "Customers" where the city is "Cape Town" OR "Durban".
 
 18. Select all records from Products where the Price is GREATER than R500.
 
@@ -136,12 +136,12 @@ Save all of your instructions in script files - you will submit these files on G
 
 20. Count the number of shipped orders in the Orders table.
 
-21. Return the average price of all Products, in Rands and in Dollars (assume the exchange rate is R12 to the Dollar).
+21. Return the average price of all Products, in Rands and Dollars (assume the exchange rate is R12 to the Dollar).
 
 22. Using INNER JOIN create a query that selects all Payments with Customer information.
 
 23. Select all products that have turnable front wheels.
 
 ## Files to submit
-- yaml/yml file with container setup.
+- YAML/yml file with container setup.
 - `src` directory with 3 SQL script files(a script to create tables, populate tables and one to query the database).
