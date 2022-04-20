@@ -43,12 +43,12 @@ In this challenge, you will create 3 classes.
 ? dog = new Dog()
 
 dog.eat()    // -> 'Rax eats'
-dog.sounds() // -> 'Dog barks'
+dog.sound() // -> 'Dog barks'
 
 ? cat = new Cat()
 
 cat.eat()    // -> 'Stormy eats'
-cat.sounds() // -> 'Cat meows'
+cat.sound() // -> 'Cat meows'
 ```
 
 ```
@@ -56,13 +56,28 @@ cat.sounds() // -> 'Cat meows'
 
 let dog = new Dog();
 
-dog.eat(); // -> 'Rax eat'
-dog.sounds();// -> 'Dog barks'
+dog.eat(); // -> 'Rax eats'
+dog.sound();// -> 'Dog barks'
 
 let cat = new Cat();
 
 cat.eat();// -> 'Stormy eats'
-cat.sounds();// -> 'Cat meows'
+cat.sound();// -> 'Cat meows'
+
+```
+
+```
+# Python
+
+dog = new Dog()
+
+dog.eat() # -> 'Rax eats'
+dog.sound() # -> 'Dog barks'
+
+cat = new Cat()
+
+cat.eat() # -> 'Stormy eats'
+cat.sound() # -> 'Cat meows'
 
 ```
 
@@ -126,6 +141,34 @@ home.makeAllSounds();
 
 
 ```
+```
+# Python
+
+home = Home();
+dog1 = Dog();
+dog2 = Dog();
+cat = Cat();
+
+home.make_all_sounds() # this doesn't give/return any result/data
+home.adopt_pet(dog1) # 1
+home.make_all_sounds()
+# this prints :
+# Dog barks
+
+home.adopt_pet(cat) # 2
+home.make_all_sounds()
+# this prints :
+# Dog barks
+# Cat meows
+
+home.adopt_pet(dog2) # 3
+home.make_all_sounds
+# this prints :
+# Dog barks
+# Cat meows
+# Dog barks
+
+```
 
 ### Up for a challenge?
 
@@ -143,4 +186,5 @@ home.adoptPet(dog1) // an error/exception gets raised
 ## Instructions for reviewer
 - The Animal class should follow the document's diagram's instructions exactly.
 - A constructor that accepts a string to set the name for the constructed pet should exist.
+- The `makeAllSounds` method should print the exact strings specified in the instructions. e.g "Dog barks", "Cat meows"
 - If the bonus part of the project is attempted; a house cannot adopt a specific instance of a pet more than once.
