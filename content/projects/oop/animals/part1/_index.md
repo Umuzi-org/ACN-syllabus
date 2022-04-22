@@ -40,44 +40,70 @@ In this challenge, you will create 3 classes.
 ```
 // Java
 
-? dog = new Dog()
+? dog1 = new Dog()
+? dog2 = new Dog("Simba")
 
-dog.eat()    // -> 'Rax eats'
-dog.sound() // -> 'Dog barks'
+dog1.eat()    // -> 'Rax eats'
+dog1.sound() // -> 'Dog barks'
 
-? cat = new Cat()
+dog2.eat()    // -> 'Simba eats'
+dog2.sound() // -> 'Dog barks'
 
-cat.eat()    // -> 'Stormy eats'
-cat.sound() // -> 'Cat meows'
+? cat1 = new Cat()
+? cat2 = new Cat("Smokey")
+
+cat1.eat()    // -> 'Stormy eats'
+cat1.sound() // -> 'Cat meows'
+
+
+cat2.eat()    // -> 'Smokey eats'
+cat2.sound() // -> 'Cat meows'
 ```
 
 ```
 // JavaScript
 
-let dog = new Dog();
+let dog1 = new Dog();
+let dog2 = new Dog("Simba")
 
-dog.eat(); // -> 'Rax eats'
-dog.sound();// -> 'Dog barks'
+dog1.eat();    // -> 'Rax eats'
+dog1.sound(); // -> 'Dog barks'
 
-let cat = new Cat();
+dog2.eat()    // -> 'Simba eats'
+dog2.sound() // -> 'Dog barks'
 
-cat.eat();// -> 'Stormy eats'
-cat.sound();// -> 'Cat meows'
+let cat1 = new Cat();
+let cat2 = new Cat("Smokey")
+
+cat1.eat();    // -> 'Stormy eats'
+cat1.sound(); // -> 'Cat meows'
+
+cat2.eat()    // -> 'Smokey eats'
+cat2.sound() // -> 'Cat meows'
 
 ```
 
 ```
 # Python
 
-dog = new Dog()
+dog1 = new Dog()
+dog2 = new Dog("Simba")
 
-dog.eat() # -> 'Rax eats'
-dog.sound() # -> 'Dog barks'
+dog1.eat()   # -> 'Rax eats'
+dog1.sound() # -> 'Dog barks'
 
-cat = new Cat()
+dog2.eat()    # -> 'Simba eats'
+dog2.sound() # -> 'Dog barks'
 
-cat.eat() # -> 'Stormy eats'
-cat.sound() # -> 'Cat meows'
+cat1 = new Cat()
+cat2 = new Cat("Smokey")
+
+
+cat1.eat()   # -> 'Stormy eats'
+cat1.sound() # -> 'Cat meows'
+
+cat2.eat()    # -> 'Smokey eats'
+cat2.sound() # -> 'Cat meows'
 
 ```
 
