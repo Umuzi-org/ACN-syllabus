@@ -55,7 +55,6 @@ dog2.sound() // -> 'Dog barks'
 cat1.eat()    // -> 'Stormy eats'
 cat1.sound() // -> 'Cat meows'
 
-
 cat2.eat()    // -> 'Smokey eats'
 cat2.sound() // -> 'Cat meows'
 ```
@@ -97,7 +96,6 @@ dog2.sound() # -> 'Dog barks'
 
 cat1 = new Cat()
 cat2 = new Cat("Smokey")
-
 
 cat1.eat()   # -> 'Stormy eats'
 cat1.sound() # -> 'Cat meows'
