@@ -12,11 +12,10 @@ title: File and directory naming in Python
 
 ## How should I name my Python modules and packages?
 
-You should name your files and directories the same way you name Python variables.They should be small letters, and words should be separated by underscores, as that improves readability.
+When naming files and directories you should use small letters, and yours words should be separated by underscores.
+This type of naming convention is called snake_case. As you would recall from the `clean code` content, this type of
+naming convention is also used for naming python variable and function names. Read that again :).
 
-It is important to note that the use of underscores in directory_naming takes preference as opposed to the use of dashes.
-
-Also, be sure to keep in mind that all Python files have a .py extension. See below the recommended Python file and directory naming style. 
 
 ### NO:
 ```
@@ -31,11 +30,13 @@ passwordChecker
 snakecase
     productionnotes.py
     keepItShortAndmeaningful.py
+
 ```
 
 ### Yes:
 
 ```
+
 task
     task_1.py
     task_2.py
@@ -47,4 +48,5 @@ password_checker
 snake_case
     production_notes.py
     keep_it_short_and_meaningful.py
+    
 ```
