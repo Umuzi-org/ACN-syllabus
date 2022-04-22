@@ -17,6 +17,36 @@ This type of naming convention is called snake_case. As you would recall from th
 naming convention is also used for naming python variable and function names. Read that again :).
 
 
+### You think you got it? Let's play a little game.
+
+#### Directories
+```
+Which of the following is right way to name your directories?
+
+  a. apyhthondirectory
+  b. a_python_directory
+  c. a-python-directory
+  d. APYTHONDIRECTORY
+  e. ApythonDirectory
+
+We are curious at what your answer is!
+
+See below for some tips for naming your directories
+
+  a. good_directory_name
+  b. bad-directory-name
+  c. AnotherBadDirectoryName
+  d. AVERYBADDIRECTORYNAME
+  e. nevernameyourdirectorielikethis
+```
+
+#### Files
+
+```
+
+```
+
+
 ### NO:
 ```
 TASK
