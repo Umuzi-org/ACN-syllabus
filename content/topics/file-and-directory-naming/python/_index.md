@@ -70,6 +70,6 @@ If you recognized some good Python files above see below for some file naming ti
  
  > keep_it_short.py
  
- > must_be_meaningfull.py
+ > must_be_meaningful.py
 
 ```
