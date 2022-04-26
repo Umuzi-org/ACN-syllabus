@@ -14,7 +14,7 @@ title: File and directory naming in JavaScript
 
 When thinking about how to name files in JavaScript, think of the file as an entity within the code. Meaning, if you have a file with a class called `MyClass`, then it also makes sense to name the file `MyClass.js` ; notice that the naming convention utilizes _PascalCase_. The same thing for a file containing a function. `myFunction` should live inside a _camelCased_ file called `myFunction.js` . The same logic should apply for naming directories that live inside your **src** directory. Remember to be always consistent.
 
-The same thing should be done for files inside your **spec** folder(Tests), with the small difference that the file name should end with `.spec`. if you want to test a function called `login.js`, then name the test file like so: `login.spec.js`
+The same thing should be done for files inside your **spec** folder(Tests), with the small difference that the file name should end with `.spec`. if you want to test a function called `login.js`, then name the test file like so: `login.spec.js`.
 
 ### Advantages of good naming convention:
 
@@ -28,7 +28,7 @@ The same thing should be done for files inside your **spec** folder(Tests), with
 
 ### Resources:
 
-The following resources should help you get a good idea about naming conventions in JavaScript:
+The following resources should help you get a good idea about general naming conventions in JavaScript:
 
 <https://google.github.io/styleguide/jsguide.html#file-name>
 
