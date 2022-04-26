@@ -26,6 +26,7 @@ title: Web dev bridging course
 - {{% contentlink path="projects/git-exercises" %}}
 - {{% contentlink path="topics/bootcamp/git-for-bootcamp" %}}
 - {{% contentlink path="environment-setup" %}}
+
 ## The real work
 
 - {{% contentlink path="soft-skills/learning-how-to-learn" %}}
@@ -39,3 +40,4 @@ title: Web dev bridging course
 - {{% contentlink path="specific-skill-success-criteria/for-loops" flavour="javascript" %}}
 - {{% contentlink path="projects/oop/animals/part1"  flavour="javascript" %}}
 - {{% contentlink path="specific-skill-success-criteria/classes-and-objects" flavour="javascript" %}}
+- {{% contentlink path="topics/javascript-specific/js-naming-convention" %}}

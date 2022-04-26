@@ -29,3 +29,4 @@ title: Web frontend foundations
 - {{% contentlink path="topics/data-ethics-and-privacy" %}}
 - {{% contentlink path="topics/free-code-camp/responsive-web-design/7-css-grid" %}}
 - {{% contentlink path="projects/memory-game/part-1" flavour="javascript" %}}
+- {{% contentlink path="topics/javascript-specific/js-naming-convention" %}}
