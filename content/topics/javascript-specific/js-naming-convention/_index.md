@@ -22,15 +22,13 @@ The same thing should be done for files inside your **spec** folder(Tests), with
 
 - Self documentation. The same way your code should be easily readable - so should your files. This saves you and your team loads of time.
 
-- cleaner import/exports. Good naming makes importing modules and creating variables inside your your files easier and more intuitive.
+- cleaner import/exports. Good naming makes importing/exporting modules and creating variables inside your your files easier and more intuitive.
 
 - Consistency. This is the key to maintainability.
 
----
-
 ### Resources:
 
-**The following resources should help you get a good idea about naming conventions in JavaScript:**
+The following resources should help you get a good idea about naming conventions in JavaScript:
 
 <https://google.github.io/styleguide/jsguide.html#file-name>
 
