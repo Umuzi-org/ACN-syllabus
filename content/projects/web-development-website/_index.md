@@ -1,31 +1,26 @@
 ---
 content_type: project
 flavours:
-- none
+  - none
 learning_outcomes:
-- web_dev_hosting
-- web_dev_responsive_page_design
-- web_dev_web_page_structure
-- web_dev_web_design_principals
+  - web_dev_hosting
+  - web_dev_responsive_page_design
+  - web_dev_web_page_structure
+  - web_dev_web_design_principals
 prerequisites:
   hard:
-  - topics/free-code-camp/responsive-web-design/1-basic-html-and-html-5
-  - topics/free-code-camp/responsive-web-design/2-basic-css
-  - topics/what-to-put-in-your-cv
-  - topics/web-frontend/intro-to-web-design/
-  - projects/simple-website
+    - projects/simple-website
 ready: true
 story_points: 3
 submission_type: link
 tags:
-- html
-- css
-- responsive web design
+  - html
+  - css
+  - responsive web design
 title: Web Development - Build your first personal website
 ---
 
-Now that you have finished creating your first simple personal portfolio, make it responsive and ensure that it passes through a linter.
-
+Now that you have finished creating your first simple personal portfolio, make it responsive and ensure that it passes through a linter. You should make changes to the same portfolio you have created, do not make a new one.
 
 ## Instructions
 
@@ -39,17 +34,12 @@ Once you have finished your design and are satisfied with the style and content,
 
 ### Requirements:
 
-The requirements of the website remain the same:
-
 - Website can be a single page or have multiple pages (the structure is up to you), but it must contain the following information:
   - About me
   - Skills (Your tech stack: the languages and tools you use)
   - Projects/Portfolio (for now this might be a bit empty, but if you've worked on anything cool then tell us about it)
   - Contact (social media, email, phone, etc)
 - Host your site as a Github Page. In your README file include a link to your github page for easy navigation.
-
-## Some advice
-
 - Website must be responsive to different screen sizes - use a mobile-first approach!
   - Use CSS Grid (see tutorials below) to design your site and make it responsive.
 - Website must be developed using HTML and CSS Grid with a logical structure and naming conventions in your code.
@@ -62,7 +52,6 @@ The requirements of the website remain the same:
 - Demonstrate attention to detail. Make sure your stuff is tidy. Use whitespace as needed. Make sure your pictures are not squashed or stretched.
 - This is not a creative writing exercise. Please tell the truth about your abilities and experience. If you did not do a job then do not list it.
 
-
 ### Links
 
 - [How to make a GitHub Page](https://pages.github.com/)
@@ -72,8 +61,7 @@ The requirements of the website remain the same:
 - [Web Developer Portfolios to inspire you](https://medium.freecodecamp.org/15-web-developer-portfolios-to-inspire-you-137fb1743cae)
 - [Tips to include towards creating an effective Portfolio](https://www.freecodecamp.org/news/how-to-build-an-awesome-data-science-portfolio/)
 
-
-## Instructions for reviewer 
+## Instructions for reviewer
 
 - The link submitted should direct you to the website.
 - All social media accounts and work profiles should work.

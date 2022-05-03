@@ -1,23 +1,24 @@
 ---
 content_type: project
 flavours:
-- none
+  - none
 learning_outcomes:
-- web_dev_hosting
-- web_dev_responsive_page_designs
+  - web_dev_hosting
 prerequisites:
   hard:
-  - topics/what-to-put-in-your-cv
+    - topics/what-to-put-in-your-cv
+    - topics/free-code-camp/responsive-web-design/1-basic-html-and-html-5
+    - topics/free-code-camp/responsive-web-design/2-basic-css
 ready: true
 story_points: 3
 submission_type: link
 tags:
-- html
-- css
-- responsive web design
+  - html
+  - css
 title: Simple Website - Build your first personal website
 ---
-For the learnership you will create a website with your CV and a portfolio of your work. Create the website and host it on Github. You will be expected to keep your portfolio up to date throughout the learnership.
+
+For the course you will create a website with your CV and a portfolio of your work. Create the website and host it on Github. You will be expected to keep your portfolio up to date throughout the course.
 
 ## Instructions
 
@@ -27,11 +28,9 @@ The content and information you choose to display is up to you. There should be 
 
 Your web page files and folders should be organized and named in a logical manner.
 
-Once you have finished your design and are satisfied with the style and content, upload the website to be hosted on GitHub Pages.
+Learn more about [Github Pages](https://guides.github.com/features/pages/).
 
-Please submit a link to your website. DO NOT submit a link to your github repo. We don't want to clone your website, we want to look at what you built.
-
-To learn more about Github Pages visit this link https://guides.github.com/features/pages/
+Make sure that you regularly push your code to github. Once you have finished your design and are satisfied with the style and content, submit a link to your website. DO NOT submit a link to your github repo, submit a link to the website you hosted on GitHub Pages. We don't want to clone your website, we want to look at what you built.
 
 ### Requirements:
 
@@ -56,8 +55,7 @@ To learn more about Github Pages visit this link https://guides.github.com/featu
 - [Building a Data Science Portfolio](https://www.dataquest.io/blog/build-a-data-science-portfolio/)
 - [Tips to include towards creating an effective Portfolio](https://www.freecodecamp.org/news/how-to-build-an-awesome-data-science-portfolio/)
 
-
-## Instructions for reviewer 
+## Instructions for reviewer
 
 - The link submitted should direct you to the website.
 - All social media accounts and work profiles should work.
