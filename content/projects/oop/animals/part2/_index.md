@@ -67,29 +67,47 @@ Your directory structure should look like this:
     - package.json
 ```
 
-## Instructions
+
+### Python
+
+Your directory structure should look like this:
+
+```
+├── animals
+│   └── animals.py
+├── setup.py
+├── requirements.txt
+├── .gitignore
+└── tests
+    └── test_animals.py
+
+```
+
+
+## General Instructions
+
+1. Update the `Animal` super class `eats()` function to return a String, "Food".
+2. The `Dog` and `Cat` class `sounds()` functions remain as per part 1 of the project.
+3. Make sure the `makeAllSounds()`/`make_all_sounds()` method still works properly.
+
 
 ### For Java
 
 You'll be using JUnit.
-
-1. Create a class called `AnimalTests`.
-2. Update `Animal` super class `eats()` function to return a String, "Food".
-3. Update `Dog` class `sounds()` function to return a `String`, "Bark".
-4. Update `Cat` class `sounds()` function to return a `String`, "Meow".
+Create a class called `AnimalTests`.
 
 ```
 // Java
 
 Dog dog = new Dog()
 
-dog.eats()    // -> 'Food'
-dog.sounds() // -> 'Bark'
+dog.eats()    // returns 'Food'
+dog.sounds() // returns 'Bark'
 
 Cat cat = new Cat()
 
-cat.eats()    // -> 'Food'
-cat.sounds() // -> 'Meow'
+cat.eats()    // returns 'Food'
+cat.sounds() // returns 'Meow'
 ```
 
 Now let's add our first JUnit test to our `AnimalTests`. The class should have the following methods `TestDogSound()`, `TestDogEats()`, `TestCatSound()` and `TestCatEats()`. Each method should have the @Test tag placed above it, the tests should work as follows:
@@ -115,23 +133,19 @@ Test -> Does cat eat food should Fail
 
 Use Jasmine to test your code.
 
-1. Update `Animal` super class `eats()` method to return a String, "Food".
-2. Update `Dog` class `sounds()` method to return a `String`, "Bark".
-3. Update `Cat` class `sounds()` method to return a `String`, "Meow".
-4. Make sure the `makeAllSounds()` method still works properly.
 
 ```
 // JavaScript
 
 let dog = new Dog()
 
-dog.eats()    // -> 'Food'
-dog.sounds() // -> 'Bark'
+dog.eats()    // returns 'Food'
+dog.sounds() // returns 'Bark'
 
 let cat = new Cat()
 
-cat.eats()    // -> 'Food'
-cat.sounds() // -> 'Meow'
+cat.eats()    // returns 'Food'
+cat.sounds() // returns 'Meow'
 ```
 
 Then create tests for your `eats()` and `sounds()` methods on the `Dog` and `Cat` classes with Jasmine.
@@ -156,6 +170,25 @@ Test -> Does cat eat food should Fail
 
 ```
 
+
+### For Python
+
+Use pytest to test your code.
+
+Please refer to the following to find out more: {{% contentlink path="topics/python-specific/automated-testing-with-pytest" %}}
+
+```
+# Python
+
+dog = Dog()
+dog.eats()    # returns 'Food'
+dog.sounds()  # returns 'Bark'
+
+```
+
+Remember the correct naming convention for the tests in your `test_animals.py` file.
+
+
 ### Up for a Challenge?
 
 This section is not compulsory but if you do this we'll think you're cool.
@@ -166,6 +199,5 @@ Add some extra tests for your Home class. Make sure that it makes all the right 
 
 - There should be no global variables.
 - If a variable is only used within a given method, then constantly referring to it as `self.variable`/`this.variable` isn't necessary.
-- `eats()` method should return "Food" and not print.
-- `Dog` and `Cat` class `sounds()` should return their respective sounds "Bark" and "Meow".
+- `eats()` method should return "Food" and not print it.
 - There should be a test for each method in the child classes.

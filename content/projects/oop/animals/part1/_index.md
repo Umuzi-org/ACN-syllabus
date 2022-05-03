@@ -43,20 +43,20 @@ In this challenge, you will create 3 classes.
 ? dog1 = new Dog()
 ? dog2 = new Dog("Simba")
 
-dog1.eat()    // -> 'Rax eats'
-dog1.sound() // -> 'Dog barks'
+dog1.eat()    // returns 'Rax eats'
+dog1.sound() // returns 'Bark'
 
-dog2.eat()    // -> 'Simba eats'
-dog2.sound() // -> 'Dog barks'
+dog2.eat()    // returns 'Simba eats'
+dog2.sound() // returns 'Bark'
 
 ? cat1 = new Cat()
 ? cat2 = new Cat("Smokey")
 
-cat1.eat()    // -> 'Stormy eats'
-cat1.sound() // -> 'Cat meows'
+cat1.eat()    // returns 'Stormy eats'
+cat1.sound() // returns 'Meow'
 
-cat2.eat()    // -> 'Smokey eats'
-cat2.sound() // -> 'Cat meows'
+cat2.eat()    // returns 'Smokey eats'
+cat2.sound() // returns 'Meow'
 ```
 
 ```
@@ -65,43 +65,44 @@ cat2.sound() // -> 'Cat meows'
 let dog1 = new Dog();
 let dog2 = new Dog("Simba")
 
-dog1.eat();    // -> 'Rax eats'
-dog1.sound(); // -> 'Dog barks'
+dog1.eat();    // returns 'Rax eats'
+dog1.sound(); // returns 'Bark'
 
-dog2.eat()    // -> 'Simba eats'
-dog2.sound() // -> 'Dog barks'
+dog2.eat()    // returns 'Simba eats'
+dog2.sound() // returns 'Bark'
 
 let cat1 = new Cat();
 let cat2 = new Cat("Smokey")
 
-cat1.eat();    // -> 'Stormy eats'
-cat1.sound(); // -> 'Cat meows'
+cat1.eat();    // returns 'Stormy eats'
+cat1.sound(); // returns 'Meow'
 
-cat2.eat()    // -> 'Smokey eats'
-cat2.sound() // -> 'Cat meows'
+cat2.eat()    // returns 'Smokey eats'
+cat2.sound() // returns 'Meow'
+
+```
 
 ```
 
-```
 # Python
 
-dog1 = new Dog()
-dog2 = new Dog("Simba")
+dog1 = Dog()
+dog2 = Dog('Simba')
 
-dog1.eat()   # -> 'Rax eats'
-dog1.sound() # -> 'Dog barks'
+dog1.eat()   # returns 'Rax eats'
+dog1.sound() # returns 'Bark'
 
-dog2.eat()    # -> 'Simba eats'
-dog2.sound() # -> 'Dog barks'
+dog2.eat()    # returns 'Simba eats'
+dog2.sound() # returns 'Bark'
 
-cat1 = new Cat()
-cat2 = new Cat("Smokey")
+cat1 = Cat()
+cat2 = Cat('Smokey')
 
-cat1.eat()   # -> 'Stormy eats'
-cat1.sound() # -> 'Cat meows'
+cat1.eat()   # returns 'Stormy eats'
+cat1.sound() # returns 'Meow'
 
-cat2.eat()    # -> 'Smokey eats'
-cat2.sound() # -> 'Cat meows'
+cat2.eat()    # returns 'Smokey eats'
+cat2.sound() # returns 'Meow'
 
 ```
 
@@ -115,24 +116,25 @@ Home home = new Home()
 ? dog2 = new Dog()
 ? cat = new Cat()
 
-home.makeAllSounds() // this doesn't do anything
+home.makeAllSounds() // this doesn't return anything
 home.adoptPet(dog1) // 1
 home.makeAllSounds()
-// this prints:
-// Dog barks
+// this returns:
+// Bark
 
 home.adoptPet(cat) // 2
 home.makeAllSounds()
-// this prints:
-// Dog barks
-// Cat meows
+// this returns:
+// Bark
+// Meow
 
 home.adoptPet(dog2) // 3
 home.makeAllSounds()
-// this prints:
-// Dog barks
-// Cat meows
-// Dog barks
+// this returns:
+// Bark 
+// Meow
+// Bark
+
 ```
 
 ```
@@ -144,24 +146,24 @@ let dog2 = new Dog();
 let cat = new Cat();
 
 
-home.makeAllSounds();// this doesn't give/return any result/data
+home.makeAllSounds();// this doesn't return anything
 home.adoptPet(dog1); // 1
 home.makeAllSounds();
-// this prints :
-// Dog barks
+// this returns:
+// Bark
 
 home.adoptPet(cat); // 2
 home.makeAllSounds();
-// this prints :
-// Dog barks
-// Cat meows
+// this returns:
+// Bark
+// Meow
 
 home.adoptPet(dog2); // 3
 home.makeAllSounds();
-// this prints :
-// Dog barks
-// Cat meows
-//Dog barks
+// this returns:
+// Bark
+// Meow
+// Bark
 
 
 ```
@@ -173,24 +175,24 @@ dog1 = Dog();
 dog2 = Dog();
 cat = Cat();
 
-home.make_all_sounds() # this doesn't give/return any result/data
+home.make_all_sounds() # this doesn't return anything
 home.adopt_pet(dog1) # 1
 home.make_all_sounds()
-# this prints :
-# Dog barks
+# this returns:
+# Bark
 
 home.adopt_pet(cat) # 2
 home.make_all_sounds()
-# this prints :
-# Dog barks
-# Cat meows
+# this returns:
+# Bark
+# Meow
 
 home.adopt_pet(dog2) # 3
 home.make_all_sounds
-# this prints :
-# Dog barks
-# Cat meows
-# Dog barks
+# this returns:
+# Bark
+# Meow
+# Bark
 
 ```
 
@@ -198,7 +200,7 @@ home.make_all_sounds
 
 This section is not compulsory. If you do this, we will think that you are cool.
 
-Add some functionality to `adoptPet` so that an error/exception, `Cannot adopt the same pet twice!`, gets raised if you try to adopt the same pet twice.
+Add some functionality to `adoptPet` so that the error/exception, `Cannot adopt the same pet twice!`, gets raised if you try to adopt the same pet twice.
 
 For example,
 
@@ -210,5 +212,6 @@ home.adoptPet(dog1) // an error/exception gets raised
 ## Instructions for reviewer
 - The Animal class should follow the document's diagram's instructions exactly.
 - A constructor that accepts a string to set the name for the constructed pet should exist.
-- The `makeAllSounds` method should print the exact strings specified in the instructions. e.g "Dog barks", "Cat meows"
+- The `makeAllSounds` method should return the exact strings specified in the instructions. e.g "Bark", "Meow"
+- All the class methods should return the exact strings defined and not print them.
 - If the bonus part of the project is attempted; a house cannot adopt a specific instance of a pet more than once.
