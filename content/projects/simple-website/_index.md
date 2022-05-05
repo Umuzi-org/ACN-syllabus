@@ -40,9 +40,6 @@ Make sure that you regularly push your code to github. Once you have finished yo
   - Projects/Portfolio (for now this might be a bit empty, but if you've worked on anything cool then tell us about it)
   - Contact (social media, email, phone, etc)
 - Host your site as a Github Page. In your README file include a link to your github page for easy navigation.
-
-## Some advice
-
 - Your portfolio can be a simple single page portfolio that contains the above mentioned requirements.
 - Make sure that only the necessary information is presented.
 - Make sure your stuff is tidy. Use whitespace as needed. Make sure your pictures are not squashed or stretched.
