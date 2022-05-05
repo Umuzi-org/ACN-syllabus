@@ -12,9 +12,18 @@ title: File and directory naming in JavaScript
 
 ## How should I name my JavaScript files and directories?
 
-When thinking about how to name files in JavaScript, think of the file as an entity within the code. Meaning, if you have a file with a class called `MyClass`, then it also makes sense to name the file `MyClass.js` ; notice that the naming convention utilizes _PascalCase_. The same thing for a file containing a function. `myFunction` should live inside a _camelCased_ file called `myFunction.js` . The same logic should apply for naming directories that live inside your **src** directory. Remember to be always consistent.
+When thinking about how to name files in JavaScript, think of the file as an entity within the code. This means, if you have a file with a class called `MyClass`, then it also makes sense to name the file `MyClass.js` ; notice that the naming convention utilizes _PascalCase_. The same thing for a file containing a function. `myFunction` should live inside a _camelCased_ file called `myFunction.js` . The same logic should apply for naming directories that live inside your **src** directory. Remember to be always consistent.
 
-The same thing should be done for files inside your **spec** folder(Tests), with the small difference that the file name should end with `.spec`. if you want to test a function called `login.js`, then name the test file like so: `login.spec.js`.
+The same thing should be done for files inside your **spec** folder(tests), with the small difference that the file name should end with `.spec`. if you want to test a function called inside a file called `login.js`, then name the test file like so: `login.spec.js`.
+
+### Bad file and directory naming in JavaScript:
+
+To find out if you have badly named a file, think of how you would name a JavaScript variable, function or class. If the file does not follow the same rule, than it is probably badly named. Below are examples of badly named files:
+
+- my-file-name.js
+- my.file.name.js
+- myfilename.js
+- my-file_name.js
 
 ### Advantages of good naming convention:
 
@@ -22,7 +31,7 @@ The same thing should be done for files inside your **spec** folder(Tests), with
 
 - Self documentation. The same way your code should be easily readable - so should your files. This saves you and your team loads of time.
 
-- cleaner import/exports. Good naming makes importing/exporting modules and creating variables inside your your files easier and more intuitive.
+- Cleaner import/exports. Good naming makes importing/exporting modules and creating variables inside your your files easier and more intuitive.
 
 - Consistency. This is the key to maintainability.
 
