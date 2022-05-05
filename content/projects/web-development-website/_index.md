@@ -34,12 +34,6 @@ Once you have finished your design and are satisfied with the style and content,
 
 ### Requirements:
 
-- Website can be a single page or have multiple pages (the structure is up to you), but it must contain the following information:
-  - About me
-  - Skills (Your tech stack: the languages and tools you use)
-  - Projects/Portfolio (for now this might be a bit empty, but if you've worked on anything cool then tell us about it)
-  - Contact (social media, email, phone, etc)
-- Host your site as a Github Page. In your README file include a link to your github page for easy navigation.
 - Website must be responsive to different screen sizes - use a mobile-first approach!
   - Use CSS Grid (see tutorials below) to design your site and make it responsive.
 - Website must be developed using HTML and CSS Grid with a logical structure and naming conventions in your code.
