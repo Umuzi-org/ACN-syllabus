@@ -18,7 +18,7 @@ The same thing should be done for files inside your **spec** folder(tests), with
 
 ### Bad file and directory naming in JavaScript:
 
-To find out if you have badly named a file, think of how you would name a JavaScript variable, function or class. If the file does not follow the same rule, than it is probably badly named. Below are examples of badly named files:
+To find out if you have badly named a file or directory, think of how you would name a JavaScript variable, function or class. If the file does not follow the same rule, then it is probably badly named. Below are examples of badly named files:
 
 - my-file-name.js
 - my.file.name.js
