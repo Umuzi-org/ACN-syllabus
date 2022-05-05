@@ -2,22 +2,22 @@
 _db_id: 224
 content_type: project
 flavours:
-- any_language
+  - any_language
 learning_outcomes:
-- code_oop_class_instantiation
-- code_oop_polymorphism
-- code_oop_encapsulation
-- code_oop_inheritance
-- code_oop_composition
+  - code_oop_class_instantiation
+  - code_oop_polymorphism
+  - code_oop_encapsulation
+  - code_oop_inheritance
+  - code_oop_composition
 prerequisites:
   hard:
-  - projects/oop/person
+    - projects/oop/person
   soft: []
 ready: true
 story_points: 3
 submission_type: repo
 tags:
-- oop
+  - oop
 title: Animals Part 1. OOP basics
 ---
 
@@ -28,7 +28,7 @@ This challenge should test topics from your OOP knowledge.
 3. Polymorphism
 4. Composition
 
-![Screenshot 2019-11-11 at 10 21 38](https://user-images.githubusercontent.com/47598382/68578218-40542900-047a-11ea-9da8-02ed02d0c798.png)
+![Animal Flow Diagram](animals-diagram.png)
 
 In this challenge, you will create 3 classes.
 
@@ -131,7 +131,7 @@ home.makeAllSounds()
 home.adoptPet(dog2) // 3
 home.makeAllSounds()
 // this returns:
-// Bark 
+// Bark
 // Meow
 // Bark
 
@@ -167,6 +167,7 @@ home.makeAllSounds();
 
 
 ```
+
 ```
 # Python
 
@@ -210,6 +211,7 @@ home.adoptPet(dog1) // an error/exception gets raised
 ```
 
 ## Instructions for reviewer
+
 - The Animal class should follow the document's diagram's instructions exactly.
 - A constructor that accepts a string to set the name for the constructed pet should exist.
 - The `makeAllSounds` method should return the exact strings specified in the instructions. e.g "Bark", "Meow"
