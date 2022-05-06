@@ -2,14 +2,14 @@
 _db_id: 705
 content_type: project
 flavours:
-  - any_language
+ - any_language
 ready: true
 submission_type: repo
 tags:
-  - loops
-  - functions
-  - foundations
-  - data structures
+ - loops
+ - functions
+ - foundations
+ - data structures
 title: Shopping cart calculations
 ---
 
@@ -36,15 +36,13 @@ Take a look at this to see how you can see Tilde's data structures:
 {{% youtube Jx0jq2SiFS4 %}}
 
 Ideally you will be able to build stuff at least as complicated as that. But we'e going to start with some simpler things.
-
-## Get started with the project by addding the data to your repo
+## Get started with the project by adding the data to your repo
 
 First of all, please download this data in [this file](data.json) and add it to your repo. Your code is going to have to read this data structure.
 
 If you look at the data you'll see that what we have is a list or array of elements. Each element represents a shopping basket.
 
 Each shopping basket has a few different pieces:
-
 1. email: this is the email address of the customer.
 2. status: this can have a few different values:
    1. OPEN means that the person is still busy shopping.
@@ -53,17 +51,14 @@ Each shopping basket has a few different pieces:
 3. items: this is a list/array of all the things that a person added to the basket.
 
 Each item in the shopping basket has a few properties of its own:
-
 1. name: dah
 2. quantity: how many of these does the person want to buy?
 3. price: This is the price of a single item. The prices are in South African Rands.
 
 For example, if there is an item in the shopping cart that looks like this:
-
 ```
 {"name": "hamster", "quantity": 2, "price": 20}
 ```
-
 Then it means that the person is buying 2 hamsters at a price of R20 each. So that's R40 in total.
 
 Please note that one person can have multiple baskets. If you look at the data, you'll see that tshepo@umuzi.org has 4 baskets. Two have been delivered, one has been paid for (so he's awaiting delivery) and one is open (so he's setting up his next order).
@@ -128,7 +123,6 @@ Hint: You have already defined some functions that would be useful in finding th
 Write a function called `get customers with open baskets` that returns a list/array of email addresses for customers who have baskets that are open.
 
 ## Notes to reviewers
-
 - The code must be DRY.
 - There can be some global constants to help prevent typos. for example, `const DELIVERED="DELIVERED"`.
 - Functions are supposed to return very specific things.
