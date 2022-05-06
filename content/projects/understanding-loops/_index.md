@@ -2,14 +2,14 @@
 _db_id: 705
 content_type: project
 flavours:
- - any_language
+- any_language
 ready: true
 submission_type: repo
 tags:
- - loops
- - functions
- - foundations
- - data structures
+- loops
+- functions
+- foundations
+- data structures
 title: Shopping cart calculations
 ---
 
