@@ -1,20 +1,20 @@
 ---
 content_type: project
 flavours:
-  - none
+- none
 learning_outcomes:
-  - web_dev_hosting
+- web_dev_hosting
 prerequisites:
   hard:
-    - topics/what-to-put-in-your-cv
-    - topics/free-code-camp/responsive-web-design/1-basic-html-and-html-5
-    - topics/free-code-camp/responsive-web-design/2-basic-css
+  - topics/what-to-put-in-your-cv
+  - topics/free-code-camp/responsive-web-design/1-basic-html-and-html-5
+  - topics/free-code-camp/responsive-web-design/2-basic-css
 ready: true
 story_points: 3
 submission_type: link
 tags:
-  - html
-  - css
+- html
+- css
 title: Simple Website - Build your first personal website
 ---
 

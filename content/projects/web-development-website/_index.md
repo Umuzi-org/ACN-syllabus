@@ -1,22 +1,22 @@
 ---
 content_type: project
 flavours:
-  - none
+- none
 learning_outcomes:
-  - web_dev_hosting
-  - web_dev_responsive_page_design
-  - web_dev_web_page_structure
-  - web_dev_web_design_principals
+- web_dev_hosting
+- web_dev_responsive_page_design
+- web_dev_web_page_structure
+- web_dev_web_design_principals
 prerequisites:
   hard:
-    - projects/simple-website
+  - projects/simple-website
 ready: true
 story_points: 3
 submission_type: link
 tags:
-  - html
-  - css
-  - responsive web design
+- html
+- css
+- responsive web design
 title: Web Development - Build your first personal website
 ---
 
