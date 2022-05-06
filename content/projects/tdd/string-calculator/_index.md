@@ -56,10 +56,10 @@ Please use junit to test your code https://www.guru99.com/junit-test-framework.h
 
 ```
 ├── src
-│   └── main
-|       └── java
-|           └── StringCalculator
-|           └── Main    
+    └── main
+    |   └── java
+    |       └── StringCalculator
+    |       └── Main    
     └── test
         └── java
            └── StringCalculatorTest
