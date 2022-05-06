@@ -30,8 +30,17 @@ def send_sms(to_phone_number,message):
 ```
 // js
 
-def sendSms(toPhoneNumber,message):
+function sendSms(toPhoneNumber,message){
     magic happens here
+}
+```
+
+```
+// java
+
+public int sendSms(toPhoneNumber: String, message: String) {
+    magic happens here
+}
 ```
 
 So our test should do something like this (pseudocode-ish):
@@ -54,6 +63,18 @@ it('should send the correct sms when a user's phone number changes',()=>{
     expect(sendSms.callCount).toBe(1);
     expect(sendSms.arguments.toPhone).toBe(newPhoneNumber);
 })
+```
+
+```
+# java -ish
+
+@Test
+public void whenSendingSMS_CreateSpy() {
+    Mockito.spy(sendSms);
+    doSomeSetup()
+    changeTheUserPhoneNumber(newPhoneNumer);
+    Mockito.verify(sendSms).equal(1);
+}
 ```
 
 **NOTICE THAT** even though we did not explicitly call the `send sms` function, it got called by the code under test. So the call count went up. 
@@ -109,3 +130,7 @@ If you are writing pointless code then you are doing it wrong. Mocks and spies e
 ## JS Resources
 
 {{% contentlink path="topics/jasmine-spies" %}}
+
+## Java Resource
+- [Work through tutorial](https://www.youtube.com/watch?v=xXO8ft-tsrY)
+- https://www.baeldung.com/mockito-spy
