@@ -16,7 +16,7 @@ tags:
 title: Python and MongoDB
 ---
 
-Create a docker composition that will run mongodb. You will be connecting to this container while developing so, be sure to commit your composition to your repo.
+Create a docker composition that will run mongodb. You will be connecting to this container while developing, be sure to commit your composition to your repo.
 
 Also: DO NOT hardcode your connection configuration into your Python code. Use environmental variables. For example: `MONGO_HOST = os.getenv("MONGO_HOST","localhost")`. Make sure you understand why this is a good idea.
 
