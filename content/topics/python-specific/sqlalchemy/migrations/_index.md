@@ -10,7 +10,7 @@ tags: []
 title: Sqlalchemy migrations with Alembic
 ---
 
-Here's the official tutorial. It's really quite good.
+Here's the official tutorial, it's really quite good.
 
 First, learn what a migration is: https://alembic.sqlalchemy.org/en/latest/tutorial.html
 
