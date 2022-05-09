@@ -17,6 +17,7 @@ You'll also need to know a bit about JSON
 - [Intro to JSON](https://www.digitalocean.com/community/tutorials/an-introduction-to-json)
 - [Using JSON in JavaScript](https://www.w3schools.com/js/js_json_intro.asp)
 - [Using JSON in Python](https://www.w3schools.com/python/python_json.asp)
+- [Using JSON in Java](https://www.baeldung.com/java-org-json)
 
 The following tools are useful for manually playing with api:
 
