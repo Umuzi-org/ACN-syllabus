@@ -6,8 +6,8 @@ flavours:
 ready: true
 submission_type: repo
 tags:
-- bootcamp-writing-assignment
-title: Bootcamp Writing Assignment
+- writing-assignment
+title: Writing Assignment
 ---
 
 ## We would like to get to know you better
