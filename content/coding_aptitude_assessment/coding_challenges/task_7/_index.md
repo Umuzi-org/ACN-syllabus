@@ -8,6 +8,7 @@ prerequisites:
 submission_type: repo
 flavours:
 - any_language
+ready: true
 ---
 
 Write a function that takes in a number representing the temperature in Celsius and returns the temperature in Fahrenheit.

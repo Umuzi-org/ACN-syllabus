@@ -8,6 +8,7 @@ prerequisites:
 submission_type: repo
 flavours:
 - any_language
+ready: true
 ---
 
 Make a function that takes two strings as input, and print the common characters/letters that they share.

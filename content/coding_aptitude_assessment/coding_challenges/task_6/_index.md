@@ -8,6 +8,7 @@ prerequisites:
 submission_type: repo
 flavours:
 - any_language
+ready: true
 ---
 
 Write a function that can take in any number of numbers. It should return the maximum number.

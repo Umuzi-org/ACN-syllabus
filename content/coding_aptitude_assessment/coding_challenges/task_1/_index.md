@@ -8,6 +8,7 @@ submission_type: repo
 title: "Coding aptitude assessment challenge: Task 1"
 flavours:
 - any_language
+ready: true
 ---
 
 Write a function that simply prints the string "Hello World!".

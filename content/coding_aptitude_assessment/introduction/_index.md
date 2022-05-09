@@ -1,5 +1,7 @@
 ---
 title: "Welcome!"
+content_type: topic
+ready: true
 ---
 
 Welcome to the course :)
@@ -8,7 +10,7 @@ Welcome to the course :)
 
 There are a lot of wonderful people who are dedicated to creating and maintaining educational resources. We curate and supplement those resources. Basically what that means is:
 
-- we look for the best learning materials, we combine all the best pieces
+- we look for the best learning materials, we combine all the best pieces instead of reinventing the wheel
 - we add extra content and projects to make sure that people are practicing and applying the skills that they are learning
 
 ## What to expect from this course
@@ -31,9 +33,9 @@ If you got it wrong then you can try again :) You can try again as many times as
 
 ### Why?
 
-Firstly, grit matters. If you are willing to try and try again until you get it right, then that's awesome. People willing to pick themselves up and keep going when things get hard are likely to succeed in life.
+Firstly, grit matters. If you are willing to try and try again until you get it right then that's awesome. People willing to pick themselves up and keep going when things get hard are likely to succeed in life.
 
-Secondly, because we try to make learning resemble real work as much as possible. Coders get things wrong all the time, they are always needing to revisit their work and fix it and improve it. Nobody gets everything right on the first try. If we expected you to be perfect that would be a bit silly. We just hope that you'll try hard to learn from any mistakes.
+Secondly, because we try to make learning resemble real work as much as possible. Coders get things wrong all the time, they are always needing to revisit their work, fix it and improve it. Nobody gets everything right on the first try. If we expected you to be perfect that would be a bit silly. We just hope that you'll try hard to learn from any mistakes.
 
 ## Our hope
 

@@ -8,6 +8,7 @@ prerequisites:
 submission_type: repo
 flavours:
 - any_language
+ready: true
 ---
 
 Make a function to convert any number into hours and minutes. It should print the result.

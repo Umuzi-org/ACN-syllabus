@@ -8,6 +8,7 @@ prerequisites:
 submission_type: repo
 flavours:
 - any_language
+ready: true
 ---
 
 Write a function that takes in a single number. It should return the string `even` if the number is even, and `odd` if the number is odd.

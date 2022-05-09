@@ -1,5 +1,7 @@
 ---
 title: "IMPORTANT!! Naming your files and functions"
+ready: true
+content_type: topic
 ---
 
 This is **REALLY IMPORTANT!**

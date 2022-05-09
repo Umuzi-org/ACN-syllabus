@@ -8,6 +8,7 @@ prerequisites:
 submission_type: repo
 flavours:
 - any_language
+ready: true
 ---
 
 Write a function that takes in a string and then returns all the vowels in the string as a list or array.

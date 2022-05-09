@@ -1,22 +1,36 @@
 ---
-title: Coding aptitude mini course and assessment
+title: ACN Coding aptitude mini course and assessment - Python
 ---
 
-This course is designed to:
+## Introduction
 
-- be a good measure of actual coding aptitude
-- add value to the people doing the aptitude test
-- be easy enough to run that we can run it at massive scale for cheap or free
-
-## Outline
+- {{% contentlink path="coding_aptitude_assessment/introduction" %}}
+- {{% contentlink path="coding_aptitude_assessment/introduction_to_github" %}}
+- {{% contentlink path="projects/writing-assignment" %}}
 
 
-- {{% contentlink path="coding_aptitude_assessment/introduction" %}
-- {{% contentlink path="coding_aptitude_assessment/introduction_to_github" %}
-- {{% contentlink path="writing-assignment" %}
-- {{% contentlink path="coding_aptitude_assessment/coding_challenges/introduction" %}
-- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_1" flavour="python" %}
-- {{% contentlink path="coding_aptitude-assessment/coding_challenges/task_2" flavour="python" %}
-- {{% contentlink path="coding_aptitude-assessment/coding_challenges/task_3" flavour="python" %}
-- {{% contentlink path="coding_aptitude-assessment/coding_challenges/task_4" flavour="python" %}
-- {{% contentlink path="coding_aptitude-assessment/coding_challenges/task_5" flavour="python" %}
+## Installing Python
+
+There is no need to install git just yet.
+
+- {{% contentlink path="environment-setup" %}}
+
+## Learn some basic code
+
+- {{% contentlink path="topics/solo-learn/python/1-basic-concepts" %}}
+- {{% contentlink path="topics/solo-learn/python/2-strings-and-variables" %}}
+- {{% contentlink path="topics/solo-learn/python/3-control-structures" %}}
+- {{% contentlink path="topics/solo-learn/python/4-functions-and-modules" %}}
+
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/introduction" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/how_to_name_files" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_1" flavour="python" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_2" flavour="python" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_3" flavour="python" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_4" flavour="python" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_5" flavour="python" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_6" flavour="python" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_7" flavour="python" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_8" flavour="python" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_9" flavour="python" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_10" flavour="python" %}}

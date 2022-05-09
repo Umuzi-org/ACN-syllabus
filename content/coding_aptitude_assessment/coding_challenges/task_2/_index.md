@@ -1,5 +1,5 @@
 ---
-title: "Coding aptitude assessment challenge: Task 3"
+title: "Coding aptitude assessment challenge: Task 2"
 content_type: project
 prerequisites:
   hard:
@@ -8,6 +8,7 @@ prerequisites:
 submission_type: repo
 flavours:
 - any_language
+ready: true
 ---
 
 This task is very similar to task 1.
