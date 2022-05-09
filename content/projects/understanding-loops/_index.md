@@ -65,7 +65,7 @@ Please note that one person can have multiple baskets. If you look at the data, 
 
 ## Write some functionality
 
-When writing your functionality, please be aware that the parameters should not be limited to a certain order. For example, `getCustomerBaskets(someJsonData, "sine@umuzi.org")` and `getCustomerBaskets("sine@umuzi.org", someJsonData)` should work the same way and produce the same results. Using destructuring helps to achieve this. It is important, however, to note that when using destructuring, the names of the arguments will matter a lot as they have to match wherever they are being used in the code.
+When writing your functionality, please be aware that the parameters should not be limited to a certain order. For example, `getCustomerBaskets(someJsonData, "sine@umuzi.org")` and `getCustomerBaskets("sine@umuzi.org", someJsonData)` should work the same way and produce the same results. Using destructuring helps to achieve this. It is important, however, to note that when using destructuring, the names of the arguments will matter a lot as they have to match wherever they are being used in the code. Here is more on [destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment).
 
 ### get baskets belonging to a single customer
 
