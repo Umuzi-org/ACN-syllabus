@@ -5,7 +5,7 @@ flavours:
 - any_language
 from_repo: projects/oop/animals/part1
 prerequisites:
-hard:
+  hard:
   - projects/tdd/simple-calculator-part1
   - projects/oop/animals/part1
   soft: []
