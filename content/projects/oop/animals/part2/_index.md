@@ -87,6 +87,7 @@ Your directory structure should look like this:
 1. Update the `Animal` super class `eats()` function to return a String, "Food".
 2. The `Dog` and `Cat` class `sounds()` functions remain as per part 1 of the project.
 3. Make sure the `makeAllSounds()`/`make_all_sounds()` method still works properly.
+4. See the pseudocode examples below for what kinds of things should be tested.
 
 ### For Java
 
@@ -177,6 +178,26 @@ dog.eats()    # returns 'Food'
 ```
 
 Remember the correct naming convention for the tests in your `test_animals.py` file.
+
+```
+# Python
+
+#Dog tests
+dog = Dog();
+Test -> Does dog eat Food should Pass
+Test -> Does dog eat food should Fail
+Test -> Does dog Roar should Fail
+Test -> Does dog Bark should Pass
+
+#Cat Tests
+cat = Cat();
+Test -> Does cat Bark should Fail
+Test -> Does cat Meow should Pass
+Test -> Does cat eat meat should Fail
+Test -> Does cat eat Food should Pass
+Test -> Does cat eat food should Fail
+
+```
 
 ### Up for a Challenge?
 
