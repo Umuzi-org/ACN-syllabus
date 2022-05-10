@@ -200,7 +200,7 @@ Hint: A valid string input follows these formats:
 - "//[delimiter][delimiter]\n integer delimiter integer" e.g "//[\*][%]\n1\*2%3"
 ```
 
-If the string does not abide by any of these formats, it should be considered invalid. Square brackets (`[ or ]`) are used as identifiers, and will not be used as delimiters. Any string with these as delimiters should also be considered invalid.
+If the string does not abide by any of these formats, it should be considered invalid. Square brackets (`[` or `]`) are used as identifiers, and will not be used as delimiters. Any string with these as delimiters should also be considered invalid.
 
 ```
 add("//;\n1000;1;2;")
