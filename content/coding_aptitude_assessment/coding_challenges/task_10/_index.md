@@ -1,14 +1,15 @@
 ---
-title: "Coding aptitude assessment challenge: Task 10"
+_db_id: 754
 content_type: project
+flavours:
+- any_language
 prerequisites:
   hard:
   - coding_aptitude_assessment/coding_challenges/introduction
   - coding_aptitude_assessment/coding_challenges/how_to_name_files
-submission_type: repo
-flavours:
-- any_language
 ready: true
+submission_type: repo
+title: 'Coding aptitude assessment challenge: Task 10'
 ---
 
 Make a function that takes two strings as input, and print the common characters/letters that they share.

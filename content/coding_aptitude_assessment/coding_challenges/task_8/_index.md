@@ -1,14 +1,15 @@
 ---
-title: "Coding aptitude assessment challenge: Task 8"
+_db_id: 762
 content_type: project
+flavours:
+- any_language
 prerequisites:
   hard:
   - coding_aptitude_assessment/coding_challenges/introduction
   - coding_aptitude_assessment/coding_challenges/how_to_name_files
-submission_type: repo
-flavours:
-- any_language
 ready: true
+submission_type: repo
+title: 'Coding aptitude assessment challenge: Task 8'
 ---
 
 Make a function to convert any number into hours and minutes. It should print the result.
@@ -23,4 +24,3 @@ Here are some sample inputs and outputs:
 **Most people get this question wrong!**
 
 Coders are precise so it is important to focus here. The output should show the number of hours and minutes, and it should make proper use of singulars and plurals.
-
