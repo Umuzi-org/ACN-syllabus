@@ -41,7 +41,7 @@ Your project is expected to be completed using pytest. You are expected to follo
 ```
 ├── string_calculator   the package under test
 │   └── calculator.py
-├── requirements.txt    installation requiremnts
+├── requirements.txt    installation requirements
 ├── setup.py            installation script for the package under test
 └── tests               all package tests go in this directory
     └── test_calculator.py
@@ -49,6 +49,22 @@ Your project is expected to be completed using pytest. You are expected to follo
 
 Please take a look at this topic to see an explanation of the required directory structure.
 {{%contentlink "topics/python-specific/automated-testing-with-pytest" %}}
+
+### Java
+
+Please use junit to test your code https://www.guru99.com/junit-test-framework.html
+
+```
+├── src
+    └── main
+    |   └── java
+    |       └── StringCalculator
+    |       └── Main    
+    └── test
+        └── java
+           └── StringCalculatorTest
+ 
+```
 
 ## Instructions
 
@@ -92,7 +108,7 @@ add("1,1")
 
 As you keep adding more functionality to your code always make sure that the previous functionality you implemented still works flawlessly. Keep this in mind as you continue to modify your code.
 
-#### 3. Modify the add function so that it can handle new lines between integers
+#### 3. Modify the add function so that it can handle newlines between integers
 
 ```
 add("1\n2,3" )
@@ -103,7 +119,7 @@ add("1\n2,3" )
 
 Delimiters will be specified in the following manner:
 
-- **"//[delimiter]\n[numbers…]"**, the default delimiter will be in the beginning of the string just before a new line character ("\n"). For example:
+- **"//[delimiter]\n[numbers…]"**, the default delimiter will be in the beginning of the string just before a newline character ("\n"). For example:
 
 ```
 add("//;\n1;2")
@@ -149,7 +165,7 @@ add("//***\n1***2***3")
 // should return 6
 ```
 
-#### 8. Modify the add function so that it is able to support different delimiters of any length
+#### 8. Modify the add function so that it can support different delimiters of any length
 
 As long as the string passed into the add function follows this format, "//[delim1][delim2]\n[integers...]", the add function should be able to handle it:
 
@@ -205,7 +221,7 @@ add("1,2,3//;\n1000,1;2")
 
 ### Why is this important?
 
-- If you are wondering to yourself, "Why is this sooo important!?" take a look at {{% contentlink path="/topics/data_validation_and_verification/" %}}
+- If you are wondering, "Why is this so important!?" take a look at {{% contentlink path="/topics/data_validation_and_verification/" %}}
 
 ## Instructions for reviewers
 
@@ -213,7 +229,7 @@ add("1,2,3//;\n1000,1;2")
 
 - Proper error handling to be used. no `print`/`console.log`. an exception is to be thrown when needed and a value returned when needed.
 
-- Ensure that the add function the takes a string as an argument.
+- Ensure that the add function takes a string as an argument.
 
 - The function that needs to be constantly updated is the `add()` function. It is even better if the `add()` function relies on other tiny functions.
 

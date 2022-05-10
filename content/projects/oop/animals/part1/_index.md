@@ -21,7 +21,7 @@ tags:
 title: Animals Part 1. OOP basics
 ---
 
-This challenge should test topics from your OOP knowledge
+This challenge should test topics from your OOP knowledge.
 
 1. Encapsulation
 2. Inheritance
@@ -30,12 +30,12 @@ This challenge should test topics from your OOP knowledge
 
 ![Screenshot 2019-11-11 at 10 21 38](https://user-images.githubusercontent.com/47598382/68578218-40542900-047a-11ea-9da8-02ed02d0c798.png)
 
-In this challenge you will create 3 classes
+In this challenge, you will create 3 classes.
 
 1. Super class called `Animal`
-2. `Dog` and `Cat` class which both **extends** `Animal` class (a dog is an animal, and a cat is an animal)
-3. `Dog` and `Cat` class should only have one function, which is their own implementation of the `sounds()` function. This is polymorphism
-4. a `Home` class. But we will talk about that later...
+2. `Dog` and `Cat` class both **extend** `Animal` class (a dog is an animal, and a cat is an animal).
+3. `Dog` and `Cat` class should only have one function, which is their own implementation of the `sounds()` function. This is polymorphism.
+4. A `Home` class, but we will talk about that later...
 
 ```
 // Java
@@ -133,7 +133,7 @@ This section is not compulsory. If you do this, we will think that you are cool.
 
 Add some functionality to `adoptPet` so that an error/exception gets raised if you try to adopt the same pet twice.
 
-eg:
+For example,
 
 ```
 home.adoptPet(dog1) // totally ok

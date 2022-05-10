@@ -25,7 +25,7 @@ These exercises are here to help you test out and demonstrate your knowledge of 
 Please follow best practices when doing this work!
 
 - Use git: push your code every day! Maybe even a few times every day. If you don't back up your work and something terrible happens to your computer then you will not be granted an extension. Make sure your commit messages make sense.
-- Be careful about how you name your functions and variables. Be consistent. Be clear. Call it what it is. Any fool can write code that a machine can understand, professionals write code that people can understand.
+- Be careful about how you name your functions and variables. Be consistent, clear and call it what it is. Any fool can write code that a machine can understand but professionals write code that people can understand.
 
 ## Note
 
@@ -41,11 +41,11 @@ Please don't submit any HTML or CSS. Please don't use `document.write`. We are i
 
 Katas are pretty common in coding (and martial arts). Katas are about practicing and perfecting fundamental skills. There are a few different skills we need to see here.
 
-The first thing is Git! It's seriously important so we want to see you developing good habits.
+The first thing is git! It's seriously important so we want to see you developing good habits.
 
-For every exercise in this project, you need to make a new pull request on github and a new branch.
+For every exercise in this project, you need to make a new pull request and a new branch on github.
 
-So if you are writing code for the first exercise you should do this:
+So, if you are writing code for the first exercise then you should do this:
 
 ```
 git checkout main
@@ -53,7 +53,7 @@ git pull
 git checkout -b task/1
 ```
 
-Now you have branch for your hello code to live in. Create a file for your hello function to live in. Commit and push. Then make a pull request. Make some noise about your PR so that we can take a look at it and give you feedback.
+Now you have branch for your hello code to live in. Create a file for your hello function to live in. Commit, push then make a pull request. Make some noise about your PR so that we can take a look at it and give you feedback.
 
 While you wait for feedback, you can start the next exercise.
 
@@ -73,7 +73,7 @@ If you follow the simple instructions in the "what does success look like?" sect
 
 ## Super important!
 
-At this point you should be using git from the command line. If you drag and drop to upload your code: You are doing it wrong. For real. Git is amazingly important and now is the time to get used to it!
+At this point you should be using git from the command line. If you drag and drop to upload your code, you are doing it wrong. Git is amazingly important and now is the time to get used to it!
 
 
 ## Task 1.1
@@ -82,29 +82,28 @@ If we list all the natural numbers below 10 that are multiples of 3 or 5, we get
 
 Find the sum of all the multiples of 3 or 5 below 1000.
 
-
 ## Task 1.2
 
 Write a function that takes 2 numbers as input.
-If either of the numbers is 3 AND the sum of the numbers contains a 3 then return true. Otherwise return false.
+If either of the numbers is 3 and the sum of the numbers contains a 3 then return true. Otherwise, return false.
 
 ## Task 1.3
 
 Write a function that takes 2 numbers as input.
-If either of the numbers is 65, OR if the sum of the numbers is 65 then return true. Otherwise return false.
+If either of the numbers is 65, or if the sum of the numbers is 65 then return true. Otherwise, return false.
 
 ## Task 1.4
 
 Write a function, name it `square`. It takes in an integer and then prints out a square using the hash character.
 
-e.g. `square(2)` should print:
+For example, `square(2)` should print:
 
 ```
 ##
 ##
 ```
 
-e.g. `square(4)` should print:
+For example, `square(4)` should print:
 
 ```
 ####
@@ -115,14 +114,14 @@ e.g. `square(4)` should print:
 
 ## Task 1.5
 
-e.g. `triangle(2)` should print:
+For example, `triangle(2)` should print:
 
 ```
 #
 ##
 ```
 
-e.g. `triangle(4)` should print:
+For example, `triangle(4)` should print:
 
 ```
 #
@@ -131,16 +130,16 @@ e.g. `triangle(4)` should print:
 ####
 ```
 
-If negative numbers are input then the triangle should be upside down
+If negative numbers are input then the triangle should be upside down.
 
-e.g. `triangle(-2)` should print:
+For example, `triangle(-2)` should print:
 
 ```
 ##
 #
 ```
 
-e.g. `triangle(-4)` should print:
+For example, `triangle(-4)` should print:
 
 ```
 ####
@@ -151,11 +150,9 @@ e.g. `triangle(-4)` should print:
 
 ## Task 1.6
 
-Write a function that takes in an array/list of strings and then prints out the longest one
+Write a function that takes in an array/list of strings and then prints out the longest one.
 
-e.g. `longest(["the","quick","brown", "fox", "ate", "my", "chickens"])`
-
-should print:
+For example, `longest(["the","quick","brown", "fox", "ate", "my", "chickens"])` should print:
 
 ```
 chickens
@@ -163,11 +160,7 @@ chickens
 
 If there are multiple longest strings then print them all.
 
-e.g.
-
-`longest(["once", "upon", "a", "time"])`
-
-should print:
+For example, `longest(["once", "upon", "a", "time"])` should print:
 
 ```
 once
@@ -181,7 +174,7 @@ Write a function that combines two lists by taking alternate elements and return
 
 If your function can work with lists of unequal size, we'll think you’re cool.
 
-e.g. `combine([11,22,33], [1,2,3])` should return:
+For exampe, `combine([11,22,33], [1,2,3])` should return:
 
 ```
 [11,1,22,2,33,3]

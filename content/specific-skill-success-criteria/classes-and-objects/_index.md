@@ -15,11 +15,13 @@ title: 'Assessment: Classes and objects'
 On Tilde you'll notice that this card is asking for a link submission. **Please don't worry about submitting a link**. You will be assessed according to {{% contentlink path="specific-skill-success-criteria/introduction-to-assessments" %}}
 
 
-All students need to provably understand all of the following concepts:  
+
+All students need to provably understand all of the following concepts:
+
 - how constructors work
 - construction of multiple class instances:
-  - make many objects of the same class
-  - interact with them and see that they are distinct
+ - make many objects of the same class
+ - interact with them and see that they are distinct
 - getters and setters
 - inheritance and overriding and extending methods
 - composition
@@ -36,18 +38,18 @@ class Rectangle:
     ...
 ```
 
-> Learner should know how to create an initialiser that takes in arguments and create instance variables.
+> The learner should know how to create an initialiser that takes in arguments and create instance variables.
 
 
 ### Instantiation
 
-Learner should be able to instantiate the object.
+The learner should be able to instantiate the object.
 
 ```
 rectangle = Rectangle(2,4)
 ```
 
-Learner should also understand how multiple instances of an object work.
+The learner should also understand how multiple instances of an object work.
 
 ```
 small_rectangle1 = Rectangle(2, 4)
@@ -57,7 +59,7 @@ medium_rectangle = Rectangle(4, 12)
 
 ### Inheritance
 
-Learner should know what is inheritance and what it means when a class inherits another class. Both single and multiple inheritance should be understood, and the use of `super()` in both cases.
+The learner should know what is inheritance and what it means when a class inherits another class. Both single and multiple inheritances should be understood, and the use of `super()` in both cases.
 
 ```
 class Square(Rectangle):
@@ -71,14 +73,14 @@ class Cuboid(Rectangle):
 
 ### Overriding
 
-Learner should know how to override a function using super and without using super.
+The learner should know how to override a function using super and without using super.
 
 
 ## Java
 
 ### Constructors
 
-Learner should know that the constructor name must be same as its class name. 
+The learner should know that the constructor name must be the same as its class name. 
 
 ```
 class Rectangle{
@@ -87,7 +89,7 @@ class Rectangle{
       ....
     }    
 ```
-Learner should know that a single class can have multiple constructors with different numbers of parameters. 
+The learner should know that a single class can have multiple constructors with different numbers of parameters. 
 
 ```
 class Rectangle{
@@ -104,7 +106,7 @@ class Rectangle{
 
 ### Instantiation
 
-Learner should know how to instantiate a class object.
+The learner should know how to instantiate a class object.
 
 ```
   Rectangle rectangle1 = new Rectangle();
@@ -114,7 +116,7 @@ Learner should know how to instantiate a class object.
 
 ### Inheritance
 
-Learner must know that to inherit from a class, the keyword extends is used. 
+The learner must know that to inherit from a class, the keyword extends is used. 
 
 ```
 class Square extends Rectangle { .... }
@@ -170,7 +172,7 @@ Learner should understand inheritance and overriding and extending methods
 class Rectangle {
   ...
   details(){
-    return `The length of the Square is ${this.length}, the width of the Square is ${this.width}`;
+    return `The length of the Rectangle is ${this.length}, the width of the Square is ${this.width}`;
   }
 }
 
@@ -182,3 +184,4 @@ class Cuboid extends Rectangle {
     return `The length of the Cuboid is ${this.length}, the width of the Cuboid is ${this.width}`;
   };
 };
+The learner should know that constructors and methods declared with final or static cannot be overridden. If a method cannot be inherited, it cannot be overridden.

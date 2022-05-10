@@ -14,6 +14,6 @@ title: Solo Learn - Python Core - Module 4 - Functions & Modules
 topic_needs_review: false
 ---
 
-Complete the above mentioned module on Solo Learn
+Complete the above mentioned module on Solo Learn.
 
 https://www.sololearn.com/Course/Python/
