@@ -84,8 +84,8 @@ Your directory structure should look like this:
 
 ## General Instructions
 
-1. Update the `Animal` super class `eats()` function to return a String, "Food".
-2. The `Dog` and `Cat` class `sounds()` functions remain as per part 1 of the project.
+1. Update the `Animal` super class `eat()` function to return a String, "Food".
+2. The `Dog` and `Cat` class `sound()` functions remain as per part 1 of the project.
 3. Make sure the `makeAllSounds()`/`make_all_sounds()` method still works properly.
 4. See the pseudocode examples below for what kinds of things should be tested.
 
@@ -99,14 +99,14 @@ Create a class called `AnimalTests`.
 
 Dog dog = new Dog()
 
-dog.eats()    // returns 'Food'
+dog.eat()    // returns 'Food'
 
 Cat cat = new Cat()
 
-cat.sounds() // returns 'Meow'
+cat.sound() // returns 'Meow'
 ```
 
-Now let's add our first JUnit test to our `AnimalTests`. The class should have the following methods `TestDogSound()`, `TestDogEats()`, `TestCatSound()` and `TestCatEats()`. Each method should have the @Test tag placed above it, the tests should work as follows:
+Now let's add our first JUnit test to our `AnimalTests`. The class should have the following methods `TestDogSound()`, `TestDogEat()`, `TestCatSound()` and `TestCatEat()`. Each method should have the @Test tag placed above it, the tests should work as follows:
 
 ```
 // Java
@@ -133,12 +133,10 @@ Use Jasmine to test your code.
 // JavaScript
 
 let dog = new Dog()
-
-dog.eats()    // returns 'Food'
+dog.eat()    // returns 'Food'
 
 let cat = new Cat()
-
-cat.eats()    // returns 'Food'
+cat.eat()    // returns 'Food'
 ```
 
 Then create tests for your `eats()` and `sounds()` methods on the `Dog` and `Cat` classes with Jasmine.
@@ -173,7 +171,10 @@ Please refer to the following to find out more: {{% contentlink path="topics/pyt
 # Python
 
 dog = Dog()
-dog.eats()    # returns 'Food'
+dog.eat()    # returns 'Food'
+
+cat = Dog()
+cat.eat()    # returns 'Food'
 
 ```
 
@@ -209,7 +210,7 @@ Add some extra tests for your Home class. Make sure that it makes all the right 
 
 - There should be no global variables.
 - If a variable is only used within a given method, then constantly referring to it as `self.variable`/`this.variable` isn't necessary.
-- `eats()` method should return "Food" and not print it.
+- `eat()` method should return "Food" and not print it.
 - There should be a test for each method in the child classes.
-- `Dog` and `Cat` class `sounds()` should return their respective sounds "Bark" and "Meow".
+- `Dog` and `Cat` class `sound()` should return their respective sounds "Bark" and "Meow".
 - There should be a test for each method in the child classes.
