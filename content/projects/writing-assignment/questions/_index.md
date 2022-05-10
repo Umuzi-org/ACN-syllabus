@@ -3,7 +3,7 @@ _db_id: 730
 content_type: project
 ready: true
 submission_type: nosubmit
-title: Bootcamp writing assignment questions
+title: Writing assignment questions
 ---
 
 ## 1. Your history [200 - 500 words]
@@ -51,6 +51,7 @@ Also, the course is pretty much self-paced. So the faster you move the better th
 If you succeed and get a high value career in your chosen field, what do you think your life will look like? Do you have personal goals? How will this effect your family and your community? Is there a big problem you want to solve? Or a business you want to start?
 
 How much is your success worth to you?
+
 ## 9. Your future: the scary parts
 
 If you don't manage to launch a value career in your chosen field, what do you think your life will look like? What will this mean for your goals? What about your family and community?

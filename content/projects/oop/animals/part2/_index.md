@@ -211,3 +211,5 @@ Add some extra tests for your Home class. Make sure that it makes all the right 
 - If a variable is only used within a given method, then constantly referring to it as `self.variable`/`this.variable` isn't necessary.
 - `eats()` method should return "Food" and not print it.
 - There should be a test for each method in the child classes.
+- `Dog` and `Cat` class `sounds()` should return their respective sounds "Bark" and "Meow".
+- There should be a test for each method in the child classes.

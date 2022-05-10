@@ -50,6 +50,22 @@ Your project is expected to be completed using pytest. You are expected to follo
 Please take a look at this topic to see an explanation of the required directory structure.
 {{%contentlink "topics/python-specific/automated-testing-with-pytest" %}}
 
+### Java
+
+Please use junit to test your code https://www.guru99.com/junit-test-framework.html
+
+```
+├── src
+    └── main
+    |   └── java
+    |       └── StringCalculator
+    |       └── Main    
+    └── test
+        └── java
+           └── StringCalculatorTest
+ 
+```
+
 ## Instructions
 
 Before you commence, first read through {{% contentlink path="/topics/data_validation_and_verification/" %}}. Upon completion, read through {{% contentlink path="/topics/regular-expressions/" %}}.
