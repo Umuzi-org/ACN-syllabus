@@ -19,6 +19,6 @@ For example:
 `task3(44)` should return `"even"`
 `task3(1)` should return `"odd"`
 
-## Did you know that
+## Did you know that...
 
 Most self taught coders don't know the difference between print and return. Make sure that you understand the difference. It really matters a lot if you want to build anything significant.

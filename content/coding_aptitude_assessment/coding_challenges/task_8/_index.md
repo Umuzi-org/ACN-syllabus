@@ -12,13 +12,13 @@ submission_type: repo
 title: 'Coding aptitude assessment challenge: Task 8'
 ---
 
-Make a function to convert any number into hours and minutes. It should print the result.
+Make a function to convert any number into hours and minutes. It should return a string showing the numbers of hours and minutes.
 
 Here are some sample inputs and outputs:
 
-- 71 will print “1 hour, 11 minutes"
-- 133 will print “2 hours, 13 minutes"
-- 1 will print "0 hours, 1 minute"
+- 71 will return “1 hour, 11 minutes"
+- 133 will return “2 hours, 13 minutes"
+- 1 will return "0 hours, 1 minute"
 
 
 **Most people get this question wrong!**
