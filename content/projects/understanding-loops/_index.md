@@ -13,7 +13,7 @@ tags:
 title: Shopping cart calculations
 ---
 
-A lot of noob programmers don't know why understanding is important. They think they can just copy code from people and that's enough to get by. BUT as soon as you get your first job you'll need to solve some serious problems on your own.
+A lot of new programmers don't know why understanding is important. They think they can just copy code from people and that's enough to get by. BUT as soon as you get your first job you'll need to solve some serious problems on your own.
 
 The problems you'll be solving in this project are designed to be realistic. As a professional, you'll likely need to do things similar to this. Please make sure you 100% understand!
 
@@ -43,17 +43,17 @@ First of all, please download this data in [this file](data.json) and add it to 
 If you look at the data you'll see that what we have is a list or array of elements. Each element represents a shopping basket.
 
 Each shopping basket has a few different pieces:
-1. email: this is the email address of the customer
+1. email: this is the email address of the customer.
 2. status: this can have a few different values:
-   1. OPEN means that the person is still busy shopping
-   2. PAID means that the person has paid for the basket in full, they are waiting for delivery
-   3. DELIVERED means that the customer has paid for and received their stuff
-3. items: this is a list/array of all the things that a person added to the basket
+   1. OPEN means that the person is still busy shopping.
+   2. PAID means that the person has paid for the basket in full, they are waiting for delivery.
+   3. DELIVERED means that the customer has paid for and received their stuff.
+3. items: this is a list/array of all the things that a person added to the basket.
 
 Each item in the shopping basket has a few properties of its own:
 1. name: dah
 2. quantity: how many of these does the person want to buy?
-3. price: This is the price of a single item. The prices are in South African Rands
+3. price: This is the price of a single item. The prices are in South African Rands.
 
 For example, if there is an item in the shopping cart that looks like this:
 ```
@@ -82,9 +82,9 @@ e.g. `getAllCustomers(dataStore);`
 Write a function called `required stock`, your function should take the data array as an argument and should return all the items that need to be sent out for delivery.
 You need to return data in the correct format. Just include the names and quantities of the items.
 
-e.g. `requiredStock(dataArray);`
+e.g. `requiredStock(dataStore);`
 
-Eg: if one customer paid for 2 hamsters and another customer paid for one hamster and a bag of sawdust then your function should return the following data structure:
+For example, if one customer paid for 2 hamsters and another customer paid for one hamster and a bag of sawdust then your function should return the following data structure:
 
 ```
 [
@@ -98,7 +98,7 @@ Eg: if one customer paid for 2 hamsters and another customer paid for one hamste
 Write a function called `total spent` that takes an email address as an argument and the data array.
 The function must return the total amount that the customer has spent up until this time.
 
-e.g. `totalSpent("ryan@umuzi.org", dataArray);`
+e.g. `totalSpent("ryan@umuzi.org", dataStore);`
 
 Note that if a basket has been delivered then it has been paid for.
 
@@ -107,7 +107,7 @@ Note that if a basket has been delivered then it has been paid for.
 Write a function called `top customers` that takes the data array as an argument and returns a list/array of all the customers. The result should be ordered according to the total amount spent.
 The returned data structure should be an array/list of dictionaries/objects showing the email addresses and the total amounts spent per customer.
 
-e.g. `topCustomers(dataArray);`
+e.g. `topCustomers(dataStore);`
 
 Make sure the returned value matches the following structure:
 
@@ -125,11 +125,11 @@ Hint: You have already defined some functions that would be useful in finding th
 ### customers who have OPEN baskets
 
 Write a function called `get customers with open baskets` that takes in the data array as an argument and returns a list/array of email addresses for customers who have baskets that are open.
-e.g. `getCustomersWithOpenBaskets(dataArray);`
+e.g. `getCustomersWithOpenBaskets(dataStore);`
 
 ## Notes to reviewers
 
-- The code must be DRY
-- There can be some global constants to help prevent typos. eg `const DELIVERED="DELIVERED"`
-- Functions are supposed to return very specific things
-- All the functions stated above should take in at least one argument, the data array, and should work with similar data
+- The code must be DRY.
+- There can be some global constants to help prevent typos. eg `const DELIVERED="DELIVERED"`.
+- Functions are supposed to return very specific things.
+- All the functions stated above should take in at least one argument, the data array, and should work with similar data.

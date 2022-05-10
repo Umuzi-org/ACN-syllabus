@@ -29,7 +29,7 @@ If you are a coder: You're going to be invited to collaborate on a bunch of Gith
 
 ### Communication
 
-**Be responsive:** If someone sends you a message, make sure they know when you have read it. Don't ignore people. If talking to you feels like talking to a brick wall then you wont fit in here.
+**Be responsive:** If someone sends you a message, make sure they know when you have read it. Don't ignore people. If talking to you feels like talking to a brick wall then you won't fit in here.
 
 **Be clear:** Whenever you send someone a message, read over it before you press send. Think about it from the perspective of the person who is reading it. Will they understand you? Are you giving them enough information?
 
@@ -61,8 +61,8 @@ The ideal: Don't be late for meetings. And if you are given a deadline then make
 
 Life is messy sometimes and being perfect isn't always possible. That's ok, we're all human and we can understand when things are hard. But it is on _YOU_ to communicate effectively.
 
-- if you can't make it to an event: say something ahead of time. As soon as you see a problem, communicate about it
-- if you think you wont hit a deadline: say something ahead of time. As soon as you see a problem, communicate about it
+- If you can't make it to an event: say something ahead of time. As soon as you identify a problem, communicate about it.
+- If you think you won't hit a deadline: say something ahead of time. As soon as you identify a problem, communicate about it.
 
 I'm sure you see the pattern...
 
@@ -70,9 +70,9 @@ I'm sure you see the pattern...
 
 If you get into our program you'll be expected to seek out help when you need it, and you'll be expected to help each other. Practice that now.
 
-If you get stuck: Don't suffer in silence. Ask the other bootcampers, and ask the staff. Be a team player.
+If you get stuck: Don't suffer in silence. Ask the other bootcampers or our staff. Be a team player.
 
-If you help someone, don't just give them code to use, don't do each other's homework. They need to understand how to solve the problems themselves. For real. If we catch people copying each other or encouraging copying then those people will be rejected from our program.
+If you help someone, don't just give them code to use, don't do each other's homework. They need to understand how to solve the problems themselves for real. If we catch people copying each other or encouraging copying then those people will be rejected from our program.
 
 If you ask someone for help, don't just ask them for answers. You need to understand how to solve the problems yourself.
 
@@ -80,22 +80,22 @@ If you ask someone for help, don't just ask them for answers. You need to unders
 
 Ok, this is a bit heavy. But it's really important that you understand this stuff.
 
-If we catch you copying each other's work, we'll immediately take you off the program. Why? Because we need to train professionals who can actually do work and add value. When you get a job as a professional you'll be asked to build things that nobody has ever built, there will be nobody to copy from. If all you can do is copy, then you wont have a career.
+If we catch you copying each other's work, we'll immediately take you off the program. Why? Because we need to train professionals who can actually do work and add value. When you get a job as a professional you'll be asked to build things that nobody has ever built, there will be nobody to copy from. If all you can do is copy, then you won't have a career.
 
 If you are disrespectful or abusive towards any of your peers or staff members and we see it, you're out. We don't expect you to be super formal or anything, just be kind to each other.
 
-If you don't make a plan to show up for your interviews and tests then we wont be keen to work with you. That said, we are reasonable people so if you need to reschedule something or you are having a problem, let us know so we can make a plan.
+If you don't make a plan to show up for your interviews and tests then we won't be keen to work with you. With that said, we are reasonable people so if you need to reschedule something or you have a problem, let us know so we can make a plan.
 
 If you suck up to staff members or try to bribe your way in, you're out.
 
 ## Don't be a spammer
 
-**CODERS:** Don't add random people as reviewers on your pull requests, that is called spam. Everyone you add to your PR gets an email. Don't just randomly add everyone. That's just annoying.
+**CODERS:** Don't add random people as reviewers on your pull requests, that is called spam. Everyone you add to your PR gets an email. Don't just randomly add everyone because that's just annoying.
 
-**Everyone** Respect people's time. There was one bootcamper who somehow got the CTO's personal phone number and thought it was ok to send midnight messages asking for help with code. That kind of thing is not no appropriate. You need to respect the boundaries of staff members and of your peers.
+**Everyone** Respect people's time. There was one bootcamper who somehow got the CTO's personal phone number and thought it was okay to send midnight messages asking for help with code. That kind of thing is inappropriate. You need to respect the boundaries of staff members and of your peers.
 
 ## How you should prioritize your work
 
-Please start at the top of your backlog, and work your way down. Try to minimize multi-tasking. Multi-tasking will slow you down.
+Please start at the top of your backlog and work your way down. Try to minimize multi-tasking, it will slow you down.
 
-If you are given feedback: Look at it as soon as you can. Deal with the feedback and learn from it so you don't make the same mistakes. If a staff member reviews your work and asks you to fix three things, then you need to fix all three. Not just one thing. Not just 2. Everything.
+If you are given feedback: Look at it as soon as you can. Deal with the feedback and learn from it so you don't make the same mistakes. If a staff member reviews your work and asks you to fix three things, then you need to fix all three. Not just one or two things but everything.

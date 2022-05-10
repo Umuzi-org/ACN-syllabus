@@ -14,6 +14,6 @@ title: Solo Learn - Python Core - Module 2 - Strings & Variables
 topic_needs_review: false
 ---
 
-Complete the above mentioned module on Solo Learn
+Complete the above-mentioned module on Solo Learn.
 
 https://www.sololearn.com/Course/Python/
