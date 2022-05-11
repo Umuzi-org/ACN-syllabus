@@ -32,14 +32,14 @@ ncit_specific_outcomes:
   outcome: 4
   title: Demonstrate an understanding of providing support for an e-Commerce web site.
 ncit_standards:
-  - 115385
+- 115385
 prerequisites:
   hard:
-    - projects/first-personal-website
+  - projects/first-personal-website
 ready: true
 tags:
-  - ncit
-  - business
+- ncit
+- business
 title: Building an online business
 ---
 
