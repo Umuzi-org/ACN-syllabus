@@ -2,36 +2,35 @@
 _db_id: 360
 content_type: topic
 ncit_specific_outcomes:
-  - assessment_criteria:
-      - The identification lists marketing options which are relevant to the web site
-      - The identification describes how the marketing options could be used to enhance
-        the web site
-    outcome: 1
-    title: Identify various marketing options for use within e-Commerce web sites.
-  - assessment_criteria:
-      - The explanation identifies legal issues concerning e-Commerce web sites
-      - The explanation outlines how these legal issues should be incorporated when building
-        the web site
-      - The explanation ensures that all relevant legal issues have been addressed when
-        implementing the web site
-    outcome: 2
-    title: Explain the legal issues concerning the building of an e-Commerce web site.
-  - assessment_criteria:
-      - Identify possible service providers for hosting the web site
-      - Identify the costs involved in order to host the web site
-      - Understand contractual agreements for hosting the web site
-    outcome: 3
-    title:
-      Demonstrate an understanding of hosting arrangements for an e-Commerce web
-      site.
-  - assessment_criteria:
-      - The provision ensures that a "help facility" is available on the web site
-      - The provision ensures that any technical difficulties experienced on the web site,
-        can be resolved timeously and with ease
-      - The provision ensures that telephonic or online (or similar ) assistance is available
-        in the event of difficulties being experienced.
-    outcome: 4
-    title: Demonstrate an understanding of providing support for an e-Commerce web site.
+- assessment_criteria:
+  - The identification lists marketing options which are relevant to the web site
+  - The identification describes how the marketing options could be used to enhance
+    the web site
+  outcome: 1
+  title: Identify various marketing options for use within e-Commerce web sites.
+- assessment_criteria:
+  - The explanation identifies legal issues concerning e-Commerce web sites
+  - The explanation outlines how these legal issues should be incorporated when building
+    the web site
+  - The explanation ensures that all relevant legal issues have been addressed when
+    implementing the web site
+  outcome: 2
+  title: Explain the legal issues concerning the building of an e-Commerce web site.
+- assessment_criteria:
+  - Identify possible service providers for hosting the web site
+  - Identify the costs involved in order to host the web site
+  - Understand contractual agreements for hosting the web site
+  outcome: 3
+  title: Demonstrate an understanding of hosting arrangements for an e-Commerce web
+    site.
+- assessment_criteria:
+  - The provision ensures that a "help facility" is available on the web site
+  - The provision ensures that any technical difficulties experienced on the web site,
+    can be resolved timeously and with ease
+  - The provision ensures that telephonic or online (or similar ) assistance is available
+    in the event of difficulties being experienced.
+  outcome: 4
+  title: Demonstrate an understanding of providing support for an e-Commerce web site.
 ncit_standards:
   - 115385
 prerequisites:
