@@ -21,7 +21,7 @@ The printed letters should:
 
 Example usage:
 
-`task10("House","computers")` should print `e, o, u and s`
+`task10("House","computers")` should print `e, o, s and u`
 `task10("Hi","there")` should print `h`
 `task_10("Foo","bar")` should print `no common characters`
 
