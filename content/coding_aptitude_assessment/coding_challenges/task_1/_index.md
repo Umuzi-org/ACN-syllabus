@@ -1,14 +1,15 @@
 ---
+_db_id: 756
 content_type: project
+flavours:
+- any_language
 prerequisites:
   hard:
   - coding_aptitude_assessment/coding_challenges/introduction
   - coding_aptitude_assessment/coding_challenges/how_to_name_files
-submission_type: repo
-title: "Coding aptitude assessment challenge: Task 1"
-flavours:
-- any_language
 ready: true
+submission_type: repo
+title: 'Coding aptitude assessment challenge: Task 1'
 ---
 
 Write a function that simply prints the string "Hello World!".
