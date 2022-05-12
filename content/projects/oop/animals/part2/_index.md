@@ -84,8 +84,8 @@ Your directory structure should look like this:
 
 ## General Instructions
 
-1. Update the `Animal` super class `eat()` function to return a String, "Food".
-2. The `Dog` and `Cat` class `sound()` functions remain as per part 1 of the project.
+1. Add tests to your project.
+2. The `Dog` and `Cat` class methods should still remain as per part 1 of the project.
 3. Make sure the `makeAllSounds()`/`make_all_sounds()` method still works properly.
 4. See the pseudocode examples below for what kinds of things should be tested.
 
@@ -94,22 +94,9 @@ Your directory structure should look like this:
 You'll be using JUnit.
 Create a class called `AnimalTests`.
 
-```
-// Java
-
-Dog dog = new Dog()
-
-dog.eat()    // returns 'Food'
-
-Cat cat = new Cat()
-
-cat.sound() // returns 'Meow'
-```
-
 Now let's add our first JUnit test to our `AnimalTests`. The class should have the following methods `TestDogSound()`, `TestDogEat()`, `TestCatSound()` and `TestCatEat()`. Each method should have the @Test tag placed above it, the tests should work as follows:
 
 ```
-// Java
 
 //Dog Tests
 Test -> Does dog eat Food should Pass
@@ -129,20 +116,10 @@ Test -> Does cat eat food should Fail
 
 Use Jasmine to test your code.
 
-```
-// JavaScript
-
-let dog = new Dog()
-dog.eat()    // returns 'Food'
-
-let cat = new Cat()
-cat.eat()    // returns 'Food'
-```
-
 Then create tests for your `eats()` and `sounds()` methods on the `Dog` and `Cat` classes with Jasmine.
 
 ```
-// JavaScript
+
 
 //Dog Tests
 let dog = new Dog();
@@ -167,21 +144,9 @@ Use pytest to test your code.
 
 Please refer to the following to find out more: {{% contentlink path="topics/python-specific/automated-testing-with-pytest" %}}
 
-```
-# Python
-
-dog = Dog()
-dog.eat()    # returns 'Food'
-
-cat = Dog()
-cat.eat()    # returns 'Food'
-
-```
-
 Remember the correct naming convention for the tests in your `test_animals.py` file.
 
 ```
-# Python
 
 #Dog tests
 dog = Dog();
@@ -210,7 +175,4 @@ Add some extra tests for your Home class. Make sure that it makes all the right 
 
 - There should be no global variables.
 - If a variable is only used within a given method, then constantly referring to it as `self.variable`/`this.variable` isn't necessary.
-- `eat()` method should return "Food" and not print it.
-- There should be a test for each method in the child classes.
-- `Dog` and `Cat` class `sound()` should return their respective sounds "Bark" and "Meow".
 - There should be a test for each method in the child classes.
