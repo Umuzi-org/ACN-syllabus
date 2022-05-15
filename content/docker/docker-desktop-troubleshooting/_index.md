@@ -33,8 +33,10 @@ If you are still getting some errors, your PC might have virtualization disabled
 Here is a basic [link](https://www.minitool.com/news/enable-virtualization-windows-10.html) to get you started. If this method does not work for you, you will need to google your own hardware in order to enable virtualization on your machine.
 
 ## None of these helped me. I'm still stuck!
-At this point we would strongly advise against Docker Desktop on Windows since it may not be compatible with your current setup. Your alternatives are
+At this point Docker Desktop on Windows may not be compatible with your current setup. Your alternatives are
 
-1.) Use WSL as mentioned in the intro to docker Topic. Follow the instructions to install WSL and docker very carefully as missing one step may lead to Docker not working as expected.
+1.) Use WSL 2 as mentioned in the intro to docker Topic. Follow the instructions to install WSL and docker very carefully as missing one step may lead to Docker not working as expected.
 
-2.) Installing a Linux Virtual Machine is an alternative as well. There are many free tools that allow for this such as [VMware](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html). You will need to also download a Linux Operating System for it to use as well. Linux is open source, so this shouldnt be hard to find with some searching online. An easy search term for example would be "Ubuntu vmware image download".
+2.) As an absolute last resort, installing a Linux Virtual Machine is an alternative as well. There are many free tools that allow for this such as [VMware](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html). You will need to also download a Linux Operating System for it to use as well. Linux is open source, so this shouldnt be hard to find with some searching online. An easy search term for example would be "Ubuntu vmware image download".
+
+3.) If you are unable to install a Virtual Machine on your current hardware setup, please contact a staff member to assist with your setup. DO NOT LEAVE THIS UNSOLVED!
