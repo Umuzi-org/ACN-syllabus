@@ -7,6 +7,8 @@ submission_type: link
 title: Business selfie
 ---
 
+DEPRECATED
+
 When interviewing for a job, it's really important to show up looking like you are there to do business. But sometimes choosing the right clothes can be hard.
 
 This project exists so that you can test drive your outfit and get some feedback. We want you to go to your interview looking calm and confident.

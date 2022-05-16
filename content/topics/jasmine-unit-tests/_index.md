@@ -9,7 +9,7 @@ tags:
 title: Jasmine unit tests
 ---
 
-Jasmine is a unit testing framework we like a lot. Techically it's a Behavior Driven Development (BDD) framework.
+Jasmine is a unit testing framework we like a lot. Technically it's a Behavior Driven Development (BDD) framework.
 
 ## Getting started
 
@@ -60,9 +60,9 @@ To run your tests you can now just do this:
 npm test
 ```
 
-Base your project structure off the example code that jasmine created for you.
+Base your project structure on the example code that jasmine created for you.
 
-## Linkz
+## Links
 
 - The official tutorial is very thorough: https://jasmine.github.io/tutorials/your_first_suite
 
@@ -72,7 +72,7 @@ Now that you have the basics down, here are a few more advanced ways to use Jasm
 
 ### Testing the DOM
 
-Say you have some code that does some DOM manipulation. There are tools that exit that make this pretty straight-forward.
+Say you have some code that does some DOM manipulation. Some tools exist that make this pretty straightforward.
 
 ```
 npm add jsdom
@@ -88,7 +88,7 @@ Spies (often referred to as mocks in other languages and tools) are used to allo
 
 {{% code_snippet "spies.js" %}}
 
-Of course this is just the tip of the ice berg. But it gives a a basic intro. Spies are detailed in the official tutorial.
+Of course, this is just the tip of the iceberg. But it gives a basic intro. Spies are detailed in the official tutorial.
 
 ### Spy on the filesysytem
 
@@ -98,7 +98,7 @@ https://github.com/tschaub/mock-fs
 
 ### Click events
 
-Sometimes you'll want to make sure that click events are fired as and when they shoud be. The following resources should help with that:
+Sometimes you'll want to make sure that click events are fired as and when they should be. The following resources should help with that:
 
 - https://stackoverflow.com/questions/48872864/testing-for-click-event-with-jasmine/50375478
 - https://www.htmlgoodies.com/beyond/javascript/js-ref/testing-dom-events-using-jquery-and-jasmine-2.0.html
@@ -109,6 +109,10 @@ Sometimes you'll want to make sure that click events are fired as and when they 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQyevfwH0pQMQxt-t98UybYDI6_gjYBmUenkDY5Xw3XaPAjdnPr_OeRFe7FjaM86siUXTJ7CtasZ0ql/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+Should the embedded slides not load, you can access the presentation [here](https://docs.google.com/presentation/d/e/2PACX-1vQyevfwH0pQMQxt-t98UybYDI6_gjYBmUenkDY5Xw3XaPAjdnPr_OeRFe7FjaM86siUXTJ7CtasZ0ql/embed?start=false&loop=false&delayms=3000)
+
 ..\* (A brief introduction to Jasmine)
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTOk-5Z35h5X_Cn1FXDFtk9nZdWF9rkvKLysqwDOA61aQXX99Ai-oaz2fKgYb86k7xEt3zyFf9ljl1T/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+Should the embedded slides not load, you can access the presentation [here](https://docs.google.com/presentation/d/e/2PACX-1vTOk-5Z35h5X_Cn1FXDFtk9nZdWF9rkvKLysqwDOA61aQXX99Ai-oaz2fKgYb86k7xEt3zyFf9ljl1T/embed?start=false&loop=false&delayms=3000).
