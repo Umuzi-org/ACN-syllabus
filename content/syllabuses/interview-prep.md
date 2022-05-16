@@ -1,6 +1,6 @@
 ---
 _db_id: 52
-title: Coder Interview Prep
+title: Coder Interview Prep DEPRECATED
 ---
 
 - {{% contentlink path="topics/work/recruit-career" %}}

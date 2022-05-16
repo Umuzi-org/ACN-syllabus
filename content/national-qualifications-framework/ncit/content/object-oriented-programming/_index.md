@@ -63,11 +63,11 @@ These sound like very technical and difficult concepts, but as this video will s
 
 Watch this video: [OOP in 7 minutes](https://youtu.be/pTB0EiLXUC8)
 
-After you’ve learned the basic concepts of what Object-Oriented Programming is, there are countless things you can practice. First read through [this tutorial](https://scotch.io/tutorials/object-oriented-programming-in-javascript) to learn more about building objects from other objects. In other languages those “object templates” are called classes. That 2015 update to JavaScript (ES6) includes a [“class” keyword](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes). You may find it easiest to use the class keyword when you are building OOP programs. However, as you will discover, the same functionality can be coded in many different ways in JavaScript.
+After you’ve learned the basic concepts of what Object-Oriented Programming is, there are countless things you can practice. First read through [this tutorial](https://web.archive.org/web/20201025085037/https://scotch.io/tutorials/object-oriented-programming-in-javascript) to learn more about building objects from other objects. In other languages those “object templates” are called classes. That 2015 update to JavaScript (ES6) includes a [“class” keyword](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes). You may find it easiest to use the class keyword when you are building OOP programs. However, as you will discover, the same functionality can be coded in many different ways in JavaScript.
 
 Read this this tutorial before moving on and start to practice these concepts:
 
-https://scotch.io/tutorials/object-oriented-programming-in-javascript
+https://web.archive.org/web/20201025085037/https://scotch.io/tutorials/object-oriented-programming-in-javascript
 
 [Intro video covering similar concepts (optional)](https://youtu.be/rlLuL3jYLvA)
 
@@ -133,7 +133,7 @@ If you would like a class that cannot be constructed, but whose subclasses can, 
 class Abstract {
   constructor() {
     if (new.target === Abstract) {
-      throw new TypeError("Cannot construct Abstract instances directly"); 
+      throw new TypeError("Cannot construct Abstract instances directly");
     }
   }
 }
@@ -157,9 +157,9 @@ If you're specifically looking for requiring certain methods be implemented, you
 ```
 class Abstract {
   constructor() {
-    if (this.method === undefined) { 
+    if (this.method === undefined) {
       // or maybe test typeof this.method === "function"
-      throw new TypeError("Must override method"); 
+      throw new TypeError("Must override method");
     }
   }
 }

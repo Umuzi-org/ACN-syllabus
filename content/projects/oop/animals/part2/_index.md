@@ -18,7 +18,7 @@ tags:
 title: Animals Part 2. Adding Tests
 ---
 
-In this challenge you will update your current Animals project and add unit tests to the project
+In this challenge you will update your current Animals project and add unit tests to the project.
 
 ## Project structure
 
@@ -54,7 +54,7 @@ Please refer to the following to find out more: {{% contentlink path="topics/jav
 
 ### JavaScript
 
-Your directory structure should look like this.
+Your directory structure should look like this:
 
 ```
     >node_modules    <---- make sure this is in your .gitignore
@@ -73,7 +73,7 @@ Your directory structure should look like this.
 
 You'll be using JUnit.
 
-1. Create a class called `AnimalTests`
+1. Create a class called `AnimalTests`.
 2. Update `Animal` super class `eats()` function to return a String, "Food".
 3. Update `Dog` class `sounds()` function to return a `String`, "Bark".
 4. Update `Cat` class `sounds()` function to return a `String`, "Meow".
@@ -92,7 +92,7 @@ cat.eats()    // -> 'Food'
 cat.sounds() // -> 'Meow'
 ```
 
-Now let's add our first JUnit test to our `AnimalTests`. The class should have the following methods `TestDogSound()`, `TestDogEats()`, `TestCatSound()` and `TestCatEats()`.Each method should have the @Test tag placed above it. The tests should work as follows.
+Now let's add our first JUnit test to our `AnimalTests`. The class should have the following methods `TestDogSound()`, `TestDogEats()`, `TestCatSound()` and `TestCatEats()`. Each method should have the @Test tag placed above it, the tests should work as follows:
 
 ```
 // Java
@@ -158,9 +158,9 @@ Test -> Does cat eat food should Fail
 
 ### Up for a Challenge?
 
-This section is not compulsory. If you do this we'll think you're cool.
+This section is not compulsory but if you do this we'll think you're cool.
 
-Add some extra tests for your Home class. Make sure that it makes all the right noises. And that you can't adopt the same pet twice.
+Add some extra tests for your Home class. Make sure that it makes all the right noises and that you can't adopt the same pet twice.
 
 ## Instructions for Reviewers
 
