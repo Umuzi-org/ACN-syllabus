@@ -63,24 +63,3 @@ The learner should know:
 - What does it mean if the correlation coefficient is 0?
 
 Show the learner some scatter plots and ask them to tell you about the correlation of the various plots. Cover a range of different p values.
-
-## Probability
-
-The learner should be able to do simple calculations of probabilities. They should know when probabilities should be multiplied and when they should be added.
-
-Here are a few sample questions: what is the probability of...
-- throwing a 2 on a six-sided die?
-- throwing an even number on a six-sided die?
-- rolling 2 six-sided dice and getting a total value of 5? (e.g. one die lands on a 2 and the other on a 3)
-- rolling 3 sixes in a row if you roll a six-sided die 3 times.
-- rolling 3 sixes in a row if you roll a six-sided die 5 times.
-
-## P-value
-
-The learner should know:
-- What is the minimum number that the p-value can have? What does this imply?
-- What is the maximum number that the p-value can have? What does this imply?
-
-The learner should be able to do calculations about p values based on known probabilities.
-
-For example, if you roll a six-sided die 5 times and get 3 sixes in a row then is the die likely to be fair?

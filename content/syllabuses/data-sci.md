@@ -25,7 +25,8 @@ _db_id: 2
 - {{% contentlink path="topics/python-specific/virtual-envs/" %}}
 - {{% contentlink path="projects/data-science-specific/data-wrangling" flavour="python" %}}
 - {{% contentlink path="projects/data-science-specific/statistical-thinking" flavour="python" %}}
-- {{% contentlink path="specific-skill-success-criteria/basic-data-analysis" %}}
+- {{% contentlink path="specific-skill-success-criteria/basic-data-analysis-part-1" %}}
+- {{% contentlink path="specific-skill-success-criteria/basic-data-analysis-part-2" %}}
 
 - {{% contentlink path="projects/data-science-specific/data-visualisation" %}}
 - {{% contentlink path="topics/survey-design" %}}
