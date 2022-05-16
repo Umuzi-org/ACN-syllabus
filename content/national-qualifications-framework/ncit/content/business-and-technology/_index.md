@@ -238,7 +238,7 @@ A business environment is the combination of internal and external factors that 
 While the internal environment is usually under the control of the business and will include: objectives, policies, production methods, organisational structure etc. The external environment includes all those factors which exist outside and aren’t in direct control of the business. These include: customers, suppliers, competitors, the public, and trends.
 
 
-#### Research the industry 
+#### Research the industry
 
 If you were to build an online game, you would need to research the online gaming industry in order to understand the external environment you are working in and design your business accordingly so it will succeed. You might consider some of the following factors which were taken from market research done in 2017:
 
@@ -253,7 +253,7 @@ If you were to build an online game, you would need to research the online gamin
 “Virtual Reality is another promising stream of revenue, with analysts predicting a growth of 104% from 2016 to 2017. In fact, by the year 2020, the annual worldwide revenue for VR is expected to reach $28B, which is 6 times more than what it’s expected to be this year. Granted, only about $4.5B will come from actual VR games, but that’s still more than 20 times what gamers spent by the end of 2016.”
 
 
-If you’re interested, read more here: https://plarium.com/en/mmo-games/trends-online-gaming-2017/
+If you’re interested, read more here: https://comparecamp.com/gaming-trends/
 
 
 Some starter questions to help you understand your business environment:
@@ -320,7 +320,7 @@ These are primarily concerned with internal sources of information and serve the
 
 Designed to help senior management make strategic decisions. An ESS gathers, analyses and summarises the key internal and external information to get the overview of the entire organization’s performance.
 
- 
+
 
 *For a small startup software company, this might involve pinpointing key measurable areas of your business, analysing them every 3-6 months, and adapting your business objectives accordingly.*
 
@@ -464,7 +464,7 @@ Revisit the following two videos from the Systems theory section for more inform
 
 {{< youtube 1L1c-EKOY-w >}}
 
-## 5. Data Science for Business 
+## 5. Data Science for Business
 
 All coders should have a limited understanding of data science as even if you are not a data scientist you may be involved in gathering and storing the data.
 

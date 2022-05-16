@@ -35,6 +35,7 @@ title: Data eng bridging course
 - {{% contentlink path="soft-skills/learning-how-to-learn" %}}
 - {{% contentlink path="soft-skills/how-to-master-fundamentals" %}}
 - {{% contentlink path="topics/clean-code/python" %}}
+- {{% contentlink path="topics/file-and-directory-naming/python" %}}
 - {{% contentlink path="projects/katas/level-0" flavour="python" %}}
 - {{% contentlink path="language-agnostic/intro-to-hackerrank" flavour="python" %}}
 - {{% contentlink path="projects/katas/level-1" flavour="python" %}}

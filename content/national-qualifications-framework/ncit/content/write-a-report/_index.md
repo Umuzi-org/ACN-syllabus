@@ -47,31 +47,31 @@ title: Write a report
 
 ## 1. What is a technical report?
 
-A technical report is the conventional format for reporting the results of your research, investigations, and design projects. The ability to produce a clear, concise, and professionally presented report is a skill you will need to develop in order to succeed in your future career. While reports vary in the type of information they present (for example, original research, the results of an investigative study, or the solution to a design problem), all of them share similar features and are based on a similar structure.
+A technical report is the conventional format for reporting the results of your research, investigations, and design projects. The ability to produce a clear, concise, and professionally presented report is a skill you will need to develop in order to succeed in your future career. While reports vary in the type of information they present (for example, original research, the results of an investigative study, or the solution to a design problem), they all share similar features and are based on a similar structure.
 
 ### Key features
 
 Common features of technical reports include:
 
 
- - Designed for quick and easy communication of information
- - Designed for selective reading (a manager or client may only read a section of the report depending on what they are interested in learning)
- - Have sections with numbered headings and subheadings
- - Use figures and diagrams to convey data
- - Based primarily on original research
+ - Designed for quick and easy communication of information.
+ - Designed for selective reading (a manager or client may only read a section of the report depending on what they are interested in learning).
+ - Have sections with numbered headings and subheadings.
+ - Use figures and diagrams to convey data.
+ - Based primarily on original research.
   - If you use information, ideas, media, etc that someone else has created, you must properly cite your sources with footnotes.
   - Failure to cite the sources of ideas in your report is considered plagiarism. This violates professional ethics and will result in you losing respect among peers and can even lead to the loss of a job.
 
 ### Collecting and organising your information
 
-Based on the research you did during your HCD interviews and observations, you should have a lot information and insights that you can use to put into a report. Review the notes, photos, and other documents you made during the Empathise/Research phase and group them into big ideas or topics (review this section of the HCD curriculum if you are unclear what to do). Once you’ve figured out all the topics you want to cover, start to think about a logical order to present these ideas. One good way to organise your ideas is to create an outline.
+Based on the research you did during your HCD (Human Centered Design) interviews and observations, you should have a lot information and insights that you can put into a report. Review the notes, photos, and other documents you made during the Empathise/Research phase and group them into big ideas or topics (review this section of the HCD curriculum if you are unclear what to do). Once you’ve figured out all the topics you want to cover, start to think about a logical order to present these ideas. One good way to organise your ideas is to create an outline.
 
 ## 2. Outline and structure
 
-The first step in writing any report is to create an outline. An outline breaks down the parts of your report in a clear, hierarchical manner. You should always create an outline before you start writing, because it will help you organise your thoughts. If your outline is good, your paper should be easy to write.
+The first step in writing any report is to create an outline. An outline breaks down the parts of your report in a clear and hierarchical manner. You should always create an outline before you start writing because it will help you organise your thoughts. If your outline is good, then your paper should be easy to write.
 
 
-The basic format for an outline uses an alternating series of numbers and letters, indented accordingly, to indicate levels of importance. Here is a very basic structure for an outline.:
+The basic format for an outline uses an alternating series of numbers and letters, indented accordingly to indicate levels of importance. Here is a very basic structure for an outline:
 
 | Part of Outline | Description |
 |---|---|
@@ -96,7 +96,7 @@ Once you’ve completed your outline you can start with writing your paper. Use 
 
 ### Structure of a report
 
-As you start writing, take a look at the table below. It lists all of the sections you must include in your paper. You’ll notice that your outline only covers the Introduction, Main sections, and Conclusions part of this table. The other section are formal parts that must be included in a technical report and they will be relatively straightforward to make. See the next section for more details on how to create references and a bibliography.
+As you start writing, take a look at the table below. It lists all of the sections you must include in your paper. You’ll notice that your outline only covers the Introduction, Main sections, and Conclusions part of this table. The other sections are formal parts that must be included in a technical report and they will be relatively straightforward to make. See the next section for more details on how to create references and a bibliography.
 
 
 |Section | Details|
@@ -108,9 +108,9 @@ As you start writing, take a look at the table below. It lists all of the sectio
 |Main sections of the report|Divided into numbered and headed sections. These sections separate the main ideas in a logical order|
 |Conclusions|A short, logical summing up of the themes or insights developed in the main text|
 |References|Details of published sources of material referred to or quoted in the text|
-|Bibliography / Further Reading|Other sources not referred to in the text but useful for background or further reading|
+|Bibliography/ Further Reading|Other sources not referred to in the text but useful for background or further reading|
 |Acknowledgements|List of people who helped you research or prepare the report, including your proof-readers|
-|Appendices (if appropriate)|Any further material which is essential for full understanding of your report (e.g. large scale diagrams, computer code, raw data, specifications) but not required by a casual reader|
+|Appendices (if appropriate)|Any further material which is essential for full understanding of your report (for example, large scale diagrams, computer code, raw data, specifications) but not required by a casual reader|
 
 ## 3. Writing the report
 
@@ -134,10 +134,10 @@ While the content of your report is of the utmost importance, the presentation o
 
 #### Information Hierarchy
 
- - It can be very useful to take advantage of the default heading styles of your word processing software to layout your information eg. Heading 1 for titles, Heading 2 for subtitles etc.
- - Perhaps some information is more easily read in a bulleted or numbered list
- - You could start every chapter/section on a new page
- - You could include horizontal lines to separate sub headings
+ - It can be very useful to take advantage of the default heading styles of your word processing software to layout your information. For example,  Heading 1 for titles, Heading 2 for subtitles etc.
+ - Perhaps some information is more easily read in a bulleted or numbered list.
+ - You could start every chapter/section on a new page.
+ - You could include horizontal lines to separate sub headings.
 
 #### Legibility
 
@@ -154,17 +154,17 @@ You might only think of these things once you have finished your first draft but
 
 ### Referencing
 
-Whenever you make use of other people's facts or ideas, you must indicate this. The source might be a website, a book, a video, another report, or a variety of other materials. Any phrases, sentences or paragraphs which are copied unaltered must be enclosed in quotation marks and material which has been paraphrased doesn’t need to be in quotation marks but must still be referenced. This is so that the reader can
+Whenever you make use of other people's facts or ideas, you must indicate this. The source might be a website, a book, a video, another report, or a variety of other materials. Any phrases, sentences or paragraphs which are copied unaltered must be enclosed in quotation marks and material which has been paraphrased doesn’t need to be in quotation marks but must still be referenced. This is so that the reader can:
 
 
-1. make sure the information is correct and the report is based on real facts.
-2. find more information on the subject.
+1. Make sure the information is correct and the report is based on real facts.
+2. Find more information on the subject.
 
 
 There are many systems for doing this but you will be using the MLA8 system which uses footnotes and a reference list (at the end of your report). More information about this system can be found here: http://www.easybib.com/guides/citation-guides/mla-format/
 
 
-To make referencing easier we recommend that you create an account with http://www.easybib.com or a similar online referencing tool.
+To make referencing easier, we recommend that you create an account with http://www.easybib.com or a similar online referencing tool.
 
 
 ### Footnotes
@@ -187,7 +187,7 @@ Broadly speaking most citations require:
  - The publisher/website
  - The URL
  - The year the information was published/written
- - The particular place in the source where you found the information eg. page number, video time
+ - The particular place in the source where you found the information. For example, page number, video time, etc.
 
 ### Reference List
 
@@ -213,12 +213,12 @@ Most people will spend more time editing than initially writing the content for 
 
 ### Proofreading
 
-Once you have created a draft of your report you, or someone else, should proofread it. This process refers to the checking of every aspect of a piece of written work from the content to the layout. You should acquire the habit of never sending or submitting any piece of written work without at least one, and preferably several, rounds of proofreading. This can be done digitally or on paper.
+Once you have created a draft of your report you or someone else, should proofread it. This process refers to the checking of every aspect of a piece of written work from the content to the layout. You should acquire the habit of never sending or submitting any piece of written work without at least one, and preferably several, rounds of proofreading. This can be done digitally or on paper.
 
 
 Some specific things to look out for:
 
- - Spelling mistakes, (your word processing software might do this automatically, but always check again when reviewing your work)
+ - Spelling mistakes (your word processing software might do this automatically, but always check again when reviewing your work)
  - Fluidity in the content? Does the introduction link directly to the conclusion? Do the points you have made lead logically to the conclusion?
  - Does it look professional?
  - Are your page numbers/table of content items correct?

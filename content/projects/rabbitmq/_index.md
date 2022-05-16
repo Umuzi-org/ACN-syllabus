@@ -32,7 +32,7 @@ Now pay close attention: Copy-pasting code is not sufficient.
 
 ### Success criteria 1: DRY CODE
 
-Each of your tutorial implementations must be DRY in itself. eg: If you have the string 'hello' pasted all over the place then your code would not be DRY.
+Each of your tutorial implementations must be DRY in itself. For example, if you have the string 'hello' pasted all over the place then your code would not be DRY.
 
 Hint: Here's the expected file structure for the first tutorial:
 
@@ -48,7 +48,7 @@ one/
 Hard-coding the connection string is no good. You want to fetch it from an environmental variable.
 On top of that you want to be able to run your code successfully even if the environmental variable is not set.
 
-eg:
+For example:
 
 ```
 python send.py  # this should work as per the tutorials

@@ -86,7 +86,7 @@
         {{ end }}
         <div id="body-inner">
           {{if and (not .IsHome) (not .Params.chapter) }}
-            <h1>{{.Title}}</h1>
+            <h1>{{.Params.content_type }}: {{.Title}}</h1>
           {{end}}
 
         {{define "breadcrumb"}}
@@ -113,19 +113,19 @@
                     <td>Tags</td>
                     <td>
                         {{ range .Page.Params.tags }}
-                        {{.}} 
+                        {{.}}
                         {{ end }}
                     </td>
                 </tr>
             {{ end }}
 
-                
+
             {{ if .Page.Params.prerequisites.hard }}
                 <tr>
                     <td>Hard Prerequisites</td>
                     <td>
                         {{ range .Page.Params.prerequisites.hard }}
-                      
+
                         {{ $path := .}}
                         {{ $trimmed := trim $path "/"}}
                         {{ $elements := split $trimmed "/" }}
@@ -182,7 +182,7 @@
         {{ if not .Page.Params.noform }}
         {{ $path := .Page.Dir }}
         {{ $trimmed := trim $path "projects/"}}
-        
+
 
         <hr/>
 
