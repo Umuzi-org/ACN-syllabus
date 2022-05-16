@@ -17,4 +17,4 @@ Try not to ask for too many hints. Do your best to understand everything.
 
 Please submit a link to your profile. eg https://www.freecodecamp.org/fccfda32191-55c2-49ec-b6f4-26719c1dd7f4
 
-To make your profile useful you need to go into your FreeCodeCamp settings and and set all your privacy settings to "Public".
+To make your profile useful you need to go into your FreeCodeCamp settings and set all your privacy settings to "Public".

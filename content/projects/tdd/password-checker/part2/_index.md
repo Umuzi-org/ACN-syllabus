@@ -42,7 +42,7 @@ Take note, we aren't actually logging the user's password. In general you want t
 
 2. Whenever an exception is raised by `passwordIsValid` then log the exact error message.
 
-- The log level should be `error`
+- The log level should be `error`.
 - The log should be printed to the standard output / terminal / console.
 - Error logs should also be stored in a file called `errors.log`.
 - Your debug logs SHOULD NOT be inside the `errors.log` file.

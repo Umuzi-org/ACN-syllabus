@@ -24,4 +24,4 @@ Please do the following:
 
 2. Complete the assessment. The instructions are in the document. 
    
-4. Upload the document to google drive and submit a link. Please make sure that the link works. If your work is private then we wont be able to review it.
+3. Upload the document to google drive and submit a link. Please make sure that the link works. If your work is private then we wont be able to review it.
