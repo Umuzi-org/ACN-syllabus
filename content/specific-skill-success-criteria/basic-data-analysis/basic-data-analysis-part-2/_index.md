@@ -1,5 +1,4 @@
 ---
-_db_id: 710
 content_type: project
 flavours:
 - none
@@ -7,7 +6,7 @@ ready: true
 submission_type: link
 tags:
 - technical-assessment
-title: 'Assessment: Basic data analysis'
+title: 'Assessment: Basic data analysis - part 2'
 ---
 
 ## Note about submission format

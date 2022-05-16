@@ -7,7 +7,7 @@ ready: true
 submission_type: link
 tags:
 - technical-assessment
-title: 'Assessment: Basic data analysis'
+title: 'Assessment: Basic data analysis - part 1'
 ---
 
 ## Note about submission format
