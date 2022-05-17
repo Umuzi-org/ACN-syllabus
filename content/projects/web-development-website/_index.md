@@ -9,6 +9,7 @@ learning_outcomes:
 - web_dev_web_design_principals
 prerequisites:
   hard:
+  - topics/free-code-camp/responsive-web-design/6-css-flexbox
   - projects/simple-website
 ready: true
 story_points: 3
@@ -32,7 +33,7 @@ Your web page files and folders should be organized and named in a logical manne
 
 Once you have finished your design and are satisfied with the style and content, please submit a link of the website hosted on GitHub Pages. You must have hosted your simple portfolio to [Github Pages](https://guides.github.com/features/pages/) by now, please submit the same link of your website with the updated features. DO NOT submit a link to your github repo. We don't want to clone your website, we want to look at what you built.
 
-### Requirements:
+### Requirements
 
 - Website must be responsive to different screen sizes - use a mobile-first approach!
   - Use CSS Grid (see tutorials below) to design your site and make it responsive.
