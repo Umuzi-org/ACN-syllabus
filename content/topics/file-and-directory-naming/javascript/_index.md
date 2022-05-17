@@ -18,7 +18,7 @@ If you have a file containing a number of helper functions, It makes sense to na
 
 The same thing should be done for files inside your **spec** folder(tests), with the small difference that the file name should end with `.spec`. if you want to test a function called inside a file called `login.js`, then name the test file like so: `login.spec.js`.
 
-### Bad file and directory naming in JavaScript:
+### Bad file and directory naming in JavaScript
 
 To find out if you have badly named a file, think of how you would name a JavaScript variable, function or class. If the file does not follow the same rule, then it is probably badly named. Below are examples of badly named files:
 
