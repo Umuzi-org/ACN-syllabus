@@ -43,4 +43,4 @@ _db_id: 3
 - {{% contentlink path="projects/nodejs/express-forms" flavour="javascript" %}}
 - {{% contentlink path="projects/github-api-consume" flavour="javascript" %}}
 - {{% contentlink path="projects/understanding-loops" flavour="javascript" %}}
-- {{% contentlink path="topics/javascript-specific/js-naming-convention" %}}
+- {{% contentlink path="topics/file-and-directory-naming/javascript" %}}
