@@ -9,6 +9,7 @@ _db_id: 2
 
 - {{% contentlink path="agile/agile-scrum" %}}
 - {{% contentlink path="topics/clean-code/python" %}}
+- {{% contentlink path="topics/file-and-directory-naming/python" %}}
 - {{% contentlink path="topics/code-reviews/part-1-reviewers" %}}
 - {{% contentlink path="topics/how-to-ask-for-help-with-your-code" %}}
 - {{% contentlink path="topics/code-reviews/part-2-author" %}}
@@ -24,7 +25,8 @@ _db_id: 2
 - {{% contentlink path="topics/python-specific/virtual-envs/" %}}
 - {{% contentlink path="projects/data-science-specific/data-wrangling" flavour="python" %}}
 - {{% contentlink path="projects/data-science-specific/statistical-thinking" flavour="python" %}}
-- {{% contentlink path="specific-skill-success-criteria/basic-data-analysis" %}}
+- {{% contentlink path="specific-skill-success-criteria/basic-data-analysis/basic-data-analysis-part-1" %}}
+- {{% contentlink path="specific-skill-success-criteria/basic-data-analysis/basic-data-analysis-part-2" %}}
 
 - {{% contentlink path="projects/data-science-specific/data-visualisation" %}}
 - {{% contentlink path="topics/survey-design" %}}

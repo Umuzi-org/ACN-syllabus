@@ -17,6 +17,7 @@ title: DEPRECATED Foundations of data sci for employed learners
 
 - {{% contentlink path="soft-skills/how-to-master-fundamentals" %}}
 - {{% contentlink path="topics/clean-code/python" %}}
+- {{% contentlink path="topics/file-and-directory-naming/python" %}}
 - {{% contentlink path="projects/katas/level-0" flavour="python" %}}
 - {{% contentlink path="language-agnostic/intro-to-hackerrank" flavour="python" %}}
 - {{% contentlink path="projects/katas/level-1" flavour="python" %}}
@@ -25,4 +26,5 @@ title: DEPRECATED Foundations of data sci for employed learners
 - {{% contentlink path="specific-skill-success-criteria/for-loops" flavour="python" %}}
 - {{% contentlink path="projects/data-science-specific/bootcamp-exploratory-data-analysis" flavour="python" %}}
 - {{% contentlink path="projects/data-science-specific/statistical-thinking" flavour="python" %}}
-- {{% contentlink path="specific-skill-success-criteria/basic-data-analysis" %}}
+- {{% contentlink path="specific-skill-success-criteria/basic-data-analysis/basic-data-analysis-part-1" %}}
+- {{% contentlink path="specific-skill-success-criteria/basic-data-analysis/basic-data-analysis-part-2" %}}
