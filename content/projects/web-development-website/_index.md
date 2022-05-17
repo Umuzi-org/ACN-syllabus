@@ -9,8 +9,8 @@ learning_outcomes:
 - web_dev_web_design_principals
 prerequisites:
   hard:
-  - topics/free-code-camp/responsive-web-design/6-css-flexbox
   - projects/simple-website
+  - topics/free-code-camp/responsive-web-design/7-css-grid
 ready: true
 story_points: 3
 submission_type: link
