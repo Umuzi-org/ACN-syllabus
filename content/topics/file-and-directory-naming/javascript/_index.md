@@ -22,20 +22,31 @@ The same thing should be done for files inside your **spec** folder(tests), with
 
 To find out if you have badly named a file, think of how you would name a JavaScript variable, function or class. If the file does not follow the same rule, then it is probably badly named. Below are examples of badly named files:
 
-- my-file-name.js
-- my.file.name.js
-- myfilename.js
-- my-file_name.js
+```
+> my-file-name.js
 
-Here are examples of badly named directories:
+> my.file.name.js
 
-- my-directory-name
-- my directory named
-- mydirectoryname
-- my.directory.named
-- my-directory_name
+> myfilename.js
 
-### Advantages of good naming convention:
+> my-file_name.js
+```
+
+Here are examples of badly named directories
+
+```
+> my-directory-name
+
+> my directory named
+
+> mydirectoryname
+
+> my.directory.name
+
+> my-directory_name
+```
+
+### Advantages of good naming convention
 
 - Your code becomes easier to search. This comes in handy once you start working on a big project and where searching for things will consume most of your time.
 
@@ -45,7 +56,7 @@ Here are examples of badly named directories:
 
 - Consistency. This is the key to maintainability.
 
-### Resources:
+### Resources
 
 The following resources should help you get a good idea about general naming conventions in JavaScript:
 
