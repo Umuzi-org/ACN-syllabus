@@ -89,7 +89,7 @@ For example, if one customer paid for 2 hamsters and another customer paid for o
 ```
 [
     {"name":"hamster", "quantity": 3},
-    {"name": "bag of sawdust", "quantity" 1}
+    {"name": "bag of sawdust", "quantity": 1}
 ]
 ```
 
