@@ -72,8 +72,8 @@ In Javascript it is best practice to use destructuring when passing arguments to
 Please make sure you use destructuring for all your functions. 
 
 ```
-getCustomerBaskets(someJsonData, "sine@umuzi.org") // DONT DO THIS
-getCustomerBaskets("sine@umuzi.org", someJsonData) // DONT DO THIS EITHER
+getCustomerBaskets(someJsonData, "sine@umuzi.org") // DON'T DO THIS
+getCustomerBaskets("sine@umuzi.org", someJsonData) // DON'T DO THIS EITHER
 
 // the problem with the above code is that if you get the order of the parameters wrong, then things break. 
 // your functions should work like this instead:
@@ -125,7 +125,7 @@ Make sure the returned value matches the following structure:
 ```
 [
     {"email": "tshepo@umuzi.org", "total": 1023.10},
-    {"email": "maru@email.com", "total":950},
+    {"email": "maru@email.com", "total": 950},
     ... etc
 ]
 ```
