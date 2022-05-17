@@ -40,4 +40,4 @@ title: Web dev bridging course
 - {{% contentlink path="specific-skill-success-criteria/for-loops" flavour="javascript" %}}
 - {{% contentlink path="projects/oop/animals/part1"  flavour="javascript" %}}
 - {{% contentlink path="specific-skill-success-criteria/classes-and-objects" flavour="javascript" %}}
-- {{% contentlink path="topics/javascript-specific/js-naming-convention" %}}
+- {{% contentlink path="topics/file-and-directory-naming/javascript" %}}
