@@ -82,11 +82,6 @@ http://www.isaca.org/
 
 ISACA works in the areas of Information Technology (IT), IT Risk, IT Governance and IT Security in South Africa. Their vision is to be the leading sponsor of local educational seminars and workshops, through conducting regular networking events and supporting professional and academic community with research material and to elevate the visibility and effectiveness of the profession as a whole locally and globally.
 
-**Interactive Entertainment South Africa (IESA)**
-
-https://web.archive.org/web/20171115033111/http://www.iesa.org.za/
-
-IESA supports interactive entertainment companies and affiliate organisations through research grants, bursary programmes, trade missions and lobbying of government for better legislation and support around video games.
 
 ### 2. Codes of practice in the IT industry
 
