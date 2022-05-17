@@ -65,7 +65,21 @@ Please note that one person can have multiple baskets. If you look at the data, 
 
 ## Write some functionality
 
-When writing your functionality, please be aware that the parameters should not be limited to a certain order. For example, `getCustomerBaskets(someJsonData, "sine@umuzi.org")` and `getCustomerBaskets("sine@umuzi.org", someJsonData)` should work the same way and produce the same results. Using destructuring helps to achieve this. It is important, however, to note that when using destructuring, the names of the arguments will matter a lot as they have to match wherever they are being used in the code. Here is more on [destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment).
+### Important notes for Javascript solutions
+
+In Javascript it is best practice to use destructuring when passing arguments to a function. You can learn about destructuring here: [destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment).
+
+Please make sure you use destructuring for all your functions. 
+
+```
+getCustomerBaskets(someJsonData, "sine@umuzi.org") // DONT DO THIS
+getCustomerBaskets("sine@umuzi.org", someJsonData) // DONT DO THIS EITHER
+
+// the problem with the above code is that if you get the order of the parameters wrong, then things break. 
+// your functions should work like this instead:
+
+// what should it look like?? Put in the real thing. Not a wrong thing
+``` 
 
 ### get baskets belonging to a single customer
 
