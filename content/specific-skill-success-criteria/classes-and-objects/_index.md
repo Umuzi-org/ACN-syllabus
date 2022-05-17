@@ -172,7 +172,7 @@ Learner should understand inheritance and overriding and extending methods
 class Rectangle {
   ...
   details(){
-    return `The length of the Rectangle is ${this.length}, the width of the Square is ${this.width}`;
+    return `The length of the rectangle is ${this.length}, and the width is ${this.width}`;
   }
 }
 
@@ -181,7 +181,7 @@ class Cuboid extends Rectangle {
     super();
   };
   details(){
-    return `The length of the Cuboid is ${this.length}, the width of the Cuboid is ${this.width}`;
+    return `The length of the cuboid is ${this.length}, and the width is ${this.width}`;
   };
 };
 The learner should know that constructors and methods declared with final or static cannot be overridden. If a method cannot be inherited, it cannot be overridden.
