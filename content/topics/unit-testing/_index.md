@@ -25,3 +25,12 @@ These resources cover the basics in Python.
 
 - https://www.youtube.com/watch?v=UMgxJvozR5A
 - https://towardsdatascience.com/getting-started-unit-testing-with-pytest-9cba6d366d61
+
+## Java resources
+
+junit is very fundamental when starting to test java projects but you will also soon realised that there are many libraries out there for testing depending on what you are trying to achieve with your tests
+
+Here are some resources
+
+- https://www.baeldung.com/java-unit-testing-best-practices
+- https://www.youtube.com/watch?v=vZm0lHciFsQ&ab_channel=CodingwithJohn

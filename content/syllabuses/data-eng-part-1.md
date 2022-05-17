@@ -6,6 +6,7 @@ _db_id: 4
 - {{% contentlink path="topics/solo-learn/python/6-more-types" %}}
 - {{% contentlink path="agile/agile-scrum" %}}
 - {{% contentlink path="topics/clean-code/python" %}}
+- {{% contentlink path="topics/file-and-directory-naming/python" %}}
 - {{% contentlink path="topics/code-reviews/part-1-reviewers" %}}
 - {{% contentlink path="topics/how-to-ask-for-help-with-your-code" %}}
 - {{% contentlink path="topics/code-reviews/part-2-author" %}}
