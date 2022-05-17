@@ -97,18 +97,17 @@ Create a class called `AnimalTests`.
 Now let's add our first JUnit test to our `AnimalTests`. The class should have the following methods `TestDogSound()`, `TestDogEat()`, `TestCatSound()` and `TestCatEat()`. Each method should have the @Test tag placed above it, the tests should work as follows:
 
 ```
-
 //Dog Tests
-Test -> Does dog eat Food should Pass
-Test -> Does dog eat food should Fail
+Dog dog = new Dog();
+Test -> Does <dog name> eats should Pass
+Test -> Does dog Bark should Pass
+Test -> Does dog Meow should Fail
 
 //Cat Tests
 Cat cat = new Cat();
-Test -> Does cat Bark should Fail
+Test -> Does <cat name> eats should Pass
 Test -> Does cat Meow should Pass
-Test -> Does cat eat meat should Fail
-Test -> Does cat eat Food should Pass
-Test -> Does cat eat food should Fail
+Test -> Does cat Bark should Fail
 
 ```
 
@@ -116,25 +115,22 @@ Test -> Does cat eat food should Fail
 
 Use Jasmine to test your code.
 
-Then create tests for your `eats()` and `sounds()` methods on the `Dog` and `Cat` classes with Jasmine.
+Then create tests for your `eat()` and `sound()` methods on the `Dog` and `Cat` classes with Jasmine.
 
 ```
 
 
 //Dog Tests
 let dog = new Dog();
-Test -> Does dog eat Food should Pass
-Test -> Does dog eat food should Fail
-Test -> Does dog Roar should Fail
+Test -> Does <dog name> eats should Pass
 Test -> Does dog Bark should Pass
+Test -> Does dog Meow should Fail
 
 //Cat Tests
 let cat = new Cat();
-Test -> Does cat Bark should Fail
+Test -> Does <cat name> eats should Pass
 Test -> Does cat Meow should Pass
-Test -> Does cat eat meat should Fail
-Test -> Does cat eat Food should Pass
-Test -> Does cat eat food should Fail
+Test -> Does cat Bark should Fail
 
 ```
 
@@ -149,19 +145,16 @@ Remember the correct naming convention for the tests in your `test_animals.py` f
 ```
 
 #Dog tests
-dog = Dog();
-Test -> Does dog eat Food should Pass
-Test -> Does dog eat food should Fail
-Test -> Does dog Roar should Fail
+dog = Dog()
+Test -> Does <dog name> eats should Pass
 Test -> Does dog Bark should Pass
+Test -> Does dog Meow should Fail
 
 #Cat Tests
-cat = Cat();
-Test -> Does cat Bark should Fail
+cat = Cat()
+Test -> Does <cat name> eats should Pass
 Test -> Does cat Meow should Pass
-Test -> Does cat eat meat should Fail
-Test -> Does cat eat Food should Pass
-Test -> Does cat eat food should Fail
+Test -> Does cat Bark should Fail
 
 ```
 
