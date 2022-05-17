@@ -1,10 +1,11 @@
 ---
-title: Introduction to coding challenges
+_db_id: 757
+content_type: topic
 prerequisites:
   hard:
-    -  coding_aptitude_assessment/introduction_to_github
+  - coding_aptitude_assessment/introduction_to_github
 ready: true
-content_type: topic
+title: Introduction to coding challenges
 ---
 
 It's time to write some code :)
