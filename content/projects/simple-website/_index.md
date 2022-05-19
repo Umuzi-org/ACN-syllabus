@@ -32,7 +32,7 @@ Learn more about [Github Pages](https://guides.github.com/features/pages/).
 
 Make sure that you regularly push your code to github. Once you have finished your design and are satisfied with the style and content, submit a link to your website. DO NOT submit a link to your github repo, submit a link to the website you hosted on GitHub Pages. We don't want to clone your website, we want to look at what you built.
 
-### Requirements:
+### Requirements
 
 - Website can be a single page or have multiple pages (the structure is up to you), but it must contain the following information:
   - About me
