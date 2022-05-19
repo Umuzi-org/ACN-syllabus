@@ -72,13 +72,18 @@ In Javascript it is best practice to use destructuring when passing arguments to
 Please make sure you use destructuring for all your functions. 
 
 ```
-getCustomerBaskets(someJsonData, "sine@umuzi.org") // DON'T DO THIS
-getCustomerBaskets("sine@umuzi.org", someJsonData) // DON'T DO THIS EITHER
+getCustomerBaskets(cart, "sine@umuzi.org"); // DON'T DO THIS
+getCustomerBaskets("sine@umuzi.org", cart); // DON'T DO THIS EITHER
 
-// the problem with the above code is that if you get the order of the parameters wrong, then things break. 
-// your functions should work like this instead:
+// The problem with the above code is that if you get the order of the parameters wrong, then things will break. Your functions should work like this instead:
 
-// what should it look like?? Put in the real thing. Not a wrong thing
+function getCustomerBaskets({ cart, email }) {...}
+
+const { email } = "sine@umuzi.org";
+const { cart } = someJsonData
+
+getCustomerBaskets(cart, email) //DO THIS
+getCustomerBaskets(email, cart) //DO THIS
 ``` 
 
 ### get baskets belonging to a single customer
