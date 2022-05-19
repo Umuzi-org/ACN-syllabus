@@ -33,7 +33,8 @@ If you are still getting some errors, your PC might have virtualization disabled
 Here is a basic [link](https://www.minitool.com/news/enable-virtualization-windows-10.html) to get you started. If this method does not work for you, you will need to google your own hardware in order to enable virtualization on your machine.
 
 ## None of these helped me. I'm still stuck!
-At this point Docker Desktop on Windows may not be compatible with your current setup. Your alternatives are
+At this point Docker Desktop on Windows may not be compatible with your current setup. 
+Your alternatives are
 
 1.) Use WSL 2 as mentioned in the intro to docker Topic. Follow the instructions to install WSL and docker very carefully as missing one step may lead to Docker not working as expected.
 
