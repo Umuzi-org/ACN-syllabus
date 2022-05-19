@@ -2,6 +2,7 @@
 _db_id: 513
 content_type: topic
 title: React Unit testing
+ready: true
 ---
 
 - https://www.youtube.com/watch?v=-bmdf1oATQo
