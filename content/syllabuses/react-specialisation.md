@@ -8,9 +8,6 @@ _db_id: 30
 - {{% contentlink path="projects/tilde-mockups" flavour="javascript,react"%}}
 - {{% contentlink path="topics/web-frontend/react/redux-architecture" %}}
 - {{% contentlink path="topics/react-redux-dev-tools" %}}
-
-
-
 - {{% contentlink path="topics/web-frontend/react/unit-testing" %}}
 - {{% contentlink path="projects/redux-intro/part-3" flavour="javascript" %}}
 - {{% contentlink path="projects/memory-game/part-2" flavour="react,redux,javascript" %}}
