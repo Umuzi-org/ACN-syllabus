@@ -1,5 +1,5 @@
 ---
-_db_id: 214
+_db_id: 215
 content_type: project
 flavours:
 - java
@@ -7,119 +7,97 @@ from_repo: projects/java-specific/introduction-to-spring-boot/part-1
 prerequisites:
   hard:
   - projects/java-specific/introduction-to-spring-boot/part-1
-  - projects/java-specific/introduction-to-spring-boot/part-2
-  - topics/java-specific/introduction-to-spring-boot/part-3
+  - topics/java-specific/introduction-to-spring-boot/part-4
   soft: []
 ready: true
 submission_type: continue_repo
 tags:
 - spring-boot
 - rest-api
-- mvc
-- annotations
+- soap
+- github-api
+- rest-templates
 title: Introduction to Spring Boot - part 3
 ---
 
-We are going to focus on creating a REST api that will serve as a end point to our sping boot java application.
+In this project we will consume a REST API and a SOAP web service in our User service repository.
 
-## Service
-
-Continuing with {{% contentlink path="projects/java-specific/introduction-to-spring-boot/part-1" %}} for the **User** we are going to expose a **REST endpoint** to the application and we will use test to see if the application does what we want it to.
+## REST API
 
 **Step 1**
 
-Create a Controller Class based on the spring MVC infrastructure. This will be used to expose the endpoint.
-
-```
-package controller;
-
-public class UserController {
-}
-```
+Familiarize yourself with the git api found here https://developer.github.com/v3/ learn which endpoint to get your repo, commits maybe branches etc. Try it out on postman or curl on the terminal
 
 **Step 2**
 
-Add two spring annotations to indicate:
-1 - The REST Controller above the class declaration.
-2 - The route URL extension to reach this controller.
+Now we are going to consume the api in our spring boot application using restTemplates as per topic work. I would like to see
+
+1. v3 version of the api implemented
+2. A list of all your repos - output on the console
+3. A list of commits in 1 repo of your choice - output on the console
+
+## SOAP WEB SERVICES
+
+**Step 1**
+
+Clone the repo found here https://github.com/spring-guides/gs-producing-web-service and open the `complete` folder not the entire repo. Review it on a high level this will be the wsdl project we are going to use to learn how to consume a wsdl application. **DO NOT ADD THIS PROJECT AS PART OF YOUR SUBMISSION(this is so that you can generate the files)**
+
+Change the application to run on port 9090 by adding this to the properties file
+
+Run the application, you should be able to do to the below url,
 
 ```
-package controller;
+http://localhost:9090/ws/countries.wsdl
 
-//add here.
-//add your specified route as input parameter to your annotation.
-public class UserController {
-}
+```
+
+and see this
+
+```
+<wsdl:definitions xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:sch="http://spring.io/guides/gs-producing-web-service" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="http://spring.io/guides/gs-producing-web-service" targetNamespace="http://spring.io/guides/gs-producing-web-service">
+    <wsdl:types>
+        <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://spring.io/guides/gs-producing-web-service">
+        <xs:element name="getCountryRequest">
+            <xs:complexType>
+            <xs:sequence>
+
+// ....
+
+```
+
+keep this project running in the background
+
+**Step 2**
+In your terminal navigate to `YourUserServiceRepo/src/main/java` and run this command
+
+```
+wsimport -keep -p com.nameOfYourPackage.wsdl http://localhost:9090/ws/countries.wsdl
+
 ```
 
 **Step 3**
 
-Add the annotation to your UserServiceImpl that indicated class previously created in {{% contentlink path="projects/java-specific/introduction-to-spring-boot/part-1" %}} is a service.
+Now we start to do the real work
+
+1. Get the currency for United Kingdom: Output
 
 ```
-//add annotation here.
-
-public class UserServiceImpl{
-    addUser(name, surname) // should call insert(name, surname) from FakeRepo and print to console '[name] entered'
-
-	removeUser(Id) // should call delete(id) from FakeRepo and print to console '[name] removed'
-
-	getUser(Id) // should call find(id) from FakeRepo and print to console 'hello [name]'
-
-	[name] - replaced with actual name
-    }
-}
+Currency: GBP
 
 ```
 
-**Step 4**
-
-Specify all your methods inside the UserServiceInterface then implement all methods in the UserServiceImpl.
-
-**Step 5**
-
-1 - Do the following in the UserController.
-
-2 - Use the Put, Delete, Get spring annotations to map the respective services.
-
-3 - Do not forget to mark the input parameter as a Request Body if you are receiving data in the body of the object.
-
-4 - If you are receiving the data as url parameter - mark variable as a Path Variable.
-
-5 - If you are receiving the data as a query parameter - mark variable as a query parameter.
-
-Example
+2. Get the capital of United Kingdom: Output
 
 ```
-	@PutMapping
-    public ResponseEntity<String> update(@RequestBody Customer customer)
-    {
-        customerService.update(customer);
-        ResponseEntity<String> responseEntity = new ResponseEntity("Success!", HttpStatus.NO_CONTENT);
-        return responseEntity;
-    }
+Capital: London
 
 ```
 
-**Step 5**
+3. Get the population of United Kingdom: Output
 
-Do not forget to write integration tests for the endpoints(addUser, getUserById, removeUser) in your controller using MockMVC or TestRestTemplate.
+```
+Population: 63705000
 
-- All CRUD operations defined in your services should be accompanied by corresponding unit test,
-  using the relevant spring annotations as in {{% contentlink path="projects/java-specific/introduction-to-spring-boot/part-1" %}}.
+```
 
-**Side Notes**
-1 - Please remember to test your end points using postman. If you need help with using postman access the using postman link.
-
-2 - Add at least one image of a successful request using postman.
-3 - The first resource link shows you everything you need to do to complete this project from start to finish if you struggle with any step.
-4 - This project assumes you have set up your Postgress connection as it is an extension of part1 and part2 of the Spring Boot Series.
-5 - Please create a new branch labeled **part3**
-**Happy Coding...**
-
-## Resources
-
-https://dzone.com/articles/expose-restful-apis-using-spring-boot-in-7-minutes
-https://www.google.com/search?q=using+postman&oq=using+postman&aqs=chrome..69i57j0l7.2559j0j7&sourceid=chrome&ie=UTF-8#kpvalbx=_WISeXrbFAZaY1fAPp6eFmA449
-https://dzone.com/articles/creating-a-rest-api-with-java-and-spring
-https://github.com/nikeshpathak/customer-demo-webservice/blob/master/src/main/java/com/example/customer/demo/controller/CustomerCtrl.java
+### Happy Hacking!!!
