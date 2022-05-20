@@ -1,8 +1,8 @@
 ---
 _db_id: 515
 content_type: topic
-title: React + Redux architectural guidelines
 ready: true
+title: React + Redux architectural guidelines
 ---
 
 Redux is pretty cool. But also pretty weird... Once you start writing complicated applications things can get pretty confusing.

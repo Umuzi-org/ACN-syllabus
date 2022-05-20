@@ -3,9 +3,9 @@ _db_id: 538
 content_type: project
 flavours:
 - javascript
+ready: true
 submission_type: repo
 title: Redux Saga Intro
-ready: true
 ---
 
 Write a simple game using React and Redux saga.
@@ -50,4 +50,3 @@ Please update your README file to include:
 You need to use React, redux and redux-saga. Your code needs to be clean and beautiful as always.
 
 Please test your code!
-

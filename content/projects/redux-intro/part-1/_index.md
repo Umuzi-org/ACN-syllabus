@@ -7,7 +7,6 @@ flavours:
 prerequisites:
   hard:
   - topics/redux-intro
-
 ready: true
 submission_type: repo
 tags:

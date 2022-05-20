@@ -32,4 +32,3 @@ Make sure that you organise your code according to the architectural guidelines 
 {{% contentlink path="topics/web-frontend/react/redux-architecture" flavour="react,redux" %}}
 
 It's likely that you will need to refactor a lot of your work.
-

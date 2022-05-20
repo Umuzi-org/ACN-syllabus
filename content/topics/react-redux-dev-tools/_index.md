@@ -1,7 +1,8 @@
 ---
-title: React and Redux Developer tools
+_db_id: 770
 content_type: topic
 ready: true
+title: React and Redux Developer tools
 ---
 
 Using the right tools for the job is a great way to create leverage in your life.  Here are a few React and Redux specific tools that will make your life easier:
