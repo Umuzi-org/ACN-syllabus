@@ -7,7 +7,8 @@ from_repo: projects/java-specific/introduction-to-spring-boot/part-1
 prerequisites:
   hard:
   - projects/java-specific/introduction-to-spring-boot/part-1
-  - topics/java-specific/introduction-to-spring-boot/part-2
+  - topics/java-specific/introduction-to-spring-boot/part-4
+  - projects/java-specific/introduction-to-spring-boot/part-2
   - projects/java-specific/introduction-to-spring-boot/part-3
   
   soft: []
