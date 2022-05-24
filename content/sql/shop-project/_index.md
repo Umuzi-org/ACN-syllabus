@@ -14,6 +14,7 @@ prerequisites:
   hard:
   - topics/solo-learn/sql/4-challenges
   - docker/intro-to-docker/
+  - docker/docker-desktop-troubleshooting
   soft: []
 ready: true
 story_points: 3

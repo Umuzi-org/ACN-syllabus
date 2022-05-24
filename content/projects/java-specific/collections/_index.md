@@ -9,6 +9,7 @@ prerequisites:
   - topics/java-specific/collections-and-datastructures
   soft:
   - docker/intro-to-docker
+  - docker/docker-desktop-troubleshooting
   - topics/java-specific/intro-to-gradle-with-intellij
   - projects/oop/dice
   - projects/oop/person

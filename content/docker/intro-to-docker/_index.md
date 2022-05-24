@@ -25,26 +25,28 @@ In this section we'll get docker set up on your computer. Then we'll use it to r
 
 ### Install docker
 
-For Ubuntu:
+#### For Ubuntu:
 
 1. https://docs.docker.com/install/linux/docker-ce/ubuntu/
 2. https://docs.docker.com/install/linux/linux-postinstall/
 
-For Mint:
+#### For Mint:
 
 1. follow these instructions https://docs.docker.com/install/linux/docker-ce/ubuntu/ then when it is time to call `add-apt-repository` rather do this:
    `sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(. /etc/os-release; echo "$UBUNTU_CODENAME") stable"`
 2. https://docs.docker.com/install/linux/linux-postinstall/
 
-For Mac:
+#### For Mac:
 
 https://docs.docker.com/docker-for-mac/install/
 
-For Windows:
+#### For Windows:
 
 https://docs.docker.com/desktop/windows/install/
 
 An extension for VSCode can be installed as well https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker
+
+If you are having issues with Docker Desktop, please see this topic for troubleshooting {{% contentlink path="docker/docker-desktop-troubleshooting" %}}
 
 ### Super important
 
