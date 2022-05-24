@@ -1,14 +1,11 @@
 ---
 _db_id: 752
-content_type: project
-flavours:
-- none
+content_type: topic
 prerequisites:
   hard:
   - topics/solo-learn/python/2-strings-and-variables
   soft: []
 ready: true
-submission_type: link
 tags:
 - python
 title: Solo Learn - Python Core - Module 3 - Control Structures
