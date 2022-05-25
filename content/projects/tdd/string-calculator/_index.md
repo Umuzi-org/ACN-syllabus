@@ -133,6 +133,20 @@ In the first case, the default delimiter is: ";".
 
 In the second case, the default delimiter is: "4".
 
+**Note:** you are not expected to handle integer delimiters where the delimiter and the digit you are adding are the same. For example
+
+```
+add("//4\n14244")
+add("//88\n18882")
+```
+
+Strings like these should raise an error, `'ERROR: invalid input'`. When this isn't the case, your function should work as explained above;
+
+```
+add("//88\n18820882")
+// should return 23
+```
+
 #### 5. Modify the add function so that it can handle negative integers
 
 If a negative number is passed into the add function it should throw this exception:
@@ -202,7 +216,7 @@ Hint: A valid string input follows these formats:
 - "//[delimiter][delimiter]\n integer delimiter integer" e.g "//[\*][%]\n1\*2%3"
 ```
 
-If the string does not abide by any of these formats, it should be considered invalid.
+If the string does not abide by any of these formats, it should be considered invalid. Square brackets (`[` or `]`) are used as identifiers, and will not be used as delimiters. Any string with these as delimiters should also be considered invalid.
 
 ```
 add("//;\n1000;1;2;")
@@ -217,7 +231,16 @@ add("1,2,3//;\n1000,1;2")
 // should throw the following:
     'ERROR: invalid input'
 
+add("//]\n90]11]20")
+// should throw the following:
+    'ERROR: invalid input'
+
+add("//[[][[][&&]\n1[2[3&&4")
+// should throw the following:
+    'ERROR: invalid input'
+
 ```
+
 
 ### Why is this important?
 

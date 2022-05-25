@@ -20,6 +20,21 @@ title: semitone difference - basic algorithm
 weight: 1
 ---
 
+## Set up your environment
+ 
+Your directory structure should look like this.
+ 
+```
+   >node_modules    <---- make sure this is in your .gitignore
+   >spec
+       > support
+           - jasmine.json
+       - semitone_spec.js
+   >src
+       - semitone.js
+   - package.json
+```
+
 This is a multi-step project designed to level up many different skills.
 
 We want to see the following skills demonstrated in different parts of this project:
