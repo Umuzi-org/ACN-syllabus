@@ -1,5 +1,4 @@
 ---
-_db_id: 748
 content_type: topic
 ready: true
 tags:
