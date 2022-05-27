@@ -35,11 +35,7 @@ Take a look at this to see how you can see Tilde's data structures:
 
 {{% youtube Jx0jq2SiFS4 %}}
 
-<<<<<<< HEAD
-Ideally you will be able to build stuff at least as complicated as that. But we'e going to start with some simpler things.
-=======
 Ideally, you will be able to build stuff at least as complicated as that. But we're going to start with some simpler things.
->>>>>>> b52d230f0b118a3499dca45e73ad301c226648f0
 ## Get started with the project by adding the data to your repo
 
 First of all, please download this data in [this file](data.json) and add it to your repo. All of your functions should take this data structure as an argument.
