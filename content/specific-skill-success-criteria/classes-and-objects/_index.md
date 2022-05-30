@@ -134,4 +134,54 @@ class Cuboid extends Rectangle {
 
 ### Overriding
 
+Learner should know that constructors and methods declared with final or static cannot be overridden. If a method cannot be inherited, it cannot be overridden.
+
+## Javascript
+
+### Constructors
+
+Learner should know how constructors work
+
+```
+class Rectangle {
+  constructor(length, width){
+    this.length = length
+    this.width = width
+  }
+}
+```
+### Instantiation
+
+Learner should know how to instantiate many objects from the same class and interact with them
+
+```
+const smallRectangle1 = new Rectangle(2, 4)
+const smallRectangle2 = new Rectangle(2, 4)
+const mediumRectangle = new Rectangle(4, 12)
+
+
+console.log(smallRectangle1.length) //2
+console.log(mediumRectangle.width) //12
+
+```
+
+### Inheritance and overriding
+
+Learner should understand inheritance and overriding and extending methods
+```
+class Rectangle {
+  ...
+  details(){
+    return `The length of the rectangle is ${this.length}, and the width is ${this.width}`;
+  }
+}
+
+class Cuboid extends Rectangle {
+  constructor(length, width){
+    super();
+  };
+  details(){
+    return `The length of the cuboid is ${this.length}, and the width is ${this.width}`;
+  };
+};
 The learner should know that constructors and methods declared with final or static cannot be overridden. If a method cannot be inherited, it cannot be overridden.

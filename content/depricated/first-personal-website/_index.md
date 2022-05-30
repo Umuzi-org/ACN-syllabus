@@ -21,7 +21,7 @@ tags:
 - html
 - css
 - responsive web design
-title: Build your first personal website
+title: DEPRICATED - Build your first personal website
 ---
 
 For the learnership you will create a website with your CV and a portfolio of your work. Create the website and host it on GitHub. You will be expected to keep your portfolio up to date throughout the learnership.
