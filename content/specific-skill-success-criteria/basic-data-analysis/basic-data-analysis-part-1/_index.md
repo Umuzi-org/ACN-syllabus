@@ -55,11 +55,12 @@ Make sure to check that they know how to handle:
 - If you show the learner a plot of some data and ask them if standard deviation is meaningful, they should be able to tell you. For example, is it worth calculating the standard deviation of an exponential distribution?
 - If you have a normal distribution where the curve is flat, and another one where the curve is pointy, then which one has the higher standard deviation?
 
-## Correlation coefficient `R`
+## Correlation
 
 The learner should know:
+- What is correlation and how do we measure it?
 - What is the minimum value that the correlation coefficient can have? What does it mean if we have this value?
 - What is the maximum value that the correlation coefficient can have? What does it mean if we have this value?
 - What does it mean if the correlation coefficient is 0?
 
-Show the learner some scatter plots and ask them to tell you about the correlation of the various plots. Cover a range of different p values.
+Show the learner some scatter plots and ask them to tell you about the correlation of the various plots.
