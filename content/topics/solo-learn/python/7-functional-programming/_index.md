@@ -1,14 +1,10 @@
 ---
-_db_id: 744
-content_type: project
-flavours:
-- none
+content_type: topic
 prerequisites:
   hard:
   - topics/solo-learn/python/6-more-types
   soft: []
 ready: true
-submission_type: link
 tags:
 - python
 title: Solo Learn - Python Core - Module 7 - Functional Programming
@@ -17,5 +13,3 @@ title: Solo Learn - Python Core - Module 7 - Functional Programming
 Complete the above-mentioned module on Solo Learn.
 
 https://www.sololearn.com/Course/Python/
-
-Please submit the link to your profile, for example, https://www.sololearn.com/profile/21320495

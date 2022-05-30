@@ -18,9 +18,9 @@ There is no need to install git just yet.
 
 ## Learn some basic code
 
-- {{% contentlink path="topics/solo-learn/python/1-basic-concepts" %}}
+- {{% contentlink path="topics/solo-learn/python/1-basic-concepts-project" %}}
 - {{% contentlink path="topics/solo-learn/python/2-strings-and-variables" %}}
-- {{% contentlink path="topics/solo-learn/python/3-control-structures" %}}
+- {{% contentlink path="topics/solo-learn/python/3-control-structures-project" %}}
 - {{% contentlink path="topics/solo-learn/python/4-functions-and-modules" %}}
 
 - {{% contentlink path="coding_aptitude_assessment/coding_challenges/introduction" %}}
