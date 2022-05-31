@@ -27,14 +27,22 @@ In this section we'll get docker set up on your computer. Then we'll use it to r
 
 #### For Ubuntu:
 
-1. https://docs.docker.com/install/linux/docker-ce/ubuntu/
-2. https://docs.docker.com/install/linux/linux-postinstall/
+https://docs.docker.com/install/linux/docker-ce/ubuntu/
 
 #### For Mint:
 
-1. follow these instructions https://docs.docker.com/install/linux/docker-ce/ubuntu/ then when it is time to call `add-apt-repository` rather do this:
+follow these instructions https://docs.docker.com/install/linux/docker-ce/ubuntu/ then when it is time to call `add-apt-repository` rather do this:
    `sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(. /etc/os-release; echo "$UBUNTU_CODENAME") stable"`
-2. https://docs.docker.com/install/linux/linux-postinstall/
+
+##### Super important for Linux Users
+
+For the above linux based systems, You will also need to follow these instructions:
+
+https://docs.docker.com/engine/install/linux-postinstall/
+
+##### Now install docker-compose
+
+https://docs.docker.com/compose/install/
 
 #### For Mac:
 
@@ -47,18 +55,6 @@ https://docs.docker.com/desktop/windows/install/
 An extension for VSCode can be installed as well https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker
 
 If you are having issues with Docker Desktop, please see this topic for troubleshooting {{% contentlink path="docker/docker-desktop-troubleshooting" %}}
-
-### Super important
-
-For some reason most people don't follow ALL the installation instructions.
-
-Please do this:
-
-https://docs.docker.com/engine/install/linux-postinstall/
-
-### Now install docker-compose
-
-https://docs.docker.com/compose/install/
 
 ### Create a docker-composition file
 
