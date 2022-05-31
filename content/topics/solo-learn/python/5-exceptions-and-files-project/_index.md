@@ -9,7 +9,7 @@ prerequisites:
   soft: []
 ready: true
 submission_type: link
-title: "Solo Learn - Python Core - Module 5 - Exceptions & Files: Profile check"
+title: 'Solo Learn - Python Core - Module 5 - Exceptions & Files: Profile check'
 ---
 
 Please submit the link to your SoloLearn profile, for example, https://www.sololearn.com/profile/21320495

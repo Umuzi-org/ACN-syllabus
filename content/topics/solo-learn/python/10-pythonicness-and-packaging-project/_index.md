@@ -11,9 +11,8 @@ ready: true
 submission_type: link
 tags:
 - python
-title: "Solo Learn - Python Core - Module 10 - Pythonicness & Packaging: Profile check"
+title: 'Solo Learn - Python Core - Module 10 - Pythonicness & Packaging: Profile check'
 ---
-
 
 Please submit the link to your SoloLearn profile, for example, https://www.sololearn.com/profile/21320495
 

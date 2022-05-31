@@ -14,7 +14,6 @@ tags:
 title: Solo Learn - Python Core - Module 7 - Functional Programming
 ---
 
-
 Please submit the link to your SoloLearn profile, for example, https://www.sololearn.com/profile/21320495
 
 We just need to make sure everyone is keeping up 💚
