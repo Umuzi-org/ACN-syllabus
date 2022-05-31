@@ -217,7 +217,7 @@ Author: Sheena O'Connell <sheena.oconnell@gmail.com>
 Date:   Tue Apr 23 15:25:07 2019 +0200
 
     random readme changes
-    
+
 commit l8543u7648f3ec0f7928f6cbef705c6fagv78dsb
 Author: Sheena O'Connell <sheena.oconnell@gmail.com>
 Date:   Tue Apr 23 15:25:07 2019 +0200
@@ -357,7 +357,7 @@ Go look at your network page. Each of the dots there represent commits that you 
 6. `cd` into the `a-repo-to-clone` directory that was just created
 7. Explore a little using `git branch` and `git log`
 8. Type in `git branch -a`. This shows the remote branches
-9. Try to checkout the branch called `project/git-basic-exercises` on your local computer. You can do it, you will need to figure out how
+9. Try to checkout the branch called `a-branch-with-a-few-commits` on your local computer. You can do it, you will need to figure out how
 10. Type in `git remote -v`
 
 ### Multiple repos

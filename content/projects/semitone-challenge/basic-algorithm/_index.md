@@ -20,32 +20,47 @@ title: semitone difference - basic algorithm
 weight: 1
 ---
 
+## Set up your environment
+ 
+Your directory structure should look like this.
+ 
+```
+   >node_modules    <---- make sure this is in your .gitignore
+   >spec
+       > support
+           - jasmine.json
+       - semitone_spec.js
+   >src
+       - semitone.js
+   - package.json
+```
+
 This is a multi-step project designed to level up many different skills.
 
 We want to see the following skills demonstrated in different parts of this project:
 
-- code structure
-- functions
-- loops
-- conditions
-- datatypes
-- operators
+- Code structure
+- Functions
+- Loops
+- Conditions
+- Datatypes
+- Operators
 - DOM manipulation
 
 This project should be completed in a TDD way.
 
-Ok...so WTF is a semitone? I'm glad you asked. Take a look at these links:
+Ok...so what is a semitone? I'm glad you asked. Take a look at these links:
 
 - https://www.justinguitar.com/guitar-lessons/the-note-circle-bc-152
 - https://www.justinguitar.com/guitar-lessons/note-circle-with-a-jam-buddy-mt-106
 
-What we want to do is build a simple application that a musician can use to test their music theory skillz.
+What we want to do, is build a simple application that a musician can use to test their music theory skills.
 
-In the second video, Justin talks about a game that you can play with a jam buddy. Your buddy picks two notes from the note circle and tells them to you, then you tell your buddy how many semi-tones seperate those notes. That is basically what we are building here.
+In the second video, Justin talks about a game that you can play with a jam buddy. Your buddy picks two notes from the note circle and tells them to you, then you tell your buddy how many semi-tones seperates those notes. That is basically what we are building here.
 
 The final goal is to have a program that outputs two notes from the note circle and then allows the user to enter a number. The program needs to be able to tell the user if they chose the correct number or not.
 
-For those of you studying web dev, you will be expected to build a simple user interface for this thing using vanilla js. For those of you studying Python you can make a command-line utility that does this.
+For those of you learning web dev, you will be expected to build a simple user interface for this thing using Vanilla js. For those of you learning Python you can make a command-line utility that does this.
 
 1. {{% contentlink path="projects/semitone-challenge/basic-algorithm" %}}
 2. {{% contentlink path="projects/semitone-challenge/gui-part-1" %}}
@@ -102,6 +117,6 @@ console.log(correct) # true because: G G# A A# B - the note circle is a CIRCLE, 
 
 ## Acceptance criteria
 
-Make sure you do this in a TDD way. And that code sample from the top needs to run as is.
+Make sure you do this in a TDD way, and that code sample from the top needs to run as is.
 
-Please just supply a working class. The only place you should instantiate your class is inside your unit tests
+Please just supply a working class. The only place you should instantiate your class is inside your unit tests.
