@@ -13,6 +13,23 @@ tags:
 title: Shopping cart calculations
 ---
 
+## Set up your environment
+
+### Javascript
+ 
+Your directory structure should look like this.
+ 
+```
+   >node_modules    <---- make sure this is in your .gitignore
+   >spec
+       > support
+           - jasmine.json
+       - shopping_cart_spec.js
+   >src
+       - shopping_cart.js
+   - package.json
+```
+
 A lot of new programmers don't know why understanding is important. They think they can just copy code from people and that's enough to get by. BUT as soon as you get your first job you'll need to solve some serious problems on your own.
 
 The problems you'll be solving in this project are designed to be realistic. As a professional, you'll likely need to do things similar to this. Please make sure you 100% understand!
