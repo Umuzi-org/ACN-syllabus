@@ -15,7 +15,6 @@ _db_id: 25
 - {{% contentlink path="topics/javascript-specific/oop-design-patterns" %}}
 - {{% contentlink path="soft-skills/communication" %}}
 - {{% contentlink path="topics/solo-learn/javascript/8-emcascript-6" %}}
-- {{% contentlink path="topics/file-and-directory-naming/javascript" %}}
 
 ### Extra Soft Skills
 
