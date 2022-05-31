@@ -88,6 +88,7 @@ Your directory structure should look like this:
 2. The `Dog` and `Cat` class methods should still remain as per part 1 of the project.
 3. Make sure the `makeAllSounds()`/`make_all_sounds()` method still works properly.
 4. See the pseudocode examples below for what kinds of things should be tested.
+5. Also add tests for your Home class. Make sure that it makes all the right noises and that you can't adopt the same pet twice.
 
 ### For Java
 
@@ -157,12 +158,6 @@ Test -> Does cat Meow should Pass
 Test -> Does cat Bark should Fail
 
 ```
-
-### Up for a Challenge?
-
-This section is not compulsory but if you do this we'll think you're cool.
-
-Add some extra tests for your Home class. Make sure that it makes all the right noises and that you can't adopt the same pet twice.
 
 ## Instructions for Reviewers
 
