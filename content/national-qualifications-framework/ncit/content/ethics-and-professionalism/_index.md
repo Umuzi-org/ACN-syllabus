@@ -82,11 +82,6 @@ http://www.isaca.org/
 
 ISACA works in the areas of Information Technology (IT), IT Risk, IT Governance and IT Security in South Africa. Its vision is to be the leading sponsor of local educational seminars and workshops, by conducting regular networking events and supporting the professional and academic community with research material and elevating the visibility and effectiveness of the profession as a whole locally and globally.
 
-**Interactive Entertainment South Africa (IESA)**
-
-http://www.iesa.org.za/
-
-IESA supports interactive entertainment companies and affiliate organisations through research grants, bursary programmes, trade missions and lobbying of government for better legislation and support for video games.
 
 ### 2. Codes of practice in the IT industry
 
@@ -133,7 +128,7 @@ IESA supports interactive entertainment companies and affiliate organisations th
 
 In 2014, the South African Parliament passed the Protection of Personal Information Act (PoPIA) to protect the data and privacy of consumers. As you develop your game you must remain in compliance with this act. Respecting your users’ data and keeping it secure is especially important to maintain trust with your users.
 
-You can view the act [here](https://popia.co.za/) or download a copy [here](https://www.justice.gov.za/inforeg/docs/InfoRegSA-POPIA-act2013-004.pdf)
+You can view the act [here](https://popia.co.za/) or download a copy [here](https://www.gov.za/sites/default/files/gcis_document/201409/3706726-11act4of2013protectionofpersonalinforcorrect.pdf)
 
 http://www.banking.org.za/what-we-do/market-conduct/regulatory-framework/popia
 
@@ -149,9 +144,10 @@ Do not engage in discriminatory practices in professional activities on any basi
 
 Moreover, specific organisations are working towards creating more diversity in the industry:
 
-[The Black Information Technology Forum](www.bitf.org.za)
+[The Black Information Technology Forum](http://www.bitfgp.co.za)
 
-[Women in IT](www.womeninit.co.za)
+[Women in Tech SA chapter](https://women-in-tech.org/sa/)
+
 
 #### Digital Piracy
 
