@@ -48,11 +48,15 @@ https://docs.docker.com/compose/install/
 
 https://docs.docker.com/docker-for-mac/install/
 
+You wont need to install docker-compose as this is already included.
+
 #### For Windows:
 
 https://docs.docker.com/desktop/windows/install/
 
 An extension for VSCode can be installed as well https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker
+
+You wont need to install docker-compose as this is already included.
 
 If you are having issues with Docker Desktop, please see this topic for troubleshooting {{% contentlink path="docker/docker-desktop-troubleshooting" %}}
 
