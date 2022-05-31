@@ -10,7 +10,7 @@ title: Basic introduction to Github
 
 Git and Github are friggin wonderful. Trust me on this. During your time on this learning journey, you'll be using these wonderful tools a lot.
 
-Unfortunately though, for people who are just getting started they can also be weird.
+Unfortunately though, for people who are just getting started, Git and Github can feel pretty be weird.
 
 Please go through this content and do your best to understand all the things.
 

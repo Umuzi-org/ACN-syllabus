@@ -5,16 +5,16 @@ ready: true
 title: Automated Testing in Python
 ---
 
-There are a many of different test frameworks and test runners that Python allows. The main ones people tend to use are
+There are many different test frameworks and test runners that Python allows. The main ones people tend to use are:
 
-- unittest
-- pytest
+- unittest,
+- and pytest.
 
 These are both great tools with pros and cons. We have chosen to teach pytest for our course. But don't be scared of different frameworks!
 
 Different testing tools have different ways of achieving similar goals. Make sure you understand why we test, what to test and when to test.
 
-If you end up working on a project that uses unnittest instead of pytest then use unittest. Eg: Django projects are traditionally tested using unittest instead of Pytest so there is a bunch of cool Django tooling around that, which is totally fine.
+If you end up working on a project that uses unittest instead of pytest then use unittest. Eg: Django projects are traditionally tested using unittest instead of Pytest so there is a bunch of cool Django tooling around that, which is fine.
 
 Read and understand the following:
 

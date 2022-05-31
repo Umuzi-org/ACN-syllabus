@@ -23,7 +23,7 @@ title: Node & File IO
 weight: 1
 ---
 
-You are required to create a back-end service that will help capture basic information about prospective students who come to inquire here at Umuzi. In this project you'll just be storing and retrieving information from plain old json files.
+You are required to create a backend service that will help capture basic information about prospective students who come to inquire here at Umuzi. In this project, you'll just be storing and retrieving information from plain old JSON files.
 
 ## Instructions
 
@@ -34,7 +34,7 @@ You are required to create a back-end service that will help capture basic infor
 - date of visit
 - time of visit
 - comments
-- name of the person who assisted the visitor
+- the name of the person who assisted the visitor
 
 2. Create a function called `save` that saves the visitor's data to a JSON file. The file name should be named like this `visitor_{their_full_name}.json`.
 
@@ -46,7 +46,7 @@ charlie.save() # results in visitor_charley_sheen.json
 
 Notice that the full name used in the file is all lower-case and spaces are replaced by underscores.
 
-3. Create a function called `load` that takes in a name and then grabs a Visitor object from file. It should simply `console.log` the visitor.
+3. Create a function called `load` that takes in a name and then grabs a Visitor object from a file. It should simply `console.log` the visitor.
 
 eg:
 
@@ -68,7 +68,7 @@ load("Bob Marley")
 
 Here are some upgrades you can add to your project if you are up for it.
 
-4. Update your `load` function so that it returns an instance of `Visitor` instead of just `console.log`ging it. You'll need to learn a little bit about Syncronous versus Asyncronous code to get this one right :)
+4. Update your `load` function so that it returns an instance of `Visitor` instead of just `console.log`. You'll need to learn a little bit about Synchronous versus Asynchronous code to get this one right :)
 
 5. Make use of integer ids when saving things to files.
 
@@ -92,9 +92,9 @@ charlie.comments = "Winning!"
 charlie.save() # results in an UPDATE to visitor_3.json
 ```
 
-## Instructions for reviewer
+## Instructions for a reviewer
 
-- The load function should print/console.log the visitor data. Ensure that the visitor data is not returned instead. UNLESS, the learner has taken on the challenge laid out in the instructions section (instruction 4)
+- The load function should print/console.log the visitor data. Ensure that the visitor data is not returned instead. UNLESS the learner has taken on the challenge laid out in the instructions section (instruction 4)
 
 - Edge cases should be catered for. The learner should make sure that the load function takes in the proper data type.
 

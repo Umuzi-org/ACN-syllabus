@@ -16,9 +16,9 @@ tags:
 title: Python and MongoDB
 ---
 
-Create a docker composition which will run mongodb. You will be connecting to this container while developing. Be sure to commit your composition to your repo.
+Create a docker composition that will run mongodb. You will be connecting to this container while developing, be sure to commit your composition to your repo.
 
-Also: DO NOT hardcode your connection configuration into your Python code. Use environmental valiables. Eg: `MONGO_HOST = os.getenv("MONGO_HOST","localhost")`. Make sure you understand why this is a good idea.
+Also: DO NOT hardcode your connection configuration into your Python code. Use environmental variables. For example: `MONGO_HOST = os.getenv("MONGO_HOST","localhost")`. Make sure you understand why this is a good idea.
 
 ## Instructions
 
@@ -26,7 +26,7 @@ You are required to create a back-end service that will help capture basic infor
 
 ### database setup
 
-1. Create a database and name it UmuziProspects
+1. Create a database and name it UmuziProspects.
 2. Create a collection inside the database and name it Visiter.
 3. The collection must contain the following fields :
 
@@ -46,7 +46,7 @@ Create a single index script with the following functions:
 - `list_visitors` This should return an array of all the visitor names and ids
 - `delete_visitor`
 - `update_visitor`
-- `visitor_details`: given a visitor's id, return all information about that visitor
+- `visitor_details`: Given a visitor's id, return all information about that visitor.
 - `delete_all`
 
 ## NOTE

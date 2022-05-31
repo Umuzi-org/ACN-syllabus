@@ -44,4 +44,4 @@ Have fun :)
 
 ## Acceptance criteria
 
-The usual. TDD is a must
+The usual, TDD is a must.

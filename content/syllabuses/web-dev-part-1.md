@@ -19,9 +19,8 @@ _db_id: 3
 - {{% contentlink path="topics/free-code-camp/responsive-web-design/1-basic-html-and-html-5" %}}
 - {{% contentlink path="topics/free-code-camp/responsive-web-design/2-basic-css" %}}
 - {{% contentlink path="topics/free-code-camp/responsive-web-design/3-applied-visual-design" %}}
-- {{% contentlink path="workshops/intro-to-css-architecture" %}}
 - {{% contentlink path="topics/intro-to-css-architecture" %}}
-- {{% contentlink path="projects/first-personal-website" %}}
+- {{% contentlink path="projects/web-development-website" %}}
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/7-object-orientated-programming" %}}
 - {{% contentlink path="topics/jasmine-unit-tests" %}}
 - {{% contentlink path="projects/oop/animals/part2"  flavour="javascript" %}}
