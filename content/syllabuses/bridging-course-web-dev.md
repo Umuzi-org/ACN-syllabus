@@ -32,6 +32,7 @@ title: Web dev bridging course
 - {{% contentlink path="soft-skills/learning-how-to-learn" %}}
 - {{% contentlink path="soft-skills/how-to-master-fundamentals" %}}
 - {{% contentlink path="topics/clean-code/java-script" %}}
+- {{% contentlink path="topics/file-and-directory-naming/javascript" %}}
 - {{% contentlink path="projects/katas/level-0" flavour="javascript" %}}
 - {{% contentlink path="language-agnostic/intro-to-hackerrank" flavour="javascript" %}}
 - {{% contentlink path="projects/katas/level-1" flavour="javascript" %}}
@@ -40,4 +41,3 @@ title: Web dev bridging course
 - {{% contentlink path="specific-skill-success-criteria/for-loops" flavour="javascript" %}}
 - {{% contentlink path="projects/oop/animals/part1"  flavour="javascript" %}}
 - {{% contentlink path="specific-skill-success-criteria/classes-and-objects" flavour="javascript" %}}
-- {{% contentlink path="topics/file-and-directory-naming/javascript" %}}
