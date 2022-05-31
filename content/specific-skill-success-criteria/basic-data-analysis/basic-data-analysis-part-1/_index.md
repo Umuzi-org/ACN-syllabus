@@ -64,3 +64,7 @@ The learner should know:
 - What does it mean if the correlation coefficient is 0?
 
 Show the learner some scatter plots and ask them to tell you about the correlation of the various plots.
+
+## Resources
+
+[Unit 1: Introduction to Statistics](https://www.umuzi.org/statistics-online-learning) on [KhanAcademy](https://www.khanacademy.org)

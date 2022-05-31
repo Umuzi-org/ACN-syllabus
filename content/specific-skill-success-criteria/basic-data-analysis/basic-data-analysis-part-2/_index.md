@@ -40,5 +40,9 @@ Know what the empirical rule is and be able to answer simple problems using it.
 
 Suppose we want to test the hypothesis that more than 30% of households have internet access (with a significance level of 5%). We collect a sample of 150 households and find that 57 have access.
 
-You should be able to set up the hypothesis test. 
+You should be able to set up the hypothesis test.
 Calculate the p-value under which we reject the null at the appropriate significance level.
+
+## Resources
+
+[Unit 2: Intermediate Statistics](https://www.umuzi.org/statistics-online-learning) on [KhanAcademy](https://www.khanacademy.org)
