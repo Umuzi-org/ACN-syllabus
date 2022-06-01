@@ -60,8 +60,8 @@ Here are examples of badly named directories
 
 The following resources should help you get a good idea about general naming conventions in JavaScript:
 
-<https://google.github.io/styleguide/jsguide.html#file-name>
+- <https://google.github.io/styleguide/jsguide.html#file-name>
 
-<https://javascript.plainenglish.io/javascript-naming-convention-best-practices-b2065694b7d>
+- <https://javascript.plainenglish.io/javascript-naming-convention-best-practices-b2065694b7d>
 
-<https://www.fool.com/the-blueprint/file-naming-conventions/>
+- <https://www.fool.com/the-blueprint/file-naming-conventions/>
