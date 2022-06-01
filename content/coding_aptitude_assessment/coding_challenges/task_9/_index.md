@@ -10,6 +10,7 @@ prerequisites:
 ready: true
 submission_type: repo
 title: 'Coding aptitude assessment challenge: Task 9'
+protect_main_branch: false
 ---
 
 Write a function that takes in a string and then returns all the vowels in the string as a list or array.

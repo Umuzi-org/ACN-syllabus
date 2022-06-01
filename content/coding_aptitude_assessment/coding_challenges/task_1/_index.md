@@ -10,6 +10,8 @@ prerequisites:
 ready: true
 submission_type: repo
 title: 'Coding aptitude assessment challenge: Task 1'
+protect_main_branch: false
+
 ---
 
 Write a function that simply prints the string "Hello World!".

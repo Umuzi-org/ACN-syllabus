@@ -11,11 +11,19 @@ For the next couple of weeks you are expected to behave like this is your full-t
 
 It's going to be hard work!
 
+## Read things properly
+
+You will be expected to read and understand a lot of different things to get through this bootcamp.
+
+Be a professional. Do your reading.
+
+This takes a bit of self-discipline and focus.
+
+**We are looking for self-disciplined people who can focus.**
+
 ## We don't expect you to finish everything, but try to stretch yourself!
 
-We've given you a lot of stuff to get through. For most of you it will be WAY too much. Just do your best and focus on understanding. If you don't finish all the exercises it's alright. Just take them one at a time and do your best.
-
-Please try to do the projects in order from top to bottom. We need you to show us some very specific skills. If you get into the program then you'll have more flexibility about the order in which you  do things. But for now, please, start from the top.
+We've given you a lot of stuff to get through. For most of you it will be WAY too much. Just do your best and **focus on understanding**. If you don't finish all the exercises it's alright. Just take them one at a time and do your best.
 
 ## Focus on understanding!
 
@@ -25,7 +33,7 @@ This isn't like high-school, memorizing stuff and getting hints isn't the way to
 
 ## Keep an eye on your inbox
 
-If you are a coder: You're going to be invited to collaborate on a bunch of Github repos as time goes by. It is CRITICAL that you accept those invites. Otherwise you wont be able to do the required work.
+If you are a coder: You're going to be invited to collaborate on a bunch of code repositories as time goes by. It is CRITICAL that you accept those invites. Otherwise you wont be able to do the required work.
 
 ### Communication
 
@@ -72,7 +80,7 @@ If you get into our program you'll be expected to seek out help when you need it
 
 If you get stuck: Don't suffer in silence. Ask the other bootcampers or our staff. Be a team player.
 
-If you help someone, don't just give them code to use, don't do each other's homework. They need to understand how to solve the problems themselves for real. If we catch people copying each other or encouraging copying then those people will be rejected from our program.
+If you help someone, don't just give them code to use, don't do each other's homework. They need to understand how to solve the problems themselves for real. If we catch people copying each other or encouraging copying then **those people will be rejected from our program**.
 
 If you ask someone for help, don't just ask them for answers. You need to understand how to solve the problems yourself.
 
@@ -89,8 +97,6 @@ If you don't make a plan to show up for your interviews and tests then we won't 
 If you suck up to staff members or try to bribe your way in, you're out.
 
 ## Don't be a spammer
-
-**CODERS:** Don't add random people as reviewers on your pull requests, that is called spam. Everyone you add to your PR gets an email. Don't just randomly add everyone because that's just annoying.
 
 **Everyone** Respect people's time. There was one bootcamper who somehow got the CTO's personal phone number and thought it was okay to send midnight messages asking for help with code. That kind of thing is inappropriate. You need to respect the boundaries of staff members and of your peers.
 

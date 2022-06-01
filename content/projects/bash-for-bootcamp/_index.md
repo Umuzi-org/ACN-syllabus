@@ -26,12 +26,9 @@ Now you'll need to learn a few basic commands to get by:
 http://korflab.ucdavis.edu/bootcamp.html
 
 Make sure you understand everything up to step 14. NB: Completing and understanding up to step 14 is essential for the successful completion of this project.
-
-Later on, if you get into Umuzi, you'll be expected to know all that stuff. But for the Bootcamp, just the basics are ok.
-
 #### Submission Instructions
 
-In this project, you will be submitting a link to a google document. 
+In this project, you will be submitting a link to a google document.
 
 Please copy and paste the questions below including the question number and the full question into your google doc and answer the question on a new line below, use additional new lines and spacing to make the submission easy to read and assess.
 

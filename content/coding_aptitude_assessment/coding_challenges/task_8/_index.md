@@ -10,6 +10,7 @@ prerequisites:
 ready: true
 submission_type: repo
 title: 'Coding aptitude assessment challenge: Task 8'
+protect_main_branch: false
 ---
 
 Make a function to convert any number into hours and minutes. It should return a string showing the numbers of hours and minutes.

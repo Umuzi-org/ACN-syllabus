@@ -10,6 +10,7 @@ prerequisites:
 ready: true
 submission_type: repo
 title: 'Coding aptitude assessment challenge: Task 6'
+protect_main_branch: false
 ---
 
 Write a function that can take in any number of numbers. It should return the maximum number.
