@@ -31,9 +31,9 @@ When you complete a piece of work then please make sure you understand what you 
 
 This isn't like high-school, memorizing stuff and getting hints isn't the way to go, understanding is golden.
 
-## Keep an eye on your inbox
+## Keep an eye on your email inbox
 
-If you are a coder: You're going to be invited to collaborate on a bunch of code repositories as time goes by. It is CRITICAL that you accept those invites. Otherwise you wont be able to do the required work.
+If you are a coder: You're going to be invited to collaborate on a bunch of code repositories as time goes by (we use a platform called Github). It is CRITICAL that you accept those invites. Otherwise you wont be able to do the required work.
 
 ### Communication
 

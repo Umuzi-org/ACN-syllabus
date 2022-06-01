@@ -24,7 +24,7 @@ The files should be in the root directory of your repo. You should not have any 
 
 Each task will require that you write a single function. Please name the functions according to the same convention as the files.
 
-Task 1's function should be named `task1`, and task 2's function should be named `task2`, etc.
+Task 1's function should be named `task1` (so you will start off by writing `def task1(`), and task 2's function should be named `task2`, etc.
 
 ## Javascript
 

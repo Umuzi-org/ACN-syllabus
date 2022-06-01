@@ -49,3 +49,19 @@ Whenever you attach a link to a card, you need to make sure that whoever is revi
 The other common problem is people deleting their work. Once we have reviewed your work it is super duper important that you don't change the privacy settings or delete it. We do interact with external assessors (that is why we are accredited!) so if we say a student is competent in something and we can't prove it then that's bad. In these cases we would expect you to redo the work.
 
 **Seriously, don't delete stuff that you have submitted!**
+
+
+## REALLY IMPORTANT
+
+If you do a project and you think you did it well, then you get to ask for a review. When you ask for a review then the project card will move to the "Review" column. We'll practice this in a little bit :)
+
+Once you put the card into the review column, someone (or something 🤖) will mark your work. Now one of two things can happen:
+
+If you did the work well, then it will get moved to the "Complete" column.
+
+If the project is not up to our standards (yet) then it will get moved to the "Review Feedback" column. IF this happens:
+- open up the card details page and read the feedback
+- update your project so it's right
+- ask for another review
+
+You can ask for as many reviews as you need

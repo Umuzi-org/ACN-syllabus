@@ -110,7 +110,7 @@ This does all depend on the size and shape of your contract, sometimes the corpo
 
 Once your time with us is up you should be ready for work. As long as you put in the effort during our course and behave professionally then you'll be good to go.
 
-We have a team of learnerment ninjas and a large network of employer partners. We're pretty good at placing people in jobs.
+We have a team of recruitment ninjas and a large network of employer partners. We're pretty good at placing people in jobs.
 
 We'll work hard to get you placed in a job, and if your job doesn't last for whatever reason then you can get in touch with us and we'll work hard to hook you up again.
 
@@ -120,7 +120,7 @@ Of course you need to be a "work ready" professional for us to do this.
 
 Once you have gone through our program you are one of the family and we'll continue supporting your career. You will have ongoing access to our services and syllabus.
 
-As mentioned, if you are ever in need of a job you can let us know and we'll work hard to get you sorted out. Our learnerment ninjas are always happy to assist, and our network of employer organizations keeps growing.
+As mentioned, if you are ever in need of a job you can let us know and we'll work hard to get you sorted out. Our recruitment ninjas are always happy to assist, and our network of employer organizations keeps growing.
 
 On top of that, we will support your continued learning by keeping our platform and syllabus open to you. You'll be able to register for other courses that we run, some of those courses will be advanced specializations. When you complete these courses we'll be able to give you our stamp of approval.
 

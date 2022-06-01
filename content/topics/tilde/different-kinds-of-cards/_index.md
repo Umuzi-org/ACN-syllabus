@@ -38,7 +38,7 @@ Projects come in two different forms: **Link** projects and **Repo** projects. T
 
 If you are writing code, you'll be working a lot with repo projects. If you are a non-tech person (for example, if you are focusing on UX, business strategy, or something low-code) then you won't need to worry about repo projects.
 
-Please take note that there is a "details" button on project cards that have some progress. As projects move forward through the board, they can be associated with all sorts of extra info. You will be able to view that information by clicking on "Details".
+Please take note that there is a "details" button on project cards, this links to a page where you can see information about your project submission and any feedback you've been given. As projects move forward through the board, they can be associated with all sorts of extra info. You will be able to view that information by clicking on "Details".
 
 If there are no details to be displayed, there won't be a details button. The button will be displayed when it becomes useful.
 
@@ -55,3 +55,18 @@ We do have some restrictions in place:
 1. You can't start a card that is too low down in the list because collaboration is hard if everyone is doing completely different things.
 2. You can't have too many things in progress at the same time. Because multitasking is a lie. Seriously, it's just inefficient. Your priority should be to finish stuff.
 3. You can't start a card whose prerequisites have not been met. You'll see that some cards are greyed out and you can't start working on them. If you want to work on these cards you need to unblock them by Completing all their prerequisites.
+
+## REALLY IMPORTANT
+
+If you do a project and you think you did it well, then you get to ask for a review. When you ask for a review then the project card will move to the "Review" column. We'll practice this in a little bit :)
+
+Once you put the card into the review column, someone (or something 🤖) will mark your work. Now one of two things can happen:
+
+If you did the work well, then it will get moved to the "Complete" column.
+
+If the project is not up to our standards (yet) then it will get moved to the "Review Feedback" column. IF this happens:
+- open up the card details page and read the feedback
+- update your project so it's right
+- ask for another review
+
+You can ask for as many reviews as you need
