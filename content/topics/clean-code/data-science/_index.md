@@ -19,4 +19,4 @@ Also see these [code quality best practices](https://github.com/Umuzi-org/code-q
 ## The Data Science Workflow
 
 For Data Science workflow best practices, please familiarise yourself with the [cookiecutter data science project](https://drivendata.github.io/cookiecutter-data-science/#why-use-this-project-structure)
-and read this description of how to organise your projects using atom and Jupyter on [Medium](https://medium.com/@rrfd/cookiecutter-data-science-organize-your-projects-atom-and-jupyter-2be7862f487e)
+and read this description of how to organise your projects using atom and Jupyter on [laptrinhx](https://laptrinhx.com/cookiecutter-data-science-organize-your-projects-atom-and-jupyter-1729118267/)
