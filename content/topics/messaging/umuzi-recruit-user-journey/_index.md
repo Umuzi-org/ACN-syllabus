@@ -35,7 +35,7 @@ We make decisions about who is in and who is out in our bootcamp.
 
 We've found that our learners do best when they are able to:
 
-- **hold themselves accountable** if we bring people onto the program who aren't willing to do their homework without being pulled into disciplinary hearings then that's a giant waste of time. We are looking for adults who we can trust to get things done.
+- **hold themselves accountable** if we bring people onto the programme who aren't willing to do their homework without being pulled into disciplinary hearings then that's a giant waste of time. We are looking for adults who we can trust to get things done.
 - **pursue understanding** those people who copy random bits of code off the Internet don't go far in life
 
 The bootcamp is run using our own custom built learning platform. There will be a bit of a learning curve and you'll probably get confused, but there will be staff on hand to help you out if you get stuck. Please make sure you ask questions when you get stuck!
@@ -60,7 +60,7 @@ Here at Umuzi, we require professional behavior.
 
 ### 3. Provisional Acceptance
 
-Once bootcamp is finished, Umuzi staff members (and our trusty robots) will make a final selection of who we want to accept into our program, this selection goes into a pool of provisionally accepted learners as there may still be a number of things outstanding, the most important items are listed below:
+Once bootcamp is finished, Umuzi staff members (and our trusty robots) will make a final selection of who we want to accept into our programme, this selection goes into a pool of provisionally accepted learners as there may still be a number of things outstanding, the most important items are listed below:
 
  - Employer partner allocation - we need to allocate people to their sponsor. Occasionally we have more awesome provisionally accepted learners than we have sponsors meaning some of them may be deferred to a future intake. We will endeavour to get them into an intake as soon as possible, but in the meantime they should continue up skilling an being awesome.
  - MIE checks - Many of our employer partners are financial institutions thus we need to do criminal and background checks on each provisionally accepted learner.
@@ -68,14 +68,14 @@ Once bootcamp is finished, Umuzi staff members (and our trusty robots) will make
 
 ### 4. Contract signing
 
-Once all the criteria have been met we can official accept those that made it into our program. Those people will be offered contracts with us and will be referred to as "learners". Here are a few details:
+Once all the criteria have been met we can official accept those that made it into our programme. Those people will be offered contracts with us and will be referred to as "learners". Here are a few details:
 
 - you will technically be an employee, your job will be to grow your skills. You will be expected to follow staff members instructions and to behave professionally
 - You will get paid during your learnership. Umuzi is committed to pay you every month while you are with us. Yes, that's right! We'll pay YOU to study with us. Usually people pay good money to have access to this kind of high quality education.
 
 Once you've signed your contract, you'll be an Umuzi learner.
 
-There are different kinds of learners on different programs with different requirements. So what happens next is different for different people.
+There are different kinds of learners on different programmes with different requirements. So what happens next is different for different people.
 
 ### 5. Level-up your foundational skills
 
@@ -116,9 +116,9 @@ We'll work hard to get you placed in a job, and if your job doesn't last for wha
 
 Of course you need to be a "work ready" professional for us to do this.
 
-### 9. Alumni Program
+### 9. Alumni programme
 
-Once you have gone through our program you are one of the family and we'll continue supporting your career. You will have ongoing access to our services and syllabus.
+Once you have gone through our programme you are one of the family and we'll continue supporting your career. You will have ongoing access to our services and syllabus.
 
 As mentioned, if you are ever in need of a job you can let us know and we'll work hard to get you sorted out. Our recruitment ninjas are always happy to assist, and our network of employer organizations keeps growing.
 
