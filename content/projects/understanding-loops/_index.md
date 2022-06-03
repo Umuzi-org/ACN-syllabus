@@ -79,11 +79,10 @@ getCustomerBaskets("sine@umuzi.org", cart); // DON'T DO THIS EITHER
 
 function getCustomerBaskets({ cart, email }) {...}
 
-const { email } = "sine@umuzi.org";
-const { cart } = someJsonData
+const email = "sine@umuzi.org";
+const cart = someJsonArray
 
-getCustomerBaskets(cart, email) //DO THIS
-getCustomerBaskets(email, cart) //DO THIS
+getCustomerBaskets({cart, email}) //DO THIS
 ``` 
 
 ### get baskets belonging to a single customer
