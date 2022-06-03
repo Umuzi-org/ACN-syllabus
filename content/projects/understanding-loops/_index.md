@@ -20,13 +20,9 @@ title: Shopping cart calculations
 Your directory structure should look like this.
  
 ```
-   >node_modules    <---- make sure this is in your .gitignore
-   >spec
-       > support
-           - jasmine.json
-       - shopping_cart_spec.js
-   >src
+   > src
        - shopping_cart.js
+       - data.json
    - package.json
 ```
 
