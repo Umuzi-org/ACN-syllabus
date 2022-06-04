@@ -20,6 +20,6 @@ Do this without using any built-in methods. Write your own logic from scratch.
 The function should expect a 3 numbers, not an array or list.
 
 ```
-task5([1,2,3])  // BAD
-task5(1,2,3)  // GOOD
+task5([1,2,3])  // BAD - this function accepts an array/list which is wrong
+task5(1,2,3)  // GOOD - this accepts three numbers just like we need it to.
 ```

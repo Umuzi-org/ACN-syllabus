@@ -1,4 +1,5 @@
 ---
+_db_id: 81
 title: Web development boot camp (with automarked katas)
 ---
 
@@ -27,5 +28,3 @@ Things after this point are not strictly part of the bootcamp. It's extra stuff 
 - {{% contentlink path="projects/simple-website" %}}
 - {{% contentlink path="projects/morse-code" flavour="javascript" %}}
 - {{% contentlink path="projects/tdd/password-checker/part2" flavour="javascript" %}}
-
-

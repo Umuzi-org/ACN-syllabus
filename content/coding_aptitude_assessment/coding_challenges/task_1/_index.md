@@ -7,11 +7,10 @@ prerequisites:
   hard:
   - coding_aptitude_assessment/coding_challenges/introduction
   - coding_aptitude_assessment/coding_challenges/how_to_name_files
+protect_main_branch: false
 ready: true
 submission_type: repo
 title: 'Coding aptitude assessment challenge: Task 1'
-protect_main_branch: false
-
 ---
 
 Write a function that simply prints the string "Hello World!".
@@ -37,3 +36,16 @@ print "dont do this"  # if you are writing print statements like this
                       # then you are using the wrong version of Python. Please
                       # make sure you have Python 3 installed.
 ```
+
+
+## Have some videos :)
+
+Since this is your first code project we'll walk you through the process of getting to complete.  You'll need to do the future projects on your own though :)
+
+### Part 1: Submitting your code
+
+{{% youtube  CEjqVnz4W4I %}}
+
+### Part 2: Addressing review feedback
+
+{{% youtube OTb8VoZHvpM %}}

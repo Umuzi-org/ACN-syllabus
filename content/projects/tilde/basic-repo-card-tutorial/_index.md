@@ -1,4 +1,5 @@
 ---
+_db_id: 778
 content_type: project
 flavours:
 - none
@@ -6,10 +7,10 @@ prerequisites:
   hard:
   - topics/github/helloworld
   - environment-setup
+protect_main_branch: false
 ready: true
 submission_type: repo
 title: 'Tilde project tutorial: Simple repository projects'
-protect_main_branch: false
 ---
 
 There are a few kinds of projects you can do and they can be submitted in different ways. In this tutorial, you'll see how to get a repository project to complete.
@@ -70,3 +71,7 @@ Now go to your Tilde board and click on the "Request Review" button on the proje
 
 By putting your card in the "review" column you are basically saying that you believe that the main branch of your repo meets all the project requirements and is ready for a competence review.
 
+
+## In case you are unsure, here's a lil video tutorial to help you out :)
+
+{{% youtube prdcVgsKd0g %}}

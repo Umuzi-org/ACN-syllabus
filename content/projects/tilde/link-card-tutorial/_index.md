@@ -65,3 +65,9 @@ If the project is not up to our standards (yet) then it will get moved to the "R
 - ask for another review
 
 You can ask for as many reviews as you need
+
+
+## In case you are unsure, here's a lil video tutorial to help you out :)
+
+{{% youtube zRPePsfmQBs %}}
+

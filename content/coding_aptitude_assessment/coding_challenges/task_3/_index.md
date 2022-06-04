@@ -7,10 +7,10 @@ prerequisites:
   hard:
   - coding_aptitude_assessment/coding_challenges/introduction
   - coding_aptitude_assessment/coding_challenges/how_to_name_files
+protect_main_branch: false
 ready: true
 submission_type: repo
 title: 'Coding aptitude assessment challenge: Task 3'
-protect_main_branch: false
 ---
 
 Write a function that takes in a single number. It should return the string `even` if the number is even, and `odd` if the number is odd.

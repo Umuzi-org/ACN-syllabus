@@ -3,12 +3,12 @@ _db_id: 429
 content_type: project
 flavours:
 - markdown
+protect_main_branch: false
 ready: true
 submission_type: repo
 tags:
 - writing-assignment
 title: Writing Assignment
-protect_main_branch: false
 ---
 
 ## We would like to get to know you better
