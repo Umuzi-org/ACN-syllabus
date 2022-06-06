@@ -86,8 +86,7 @@ Your directory structure should look like this:
 
 1. Add tests to your project.
 2. The `Dog` and `Cat` class methods should still remain as per part 1 of the project.
-3. Make sure the `makeAllSounds()`/`make_all_sounds()` method still works properly.
-that you can't adopt the same pet twice.
+3. Include tests for your Home class. Make sure its methods return the correct values and that you can't adopt the same pet twice.
 5. Also add tests for your Home class. Make sure that it makes all the right noises and that you can't adopt the same pet twice.
 
 ### For Java
