@@ -7,6 +7,7 @@ prerequisites:
   hard:
   - coding_aptitude_assessment/coding_challenges/introduction
   - coding_aptitude_assessment/coding_challenges/how_to_name_files
+protect_main_branch: false
 ready: true
 submission_type: repo
 title: 'Coding aptitude assessment challenge: Task 10'
@@ -22,8 +23,8 @@ The printed letters should:
 
 Example usage:
 
-`task10("House","computers")` should print `e, o, s and u`
-`task10("Hi","there")` should print `h`
-`task_10("Foo","bar")` should print `no common letters`
+- `task10("House","computers")` should print `e, o, s and u` exactly. If it prints `eosu` then that would be incorrect.
+- `task10("Hi","there")` should print `h`
+- `task_10("Foo","bar")` should print `no common letters`
 
 There should only be one call to `print` or `console.log` in your whole function.
