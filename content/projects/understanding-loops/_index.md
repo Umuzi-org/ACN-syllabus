@@ -22,6 +22,7 @@ Your directory structure should look like this.
 ```
    > src
        - shopping_cart.js
+       - data.json
 ```
 
 A lot of new programmers don't know why understanding is important. They think they can just copy code from people and that's enough to get by. BUT as soon as you get your first job you'll need to solve some serious problems on your own.
