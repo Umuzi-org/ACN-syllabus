@@ -79,9 +79,6 @@ getCustomerBaskets("sine@umuzi.org", cart); // DON'T DO THIS EITHER
 
 function getCustomerBaskets({ cart, email }) {...}
 
-const email = "sine@umuzi.org";
-const cart = someJsonArray
-
 getCustomerBaskets({cart, email}) //DO THIS
 ``` 
 
