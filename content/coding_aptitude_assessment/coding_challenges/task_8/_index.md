@@ -7,6 +7,7 @@ prerequisites:
   hard:
   - coding_aptitude_assessment/coding_challenges/introduction
   - coding_aptitude_assessment/coding_challenges/how_to_name_files
+protect_main_branch: false
 ready: true
 submission_type: repo
 title: 'Coding aptitude assessment challenge: Task 8'

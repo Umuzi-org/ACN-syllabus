@@ -3,6 +3,7 @@ _db_id: 429
 content_type: project
 flavours:
 - markdown
+protect_main_branch: false
 ready: true
 submission_type: repo
 tags:
@@ -18,7 +19,7 @@ We also want you to know yourself better. A lot of people don't really sit down 
 
 ### The questions
 
-Please create a separate file for each of these. Please use the question number as a part of each file name.
+Please create a separate file for each question. Please use the question number as a part of each file name.
 
 Remember to pay attention to your sentence structure, spelling and grammar. If you need a little help with your grammar, [Grammarly](https://app.grammarly.com/) is a really useful service. Being able to communicate clearly and professionally in text is a super power.
 
