@@ -32,6 +32,10 @@ add("//;\n1000;1;2")
 
 ### 2. Modify the add function so that it can support delimiters of any length
 
+Delimiters will be specified in the following manner:
+
+- **"//[delimiter]\n[numbers…]"**, the default delimiter will be in the beginning of the string just before a newline character ("\n").
+
 As long as the string passed in satisfies this format, "//[delimiter]\n[integers...]", which was explained above. The add function should be able to handle it.
 For example:
 
