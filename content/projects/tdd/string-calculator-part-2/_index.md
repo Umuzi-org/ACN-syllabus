@@ -1,18 +1,18 @@
 ---
-_db_id: 266
 content_type: project
 flavours:
-- any_language
+- python
 prerequisites:
   hard:
-  - projects/tdd/simple-calculator-part1
+  - projects/tdd/string-calculator-part-1
   soft: []
 ready: true
-submission_type: repo
+from_repo: projects/tdd/string-calculator-part-1
+submission_type: continue_repo
 tags:
 - tdd
 - regular-expressions
-title: string-calculator
+title: string-calculator part 2
 ---
 
 ## Set up your environment
@@ -63,7 +63,7 @@ Please use junit to test your code https://www.guru99.com/junit-test-framework.h
     └── test
         └── java
            └── StringCalculatorTest
- 
+
 ```
 
 ## Instructions

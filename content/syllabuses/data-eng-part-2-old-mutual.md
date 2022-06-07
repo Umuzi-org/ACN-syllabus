@@ -7,7 +7,7 @@ title: Data Engineering - part 2 (Old Mutual)
 - {{% contentlink path="topics/data-ethics-and-privacy" %}}
 - {{% contentlink path="projects/tdd/password-checker/part2" flavour="python" %}}
 - {{% contentlink path="docker/intro-to-docker/" %}}
-- {{% contentlink path="projects/tdd/string-calculator" flavour="python" %}}
+- {{% contentlink path="projects/tdd/string-calculator-part-1" flavour="python" %}}
 - {{% contentlink path="topics/python-specific/exception-handling" %}}
 - {{% contentlink path="topics/python-specific/decorators-intro" %}}
 - {{% contentlink path="projects/basic-unit-test-mocks-kata" flavour="python" %}}
