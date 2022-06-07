@@ -137,6 +137,17 @@ This function should count the number of conditions met and then return a string
 
 Please don't re-implement the same check in two different places. Good code is DRY. Every piece of knowledge should be represented once in your code.
 
+### DRY for JS
+
+A good way to practice DRY code in this project is to create an object(s) that stores your password validators and then export them throughout your code - where they will be useful.
+
+```
+module.exports.passwordValidators = {
+  "error string": "regex that validates input that results in the error string",
+  ...etc.
+}
+```
+
 ## JS Resources
 
 - [JS Errors](https://www.w3schools.com/js/js_errors.asp)
