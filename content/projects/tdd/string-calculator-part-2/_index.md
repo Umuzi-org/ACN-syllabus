@@ -30,21 +30,7 @@ add("//;\n1000;1;2")
 // should return 3
 ```
 
-### 2. Modify the add function so that it can support delimiters of any length
-
-Delimiters will be specified in the following manner:
-
-- **"//[delimiter]\n[numbers…]"**, the default delimiter will be in the beginning of the string just before a newline character ("\n").
-
-As long as the string passed in satisfies this format, "//[delimiter]\n[integers...]", which was explained above. The add function should be able to handle it.
-For example:
-
-```
-add("//***\n1***2***3")
-// should return 6
-```
-
-### 3. Modify the add function so that it can support different delimiters of any length
+### 2. Modify the add function so that it can support different delimiters of any length
 
 As long as the string passed into the add function follows this format, "//[delim1][delim2]\n[integers...]", the add function should be able to handle it:
 
@@ -65,7 +51,7 @@ add("//[abc][777][:(]\n1abc27773:(1")
 
 ```
 
-### 4. Modify the add function so that it can handle invalid input
+### 3. Modify the add function so that it can handle invalid input
 
 If the string passed in is invalid, your code should be able to detect this and throw an error.
 
