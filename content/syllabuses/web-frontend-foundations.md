@@ -3,7 +3,7 @@ _db_id: 36
 title: Web frontend foundations
 ---
 
-- {{% contentlink path="topics/bootcamp/bash-for-bootcamp" %}}
+- {{% contentlink path="projects/bash-for-bootcamp" %}}
 - {{% contentlink path="projects/git-exercises" %}}
 - {{% contentlink path="topics/bootcamp/git-for-bootcamp" %}}
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/1-basic-javascript" %}}
@@ -14,7 +14,7 @@ title: Web frontend foundations
 - {{% contentlink path="topics/big-picture-web-dev" %}}
 - {{% contentlink path="topics/js-and-node-specific/super-basic-intro-to-node" %}}
 - {{% contentlink path="topics/web-frontend/intro-to-web-design/" %}}
-- {{% contentlink path="projects/first-personal-website" %}}
+- {{% contentlink path="projects/web-development-website" %}}
 - {{% contentlink path="topics/free-code-camp/responsive-web-design/3-applied-visual-design" %}}
 - {{% contentlink path="workshops/general-coding-best-practices" %}}
 - {{% contentlink path="topics/jasmine-unit-tests" %}}

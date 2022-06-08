@@ -31,19 +31,19 @@ Familiarize yourself with the git api found here https://developer.github.com/v3
 
 **Step 2**
 
-Now we are going to consume the api in our spring boot application using restTemplates as per topic work. I would like to se
+Now we are going to consume the api in our spring boot application using restTemplates as per topic work. I would like to see
 
 1. I would like you to specifically return the v3 version of the api **(Hint: Read more on how to set headers in RestTemplate)**
 2. A list of all your repos - output on the console
 3. A list of commits in 1 repo of your choice - output on the console
 
-## SOAP WEB SERVICE
+## SOAP WEB SERVICES
 
 **Step 1**
 
 Clone the repo found here https://github.com/spring-guides/gs-producing-web-service and open the `complete` folder not the entire repo. Review it on a high level this will be the wsdl project we are going to use to learn how to consume a wsdl application. **DO NOT ADD THIS PROJECT AS PART OF YOUR SUBMISSION(this is so that you can generate the files)**
 
-Change the application to sun on port 9090 by adding this to the properties file
+Change the application to run on port 9090 by adding this to the properties file
 
 ```
 server.port=9090

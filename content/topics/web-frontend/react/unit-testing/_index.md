@@ -1,6 +1,7 @@
 ---
 _db_id: 513
 content_type: topic
+ready: true
 title: React Unit testing
 ---
 

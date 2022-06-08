@@ -19,7 +19,7 @@ title: password-checker
 
 ## Set up your environment
 
-### Javascript
+### JavaScript
 
 Please note that this is a unit testing project. Make sure you demonstrate a solid understanding of unit testing and test your code using the required framework.
 
@@ -31,7 +31,7 @@ Your directory structure should look like this.
         > support
             -jasmine.json
         - password_is_valid_spec.js
-        - password_is_ok_spec.js
+        - password_strength_spec.js
     >src
         - password_checker.js
     - package.json
@@ -39,20 +39,20 @@ Your directory structure should look like this.
 
 ### Python
 
-Your project is expected to be completed using pytest. You are expected to follow industry best practices in all things. This means that you need to have a directory structure that is in good shape. Please name your files and folders like this:
+Your project is expected to be completed using `pytest`. You are expected to follow industry best practices in all things. This means that you need to have a directory structure that is in good shape. Please name your files and folders like this:
 
 ```
 ├── password_checker   the package under test
 │   └── password_checker.py
-├── requirements.txt    installation requiremnts
+├── requirements.txt    installation requirements
 ├── setup.py            installation script for the package under test
 └── tests               all package tests go in this directory
     ├── test_password_is_valid.py
-    └── test_password_is_ok.py
+    └── test_password_strength.py
 ```
 
 Please take a look at this topic to see an explanation of the required directory structure.
-{{%contentlink "topics/python-specific/automated-testing-with-pytest" %}}
+{{% contentlink path="topics/python-specific/automated-testing-with-pytest" %}}
 
 ### Java
 
@@ -83,7 +83,7 @@ Please refer to the following to find out more: {{% contentlink path="topics/jav
 Implement the following function by following a TDD methodology:
 
 ```
-// Javascript:
+// JavaScript:
 passwordIsValid(password)
 ```
 
@@ -97,22 +97,22 @@ passwordIsValid(password)
 password_is_valid(password)
 ```
 
-`password_is_valid` will check if the password meets a few different conditions. If one of the below conditions is not met then the relevant error/exception should be thrown/raised. Your error/exception message should match one of the following conditions exactly (word-for-word).
+`password_is_valid` will check if the password meets a few different conditions. If one of the below conditions is not met, then the relevant error/exception should be thrown/raised. Python should raise a specific error type. [This resource](https://www.tutorialsteacher.com/python/error-types-in-python) shows the types of errors that we get in Python, and selects the appropriate one for this application. Your error/exception message should match one of the following conditions exactly (word-for-word).
 
 1. password should exist
-2. password should be longer than than 8 characters
+2. password should be longer than 8 characters
 3. password should have at least one lowercase letter
 4. password should have at least one uppercase letter
-5. password should have at least have one digit
+5. password should have at least one digit
 6. password should have at least one special character
 7. password should have at least one whitespace character
 
-In the case of (6) above, a special character is a character that is on the keyboard but is not a number or letter. Eg `{ % & * " '` etc
+In the case of (6) above, a special character is a character that is on the keyboard but is not a number or letter. Eg: `{ % & * " '` etc.
 
 Next, implement a function called "password strength":
 
 ```
-// Javascript:
+// JavaScript:
 passwordStrength(password)
 ```
 
@@ -126,7 +126,7 @@ passwordStrength(password)
 password_strength(password)
 ```
 
-This function should count the number of conditions met and then return a string that describes the strength of the password. Valid strings are "invalid", "weak","medium" and "strong".
+This function should count the number of conditions met and then return a string that describes the strength of the password. Valid strings are "invalid", "weak", "medium" and "strong".
 
 - If number of conditions met >= 6: return "strong"
 - If number of conditions met >= 4: return "medium"
@@ -135,11 +135,16 @@ This function should count the number of conditions met and then return a string
 
 ## Note on DRY code
 
-Please don't re-implement the same check in two different places. Good code is DRY. Every piece of knowledge should be represented once in your code.
+Please don't re-implement the same check in two different places. Good code is DRY. Every piece of knowledge should only be represented once in your code.
 
-### DRY for JS
+## JS resources
 
-A good way to practice DRY code in this project is to create an object(s) that stores your password validators and then export them throughout your code - where they will be useful.
+- [JS Errors](https://www.w3schools.com/js/js_errors.asp)
+- [Errors and Jasmine](https://stackoverflow.com/questions/4144686/how-to-write-a-test-which-expects-an-error-to-be-thrown-in-jasmine)
+
+### DRY code for JS
+
+A good way to practice DRY in this project is to create an object(s) that stores your password validators and then use the object throughout your code.
 
 ```
 module.exports.passwordValidators = {
@@ -148,22 +153,16 @@ module.exports.passwordValidators = {
 }
 ```
 
-## JS Resources
-
-- [JS Errors](https://www.w3schools.com/js/js_errors.asp)
-- [Errors and Jasmine](https://stackoverflow.com/questions/4144686/how-to-write-a-test-which-expects-an-error-to-be-thrown-in-jasmine)
-
-## Python Resources
+## Python resources
 
 - [Python Errors](https://www.codementor.io/sheena/how-to-write-python-custom-exceptions-du107ufv9?referral=sheena-kvo1e6ewh)
 - [Exceptions and Pytest](https://stackoverflow.com/questions/23337471/how-to-properly-assert-that-an-exception-gets-raised-in-pytest)
 
-## Java Resources
+## Java resources
 
 - https://howtodoinjava.com/junit5/expected-exception-example/
 
 ## Instructions for reviewers
 
-- For passwordStrength function, if any one of these passwords is passed in `P@ssw 12` or `User1@` ensure Invalid is returned.
-
-- Ensure that the passwordIsValid function doesn't return or print any of the error messages above and that the throw or throw Error statements are used.
+- For password strength, make sure cases of invalid passwords are checked, for example these passwords are both invalid; `P@ssw 12`, `User1@`.  
+- Actual passwords should never be printed to the terminal, for example, in assert messages or when raising exceptions.

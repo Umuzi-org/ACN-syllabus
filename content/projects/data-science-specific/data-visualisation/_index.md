@@ -1,6 +1,7 @@
 ---
 _db_id: 246
 content_type: project
+ready: true
 submission_type: nosubmit
 title: Data Visualisation Projects
 ---

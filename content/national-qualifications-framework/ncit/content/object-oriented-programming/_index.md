@@ -63,11 +63,11 @@ These sound like very technical and difficult concepts, but as this video will s
 
 Watch this video: [OOP in 7 minutes](https://youtu.be/pTB0EiLXUC8)
 
-After you’ve learned the basic concepts of what Object-Oriented Programming is, there are countless things you can practice. First read through [this tutorial](https://scotch.io/tutorials/object-oriented-programming-in-javascript) to learn more about building objects from other objects. In other languages those “object templates” are called classes. That 2015 update to JavaScript (ES6) includes a [“class” keyword](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes). You may find it easiest to use the class keyword when you are building OOP programs. However, as you will discover, the same functionality can be coded in many different ways in JavaScript.
+After you’ve learned the basic concepts of what Object-Oriented Programming is, there are countless things you can practice. First read through [this tutorial](https://web.archive.org/web/20201025085037/https://scotch.io/tutorials/object-oriented-programming-in-javascript) to learn more about building objects from other objects. In other languages those “object templates” are called classes. That 2015 update to JavaScript (ES6) includes a [“class” keyword](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes). You may find it easiest to use the class keyword when you are building OOP programs. However, as you will discover, the same functionality can be coded in many different ways in JavaScript.
 
 Read this this tutorial before moving on and start to practice these concepts:
 
-https://scotch.io/tutorials/object-oriented-programming-in-javascript
+https://web.archive.org/web/20201025085037/https://scotch.io/tutorials/object-oriented-programming-in-javascript
 
 [Intro video covering similar concepts (optional)](https://youtu.be/rlLuL3jYLvA)
 
@@ -93,7 +93,7 @@ The derivation of one class from another so that the attributes and methods of o
 
 Derived classes are always ‘a kind of’ their base classes. Derived classes generally add to the attributes and/or behaviour of the base class. Inheritance is one form of object-oriented code reuse.
 
-E.g. Both Motorbikes and Cars are kinds of MotorVehicles and therefore share some common attributes and behaviour but may add their own that are unique to that particular type.
+For example, both Motorbikes and Cars are kinds of MotorVehicles and therefore share some common attributes and behaviour but may add their own, that are unique to that particular type.
 
 
 **Object**
@@ -102,9 +102,9 @@ An instance of a class. Objects have state, identity and behaviour.
 
 **Polymorphism**
 
-Literally, “many forms”. Generally, the ability of different classes of object to respond to the same message in different, class-specific ways. Polymorphic methods are those which might have the same name, but but different implementations. For example, a subclass (child class) might override a parent class's method and implement it in a different way.
+Literally, “many forms”. Generally, the ability of different classes of object to respond to the same message in different, class-specific ways. Polymorphic methods are those which might have the same name, but different implementations. For example, a subclass (child class) might override a parent class's method and implement it in a different way.
 
-*E.g. Both the Plane and Car types might be able to respond to a turnLeft message. While the behaviour is the same, the means of achieving it are specific to each type.*
+*For example, both the Plane and Car types might be able to respond to a turnLeft message. While the behaviour is the same, the means of achieving it are specific to each type.*
 
 ## 3. Abstract classes and wrappers
 
@@ -112,7 +112,7 @@ Literally, “many forms”. Generally, the ability of different classes of obje
 
 When you’re developing a program with many similar parts, it takes way too much time and effort to keep duplicating code for each class. Imagine how hard it would be to maintain a large project with thousands of classes! Besides, it violates the **DRY** principle of good programming: **Don’t Repeat Yourself!** There must be a better way.
 
-Thankfully, there are many design patterns that allow you to share code between classes. One of these is called an “abstract class”. (Unfortunately, JavaScript doesn’t have native support for the concept of “abstract classes”, but it is still possible to implement as you will see below.) In languages like C# and Java, you simply create a new class with the keyword “abstract” (e.g. “public abstract class Mammal”) and write in its body all the methods you would like your other classes to share in common. Since an abstract class is still a class, your “Cat” and “Dog” classes can inherit from it. This means that instead of writing a “sleep” method for each animal, you only need to write it in the “Mammal” class, and the other animals will be able to use it too.
+Thankfully, there are many design patterns that allow you to share code between classes. One of these is called an “abstract class”. (Unfortunately, JavaScript doesn’t have native support for the concept of “abstract classes”, but it is still possible to implement as you will see below.) In languages like C# and Java, you simply create a new class with the keyword “abstract” (for example, “public abstract class Mammal”) and write in its body, all the methods you would like your other classes to share in common. Since an abstract class is still a class, your “Cat” and “Dog” classes can inherit from it. This means that instead of writing a “sleep” method for each animal, you only need to write it in the “Mammal” class, and the other animals will be able to use it too.
 
 But if any class can have inheritance, why not just use a regular class? The answer is that abstract classes have two special features:
 
@@ -133,7 +133,7 @@ If you would like a class that cannot be constructed, but whose subclasses can, 
 class Abstract {
   constructor() {
     if (new.target === Abstract) {
-      throw new TypeError("Cannot construct Abstract instances directly"); 
+      throw new TypeError("Cannot construct Abstract instances directly");
     }
   }
 }
@@ -157,9 +157,9 @@ If you're specifically looking for requiring certain methods be implemented, you
 ```
 class Abstract {
   constructor() {
-    if (this.method === undefined) { 
+    if (this.method === undefined) {
       // or maybe test typeof this.method === "function"
-      throw new TypeError("Must override method"); 
+      throw new TypeError("Must override method");
     }
   }
 }
@@ -178,7 +178,7 @@ Abstract classes help you improve your code not only through what they can do, b
 
 **Wrapper classes** are a topic you won’t come across much in JavaScript. In other languages, like C# and Java, they have methods to turn primitive data types (int, float, string, etc) into objects. Wrapper classes are used to convert any data type into an object.
 
-A wrapper class wraps (encloses) around a data type and gives it an object appearance. Wherever, the data type is required as an object, this object can be used. Wrapper classes include methods to unwrap the object and give back the data type. It can be compared with a chocolate. The manufacturer wraps the chocolate with some foil or paper to prevent from pollution. The user takes the chocolate, removes and throws the wrapper and eats it.
+A wrapper class wraps (encloses) around a data type and gives it an object appearance. Wherever, the data type is required as an object, this object can be used. Wrapper classes include methods to unwrap the object and give back the data type. It can be compared with a chocolate. The manufacturer wraps the chocolate with some foil or paper to prevent from pollution. The user takes the chocolate, removes and throws away the wrapper then eats the chocolate.
 
 In JavaScript, nearly everything is an object, which means you can assign properties and methods to nearly everything. However if you try to assign a property to a String, you’ll get “undefined”. By reading the short article below, you can learn more about the quirks of JavaScript and how it wraps its primitive data types as objects temporarily.
 

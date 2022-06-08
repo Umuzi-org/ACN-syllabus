@@ -13,7 +13,7 @@ Knowing a bit about the terminal will help you a lot in your learning journey. I
 ## Why is it useful?
 
 1. It will speed you up. Interacting with your computer via the keyboard can be very quick compared to using the mouse.
-2. If you ever deploy your code to production (eg: host a website, or get a data-pipeline running on a cloud provider ), then chances are that you'll be using Linux. If you don't have physical access to a computer you can still control it using the command line! The internet runs on this stuff!
+2. If you ever deploy your code to production (eg: host a website, or get a data pipeline running on a cloud provider ), then chances are that you'll be using Linux. If you don't have physical access to a computer you can still control it using the command line! The internet runs on this stuff!
 
 ## What you need to know
 
@@ -33,7 +33,7 @@ This covers some of the same material as "Conquering the command line". If you u
 
 ## Next level Ninja stuff
 
-One of the really awesome things about Linux is that it can be customised!
+One of the awesome things about Linux is that it can be customised!
 
 If you want to be even faster and more awesome then there are a few extra tools you'll need. If you install this stuff now and just get used to using it then it will save you time and impress your friends ;)
 
@@ -51,7 +51,7 @@ This one might be challenging to those of you who are new to Linux. Feel free to
 
 Zsh is an alternative to bash and it just saves loads and loads of time! It also allows all sorts of theming and customisations.
 
-Use oh-my-zsh if you want to get the most out of it: https://github.com/ohmyzsh/ohmyzsh . This comes with a number of plugins.
+Use oh-my-zsh if you want to get the most out of it: https://github.com/ohmyzsh/ohmyzsh. This comes with several plugins.
 
 Here are some recommended plugins:
 
@@ -59,4 +59,4 @@ Here are some recommended plugins:
 plugins=(git docker docker-compose per-directory-history alias-tips)
 ```
 
-Most of these are included in oh-my-zsh but you have to install alias-tips separately.
+Most of these are included in oh-my-zsh but you have to install alias tips separately.

@@ -29,4 +29,4 @@ In testing this skill, samples of code will be shown to the students and they wi
 
 All code written during this course should be clean code.
 - if you write code for one of your projects: make it clean
-- if you review someone elses work: help them to make it clean
+- if you review someone else's work: help them to make it clean
