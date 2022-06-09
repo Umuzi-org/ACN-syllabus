@@ -5,13 +5,9 @@ ready: true
 title: Getting set up to write code on your device
 ---
 
-You'll need to be set up so that you can write and run code on your own device. There are a few options here. Please follow the appropriate link:
+You'll need to be set up so that you can write and run code on your own device. There are a few options here.
 
-## Before you do anything
-
-Make sure git is installed.
-
-{{% contentlink path="environment-setup/git" %}}
+Please follow the appropriate link:
 
 ## If you have a computer
 

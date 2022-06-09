@@ -13,11 +13,13 @@ We expect you to WRITE YOUR OWN CODE! If we catch you copy-pasting then we wont 
 
 Why?
 
-A real coder aims to understand stuff. If you want to be a professional coder and all you know how to do is copy-paste other people's hard work, you won't make it as a professional.
+A real coder aims to understand stuff. If you want to be a professional coder and all you know how to do is copy-paste other people's hard work, you won't make it as a professional. You'll get fired from your first job in your first week.
+
+**Take your success seriously by taking your understanding seriously**
 
 ## Help each other intelligently
 
-If someone gets stuck, help them understand. Don't just give them code to copy.
+If someone gets stuck, help them **understand**. Don't just give them code to copy.
 
 If you give someone else code to copy then we'll be forced to reject both you and the person you "helped".
 

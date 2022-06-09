@@ -11,9 +11,11 @@ learning_outcomes:
 - git_merge_branches
 prerequisites:
   hard:
-  - topics/github/intro
+  - environment-setup/git
   - projects/bash-for-bootcamp
   - topics/git
+  - topics/bootcamp/git-for-bootcamp
+  - topics/github/helloworld
   soft: []
 ready: true
 story_points: 1
