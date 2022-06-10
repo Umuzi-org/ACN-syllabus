@@ -144,7 +144,7 @@ Please don't re-implement the same check in two different places. Good code is D
 
 ### DRY code for JS
 
-A good way to practice DRY in this project is to create an object(s) that stores your password validators and then use the object throughout your code.
+A good way to practice DRY in this project is to create an object that stores your password validators and then use the object throughout your code.
 
 ```
 module.exports.passwordValidators = {
