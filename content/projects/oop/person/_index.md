@@ -2,10 +2,10 @@
 _db_id: 223
 content_type: project
 flavours:
-- any_language
+  - any_language
 learning_outcomes:
-- code_oop_encapsulation
-- code_oop_class_instantiation
+  - code_oop_encapsulation
+  - code_oop_class_instantiation
 prerequisites:
   hard: []
   soft: []
@@ -13,7 +13,7 @@ ready: true
 story_points: 2
 submission_type: repo
 tags:
-- oop
+  - oop
 title: Person
 ---
 
@@ -52,7 +52,7 @@ print(greeting)
 // Java
 
 Person person = new Person(
-    "Ryan", 30, "male", 
+    "Ryan", 30, "male",
     new String[] {"being a hardarse", "agile", "SSD hard drives"})
 String greeting = person.hello()
 System.out.println(greeting)
@@ -76,8 +76,8 @@ Also, you must submit good clean code! Make sure you name your variables clearly
 
 ## Instructions for reviewer
 
-1. **Multiple interests, commas and spacing** - Make sure that the interests array attribute can take in multiple interests and they all get printed out separated with a comma and space, and the last interest should have an ``and`` before it also your class should contain and use all of the attributes above.
-2. **Single interest or no interests** - Check if the class can work with single interests, and the string output should be different from the multiple interest output instead of `my interests are` it should be `my interest is`. Also, if there are no interests then the output should a string with the first 3 attributes name, age, and male `Hello, my name is Ryan, my gender is male and I am 30 years old.` and you could add something like `I have no interests`.
+1. **Multiple interests, commas and spacing** - Make sure that the interests array attribute can take in multiple interests and they all get printed out separated with a comma and space, and the last interest should have an `and` before it also your class should contain and use all of the attributes above.
+2. **Single interest or no interests** - Check if the class can work with single interests, and the string output should be different from the multiple interest output instead of `my interests are` it should be `my interest is`. Also, if there are no interests then the output should be a string with the first 3 attributes name, age, and male `Hello, my name is Ryan, my gender is male and I am 30 years old.` and you could add something like `I have no interests`.
 
 Mark this as Excellent if:
 
