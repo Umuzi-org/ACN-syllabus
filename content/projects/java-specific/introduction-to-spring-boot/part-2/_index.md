@@ -19,7 +19,7 @@ tags:
 title: Introduction to Spring Boot - part 2
 ---
 
-We are going to focus on creating a REST api that will serve as a end point to our sping boot java application.
+We are going to focus on creating a REST api that will serve as a end point to our spring boot java application.
 
 ## Service
 
