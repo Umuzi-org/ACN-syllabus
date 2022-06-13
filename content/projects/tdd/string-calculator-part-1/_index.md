@@ -127,6 +127,12 @@ add("//;\n1;2")
 
 add("//4\n142")
 // should return 3
+
+add("//;\n1")
+// should return 1
+
+add("//;\n")
+// should return 0
 ```
 
 In the first case, the default delimiter is: ";".
