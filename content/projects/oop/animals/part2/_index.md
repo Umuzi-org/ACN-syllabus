@@ -158,12 +158,6 @@ Test -> Does cat Bark should Fail
 
 ```
 
-### Up for a Challenge?
-
-This section is not compulsory but if you do this we'll think you're cool.
-
-Add some extra tests for your Home class. Make sure that it makes all the right noises and that you can't adopt the same pet twice.
-
 ## Instructions for Reviewers
 
 - There should be no global variables.
