@@ -3,15 +3,21 @@ _db_id: 186
 content_type: project
 flavours:
 - any_language
+prerequisites:
+  hard:
+  - topics/apis/basics/
+  soft: []
 ready: true
-submission_type: nosubmit
+story_points: 3
+submission_type: repo
+tags:
+- api
+- github
+- logical-operators
 title: Consume Github API
 ---
 
-- {{% contentlink path="projects/github-api-consume/part1" %}}
-- {{% contentlink path="projects/github-api-consume/part2" %}}
-
-<!-- In this project you'll make use of Github's awesome API. We chose Github for this project because:
+In this project you'll make use of Github's awesome API. We chose Github for this project because:
 
 - you are already familiar with Github
 - The api is really well documented
@@ -36,4 +42,4 @@ Please be sure to follow the standard naming conventions for your language.
 
 ## Resources
 
-- [An introduction to curl using GitHub's API](https://gist.github.com/tazjel/8735770). -->
+- [An introduction to curl using GitHub's API](https://gist.github.com/tazjel/8735770).
