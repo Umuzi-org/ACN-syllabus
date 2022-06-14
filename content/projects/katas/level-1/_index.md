@@ -84,8 +84,8 @@ While comments and feedback are useful for enhancing code quality, they can easi
 
 ### Do not click Compare & pull request
 
-After commiting and pushing your changes and you are ready to get reviewed do not click on compare and pull request. If you do this as a new pull request will be created and feedback comments would be lost. Click on Reopen pull request instead.
-![](compare&pr.png) ![alt-text-2](reopen.png).
+After commiting and pushing your changes and you are ready to get reviewed again, do not click on Compare and pull request. If you do this a new pull request will be created and feedback comments would be lost. Click on the Reopen pull request button instead.
+![](compare-and-pr.png) ![](Reopen.png).
 
 ## Task 1.1
 
