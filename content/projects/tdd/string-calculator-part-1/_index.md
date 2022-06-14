@@ -12,7 +12,7 @@ submission_type: repo
 tags:
 - tdd
 - regular-expressions
-title: string-calculator
+title: string-calculator part 1
 ---
 
 ## Set up your environment
@@ -63,7 +63,7 @@ Please use junit to test your code https://www.guru99.com/junit-test-framework.h
     └── test
         └── java
            └── StringCalculatorTest
- 
+
 ```
 
 ## Instructions
@@ -127,6 +127,12 @@ add("//;\n1;2")
 
 add("//4\n142")
 // should return 3
+
+add("//;\n1")
+// should return 1
+
+add("//;\n")
+// should return 0
 ```
 
 In the first case, the default delimiter is: ";".
@@ -162,14 +168,7 @@ add("-1,-2,3,4")
     'ERROR: negatives not allowed -1,-2'
 ```
 
-#### 6. Modify the add function so that it ignores integers greater than or equal to 1000
-
-```
-add("//;\n1000;1;2")
-// should return 3
-```
-
-#### 7. Modify the add function so that it can support delimiters of any length
+#### 6. Modify the add function so that it can support delimiters of any length
 
 As long as the string passed in satisfies this format, "//[delimiter]\n[integers...]", which was explained above. The add function should be able to handle it.
 For example:
@@ -177,68 +176,6 @@ For example:
 ```
 add("//***\n1***2***3")
 // should return 6
-```
-
-#### 8. Modify the add function so that it can support different delimiters of any length
-
-As long as the string passed into the add function follows this format, "//[delim1][delim2]\n[integers...]", the add function should be able to handle it:
-
-For example:
-
-```
-add("//[:D][%]\n1:D2%3")
-// should return 6
-
-add("//[***][%%%]\n1***2%%%3")
-// should return 6
-
-add("//[(-_-')][%]\n1(-_-')2%3")
-// should return 6
-
-add("//[abc][777][:(]\n1abc27773:(1")
-// should return 7
-
-```
-
-#### 9. Modify the add function so that it can handle invalid input
-
-If the string passed in is invalid, your code should be able to detect this and throw an error.
-
-Hint: A valid string input follows these formats:
-
-```md
-- "integer,integer,integer" e.g "1,2" or "1,2,3,4"
-
-- "integer \n integer,integer e.g "1\n2,3"
-
-- "//delimiter \n integer delimiter integer" e.g "//;\n1;2"
-
-- "//[delimiter][delimiter]\n integer delimiter integer" e.g "//[\*][%]\n1\*2%3"
-```
-
-If the string does not abide by any of these formats, it should be considered invalid. Square brackets (`[` or `]`) are used as identifiers, and will not be used as delimiters. Any string with these as delimiters should also be considered invalid.
-
-```
-add("//;\n1000;1;2;")
-// should throw the following:
-    'ERROR: invalid input'
-
-add("   //;\n1000,1;2")
-// should throw the following:
-    'ERROR: invalid input'
-
-add("1,2,3//;\n1000,1;2")
-// should throw the following:
-    'ERROR: invalid input'
-
-add("//]\n90]11]20")
-// should throw the following:
-    'ERROR: invalid input'
-
-add("//[[][[][&&]\n1[2[3&&4")
-// should throw the following:
-    'ERROR: invalid input'
-
 ```
 
 
