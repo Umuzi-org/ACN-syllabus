@@ -84,14 +84,14 @@ In Javascript it is best practice to use destructuring when passing arguments to
 Please make sure you use destructuring for all your functions. 
 
 ```
-getCustomerBaskets(customerBaskets, "sine@umuzi.org"); // DON'T DO THIS
+getCustomerBaskets(shoppingBaskets, "sine@umuzi.org"); // DON'T DO THIS
 getCustomerBaskets("sine@umuzi.org", customerBaskets); // DON'T DO THIS EITHER
 
 // The problem with the above code is that if you get the order of the parameters wrong, then things will break. Your functions should work like this instead:
 
-function getCustomerBaskets({ customerBaskets, email }) {...}
+function getCustomerBaskets({ shoppingBaskets, email }) {...}
 
-getCustomerBaskets({customerBaskets, email}) //DO THIS
+getCustomerBaskets({shoppingBaskets, email}) //DO THIS
 ``` 
 
 ### get baskets belonging to a single customer
@@ -100,18 +100,18 @@ Write a function called `get customer baskets` that takes in the email address a
 
 If the customer has no shopping baskets then return an empty list/array.
 
-e.g. `getCustomerBaskets({ email, customerBaskets });`
+e.g. `getCustomerBaskets({ email, shoppingBaskets });`
 ### get a list of all the customer email addresses
 
 Write a function called `get all customers`, the function should take the data array as an argument and should return a list of customer email addresses. The list must have no duplicates.
 
-e.g. `getAllCustomers({ customerBaskets });`
+e.g. `getAllCustomers({ shoppingBaskets });`
 ### list all the items that have been paid for but not yet delivered
 
 Write a function called `required stock`, your function should take the data array as an argument and should return all the items that need to be sent out for delivery.
 You need to return data in the correct format. Just include the names and quantities of the items.
 
-e.g. `requiredStock({ customerBaskets });`
+e.g. `requiredStock({ shoppingBaskets });`
 
 For example, if one customer paid for 2 hamsters and another customer paid for one hamster and a bag of sawdust then your function should return the following data structure:
 
@@ -127,7 +127,7 @@ For example, if one customer paid for 2 hamsters and another customer paid for o
 Write a function called `total spent` that takes an email address as an argument and the data array.
 The function must return the total amount that the customer has spent up until this time.
 
-e.g. `totalSpent({ email, customerBaskets });`
+e.g. `totalSpent({ email, shoppingBaskets });`
 
 Note that if a basket has been delivered then it has been paid for.
 
@@ -136,7 +136,7 @@ Note that if a basket has been delivered then it has been paid for.
 Write a function called `top customers` that takes the data array as an argument and returns a list/array of all the customers. The result should be ordered according to the total amount spent.
 The returned data structure should be an array/list of dictionaries/objects showing the email addresses and the total amounts spent per customer.
 
-e.g. `topCustomers({ customerBaskets });`
+e.g. `topCustomers({ shoppingBaskets });`
 
 Make sure the returned value matches the following structure:
 
@@ -153,7 +153,7 @@ Hint: You have already defined some functions that would be useful in finding th
 ### customers who have OPEN baskets
 
 Write a function called `get customers with open baskets` that takes in the data array as an argument and returns a list/array of email addresses for customers who have baskets that are open.
-e.g. `getCustomersWithOpenBaskets({ customerBaskets });`
+e.g. `getCustomersWithOpenBaskets({ shoppingBaskets });`
 
 ## Notes to reviewers
 
