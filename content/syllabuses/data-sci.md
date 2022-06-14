@@ -35,7 +35,8 @@ _db_id: 2
 - {{% contentlink path="topics/intro-to-data-ethics" %}}
 - {{% contentlink path="topics/data-ethics-and-privacy" %}}
 - {{% contentlink path="topics/solo-learn/python/9-regular-expressions" %}}
-- {{% contentlink path="projects/tdd/string-calculator" flavour="python" %}}
+- {{% contentlink path="projects/tdd/string-calculator-part-1" flavour="python" %}}
+- {{% contentlink path="projects/tdd/string-calculator-part-2" flavour="python" %}}
 - {{% contentlink path="projects/data-science-specific/multivariate-linear-regression" flavour="python" %}}
 - {{% contentlink path="projects/oop/animals/part1"  flavour="python" %}}
 - {{% contentlink path="specific-skill-success-criteria/classes-and-objects" flavour="python" %}}
