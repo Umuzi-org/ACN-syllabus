@@ -100,18 +100,31 @@ Write a function called `get customer baskets` that takes in the email address a
 
 If the customer has no shopping baskets then return an empty list/array.
 
-e.g. `getCustomerBaskets({ email, shoppingBaskets });`
+e.g. 
+```
+getCustomerBaskets({ email, shoppingBaskets }); //javascript
+get_customer_baskets(email, shopping_baskets) // python 
+```
 ### get a list of all the customer email addresses
 
 Write a function called `get all customers`, the function should take the data array as an argument and should return a list of customer email addresses. The list must have no duplicates.
 
-e.g. `getAllCustomers({ shoppingBaskets });`
+e.g. 
+```
+getAllCustomers({ shoppingBaskets }); //javascript
+get_all_customers(shopping_baskets) // python 
+```
 ### list all the items that have been paid for but not yet delivered
 
 Write a function called `required stock`, your function should take the data array as an argument and should return all the items that need to be sent out for delivery.
 You need to return data in the correct format. Just include the names and quantities of the items.
 
-e.g. `requiredStock({ shoppingBaskets });`
+e.g.
+```
+requiredStock({ shoppingBaskets }); //javascript
+required_stock(shopping_baskets) //python
+```
+
 
 For example, if one customer paid for 2 hamsters and another customer paid for one hamster and a bag of sawdust then your function should return the following data structure:
 
@@ -127,7 +140,11 @@ For example, if one customer paid for 2 hamsters and another customer paid for o
 Write a function called `total spent` that takes an email address as an argument and the data array.
 The function must return the total amount that the customer has spent up until this time.
 
-e.g. `totalSpent({ email, shoppingBaskets });`
+e.g. 
+```
+totalSpent({ email, shoppingBaskets }); //javascript
+total_spent(email, shopping_baskets) //python
+```
 
 Note that if a basket has been delivered then it has been paid for.
 
@@ -136,7 +153,11 @@ Note that if a basket has been delivered then it has been paid for.
 Write a function called `top customers` that takes the data array as an argument and returns a list/array of all the customers. The result should be ordered according to the total amount spent.
 The returned data structure should be an array/list of dictionaries/objects showing the email addresses and the total amounts spent per customer.
 
-e.g. `topCustomers({ shoppingBaskets });`
+e.g. 
+```
+topCustomers({ shoppingBaskets }); // javascript
+top_customers(shopping_cart) //python
+```
 
 Make sure the returned value matches the following structure:
 
@@ -153,7 +174,11 @@ Hint: You have already defined some functions that would be useful in finding th
 ### customers who have OPEN baskets
 
 Write a function called `get customers with open baskets` that takes in the data array as an argument and returns a list/array of email addresses for customers who have baskets that are open.
-e.g. `getCustomersWithOpenBaskets({ shoppingBaskets });`
+e.g. 
+```
+getCustomersWithOpenBaskets({ shoppingBaskets }); //javascript
+get_customers_with_open_baskets(shopping_baskets) //python
+```
 
 ## Notes to reviewers
 
