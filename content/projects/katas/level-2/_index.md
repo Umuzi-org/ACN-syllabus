@@ -2,26 +2,26 @@
 _db_id: 637
 content_type: project
 flavours:
-- any_language
+  - any_language
 from_repo: projects/katas/level-1
 learning_outcomes:
-- code_algorithmic_thinking
-- code_pseudo_code
-- code_problem_decomposition
-- code_control_flow
-- code_naming_convention
-- code_code_documentation
-- code_existing_code_update
-- code_basic_calculation
+  - code_algorithmic_thinking
+  - code_pseudo_code
+  - code_problem_decomposition
+  - code_control_flow
+  - code_naming_convention
+  - code_code_documentation
+  - code_existing_code_update
+  - code_basic_calculation
 prerequisites:
   hard:
-  - projects/katas/level-1
+    - projects/katas/level-1
 ready: true
 story_points: 3
 submission_type: continue_repo
 tags:
-- algrithms
-- clean-code
+  - algorithms
+  - clean-code
 title: Level 2 coding challenges
 ---
 
@@ -62,6 +62,7 @@ Upgrade your triangle function so that it takes in an optional argument named `m
 ##
 ###
 ```
+
 (in other words, the default mode is left)
 
 `triangle(3, "right")` should print:
@@ -80,8 +81,7 @@ Upgrade your triangle function so that it takes in an optional argument named `m
 #####
 ```
 
-Negative numbers should still print things upside down. 
-
+Negative numbers should still print things upside down.
 
 For example, `triangle(-3, "isosceles")` should print:
 
@@ -92,6 +92,7 @@ For example, `triangle(-3, "isosceles")` should print:
 ```
 
 ### Up for a Challenge?
+
 This section is not compulsory but if you do this, we’ll think you’re cool.
 
 Add some functionality to `triangle` so that an error/exception gets raised if an incorrect mode is entered.
@@ -109,7 +110,6 @@ i o d e y
 t d e r
 e     y
 ```
-
 
 ## Next Steps
 
@@ -130,6 +130,6 @@ Have fun :)
 
 ## Instructions for Reviewers
 
-**Task 2.1 and Task 2.2** 
+**Task 2.1 and Task 2.2**
 
 - Check that no new files are created for these tasks. Only the code inside the files that were submitted for Task 1.4 and Task 1.5 should be updated for Task 2.1 and Task 2.2 respectively.

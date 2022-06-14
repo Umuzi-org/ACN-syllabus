@@ -2,13 +2,13 @@
 _db_id: 645
 content_type: project
 flavours:
-- any_language
+  - any_language
 ready: true
 story_points: 3
 submission_type: repo
 tags:
-- algrithms
-- clean-code
+  - algorithms
+  - clean-code
 title: Level 1 coding challenges (alt)
 ---
 
