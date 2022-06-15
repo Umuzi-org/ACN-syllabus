@@ -103,6 +103,7 @@ If the customer has no shopping baskets then return an empty list/array.
 e.g. 
 ```
 getCustomerBaskets({ email, shoppingBaskets }); //javascript
+getCustomerBaskets(email, shoppingBaskets); //java
 get_customer_baskets(email, shopping_baskets) // python 
 ```
 ### get a list of all the customer email addresses
@@ -112,6 +113,7 @@ Write a function called `get all customers`, the function should take the data a
 e.g. 
 ```
 getAllCustomers({ shoppingBaskets }); //javascript
+getAllCustomers(shoppingBaskets); //java
 get_all_customers(shopping_baskets) // python 
 ```
 ### list all the items that have been paid for but not yet delivered
@@ -122,6 +124,7 @@ You need to return data in the correct format. Just include the names and quanti
 e.g.
 ```
 requiredStock({ shoppingBaskets }); //javascript
+requiredStock(shoppingBaskets); //java
 required_stock(shopping_baskets) //python
 ```
 
@@ -143,6 +146,7 @@ The function must return the total amount that the customer has spent up until t
 e.g. 
 ```
 totalSpent({ email, shoppingBaskets }); //javascript
+totalSpent(email, shoppingBaskets); //java
 total_spent(email, shopping_baskets) //python
 ```
 
@@ -156,6 +160,7 @@ The returned data structure should be an array/list of dictionaries/objects show
 e.g. 
 ```
 topCustomers({ shoppingBaskets }); // javascript
+topCustomers(shoppingBaskets); // java
 top_customers(shopping_cart) //python
 ```
 
@@ -177,6 +182,7 @@ Write a function called `get customers with open baskets` that takes in the data
 e.g. 
 ```
 getCustomersWithOpenBaskets({ shoppingBaskets }); //javascript
+getCustomersWithOpenBaskets(shoppingBaskets); //java
 get_customers_with_open_baskets(shopping_baskets) //python
 ```
 
