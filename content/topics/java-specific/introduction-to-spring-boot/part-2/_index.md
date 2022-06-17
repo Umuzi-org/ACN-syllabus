@@ -1,5 +1,5 @@
 ---
-_db_id: 122
+_db_id: 118
 content_type: topic
 prerequisites:
   hard:
@@ -45,123 +45,153 @@ In simple terms according to **Sam Newman** "Microservices are the small service
 
 ![mono-vs-micro-service](mono-vs-micro-service.png)
 
-## Spring Boot Security
+Two of the most commonly used Api architectures currently in use are REST and SOAP.
 
-Now that we are going to create applications which can be accessed by the outside world, security becomes important because you don't want people having access to information which they are not allowed to have.
+## What is REST (Representational State Transfer)?
 
-Spring Security has an architecture that is designed to separate authentication from authorization, and has strategies and extension points for both.
+REST is an architecture used in web applications that make it easier for different systems to communicate with each other.
+They are referred to as stateless, which means that the current state of the system calling the REST api, has no influence on the functionality
+of the Api. REST was created to fix some of the shortcomings that the SOAP architecture has.
 
-Spring Security is a framework that provides authentication, authorization, and protection against common attacks. With first class support for both imperative and reactive applications, it is the de-facto standard for securing Spring-based applications.
+The most common REST endpoints are the following:
 
-#### Difference Between Authorization and Authentication
+GET - Used to fetch data
+POST - Used to create a new resource
+PUT - Used to update a specific resource
+DELETE - Used to remove a specific resource
 
-![difference-security](auth-security.png)
+## What is SOAP (Simple Object Access Protocol) ?
 
-#### Features
+SOAP is an architecture that makes use of XML for queries. It was created before REST to replace systems at that time that made use of
+binary messaging.
 
-- Comprehensive and extensible support for both Authentication and Authorization
+## We'll focus on REST in the context of this document.
 
-- Protection against attacks like session fixation, clickjacking, cross site request forgery, etc
+## Here is a list of resources where you can find tutorials on the endpoint types.
 
-- Servlet API integration
+As part of the examples, let's assume the url to be `https://www.myapi.com`
 
-- Optional integration with Spring Web MVC
+## GetMapping
 
-you will need
-
-```
-dependencies {
-    compile "org.springframework.boot:spring-boot-starter-security"
-}
-
-
-@Configuration
-@EnableWebSecurity
-public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
-    //override configuration
-
-    // override userDetailsService
-}
-```
-
-With this dependencies you get a lot out of the box and it also provides basic security with little configuration. You can override some of these behaviors by using WebSecurityConfigurerAdapter
-
-## Spring Boot Caching
-
-We live in a word where data is not so cheat and access to wifi is currently not accessible to everyone. More so we don't have as many people using smart devices which makes using advanced technology a bit of a struggle. It is our responsibility as software developers to know these limitation so we can create software that is thoughtful. Meaning creating applications that don't require a lot of processing power, high speed and if possible even be able to work offline. Caching is the first, no-brainer step you can take
-
-#### What is Caching
-
-Caching is a mechanism to enhance the performance of a system. It is a temporary memory that lies between the application and the persistent database. Cache memory stores recently used data items in order to reduce the number of database hits as much as possible. [from](wtodoinjava.com/spring-boot2/spring-boot-cache-example/)
-
-#### Types of caching
-
-1. **In-memory caching:** Most frequently used cached, stored in RAM(Random Access Memory) and thus fast to access
-
-2. **Database caching:** Databases have cache by default and this can be manipulated to show significant results
-
-3. **Web server caching:** Caching request and responses to server at API level with the help of Reverse proxies
-
-4. **CDN(Content Delivery Network) caching:** a CDN will reduce the load on an application origin and improve the experience of the requestor by delivering a local copy of the content from a nearby cache edge, or Point of Presence (PoP).
-
-#### Spring boot Caching Annotation
-
-**@EnableCaching:** It enables Spring’s annotation-driven cache management capability.
-
-**@Cacheable:** It is used on the method level to let spring know that the response of the method are cacheable
-
-**@CacheEvict:** It is used when we need to evict (remove) the cache previously loaded of master data
+- [GET Endpoint](http://zetcode.com/spring/getmapping/).
 
 ```
-org.springframework.boot:spring-boot-starter-cache
+  @GetMapping("/employees")
+  List<Users> all(String item) {
+	return listOfUsers;
+  }
+```
 
-@Service
-public class StudentService
+Here is a breakdown of the snippet above:
+
+- @GetMapping: Tells the API that this method is a Get Endpoint.
+- "/employees": Describes what is appended to the url in order to reach the endpoint. This endpoint is reached using the following url: https://www.myapi.com/employees.
+- The endpoint returns a List of Users.
+- item: The variable being passed into the method.
+
+## PostMapping
+
+- [POST Endpoint](https://howtodoinjava.com/spring5/webmvc/controller-getmapping-postmapping/).
+
+```
+@PostMapping(value = "/posts")
+public UserRest createUser(@RequestBody UserDetailsRequestModel requestUserDetails)
 {
-    @Cacheable("student")
-    public Student getStudentByID(String id)
-    {
-        try
-        {
-            System.out.println("Going to sleep for 5 Secs.. to simulate backend call.");
-            Thread.sleep(1000*5);
-        }
-        catch (InterruptedException e)
-        {
-            e.printStackTrace();
-        }
+	UserRest returnValue = new UserRest();
 
-        return new Student(id,"Sajal" ,"V");
-    }
+	UserDto userDto = new UserDto();
+	BeanUtils.copyProperties(requestUserDetails, userDto);
+	UserDto createdUser = userService.createUser(userDto);
+	BeanUtils.copyProperties(createdUser, returnValue);
+	return returnValue;
+```
+
+Here is a breakdown of the snippet above:
+
+- @PostMapping: Tells the API that this method is a POST Endpoint.
+- "/posts": Describes what is appended to the url in order to reach the endpoint. This endpoint is reached using the following url: https://www.myapi.com/posts.
+- The endpoint returns a List of Users.
+- @RequestBody: The data model that was sent through the POST request. The requestbody is usually sent to the endpoint in a JSON string format.
+
+## PutMapping
+
+- [PUT Endpoint](https://www.sourcecodeexamples.net/2019/10/putmapping-spring-boot-example.html).
+
+```
+@PutMapping(value = "/contacts/{contactId}")
+public ResponseEntity<Contact> updateContact(@RequestBody Contact contact,
+		@PathVariable long contactId) {
+	...
+	return ...
 }
 ```
 
-## Resource
+Here is a breakdown of the snippet above:
+
+- @PutMapping: Tells the API that this method is a PUT Endpoint.
+- "/contacts/{contactId}": Describes what is appended to the url in order to reach the endpoint. This endpoint is reached using the following url: https://www.myapi.com/posts/1234-1234-23432.
+- {} indicates that something in the path is a variable. So it's not a fied value.
+- The endpoint returns a List of Users.
+- @RequestBody: The data model that was sent through the POST request. The requestbody is usually sent to the endpoint in a JSON string format.
+
+## PatchMapping
+
+- [PATCH Endpoint](https://www.sourcecodeexamples.net/2019/10/patchmapping-spring-boot-example.html).
+
+```
+@PatchMapping("/patch")
+public @ResponseBody ResponseEntity<String> patch() {
+	return new ResponseEntity<String>("PATCH Response", HttpStatus.OK);
+}
+```
+
+Here is a breakdown of the snippet above:
+
+- @PatchMapping: Tells the API that this method is a PATCH Endpoint.
+- "/patch": Describes what is appended to the url in order to reach the endpoint. This endpoint is reached using the following url: https://www.myapi.com/patch.
+
+## DeleteMapping
+
+- [DELETE Endpoint](http://zetcode.com/spring/deletemapping/).
+
+```
+@DeleteMapping(value = "/posts/{id}")
+public ResponseEntity<Long> deletePost(@PathVariable Long id) {
+
+	var isRemoved = postService.delete(id);
+
+	return new ResponseEntity<>(id, HttpStatus.OK);
+}
+```
+
+Here is a breakdown of the snippet above:
+
+- @DeleteMapping: Tells the API that this method is a DELETE Endpoint.
+- "/contacts/{contactId}": Describes what is appended to the url in order to reach the endpoint. This endpoint is reached using the following url: https://www.myapi.com/posts/1234-1234-23432.
+- {} indicates that something in the path is a variable. So it's not a fied value.
+
+## How can a developer test endpoints
+
+Using programs such as Postman, a developer can easily insert the details of the endpoint required and view the results the api returns.
+It is a widely used software in the development community.
+
+## Resources
 
 https://dzone.com/articles/9-fundamentals-to-a-successful-microservice-design
-
 https://techbeacon.com/app-dev-testing/5-fundamentals-successful-microservice-design
-
 https://www.javatpoint.com/advantges-and-disadvantages-of-microservices
-
 https://www.javatpoint.com/challenges-of-microservices-architecture
-
 https://www.marcobehler.com/guides/java-microservices-a-practical-guide
-
-https://spring.io/guides/topicals/spring-security-architecture
-
-http://www.differencebetween.net/technology/difference-between-authentication-and-authorization/#:~:text=Authentication%20confirms%20your%20identity%20to,access%20is%20allowed%20or%20not.
-
-https://dzone.com/articles/secure-a-spring-boot-app-with-spring-security-and
-
-https://www.baeldung.com/spring-security-multiple-auth-providers
-
-https://docs.spring.io/spring-security/site/docs/5.3.1.BUILD-SNAPSHOT/reference/html5/
-
-https://www.javainuse.com/spring/sprboot_sec
-
-https://howtodoinjava.com/spring-boot2/spring-boot-cache-example/ - **Go through this tutorial**
-
-https://dzone.com/articles/introducing-amp-assimilating-caching-quick-read-fo
-
-https://aws.amazon.com/caching/cdn/
+https://www.guru99.com/soap-simple-object-access-protocol.html.
+https://www.sitepoint.com/developers-rest-api/
+https://spring.io/guides/tutorials/bookmarks/
+https://www.youtube.com/watch?v=_Py89z5Reus
+http://www.appsdeveloperblog.com/postmapping-requestbody-spring-mvc/
+http://zetcode.com/spring/postmapping/
+http://www.appsdeveloperblog.com/putmapping-spring-mvc/
+https://www.programcreek.com/java-api-examples/index.php?api=org.springframework.web.bind.annotation.PutMapping
+https://www.javaguides.net/2018/11/spring-getmapping-postmapping-putmapping-deletemapping-patchmapping.html
+https://www.javaguides.net/2018/09/spring-boot-2-hibernate-5-mysql-crud-rest-api-tutorial.html
+http://zetcode.com/spring/deletemapping/
+https://www.concretepage.com/spring-boot/spring-boot-rest-example
+https://www.postman.com/
