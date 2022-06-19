@@ -4,11 +4,13 @@ title: NCIT - Java
 ---
 
 - {{% contentlink path="national-qualifications-framework/ncit/assessments/how-the-internet-works" %}}
+- {{% contentlink path="topics/java-specific/intro-to-gradle-with-intellij" %}}
 - {{% contentlink path="national-qualifications-framework/ncit/assessments/version-control" flavour="java" %}}
 - {{% contentlink path="national-qualifications-framework/ncit/assessments/pseudocode-and-documentation" %}}
 - {{% contentlink path="national-qualifications-framework/ncit/assessments/thinking-like-a-machine" flavour="java" %}}
 - {{% contentlink path="national-qualifications-framework/ncit/assessments/test-driven-development" flavour="java" %}}
 - {{% contentlink path="national-qualifications-framework/ncit/assessments/constructive-feedback" %}}
+- {{% contentlink path="topics/solo-learn/java/4-classes-and-objects" %}}
 - {{% contentlink path="national-qualifications-framework/ncit/assessments/object-oriented-programming" flavour="java" %}}
 - {{% contentlink path="national-qualifications-framework/ncit/assessments/conducting-research-and-user-interviews" %}}
 - {{% contentlink path="national-qualifications-framework/ncit/assessments/research-documnet" %}}

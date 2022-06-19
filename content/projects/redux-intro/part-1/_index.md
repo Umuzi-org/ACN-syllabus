@@ -24,7 +24,9 @@ Once you have these foundations out of the way you can move onto integrating red
 
 Please note that this is a pure Redux project and doesn't have anything to do with React. When setting up the project, ensure that you separate things into multiple files, e.g. a separate file for the actions, etc. Group things that belong together and make your work clean. Have fun!
 
-Take a little time to google IoT home automation and come up with a list of things you might want to automate in your home once you are a wealthy and successful professional coder. Arrange all the different things you might want to automate into a state object. Here's an example:
+Take a little time to google IoT home automation and come up with a list of things you might want to automate in your home once you are a wealthy and successful professional coder.
+
+Arrange all the different things you might want to automate into a state object. Here's an example:
 
 ```
 state = {
@@ -36,7 +38,7 @@ state = {
 }
 ```
 
-Ok, run with it a little bit. What other things would you want to control?
+Ok, run with it a little bit. What other things would you want to control? Maybe you want to automate your breakfast somehow? Or your garage door?
 
 The next step is to try to figure out what actions a user could take in order to update the state, and then to create some action creators for those.
 
@@ -55,8 +57,8 @@ Now implement your reducers.
 
 Make sure you can dispatch your actions in order to update the state.
 
-Once you have this down. it would probably be wise to make a PR. Rapid feedback for the win!
+## Some notes on git feature branching
 
-## Did you know?
+As a professional coder you will need to use your tools wisely. Git is one such tool.
 
-Did you know Tilde uses Redux? Open up the developer console (F12 usually) and you'll be able to see how your interactions dispatch actions and update the state. Most of the state looks quite intense, look for `Entities` inside the state and see if you can recognise what's going on in there and how it relates to what you are seeing on your board.
+Try to make multiple small PRs instead of one giant PR when you are doing your work. If you invite rapid feedback then you unlock rapid learning. How can you set up your code reviewers so that they can review your stuff quickly and easily?

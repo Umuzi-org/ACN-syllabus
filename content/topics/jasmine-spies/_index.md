@@ -151,7 +151,7 @@ describe("Person toString() Test with Fake getName() Method", function() {
         //Create new person instance
         var testPerson = new Person();
 
-        //Create own jasmine fake methid
+        //Create own jasmine fake method
         testPerson.getName = jasmine.createSpy("getName spy");
 
         //Test if the fake method is called instead of the original being called

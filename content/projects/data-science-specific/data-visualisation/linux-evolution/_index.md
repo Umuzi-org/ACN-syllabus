@@ -3,6 +3,11 @@ _db_id: 245
 content_type: project
 flavours:
 - python
+learning_outcomes:
+- data_sci_visualisations
+- data_sci_graphs_based_on_data_type
+- data_sci_seaborn
+- data_sci_visual_eda
 pre: '<b>MEDIUM: </b>'
 prerequisites:
   hard:
@@ -15,7 +20,7 @@ tags:
 title: Evolution of Linux Visualisation
 ---
 
-Complete the DataCamp project
+Complete the DataCamp project:
 [Exploring the Evolution of Linux](https://www.datacamp.com/projects/111).
 
-Once you have completed it, you can download your notebook file. Add it to your repo.
+Once you have completed it, you can download your notebook file and add it to your repo.

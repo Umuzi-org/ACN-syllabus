@@ -7,7 +7,7 @@ tags:
 title: Intro OOP(Object-oriented Programming) for Python
 ---
 
-This is a reading presentation of Object-oriented Programming (OOP) for Python.
+This is a reading presentation on Object-oriented Programming (OOP) for Python.
 
 ### Note
 
@@ -28,6 +28,6 @@ https://realpython.com/python3-object-oriented-programming/
 
 ## Some Example Code
 
-The code below shows demonstrates composition and a little bit of inheritance. There is a lot more to be said about OOP.
+The code below demonstrates composition and a little bit of inheritance. There is a lot more to be said about OOP.
 
 {{% code_snippet "cars.py" %}}

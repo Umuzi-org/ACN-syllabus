@@ -3,6 +3,11 @@ _db_id: 236
 content_type: project
 flavours:
 - python
+learning_outcomes:
+- data_sci_decision_trees
+- data_sci_classification_metrics
+- data_sci_sensitivity_specificity
+- data_sci_confusion_matrix_classification_report
 pre: '<b>MEDIUM: </b>'
 prerequisites:
   hard:
