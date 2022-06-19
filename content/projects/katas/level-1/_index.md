@@ -78,13 +78,16 @@ At this point you should be using git from the command line. If you drag and dro
 
 ## Handling requested changes on Pull Requests
 
-Pull requests are an excellent approach to communicate proposed code changes for review and receive feedback from staff and other learners.This usually leads to dialogues and suggestions in the comments, which may lead to more code changes.
+Pull requests are an excellent approach to communicating proposed code changes for review and receiving feedback from staff and other learners.This usually leads to dialogues and suggestions in the comments, which may lead to more code changes.
 
-While comments and feedback are useful for enhancing code quality, they can easily be lost. To ensure that data isn't lost and a consistent system of record is created, it is worth noting that you are expected to REOPEN a closed pull request if changes are request. 
+While comments and feedback are useful for enhancing code quality, they can easily be lost. To ensure that data isn't lost and a consistent system of record is created, it is worth noting that you are expected to REOPEN a closed pull request if changes are requested. 
 
 ### Do not click Compare & pull request
 
-After commiting and pushing your changes and you are ready to get reviewed again, do not click on Compare and pull request. If you do this a new pull request will be created and feedback comments would be lost. Click on the Reopen pull request button instead.
+After committing and pushing your changes and you are ready to get reviewed again, do not click on Compare and pull request. If you do this a new pull request will be created and feedback comments would be lost. Click on the Reopen pull request button instead.
+
+See instructions below: 
+
 ![](compare-and-pr.png) ![](Reopen.png).
 
 ## Task 1.1
