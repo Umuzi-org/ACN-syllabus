@@ -7,28 +7,27 @@ tags:
 title: Git Basics
 ---
 
-## What's git all about?
+## What's Git all about?
 
-Git is an industry standard tool used for collaboration within teams. We teach it quite early on in our course because without it you will be fairly useless as a professional. Yes, it's that important. The git book (below) has a better introduction.
+Git is an industry-standard tool used for collaboration within teams. We teach it quite early on in our course because without it you will be fairly useless as a professional developer. It's important. The Git book (below) has a better introduction.
 
 ## The Git Book
 
-You don't need to know absolutely everything about Git in order to start using it. We keep our git repos on Github so don't worry about the server setup stuff.
+You don't need to know absolutely everything about Git to start using it. We keep our Git repositories on Github. Don't worry about the server setup stuff.
 
 The first three chapters will serve you well initially:
-
 https://git-scm.com/book/en/v2
 
 ## What we expect from you
 
-As you progress through this course you will have to write a lot of code. All your code will be submitted to us for review in the form of a git repo. You will be expected to be comfortable using git from the command line.
+As you progress through, you will have to write a lot of code. Your code will be submitted to us for review in the form of a Git repository. You will be expected to be comfortable using git from the command line.
 
 ## General best practices
 
 - make a separate repo for every project (we don't want to have to sift through unrelated code when marking your work)
-- make sure that you _push_ your latest work before leaving the office every day
+- make sure that you _push_ your latest work before logging off for the day **every day**
 - if you are working on a team, make sure you _pull_ the master branch often
-- give your git branches meaningful and specific names
+- give your Git branches meaningful and specific names
 - give your commits meaningful messages
 - always make use of .gitignore, you can find out more about it [here](https://www.youtube.com/watch?v=POZFmbYHvWk)
 
@@ -45,13 +44,12 @@ https://www.datacamp.com/courses/introduction-to-git-for-data-science
 
 ## Fun fact about our syllabus
 
-This site that you are looking at is a repo stored on git. This is cool because it means that you can [fork](https://guides.github.com/activities/forking/) it and make changes to our content. For example:
-
-- if you find a video that was really useful in understanding a topic, then you can add a link to that video to our course material
+This site that you are looking at is a repo stored on Git. This is cool because it means that you can [fork](https://guides.github.com/activities/forking/) it and make changes to our content. For example:
+- if you find a video that was useful in understanding a topic, then you can add a link to that video to our course material
 - if you see a typo you can fix it
 - If you think one of our projects can be explained better then you can add more explanation
 
 
 [Here](https://github.com/Umuzi-org/ACN-syllabus) is the repo.
 
-If you even make a small improvement, it will be a big deal! Thousands of people use this content :)
+If you even make a small improvement, it will be a big deal! Thousands of people use this content on a daily :)

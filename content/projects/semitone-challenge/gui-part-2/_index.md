@@ -6,6 +6,15 @@ flavours:
 - typescript
 - any_frontend_framework
 from_repo: projects/semitone-challenge/basic-algorithm
+learning_outcomes:
+- web_dev_shuffling_elements
+- web_dev_indexing
+- web_dev_two_dimensional_arrays
+- web_dev_testing_dom_events_with_spies
+- web_dev_testing_dom_elements_with_jsdom
+- web_dev_event_handling
+- web_dev_simple_gui_design
+- wed_dev_advanced_gui_design
 pre: <b>4. </b>
 prerequisites:
   hard:
@@ -27,7 +36,7 @@ Extend your simple gui with the following behavior:
 1. When the user loads the page for the first time then there should be two notes already displayed on the screen.
 2. Add a button with the text "Reveal answer". If the user clicks on this button then ALL the notes (A, A#, B,...) should be displayed in a div with the id "explanation". The currently selected notes should be highlighted and the final answer should be displayed on the screen.
 3. If the user clicks on the "Get random notes" button then the "explanation" div should be emptied.
-4. If the user submits the correct answer then the "explanation" div should be populated as above. The user should be congratulated just like before
+4. If the user submits the correct answer then the "explanation" div should be populated with the currently selected notes highlighted. The user should be congratulated.
 5. Keep track of how many correct answers the user gets in a row and display this answer on the screen. This is referred to as a streak. Have some pseudocode:
 
 ```
@@ -44,7 +53,7 @@ gui displays: "Streak: 0"   <<< the streak is reset to zero because the user got
 ```
 
 ## Instructions for Reviewer
-- Ensure that when multiple calls have been made to the selectNotes function only two notes are returned. 
+- Ensure that when multiple calls have been made to the selectNotes function only two notes are returned.
 - To check if the code contains a bug; call the function twice, have a print statement under it and check if two notes are returned.
 - Make sure the notes always get updated when the select notes button is clicked.
 - The JamBuddy class should still work correctly in the terminal and should not be mixed up with frontend DOM manipulation.
