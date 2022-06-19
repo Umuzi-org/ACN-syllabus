@@ -1,5 +1,4 @@
 ---
-
 content_type: project
 flavours:
 - any_language

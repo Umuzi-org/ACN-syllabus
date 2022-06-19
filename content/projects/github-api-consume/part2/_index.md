@@ -1,5 +1,4 @@
 ---
-# _db_id: 186 #this needs a unique id
 content_type: project
 flavours:
 - any_language
@@ -15,7 +14,7 @@ tags:
 title: Add pagination to Consume Github API
 ---
 
-In part 1 of this project, you made use of Github's awesome API. Now that you are familair with how it works, you are going to upgrade that project by adding pagination. 
+In part 1 of this project, you made use of Github's awesome API. Now that you are familiar with how it works, you are going to upgrade that project by adding pagination. 
 
 API Pagination is essential if you're dealing with alot of data and endpoints - making sure your response is easier to handle.
 
