@@ -88,7 +88,11 @@ After committing and pushing your changes and you are ready to get reviewed agai
 
 See instructions below: 
 
-![](compare-and-pr.png) ![](Reopen.png).
+The pull request hasn't been merged, just closed.
+    
+Go to Pull requests add filter `is:closed` 
+Choose PR you want to reopen
+Select from checkbox and mark as Open.
 
 ## Task 1.1
 
