@@ -1,5 +1,5 @@
 ---
-title: Web development boot camp (with automarked katas)
+title: Data engineering boot camp (with automarked katas)
 ---
 
 - {{% contentlink path="projects/writing-assignment" flavour="markdown" %}}
