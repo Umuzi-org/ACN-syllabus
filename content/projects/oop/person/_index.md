@@ -76,13 +76,13 @@ Also, you must submit good clean code! Make sure you name your variables clearly
 
 ## Instructions for reviewer
 
-1. **Multiple interests, commas, punctuation, and spacing** - Make sure that the interests array attribute can take in multiple interests and they all get printed out separated with a comma and space, and the last interest should have an `and` before it followed by a full stop. Your class should contain and use all of the attributes above. 
-e.g. 2 or more interests should look like this: `Hello, my name is Ryan, my gender is male and I am 30 years old. My interests are reading and coding.`.
+1. **Multiple interests, punctuation, and spacing** - Make sure that the interests array attribute can take in multiple interests. The interests should all get printed out separated with a comma and space. The last interest should have an `and` before it followed by a full stop. Your class should contain and use all of the attributes above.
+   e.g. 2 or more interests should look like this: `Hello, my name is Ryan, my gender is male and I am 30 years old. My interests are reading and coding.`.
 
 2. **Single interest or no interests** - Check if the class can work with a single interest and that the string output is different from the multiple interests string output. Instead of `my interests are` it should be `my interest is`.
-If there are no interests then the output should be a string with the first 3 attributes - name, age, and male.
-e.g. No interests should look like this: `Hello, my name is Ryan, my gender is male and I am 30 years old.`.
-1 interest should look like this: `Hello, my name is Ryan, my gender is male and I am 30 years old. My interest is being a hardarse.`.
+   If there are no interests then the output should be a string with the first 3 attributes - name, age, and male.
+   e.g. No interests should look like this: `Hello, my name is Ryan, my gender is male and I am 30 years old.`.
+   1 interest should look like this: `Hello, my name is Ryan, my gender is male and I am 30 years old. My interest is being a hardarse.`.
 
 Mark this as Excellent if:
 
