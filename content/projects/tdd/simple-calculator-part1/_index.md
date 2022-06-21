@@ -43,10 +43,10 @@ After setting up Jasmine on the terminal, please ensure that your directory has 
 
 - A src folder that has a file called:
 
-  - simple-calculator.js <---- this is where you will implement all your functionality.
+  - simple_calculator.js <---- this is where you will implement all your functionality.
 
 - A spec folder that has a file called:
-  - simple-calculator_spec.js <---- this is where you will put your tests.
+  - simple_calculator_spec.js <---- this is where you will put your tests.
 
 Your directory structure should look like this:
 
@@ -55,9 +55,9 @@ Your directory structure should look like this:
     >spec
         > support
             - jasmine.json
-        - simple-calculator-spec.js
+        - simple_calculator_spec.js
     >src
-        - simple-calculator.js
+        - simple_calculator.js
     - package.json
 ```
 
