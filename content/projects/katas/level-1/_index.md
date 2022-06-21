@@ -82,17 +82,17 @@ Pull requests are an excellent approach to communicating proposed code changes f
 
 While comments and feedback are useful for enhancing code quality, they can easily be lost. To ensure that data isn't lost and a consistent system of record is created, it is worth noting that you are expected to REOPEN a closed pull request if changes are requested. 
 
-### Do not click Compare & pull request
+## Do not click Compare & pull request
 
 After committing and pushing your changes and you are ready to get reviewed again, do not click on Compare and pull request. If you do this a new pull request will be created and feedback comments would be lost. Click on the Reopen pull request button instead.
 
-### See instructions below to reopening a closed Pull Request: 
+## See instructions below to reopening a closed Pull Request: 
 
-The pull request must not be merged, just closed.
+N.B! The pull request must not be merged, just closed.
     
-Go to Pull requests and add filter `is:closed` 
-Choose the Pull Request you want to reopen
-Select from checkbox and mark as Open.
+- Go to Pull requests and add filter `is:closed` 
+- Choose the Pull Request you want to reopen
+- Select from checkbox and mark as Open.
 
 ## Task 1.1
 
