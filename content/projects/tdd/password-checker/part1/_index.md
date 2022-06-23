@@ -153,6 +153,8 @@ module.exports.passwordValidators = {
 }
 ```
 
+This object should be inside a file called `validation_error_messages.js`
+
 ## Python resources
 
 - [Python Errors](https://www.codementor.io/sheena/how-to-write-python-custom-exceptions-du107ufv9?referral=sheena-kvo1e6ewh)
