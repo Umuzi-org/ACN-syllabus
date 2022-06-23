@@ -161,7 +161,7 @@ e.g.
 ```
 topCustomers({ shoppingBaskets }); // javascript
 topCustomers(shoppingBaskets); // java
-top_customers(shopping_cart) //python
+top_customers(shopping_baskets) //python
 ```
 
 Make sure the returned value matches the following structure:
