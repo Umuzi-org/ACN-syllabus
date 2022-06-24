@@ -7,7 +7,6 @@ title: ACN Coding aptitude mini course and assessment - Python
 
 - {{% contentlink path="coding_aptitude_assessment/introduction" %}}
 - {{% contentlink path="coding_aptitude_assessment/introduction_to_github" %}}
-- {{% contentlink path="projects/writing-assignment" flavour="markdown" %}}
 
 
 ## Installing Python
