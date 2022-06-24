@@ -7,6 +7,7 @@ prerequisites:
   hard:
   - environment-setup
   - topics/github/intro
+  - topics/reopening-pull-request
 ready: true
 submission_type: repo
 title: 'Tilde project tutorial: How Repo projects work'

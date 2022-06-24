@@ -4,6 +4,7 @@ title: Alumni Data Engineering Bootcamp
 ---
 
 - {{% contentlink path="projects/katas/level-1-alternative" flavour="python" %}}
+- {{% contentlink path="topics/reopening-pull-request" %}}
 - {{% contentlink path="topics/bootcamp/extra-instructions-for-alumni" %}}
 - {{% contentlink path="projects/writing-assignment" flavour="markdown" %}}
 - {{% contentlink path="topics/python-specific/automated-testing-with-pytest" %}}

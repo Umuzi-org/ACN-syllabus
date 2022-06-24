@@ -3,6 +3,9 @@ _db_id: 219
 content_type: project
 flavours:
 - any_language
+prerequisites:
+  hard:
+  - topics/reopening-pull-request
 learning_outcomes:
 - code_algorithmic_thinking
 - code_pseudo_code
