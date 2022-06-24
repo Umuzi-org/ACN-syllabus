@@ -21,7 +21,7 @@ title: Email random inspirational quote
 
 This basic project should demonstrate your understanding of mocks/spies.
 
-We'll be making an application that ends emails.
+We'll be making an application that sends emails.
 
 ## Set up
 
