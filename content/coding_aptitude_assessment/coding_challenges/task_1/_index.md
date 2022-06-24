@@ -46,6 +46,8 @@ Since this is your first code project we'll walk you through the process of gett
 
 {{% youtube  CEjqVnz4W4I %}}
 
+Some learners will be moving to alternate programmes following this, but as long as you are still in tech your understanding of Git and Github will be extremely important.
+
 ### Part 2: Addressing review feedback
 
 {{% youtube OTb8VoZHvpM %}}
