@@ -9,8 +9,6 @@ prerequisites:
   - docker/intro-to-docker
   - projects/python-specific/flask-rest-api/part-1
   - projects/python-specific/flask-rest-api/part-2
-  soft:
-  - docker/docker-desktop-troubleshooting
 ready: true
 submission_type: continue_repo
 title: Flask and docker
