@@ -5,7 +5,7 @@ flavours:
 - java
 prerequisites:
   hard:
-  - topics/java-specific/introduction-to-spring-boot/part-1
+  - topics/java-specific/introduction-to-spring-boot/part1
   soft: []
 ready: true
 submission_type: repo
@@ -13,7 +13,7 @@ tags:
 - spring-boot
 - data-structures
 - annotations
-title: Introduction to Spring Boot - part 1
+title: Introduction to Spring Boot - Part 1
 ---
 
 We covered a very large part of the Spring Boot framework at a high level on the reading material but I hope you went through the resource as well. This project will be very simple but focusing on all the building blocks. **HAVE FUN!!**

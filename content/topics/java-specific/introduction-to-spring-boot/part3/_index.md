@@ -3,10 +3,10 @@ _db_id: 119
 content_type: topic
 prerequisites:
   hard:
-  - topics/java-specific/introduction-to-spring-boot/part-2
+  - topics/java-specific/introduction-to-spring-boot/part2
   soft: []
 ready: true
-title: Introduction to Spring Boot - part 3
+title: Introduction to Spring Boot - Part 3
 ---
 
 Consuming an API refers to the process of calling an API from an application. The methods available for an application to consume an API are mapped to the API itself. For instance, if the API does not contain a GET endpoint, then the application can't consume the API using a Http(s) GET call.

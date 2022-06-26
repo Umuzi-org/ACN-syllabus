@@ -3,14 +3,13 @@ _db_id: 218
 content_type: project
 flavours:
 - java
-from_repo: projects/java-specific/introduction-to-spring-boot/part-1
+from_repo: projects/java-specific/introduction-to-spring-boot/part1
 prerequisites:
   hard:
-  - projects/java-specific/introduction-to-spring-boot/part-1
-  - topics/java-specific/introduction-to-spring-boot/part-4
-  - projects/java-specific/introduction-to-spring-boot/part-2
-  - projects/java-specific/introduction-to-spring-boot/part-3
-  
+  - projects/java-specific/introduction-to-spring-boot/part1
+  - topics/java-specific/introduction-to-spring-boot/part4
+  - projects/java-specific/introduction-to-spring-boot/part2
+  - projects/java-specific/introduction-to-spring-boot/part3
   soft: []
 ready: true
 submission_type: continue_repo
@@ -20,14 +19,14 @@ tags:
 - unit-testing
 - caching
 - security
-title: Introduction to Spring Boot - part 4
+title: Introduction to Spring Boot - Part 4
 ---
 
 We are going to work on Spring boot **Caching** and **Security** for this project
 
 ## Caching
 
-Continuing with {{% contentlink path="projects/java-specific/introduction-to-spring-boot/part-1" %}} for the **User** we are going to add **security** and **caching** on the application and we will use test to see if the application does what we want it to.
+Continuing with {{% contentlink path="projects/java-specific/introduction-to-spring-boot/part1" %}} for the **User** we are going to add **security** and **caching** on the application and we will use test to see if the application does what we want it to.
 
 **Step 1**
 
