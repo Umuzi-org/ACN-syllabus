@@ -12,7 +12,7 @@ title: File and directory naming in JavaScript
 
 ## How should I name my JavaScript files and directories?
 
-When thinking about how to name files and directories in JavaScript, Please keep consistency and readability in mind. With that said, please make sure to name files and directories as instructed in the projects directory and file structure examples(e.g. {{% contentlink path="projects/oop/animals/part2" %}}). If there are no directory and file structure examples provided, please make use of snake_case to name your files and directories.
+When thinking about how to name files and directories in JavaScript, please keep consistency and readability in mind. With that said, please make sure to to follow examples in the project instructions if any were given (e.g. {{% contentlink path="projects/oop/animals/part2" %}}). If there are no directory and file structure examples provided, please make use of snake_case to name your files and directories.
 
 ### Why snake case ?
 
