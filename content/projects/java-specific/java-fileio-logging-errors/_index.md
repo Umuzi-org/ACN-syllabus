@@ -7,6 +7,7 @@ prerequisites:
   hard:
   - projects/java-specific/collections
   - topics/java-specific/logging
+  - topics/java-specific/exception-handling
   soft: []
 ready: true
 submission_type: repo
@@ -47,7 +48,7 @@ Notice that the full name used in the file is all lower-case and spaces are repl
 
 3. Create a function called `load` that takes in a name and then grabs a Visitor object from file. It should simply `System.out.println` the visitor.
 
-**On a successful read, a log to the console should be made using log4j and the same when an error occurs;**
+**On a successful read, a log to the console should be made using log4j and the same when an error occurs make sure to use and handle the appropriate exception class for the expected errors**
 
 eg:
 
