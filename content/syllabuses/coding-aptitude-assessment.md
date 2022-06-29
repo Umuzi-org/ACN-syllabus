@@ -3,17 +3,10 @@ _db_id: 80
 title: ACN Coding aptitude mini course and assessment - Python
 ---
 
-## Introduction
 
-- {{% contentlink path="coding_aptitude_assessment/introduction" %}}
-
-## Installing Python
-
-There is no need to install git just yet.
 
 - {{% contentlink path="environment-setup" %}}
 
-## Learn some basic code
 
 - {{% contentlink path="topics/solo-learn/python/1-basic-concepts" %}}
 - {{% contentlink path="topics/solo-learn/python/2-strings-and-variables" %}}

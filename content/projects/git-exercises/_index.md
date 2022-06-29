@@ -15,7 +15,7 @@ prerequisites:
   - projects/bash-for-bootcamp
   - topics/git
   - topics/bootcamp/git-for-bootcamp
-  - topics/github/helloworld
+  - coding_aptitude_assessment/introduction_to_github
   soft: []
 ready: true
 story_points: 1

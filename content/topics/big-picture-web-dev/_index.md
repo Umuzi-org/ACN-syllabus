@@ -4,6 +4,7 @@ content_type: topic
 tags:
 - internet
 title: Big Picture of Web Dev
+ready: True
 ---
 
-{{< youtube Chu8nkdYUYw >}}
+{{< youtube yygDGGpnISo >}}
