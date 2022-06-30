@@ -5,7 +5,7 @@ ready: true
 tags:
 - git
 - github
-title: Say hello to Github
+title: Say hello to Github - deprecated
 ---
 
 Git and Github are friggin wonderful. Trust me on this. During your time on this learning journey, you'll be using these wonderful tools a lot.

@@ -3,13 +3,12 @@ _db_id: 215
 content_type: project
 flavours:
 - java
-from_repo: projects/java-specific/introduction-to-spring-boot/part-1
+from_repo: projects/java-specific/introduction-to-spring-boot/part1
 prerequisites:
   hard:
-  - projects/java-specific/introduction-to-spring-boot/part-1
-  - projects/java-specific/introduction-to-spring-boot/part-2
-  - topics/java-specific/introduction-to-spring-boot/part-3
-
+  - projects/java-specific/introduction-to-spring-boot/part1
+  - projects/java-specific/introduction-to-spring-boot/part2
+  - topics/java-specific/introduction-to-spring-boot/part3
   soft: []
 ready: true
 submission_type: continue_repo
@@ -19,7 +18,7 @@ tags:
 - soap
 - github-api
 - rest-templates
-title: Introduction to Spring Boot - part 3
+title: Introduction to Spring Boot - Part 3
 ---
 
 In this project we will consume a REST API and a SOAP web service in our User service repository.

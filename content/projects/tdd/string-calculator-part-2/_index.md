@@ -1,13 +1,14 @@
 ---
+_db_id: 780
 content_type: project
 flavours:
 - python
+from_repo: projects/tdd/string-calculator-part-1
 prerequisites:
   hard:
   - projects/tdd/string-calculator-part-1
   soft: []
 ready: true
-from_repo: projects/tdd/string-calculator-part-1
 submission_type: continue_repo
 tags:
 - tdd
