@@ -35,6 +35,8 @@ Now, in your language of choice (not bash, use Java, Python or Js) write a funct
 - start date (yyyy-mm-dd)
 - end date (yyyy-mm-dd)
 
+JavaScript developers are encouraged to use [axios](https://axios-http.com/docs/intro) to make the http request.
+
 The function should output a list or array of pull requests on the repo such that the PRs were created, updated, merged or closed between the given two dates.
 For each PR include the `id`, `user` (who opened the PR), `title`, `state`, and when it was created.
 While for private repos a token will be required, the function should be able to work on public repos (eg. [ACN-syllabus](https://github.com/Umuzi-org/ACN-syllabus)) without needing a token.
