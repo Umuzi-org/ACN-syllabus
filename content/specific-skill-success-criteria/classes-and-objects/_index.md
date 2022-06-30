@@ -183,5 +183,5 @@ class Cuboid extends Rectangle {
     return `The length of the cuboid is ${this.length}, and the width is ${this.width}`;
   };
 };
-The learner should know that constructors and methods declared with final or static cannot be overridden. If a method cannot be inherited, it cannot be overridden.
 ```
+The learner should know that constructors and methods declared with final or static cannot be overridden. If a method cannot be inherited, it cannot be overridden.
