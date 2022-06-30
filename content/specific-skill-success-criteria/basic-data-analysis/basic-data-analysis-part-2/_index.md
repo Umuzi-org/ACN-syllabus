@@ -29,12 +29,20 @@ Here are a few sample questions: what is the probability of...
 - rolling 3 sixes in a row if you roll a six-sided die 3 times.
 - rolling 3 sixes in a row if you roll a six-sided die 5 times.
 
-## P-value
+## Hypothesis testing
 
-The learner should know:
-- What is the minimum number that the p-value can have? What does this imply?
-- What is the maximum number that the p-value can have? What does this imply?
+What is a hypothesis test and how do we set one up?
+Describe a simple hypothesis test, and the conditions under which we would accept an outcome as significant.
+Explain what are type I and type II errors.
+Know what the empirical rule is and be able to answer simple problems using it.
 
-The learner should be able to do calculations about p values based on known probabilities.
+### Example problem
 
-For example, if you roll a six-sided die 5 times and get 3 sixes in a row then is the die likely to be fair?
+Suppose we want to test the hypothesis that more than 30% of households have internet access (with a significance level of 5%). We collect a sample of 150 households and find that 57 have access.
+
+You should be able to set up the hypothesis test.
+Calculate the p-value under which we reject the null at the appropriate significance level.
+
+## Resources
+
+[Unit 2: Intermediate Statistics](https://www.umuzi.org/statistics-online-learning) on [KhanAcademy](https://www.khanacademy.org)

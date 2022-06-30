@@ -3,12 +3,12 @@ _db_id: 215
 content_type: project
 flavours:
 - java
-from_repo: projects/java-specific/introduction-to-spring-boot/part-1
+from_repo: projects/java-specific/introduction-to-spring-boot/part1
 prerequisites:
   hard:
-  - projects/java-specific/introduction-to-spring-boot/part-1
-  - projects/java-specific/introduction-to-spring-boot/part-3
-  - topics/java-specific/introduction-to-spring-boot/part-4
+  - projects/java-specific/introduction-to-spring-boot/part1
+  - projects/java-specific/introduction-to-spring-boot/part2
+  - topics/java-specific/introduction-to-spring-boot/part3
   soft: []
 ready: true
 submission_type: continue_repo
@@ -18,7 +18,7 @@ tags:
 - soap
 - github-api
 - rest-templates
-title: Introduction to Spring Boot - part 4
+title: Introduction to Spring Boot - Part 3
 ---
 
 In this project we will consume a REST API and a SOAP web service in our User service repository.
@@ -27,13 +27,13 @@ In this project we will consume a REST API and a SOAP web service in our User se
 
 **Step 1**
 
-Familiarize yourself with the git api found here https://developer.github.com/v3/ learn which endpoint to get your repo, commits maybe branches etc. Try it out or postman or curl on the terminal
+Familiarize yourself with the git api found here https://developer.github.com/v3/ learn which endpoint to get your repo, commits maybe branches etc. Try it out on postman or curl on the terminal
 
 **Step 2**
 
 Now we are going to consume the api in our spring boot application using restTemplates as per topic work. I would like to see
 
-1. I would like you to specifically return the v3 version of the api **(Hint: Read more on how to set headers in RestTemplate)**
+1. v3 version of the api implemented
 2. A list of all your repos - output on the console
 3. A list of commits in 1 repo of your choice - output on the console
 
@@ -45,12 +45,7 @@ Clone the repo found here https://github.com/spring-guides/gs-producing-web-serv
 
 Change the application to run on port 9090 by adding this to the properties file
 
-```
-server.port=9090
-
-```
-
-Run the application you should be able to do to the below url,
+Run the application, you should be able to do to the below url,
 
 ```
 http://localhost:9090/ws/countries.wsdl

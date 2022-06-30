@@ -22,7 +22,10 @@ It should be labelled like: FirstName LastName - Research Notes
    
 Required format: Google Doc
 
-Upload the document to google drive and submit a link. Please make sure that the link works. If your work is private then we won't be able to review it.
+Upload the document to google drive and submit a link. Ensure that the submission has the `docx` file extension. Please make sure that the link works. If your work is private then we won't be able to review it. You can double-check this by opening your own link in an incognito browser.  
+
+Your link should look like this:
+https://drive.google.com/file/d/1YtW4iBMCZuBYxUf1YCZGsDRFminxXKk9/view?usp=sharing or https://docs.google.com/document/d/1YtW4iBMCZuBYxUf1YCZGsDRFminxXKk9/edit
 
 ## Game Design
 

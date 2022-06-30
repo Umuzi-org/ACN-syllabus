@@ -5,7 +5,9 @@ ready: true
 title: 'SUPER IMPORTANT STUFF: How to not fail'
 ---
 
-We want to help you to be successful here. There are a few things that you NEED to get right or you won't make it through our bootcamp.
+We want to help you to be successful here. There are a few things that you NEED to get right.
+
+We've already mentioned some of this stuff, but it's really super important so it's worth repeating.
 
 ## Don't copy! That's cheating and we don't accept cheaters
 
@@ -13,7 +15,7 @@ We expect you to WRITE YOUR OWN CODE! If we catch you copy-pasting then we wont 
 
 Why?
 
-A real coder aims to understand stuff. If you want to be a professional coder and all you know how to do is copy-paste other people's hard work, you won't make it as a professional. You'll get fired from your first job in your first week.
+**A real coder aims to understand stuff**. If you want to be a professional and all you know how to do is copy-paste other people's hard work, you won't make it. You'll get fired from your first job in your first week. If you even get a job.
 
 **Take your success seriously by taking your understanding seriously**
 
@@ -27,6 +29,8 @@ If you give someone else code to copy then we'll be forced to reject both you an
 
 - If we ask you to fill in a form: Do it carefully and correctly.
 - If we give you a project to do: Do the whole thing and make sure you follow the instructions. For example, if we say "write a function that returns 5" and instead you print "five" to the screen we won't be very impressed.
+
+Be precise. Be intentional about the code you write. Don't guess!
 
 ## If we give you something to read then read it
 

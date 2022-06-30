@@ -6,21 +6,20 @@ flavours:
 prerequisites:
   hard:
   - topics/reopening-pull-request
-  - any_language
 learning_outcomes:
-- code_algorithmic_thinking
-- code_pseudo_code
-- code_problem_decomposition
-- code_control_flow
-- code_naming_convention
-- code_code_documentation
-- code_basic_calculation
+  - code_algorithmic_thinking
+  - code_pseudo_code
+  - code_problem_decomposition
+  - code_control_flow
+  - code_naming_convention
+  - code_code_documentation
+  - code_basic_calculation
 ready: true
 story_points: 3
 submission_type: repo
 tags:
-- algrithms
-- clean-code
+  - algorithms
+  - clean-code
 title: Level 1 coding challenges
 ---
 
@@ -78,7 +77,6 @@ If you follow the simple instructions in the "what does success look like?" sect
 ## Super important!
 
 At this point you should be using git from the command line. If you drag and drop to upload your code, you are doing it wrong. Git is amazingly important and now is the time to get used to it!
-
 
 ## Task 1.1
 
