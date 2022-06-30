@@ -6,6 +6,7 @@ flavours:
 prerequisites:
   hard:
   - topics/reopening-pull-request
+  - any_language
 learning_outcomes:
 - code_algorithmic_thinking
 - code_pseudo_code
