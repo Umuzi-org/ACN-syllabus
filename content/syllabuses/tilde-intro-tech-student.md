@@ -12,4 +12,6 @@ The Tilde learning platform is not 100% intuitive to everyone from the get go. T
 - {{% contentlink path="topics/github/helloworld" %}}
 - {{% contentlink path="projects/tilde/basic-repo-card-tutorial" flavour="" %}}
 - {{% contentlink path="topics/messaging/honor-code" %}}
+- {{% contentlink path="topics/reopening-pull-request" %}}
+
 

@@ -5,7 +5,6 @@ title: Alumni Java Bootcamp
 
 - {{% contentlink path="projects/katas/level-1-alternative" flavour="java" %}}
 - {{% contentlink path="topics/bootcamp/extra-instructions-for-alumni" %}}
-- {{% contentlink path="topics/reopening-pull-request" %}}
 - {{% contentlink path="projects/writing-assignment" flavour="markdown" %}}
 - {{% contentlink path="topics/java-specific/intro-to-junit" %}}
 - {{% contentlink path="projects/gamification-engine/start" flavour="java,junit" %}}
