@@ -35,6 +35,10 @@ Now, in your language of choice (not bash, use Java, Python or Js) write a funct
 - start date (yyyy-mm-dd)
 - end date (yyyy-mm-dd)
 
+The URL should look like this: 
+- JavaScript: `https://api.github.com/repos/${owner}/${repositoryName}/pulls?state=all`;
+- Python: `f"https://api.github.com/repos/{owner}/{repository_name}/pulls?state=all"`
+
 JavaScript developers are encouraged to use [axios](https://axios-http.com/docs/intro) to make the http request.
 
 The function should output a list or array of pull requests on the repo such that the PRs were created, updated, merged or closed between the given two dates.
