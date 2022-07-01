@@ -37,7 +37,7 @@ Now, in your language of choice (not bash, use Java, Python or Js) write a funct
 
 The URL should look like this:
 ```
-https://api.github.com/repos/owner/repositoryName/pulls?state=all
+https://api.github.com/repos/owner/repoName/pulls?state=all
 ```
 
 JavaScript developers are encouraged to use [axios](https://axios-http.com/docs/intro) to make the http request.

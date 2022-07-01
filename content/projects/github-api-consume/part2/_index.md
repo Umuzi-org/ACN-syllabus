@@ -27,27 +27,26 @@ In your language of choice(Java, Python, JS) upgrade your existing function to t
 
 This means that if your function worked like so:
 ```
-getPullRequests("Owner", "RepoName", "2022-01-01", "2022-05-05")
+getPullRequests("owner", "repoName", "2022-01-01", "2022-05-05")
 ```
 
 It will now need to work like so:
 ```
-getPullRequests("Owner", "RepoName", "2022-01-01", "2022-05-05", 50, 100)
+getPullRequests("owner", "repoName", "2022-01-01", "2022-05-05", 50, 100)
 ```
 
 The URL will now look like this:
 ```
-https://api.github.com/repos/owner/repositoryName/pulls?limit=50&offset=100
+https://api.github.com/repos/owner/repoName/pulls?limit=50&offset=100
 ```
 
 50 in the URL represents the maximum number of items in a page and 100 representing the starting position of the list of items.
 
-## Instructions for reviewers
-
-- Make sure that the learner has made use of mocks and spies if/when testing this project.
-
 ## Resources
 
 - [Traversing with pagination](https://docs.github.com/en/rest/guides/traversing-with-pagination#basics-of-pagination).
-
 - [Pagination](https://docs.github.com/en/github-ae@latest/rest/overview/resources-in-the-rest-api#pagination)
+
+## Instructions for reviewers
+
+- Make sure that the learner has made use of mocks and spies if/when testing this project.
