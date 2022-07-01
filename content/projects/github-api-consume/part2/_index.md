@@ -16,14 +16,14 @@ title: Add pagination to Consume Github API
 
 In part 1 of this project, you made use of Github's awesome API. Now that you are familiar with how it works, you are going to upgrade that project by adding pagination. 
 
-API Pagination is essential if you're dealing with alot of data and endpoints - making sure your response is easier to handle.
+API Pagination is essential if you're dealing with alot of data and endpoints. It helps make your response easier to handle.
 
 ## Instructions
 
 In your language of choice(Java, Python, JS) upgrade your existing function to take 2 extra input arguments:
 
-- page 
 - limit 
+- offset 
 
 This means that if your function worked like so:
 ```
@@ -32,14 +32,19 @@ getPullRequests("Owner", "RepoName", "2022-01-01", "2022-05-05");
 
 It will now need to work like so:
 ```
-getPullRequests("Owner", "RepoName", "2022-01-01", "2022-05-05", 1, 5);
+getPullRequests("Owner", "RepoName", "2022-01-01", "2022-05-05", 50, 100)
 ```
 
-1 here representing the page we want to return from the end point and 5 representing the offset or limit that we want from page 1.
+The URL will now look something like this:
+```
+https://api.github.com/repos/owner/repositoryName/pulls?limit=50&offset=100
+```
+
+50 in the URL represents the maximum number of items in a page and 100 representing the starting position of the list of items.
 
 ## Instructions for reviewers
 
-- Make sure that the learner has made use of mocks and spies to test the project.
+- Make sure that the learner has made use of mocks and spies if/when testing this project.
 
 ## Resources
 
