@@ -32,7 +32,7 @@ Your repo should contain everything needed to replicate your work:
 
 The [data set](data.csv) consists of health and demographic data for the period 2014-2015, obtained from [Global Health Observatory Data Repository](http://apps.who.int/gho/data/node.main). Here is some [metadata](data-info.txt) that may be useful.
 
-1. Are there any missing values in the data set? What, if anything should be done about them if there are?
+1. Are there any missing values in the data set? You can deal with missing values by either dropping them or filling them with some value (in a variety of ways) or ignoring them. What do you think is best in this case? And why?
 
 2. Are there any other problems with the data? If so, fix them.
 
