@@ -22,6 +22,7 @@ Click on the Reopen pull request button instead.
 
 N.B! The pull request must not be merged, just closed.
 - Open your project on GitHub
-- Go to Pull requests and add filter `is:closed` 
+- Click on Pull requests 
+- Add filter `is:closed` 
 - Choose the Pull Request you want to reopen
-- Select from checkbox and mark as Open.
+- Click on Reopen pull request
