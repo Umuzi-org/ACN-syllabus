@@ -16,16 +16,19 @@ While comments and feedback are useful for enhancing code quality, they can easi
 After committing and pushing your changes and you are ready to get reviewed again, do not click on Compare and pull request.If you do this a new pull request will be created and feedback comments would be lost. 
 
 
-Click on the Reopen pull request button instead.
 
 ## See instructions below to reopening a closed Pull Request: 
 
 N.B! The pull request must not be merged, just closed.
+
 - Open your project on GitHub and Click on Pull requests 
-![](closed.png)
-- Add filter `is:closed` 
 ![](project-page.png)
-- Choose the Pull Request you want to reopen
+
+- Click on closed
+![](closed.png)
+
+- Click on the Pull Request you want to reopen
 ![](pr.png)
+
 - Click on Reopen pull request
-![](closereopen.png)
+![](reopen.png)
