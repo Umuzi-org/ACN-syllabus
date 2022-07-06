@@ -169,10 +169,10 @@ home.makeAllSounds();
 ```
 # Python
 
-home = Home();
-dog1 = Dog();
-dog2 = Dog();
-cat = Cat();
+home = Home()
+dog1 = Dog()
+dog2 = Dog()
+cat = Cat()
 
 home.make_all_sounds() # this doesn't return anything
 home.adopt_pet(dog1) # 1
