@@ -3,6 +3,7 @@ title: Web development boot camp
 _db_id: 12
 ---
 - {{% contentlink path="topics/clean-code/java-script" %}}
+- {{% contentlink path="topics/file-and-directory-naming/javascript" %}}
 - {{% contentlink path="projects/katas/level-0" flavour="javascript" %}}
 - {{% contentlink path="projects/katas/level-1" flavour="javascript" %}}
 - {{% contentlink path="projects/katas/level-2" flavour="javascript" %}}
