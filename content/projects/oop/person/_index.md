@@ -81,7 +81,7 @@ The output of 2 or more interests should look like this: `Hello, my name is Ryan
 
 2. **Single interest or no interests** - Check if the class can work with a single interest and that the string output is different from the multiple interests string output. Instead of `my interests are` it should be `my interest is`.
 The output of 1 interest should look like this: `Hello, my name is Ryan, my gender is male and I am 30 years old. My interest is being a hardarse.`.
-If there are no interests then the output should look like this: `Hello, my name is Ryan, my gender is male and I am 30 years old. I have no interests.`.
+If there are no interests(empty interests array) then the output should look like this: `Hello, my name is Ryan, my gender is male and I am 30 years old. I have no interests.`.
 
 Mark this as Excellent if:
 
