@@ -29,7 +29,7 @@ _db_id: 3
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/5-basic-data-structures" %}}
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/6-basic-algorithmic-scripting" %}}
 - {{% contentlink path="projects/semitone-challenge/basic-algorithm"  flavour="javascript" %}}
-- {{% contentlink path="topics/free-code-camp/responsive-web-design/4-applied-accessability" %}}
+- {{% contentlink path="topics/free-code-camp/responsive-web-design/4-applied-accessibility" %}}
 - {{% contentlink path="topics/free-code-camp/responsive-web-design/5-responsive-web-design-principles" %}}
 - {{% contentlink path="topics/free-code-camp/responsive-web-design/6-css-flexbox" optional="1" %}}
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/3-regular-expressions" %}}
