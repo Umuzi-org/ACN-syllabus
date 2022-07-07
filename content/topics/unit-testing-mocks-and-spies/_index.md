@@ -129,12 +129,8 @@ If you are writing pointless code then you are doing it wrong. Mocks and spies e
 
 ## JS Resources
 
-<<<<<<< HEAD
-{{% contentlink path="topics/jasmine-spies" %}}
-=======
 {{% contentlink path="topics/jasmine-spies" %}}
 
 ## Java Resource
 - [Work through tutorial](https://www.youtube.com/watch?v=xXO8ft-tsrY)
 - https://www.baeldung.com/mockito-spy
->>>>>>> 21d9daf9a3ec716577ca0f818687f6f93d96d734
