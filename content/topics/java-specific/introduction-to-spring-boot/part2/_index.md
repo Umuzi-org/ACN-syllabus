@@ -3,11 +3,47 @@ _db_id: 118
 content_type: topic
 prerequisites:
   hard:
-  - topics/java-specific/introduction-to-spring-boot/part-2
+  - topics/java-specific/introduction-to-spring-boot/part1
   soft: []
 ready: true
-title: Introduction to Spring Boot - part 3
+title: Introduction to Spring Boot - Part 2
 ---
+
+## Microservices
+
+In 2005 Dr Peter Rogers introduced the term micro-web-service introducing the concept of loose-coupled services interacting with one another. It wasn't until 2011 where people who were exploring this architecture starting sharing their ideas and thought and thus increasing the spread and popularity.
+
+#### So what is Microservice Architecture
+
+From Wikipedia
+
+```
+a variant of the service-oriented architecture (SOA) structural style— that arranges an application as a collection of loosely coupled services. In a microservices architecture, services are fine-grained and the protocols are lightweight
+```
+
+In simple terms according to **Sam Newman** "Microservices are the small services that work together"
+
+**But there are fundamental rules that need to be noted about these service which are:**
+
+1. **Single Responsibility principle:** focuses on a piece of functional and only that functionality
+
+2. **High Cohesion Combined With Loose Coupling:** able to change and deploy without affecting other services
+
+3. **Presenting an API:** REST is common but modern transport mechanism are also valid
+
+4. **Unique Source of Identification:** There need to be an id(e.g ApplicationID) which uniquely identifies a record of information
+
+5. **Data Storage Segregation:** Access to data should be owned by the service
+
+6. **Traffic Management:** Make sure service can communicate when its overloaded and can terminate calls that take long to respond
+
+7. **Automating The Process:** Self-deploy service without any intervention (CI/CD)
+
+8. **Minimal Database Tables** (Preferably Isolated Tables)
+
+9. **Constant Monitoring**
+
+![mono-vs-micro-service](mono-vs-micro-service.png)
 
 Two of the most commonly used Api architectures currently in use are REST and SOAP.
 
@@ -141,6 +177,11 @@ It is a widely used software in the development community.
 
 ## Resources
 
+https://dzone.com/articles/9-fundamentals-to-a-successful-microservice-design
+https://techbeacon.com/app-dev-testing/5-fundamentals-successful-microservice-design
+https://www.javatpoint.com/advantges-and-disadvantages-of-microservices
+https://www.javatpoint.com/challenges-of-microservices-architecture
+https://www.marcobehler.com/guides/java-microservices-a-practical-guide
 https://www.guru99.com/soap-simple-object-access-protocol.html.
 https://www.sitepoint.com/developers-rest-api/
 https://spring.io/guides/tutorials/bookmarks/
