@@ -11,7 +11,6 @@ learning_outcomes:
 prerequisites:
   hard:
   - projects/tdd/simple-calculator-part1
-  soft: []
 ready: true
 submission_type: repo
 tags:
