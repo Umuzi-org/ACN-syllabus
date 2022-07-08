@@ -17,17 +17,17 @@ After committing and pushing your changes and you are ready to get reviewed agai
 
 ![](compare&pr.png)
 
-## How to reopen a closed Pull request 
+## How to reopen a closed pull request 
 
 **N.B! The pull request must not be merged, just closed. If changes are requested on previously merged work, a new pull request will need to be made**
 
-- Open your project on GitHub and Click on Pull requests 
+- Open your project on GitHub and Click on `Pull requests` 
 ![](project-page.png)
 
-- Click on closed
+- Click on `closed`
 ![](closed.png)
 
-- Click on the Pull Request you want to reopen
+- Click on the pull request you want to reopen
 ![](pr.png)
 
 - Scroll to the end of the page and click on `Reopen pull request`
