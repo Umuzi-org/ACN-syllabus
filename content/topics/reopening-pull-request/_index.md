@@ -5,7 +5,7 @@ ready: true
 title: Reopening a Pull request
 ---
 
-Handling requested changes on Pull Requests
+Handling requested changes on pull requests
 
 Pull requests are an excellent approach to communicating proposed code changes for review and receiving feedback from staff and other learners. This usually leads to dialogues and suggestions in the comments, which may lead to more code changes.
 
@@ -21,7 +21,7 @@ How to reopen a closed pull request
 
 **N.B! The pull request must not be merged, just closed. If changes are requested on previously merged work, a new pull request will need to be made**
 
-- Open your project on GitHub and Click on `Pull requests` 
+- Open your project on GitHub and Click on `pull requests` 
 ![](project-page.png)
 
 - Click on `closed`
