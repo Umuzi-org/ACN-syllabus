@@ -13,7 +13,7 @@ While comments and feedback are useful for enhancing code quality, they can easi
 
 ## Do not click Compare & pull request
 
-After committing and pushing your changes and you are ready to get reviewed again, do not click on `Compare and pull request`. If you do this a new Pull request will be created and feedback comments will be lost. 
+After committing and pushing your changes and you are ready to get reviewed again, do not click on `Compare & pull request`. If you do this a new Pull request will be created and feedback comments will be lost. 
 
 ![](compare&pr.png)
 
