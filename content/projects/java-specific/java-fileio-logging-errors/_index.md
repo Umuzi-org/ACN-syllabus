@@ -7,6 +7,7 @@ prerequisites:
   hard:
   - projects/java-specific/collections
   - topics/java-specific/logging
+  - topics/java-specific/exception-handling
   soft: []
 ready: true
 submission_type: repo
@@ -36,6 +37,10 @@ Create the following functionality in a TDD way. And make sure that everything h
 2. Create a function called `save` that saves the visitor's data to a Text file. The file name should be named like this `visitor_{their_full_name}.txt`.
 
 **On a successful save, a log to the console should be made using log4j and the same when an error occurs;**
+
+### java
+
+Make sure to use and handle the appropriate exception class for the expected errors
 
 ```
 alice.save()   # results in visitor_alice_cooper.txt
