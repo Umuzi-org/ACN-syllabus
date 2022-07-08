@@ -77,24 +77,57 @@ Please note that one person can have multiple baskets. If you look at the data, 
 
 ## Write some functionality
 
+### Important notes for Javascript solutions
+
+In Javascript it is best practice to use destructuring when passing arguments to a function. You can learn about destructuring here: [destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment).
+
+Please make sure you use destructuring for all your functions. 
+
+```
+getCustomerBaskets(shoppingBaskets, "sine@umuzi.org"); // DON'T DO THIS
+getCustomerBaskets("sine@umuzi.org", customerBaskets); // DON'T DO THIS EITHER
+
+// The problem with the above code is that if you get the order of the parameters wrong, then things will break. Your functions should work like this instead:
+
+function getCustomerBaskets({ shoppingBaskets, email }) {...}
+
+getCustomerBaskets({shoppingBaskets, email}) //DO THIS
+``` 
+
 ### get baskets belonging to a single customer
 
 Write a function called `get customer baskets` that takes in the email address and the data array as arguments and returns a list/array of all the shopping baskets that belong to the customer with that email address.
 
 If the customer has no shopping baskets then return an empty list/array.
 
-e.g. `getCustomerBaskets("tshepo@umuzi.org", dataStore);`
+e.g. 
+```
+getCustomerBaskets({ email, shoppingBaskets }); //javascript
+getCustomerBaskets(email, shoppingBaskets); //java
+get_customer_baskets(email, shopping_baskets) // python 
+```
 ### get a list of all the customer email addresses
 
 Write a function called `get all customers`, the function should take the data array as an argument and should return a list of customer email addresses. The list must have no duplicates.
 
-e.g. `getAllCustomers(dataStore);`
+e.g. 
+```
+getAllCustomers({ shoppingBaskets }); //javascript
+getAllCustomers(shoppingBaskets); //java
+get_all_customers(shopping_baskets) // python 
+```
 ### list all the items that have been paid for but not yet delivered
 
 Write a function called `required stock`, your function should take the data array as an argument and should return all the items that need to be sent out for delivery.
 You need to return data in the correct format. Just include the names and quantities of the items.
 
-e.g. `requiredStock(dataStore);`
+e.g.
+```
+requiredStock({ shoppingBaskets }); //javascript
+requiredStock(shoppingBaskets); //java
+required_stock(shopping_baskets) //python
+```
+
 
 For example, if one customer paid for 2 hamsters and another customer paid for one hamster and a bag of sawdust then your function should return the following data structure:
 
@@ -110,7 +143,12 @@ For example, if one customer paid for 2 hamsters and another customer paid for o
 Write a function called `total spent` that takes an email address as an argument and the data array.
 The function must return the total amount that the customer has spent up until this time.
 
-e.g. `totalSpent("ryan@umuzi.org", dataStore);`
+e.g. 
+```
+totalSpent({ email, shoppingBaskets }); //javascript
+totalSpent(email, shoppingBaskets); //java
+total_spent(email, shopping_baskets) //python
+```
 
 Note that if a basket has been delivered then it has been paid for.
 
@@ -119,28 +157,38 @@ Note that if a basket has been delivered then it has been paid for.
 Write a function called `top customers` that takes the data array as an argument and returns a list/array of all the customers. The result should be ordered according to the total amount spent.
 The returned data structure should be an array/list of dictionaries/objects showing the email addresses and the total amounts spent per customer.
 
-e.g. `topCustomers(dataStore);`
+e.g. 
+```
+topCustomers({ shoppingBaskets }); // javascript
+topCustomers(shoppingBaskets); // java
+top_customers(shopping_baskets) //python
+```
 
 Make sure the returned value matches the following structure:
 
 ```
 [
     {"email": "tshepo@umuzi.org", "total": 1023.10},
-    {"email": "maru@email.com", "total":950},
+    {"email": "maru@email.com", "total": 950},
     ... etc
 ]
 ```
 
 Hint: You have already defined some functions that would be useful in finding this result. Call those functions.
 
-
 ### customers who have OPEN baskets
 
 Write a function called `get customers with open baskets` that takes in the data array as an argument and returns a list/array of email addresses for customers who have baskets that are open.
-e.g. `getCustomersWithOpenBaskets(dataStore);`
+e.g. 
+```
+getCustomersWithOpenBaskets({ shoppingBaskets }); //javascript
+getCustomersWithOpenBaskets(shoppingBaskets); //java
+get_customers_with_open_baskets(shopping_baskets) //python
+```
 
 ## Notes to reviewers
 
+## Notes to reviewers
 - The code must be DRY.
 - There can be some global constants to help prevent typos. eg `const DELIVERED="DELIVERED"`.
 - Functions are supposed to return very specific things.

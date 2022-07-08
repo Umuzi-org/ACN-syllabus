@@ -21,7 +21,8 @@ title: Plotly Dashboard Assignment
 
 ## Tutorials
 
-- [Create a Plotly Dashboard in under 10 minutes](https://moderndata.plot.ly/create-a-plotly-dashboards-in-under-10-minutes/) (Easy)
+- [Create a basic Plotly Dashboard](https://pythoninoffice.com/python-dash-web-app-tutorial/) (Simple)
+- [Create a Plotly Dashboard in under 10 minutes](https://realpython.com/python-dash/) (Easy)
 - [Create a dashboard with Pusher and Flask](https://pusher.com/tutorials/live-dashboard-python) (Advanced)
 
 ## Assignment

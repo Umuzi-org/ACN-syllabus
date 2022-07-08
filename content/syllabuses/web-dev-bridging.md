@@ -16,7 +16,6 @@ _db_id: 25
 - {{% contentlink path="soft-skills/communication" %}}
 - {{% contentlink path="topics/solo-learn/javascript/8-emcascript-6" %}}
 
-
 ### Extra Soft Skills
 
 - {{% contentlink path="soft-skills/emotional-intelligence" %}}
