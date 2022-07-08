@@ -35,6 +35,8 @@ Familiarize yourself with the git api found here https://developer.github.com/v3
 
 Now we are going to consume the api in our spring boot application using restTemplates as per topic work.
 
+We would like to see:
+
 1. v3 version of the api implemented
 2. A list of all your repos - output on the console
 3. A list of commits in 1 repo of your choice - output on the console
