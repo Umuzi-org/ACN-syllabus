@@ -160,6 +160,17 @@ This object should be inside a file called `validation_error_messages.js`
 - [Python Errors](https://www.codementor.io/sheena/how-to-write-python-custom-exceptions-du107ufv9?referral=sheena-kvo1e6ewh)
 - [Exceptions and Pytest](https://stackoverflow.com/questions/23337471/how-to-properly-assert-that-an-exception-gets-raised-in-pytest)
 
+### DRY code for Python
+
+A good way to practice DRY in this project is to create a dictionary that stores your password validators and then use the dictionary throughout your code.
+
+```
+password_validators = {
+  "error string": "regex that validates input that results in the error string",
+  ...etc.
+}
+```
+
 ## Java resources
 
 - https://howtodoinjava.com/junit5/expected-exception-example/
