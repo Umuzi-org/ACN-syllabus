@@ -5,6 +5,7 @@ title: React Native
 - {{% contentlink path="react-native/introduction" %}}
 - {{% contentlink path="react-native/getting-set-up" %}}
 - {{% contentlink path="react-native/expo-tutorial-project" %}}
+- {{% contentlink path="react-native/simple-vario" %}}
 
 
 - ReactNative components:
