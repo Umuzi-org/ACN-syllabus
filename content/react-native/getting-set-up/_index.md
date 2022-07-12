@@ -1,10 +1,12 @@
 ---
 title: React Native setup
+content_type: topic
+ready: true
 ---
 
 When writing ReactNative apps, it's pretty common to use a thing called Expo. It's basically a library that sits on top of ReactNative. It includes a bunch of APIs and components that you'll probably need; and it helps with things like deploying to app stores.
 
-To see a full list of all the goodies included in Expo, you can take a look [here](https://docs.expo.dev/versions/latest/). Poke around a little bit. Think of the possibilities...
+To see a full list of all the goodies included in Expo, you can take a look [here](https://docs.expo.dev/versions/latest/). Poke around a little bit, you'll get to play with some of that stuff very soon. Think of the possibilities...
 
 ## Ok let's get started
 
@@ -48,6 +50,6 @@ Now follow [this tutorial](https://docs.expo.dev/get-started/create-a-new-app/) 
 
 The pages we linked to here have a lot of information. Double check that you can answer the following questions:
 
-- What is the difference between a manages and a bare workflow?
+- What is the difference between a managed and a bare workflow?
 - What workflow should you be using if you are new to ReactNative and Expo?
 - Can you switch from a managed workflow to a bare workflow? Why would you want to do that?

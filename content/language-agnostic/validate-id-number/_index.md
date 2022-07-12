@@ -8,6 +8,9 @@ learning_outcomes:
 - code_problem_decomposition
 - code_algorithmic_thinking
 - code_tdd
+prerequisites:
+  hard:
+  - projects/tdd/simple-calculator-part1
 ready: true
 submission_type: repo
 tags:

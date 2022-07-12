@@ -3,11 +3,11 @@ _db_id: 214
 content_type: project
 flavours:
 - java
-from_repo: projects/java-specific/introduction-to-spring-boot/part-1
+from_repo: projects/java-specific/introduction-to-spring-boot/part1
 prerequisites:
   hard:
-  - projects/java-specific/introduction-to-spring-boot/part-1
-  - topics/java-specific/introduction-to-spring-boot/part-2
+  - projects/java-specific/introduction-to-spring-boot/part1
+  - topics/java-specific/introduction-to-spring-boot/part2
   soft: []
 ready: true
 submission_type: continue_repo
@@ -16,14 +16,14 @@ tags:
 - rest-api
 - mvc
 - annotations
-title: Introduction to Spring Boot - part 2
+title: Introduction to Spring Boot - Part 2
 ---
 
 We are going to focus on creating a REST api that will serve as a end point to our spring boot java application.
 
 ## Service
 
-Continuing with {{% contentlink path="projects/java-specific/introduction-to-spring-boot/part-1" %}} for the **User** we are going to expose a **REST endpoint** to the application and we will use test to see if the application does what we want it to.
+Continuing with {{% contentlink path="projects/java-specific/introduction-to-spring-boot/part1" %}} for the **User** we are going to expose a **REST endpoint** to the application and we will use test to see if the application does what we want it to.
 
 **Step 1**
 
@@ -38,7 +38,7 @@ public class UserController {
 
 **Step 2**
 
-Make sure the service created here {{% contentlink path="projects/java-specific/introduction-to-spring-boot/part-1" %}} is marked as a service.
+Make sure the service created here {{% contentlink path="projects/java-specific/introduction-to-spring-boot/part1" %}} is marked as a service.
 
 ```
 ?
@@ -69,7 +69,7 @@ Do the following in the UserController.
 // returns string "Hello [Name]"
 ```
 
-3 - Implement an end point to REMOEVE a user, should return that 
+3 - Implement an end point to REMOEVE a user, should return that
 ```
 // returns string "[Name] removed"
 ```
@@ -91,7 +91,7 @@ Example
 Do not forget to write integration tests for the endpoints(addUser, getUserById, removeUser) in your controller using MockMVC or TestRestTemplate.
 
 - All CRUD operations defined in your services should be accompanied by corresponding unit test,
-  using the relevant spring annotations as in {{% contentlink path="projects/java-specific/introduction-to-spring-boot/part-1" %}}.
+  using the relevant spring annotations as in {{% contentlink path="projects/java-specific/introduction-to-spring-boot/part1" %}}.
 
 **Side Notes**
 1 - Please remember to test your end points using postman. If you need help with using postman access the using postman link.

@@ -1,6 +1,7 @@
 ---
 content_type: topic
 title: Introduction to React Native
+ready: true
 ---
 
 React Native has a really catchy catch-line: Learn once, write anywhere.
@@ -21,7 +22,7 @@ You don't need to be a super-expert just yet, we'll get there 🤓
 
 ## Ok, but what is it really - Native versus hybrid dev
 
-React Native is primarily about making mobile apps (although you can even run RN apps on certain TVs these days. PRetty cool...).
+React Native is primarily about making mobile apps (although you can even run RN apps on certain TVs these days. Pretty cool...).
 
 Now when it comes to mobile dev you generally have 2 options: You can go native or you can go hybrid.
 
@@ -35,7 +36,7 @@ The downside is that if you wanted to support only Android and iPhones then you 
 
 The other option is hybrid dev. Now a hybrid app is one that uses one code base to support multiple platforms. One codebase, one team, one language... Now that sounds pretty slick, but what about accessing the hardware?
 
-Now any serious hybrid app framework (such as ReactNative) has the ability to access the hardware. It would have a bunch of apis available that let you, for example, talk to the gps, accelerometer or file system. And, you should be able to drop into native code when you need to in case there isn't an api that's already easily available.
+Any serious hybrid app framework (such as ReactNative) has the ability to access the hardware. It would have a bunch of apis available that let you, for example, talk to the GPS, accelerometer or file system. And you should be able to drop into native code when you need to in case there isn't an api that's already easily available.
 
 ## ReactNative versus other hybrid dev
 
@@ -50,9 +51,12 @@ Here is a little list of why React Native is a good thing to learn:
 - It works
 - It makes good use of web dev skills. So that means that:
   - It's easy to build ReactNative teams from people who already know web development
-  - Any skill learned in ReactNative is fairly transferrable
+  - Any skill learned in ReactNative is fairly transferrable to web development as a whole
 - It's backed by a very solid company - Meta (formally known as Facebook) has a damn fine engineering team
 - It is fast on the device - it "compiles" into native components so it works well everywhere
+- There is a lot of good content out there and a big community of people willing to help if you get stuck
+- React is arguably the most popular web frontend framework around at the time of writing. Levelling up your React skillz is just good for you
+- Really serious and amazing dev houses such as BBD have adopted RN as a part of their stack
 
 If you want more, take a look at these resources:
 

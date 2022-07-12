@@ -1,12 +1,18 @@
 ---
 title: Expo tutorial project
+content_type: project
+ready: true
+submission_type: repo
+flavours:
+- javascript
+- typescript
 ---
 
 Alrighty, time to get your hands dirty.
 
 Start off by doing [this tutorial](https://docs.expo.dev/tutorial/planning/). Make sure that you understand what you are doing, we'll be doing much harder stuff soon.
 
-Please be sure to include a `.nvmrc` file in your project submission.
+Please be sure to include a `.nvmrc` file in your project submission. If you don't know what that means then go read about NVM.
 
 ## Moar requirements
 
@@ -60,6 +66,7 @@ If you are using the Expo go app on your phone then you might notice that even a
 Going forward, we will require a video demo of all the apps you create during this course. If there is a multi-part project then we will always want to be able to access videos of any part of the project.
 
 Please make sure that your video:
+
 - demonstrates all functionality
 - if a voice-over is needed then talk your talk
 
@@ -69,9 +76,14 @@ Include all video links on your README page.
 
 There are a few different ways:
 
-You can install a screen-recorder app such as [Simple Screen Recorder](https://github.com/MaartenBaert/ssr) or OBS(https://obsproject.com/). Once you have a recording you can upload it to Youtube. OBS does also allow you to stream straight to Youtube but you don't really need to get fancy here. Unless you want to, you wonderful nerd.
+You can install a screen-recorder app such as [Simple Screen Recorder](https://github.com/MaartenBaert/ssr) or [OBS](https://obsproject.com/). Once you have a recording you can upload it to Youtube. OBS does also allow you to stream straight to Youtube but you don't really need to get fancy here. Unless you want to, you wonderful nerd.
 
 You can also make use of a service such as [StreamYard](https://streamyard.com/) to record straight to Youtube.
 
 Make sure your video is marked as UNLISTED or PUBLIC, then link to the video in your README.
 
+### Screen mirroring
+
+If you are using a physical device for a project then it would likely be necessary to mirror your screen. That is, get your phone's display to show up on your computer. There are many excellent tools that you can use for this:
+
+https://fossbytes.com/android-screen-mirroring-apps-pc/

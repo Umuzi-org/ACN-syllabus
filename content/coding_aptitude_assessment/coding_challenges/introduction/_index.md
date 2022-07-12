@@ -25,6 +25,17 @@ Bots are pretty stupid so if you put your code in the wrong place it will tell y
 
 **Good coders pay close attention to detail and read specifications properly.**
 
+## Make sure you can run your own functions on your own device
+
+If you write a function then you should be able to run the function on your own computer or phone. This is really important. If you submit a function that doesn't work then you will get a negative review and you'll have to try again.
+
+Running the code on your own device is:
+
+- a skill you need to develop!
+- a quick and easy way to get detailed and accurate feedback
+
+The fastest way to see if your code is broken is to run it yourself. If you submit guesswork then that would actually be a waste of your time.
+
 ## What order should you do things in?
 
 We have organized the tasks from the easiest to the hardest. So it would make sense to try to do them in order. But you can really do them in whatever order you want.

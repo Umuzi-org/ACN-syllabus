@@ -5,7 +5,7 @@ flavours:
 - none
 prerequisites:
   hard:
-  - topics/github/helloworld
+  - coding_aptitude_assessment/introduction_to_github
   - environment-setup
 protect_main_branch: false
 ready: true
