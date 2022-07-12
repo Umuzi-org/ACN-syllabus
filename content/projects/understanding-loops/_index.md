@@ -186,7 +186,6 @@ getCustomersWithOpenBaskets(shoppingBaskets); //java
 get_customers_with_open_baskets(shopping_baskets) //python
 ```
 
-## Notes to reviewers
 
 ## Notes to reviewers
 - The code must be DRY.
