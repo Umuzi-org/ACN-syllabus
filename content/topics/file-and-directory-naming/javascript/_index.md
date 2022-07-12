@@ -1,12 +1,12 @@
 ---
+_db_id: 786
 content_type: topic
 prerequisites:
   hard:
-    - topics/file-and-directory-naming/general 
-
+  - topics/file-and-directory-naming/general
 ready: true
 tags:
-  - File and directory naming
+- File and directory naming
 title: File and directory naming in JavaScript
 ---
 

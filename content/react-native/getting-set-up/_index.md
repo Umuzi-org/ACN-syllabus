@@ -1,7 +1,8 @@
 ---
-title: React Native setup
+_db_id: 784
 content_type: topic
 ready: true
+title: React Native setup
 ---
 
 When writing ReactNative apps, it's pretty common to use a thing called Expo. It's basically a library that sits on top of ReactNative. It includes a bunch of APIs and components that you'll probably need; and it helps with things like deploying to app stores.

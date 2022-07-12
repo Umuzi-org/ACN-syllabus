@@ -5,9 +5,9 @@ _db_id: 82
 
 - {{% contentlink path="react-native/introduction" %}}
 - {{% contentlink path="react-native/getting-set-up" %}}
-- {{% contentlink path="react-native/expo-tutorial-project" %}}
-- {{% contentlink path="react-native/simple-vario/intro" %}}
-- {{% contentlink path="react-native/simple-vario/data-display" %}}
+- {{% contentlink path="react-native/expo-tutorial-project" flavour="javascript" %}}
+- {{% contentlink path="react-native/simple-vario/intro" flavour="javascript" %}}
+- {{% contentlink path="react-native/simple-vario/data-display" flavour="javascript" %}}
 
 
 

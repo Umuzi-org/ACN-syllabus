@@ -1,7 +1,8 @@
 ---
+_db_id: 783
 content_type: topic
-title: Introduction to React Native
 ready: true
+title: Introduction to React Native
 ---
 
 React Native has a really catchy catch-line: Learn once, write anywhere.

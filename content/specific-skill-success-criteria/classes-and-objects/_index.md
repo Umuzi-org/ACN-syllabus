@@ -2,12 +2,12 @@
 _db_id: 711
 content_type: project
 flavours:
-  - any_language
+- any_language
 ready: true
 submission_type: link
 tags:
-  - technical-assessment
-title: "Assessment: Classes and objects"
+- technical-assessment
+title: 'Assessment: Classes and objects'
 ---
 
 ## Note about submission format

@@ -1,15 +1,16 @@
 ---
-title: Simple variometer - data display
-submission_type: continue_repo
+_db_id: 782
+content_type: project
 flavours:
 - javascript
 - typescript
+from_repo: react-native/simple-vario/intro
 prerequisites:
   hard:
   - react-native/simple-vario/intro
-from_repo: react-native/simple-vario/intro
 ready: true
-content_type: project
+submission_type: continue_repo
+title: Simple variometer - data display
 ---
 
 Now that you have made the vario beep, it's time to add a bit more functionality:
@@ -32,4 +33,3 @@ Here are some APIs that will help you with this.
 ## UI
 
 Please don't make use of any component libraries at this point. Just use whatever Expo and ReactNative give you, and style those appropriately.
-

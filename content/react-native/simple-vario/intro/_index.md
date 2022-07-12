@@ -1,11 +1,12 @@
 ---
-title: Simple variometer
-submission_type: repo
+_db_id: 781
+content_type: project
 flavours:
 - javascript
 - typescript
 ready: true
-content_type: project
+submission_type: repo
+title: Simple variometer
 ---
 
 In this project you'll learn:
@@ -75,4 +76,3 @@ Now update your code so that whenever you get a reading from the accelerator, yo
 ### Bringing it together
 
 Once you understand how acceleration works, you'll just need to trigger your noises at the right time. That's it.
-

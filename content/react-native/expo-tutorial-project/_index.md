@@ -1,11 +1,12 @@
 ---
-title: Expo tutorial project
+_db_id: 785
 content_type: project
-ready: true
-submission_type: repo
 flavours:
 - javascript
 - typescript
+ready: true
+submission_type: repo
+title: Expo tutorial project
 ---
 
 Alrighty, time to get your hands dirty.

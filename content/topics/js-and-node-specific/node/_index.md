@@ -3,9 +3,9 @@ _db_id: 131
 content_type: topic
 ready: true
 tags:
-  - node
-  - javascript
-  - backend
+- node
+- javascript
+- backend
 title: Node
 ---
 
