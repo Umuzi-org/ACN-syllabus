@@ -10,7 +10,7 @@ title: NCIT - JavaScript
 - {{% contentlink path="topics/jasmine-unit-tests" %}}
 - {{% contentlink path="national-qualifications-framework/ncit/assessments/test-driven-development" flavour="javascript" %}}
 - {{% contentlink path="national-qualifications-framework/ncit/assessments/constructive-feedback" %}}
-- {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/7-object-orientated-programming" %}}
+- {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/7-object-oriented-programming" %}}
 - {{% contentlink path="national-qualifications-framework/ncit/assessments/object-oriented-programming" flavour="javascript" %}}
 - {{% contentlink path="national-qualifications-framework/ncit/assessments/conducting-research-and-user-interviews" %}}
 - {{% contentlink path="national-qualifications-framework/ncit/assessments/research-documnet" %}}

@@ -8,7 +8,7 @@ submission_type: link
 tags:
   - javascript
   - oop
-title: FreeCodeCamp - Object Orientated Programming
+title: FreeCodeCamp - Object Oriented Programming
 ---
 
 Make an account here if you haven't already: https://www.freecodecamp.org/learn
