@@ -5,7 +5,7 @@ flavours:
 - java
 prerequisites:
   hard:
-  - projects/java-specific/introduction-to-spring-boot/part-4
+  - projects/java-specific/introduction-to-spring-boot/part4
   - topics/java-specific/jdbc-templates
   soft:
   - sql/shop-project

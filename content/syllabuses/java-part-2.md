@@ -13,9 +13,9 @@ title: Java Systems Development - part 2
 - {{% contentlink path="projects/java-specific/data-structures" flavour="java" %}}
 - {{% contentlink path="projects/java-specific/generics" flavour="java" %}}
 - {{% contentlink path="projects/java-specific/java-fileio-logging-errors" flavour="java" %}}
-- {{% contentlink path="projects/java-specific/introduction-to-spring-boot/part-2" flavour="java" %}}
+- {{% contentlink path="projects/java-specific/introduction-to-spring-boot/part2" flavour="java" %}}
 - {{% contentlink path="projects/java-specific/hello-sql-and-java" flavour="java" %}}
-- {{% contentlink path="projects/java-specific/introduction-to-spring-boot/part-3" flavour="java" %}}
+- {{% contentlink path="projects/java-specific/introduction-to-spring-boot/part3" flavour="java" %}}
 - {{% contentlink path="projects/basic-unit-test-mocks-kata" flavour="java" %}}
 - {{% contentlink path="projects/tdd/password-checker/part2" flavour="java" %}}
-- {{% contentlink path="projects/java-specific/introduction-to-spring-boot/part-4" flavour="java" %}}
+- {{% contentlink path="projects/java-specific/introduction-to-spring-boot/part4" flavour="java" %}}

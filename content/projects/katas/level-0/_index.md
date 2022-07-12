@@ -2,22 +2,22 @@
 _db_id: 416
 content_type: project
 flavours:
-- any_language
+  - any_language
 learning_outcomes:
-- code_algorithmic_thinking
-- code_pseudo_code
-- code_problem_decomposition
-- code_control_flow
-- code_naming_convention
-- code_code_documentation
-- code_basic_calculation
+  - code_algorithmic_thinking
+  - code_pseudo_code
+  - code_problem_decomposition
+  - code_control_flow
+  - code_naming_convention
+  - code_code_documentation
+  - code_basic_calculation
 prerequisites:
   hard: null
 ready: true
 submission_type: link
 tags:
-- algrithms
-- clean-code
+  - algorithms
+  - clean-code
 title: Level 0 coding challenges
 ---
 
@@ -97,7 +97,6 @@ Code is read more often than it is written. Get into the habit of writing clean 
 - don't leave a million lines of commented out code
 - don't leave lots of blank lines
 - do choose names wisely and consistently
-
 
 ### SUPER IMPORTANT: Do Not copy code from the Internet or from each other
 
@@ -198,7 +197,7 @@ Write a function that takes in a number representing the temperature in Celsius 
 
 ## Task 0.8
 
-Make a function to convert any number into hours and minutes. 
+Make a function to convert any number into hours and minutes.
 
 For example, 71 will become “1 hour, 11 minutes"; 133 will become “2 hours, 13 minutes".
 
@@ -212,6 +211,6 @@ For example, Input: `"Umuzi"`, Output: `Vowels: u, i`.
 
 ## Task 0.10
 
-Make a function that takes two strings as input, and outputs the common characters/letters that they share. 
+Make a function that takes two strings as input, and outputs the common characters/letters that they share.
 
 For example, Input: ‘house’, ‘computers’ . Output: ‘Common letters: o, u, e, s’)

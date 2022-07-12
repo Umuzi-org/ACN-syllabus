@@ -7,13 +7,15 @@ title: Getting set up to write code on your device
 
 You'll need to be set up so that you can write and run code on your own device. There are a few options here.
 
-Please follow the appropriate link:
+## Different languages work differently
+
+If you are here for web dev, you'll be learning JavaScript, if you are here for Data Science or Data Engineering you'll be doing Python. And if you are doing our Java course, follow the Java instructions.
+
+We run quite a few different courses so if you are unsure what language you'll be using then you can scroll down on your Tilde backlog. You'll be able to see some Topics and Projects that tell you what language you are using.
 
 ## If you have a computer
 
 Please follow the instructions below based on the language you are going to be using.
-
-If you are here for web dev, you'll be learning JavaScript, if you are here for Data Science or Data Engineering you'll be doing Python. And if you are doing our Java course, follow the Java instructions.
 
 - {{% contentlink path="environment-setup/javascript-on-computer" %}}
 - {{% contentlink path="environment-setup/python-on-computer" %}}
