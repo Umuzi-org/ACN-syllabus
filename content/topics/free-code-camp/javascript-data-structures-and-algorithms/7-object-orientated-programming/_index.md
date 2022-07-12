@@ -2,18 +2,18 @@
 _db_id: 312
 content_type: project
 flavours:
-- none
+  - none
 ready: true
 submission_type: link
 tags:
-- javascript
-- oop
+  - javascript
+  - oop
 title: FreeCodeCamp - Object Orientated Programming
 ---
 
 Make an account here if you haven't already: https://www.freecodecamp.org/learn
 
-Go to the Menu and select Curriculum, under "JavaScript Algorithms and Data Structures," complete the sections "Build JavaScript Objects" to "Accessing Nested Objects".
+Under "JavaScript Algorithms and Data Structures," complete the all challenges under "Object Oriented Programming".
 
 Try not to ask for too many hints. Do your best to understand everything.
 
