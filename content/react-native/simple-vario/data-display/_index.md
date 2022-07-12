@@ -26,8 +26,8 @@ Note that the pilot will be using both their hands to control their paraglider a
 
 Here are some APIs that will help you with this.
 
-https://docs.expo.dev/versions/v45.0.0/sdk/location/
-https://docs.expo.dev/versions/v45.0.0/sdk/keep-awake/
+- https://docs.expo.dev/versions/v45.0.0/sdk/location/
+- https://docs.expo.dev/versions/v45.0.0/sdk/keep-awake/
 
 ## UI
 
