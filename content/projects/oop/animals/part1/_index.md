@@ -2,22 +2,22 @@
 _db_id: 224
 content_type: project
 flavours:
-- any_language
+  - any_language
 learning_outcomes:
-- code_oop_class_instantiation
-- code_oop_polymorphism
-- code_oop_encapsulation
-- code_oop_inheritance
-- code_oop_composition
+  - code_oop_class_instantiation
+  - code_oop_polymorphism
+  - code_oop_encapsulation
+  - code_oop_inheritance
+  - code_oop_composition
 prerequisites:
   hard:
-  - projects/oop/person
+    - projects/oop/person
   soft: []
 ready: true
 story_points: 3
 submission_type: repo
 tags:
-- oop
+  - oop
 title: Animals Part 1. OOP basics
 ---
 
@@ -120,20 +120,17 @@ home.makeAllSounds() // this doesn't return anything
 home.adoptPet(dog1) // 1
 home.makeAllSounds()
 // this returns:
-// Bark
+// ["Bark"]
 
 home.adoptPet(cat) // 2
 home.makeAllSounds()
 // this returns:
-// Bark
-// Meow
+// ["Bark", "Meow"]
 
 home.adoptPet(dog2) // 3
 home.makeAllSounds()
 // this returns:
-// Bark
-// Meow
-// Bark
+// ["Bark", "Meow", Bark]
 
 ```
 
@@ -150,20 +147,17 @@ home.makeAllSounds();// this doesn't return anything
 home.adoptPet(dog1); // 1
 home.makeAllSounds();
 // this returns:
-// Bark
+// ["Bark"]
 
 home.adoptPet(cat); // 2
 home.makeAllSounds();
 // this returns:
-// Bark
-// Meow
+// ["Bark", "Meow"]
 
 home.adoptPet(dog2); // 3
 home.makeAllSounds();
 // this returns:
-// Bark
-// Meow
-// Bark
+// ["Bark", "Meow", Bark]
 ```
 
 ```
@@ -178,20 +172,18 @@ home.make_all_sounds() # this doesn't return anything
 home.adopt_pet(dog1) # 1
 home.make_all_sounds()
 # this returns:
-# Bark
+# ["Bark"]
+
 
 home.adopt_pet(cat) # 2
 home.make_all_sounds()
 # this returns:
-# Bark
-# Meow
+# ["Bark", "Meow"]
 
 home.adopt_pet(dog2) # 3
 home.make_all_sounds
 # this returns:
-# Bark
-# Meow
-# Bark
+# ["Bark", "Meow", Bark]
 ```
 
 Add some functionality to `adoptPet` so that the error/exception, `Cannot adopt the same pet twice!`, gets raised if you try to adopt the same pet twice.
@@ -207,7 +199,7 @@ home.adoptPet(dog1) // an error/exception gets raised
 
 - The Animal class should follow the document's diagram's instructions exactly.
 - A constructor that accepts a string to set the name for the constructed pet should exist.
-- The `makeAllSounds` method should return the exact strings specified in the instructions. e.g "Bark", "Meow"
+- The `makeAllSounds` method should return an array of the exact strings specified in the instructions. e.g "Bark", "Meow"
 - All the class methods should return the exact strings defined and not print them.
 - A house cannot adopt a specific instance of a pet more than once.
 - The correct error/exception, `Cannot adopt the same pet twice!`, should be raised/thrown.
