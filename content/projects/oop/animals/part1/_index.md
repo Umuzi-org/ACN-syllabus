@@ -200,7 +200,7 @@ home.adoptPet(dog1) // an error/exception gets raised
 
 - The Animal class should follow the document's diagram's instructions exactly.
 - A constructor that accepts a string to set the name for the constructed pet should exist.
-- The `makeAllSounds` method should return the exact strings specified in the instructions. e.g "Bark", "Meow"
+- The `makeAllSounds` method should return an array of the exact strings specified in the instructions. e.g "Bark", "Meow"
 - All the class methods should return the exact strings defined and not print them.
 - A house cannot adopt a specific instance of a pet more than once.
 - The correct error/exception, `Cannot adopt the same pet twice!`, should be raised/thrown.
