@@ -10,6 +10,7 @@ title: Web Development - part 2
 - {{% contentlink path="workshops/general-coding-best-practices" %}}
 - {{% contentlink path="projects/semitone-challenge/gui-part-1" flavour="javascript,noframework" %}}
 - {{% contentlink path="topics/js-and-node-specific/logging" %}}
+- {{% contentlink path="topics/intro-to-typescript" %}}
 - {{% contentlink path="projects/tdd/password-checker/part2" flavour="javascript" %}}
 - {{% contentlink path="projects/semitone-challenge/gui-part-2"  flavour="javascript,noframework" %}}
 - {{% contentlink path="topics/data-ethics-and-privacy" %}}
