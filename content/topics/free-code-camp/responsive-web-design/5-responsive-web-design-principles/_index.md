@@ -5,7 +5,7 @@ flavours:
 - none
 prerequisites:
   hard:
-  - topics/free-code-camp/responsive-web-design/4-applied-accessability
+  - topics/free-code-camp/responsive-web-design/4-applied-accessibility
 ready: true
 submission_type: link
 tags:

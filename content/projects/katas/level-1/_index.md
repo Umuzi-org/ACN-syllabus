@@ -7,19 +7,19 @@ prerequisites:
   hard:
   - topics/reopening-pull-request
 learning_outcomes:
-  - code_algorithmic_thinking
-  - code_pseudo_code
-  - code_problem_decomposition
-  - code_control_flow
-  - code_naming_convention
-  - code_code_documentation
-  - code_basic_calculation
+- code_algorithmic_thinking
+- code_pseudo_code
+- code_problem_decomposition
+- code_control_flow
+- code_naming_convention
+- code_code_documentation
+- code_basic_calculation
 ready: true
 story_points: 3
 submission_type: repo
 tags:
-  - algorithms
-  - clean-code
+- algorithms
+- clean-code
 title: Level 1 coding challenges
 ---
 

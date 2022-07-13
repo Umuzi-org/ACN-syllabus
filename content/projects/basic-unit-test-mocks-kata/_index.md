@@ -21,7 +21,7 @@ title: Email random inspirational quote
 
 This basic project should demonstrate your understanding of mocks/spies.
 
-We'll be making an application that ends emails.
+We'll be making an application that sends emails.
 
 ## Set up
 
@@ -87,6 +87,16 @@ node
 
 const SMTP_SERVER = process.env.SMTP_SERVER;
 console.log(SMTP_SERVER)
+
+###########################
+# if you are running Java #
+###########################
+
+java
+
+String env = System.getenv("smtp") | System.getProperty("smtp")
+System.out.print(env)
+
 ```
 
 Ok, what just happened?
@@ -138,6 +148,10 @@ The command needs to allow you to pass in an email address from the command line
 Go with the simplest option you can find initially - because [KISS](https://en.wikipedia.org/wiki/KISS_principle)
 
 Also, note that good code is written to be reusable. Make sure all your executable code is inside useful functions. When we run `npm run send_inspiration` then the right functions will need to be executed.
+
+### Java
+
+Running it as part of your main application should be ok
 
 ## Testing your project
 

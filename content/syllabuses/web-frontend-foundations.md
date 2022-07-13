@@ -8,6 +8,7 @@ title: Web frontend foundations
 - {{% contentlink path="topics/bootcamp/git-for-bootcamp" %}}
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/1-basic-javascript" %}}
 - {{% contentlink path="topics/clean-code/java-script" %}}
+- {{% contentlink path="topics/file-and-directory-naming/javascript" %}}
 - {{% contentlink path="topics/how-to-ask-for-help-with-your-code" %}}
 - {{% contentlink path="projects/katas/level-2" flavour="javascript" %}}
 - {{% contentlink path="agile/agile-scrum" %}}
@@ -22,7 +23,7 @@ title: Web frontend foundations
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/6-basic-algorithmic-scripting" %}}
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/7-object-orientated-programming" %}}
 - {{% contentlink path="projects/oop/animals/part2"  flavour="javascript" %}}
-- {{% contentlink path="topics/free-code-camp/responsive-web-design/4-applied-accessability" %}}
+- {{% contentlink path="topics/free-code-camp/responsive-web-design/4-applied-accessibility" %}}
 - {{% contentlink path="topics/free-code-camp/responsive-web-design/5-responsive-web-design-principles" %}}
 - {{% contentlink path="projects/semitone-challenge/gui-part-2"  flavour="javascript,noframework" %}}
 - {{% contentlink path="projects/tdd/password-checker/part2" flavour="javascript" %}}

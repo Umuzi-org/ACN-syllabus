@@ -9,7 +9,7 @@ There are a number of things that can go wrong while a program is executing. Jav
 
 
 ## Exceptions in Java
-- [What are Exceptions?](https://www.protechtraining.com/content/java_fundamentals_tutorial-exceptions)
+- [What are Exceptions?](https://www.geeksforgeeks.org/exceptions-in-java/) 
 
 - [Errors vs Exceptions](https://www.geeksforgeeks.org/errors-v-s-exceptions-in-java/) in Java.
 
@@ -19,4 +19,4 @@ There are a number of things that can go wrong while a program is executing. Jav
 
 - [Worst pratices](https://stackabuse.com/exception-handling-in-java-a-complete-guide-with-best-and-worst-practices/) to handle Exceptions and more...
 
-- [Advantages](ocs.oracle.com/javase/tutorial/essential/exceptions/advantages.html) of using Exceptions.
+- [Advantages](https://docs.oracle.com/javase/tutorial/essential/exceptions/advantages.html) of using Exceptions.

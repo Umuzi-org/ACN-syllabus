@@ -14,14 +14,12 @@ title: 'Assessment: Classes and objects'
 
 On Tilde you'll notice that this card is asking for a link submission. **Please don't worry about submitting a link**. You will be assessed according to {{% contentlink path="specific-skill-success-criteria/introduction-to-assessments" %}}
 
-
-
 All students need to provably understand all of the following concepts:
 
 - how constructors work
 - construction of multiple class instances:
- - make many objects of the same class
- - interact with them and see that they are distinct
+- make many objects of the same class
+- interact with them and see that they are distinct
 - getters and setters
 - inheritance and overriding and extending methods
 - composition
@@ -39,7 +37,6 @@ class Rectangle:
 ```
 
 > The learner should know how to create an initialiser that takes in arguments and create instance variables.
-
 
 ### Instantiation
 
@@ -75,21 +72,21 @@ class Cuboid(Rectangle):
 
 The learner should know how to override a function using super and without using super.
 
-
 ## Java
 
 ### Constructors
 
-The learner should know that the constructor name must be the same as its class name. 
+The learner should know that the constructor name must be the same as its class name.
 
 ```
 class Rectangle{
 
     Rectangle(){
       ....
-    }    
+    }
 ```
-The learner should know that a single class can have multiple constructors with different numbers of parameters. 
+
+The learner should know that a single class can have multiple constructors with different numbers of parameters.
 
 ```
 class Rectangle{
@@ -116,14 +113,14 @@ The learner should know how to instantiate a class object.
 
 ### Inheritance
 
-The learner must know that to inherit from a class, the keyword extends is used. 
+The learner must know that to inherit from a class, the keyword extends is used.
 
 ```
 class Square extends Rectangle { .... }
 
 class Cuboid extends Rectangle {
   private double length, width, height;
-   
+
   public Cuboid(double length, double width, double height) {
     super(length, width);
     this.length = height;
@@ -150,6 +147,7 @@ class Rectangle {
   }
 }
 ```
+
 ### Instantiation
 
 Learner should know how to instantiate many objects from the same class and interact with them
@@ -168,6 +166,7 @@ console.log(mediumRectangle.width) //12
 ### Inheritance and overriding
 
 Learner should understand inheritance and overriding and extending methods
+
 ```
 class Rectangle {
   ...
@@ -184,4 +183,5 @@ class Cuboid extends Rectangle {
     return `The length of the cuboid is ${this.length}, and the width is ${this.width}`;
   };
 };
+```
 The learner should know that constructors and methods declared with final or static cannot be overridden. If a method cannot be inherited, it cannot be overridden.
