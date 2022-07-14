@@ -13,7 +13,7 @@ title: FreeCodeCamp - Object Oriented Programming
 
 Make an account here if you haven't already: https://www.freecodecamp.org/learn
 
-Under "JavaScript Algorithms and Data Structures," complete the all challenges under "Object Oriented Programming".
+Go to the Menu and select Curriculum, under "JavaScript Algorithms and Data Structures," complete the all challenges under "Object Oriented Programming".
 
 Try not to ask for too many hints. Do your best to understand everything.
 
