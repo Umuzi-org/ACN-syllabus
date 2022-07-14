@@ -41,6 +41,7 @@ _db_id: 3
 - {{% contentlink path="topics/js-and-node-specific/node" %}}
 - {{% contentlink path="language-agnostic/validate-id-number" flavour="javascript" %}}
 - {{% contentlink path="sql/shop-project" flavour="" %}}
+- {{% contentlink path="projects/tdd/string-calculator-part-1" flavour="typescript" %}}
 - {{% contentlink path="projects/nodejs/express-forms" flavour="javascript" %}}
 - {{% contentlink path="projects/github-api-consume" flavour="javascript" %}}
 - {{% contentlink path="projects/understanding-loops" flavour="javascript" %}}

@@ -34,6 +34,21 @@ Your directory structure should look like this.
     - package.json
 ```
 
+### TypeScript
+
+Please test your code using [JEST](https://jestjs.io/docs/getting-started).
+
+Your directory structure should look like this.
+
+```
+    >node_modules    <---- make sure this is in your .gitignore
+    >test
+        - string_calculator.test.js   
+    >src
+        - string_calculator.ts
+    - package.json
+```
+
 ### Python
 
 Your project is expected to be completed using pytest. You are expected to follow industry best practices in all things. This means that you need to have a directory structure that is in good shape. Please name your files and folders like this:
