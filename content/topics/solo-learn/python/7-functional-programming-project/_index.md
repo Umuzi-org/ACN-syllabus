@@ -11,7 +11,7 @@ ready: true
 submission_type: link
 tags:
 - python
-title: Solo Learn - Python Core - Module 7 - Functional Programming
+title: Solo Learn - Python Core - Module 7 - Functional Programming profile check
 ---
 
 Please submit the link to your SoloLearn profile, for example, https://www.sololearn.com/profile/21320495
