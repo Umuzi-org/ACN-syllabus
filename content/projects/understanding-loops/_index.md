@@ -108,7 +108,7 @@ get_customer_baskets(email, shopping_baskets) // python
 ```
 ### get a list of all the customer email addresses
 
-Write a function called `get all customers`, the function should take the data array as an argument and should return a list of customer email addresses. The list must have no duplicates.
+Write a function called `get all customers`, the function should take the data array as an argument and should return a list of sorted customer email addresses. The list must have no duplicates.
 
 e.g. 
 ```
