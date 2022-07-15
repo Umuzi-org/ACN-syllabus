@@ -24,3 +24,11 @@ Complete the DataCamp project:
 [Exploring the Evolution of Linux](https://www.datacamp.com/projects/111).
 
 Once you have completed it, you can download your notebook file and add it to your repo.
+
+
+### Instructions for reviewers
+- Ensure that there is a requirements file.
+- Ensure that the data file has a folder and the notebook file has a folder.
+- Ensure that unnecesary comments are removed from the notebook.
+- Ensure graphs should have titles and labelled axis.
+- Ensure that all plot titles and axis are bold.
