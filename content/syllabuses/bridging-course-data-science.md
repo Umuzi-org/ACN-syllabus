@@ -29,6 +29,7 @@ title: Data science bridging course
 - {{% contentlink path="projects/git-exercises" %}}
 - {{% contentlink path="topics/bootcamp/git-for-bootcamp" %}}
 - {{% contentlink path="environment-setup" %}}
+
 ## The real work
 
 - {{% contentlink path="soft-skills/learning-how-to-learn" %}}
