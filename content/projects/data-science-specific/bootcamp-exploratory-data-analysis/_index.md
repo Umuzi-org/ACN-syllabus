@@ -56,6 +56,6 @@ The [data set](data.csv) consists of health and demographic data for the period 
 ### Instructions for reviewers
 
 - Ensure that correct methods were used to check for any missing values in the data, also check how they dealt with missing values and if they gave a valid reason(s) for choosing that method.
-- Ensure that they checked if the data has any other problems and fixed the problems if they detected any problems.
-- Ensure that the notebook has an introduction at the beginning of the notebook, insights for every answered question, and a conclusion at the end of the notebook.
-- Ensure that all plots are labeled and the title and axis are bold.
+- Ensure that they checked if the data has any other problems and resolved them if so.
+- Ensure that the notebook has an introduction at the beginning, insights for every answered question, and a conclusion at the end.
+- Ensure that all plots have their titles and axes labelled in bold.
