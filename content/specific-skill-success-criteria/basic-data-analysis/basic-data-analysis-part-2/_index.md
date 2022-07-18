@@ -5,6 +5,9 @@ flavours:
 - none
 ready: true
 submission_type: link
+prerequisites:
+  hard:
+  - topics/khan-academy/statistics-and-probability/unit-2-intermediate-statistics
 tags:
 - technical-assessment
 title: 'Assessment: Basic data analysis - part 2'
