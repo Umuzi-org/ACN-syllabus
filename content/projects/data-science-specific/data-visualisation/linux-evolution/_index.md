@@ -30,5 +30,5 @@ Once you have completed it, you can download your notebook file and add it to yo
 - Ensure that there is a requirements file.
 - Ensure that the data file has a folder and the notebook file has a folder.
 - Ensure that unnecesary comments are removed from the notebook.
-- Ensure graphs should have titles and labelled axis.
-- Ensure that all plot titles and axis are bold.
+- Ensure that all graphs have titles and labelled axes.
+- Ensure that all graph titles and axes labels are bold.
