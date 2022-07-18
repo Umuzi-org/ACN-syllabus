@@ -11,3 +11,4 @@ umuzi-tech-dept
 /.vs/slnx.sqlite
 /.vs
 downloaded_videos/
+.hugo_build.lock
