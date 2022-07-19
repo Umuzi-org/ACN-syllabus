@@ -19,9 +19,9 @@ title: Consume Github API
 
 In this project you'll make use of Github's awesome API. We chose Github for this project because:
 
-- you are already familiar with Github
+- You are already familiar with Github
 - The api is really well documented
-- the api is solidly built and a lot of people use it
+- The api is solidly built and a lot of people use it
 
 ## Instructions
 
@@ -73,6 +73,6 @@ get_pull_requests("Umuzi-org", "ACN-syllabus", "2022-03-01", "2022-03-10")
 
 ### Instructions for reviewers
 - Ensure that the function works with any GitHub User and repository name, meaning that the function should not only work with one User/repo name. 
-- Ensure that the function prints for JavaScript and python, the function should return the output.
+- Ensure that for JavaScript the function prints the output, and for python the function returns the output
 - Ensure that the correct error/exception messages are used when trying to handle errors, if an incorrect user or repo was passed in a function call then the error messages should be explicit e.g. `Error 404 User or Repo Not Found`.
 - Ensure that the output is a list/array and depending on the dates passed in, if there were no open, closed, updated or merged PR's between the two dates an empty array/list should be printed out.
