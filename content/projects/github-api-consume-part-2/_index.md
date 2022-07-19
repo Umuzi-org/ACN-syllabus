@@ -4,7 +4,7 @@ flavours:
 - any_language
 prerequisites:
   hard:
-  - projects/github-api-consume/part1
+  - projects/github-api-consume-part-1
   soft: []
 ready: true
 story_points: 3
