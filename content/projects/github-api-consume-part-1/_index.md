@@ -25,7 +25,7 @@ In this project you'll make use of Github's awesome API. We chose Github for thi
 
 ## Instructions
 
-First, get familiar with consuming apis from the command line. Play with this. [Getting started with the Github API V3](https://developer.github.com/v3/guides/getting-started/).
+First, get familiar with consuming APIs from the command line. Play with this. [Getting started with the Github API V3](https://developer.github.com/v3/guides/getting-started/).
 
 Remember, `curl` is your friend. And so is `man`. (try typing in `man curl` at the command line)
 
