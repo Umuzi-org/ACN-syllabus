@@ -7,6 +7,7 @@ prerequisites:
   hard:
   - environment-setup
   - topics/github/intro
+  - topics/reopening-pull-request
 ready: true
 submission_type: repo
 title: 'Tilde project tutorial: How Repo projects work'
@@ -65,6 +66,7 @@ Who should you add to your PR as reviewers?  For now, don't add anyone.
 Generally, it is best practice to only add people to your Pull Request if you know who they are and know that they are the correct people to perform a review.
 
 **I repeat: For now you should not add any reviewers to any of your Pull Requests because we DISLIKE SPAMMERS A LOT.**
+
 
 ### 1. Make a file
 
