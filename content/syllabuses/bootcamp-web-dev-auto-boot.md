@@ -23,7 +23,7 @@ Things after this point are not strictly part of the bootcamp. It's extra stuff 
 - {{% contentlink path="topics/tilde/understanding-the-review-column" %}}
 - {{% contentlink path="projects/katas/level-1" flavour="javascript" %}}
 - {{% contentlink path="projects/katas/level-2" flavour="javascript" %}}
-- {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/7-object-orientated-programming"  %}}
+- {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/7-object-oriented-programming"  %}}
 - {{% contentlink path="projects/oop/animals/part1"  flavour="javascript" %}}
 - {{% contentlink path="projects/simple-website" %}}
 - {{% contentlink path="projects/morse-code" flavour="javascript" %}}

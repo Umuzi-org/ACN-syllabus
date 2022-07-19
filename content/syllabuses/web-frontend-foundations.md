@@ -21,7 +21,7 @@ title: Web frontend foundations
 - {{% contentlink path="topics/jasmine-unit-tests" %}}
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/5-basic-data-structures" %}}
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/6-basic-algorithmic-scripting" %}}
-- {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/7-object-orientated-programming" %}}
+- {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/7-object-oriented-programming" %}}
 - {{% contentlink path="projects/oop/animals/part2"  flavour="javascript" %}}
 - {{% contentlink path="topics/free-code-camp/responsive-web-design/4-applied-accessibility" %}}
 - {{% contentlink path="topics/free-code-camp/responsive-web-design/5-responsive-web-design-principles" %}}

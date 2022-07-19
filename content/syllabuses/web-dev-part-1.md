@@ -22,7 +22,7 @@ _db_id: 3
 - {{% contentlink path="topics/free-code-camp/responsive-web-design/3-applied-visual-design" %}}
 - {{% contentlink path="topics/intro-to-css-architecture" %}}
 - {{% contentlink path="projects/web-development-website" %}}
-- {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/7-object-orientated-programming" %}}
+- {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/7-object-oriented-programming" %}}
 - {{% contentlink path="topics/jasmine-unit-tests" %}}
 - {{% contentlink path="projects/oop/animals/part2"  flavour="javascript" %}}
 - {{% contentlink path="specific-skill-success-criteria/classes-and-objects" flavour="javascript" %}}
