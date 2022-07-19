@@ -17,7 +17,7 @@ tags:
 title: Consume Github API
 ---
 
-In this project you'll make use of Github's awesome API. We chose Github for this project because:
+In this project, you'll make use of Github's awesome API. We chose Github for this project because:
 
 - You are already familiar with Github
 - The api is really well documented
@@ -29,7 +29,7 @@ First, get familiar with consuming APIs from the command line. Play with this. [
 
 Remember, `curl` is your friend. And so is `man`. (try typing in `man curl` at the command line)
 
-Now, in your language of choice (not bash, use Java, Python or Js) write a function with the input arguments:
+Now, in your language of choice (not bash, use Java, Python or Js) write a function (get_pull_requests) with the input arguments:
 
 - owner
 - reporitory name
