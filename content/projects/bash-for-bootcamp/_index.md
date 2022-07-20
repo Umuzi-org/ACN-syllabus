@@ -47,5 +47,5 @@ Ensure you update the sharing permissions on your google doc to allow anyone wit
 9.  What is a *relative* path?
 10. What is an *absolute* path?
 11. Explain the usage of the `man` command?
-12. What command would you use to remove the directory *git-basic-exercises*?
+12. What command would you use to remove the directory *git-basic-exercises*? Assume that this directory is NOT empty. 
 13. Explain the use of *tab completion*?
