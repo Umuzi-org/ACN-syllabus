@@ -8,7 +8,7 @@ prerequisites:
   - topics/clean-code/python
   - topics/linux/os-environmental-variables
   - national-qualifications-framework/ncit/content/how-the-internet-works
-  - projects/github-api-consume
+  - projects/github-api-consume-part-1
   soft: []
 ready: true
 submission_type: repo
