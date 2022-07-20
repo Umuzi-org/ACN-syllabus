@@ -130,7 +130,7 @@ home.makeAllSounds()
 home.adoptPet(dog2) // 3
 home.makeAllSounds()
 // this returns:
-// ["Bark", "Meow", Bark]
+// ["Bark", "Meow", "Bark"]
 
 
 ```
@@ -158,7 +158,7 @@ home.makeAllSounds();
 home.adoptPet(dog2); // 3
 home.makeAllSounds();
 // this returns:
-// ["Bark", "Meow", Bark]
+// ["Bark", "Meow", "Bark"]
 ```
 
 ```
@@ -184,7 +184,7 @@ home.make_all_sounds()
 home.adopt_pet(dog2) # 3
 home.make_all_sounds
 # this returns:
-# ["Bark", "Meow", Bark]
+# ["Bark", "Meow", "Bark"]
 ```
 
 Add some functionality to `adoptPet` so that the error/exception, `Cannot adopt the same pet twice!`, gets raised if you try to adopt the same pet twice.
