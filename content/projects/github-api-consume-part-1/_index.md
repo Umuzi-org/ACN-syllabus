@@ -32,7 +32,7 @@ Remember, `curl` is your friend. And so is `man`. (try typing in `man curl` at t
 Now, in your language of choice (not bash, use Java, Python or Js) write a function (get_pull_requests) with the input arguments:
 
 - owner
-- reporitory name
+- repository name
 - start date (yyyy-mm-dd)
 - end date (yyyy-mm-dd)
 
