@@ -137,15 +137,6 @@ This function should count the number of conditions met and then return a string
 
 Please don't re-implement the same check in two different places. Good code is DRY. Every piece of knowledge should only be represented once in your code.
 
-A good way to practice DRY in this project is to create an object(a dictionary for the Python folks and a Hashmap for the Java folks) that stores your password validators. Then, use the object throughout your code. The object should be inside a file called `validation_error_messages`
-
-Here is an example:
-```
-password_validators = {
-    "error string": "regex that validates input that results in the error string",
-  ...etc. 
-}
-
 ## JS resources
 
 - [JS Errors](https://www.w3schools.com/js/js_errors.asp)
