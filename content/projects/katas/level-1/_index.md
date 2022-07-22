@@ -182,6 +182,7 @@ For exampe, `combine([11,22,33], [1,2,3])` should return:
 ## Instructions for Reviewers
 
 **Task 1**
+
 - Ensure that the output is 233168.
 
 **Task 2 and Task 3**
