@@ -73,7 +73,14 @@ Run these installs in your terminal using Homebrew
 
 ```
 brew install go
-brew install hugo -> look for version 0.51
+```
+
+Note that running `brew install hugo` will install the latest version of hugo but we want a specific one.  
+To install a specific version of hugo, run:
+
+```
+brew extract --version=0.51 hugo homebrew/cask
+brew install hugo@0.51
 ```
 
 ### to run the development server, once it is installed
@@ -137,13 +144,13 @@ And then if you get a message like this:
 public/syllabuses/data-eng-boot/index.html:  <span class="contentlink-missing" data="topics/intro-to-tilde"
 ```
 
-Then that means there is a contentlink that is pointint to a file that doesn't exist. Did the file move? Was it deleted? Is something misspelled?
+Then that means there is a contentlink that is pointing to a file that doesn't exist. Did the file move? Was it deleted? Is something misspelled?
 
 ### Windows 10
 
 Ensure you have a compatible Linux terminal for windows, if not, checkout: https://ubuntu.com/tutorials/ubuntu-on-windows#1-overview
 
-After cloning recursively from the repo and setting up your global github email and username you can run the following 
+After cloning recursively from the repo and setting up your global github email and username you can run the following
 two commands, the correct Hugo version should be installed after running the second command.
 
 ```
@@ -168,7 +175,7 @@ pipenv install
 pipenv shell
 ```
 
-It is the 'pipenv install' command which ensures that the correct depedencies are installed from the Pipfile in the repository.
+It is the 'pipenv install' command which ensures that the correct dependencies are installed from the Pipfile in the repository.
 Do not install 'frontmatter' by yourself, run the 'pipenv install' command which will ensure that the correct frontmatter library
 is installed. Now you can run lint.py
 
