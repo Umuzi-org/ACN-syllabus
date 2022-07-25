@@ -73,15 +73,10 @@ Run these installs in your terminal using Homebrew
 
 ```
 brew install go
+brew install Umuzi-org/homebrew-hugo/hugo@0.51
 ```
 
-Note that running `brew install hugo` will install the latest version of hugo but we want a specific one.  
-To install a specific version of hugo, run:
-
-```
-brew extract --version=0.51 hugo homebrew/cask
-brew install hugo@0.51
-```
+Note that running `brew install hugo` will install the latest version of hugo but we want version 0.51; which is why we have [our own tap](https://github.com/Umuzi-org/homebrew-hugo) with the right version.
 
 ### to run the development server, once it is installed
 
