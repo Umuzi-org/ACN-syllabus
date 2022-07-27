@@ -92,6 +92,16 @@ It's okay to say this though:
 from subprocess import Popen, PIPE
 ```
 
+Guard against wildcard imports
+
+```
+# No:
+from math import *
+
+# Yes
+from math import cos, sin, tan
+```
+
 Absolute imports are recommended, as they are usually more readable and tend to better behave (or at least give better error messages) if the import system is incorrectly configured (such as when a directory inside a package ends up on sys.path):
 
 ```
