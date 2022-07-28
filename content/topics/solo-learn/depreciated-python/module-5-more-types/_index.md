@@ -10,6 +10,7 @@ ready: true
 submission_type: link
 tags:
 - python
+- solo-learn
 title: Solo Learn - Python - Module 5 - More Types - Depricated
 ---
 

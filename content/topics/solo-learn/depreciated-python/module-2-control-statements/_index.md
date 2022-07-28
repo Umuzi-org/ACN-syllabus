@@ -7,6 +7,7 @@ prerequisites:
 ready: true
 tags:
 - python
+- solo-learn
 title: Solo Learn - Python - Module 2 - Control Statements - Depricated
 topic_needs_review: false
 ---

@@ -11,6 +11,7 @@ ready: true
 submission_type: link
 tags:
 - python
+- solo-learn
 title: Solo Learn - Python Core - Module 7 - Functional Programming profile check
 ---
 

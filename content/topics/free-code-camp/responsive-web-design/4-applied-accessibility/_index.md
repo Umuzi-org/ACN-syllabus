@@ -11,6 +11,7 @@ submission_type: link
 tags:
 - html
 - css
+- free-code-camp
 title: FreeCodeCamp - Applied Accessibility
 ---
 

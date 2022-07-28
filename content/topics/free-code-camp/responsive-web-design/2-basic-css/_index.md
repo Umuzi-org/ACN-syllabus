@@ -11,6 +11,7 @@ submission_type: link
 tags:
 - css
 - responsive web design
+- free-code-camp
 title: FreeCodeCamp - Basic CSS
 ---
 

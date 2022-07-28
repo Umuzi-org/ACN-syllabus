@@ -10,6 +10,7 @@ prerequisites:
 ready: true
 tags:
 - python
+- solo-learn
 title: Solo Learn - Python Core - Module 4 - Functions & Modules
 topic_needs_review: false
 ---

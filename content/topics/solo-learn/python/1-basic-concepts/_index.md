@@ -4,6 +4,7 @@ content_type: topic
 ready: true
 tags:
 - python
+- solo-learn
 title: Solo Learn - Python Core - Module 1 - Basic Concepts
 ---
 

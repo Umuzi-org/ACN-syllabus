@@ -8,6 +8,7 @@ prerequisites:
 ready: true
 tags:
 - python
+- solo-learn
 title: Solo Learn - Python Core - Module 8 - OOP
 ---
 

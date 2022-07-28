@@ -4,6 +4,7 @@ content_type: topic
 ready: true
 tags:
 - javascript
+- free-code-camp
 title: FreeCodeCamp - Regular Expressions
 topic_needs_review: false
 ---

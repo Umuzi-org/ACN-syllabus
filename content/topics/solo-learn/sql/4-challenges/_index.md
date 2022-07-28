@@ -10,6 +10,7 @@ ready: true
 submission_type: link
 tags:
 - sql
+- solo-learn
 title: Solo Learn - SQL - Module 4 - Challenges
 ---
 

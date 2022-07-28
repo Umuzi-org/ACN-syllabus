@@ -2,6 +2,8 @@
 _db_id: 322
 content_type: topic
 ready: true
+tags:
+- free-code-camp
 title: Free Code Camp
 ---
 

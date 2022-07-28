@@ -5,6 +5,8 @@ flavours:
 - none
 ready: false
 submission_type: link
+tags:
+- free-code-camp
 title: FreeCodeCamp - Scientific Computing with Python
 ---
 

@@ -9,6 +9,8 @@ prerequisites:
   - topics/solo-learn/python/3-control-structures
   soft: []
 ready: true
+tags:
+- solo-learn
 submission_type: link
 title: 'Solo Learn - Python Core - Module 3 - Control Structures: Profile check'
 ---
