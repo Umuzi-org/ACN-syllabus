@@ -7,6 +7,7 @@ ready: true
 submission_type: link
 tags:
 - java
+- solo-learn
 title: Solo Learn - Java - Module 1 - Basic Concepts
 ---
 

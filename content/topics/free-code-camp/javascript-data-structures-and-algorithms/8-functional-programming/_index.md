@@ -4,6 +4,7 @@ content_type: topic
 ready: true
 tags:
 - javascript
+- free-code-camp
 title: FreeCodeCamp - Functional Programming
 topic_needs_review: false
 ---

@@ -5,6 +5,7 @@ ready: true
 tags:
 - javascript
 - es6
+- free-code-camp
 title: FreeCodeCamp - ES6
 topic_needs_review: false
 ---

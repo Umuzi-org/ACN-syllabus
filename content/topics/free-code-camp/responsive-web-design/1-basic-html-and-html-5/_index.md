@@ -9,6 +9,7 @@ tags:
 - html
 - html5
 - responsive web design
+- free-code-camp
 title: FreeCodeCamp - Basic HTML and HTML5
 ---
 

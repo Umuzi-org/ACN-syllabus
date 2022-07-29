@@ -7,6 +7,7 @@ ready: true
 submission_type: link
 tags:
 - javascript
+- free-code-camp
 title: FreeCodeCamp - Debugging
 ---
 

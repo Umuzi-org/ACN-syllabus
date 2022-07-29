@@ -8,6 +8,7 @@ submission_type: link
 tags:
   - javascript
   - oop
+  - free-code-camp
 title: FreeCodeCamp - Object Oriented Programming
 ---
 

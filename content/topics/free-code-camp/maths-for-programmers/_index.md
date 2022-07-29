@@ -4,6 +4,7 @@ content_type: topic
 ready: true
 tags:
 - Maths
+- free-code-camp
 title: FreeCodeCamp - Maths for Programmers - Sets and Logic
 ---
 

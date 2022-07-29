@@ -10,6 +10,7 @@ prerequisites:
 ready: true
 tags:
 - python
+- solo-learn
 title: Solo Learn - Python Core - Module 9 - Regular Expressions
 topic_needs_review: false
 ---
