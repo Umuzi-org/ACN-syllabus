@@ -75,25 +75,27 @@ If you follow the simple instructions in the "what does success look like?" sect
 
 At this point you should be using git from the command line. If you drag and drop to upload your code, you are doing it wrong. Git is amazingly important and now is the time to get used to it!
 
+**Name your files according to the tasks e.g task1.js and the functions according to the instructions**
+
 ## Task 1
 
 If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
 
-Write a function `task1` without parameters that prints the sum of all the multiples of 3 or 5 below 1000.
+Write a function `multiples` without parameters that prints the sum of all the multiples of 3 or 5 below 1000.
 
 ## Task 2
 
-Write a function `task2` that takes 2 numbers as input.
+Write a function `hasThree` that takes 2 numbers as input.
 If either of the numbers is 3 and the sum of the numbers contains a 3 then return true. Otherwise, return false.
 
 ## Task 3
 
-Write a function `task3` that takes 2 numbers as input.
+Write a function `isSixtyFive` that takes 2 numbers as input.
 If either of the numbers is 65, or if the sum of the numbers is 65 then return true. Otherwise, return false.
 
 ## Task 4
 
-Write a function `task4`, name it `square`. It takes in an integer and then prints out a square using the hash character.
+Write a function `square`. It takes in an integer and then prints out a square using the hash character.
 
 For example, `square(2)` should print:
 
@@ -113,7 +115,7 @@ For example, `square(4)` should print:
 
 ## Task 5
 
-For example, `triangle(2)` should print:
+Write a function `triangle` that takes in an Integer and prints a triangle accordingly, `triangle(2)` should print:
 
 ```
 #
