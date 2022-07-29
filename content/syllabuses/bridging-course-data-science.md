@@ -29,6 +29,7 @@ title: Data science bridging course
 - {{% contentlink path="projects/git-exercises" %}}
 - {{% contentlink path="topics/bootcamp/git-for-bootcamp" %}}
 - {{% contentlink path="environment-setup" %}}
+
 ## The real work
 
 - {{% contentlink path="soft-skills/learning-how-to-learn" %}}
@@ -43,5 +44,7 @@ title: Data science bridging course
 - {{% contentlink path="specific-skill-success-criteria/for-loops" flavour="python" %}}
 - {{% contentlink path="projects/data-science-specific/bootcamp-exploratory-data-analysis" flavour="python" %}}
 - {{% contentlink path="projects/data-science-specific/statistical-thinking" flavour="python" %}}
+- {{% contentlink path="topics/khan-academy/statistics-and-probability/unit-1-introduction-to-statistics" %}}
+- {{% contentlink path="topics/khan-academy/statistics-and-probability/unit-2-intermediate-statistics" %}}
 - {{% contentlink path="specific-skill-success-criteria/basic-data-analysis/basic-data-analysis-part-1" %}}
 - {{% contentlink path="specific-skill-success-criteria/basic-data-analysis/basic-data-analysis-part-2" %}}
