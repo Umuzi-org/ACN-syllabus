@@ -7,9 +7,8 @@ from_repo: projects/java-specific/introduction-to-spring-boot/part1
 prerequisites:
   hard:
   - projects/java-specific/introduction-to-spring-boot/part1
-  - topics/java-specific/introduction-to-spring-boot/part4
   - projects/java-specific/introduction-to-spring-boot/part2
-  - projects/java-specific/introduction-to-spring-boot/part3
+  - topics/java-specific/introduction-to-spring-boot/part4
   soft: []
 ready: true
 submission_type: continue_repo
@@ -22,11 +21,11 @@ tags:
 title: Introduction to Spring Boot - Part 4
 ---
 
-We are going to work on Spring boot **Caching** and **Security** for this project
+We are going to work on Spring boot **Caching** and **Security** for the project we created in part1 and part2
 
 ## Caching
 
-Continuing with {{% contentlink path="projects/java-specific/introduction-to-spring-boot/part1" %}} for the **User** we are going to add **security** and **caching** on the application and we will use test to see if the application does what we want it to.
+Continuing with {{% contentlink path="projects/java-specific/introduction-to-spring-boot/part2" %}} for the **User** we are going to add **security** and **caching** on the application and we will use test and browser to see if the application does what we expect.
 
 **Step 1**
 
@@ -56,11 +55,11 @@ catch (InterruptedException e)
 }
 ```
 
-User the rest API you created in Part 2 to test your cache
+Use the rest API you created in Part 2 to test your cache
 
-Write a test that will call "getUser" four times
+Write an integration test (Testing in which individual software modules are combined and tested as a group) that will call the endpoint which invokes the `getUser` function four times
 
-Expect output after running "getUser" four times
+Expect output
 
 **Without Cache:**
 
