@@ -22,25 +22,27 @@ In this project we will consume a REST API and a SOAP web service as a new proje
 
 ## REST API
 
-**Step 1**
+#### Step 1
 
 Create a java application and import 'org.springframework.boot:spring-boot-starter-web' into your build.gradle file to convert it to a Web Spring Boot application or use https://start.spring.io/
 
 Familiarize yourself with the git api found here https://developer.github.com/v3/ learn which endpoint to get your repo, commits maybe branches etc. Try it out on postman or curl on the terminal
 
-**Step 2**
+#### Step 2
 
 Now we are going to consume the api in our spring boot application using restTemplates as per topic work.
 
 We would like to see:
 
 1. v3 version of the api implemented
+
 2. A list of all your repos - output on the console
+
 3. A list of commits in 1 repo of your choice - output on the console
 
 ## SOAP WEB SERVICES
 
-**Step 1**
+#### Step 1
 
 Project Setup and configuration:
 
@@ -59,7 +61,7 @@ Project Setup and configuration:
 2. wsimport comes out of the box in jdk 8, jdk > 9 removed wsimport and open sourced it
 3. avoid the famous ```Implementation of JAXB-API has not been found on module path or classpath``` error
 
-**Step 2**
+#### Step 2
 
 Clone the repo found here https://github.com/spring-guides/gs-producing-web-service and open the `complete` folder not the entire repo. Review it on a high level this will be the wsdl project we are going to use to learn how to consume a wsdl application. **DO NOT ADD THIS PROJECT AS PART OF YOUR SUBMISSION(this is so that you can generate the files)**
 
@@ -88,7 +90,7 @@ and see this
 
 keep this project running in the background
 
-**Step 3**
+#### Step 3
 
 In your terminal navigate to `[YourProjectName]/src/main/java` and run this command
 
@@ -99,7 +101,7 @@ wsimport -keep -p [package].wsdl http://localhost:9090/ws/countries.wsdl
 
 ```
 
-**Step 4**
+#### Step 4
 
 To get the generated class to stop showing errors you would need these dependencies
 
@@ -108,11 +110,11 @@ To get the generated class to stop showing errors you would need these dependenc
 	implementation group: 'org.glassfish.main.javaee-api', name: 'javax.jws', version: '3.1.2.2'
 ```
 
-**Step 5**
+#### Step 5
 
 Now we start to do the real work
 
-In your `main` method do the following and print the results to the terminal
+**Expose an endpoint that will print the following in the browser**
 
 1 Get the currency for United Kingdom: Output
 
