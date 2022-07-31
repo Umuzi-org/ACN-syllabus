@@ -112,6 +112,8 @@ To get the generated class to stop showing errors you would need these dependenc
 
 Now we start to do the real work
 
+In your `main` method do the following and print the results to the terminal
+
 1 Get the currency for United Kingdom: Output
 
 ```
