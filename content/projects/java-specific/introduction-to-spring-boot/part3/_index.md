@@ -104,9 +104,8 @@ wsimport -keep -p [package].wsdl http://localhost:9090/ws/countries.wsdl
 To get the generated class to stop showing errors you would need these dependencies
 
 ```
-jakarta.xml.ws-api
-
-javax.jws
+	implementation group: 'jakarta.xml.ws', name: 'jakarta.xml.ws-api', version: '2.3.3'
+	implementation group: 'org.glassfish.main.javaee-api', name: 'javax.jws', version: '3.1.2.2'
 ```
 
 **Step 5**
