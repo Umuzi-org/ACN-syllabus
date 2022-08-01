@@ -7,13 +7,13 @@ title: Introduction to Typescript
 
 ### What is Typescript
 
-- TypeScript is an extension of JavaScript that adds types as well as other language features.
+- TypeScript is a superset of JavaScript that adds types as well as other language features.
 - Typescript was created to make it easier to write code that is compatible with the JavaScript language.
-- As its name implies, adding types to JavaScript is the primary purpose of TypeScript, and it is the reason that people use it today.
+- Strong static typing, compilation, and object-oriented programming are all features of TypeScript that has made it a popular language.
 
 #### The TypeScript Compiler
 
-- TypeScript must be compiled, or transpiled, as it is frequently termed, into JavaScript for execution. TypeScript gets compiled to JavaScript by the TypeScript Compiler.
+- TypeScript must be compiled into JavaScript for execution, the code gets compiled to JavaScript by the TypeScript Compiler.
 - The TypeScript compiler “tsc” compiles TypeScript programs into JavaScript programs and in the process analyzes them and reports type errors.
 
 ##### To learn more about TypeScript and the TypeScript Compiler read the following content
