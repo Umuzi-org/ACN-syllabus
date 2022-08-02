@@ -22,7 +22,7 @@ _db_id: 4
 - {{% contentlink path="topics/python-specific/oop-for-python" %}}
 - {{% contentlink path="topics/python-specific/virtual-envs/" %}}
 - {{% contentlink path="topics/solo-learn/python/8-oop" %}}
-- {{% contentlink path="projects/oop/animals/part2" flavour="python" %}}
+- {{% contentlink path="projects/oop/animals/part1" flavour="python" %}}
 - {{% contentlink path="projects/oop/animals/part2" flavour="python" %}}
 - {{% contentlink path="specific-skill-success-criteria/classes-and-objects" flavour="python" %}}
 
