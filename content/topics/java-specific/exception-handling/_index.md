@@ -20,3 +20,5 @@ There are a number of things that can go wrong while a program is executing. Jav
 - [Worst pratices](https://stackabuse.com/exception-handling-in-java-a-complete-guide-with-best-and-worst-practices/) to handle Exceptions and more...
 
 - [Advantages](https://docs.oracle.com/javase/tutorial/essential/exceptions/advantages.html) of using Exceptions.
+
+- [Exception Handling in Java](https://www.scaler.com/topics/java/exception-handling-in-java/)
