@@ -144,4 +144,4 @@ Save all of your instructions in script files - you will submit these files on G
 
 ## Files to submit
 - YAML/yml file with container setup.
-- `src` directory with 3 SQL script files(a script to create tables, populate tables and one to query the database).
+- `src` directory with 4 SQL script files(a script to create a database, create tables, populate tables and one to query the database).
