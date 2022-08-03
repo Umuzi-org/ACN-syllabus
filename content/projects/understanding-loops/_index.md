@@ -20,9 +20,9 @@ title: Shopping cart calculations
 Your directory structure should look like this:
  
 ```
-   > src
-       - shopping_cart.js
-       - data.json
+├── src
+    ├── shopping_cart.js
+    └── data.json
 ```
 
 ### Python
