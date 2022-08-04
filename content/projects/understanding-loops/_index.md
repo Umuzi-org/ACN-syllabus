@@ -189,7 +189,7 @@ Hint: You have already defined some functions that would be useful in finding th
 
 ### customers who have OPEN baskets
 
-Write a function called `get customers with open baskets` that takes in the data array as an argument and returns a list/array of email addresses for customers who have baskets that are open.
+Write a function called `get customers with open baskets` that takes in the data array as an argument and returns a sorted list/array of email addresses for customers who have baskets that are open.
 e.g. 
 ```
 getCustomersWithOpenBaskets({ shoppingBaskets }); //javascript
