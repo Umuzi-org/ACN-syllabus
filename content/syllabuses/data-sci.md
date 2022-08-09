@@ -42,7 +42,6 @@ _db_id: 2
 - {{% contentlink path="specific-skill-success-criteria/classes-and-objects" flavour="python" %}}
 - {{% contentlink path="projects/data-science-specific/oop-for-data-science" flavour="python" %}}
 - {{% contentlink path="topics/solo-learn/python/10-pythonicness-and-packaging-project" %}}
-- {{% contentlink path="projects/github-api-consume-part-1" flavour="python" %}}
 - {{% contentlink path="projects/github-api-consume-part-2" flavour="python" %}}
 - {{% contentlink path="projects/data-science-specific/dashboards/plotly_dashboards" flavour="python" %}}
 - {{% contentlink path="sql/shop-project/" %}}
