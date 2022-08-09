@@ -3,6 +3,12 @@ _db_id: 186
 content_type: project
 flavours:
 - any_language
+learning_outcomes:
+- web_dev_http_requests
+- web_dev_api_call_tools
+- web_dev_restful_apis
+- web_dev_json_data_representation
+- web_dev_api_consumption
 prerequisites:
   hard:
   - topics/apis/basics/
