@@ -11,17 +11,17 @@ title: Introduction to Typescript
 - Typescript was created to make it easier to write code that is compatible with the JavaScript language.
 - Strong static typing, compilation, and object-oriented programming are all features of TypeScript that has made it a popular language.
 
-#### The TypeScript Compiler
+#### The TypeScript Transpiler
 
-- TypeScript must be compiled into JavaScript for execution, the code gets compiled to JavaScript by the TypeScript Compiler.
-- The TypeScript compiler “tsc” compiles TypeScript programs into JavaScript programs and in the process analyzes them and reports type errors.
+- TypeScript must be transpiled into JavaScript for execution, the code gets transpiled to JavaScript by the TypeScript Transpiler.
+- The TypeScript transpiler “tsc” transpile TypeScript programs into JavaScript programs and in the process analyzes them and reports type errors.
 
-##### To learn more about TypeScript and the TypeScript Compiler read the following content
+##### To learn more about TypeScript and the TypeScript Transpiler read the following content
 
 - [Introduction To TypeScript](https://flaviocopes.com/typescript/)
-- [TypeScript Compiler](https://code.visualstudio.com/docs/typescript/typescript-compiling)
+- [TypeScript Transpiler](https://code.visualstudio.com/docs/typescript/typescript-compiling)
 - [TypeScript Playground](https://www.typescriptlang.org/play/)
-  
+
 As usual, the official docs say it best :)
 
 Take note of that fact: IF you want to learn something new then the official documentation usually has the best and most up to date tutorial. This isn't always the case, but it's always a great place to look.
