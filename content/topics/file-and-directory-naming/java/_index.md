@@ -16,10 +16,10 @@ When you think about how to name files and directories in Java, you should know 
 
 
 #### Directories
-Directory names in Java should be in lower cases, this means that you only use small letters. eg src or main
+Directory names in Java should be in lower case which means that you only use small letters. Eg `src` or `main`
 
 ### File names
-File names should be in CamelCase (also known as Upper CamelCase), this is where each new word begins with a capital letter.eg SimpleCalculator
+File names should be in CamelCase (also known as Upper CamelCase), this is where each new word begins with a capital letter. Eg `SimpleCalculator`
 
 ### Example of what's expected
 
