@@ -1,19 +1,72 @@
 ---
 content_type: topic
 title: Error handling best practices
+tags:
+  - javascript
 ---
 
 ## Errors are useful
 
 There's a reason why errors are in almost all if not all languages. They serve to indicate that something bad and unintended happens. They don't exist to just be squashed or just logged.
 
-The common way of handling javascript errors is by using the [try catch](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch) statement.
+Errors that occur usually stop and terminate the program. The most common way of handling errors in javascript is by using the [try catch](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch) statement. This is used to try and gracefully handle the error or use info from the error to handle it accordingly.
 
-## How others generally handle errors
+```js
+try {
+  // critical code that may fail goes here
+} catch (error) {
+  // - if an error occurs in the try the error is caught and made available here
+  // - this is where you can call verify certain errors, notify the user .etc.
+}
+```
+
+## Common bad ways people/tutorials handle errors
+
+- just print errors
+
+```js
+try {
+  // code...
+} catch (error) {
+  console.log(error);
+}
+```
+
+- just print errors with a different color
+
+```js
+try {
+  // code...
+} catch (error) {
+  console.error(error);
+}
+```
+
+- catch expected errors just to rethrow them without added context
+
+```js
+try {
+  // code...
+} catch (error) {
+  throw new Error(error);
+}
+```
+
+- catch but ignore the caught errors
+
+```js
+try {
+  // code...
+} catch (error) {
+  throw new Error(
+    "new error that may or may not be related to the caught error"
+  );
+}
+```
 
 ## When to catch errors
 
-The rule of thumb is to catch errors on the highest layer of the application where you can handle them effectively with consumer software. That can either be by using the info from the error thrown and letting a user know if they can do something about it or just rethrowing it with more context for the developers to know what happened.
+The rule of thumb is to catch errors where you can handle them effectively, this is usually on the UI layer of an application with consumer software. That can either be by using the information from the error thrown and letting a user know if they can do something about it or just rethrowing it with more context for the developers to know what happened.
 
 ## Throwing custom errors
 
@@ -40,3 +93,9 @@ throw new Error(error);
 
 throw new Error("error message");
 ```
+
+## Resources
+
+- [Javascript.info error handling](https://javascript.info/error-handling) - how the try catch works and some advice on handling errors
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch) - learn more about try catch statements
+- [Stack Overflow - best practices for javascript error handling](https://stackoverflow.com/questions/6484528/what-are-the-best-practices-for-javascript-error-handling)
