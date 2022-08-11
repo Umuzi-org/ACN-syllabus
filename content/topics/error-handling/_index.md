@@ -3,6 +3,8 @@ content_type: topic
 title: Error handling best practices
 tags:
   - javascript
+flavours:
+  - javascript
 ---
 
 ## Errors are useful
