@@ -1,140 +1,106 @@
 ---
-_db_id: 215
+_db_id: 218
 content_type: project
 flavours:
 - java
-from_repo: projects/java-specific/introduction-to-spring-boot/part3
+from_repo: projects/java-specific/introduction-to-spring-boot/part2
 prerequisites:
   hard:
+  - projects/java-specific/introduction-to-spring-boot/part1
+  - projects/java-specific/introduction-to-spring-boot/part2
   - topics/java-specific/introduction-to-spring-boot/part3
+  soft: []
 ready: true
-submission_type: repo
+submission_type: continue_repo
 tags:
 - spring-boot
-- rest-api
-- soap
-- github-api
-- rest-templates
+- annotations
+- unit-testing
+- caching
+- security
 title: Introduction to Spring Boot - Part 3
 ---
 
-In this project we will consume a REST API and a SOAP web service as a new project.
+We are going to work on Spring boot **Caching** and **Security** for the project we created in part1 and part2
 
-## REST API
+## Caching
 
-#### Step 1
+Continuing with {{% contentlink path="projects/java-specific/introduction-to-spring-boot/part2" %}} for the **User** we are going to add **security** and **caching** on the application and we will use test and browser to see if the application does what we expect.
 
-Create a java application and import 'org.springframework.boot:spring-boot-starter-web' into your build.gradle file to convert it to a Web Spring Boot application or use https://start.spring.io/
+**Step 1**
 
-Familiarize yourself with the git api found here https://developer.github.com/v3/ learn which endpoint to get your repo, commits maybe branches etc. Try it out on postman or curl on the terminal
-
-#### Step 2
-
-Now we are going to consume the api in our spring boot application using restTemplates as per topic work.
-
-We would like to see:
-
-1. v3 version of the api implemented
-
-2. A list of all your repos - output on the console
-
-3. A list of commits in 1 repo of your choice - output on the console
-
-## SOAP WEB SERVICES
-
-#### Step 1
-
-Project Setup and configuration:
-
-1. Make your machine run jdk version 8, the correct install is from this link https://www.oracle.com/za/java/technologies/javase/javase8-archive-downloads.html
-2. Set up your $JAVA_HOME to point to this jdk version
-3. You will know that you have set this up correctly when you run
-
- ```
- javac -version
- // output  jdk 1.8 or jdk 8
- ```
-
-**Why do you need to change your jdk version for this project**
-
-1. Peace of mine, dependency hell is a thing of nightmares
-2. wsimport comes out of the box in jdk 8, jdk > 9 removed wsimport and open sourced it
-3. avoid the famous ```Implementation of JAXB-API has not been found on module path or classpath``` error
-
-#### Step 2
-
-Clone the repo found here https://github.com/spring-guides/gs-producing-web-service and open the `complete` folder not the entire repo. Review it on a high level this will be the wsdl project we are going to use to learn how to consume a wsdl application. **DO NOT ADD THIS PROJECT AS PART OF YOUR SUBMISSION(this is so that you can generate the files)**
-
-Change the application to run on port 9090 by adding this to the properties file
-
-Run the application, if everything is set up properly you should be able to go to the url below,
+Import the following dependency
 
 ```
-http://localhost:9090/ws/countries.wsdl
+dependencies {
+    compile 'org.springframework.boot:spring-boot-starter-cache'
+}
+```
+
+**Step 2**
+
+Implement caching for the 'name' in the "getUser" method, use the right annotation to invoke this 😉, in order to see if something is being served from cache or not we are going to simulate our own delay.
+
+Add this code on your getUser method just before the return statement
+
+```
+try
+{
+    System.out.println("Going to sleep for 5 Secs.. to simulate backend call.");
+    Thread.sleep(1000*5);
+}
+catch (InterruptedException e)
+{
+    e.printStackTrace();
+}
+```
+
+Use the rest API you created in Part 2 to test your cache
+
+Write an integration test (Testing in which individual software modules are combined and tested as a group) that will call the endpoint which invokes the `getUser` function four times
+
+Expect output
+
+**Without Cache:**
+
+```
+Going to sleep for 5 Secs.. to simulate backend call.
+Going to sleep for 5 Secs.. to simulate backend call.
+Going to sleep for 5 Secs.. to simulate backend call.
+Going to sleep for 5 Secs.. to simulate backend call.
 
 ```
 
-and see this
+**With Cache:**
 
 ```
-<wsdl:definitions xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:sch="http://spring.io/guides/gs-producing-web-service" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="http://spring.io/guides/gs-producing-web-service" targetNamespace="http://spring.io/guides/gs-producing-web-service">
-    <wsdl:types>
-        <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://spring.io/guides/gs-producing-web-service">
-        <xs:element name="getCountryRequest">
-            <xs:complexType>
-            <xs:sequence>
-
-// ....
+Going to sleep for 5 Secs.. to simulate backend call.
+...
+...
+...
 
 ```
 
-keep this project running in the background
+## Security
 
-#### Step 3
-
-In your terminal navigate to `[YourProjectName]/src/main/java` and run this command
+Import the following dependency
 
 ```
-wsimport -keep -p [package].wsdl http://localhost:9090/ws/countries.wsdl
-
-// e.g wsimport -keep -p com.example.soap.wsdl http://localhost:9090/ws/countries.wsdl
-
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter-security'
+}
 ```
 
-#### Step 4
+**Step 1**
 
-To get the generated class to stop showing errors you would need these dependencies
+Override the neccessary functions in the WebSecurityConfigurer class to configure your own username and password
 
-```
-	implementation group: 'jakarta.xml.ws', name: 'jakarta.xml.ws-api', version: '2.3.3'
-	implementation group: 'org.glassfish.main.javaee-api', name: 'javax.jws', version: '3.1.2.2'
-```
+**Step 2**
 
-#### Step 5
+Add a test to show that your username and password actually work to override the default one
 
-Now we start to do the real work
+## Resource 😉
 
-**Expose an endpoint that will print the following in the browser**
+https://howtodoinjava.com/spring-boot2/spring-boot-cache-example/
 
-1 Get the currency for United Kingdom: Output
-
-```
-Currency: GBP
-
-```
-
-2 Get the capital of United Kingdom: Output
-
-```
-Capital: London
-
-```
-
-3 Get the population of United Kingdom: Output
-
-```
-Population: 63705000
-
-```
-
-### Happy Hacking!!!
+https://www.baeldung.com/spring-security-integration-tests
