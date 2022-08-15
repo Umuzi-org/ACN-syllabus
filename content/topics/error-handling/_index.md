@@ -22,7 +22,9 @@ try {
 }
 ```
 
-## Common bad ways people/tutorials handle errors
+## Bad error handling
+
+The following are examples of how tutorials/people handle errors:
 
 - just print errors
 
@@ -41,6 +43,16 @@ try {
   // code...
 } catch (error) {
   console.error(error);
+}
+```
+
+- return errors
+
+```js
+try {
+  // code...
+} catch (error) {
+  return error;
 }
 ```
 
