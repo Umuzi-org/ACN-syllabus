@@ -125,34 +125,9 @@ and use `myclass.MyClass` and `foo.bar.yourclass.YourClass`.
 
 ### Wildcards
 
-Guard against wildcard imports. The primary reason is to ensure that imports are explicit is to prevent the cluttering of the namespace, else one of the following is likely to happen:
-- You have an outright naming conflict between your imports, for instance `maths.sqrt` and `statistics.sqrt`
-- Imports are sequential, thus the final wildcard's classes and functions will override whateter came before. Should this be the incorrect class or function, you will struggle to figure out why the code does not function as intended.
-- Ensures that the code is inkeeping with _Clean Code_ mantra as each import just _*"does one thing"*_, better still other users of the code can know at a glance which aspects of the import are meant to be used.
-- This also guards against changes to that get made to the imported module (such as an upgrade to Python or third party library), all of which could cause the above mentioned to occur down the line, long after the code has been merged.
-
-```
-# No:
-from math import *
-from statistics import *
-
-# Yes
-from math import cos, sin, tan
-from statistics import mean, median, mode
-```
-
-Should there still be a need to import multiple aspects of a module or a module in its entirety, attempt to import submodules, ensuring unique names and dot call whatever classes or functions you desire
-
-```
-import datetime as dt
-from datetime import datetime
-
-...
-
-if __name__ == "__main__":
-    print(dt.tzinfo())
-    print(datetime.tzinfo())
-```
+Guard against wildcard imports. For further details follow this links:
+- [Wildcard imports should not be used](https://rules.sonarsource.com/python/RSPEC-2208)
+- [Why You Should Avoid Wildcard Imports](https://www.youtube.com/shorts/A9AhKxSBZ0Q)
 
 In summary, wildcard imports should be avoided, as they make it unclear which names are present in the namespace, confusing both readers and many automated tools. There is one defensible use case for a wildcard import, which is to republish an internal interface as part of a public API (for example, overwriting a pure Python implementation of an interface with the definitions from an optional accelerator module and exactly which definitions will be overwritten isn't known in advance).
 
