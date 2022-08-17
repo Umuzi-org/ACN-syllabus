@@ -10,7 +10,6 @@ learning_outcomes:
 pre: '<b>EASY: </b>'
 prerequisites:
   hard:
-  - projects/morse-code
   - topics/test-driven-development
   soft: []
 ready: true

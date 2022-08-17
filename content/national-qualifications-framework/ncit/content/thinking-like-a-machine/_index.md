@@ -43,6 +43,7 @@ prerequisites:
   hard:
   - language-agnostic/problem-solving-technique
   - language-agnostic/intro-to-hackerrank
+  - projects/katas/level-0/
 ready: true
 tags:
 - ncit

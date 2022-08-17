@@ -16,6 +16,7 @@ title: Web frontend foundations
 - {{% contentlink path="topics/js-and-node-specific/super-basic-intro-to-node" %}}
 - {{% contentlink path="topics/web-frontend/intro-to-web-design/" %}}
 - {{% contentlink path="projects/web-development-website" %}}
+- {{% contentlink path="projects/morse-code/" flavour="javascript" %}}
 - {{% contentlink path="topics/free-code-camp/responsive-web-design/3-applied-visual-design" %}}
 - {{% contentlink path="workshops/general-coding-best-practices" %}}
 - {{% contentlink path="topics/jasmine-unit-tests" %}}
