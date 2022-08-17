@@ -153,7 +153,7 @@ add("//88\n18820882")
 // should return 23
 ```
 
-For Python: Raise an appropriate exception type. Using the base Exception isn't good practice. Here are [errors](https://www.tutorialsteacher.com/python/error-types-in-python) that can be raised.
+**Python:** Raise an appropriate exception type. Using the base Exception isn't good practice. Here are [errors](https://www.tutorialsteacher.com/python/error-types-in-python) that can be raised.
 
 #### 5. Modify the add function so that it can handle negative integers
 
