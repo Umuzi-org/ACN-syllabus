@@ -11,7 +11,7 @@ flavours:
 
 There's a reason why errors are in almost all if not all languages. They serve to indicate that something bad and unintended happens. They don't exist to just be squashed or just logged.
 
-Errors that occur usually stop and terminate the program. The most common way of handling errors in javascript is by using the [try catch](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch) statement. This is used to try and gracefully handle the error or use info from the error to handle it accordingly.
+Errors that occur usually stop and terminate the program. The most common way of handling errors in JavaScript is by using the [try catch](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch) statement. This is used to try and gracefully handle the error or use info from the error to handle it accordingly.
 
 ```js
 try {
@@ -110,6 +110,6 @@ throw new Error("error message");
 
 ## Resources
 
-- [Javascript.info error handling](https://javascript.info/error-handling) - how the try catch works and some advice on handling errors
+- [JavaScript.info error handling](https://javascript.info/error-handling) - how the try catch works and some advice on handling errors
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch) - learn more about try catch statements
-- [Stack Overflow - best practices for javascript error handling](https://stackoverflow.com/questions/6484528/what-are-the-best-practices-for-javascript-error-handling)
+- [Stack Overflow - best practices for JavaScript error handling](https://stackoverflow.com/questions/6484528/what-are-the-best-practices-for-javascript-error-handling)
