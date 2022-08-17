@@ -3,9 +3,6 @@ _db_id: 219
 content_type: project
 flavours:
 - any_language
-prerequisites:
-  hard:
-  - topics/reopening-pull-request
 learning_outcomes:
 - code_algorithmic_thinking
 - code_pseudo_code
@@ -14,6 +11,9 @@ learning_outcomes:
 - code_naming_convention
 - code_code_documentation
 - code_basic_calculation
+prerequisites:
+  hard:
+  - topics/reopening-pull-request
 ready: true
 story_points: 3
 submission_type: repo

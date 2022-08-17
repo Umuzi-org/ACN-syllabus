@@ -8,9 +8,9 @@ prerequisites:
   - topics/solo-learn/python/1-basic-concepts
   soft: []
 ready: true
+submission_type: link
 tags:
 - solo-learn
-submission_type: link
 title: 'Solo Learn - Python Core - Module 1 - Basic Concepts: Profile check'
 ---
 

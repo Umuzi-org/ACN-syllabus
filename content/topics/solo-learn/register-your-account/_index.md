@@ -4,7 +4,7 @@ content_type: project
 flavours:
 - none
 submission_type: link
-tags: 
+tags:
 - solo-learn
 title: Register for a Sololearn Account
 ---

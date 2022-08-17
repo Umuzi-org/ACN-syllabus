@@ -3,11 +3,11 @@ _db_id: 767
 content_type: project
 flavours:
 - none
-ready: true
-submission_type: link
 prerequisites:
   hard:
   - topics/khan-academy/statistics-and-probability/unit-2-intermediate-statistics
+ready: true
+submission_type: link
 tags:
 - technical-assessment
 title: 'Assessment: Basic data analysis - part 2'

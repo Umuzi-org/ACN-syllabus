@@ -1,9 +1,10 @@
 ---
+_db_id: 790
 content_type: topic
-ready: true
 prerequisites:
   hard:
   - topics/khan-academy/statistics-and-probability/unit-1-introduction-to-statistics
+ready: true
 tags:
 - statistics
 title: Unit 2 - Intermediate Statistics

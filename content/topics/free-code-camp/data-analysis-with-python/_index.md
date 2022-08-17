@@ -4,9 +4,9 @@ content_type: project
 flavours:
 - none
 ready: true
-tags: 
-- free-code-camp
 submission_type: link
+tags:
+- free-code-camp
 title: FreeCodeCamp - Data Analysis with Python
 ---
 

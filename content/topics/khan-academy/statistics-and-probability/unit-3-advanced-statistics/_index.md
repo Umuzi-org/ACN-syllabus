@@ -1,9 +1,10 @@
 ---
+_db_id: 789
 content_type: topic
-ready: true
 prerequisites:
   hard:
   - topics/khan-academy/statistics-and-probability/unit-2-intermediate-statistics
+ready: true
 tags:
 - statistics
 title: Unit 3 - Advanced Statistics

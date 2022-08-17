@@ -65,9 +65,9 @@ data_sci_classification_feature_selection:
   description: Justify feature selection and determine most important features.
 data_sci_classification_metrics:
   _db_id: 20
-  description: "Evaluate model performance and discuss classification metrics within\
-    \ the context of the given problem, correctly reporting metrics isn\u2019t sufficient.\
-    \ Learners should be able to relate these to the actual problem being modelled."
+  description: "Evaluate model performance and discuss classification metrics within
+    the context of the given problem, correctly reporting metrics isn\u2019t sufficient.
+    Learners should be able to relate these to the actual problem being modelled."
 data_sci_cluster_metrics:
   _db_id: 29
   description: Discuss how successful clustering was by referring to appropriate metrics
@@ -260,8 +260,8 @@ web_dev_dbms_set_up:
     management system (DBMS).
 web_dev_docker_configuration:
   _db_id: 93
-  description: "Demonstrate understanding of Docker and configuring an application\u2019\
-    s services using Docker-Compose."
+  description: "Demonstrate understanding of Docker and configuring an application\u2019s
+    services using Docker-Compose."
 web_dev_dom_manipulation:
   _db_id: 81
   description: Implement DOM manipulation techniques using HTML, CSS, and JavaScript.
@@ -299,8 +299,8 @@ web_dev_indepth_tdd:
     APIs.
 web_dev_indexing:
   _db_id: 101
-  description: "Demonstrate understanding of retrieving an element\u2019s index position\
-    \ from an array"
+  description: "Demonstrate understanding of retrieving an element\u2019s index position
+    from an array"
 web_dev_json_data_representation:
   _db_id: 88
   description: Represent data with the JSON data-interchange format.
@@ -329,8 +329,8 @@ web_dev_server_setup:
   description: Demonstrate a working knowledge of setting up a simple Express server.
 web_dev_shuffling_elements:
   _db_id: 100
-  description: "Demonstrate basic mathematical operations based on the user\u2019\
-    s interactivity with the GUI and display results on the DOM."
+  description: "Demonstrate basic mathematical operations based on the user\u2019s
+    interactivity with the GUI and display results on the DOM."
 web_dev_simple_gui_design:
   _db_id: 105
   description: Demonstrate a basic understanding of simple UI/UX design through user-friendly

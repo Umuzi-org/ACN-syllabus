@@ -8,9 +8,9 @@ prerequisites:
   - topics/solo-learn/python/5-exceptions-and-files
   soft: []
 ready: true
+submission_type: link
 tags:
 - solo-learn
-submission_type: link
 title: 'Solo Learn - Python Core - Module 5 - Exceptions & Files: Profile check'
 ---
 

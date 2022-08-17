@@ -2,13 +2,13 @@
 _db_id: 312
 content_type: project
 flavours:
-  - none
+- none
 ready: true
 submission_type: link
 tags:
-  - javascript
-  - oop
-  - free-code-camp
+- javascript
+- oop
+- free-code-camp
 title: FreeCodeCamp - Object Oriented Programming
 ---
 
