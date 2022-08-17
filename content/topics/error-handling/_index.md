@@ -18,7 +18,7 @@ try {
   // critical code that may fail goes here
 } catch (error) {
   // - if an error occurs in the try the error is caught and made available here
-  // - this is where you can call verify certain errors, notify the user .etc.
+  // - this is where you can verify certain errors, notify the user .etc.
 }
 ```
 
@@ -36,7 +36,7 @@ try {
 }
 ```
 
-- just print errors with a different color
+- just print errors with a different colour
 
 ```js
 try {
@@ -56,7 +56,7 @@ try {
 }
 ```
 
-- catch expected errors just to rethrow them without added context
+- catch expected errors just to re-throw them without added context
 
 ```js
 try {
@@ -80,7 +80,7 @@ try {
 
 ## When to catch errors
 
-The rule of thumb is to catch errors where you can handle them effectively, this is usually on the UI layer of an application with consumer software. That can either be by using the information from the error thrown and letting a user know if they can do something about it or just rethrowing it with more context for the developers to know what happened.
+The rule of thumb is to catch errors where you can handle them effectively, this is usually on the UI layer of an application with consumer software. That can either be by using the information from the error thrown and letting a user know if they can do something about it or just re-throwing it with more context for the developers to know what happened.
 
 ## Throwing custom errors
 
@@ -88,10 +88,10 @@ Throw custom errors when you know exactly what went wrong, or when you want to a
 
 There are different kinds of syntax for throwing errors
 
-just throwing a caught errors or any type as an error
+just throwing a caught error or any type as an error
 
 ```js
-// BAD - because it misinterprets where the error occured you can throw pretty much anything as an error
+// BAD - because it misinterprets where the error occurred you can throw pretty much anything as an error
 throw error;
 
 throw "some error";
@@ -102,7 +102,7 @@ throw {};
 using the error object:
 
 ```js
-// GOOD - because  it tells you exactly where the error occured and the constructor takes in a message making it more predictable
+// GOOD - because  it tells you exactly where the error occurred and the constructor takes in a message making it more predictable
 throw new Error(error);
 
 throw new Error("error message");
