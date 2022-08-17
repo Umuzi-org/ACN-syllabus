@@ -41,7 +41,7 @@ ncit_standards:
 - 115378
 prerequisites:
   hard:
-  - projects/oop/animals/part1
+  - projects/oop/person
 ready: true
 tags:
 - oop
