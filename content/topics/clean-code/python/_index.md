@@ -139,9 +139,9 @@ from statistics import mean, median, mode
 
 The primary reason for ensuring that imports are explicit is to prevent the cluttering of the namespace, else one of the following is likely to happen:
 - You have an outright naming conflict between your imports, for instance `maths.sqrt` and `statistics.sqrt`
-- Imports are sequential, thus the final wildcard's classes and functions will override whateter came before. Should this be the incorrect class or function, you will struggle to figure out why the code does not function as intended.
-- Ensures that the code is inkeeping with the _Clean Code_ mantra as each import just _*"does one thing"*_, better still other users of the code can know at a glance which aspects of the import are meant to be used.
-- This also guards against changes that get made to the imported module (such as an upgrade to Python or third party library), all of which could cause the above mentioned to occur down the line, long after the code has been merged.
+- Imports are sequential, thus the final wildcard's classes and functions will override whatever came before. Should this be the incorrect class or function, you will struggle to figure out why the code does not function as intended.
+- Ensures that the code is in keeping with the _Clean Code_ mantra as each import just _*"does one thing"*_, better still other users of the code can know at a glance which aspects of the import are meant to be used.
+- This also guards against changes that get made to the imported module (such as an upgrade to Python or a third-party library), all of which could cause the above-mentioned to occur down the line, long after the code has been merged.
 
 Should there still be a need to import multiple aspects of a module or a module in its entirety, attempt to import submodules, ensuring unique names and dot call whatever classes or functions you desire
 
@@ -156,7 +156,7 @@ if __name__ == "__main__":
     print(datetime.tzinfo())
 ```
 
-For further details follow this links:
+For further details follow these links:
 - [Wildcard imports should not be used](https://rules.sonarsource.com/python/RSPEC-2208)
 - [Why You Should Avoid Wildcard Imports](https://www.youtube.com/shorts/A9AhKxSBZ0Q)
 
