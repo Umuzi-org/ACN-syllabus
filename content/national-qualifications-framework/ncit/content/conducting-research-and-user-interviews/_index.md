@@ -88,3 +88,5 @@ The first stage of Human-Centered Design starts with gaining a deep understandin
 The following is required reading:
 
 https://drive.google.com/file/d/1sTBU_7QyXRjxLQP-D_Mn9tU6OrNNyspQ/view?usp=sharing
+
+Download the HCD PDF and read pages 30-64 (You can skip the Case Studies)
