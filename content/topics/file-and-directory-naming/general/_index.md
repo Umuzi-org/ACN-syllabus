@@ -18,3 +18,4 @@ has a different style, internal consistency should take precedence.
 
 - Python : {{% contentlink path="topics/file-and-directory-naming/python" %}}
 - JavaScript : {{% contentlink path="topics/file-and-directory-naming/javascript" %}}
+- Java : {{% contentlink path="topics/file-and-directory-naming/java" %}}
