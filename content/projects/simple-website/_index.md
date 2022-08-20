@@ -19,7 +19,7 @@ tags:
 title: Simple Website - Build your first personal website
 ---
 
-For the course you will create a website with your CV and a portfolio of your work. Create the website and host it on Github. You will be expected to keep your portfolio up to date throughout the course.
+For the course you will create a website with your CV and a portfolio of your work. Create the website and host it on GitHub. You will be expected to keep your portfolio up to date throughout the course.
 
 ## Instructions
 
@@ -27,11 +27,11 @@ Create a personal website to showcase your talents and ambitions.
 
 The content and information you choose to display is up to you. There should be some information about your skills, interests, and previous experience, as well as information on how to get in touch with you. Think about the user experience when designing your layout and navigation.
 
-Your web page files and folders should be organized and named in a logical manner.
+Your web page files and folders should be organized and named logically.
 
 Learn more about [Github Pages](https://guides.github.com/features/pages/).
 
-Make sure that you regularly push your code to github. Once you have finished your design and are satisfied with the style and content, submit a link to your website. DO NOT submit a link to your github repo, submit a link to the website you hosted on GitHub Pages. We don't want to clone your website, we want to look at what you built.
+Make sure that you regularly push your code to GitHub. Once you have finished your design and are satisfied with the style and content, submit a link to your website. DO NOT submit a link to your GitHub repo, submit a link to the website you hosted on GitHub Pages. We don't want to clone your website, we want to look at what you built.
 
 ### Requirements
 
@@ -39,9 +39,9 @@ Make sure that you regularly push your code to github. Once you have finished yo
   - About me
   - Skills (Your tech stack: the languages and tools you use)
   - Projects/Portfolio (for now this might be a bit empty, but if you've worked on anything cool then tell us about it)
-  - A way to contact you - LinkedIn, an email address or a contact form (NB! this will be live on the internet so keep spam concerns in mind)
-- Host your site as a Github Page. In your README file include a link to your github page for easy navigation.
-- Your portfolio can be a simple single page portfolio that contains the above mentioned requirements.
+  - A way to contact you - LinkedIn, an email address or a contact form (NB! This will be live on the internet so keep spam concerns in mind)
+- Host your site as a GitHub Page. In your README file include a link to your GitHub page for easy navigation.
+- Your portfolio can be a simple single page portfolio that contains the above-mentioned requirements.
 - Make sure that only the necessary information is presented.
 - Make sure your stuff is tidy. Use whitespace as needed. Make sure your pictures are not squashed or stretched.
 
@@ -59,4 +59,3 @@ Make sure that you regularly push your code to github. Once you have finished yo
 - All social media accounts and work profiles should work.
 - Font and text size should be clear.
 - They should make use of the entire web page.
-- This website does not need to be responsive
