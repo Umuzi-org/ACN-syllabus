@@ -39,7 +39,7 @@ Make sure that you regularly push your code to github. Once you have finished yo
   - About me
   - Skills (Your tech stack: the languages and tools you use)
   - Projects/Portfolio (for now this might be a bit empty, but if you've worked on anything cool then tell us about it)
-  - Contact (social media, email, phone, etc)
+  - A way to contact you - LinkedIn, an email address or a contact form (NB! this will be live on the internet so keep spam concerns in mind)
 - Host your site as a Github Page. In your README file include a link to your github page for easy navigation.
 - Your portfolio can be a simple single page portfolio that contains the above mentioned requirements.
 - Make sure that only the necessary information is presented.
@@ -59,3 +59,4 @@ Make sure that you regularly push your code to github. Once you have finished yo
 - All social media accounts and work profiles should work.
 - Font and text size should be clear.
 - They should make use of the entire web page.
+- This website does not need to be responsive
