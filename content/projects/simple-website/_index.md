@@ -59,3 +59,4 @@ Make sure that you regularly push your code to GitHub. Once you have finished yo
 - All social media accounts and work profiles should work.
 - Font and text size should be clear.
 - They should make use of the entire web page.
+- The website does not need to be responsive.
