@@ -14,7 +14,7 @@ title: Introduction to Typescript
 #### The TypeScript Transpiler
 
 - TypeScript must be transpiled into JavaScript for execution, the code gets transpiled to JavaScript by the TypeScript Transpiler.
-- The TypeScript transpiler “tsc” transpile TypeScript programs into JavaScript programs and in the process analyzes them and reports type errors.
+- The TypeScript transpiler “tsc” transpile TypeScript programmes into JavaScript programmes and in the process analyses them and reports type errors.
 
 ##### To learn more about TypeScript and the TypeScript Transpiler read the following content
 
@@ -27,6 +27,6 @@ As usual, the official docs say it best :)
 Take note of that fact: IF you want to learn something new then the official documentation usually has the best and most up to date tutorial. This isn't always the case, but it's always a great place to look.
 
 Start here: https://www.typescriptlang.org/docs/handbook/basic-types.html
-Familiarize yourself with the entire handbook. Start from the top.
+Familiarise yourself with the entire handbook. Start from the top.
 
 Since you are already a coder it should all feel very familiar.
