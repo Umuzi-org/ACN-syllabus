@@ -18,7 +18,6 @@ title: DEPRECATED Foundations of java for employed learners
 - {{% contentlink path="soft-skills/learning-how-to-learn" %}}
 - {{% contentlink path="soft-skills/how-to-master-fundamentals" %}}
 - {{% contentlink path="topics/clean-code/java-script" %}}
-- {{% contentlink path="projects/katas/level-0" flavour="java" %}}
 - {{% contentlink path="language-agnostic/intro-to-hackerrank" flavour="java" %}}
 - {{% contentlink path="projects/katas/level-1" flavour="java" %}}
 - {{% contentlink path="specific-skill-success-criteria/introduction-to-assessments" %}}

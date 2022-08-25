@@ -4,7 +4,6 @@ title: Java boot camp
 ---
 
 - {{% contentlink path="topics/clean-code/java" %}}
-- {{% contentlink path="projects/katas/level-0" flavour="java" %}}
 - {{% contentlink path="projects/katas/level-1" flavour="java" %}}
 - {{% contentlink path="projects/katas/level-2" flavour="java" %}}
 - {{% contentlink path="projects/oop/animals/part1"  flavour="java" %}}

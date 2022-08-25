@@ -4,7 +4,6 @@ _db_id: 35
 ---
 
 - {{% contentlink path="topics/clean-code/python" %}}
-- {{% contentlink path="projects/katas/level-0" flavour="python" %}}
 - {{% contentlink path="projects/katas/level-1" flavour="python" %}}
 - {{% contentlink path="topics/solo-learn/python/6-more-types" %}}
 - {{% contentlink path="projects/katas/level-2" flavour="python" %}}
