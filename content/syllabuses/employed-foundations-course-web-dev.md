@@ -18,6 +18,16 @@ title: Foundations of web dev for employed learners
 - {{% contentlink path="soft-skills/learning-how-to-learn" %}}
 - {{% contentlink path="soft-skills/how-to-master-fundamentals" %}}
 - {{% contentlink path="topics/clean-code/java-script" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_1" flavour="javascipt" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_2" flavour="javascipt" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_3"  flavour="javascipt" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_4" flavour="javascipt" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_5" flavour="javascipt" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_6" flavour="javascipt" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_7" flavour="javascipt" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_8" flavour="javascipt" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_9" flavour="javascipt" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_10" flavour="javascipt" %}}
 - {{% contentlink path="language-agnostic/intro-to-hackerrank" flavour="javascript" %}}
 - {{% contentlink path="projects/katas/level-1" flavour="javascript" %}}
 - {{% contentlink path="specific-skill-success-criteria/introduction-to-assessments" %}}

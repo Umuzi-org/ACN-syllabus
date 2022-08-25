@@ -18,6 +18,16 @@ title: DEPRECATED Foundations of java for employed learners
 - {{% contentlink path="soft-skills/learning-how-to-learn" %}}
 - {{% contentlink path="soft-skills/how-to-master-fundamentals" %}}
 - {{% contentlink path="topics/clean-code/java-script" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_1" flavour="java" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_2" flavour="java" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_3"  flavour="java" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_4" flavour="java" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_5" flavour="java" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_6" flavour="java" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_7" flavour="java" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_8" flavour="java" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_9" flavour="java" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_10" flavour="java" %}}
 - {{% contentlink path="language-agnostic/intro-to-hackerrank" flavour="java" %}}
 - {{% contentlink path="projects/katas/level-1" flavour="java" %}}
 - {{% contentlink path="specific-skill-success-criteria/introduction-to-assessments" %}}
