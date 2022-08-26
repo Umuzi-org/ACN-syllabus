@@ -2,10 +2,6 @@
 content_type: project
 flavours:
 - java
-prerequisites:
-  hard:
-  - topics/java-specific/introduction-to-spring-boot/view-template
-  soft: []
 ready: true
 submission_type: repo
 tags:
