@@ -19,9 +19,9 @@ Java is mostly used for backend application but sometimes you might need to harn
 
 In this project we are going to upload a file from the frontend and process it in the backend
 
-#### Step 1
+### Step 1
 
-Create a spring boot application and a  dd the relevant dependencies
+Create a spring boot application and add the relevant dependencies
 
 ```
 spring-boot-starter-web
@@ -30,19 +30,30 @@ spring-boot-starter-thymeleaf
 
 ### Step 2
 
-Create an `UploadController` this will hold the rest request to handle the file upload UI, this controller should handle two (2) request
+Create an `UploadController` this will hold the rest request to handle the file upload UI, this controller should handle two request
 
 1. Request to upload one file `uploadSingleFile`
 2. Request to outpload multilple files `uploadMultipleFiles`
 
-Note: You need a place to upload these files to, and this will be another folder in your machine, create that directory such that if it does not already exist a new folder will be created.
+Note: You need a place to upload these files, and this will be another folder in your machine, create that directory such that if it does not already exist a new folder will be created.
 
 ### Step 3
 
 Now you have to build the UI element using thymeleaf that will handle the files upload process. The UI component should have
 
-1. A button to upload the single file and text next to the button that shows the size (KB, MB, TB) and name of the file
-2. A button to upload multiple files and text next to the button that shows the total size (KB, MB, TB) and the number of files uploaded
+-  A button to upload the single file and text next to the button that shows the size (KB, MB, TB) of the uploaded file and name of that file
+
+```
+// File size: 50 MB
+// Name of file: MyNewFile.pdf
+```
+
+-  A button to upload multiple files and text next to the button that shows the total file size (KB, MB, TB) of all the uploaded files and the number of files uploaded
+
+```
+// Total file size: 500 MB
+// Totals files: 3
+```
 
 ### Happy Hacking!!!
 
