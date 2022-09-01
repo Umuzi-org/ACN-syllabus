@@ -8,8 +8,6 @@ title: ACN Coding aptitude mini course and assessment - javascript
 - {{% contentlink path="environment-setup" %}}
 
 - {{% contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/1-basic-javascript" %}}
-- {{% contentlink path="topics/clean-code/java-script" %}}
-- {{% contentlink path="topics/file-and-directory-naming/javascript" %}}
 
 - {{% contentlink path="coding_aptitude_assessment/coding_challenges/introduction" %}}
 - {{% contentlink path="coding_aptitude_assessment/coding_challenges/how_to_name_files" %}}
