@@ -1,5 +1,4 @@
 ---
-_db_id: 80
 title: ACN Coding aptitude mini course and assessment - javascript
 ---
 
