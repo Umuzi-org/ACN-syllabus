@@ -7,7 +7,7 @@ title: Gradle and IntelliJ project submission structure
 
 When pushing your work to git it's important to be intentional about what you are pushing. When you build your java project and/or run your tests then certain files get created automatically. We don't want those files. We should be able to generate them ourselves whenever we want to.
 
-When you commit your code to git, you can tell git which files to ignore. You can do this though use of a `.gitignore` file. We've included a seriosly verbose gitignore file at the bottom of this document. Please just copy it and save it as a file named`.gitignore` in the root of your project.
+When you commit your code to git, you can tell git which files to ignore. You can do this though use of a `.gitignore` file. We've included a seriously verbose gitignore file at the bottom of this document. Please just copy it and save it as a file named`.gitignore` in the root of your project.
 
 Now if you did this right from the start you should be able to do something like this:
 
