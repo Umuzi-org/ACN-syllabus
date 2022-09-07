@@ -3,10 +3,10 @@ _db_id: 214
 content_type: project
 flavours:
 - java
-from_repo: projects/java-specific/introduction-to-spring-boot/part1
+from_repo: projects/java-specific/introduction-to-spring-boot/part-1
 prerequisites:
   hard:
-  - projects/java-specific/introduction-to-spring-boot/part1
+  - projects/java-specific/introduction-to-spring-boot/part-1
   - topics/java-specific/introduction-to-spring-boot/part2
   soft: []
 ready: true
@@ -16,14 +16,14 @@ tags:
 - rest-api
 - mvc
 - annotations
-title: Introduction to Spring Boot - Part 2
+title: Intro to spring boot - Part 2
 ---
 
 We are going to focus on creating a REST api that will serve as an end point to our spring boot java application.
 
 ## Service
 
-Continuing with {{% contentlink path="projects/java-specific/introduction-to-spring-boot/part1" %}} for the **User** we are going to expose a **REST endpoint** to the application.
+Continuing with {{% contentlink path="projects/java-specific/introduction-to-spring-boot/part-1" %}} for the **User** we are going to expose a **REST endpoint** to the application.
 
 **Step 1**
 

@@ -1,4 +1,5 @@
 ---
+_db_id: 793
 content_type: project
 flavours:
 - java
@@ -57,4 +58,3 @@ Now you have to build the UI element using thymeleaf that will handle the files 
 - https://www.thymeleaf.org/
 - https://www.baeldung.com/thymeleaf-in-spring-mvc
 - https://www.baeldung.com/sprint-boot-multipart-requests
-

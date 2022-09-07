@@ -13,7 +13,7 @@ tags:
 - spring-boot
 - data-structures
 - annotations
-title: Introduction to Spring Boot - Part 1
+title: Intro to spring boot - Part 1
 ---
 
 We covered a very large part of the Spring Boot framework at a high level on the reading material but I hope you went through the resource as well. This project will be very simple but focusing on all the building blocks. **HAVE FUN!!**

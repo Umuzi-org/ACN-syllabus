@@ -23,7 +23,7 @@ _db_id: 7
 - {{% contentlink path="workshops/general-coding-best-practices" %}}
 - {{% contentlink path="projects/oop/person" flavour="java" %}}
 - {{% contentlink path="projects/oop/animals/part2" flavour="java" %}}
-- {{% contentlink path="projects/java-specific/introduction-to-spring-boot/part1" flavour="java" %}}
+- {{% contentlink path="projects/java-specific/introduction-to-spring-boot/part-1" flavour="java" %}}
 - {{% contentlink path="projects/tdd/password-checker/part1" flavour="java" %}}
 - {{% contentlink path="language-agnostic/validate-id-number" flavour="java" %}}
 - {{% contentlink path="sql/shop-project" flavour="" %}}

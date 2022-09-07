@@ -6,7 +6,7 @@ prerequisites:
   - topics/java-specific/introduction-to-spring-boot/part2
   soft: []
 ready: true
-title: Introduction to Spring Boot - Part 3
+title: Intro to spring boot - Part 3
 ---
 
 ## Spring Boot Security

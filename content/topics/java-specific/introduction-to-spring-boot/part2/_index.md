@@ -6,7 +6,7 @@ prerequisites:
   - topics/java-specific/introduction-to-spring-boot/part1
   soft: []
 ready: true
-title: Introduction to Spring Boot - Part 2
+title: Intro to spring boot - Part 2
 ---
 
 ## Microservices
