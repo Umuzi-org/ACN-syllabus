@@ -2,7 +2,7 @@
 _db_id: 767
 content_type: project
 flavours:
-- none
+- python
 prerequisites:
   hard:
   - topics/khan-academy/statistics-and-probability/unit-2-intermediate-statistics

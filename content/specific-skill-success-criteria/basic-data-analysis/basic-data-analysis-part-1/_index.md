@@ -2,7 +2,7 @@
 _db_id: 710
 content_type: project
 flavours:
-- none
+- python
 prerequisites:
   hard:
   - topics/khan-academy/statistics-and-probability/unit-1-introduction-to-statistics

@@ -26,8 +26,8 @@ _db_id: 2
 - {{% contentlink path="topics/python-specific/virtual-envs/" %}}
 - {{% contentlink path="topics/khan-academy/statistics-and-probability/unit-1-introduction-to-statistics" %}}
 - {{% contentlink path="topics/khan-academy/statistics-and-probability/unit-2-intermediate-statistics" %}}
-- {{% contentlink path="specific-skill-success-criteria/basic-data-analysis/basic-data-analysis-part-1" %}}
-- {{% contentlink path="specific-skill-success-criteria/basic-data-analysis/basic-data-analysis-part-2" %}}
+- {{% contentlink path="specific-skill-success-criteria/basic-data-analysis/basic-data-analysis-part-1" flavour="python" %}}
+- {{% contentlink path="specific-skill-success-criteria/basic-data-analysis/basic-data-analysis-part-2" flavour="python" %}}
 - {{% contentlink path="projects/data-science-specific/data-wrangling" flavour="python" %}}
 - {{% contentlink path="projects/data-science-specific/statistical-thinking" flavour="python" %}}
 - {{% contentlink path="topics/khan-academy/statistics-and-probability/unit-3-advanced-statistics/" %}}
