@@ -111,7 +111,7 @@ If you want some further reading check this out: {{% contentlink path="topics/li
 
 ## The actual project
 
-Write a program that sends a random inspirational quote to an email address. The email address should be a command-line parameter passed to the program.
+Write a program that sends a random inspirational quote to an email address, you should export a function called sendEmail responsible to do excatly that... send an email. The email address to send to should be a command-line parameter passed to the program.
 
 You should have a list of quotes in a file by itself. Your program should grab one and send the email.
 
@@ -134,6 +134,8 @@ npm run send_inspiration ...
 The command needs to allow you to pass in an email address from the command line. Take a look at [this](https://stackoverflow.com/questions/11580961/sending-command-line-arguments-to-npm-script)
 
 Also, note that good code is written to be reusable. Make sure all your executable code is inside useful functions. When we run `npm run send_inspiration` then the right functions will need to be executed.
+
+Make use of `nodemailer` https://nodemailer.com/about/  to make it easier for yourself to send emails.
 
 ### Python
 
