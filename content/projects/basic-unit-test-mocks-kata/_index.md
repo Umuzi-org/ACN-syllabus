@@ -111,7 +111,7 @@ If you want some further reading check this out: {{% contentlink path="topics/li
 
 ## The actual project
 
-Write a program that sends a random inspirational quote to an email address, you should export a function called sendEmail responsible to do excatly that... send an email. The email address to send to should be a command-line parameter passed to the program.
+Write a program that sends a random inspirational quote to an email address, you should export a function called `sendEmail` responsible to do excatly that... send an email. The email address to send to should be a command-line parameter passed to the program.
 
 You should have a list of quotes in a file by itself. Your program should grab one and send the email.
 
