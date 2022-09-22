@@ -8,7 +8,7 @@ from_repo: projects/redux-intro/part-1
 prerequisites:
   hard:
   - projects/redux-intro/part-1
-  - topics/web-frontend/react/redux-architecture/_index.md
+  - topics/web-frontend/react/redux-architecture
 ready: true
 submission_type: continue_repo
 tags:
