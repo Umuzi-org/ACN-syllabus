@@ -24,6 +24,10 @@ Now one super cool thing about redux is that you don't really have to dispatch a
 
 There are two main ways to handle side effects in redux. Thunks and Sagas. Thunks are the easy way, and they are worth understanding before moving onto sagas.
 
-Your mission is to create a few more actions that use Thunks to combine a few of your existing actions. For example you might have an action with type `GOOD_MORNING` that starts playing soothing morning tunes and turns the kettle on. You might have another action of type `PARTY_MODE` that dims the lights, turns on the disco ball, and changes the volume of the door bell.
+Your mission is to create a few more actions that use Thunks to combine a few of your existing actions. 
+
+Create a thunk called `PARTY_MODE` that kicks off a few other actions that you have already implemented. You could also create some new actions that might contribute to a good party. Eg Party mode might dim the lights, turn on the disco ball, and change the volume of the door bell.
+
+Make at least one more thunk in the same way. For example you might have a `GOOD_MORNING`thunk that starts playing soothing morning tunes and turns the kettle on. 
 
 What combinations of actions would you want to trigger? Get creative :)
