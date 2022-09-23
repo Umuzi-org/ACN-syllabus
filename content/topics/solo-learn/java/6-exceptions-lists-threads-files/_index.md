@@ -11,6 +11,7 @@ ready: true
 submission_type: link
 tags:
 - java
+- solo-learn
 title: Solo Learn - Java - Module 6 - Exceptions, Lists, Threads & Files
 ---
 

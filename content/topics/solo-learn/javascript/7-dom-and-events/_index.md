@@ -8,6 +8,7 @@ prerequisites:
 ready: true
 tags:
 - javascript
+- solo-learn
 title: Solo Learn - JavaScript - Module 7 - DOM & Events
 topic_needs_review: false
 ---

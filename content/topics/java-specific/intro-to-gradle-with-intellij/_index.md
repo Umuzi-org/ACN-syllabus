@@ -22,7 +22,7 @@ Build tools are programs that automate the creation of executable applications f
 - Gradle
 - Maven
 
-Read up on the major differences between the following Java Build Tools [Gradle vs Maven](https://gradle.org/ maven-vs-gradle/)
+Read up on the major differences between the following Java Build Tools [Ant vs Gradle vs Maven](https://www.baeldung.com/ant-maven-gradle)
 
 
 ## Your first Gradle application

@@ -20,7 +20,15 @@ tags:
 title: Evolution of Linux Visualisation
 ---
 
-Complete the DataCamp project
+Complete the DataCamp project:
 [Exploring the Evolution of Linux](https://www.datacamp.com/projects/111).
 
-Once you have completed it, you can download your notebook file. Add it to your repo.
+Once you have completed it, you can download your notebook file and add it to your repo.
+
+
+### Instructions for reviewers
+- Ensure that there is a requirements file.
+- Ensure that the data file has a folder and the notebook file has a folder.
+- Ensure that unnecesary comments are removed from the notebook.
+- Ensure that all graphs have titles and labelled axes.
+- Ensure that all graph titles and axes labels are bold.

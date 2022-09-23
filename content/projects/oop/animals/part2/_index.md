@@ -18,7 +18,7 @@ tags:
 title: Animals Part 2. Adding Tests
 ---
 
-In this challenge you will update your current Animals project and add unit tests to the project
+In this challenge you will update your current Animals project and add unit tests to the project.
 
 ## Project structure
 
@@ -54,7 +54,7 @@ Please refer to the following to find out more: {{% contentlink path="topics/jav
 
 ### JavaScript
 
-Your directory structure should look like this.
+Your directory structure should look like this:
 
 ```
     >node_modules    <---- make sure this is in your .gitignore
@@ -67,47 +67,47 @@ Your directory structure should look like this.
     - package.json
 ```
 
-## Instructions
+### Python
+
+Your directory structure should look like this:
+
+```
+├── animals
+│   └── animals.py
+├── setup.py
+├── requirements.txt
+├── .gitignore
+└── tests
+    └── test_animals.py
+
+```
+
+## General Instructions
+
+1. Add tests to your project.
+2. The `Dog` and `Cat` class methods should still remain as per part 1 of the project.
+3. Include tests for your Home class. Make sure its methods return the correct values and that you can't adopt the same pet twice.
+4. See the pseudocode examples below for what kinds of things should be tested.
 
 ### For Java
 
 You'll be using JUnit.
+Create a class called `AnimalTests`.
 
-1. Create a class called `AnimalTests`
-2. Update `Animal` super class `eats()` function to return a String, "Food".
-3. Update `Dog` class `sounds()` function to return a `String`, "Bark".
-4. Update `Cat` class `sounds()` function to return a `String`, "Meow".
+Now let's add our first JUnit test to our `AnimalTests`. The class should have the following methods `TestDogSound()`, `TestDogEat()`, `TestCatSound()` and `TestCatEat()`. Each method should have the @Test tag placed above it, the tests should work as follows:
 
 ```
-// Java
-
-Dog dog = new Dog()
-
-dog.eats()    // -> 'Food'
-dog.sounds() // -> 'Bark'
-
-Cat cat = new Cat()
-
-cat.eats()    // -> 'Food'
-cat.sounds() // -> 'Meow'
-```
-
-Now let's add our first JUnit test to our `AnimalTests`. The class should have the following methods `TestDogSound()`, `TestDogEats()`, `TestCatSound()` and `TestCatEats()`.Each method should have the @Test tag placed above it. The tests should work as follows.
-
-```
-// Java
-
 //Dog Tests
-Test -> Does dog eat Food should Pass
-Test -> Does dog eat food should Fail
+Dog dog = new Dog();
+Test -> Does <dog name> eats should Pass
+Test -> Does dog Bark should Pass
+Test -> Does dog Meow should Fail
 
 //Cat Tests
 Cat cat = new Cat();
-Test -> Does cat Bark should Fail
+Test -> Does <cat name> eats should Pass
 Test -> Does cat Meow should Pass
-Test -> Does cat eat meat should Fail
-Test -> Does cat eat Food should Pass
-Test -> Does cat eat food should Fail
+Test -> Does cat Bark should Fail
 
 ```
 
@@ -115,57 +115,51 @@ Test -> Does cat eat food should Fail
 
 Use Jasmine to test your code.
 
-1. Update `Animal` super class `eats()` method to return a String, "Food".
-2. Update `Dog` class `sounds()` method to return a `String`, "Bark".
-3. Update `Cat` class `sounds()` method to return a `String`, "Meow".
-4. Make sure the `makeAllSounds()` method still works properly.
+Then create tests for your `eat()` and `sound()` methods on the `Dog` and `Cat` classes with Jasmine.
 
 ```
-// JavaScript
 
-Dog dog = new Dog()
-
-dog.eats()    // -> 'Food'
-dog.sounds() // -> 'Bark'
-
-Cat cat = new Cat()
-
-cat.eats()    // -> 'Food'
-cat.sounds() // -> 'Meow'
-```
-
-Then create tests for your `eats()` and `sounds()` methods on the `Dog` and `Cat` classes with Jasmine.
-
-```
-// JavaScript
 
 //Dog Tests
 let dog = new Dog();
-Test -> Does dog eat Food should Pass
-Test -> Does dog eat food should Fail
-Test -> Does dog Roar should Fail
+Test -> Does <dog name> eats should Pass
 Test -> Does dog Bark should Pass
+Test -> Does dog Meow should Fail
 
 //Cat Tests
 let cat = new Cat();
-Test -> Does cat Bark should Fail
+Test -> Does <cat name> eats should Pass
 Test -> Does cat Meow should Pass
-Test -> Does cat eat meat should Fail
-Test -> Does cat eat Food should Pass
-Test -> Does cat eat food should Fail
+Test -> Does cat Bark should Fail
 
 ```
 
-### Up for a Challenge?
+### For Python
 
-This section is not compulsory. If you do this we'll think you're cool.
+Use pytest to test your code.
 
-Add some extra tests for your Home class. Make sure that it makes all the right noises. And that you can't adopt the same pet twice.
+Please refer to the following to find out more: {{% contentlink path="topics/python-specific/automated-testing-with-pytest" %}}
+
+Remember the correct naming convention for the tests in your `test_animals.py` file.
+
+```
+
+#Dog tests
+dog = Dog()
+Test -> Does <dog name> eats should Pass
+Test -> Does dog Bark should Pass
+Test -> Does dog Meow should Fail
+
+#Cat Tests
+cat = Cat()
+Test -> Does <cat name> eats should Pass
+Test -> Does cat Meow should Pass
+Test -> Does cat Bark should Fail
+
+```
 
 ## Instructions for Reviewers
 
 - There should be no global variables.
 - If a variable is only used within a given method, then constantly referring to it as `self.variable`/`this.variable` isn't necessary.
-- `eats()` method should return "Food" and not print.
-- `Dog` and `Cat` class `sounds()` should return their respective sounds "Bark" and "Meow".
 - There should be a test for each method in the child classes.

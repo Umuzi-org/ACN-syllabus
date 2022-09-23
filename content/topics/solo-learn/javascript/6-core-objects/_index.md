@@ -11,6 +11,7 @@ ready: true
 submission_type: link
 tags:
 - javascript
+- solo-learn
 title: Solo Learn - JavaScript - Module 6 - Core Objects
 ---
 

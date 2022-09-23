@@ -5,7 +5,7 @@ title: Web Development - part 2
 
 - {{% contentlink path="topics/basic-architecture-concepts" %}}
 - {{% contentlink path="projects/nodejs/file-io" flavour="javascript" %}}
-- {{% contentlink path="projects/tdd/string-calculator" flavour="javascript" %}}
+- {{% contentlink path="projects/tdd/string-calculator-part-1" flavour="javascript" %}}
 - {{% contentlink path="topics/web-frontend/intro-to-web-design" %}}
 - {{% contentlink path="workshops/general-coding-best-practices" %}}
 - {{% contentlink path="projects/semitone-challenge/gui-part-1" flavour="javascript,noframework" %}}

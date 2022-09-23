@@ -10,7 +10,6 @@ learning_outcomes:
 pre: '<b>EASY: </b>'
 prerequisites:
   hard:
-  - projects/morse-code
   - topics/test-driven-development
   soft: []
 ready: true
@@ -21,15 +20,15 @@ tags:
 title: simple-calculator part 1
 ---
 
-The objective of this project is to build a calulator that can perform multiplication and addition on multiple integers. Do not build a front-end (UI). Complete this project by using a TDD approach.
+The objective of this project is to build a calculator that can perform multiplication and addition on multiple integers. Do not build a front-end (UI). Complete this project by using a TDD approach.
 
 The basic TDD approach is as follows:
 
 1. RED: Write tests. It should fail initially because there isn't any code that it is testing.
 2. GREEN: Write code to make the tests pass.
-3. REFACTOR: Make sure code is understandable and clean.
+3. REFACTOR: Make sure the code is understandable and clean.
 
-Remember to make sure your tests still pass after refactoring it.
+Remember to make sure your tests still pass after refactoring them.
 
 ## Set up environment
 
@@ -43,10 +42,10 @@ After setting up Jasmine on the terminal, please ensure that your directory has 
 
 - A src folder that has a file called:
 
-  - simple-calculator.js <---- this is where you will implement all your functionality.
+  - simple_calculator.js <---- this is where you will implement all your functionality.
 
 - A spec folder that has a file called:
-  - simple-calculator_spec.js <---- this is where you will put your tests.
+  - simple_calculator_spec.js <---- this is where you will put your tests.
 
 Your directory structure should look like this:
 
@@ -55,9 +54,9 @@ Your directory structure should look like this:
     >spec
         > support
             - jasmine.json
-        - simple-calculator-spec.js
+        - simple_calculator_spec.js
     >src
-        - simple-calculator.js
+        - simple_calculator.js
     - package.json
 ```
 
@@ -68,7 +67,7 @@ Your project is expected to be completed using pytest. You are expected to follo
 ```
 ├── simple_calculator   the package under test
 │   └── calculator.py
-├── requirements.txt    installation requiremnts
+├── requirements.txt    installation requirements
 ├── setup.py            installation script for the package under test
 └── tests               all package tests go in this directory
     └── test_calculator.py
@@ -140,7 +139,7 @@ Please note that your function should _NOT_ expect an array or list of numbers, 
 add([1,2,3,4])
 ```
 
-This is NOT what we are looking for. If you have square brackets inside your round brackets, you are doing it wrong. The same will apply for the multiply function you will build in the next section.
+This is NOT what we are looking for. If you have square brackets inside your round brackets, you are doing it wrong. The same will apply to the multiply function you will build in the next section.
 
 ## 3. Create a multiply function that can multiply two integers
 
@@ -166,10 +165,10 @@ multiply(-1,3)
 // should still return -3
 ```
 
-## Instructions for reviewer
+## Instructions for reviewers
 
-* `__init__.py` not needed if repo is set up properly (python).
+* `__init__.py` is not needed if the repo is set up properly (python).
 * The point of tests in TDD isn't only to have tests but to have very specific tests. For a given input we don't just want to know that they pass or fail. So instead of one function that tests everything you want specific tests.
-* Do not use builtin function names as variable e.g. `sum`.
+* Do not use built-in function names as variables e.g. `sum`.
 * Tests should have descriptive names.
-* Builtin functions should not be used in this project.
+* Built-in functions should not be used in this project.

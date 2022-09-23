@@ -7,7 +7,7 @@ ready: true
 story_points: 3
 submission_type: repo
 tags:
-- algrithms
+- algorithms
 - clean-code
 title: Level 1 coding challenges (alt)
 ---

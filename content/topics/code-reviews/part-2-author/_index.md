@@ -1,13 +1,12 @@
 ---
+_db_id: 741
 content_type: topic
-ready: true
-flavours:
-- any_language
 prerequisites:
   hard:
   - topics/how-to-ask-for-help-with-your-code
   - why-and-how-to-review-code
   - topics/code-reviews/part-1-reviewers
+ready: true
 tags:
 - soft skills
 - communication

@@ -2,21 +2,24 @@
 {{ $trimmed := trim $path "/"}}
 {{ $elements := split $trimmed "/" }}
 {{ $first := index ($elements) 0 }}
-
 {{ $option := .Get "option" }}
 
 <a href="{{.Site.BaseURL}}{{ $trimmed }}"
-  >{{ $first | upper }}: {{ with .Site.GetPage $trimmed }}
-  {{ if not .Params.Ready }}
-  <span class="contentlink-todo" data="{{ $path }}">[TODO]</span> {{ end }}
-  {{ .Params.Title }} {{else}}
+  >
+
+  {{ with .Site.GetPage $trimmed }}
+    {{ if not .Params.Ready }}
+      <span class="contentlink-todo" data="{{ $path }}">[TODO]</span>
+    {{ end }}
+    {{ .Params.content_type | upper }}:
+    {{ .Params.Title }} {{else}}
   <span class="contentlink-missing" data="{{ $path }}"
     >[MISSING title or page]</span
   >{{ end }}
-  
+
   {{ if $option }}
     ({{ $option }})
   {{ end }}
-  
+
   </a
 >

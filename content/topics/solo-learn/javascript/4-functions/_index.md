@@ -8,6 +8,7 @@ prerequisites:
 ready: true
 tags:
 - javascript
+- solo-learn
 title: Solo Learn - JavaScript - Module 4 - Functions
 topic_needs_review: false
 ---

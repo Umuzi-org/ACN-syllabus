@@ -12,7 +12,7 @@ tags:
 title: Environmental Variables
 ---
 
-This tutorial assumes that you are using some kind of bash derived shell. Open up your linux command prompt :)
+This tutorial assumes that you are using some kind of bash derived shell. Open up your Linux command prompt :)
 
 ## Shell variables
 
@@ -36,7 +36,7 @@ mkdir $ROOT_DIR
 nano $ROOT_DIR/something.yaml
 ```
 
-Bash has a problem with whitespace. These wont work:
+Bash has a problem with whitespace. These won't work:
 
 ```
 FOO = BAR
@@ -66,7 +66,7 @@ echo $HELLO # prints BAR
 
 ```
 
-In termainal 2:
+In terminal 2:
 
 ```
 echo $HELLO # what does this do?
@@ -106,13 +106,13 @@ function foo():
 // at this point in the code: only `a` is available
 ```
 
-Look at where the different variables are allowed to be used. If a variable can be used then it is _in scope_. Otherwise it is _out of scope_.
+Look at where the different variables are allowed to be used. If a variable can be used then it is _in scope_. Otherwise, it is _out of scope_.
 
 ## Environmental variables
 
 Environmental variables are shell variables that have a larger scope.
 
-Do this out in yout terminal:
+Do this out in your terminal:
 
 ```
 # first we are going to make a new shell script:
@@ -166,7 +166,7 @@ FOO=hello
 
 ### Takeaway
 
-You can define variables in your shell (command prompt) and make those variables accessable from within programs that you run from that shell. Those programs could be bash scripts (like my_script.sh), or those programs can be written in Node or Python.
+You can define variables in your shell (command prompt) and make those variables accessible from within programs that you run from that shell. Those programs could be bash scripts (like my_script.sh), or those programs can be written in Node or Python.
 
 ### storing your environmental variables somewhere nice
 
@@ -190,7 +190,7 @@ export FOO=xxxxxxxxx
 echo $FOO
 ```
 
-Aaaand... my_config.sh seems to have had no effect on `FOO`.
+Aaaand... my_config.sh seems to have not affected `FOO`.
 
 Now try it this way:
 
@@ -201,11 +201,11 @@ source my_config.sh   ###
 echo $FOO
 ```
 
-When we use the `source` command then any variables `export`ed by `my_config.sh` become environmental variables.
+When we use the `source` command then any variables `exported by `my_config.sh` become environmental variables.
 
 ## `.bashrc`
 
-The default linux shell is called bash. Every time you open up a new bash shell the bash automatically sources a file in your home directory called `.bashrc`.
+The default Linux shell is called bash. Every time you open up a new bash shell the bash automatically sources a file in your home directory called `.bashrc`.
 
 Do the following in a terminal:
 
@@ -215,7 +215,7 @@ cp ~/.bashrc ~/.bashrc.backup
 ls ~ -a | grep bashrc
 ```
 
-Now open .bashrc for editing however you want. You can just use nano if you dont want to leave the terminal.
+Now open .bashrc for editing however you want. You can just use nano if you don't want to leave the terminal.
 
 ```
 nano ~/.bashrc
@@ -232,7 +232,7 @@ echo "--- end of custom bashrc content ---"
 
 Save and exit. If you are using nano thenpress `Ctrl + X`, then `y` then enter
 
-Now open a new terminal. And make sure you unserstand the output of each of these lines:
+Now open a new terminal. And make sure you understand the output of each of these lines:
 
 ```
 echo FOO=$FOO

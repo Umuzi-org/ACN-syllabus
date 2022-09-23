@@ -8,6 +8,7 @@ prerequisites:
 ready: true
 tags:
 - java
+- solo-learn
 title: Solo Learn - Java - Module 3 - Arrays
 topic_needs_review: false
 ---
