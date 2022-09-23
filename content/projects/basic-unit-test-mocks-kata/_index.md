@@ -111,7 +111,9 @@ If you want some further reading check this out: {{% contentlink path="topics/li
 
 ## The actual project
 
-Write a program that sends a random inspirational quote to an email address, you should export a function called `sendEmail` responsible to do excatly that... send an email. The email address to send to should be a command-line parameter passed to the program.
+Write a program that sends a random inspirational quote to an email address, you should export 2 functions:
+  1. `handleSendEmail` it should take in a parameter which is the recipients email address, and should be the only function responsible for sending the email via SMTP
+  2. `sendEmail` it should handle getting the recipients email address, the email address could come from the command line or passed directly to onSendEmail as a parameter
 
 You should have a list of quotes in a file by itself. Your program should grab one and send the email.
 
@@ -190,20 +192,8 @@ You don't want your unit tests to send emails. You just want them to prove that 
 
 As another example, if you were developing a "forgot password" or "confirm email address" function for a website then you would test pretty much the same thing. You need to make sure that the correct functionality gets evoked, without actually sending anything.
 
-## Bonus fun stuff
-
-- Set up a cron job so that your program sends you a bit of inspiration every weekday at the same time. You can start your day with inspiration. Or you can receive your email just before you go to lunch or go home so that you have something to ponder.
-- You can also add extra functionality. Eg: send an inspirational quote and a funny quote.
-- You can make the emails that get sent look good as well. it doesn't just need to be plain text
-- You can look into sending SMS instead of email
-- link to the quote author's Wikipedia page straight from the email/SMS
-- add extra information such as a weather report
-
-
 ## Instructions for a reviewer
 
 - Unit tests:
  - The learner should demonstrate that the email sends only once, with the correct arguments.
  - The learner should demonstrate an understanding of mocks and spies. Please see {{% contentlink path="topics/unit-testing-mocks-and-spies" %}} .
-
-- Sending emails to multiple recipients is not a requirement, but if the code is structured well enough, then doing so should be easy. The unit test should demonstrate that the code is not restricted to sending just one email.
