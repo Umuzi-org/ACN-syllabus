@@ -56,7 +56,7 @@ Save all of your instructions in script files - you will submit these files on G
 
 3. Create a primary key for each table with auto-increment (make sure you correctly specify the data types, e.g. the ID field should be `int`).
 
-4. Create foreign keys so that every ID in the order table references an existing ID in the tables referenced (e.g., ProductID, EmployeeID, etc).
+4. Create foreign keys so that every ID in the order and payment tables references an existing ID in the tables referenced (e.g., ProductID, EmployeeID, etc).
 
 5. INSERT the records in the tables below into the table you created in step 2.
 
