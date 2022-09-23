@@ -2,24 +2,24 @@
 _db_id: 278
 content_type: project
 flavours:
-- javascript
+  - javascript
 from_repo: projects/nodejs/file-io
 learning_outcomes:
-- web_dev_expose_business_logic
-pre: '<b>4: </b>'
+  - web_dev_expose_business_logic
+pre: "<b>4: </b>"
 prerequisites:
   hard:
-  - projects/nodejs/sql
-  - topics/js-and-node-specific/apis-with-node
-  - projects/nodejs/file-io
+    - projects/nodejs/sql
+    - topics/js-and-node-specific/apis-with-node
+    - projects/nodejs/file-io
   soft: []
 ready: true
 story_points: 5
 submission_type: continue_repo
 tags:
-- node
-- api
-- express
+  - node
+  - api
+  - express
 title: Expose a JSON API
 weight: 4
 ---
@@ -30,12 +30,11 @@ There is no need to create a new git repo for this code submission. This is a co
 
 Use Express to expose the following JSON endpoints.
 
-- `/addNewVisitor`: create a new Visitor in the database
-- `/deleteVisitor:id`: delete a single Visitor from the database
-- `/deleteAllVisitors`: delete all Visitors
-- `/viewVisitors`: view all Visitors
-- `/viewVisitor:id`: view a single Visitor
-- `/updateVisitor:id`: Update a single Visitor
+- GET `/visitors` : lists all the visitors
+- POST `/visitors` : creates a new visitors
+- GET `/visitors/{id}` gets the details of a specific visitor
+- DELETE `/visitors/{id}` deletes a specific visitor
+- PUT `/visitors/{id}` updates a specific visitor
 
 ### Resources
 
