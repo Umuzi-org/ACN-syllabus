@@ -106,13 +106,15 @@ Save all of your instructions in script files - you will submit these files on G
 
 ## Part 2: Querying a database
 
-Save all of your instructions in script files - you will submit these files on Github.
+Save all of your instructions in script files - you will submit these files on Github. 
+
+NB! Be sure to label you answers by putting the question above the code that answers it, submitting a wall of code with no explanations makes it difficult to review.
 
 7. SELECT ALL records from table Customers.
 
 8. SELECT records only from the name column in the Customers table.
 
-9. Show the name of the Customer whose CustomerID is 1.
+9. Show the full name of the Customer whose CustomerID is 1.
 
 10. UPDATE the record for CustomerID = 1 on the Customer table so that the name is "Lerato Mabitso".
 
