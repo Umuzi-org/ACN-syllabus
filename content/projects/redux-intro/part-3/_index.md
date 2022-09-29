@@ -20,6 +20,8 @@ title: 'Intro to Redux for home automation: Party mode with thunks'
 
 ## Instructions
 
+NB! As this is a continue repo project it builds on the previous sections of this project, you should be adding to the code written in the previous sections, not deleting it.
+
 Now one super cool thing about redux is that you don't really have to dispatch actions one at a time. You can have an action with side effects, and those side effects can dispatch other actions!
 
 There are two main ways to handle side effects in redux. Thunks and Sagas. Thunks are the easy way, and they are worth understanding before moving onto sagas.
