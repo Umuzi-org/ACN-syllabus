@@ -30,8 +30,8 @@ There is no need to create a new git repo for this code submission. This is a co
 
 Use Express to expose the following JSON endpoints.
 
-- GET `/visitors` : lists all the visitors
-- POST `/visitors` : creates a new visitors
+- GET `/visitors` lists all the visitors
+- POST `/visitors` creates a new visitors
 - GET `/visitors/:id` gets the details of a specific visitor
 - DELETE `/visitors/:id` deletes a specific visitor
 - DELETE `/visitors` deletes all visitors
