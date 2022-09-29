@@ -34,6 +34,7 @@ Use Express to expose the following JSON endpoints.
 - POST `/visitors` : creates a new visitors
 - GET `/visitors/:id` gets the details of a specific visitor
 - DELETE `/visitors/:id` deletes a specific visitor
+- DELETE `/visitors` deletes all visitors
 - PUT `/visitors/:id` updates a specific visitor
 
 ### Resources
