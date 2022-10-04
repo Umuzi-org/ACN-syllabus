@@ -1,7 +1,8 @@
 ---
-title: React Native testing with Jest 
+_db_id: 800
 content_type: topic
 ready: true
+title: React Native testing with Jest
 ---
 
 Jest is the recommended testing framework for React Native apps. 

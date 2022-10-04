@@ -12,10 +12,9 @@ _db_id: 82
 - {{% contentlink path="react-native/harvard-cs-50-m/06-input-debugging" %}}
 - {{% contentlink path="react-native/harvard-cs-50-m/07-navigation" %}}
 - {{% contentlink path="react-native/harvard-cs-50-m/08-data" %}}
-- {{% contentlink path="react-native/qr-conference-connector/contact-list" %}}
-- {{% contentlink path="react-native/qr-conference-connector/favorites" %}}
-- {{% contentlink path="react-native/qr-conference-connector/notes" %}}
-- {{% contentlink path="react-native/qr-conference-connector/delete" %}}
+- {{% contentlink path="react-native/qr-conference-connector/favorites" flavour="javascript" %}}
+- {{% contentlink path="react-native/qr-conference-connector/notes" flavour="javascript" %}}
+- {{% contentlink path="react-native/qr-conference-connector/delete" flavour="javascript" %}}
 - {{% contentlink path="react-native/simple-vario/intro" flavour="javascript" %}}
 - {{% contentlink path="react-native/harvard-cs-50-m/12-performance" %}}
 - {{% contentlink path="react-native/simple-vario/data-display" flavour="javascript" %}}

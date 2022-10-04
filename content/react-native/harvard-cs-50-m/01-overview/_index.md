@@ -1,8 +1,8 @@
 ---
-
-title: "CS50's Mobile App Development with React Native - Overview and Javascript"
-content_type: "topic"
+_db_id: 803
+content_type: topic
 ready: true
+title: CS50's Mobile App Development with React Native - Overview and Javascript
 ---
 
 Please register for this course:
@@ -23,6 +23,4 @@ As always, the best source of accurate and up to date info about any tool or lib
 
 As you move through this course you might stumble across gotchas and pitfalls. And while you are doing your own research, you might find other useful resources. As you become a better programmer you can help make the syllabus better for the next people that use it.  Please feel free to make pull requests :) 
 
-Always remember that the only true measure of success is the number of people you have helped. Any improvement you make here will help literally every person who works through this syllabus. 
-
-
+Always remember that the only true measure of success is the number of people you have helped. Any improvement you make here will help literally every person who works through this syllabus.

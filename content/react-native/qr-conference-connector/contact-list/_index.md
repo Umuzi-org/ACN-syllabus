@@ -1,6 +1,5 @@
 ---
-title: "QR conference connector - Contact list"
-
+_db_id: 796
 content_type: project
 flavours:
 - javascript
@@ -8,10 +7,11 @@ flavours:
 from_repo: react-native/qr-conference-connector/proof-of-concept
 prerequisites:
   hard:
-    - react-native/harvard-cs-50-m/08-data
-    - react-native/qr-conference-connector/proof-of-concept
+  - react-native/harvard-cs-50-m/08-data
+  - react-native/qr-conference-connector/proof-of-concept
 ready: true
 submission_type: continue_repo
+title: QR conference connector - Contact list
 ---
 
 Now that you have the basics of scanning the QR code down, it's time to make this app into something genuinely useful.
@@ -58,4 +58,4 @@ When the user is on the camera screen they should be able to "go back" to wherev
 
 ## Testing 
 
-Now that your code is doing real stuff, it is important to 
+Now that your code is doing real stuff, it is important to

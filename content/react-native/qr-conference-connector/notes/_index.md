@@ -1,5 +1,5 @@
 ---
-title: "QR conference connector - Notes"
+_db_id: 799
 content_type: project
 flavours:
 - javascript
@@ -9,10 +9,9 @@ prerequisites:
   hard:
   - react-native/qr-conference-connector/proof-of-concept
   - react-native/qr-conference-connector/adding-tests
-
 ready: true
 submission_type: continue_repo
-
+title: QR conference connector - Notes
 ---
 
 It is often useful to keep some notes about the people you meet, especially if you are meeting a lot of new people! 
@@ -32,8 +31,4 @@ There are a few scenarios to cover:
 
 If a contact has notes then add a little icon to their element.
 
-You could use something like this, or something else: https://icons.expo.fyi/AntDesign/filetext1 
-
-
-
-
+You could use something like this, or something else: https://icons.expo.fyi/AntDesign/filetext1

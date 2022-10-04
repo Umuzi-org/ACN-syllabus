@@ -1,5 +1,5 @@
 ---
-title: "QR conference connector - Favorites"
+_db_id: 795
 content_type: project
 flavours:
 - javascript
@@ -8,9 +8,10 @@ from_repo: react-native/qr-conference-connector/proof-of-concept
 prerequisites:
   hard:
   - react-native/qr-conference-connector/proof-of-concept
-  - react-native/qr-conference-connector/contact-list
+  - react-native/qr-conference-connector/adding-tests
 ready: true
 submission_type: continue_repo
+title: QR conference connector - Favorites
 ---
 
 If you meet a lot of people at the conference then keeping them all in one long list might not be the most useful thing in the world.
@@ -40,7 +41,4 @@ Of course, this status needs to be saved in the database.
 
 If a contact is a "favorite" then it should be at the top of the list. 
 
-Favorite users should be highlighted. 
-
-
-
+Favorite users should be highlighted.

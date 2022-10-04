@@ -38,4 +38,3 @@ Here are some APIs that will help you with this.
 ## UI
 
 Please don't make use of any component libraries at this point. Just use whatever Expo and ReactNative give you, and style those appropriately.
-

@@ -1,5 +1,5 @@
 ---
-title: "QR conference connector - Adding tests"
+_db_id: 798
 content_type: project
 flavours:
 - javascript
@@ -11,9 +11,9 @@ prerequisites:
   - react-native/testing-with-jest
   - react-native/harvard-cs-50-m/13-deploying-and-testing
   - react-native/qr-conference-connector/contact-list
-
 ready: true
 submission_type: continue_repo
+title: QR conference connector - Adding tests
 ---
 
 ## Instructions
@@ -34,4 +34,4 @@ src/
 │  └─ button.test.js
 ```
 
-In other words, your tests should be co-located with the code under test. 
+In other words, your tests should be co-located with the code under test.

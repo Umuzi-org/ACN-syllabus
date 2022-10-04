@@ -1,5 +1,5 @@
 ---
-title: "QR conference connector - Delete"
+_db_id: 797
 content_type: project
 flavours:
 - javascript
@@ -8,10 +8,10 @@ from_repo: react-native/qr-conference-connector/proof-of-concept
 prerequisites:
   hard:
   - react-native/qr-conference-connector/proof-of-concept
-  - react-native/qr-conference-connector/contact-list
+  - react-native/qr-conference-connector/adding-tests
 ready: true
 submission_type: continue_repo
-
+title: QR conference connector - Delete
 ---
 
 Let's allow the user to delete their contacts.
@@ -31,8 +31,4 @@ If the user confirms that they want to delete the contact then:
 
 If a contact has notes then add a little icon to their element.
 
-You could use something like this, or something else: https://icons.expo.fyi/AntDesign/filetext1 
-
-
-
-
+You could use something like this, or something else: https://icons.expo.fyi/AntDesign/filetext1

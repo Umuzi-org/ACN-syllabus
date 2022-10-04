@@ -1,14 +1,15 @@
 ---
+_db_id: 794
 content_type: project
 flavours:
 - javascript
 - typescript
-ready: true
-submission_type: repo
-title: "QR conference connector - Proof of concept"
 prerequisites:
   hard:
-    - react-native/harvard-cs-50-m/04-react-native 
+  - react-native/harvard-cs-50-m/04-react-native
+ready: true
+submission_type: repo
+title: QR conference connector - Proof of concept
 ---
 
 ## The scenario 
@@ -23,7 +24,7 @@ After some brainstorming with the conference team, you have come up with the fol
 
 1. All conference attendees will get a name badge as they enter the conference
 2. Each name badge will have a unique qr code printed on it, the qr code will contain the person's contact information
-3. The conference app will have a qr scanning function, people will be able to scan each other's name tags to quickly get the right info
+3. The conference app will have a qr scanning function, people will be able to scan each other's name tags to quickly get the right info.
 
 ## QR code specification 
 
@@ -32,7 +33,7 @@ QR codes can hold up to 4000 characters of info. Your QR code should contain the
 - name (required)
 - email address (required)
 - link to profile pic (required)
-- status (optional) - this is a string of text, similar to a tweet. It can contain emojis. 
+- status (optional) - this is a string of text, similar to a tweet
 - github username (optional)
 - linkedin profile (optional)
 - twitter handle (optional)
@@ -52,8 +53,6 @@ You might need to do some research here.
 ## Component library
 
 Please use [NativeBase](https://nativebase.io/) to make your app beautiful. NativeBase is a component library with a really nice feature set and good documentation. It's also fairly straightforward to set up. 
-
-
 
 ## Extra instructions
 
