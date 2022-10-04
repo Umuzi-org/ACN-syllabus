@@ -8,9 +8,10 @@ from_repo: react-native/simple-vario/intro
 prerequisites:
   hard:
   - react-native/simple-vario/intro
+  - react-native/harvard-cs-50-m/11-async-redux
 ready: true
 submission_type: continue_repo
-title: Simple variometer - data display
+title: Simple variometer - data display with Redux
 ---
 
 Now that you have made the vario beep, it's time to add a bit more functionality:
@@ -23,6 +24,10 @@ You should also get the display to show if the pilot is accelerating upwards or 
 
 Note that the pilot will be using both their hands to control their paraglider at all times (because, as mentioned, the pilot is a noob) and they will likely be wearing gloves. This means that the phone screen should remain on at all times. If the screen turns off then the pilot will need to let go of the paraglider controls and fiddle with their phone which can be dangerous.
 
+## Redux 
+
+This project requires the use of Redux
+
 ## More apis
 
 Here are some APIs that will help you with this.
@@ -33,3 +38,4 @@ Here are some APIs that will help you with this.
 ## UI
 
 Please don't make use of any component libraries at this point. Just use whatever Expo and ReactNative give you, and style those appropriately.
+

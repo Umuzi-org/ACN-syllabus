@@ -46,7 +46,6 @@ Now follow [this tutorial](https://docs.expo.dev/get-started/create-a-new-app/) 
 - Make sure you can run it as a web app - you should be able to interact with the app in your browser
 - Make sure you can edit your app. Can you get it to say "Hello World"?
 
-
 ## Check your understanding
 
 The pages we linked to here have a lot of information. Double check that you can answer the following questions:

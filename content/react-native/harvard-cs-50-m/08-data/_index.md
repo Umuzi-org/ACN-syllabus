@@ -1,0 +1,13 @@
+---
+
+title: "CS50's Mobile App Development with React Native - Data"
+
+content_type: "topic"
+ready: true
+prerequisites:
+  hard:
+  - react-native/harvard-cs-50-m/07-navigation
+---
+
+
+Please master the material in the chapter mentioned in the title of this topic.
