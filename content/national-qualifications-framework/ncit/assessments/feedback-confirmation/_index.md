@@ -5,8 +5,30 @@ flavours:
 ncit_standards:
 prerequisites:
   hard:
-  - 
-ready: false
+  - national-qualifications-framework/ncit/assessments/agile-meetings
+  - national-qualifications-framework/ncit/assessments/agile-project-management
+  - national-qualifications-framework/ncit/assessments/analytics-surveys-and-reports
+  - national-qualifications-framework/ncit/assessments/building-an-online-business
+  - national-qualifications-framework/ncit/assessments/business-and-technology
+  - national-qualifications-framework/ncit/assessments/conducting-research-and-user-interviews
+  - national-qualifications-framework/ncit/assessments/constructive-feedback
+  - national-qualifications-framework/ncit/assessments/database-development
+  - national-qualifications-framework/ncit/assessments/ethics-and-professionalism
+  - national-qualifications-framework/ncit/assessments/how-the-internet-works
+  - national-qualifications-framework/ncit/assessments/managing-the-software-development-process
+  - national-qualifications-framework/ncit/assessments/object-oriented-programming
+  - national-qualifications-framework/ncit/assessments/presenting-your-findings
+  - national-qualifications-framework/ncit/assessments/pseudocode-and-documentation
+  - national-qualifications-framework/ncit/assessments/search-and-sort-techniques
+  - national-qualifications-framework/ncit/assessments/summative-assessment-1
+  - national-qualifications-framework/ncit/assessments/summative-assessment-2
+  - national-qualifications-framework/ncit/assessments/summative-assessment-3
+  - national-qualifications-framework/ncit/assessments/test-driven-development
+  - national-qualifications-framework/ncit/assessments/thinking-like-a-machine
+  - national-qualifications-framework/ncit/assessments/version-control
+  - national-qualifications-framework/ncit/assessments/web-design-for-business
+  - national-qualifications-framework/ncit/assessments/write-a-report
+ready: true
 submission_type: link
 tags:
 - ncit
