@@ -78,7 +78,7 @@ charlie.save() # results in an UPDATE to visitor_3.json
 
 ## Instructions for reviewer
 
-- The load function should a visitor instance and not just print the visitor data.
+- The load function should return a visitor instance and not just print the visitor data.
 - Edge cases should be catered for. The learner should make sure that the load function takes in the proper data type.
 - The learner should use mocks if/when testing this project - since the project requires interacting with the file system.
 - Please pay careful attention to DRY code. How do you do this:
