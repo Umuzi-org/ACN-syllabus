@@ -55,7 +55,7 @@ The standard in js is toNameYourFunctionsLikeThis. But the standard in react is 
 <andNotLikeThis/>
 ```
 
-If it walks like a compeont, and it quacks like a component, make sure it is accessable by a name that makes it look like a component.
+If it walks like a component, and it quacks like a component, make sure it is accessible by a name that makes it look like a component.
 
 If you are working on a team of devs and you say "Hey bro, just use the header menu component", then your team mate should just know that they can use `<HeaderMenu/>` in their code. Thay should not have to guess or look things up. Components just behave like components.
 
