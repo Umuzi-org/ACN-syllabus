@@ -82,16 +82,16 @@ Save all of your instructions in script files - you will submit these files on G
 
 ### Orders Table
 
-| Id (int) | ProductID (int) | PaymentID (int) | FulfilledByEmployeeID (int) | DateRequired (datetime) | DateShipped (datetime) | Status (varchar20) |
+| ID (int) | ProductID (int) | PaymentID (int) | FulfilledByEmployeeID (int) | DateRequired (datetime) | DateShipped (datetime) | Status (varchar20) |
 | ------------- | --------------- | --------------- | --------------------------- | ----------------------- | ---------------------- | ------------------ |
 | 1             | 1               | 1               | 2                           | 05-09-2018              |                        | Not shipped        |
 | 2             | 1               | 2               | 2                           | 04-09-2018              | 03-09-2018             | Shipped            |
 | 3             | 3               | 3               | 3                           | 06-09-2018              |                        | Not shipped        |
 
-Note: When creating tables you will note that each table has an ID column, when joining data between tables the foreign key must include the name of the table the data came from, i.e. `CustomerID` in the above table.
+Note: When creating tables you will note that each table has an ID column, when joining data between tables the foreign key must include the name of the table the data came from, i.e. `ProductID` in the above table.
 ### Payments Table
 
-| CustomerId (int) | ID (int) | PaymentDate (datetime) | Amount (decimal) |
+| CustomerID (int) | ID (int) | PaymentDate (datetime) | Amount (decimal) |
 | ---------------- | --------------- | ---------------------- | ---------------- |
 | 1                | 1               | 01-09-2018             | R150.75          |
 | 5                | 2               | 03-09-2018             | R150.75          |
@@ -100,7 +100,7 @@ Note: When creating tables you will note that each table has an ID column, when 
 Note: When creating tables you will note that each table has an ID column, when joining data between tables the foreign key must include the name of the table the data came from, i.e. `CustomerID` in the above table.
 ### Products Table
 
-| Id (int) | ProductName (varchar100) | Description (varchar300)                                                    | BuyPrice (decimal) |
+| ID (int) | ProductName (varchar100) | Description (varchar300)                                                    | BuyPrice (decimal) |
 | --------------- | ------------------------ | --------------------------------------------------------------------------- | ------------------ |
 | 1               | Harley Davidson Chopper  | This replica features a working kickstand, front suspension, gear-shift lever | R150.75            |
 | 2               | Classic Car              | Turnable front wheels, steering function                                    | R550.75            |
