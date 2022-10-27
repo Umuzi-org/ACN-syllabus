@@ -91,11 +91,11 @@ Save all of your instructions in script files - you will submit these files on G
 Note: When creating tables you will note that each table has an ID column, when joining data between tables the foreign key must include the name of the table the data came from, i.e. `ProductID` in the above table.
 ### Payments Table
 
-| CustomerID (int) | ID (int) | PaymentDate (datetime) | Amount (decimal) |
+| ID (int) | CustomerID (int)| PaymentDate (datetime) | Amount (decimal) |
 | ---------------- | --------------- | ---------------------- | ---------------- |
 | 1                | 1               | 01-09-2018             | R150.75          |
-| 5                | 2               | 03-09-2018             | R150.75          |
-| 4                | 3               | 03-09-2018             | R700.60          |
+| 2                | 5               | 03-09-2018             | R150.75          |
+| 3                | 4               | 03-09-2018             | R700.60          |
 
 Note: When creating tables you will note that each table has an ID column, when joining data between tables the foreign key must include the name of the table the data came from, i.e. `CustomerID` in the above table.
 ### Products Table
@@ -148,6 +148,6 @@ NB! Be sure to label you answers by putting the question above the code that ans
 
 ## Files to submit & instructions for reviewer
 - YAML/yml file with container setup.
-- `src` directory with 4 SQL script files(a script to create a database, create tables, populate tables and one to query the database).
+- `src` directory with 4 SQL script files(a script to a database, create tables, populate tables and one to query the database).
 - A `.md` needs to be present in the repo where the learner has documented what information is in which table and how the tables and which keys link the records between tables.
 - The ID columns of the tables can either be TableName + ID or just ID, either is acceptable due to recent updates.
