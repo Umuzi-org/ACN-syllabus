@@ -60,11 +60,11 @@ Save all of your instructions in script files - you will submit these files on G
 
 5. INSERT the records in the tables below into the table you created in step 2.
 
-6. Document what information is stored in your database. Be sure to say what information is kept in what table, and which keys link the records between tables.
+6. Document what information is stored in your database. Be sure to say what information is kept in what table, and which keys link the records between tables. This file needs to be in a `.md` format.
 
 ### Customers Table
 
-| CustomerID (int) | FirstName (varchar50) | LastName (varchar50) | Gender (varchar) | Address (varchar200)  | Phone (varchar 20) | Email (varchar100)     | City (varchar20) | Country (varchar50) |
+| ID (int) | FirstName (varchar50) | LastName (varchar50) | Gender (varchar) | Address (varchar200)  | Phone (varchar 20) | Email (varchar100)     | City (varchar20) | Country (varchar50) |
 | ---------------- | --------------------- | -------------------- | ---------------- | --------------------- | ------------------ | ---------------------- | ---------------- | ------------------- |
 | 1                | John                  | Hibert               | Male             | 284 chaucer st        | 084789657          | john@gmail.com         | Johannesburg     | South Africa        |
 | 2                | Thando                | Sithole              | Female           | 240 Sect 1            | 0794445584         | thando@gmail.com       | Cape Town        | South Africa        |
@@ -74,7 +74,7 @@ Save all of your instructions in script files - you will submit these files on G
 
 ### Employees Table
 
-| EmployeeID (int) | FirstName (varchar50) | LastName (varchar50) | Email (varchar100) | JobTitle (varchar20) |
+| ID (int) | FirstName (varchar50) | LastName (varchar50) | Email (varchar100) | JobTitle (varchar20) |
 | ---------------- | --------------------- | -------------------- | ------------------ | -------------------- |
 | 1                | Kani                  | Matthew              | mat@gmail.com      | Manager              |
 | 2                | Lesly                 | Cronje               | LesC@gmail.com     | Clerk                |
@@ -82,23 +82,25 @@ Save all of your instructions in script files - you will submit these files on G
 
 ### Orders Table
 
-| OrderId (int) | ProductID (int) | PaymentID (int) | FulfilledByEmployeeID (int) | DateRequired (datetime) | DateShipped (datetime) | Status (varchar20) |
+| ID (int) | ProductID (int) | PaymentID (int) | FulfilledByEmployeeID (int) | DateRequired (datetime) | DateShipped (datetime) | Status (varchar20) |
 | ------------- | --------------- | --------------- | --------------------------- | ----------------------- | ---------------------- | ------------------ |
 | 1             | 1               | 1               | 2                           | 05-09-2018              |                        | Not shipped        |
 | 2             | 1               | 2               | 2                           | 04-09-2018              | 03-09-2018             | Shipped            |
 | 3             | 3               | 3               | 3                           | 06-09-2018              |                        | Not shipped        |
 
+Note: When creating tables you will note that each table has an ID column, when joining data between tables the foreign key must include the name of the table the data came from, i.e. `ProductID` in the above table.
 ### Payments Table
 
-| CustomerId (int) | PaymentID (int) | PaymentDate (datetime) | Amount (decimal) |
+| ID (int) | CustomerID (int)| PaymentDate (datetime) | Amount (decimal) |
 | ---------------- | --------------- | ---------------------- | ---------------- |
 | 1                | 1               | 01-09-2018             | R150.75          |
-| 5                | 2               | 03-09-2018             | R150.75          |
-| 4                | 3               | 03-09-2018             | R700.60          |
+| 2                | 5               | 03-09-2018             | R150.75          |
+| 3                | 4               | 03-09-2018             | R700.60          |
 
+Note: When creating tables you will note that each table has an ID column, when joining data between tables the foreign key must include the name of the table the data came from, i.e. `CustomerID` in the above table.
 ### Products Table
 
-| ProductId (int) | ProductName (varchar100) | Description (varchar300)                                                    | BuyPrice (decimal) |
+| ID (int) | ProductName (varchar100) | Description (varchar300)                                                    | BuyPrice (decimal) |
 | --------------- | ------------------------ | --------------------------------------------------------------------------- | ------------------ |
 | 1               | Harley Davidson Chopper  | This replica features a working kickstand, front suspension, gear-shift lever | R150.75            |
 | 2               | Classic Car              | Turnable front wheels, steering function                                    | R550.75            |
@@ -144,6 +146,8 @@ NB! Be sure to label you answers by putting the question above the code that ans
 
 23. Select all products that have turnable front wheels.
 
-## Files to submit
+## Files to submit & instructions for reviewer
 - YAML/yml file with container setup.
-- `src` directory with 4 SQL script files(a script to create a database, create tables, populate tables and one to query the database).
+- `src` directory with 4 SQL script files(a script to a database, create tables, populate tables and one to query the database).
+- A `.md` needs to be present in the repo where the learner has documented what information is in which table and how the tables and which keys link the records between tables.
+- The ID columns of the tables can either be TableName + ID or just ID, either is acceptable due to recent updates.
