@@ -2,22 +2,22 @@
 _db_id: 310
 content_type: project
 flavours:
-- none
+  - none
 prerequisites:
   hard:
-  - topics/free-code-camp/responsive-web-design/1-basic-html-and-html-5
+    - topics/free-code-camp/responsive-web-design/1-basic-html-and-html-5
 ready: true
 submission_type: link
 tags:
-- css
-- responsive web design
-- free-code-camp
+  - css
+  - responsive web design
+  - free-code-camp
 title: FreeCodeCamp - Basic CSS
 ---
 
 Make an account here if you haven't already: https://www.freecodecamp.org/learn
 
-Look under "Responsive Web Design"
+Look under "Legacy Responsive Web Design Certification".
 
 You need to do all the "Basic CSS" exercises
 

@@ -2,22 +2,22 @@
 _db_id: 309
 content_type: project
 flavours:
-- none
+  - none
 prerequisites:
   hard:
-  - topics/free-code-camp/responsive-web-design/2-basic-css
+    - topics/free-code-camp/responsive-web-design/2-basic-css
 ready: true
 submission_type: link
 tags:
-- html
-- css
-- free-code-camp
+  - html
+  - css
+  - free-code-camp
 title: FreeCodeCamp - Applied Visual Design
 ---
 
 Make an account here if you haven't already: https://www.freecodecamp.org/learn
 
-Look under "Responsive Web Design"
+Look under "Legacy Responsive Web Design Certification".
 
 Please complete all challenges under "Applied Visual Design"
 
