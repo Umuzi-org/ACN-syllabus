@@ -2,24 +2,24 @@
 _db_id: 186
 content_type: project
 flavours:
-- any_language
+  - any_language
 learning_outcomes:
-- web_dev_http_requests
-- web_dev_api_call_tools
-- web_dev_restful_apis
-- web_dev_json_data_representation
-- web_dev_api_consumption
+  - web_dev_http_requests
+  - web_dev_api_call_tools
+  - web_dev_restful_apis
+  - web_dev_json_data_representation
+  - web_dev_api_consumption
 prerequisites:
   hard:
-  - topics/apis/basics/
+    - topics/apis/basics/
   soft: []
 ready: true
 story_points: 3
 submission_type: repo
 tags:
-- api
-- github
-- logical-operators
+  - api
+  - github
+  - logical-operators
 title: Consume Github API
 ---
 
@@ -48,30 +48,37 @@ While for private repos a token will be required, the function should be able to
 
 Please be sure to follow the standard naming conventions for your language.
 
-Make sure the output matches the following example structure:
-```
+Make sure the output matches the following when called with the arguments below:
+
+```bash
 # input
 get_pull_requests("Umuzi-org", "ACN-syllabus", "2022-03-01", "2022-03-10")
 
 # output
 [
-  {"id":876359209, "user":"FaithMo", "title":"added data sci and eng info", "state":"open", "created_at":"2022-03-10"},
+  {"id":"876359209", "user":"FaithMo", "title":"added data sci and eng info", "state":"open", "created_at":"2022-03-10"},
   {"id":"874927260", "user":"ry-oc", "title":"update sololearn python and all contentlinks etc", "state":"closed", "created_at": "2022-03-09"},
-  {"id":872630389, "user":"Andy-Nkumane", "title":"added clarity on python error raising", "state":"open", "created_at":"2022-03-07"},
+  {"id":"872630389", "user":"Andy-Nkumane", "title":"added clarity on python error raising", "state":"open", "created_at":"2022-03-07"},
   {"id":"872484561", "user":"Kate-bit-dev", "title":"Update _index.md", "state":"closed", "created_at":"2022-03-06"},
   {"id":"872482562", "user":"Kate-bit-dev", "title":"Update _index.md", "state":"open", "created_at":"2022-03-06"},
   {"id":"872481470", "user":"Kate-bit-dev", "title":"Update _index.md", "state":"closed", "created_at":"2022-03-06"},
   {"id":"872480774", "user":"Kate-bit-dev", "title":"Update _index.md", "state":"closed", "created_at":"2022-03-06"},
-  {"id":"872480210", "user":"Kate-bit-dev", "title":"Update _index.md", "state":"closed", "created_at":"2022-03-06"}
+  {"id":"872480210", "user":"Kate-bit-dev", "title":"Update _index.md", "state":"closed", "created_at":"2022-03-06"},
+  ...
 ]
 ```
+
+**Note:** Some github APIs have a limit of the number of resources they return at a time. You might be expected to implement pagination to get all resources from the APIs before filtering.
 
 ## Resources
 
 - [An introduction to curl using GitHub's API](https://gist.github.com/tazjel/8735770).
+- [Traversing with pagination](https://docs.github.com/en/rest/guides/traversing-with-pagination#basics-of-pagination).
 
-### Instructions for reviewers
-- Ensure that the function works with any GitHub User and repository name, meaning that the function should not only work with one User/repo name. 
-- Ensure that for JavaScript the function prints the output, and for python the function returns the output
+## Instructions for reviewers
+
+- Ensure that the list of PRs matches the one in the instructions above when called with those arguments.
+- Ensure that the function works with any GitHub User and repository name, meaning that the function should not only work with one User/repo name.
+- Ensure that for JavaScript the function prints the output, and for python the function returns the output.
 - Ensure that the correct error/exception messages are used when trying to handle errors, if an incorrect user or repo was passed in a function call then the error messages should be explicit e.g. `Error 404 User or Repo Not Found`.
 - Ensure that the output is a list/array and depending on the dates passed in, if there were no open, closed, updated or merged PR's between the two dates an empty array/list should be printed out.
