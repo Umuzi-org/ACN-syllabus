@@ -5,6 +5,16 @@ title: Robotic Process Automation with Python
 
 robotic-process-automation/introduction
 
+There are lots and lots of different commercial RPA tools out there. And each one has a totally different user experience. Instead of focusing on one tool we'll be focusing on understanding how these things work under the hood by doing
+
+https://www.cio.com/article/227908/what-is-rpa-robotic-process-automation-explained.html
+
+
+
+https://learn.aisingapore.org/courses/learn-rpa-with-tagui-beginners-course/
+
+TagUI is an open source and free to use RPA tool that is great for web automations. TagUI is maintained by AI Singapore, a Singapore government-funded initiative to build local Artificial Intelligence (AI) capabilities.
+
 
 
 topics/python-specific/automate-the-boring-stuff-book/chapter-0-introduction
@@ -38,6 +48,10 @@ recursive search for image files using Pathlib
 
 topics/python-specific/automate-the-boring-stuff-book/chapter-11-debugging
 topics/python-specific/automate-the-boring-stuff-book/chapter-12-web-scraping
+
+xpath
+
+
 topics/python-specific/automate-the-boring-stuff-book/chapter-13-working-with-excel-spreadsheets
 topics/python-specific/automate-the-boring-stuff-book/chapter-14-working-with-google-spreadsheets
 topics/python-specific/automate-the-boring-stuff-book/chapter-15-working-with-pdf-and-word-docs
