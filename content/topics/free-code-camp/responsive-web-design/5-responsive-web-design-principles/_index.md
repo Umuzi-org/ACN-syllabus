@@ -23,4 +23,4 @@ please complete all challenges under "Responsive Web Design Principles"
 
 Please submit a link to your profile. Example: https://www.freecodecamp.org/fccfda32191-55c2-49ec-b6f4-26719c1dd7f4
 
-To make your profile useful you need to go into your FreeCodeCamp settings and set all your privacy settings to "Public".
+To make your profile useful, you need to go into your FreeCodeCamp settings and set all your privacy settings to "Public".
