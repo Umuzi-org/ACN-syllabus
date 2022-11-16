@@ -68,7 +68,15 @@ get_pull_requests("Umuzi-org", "ACN-syllabus", "2022-03-01", "2022-03-10")
 ]
 ```
 
-**Note:** Some github APIs have a limit of the number of resources they return at a time. You might be expected to implement pagination to get all resources from the APIs before filtering.
+### Pagination
+
+**Pagination** is a process that is used to divide a large dataset into smaller chunks (pages).
+
+It is there to allow us to efficiently query through large data a chunk (page) at a time.
+This means we are able to gradually fetch the data we need with little to no performance issues on both the client and server.
+For example, without pagination you would have to load an entire chat history just to see the latest message sent to you (imagine you were in a group with thousands of active people, it would take a while, no matter how fast your internet is)
+
+Please implement pagination. Your `get_pull_requests` function should return a list/array of ALL the matching pull requests, not just the first page.
 
 ## Resources
 
