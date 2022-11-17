@@ -2,20 +2,20 @@
 _db_id: 307
 content_type: project
 flavours:
-- none
+  - none
 ready: true
 submission_type: link
 tags:
-- html
-- html5
-- responsive web design
-- free-code-camp
+  - html
+  - html5
+  - responsive web design
+  - free-code-camp
 title: FreeCodeCamp - Basic HTML and HTML5
 ---
 
 Sign up for an account here if you haven't already: https://www.freecodecamp.org/learn
 
-Look under "Responsive Web Design".
+Look under "Legacy Responsive Web Design Certification".
 
 You'll be hitting "Basic HTML and HTML5".
 
