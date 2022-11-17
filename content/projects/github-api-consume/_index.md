@@ -72,9 +72,9 @@ get_pull_requests("Umuzi-org", "ACN-syllabus", "2022-03-01", "2022-03-10")
 
 **Pagination** is a process that is used to divide a large dataset into smaller chunks (pages).
 
-It is there to allow us to efficiently query through large data a chunk (page) at a time.
+It is there to allow us to efficiently query through large data one page at a time.
 This means we are able to gradually fetch the data we need with little to no performance issues on both the client and server.
-For example, without pagination you would have to load an entire chat history just to see the latest message sent to you (imagine you were in a group with thousands of active people, it would take a while, no matter how fast your internet is)
+For example, without pagination you would have to load an entire chat history just to see the latest message sent to you.
 
 Please implement pagination. Your `get_pull_requests` function should return a list/array of ALL the matching pull requests, not just the first page.
 
