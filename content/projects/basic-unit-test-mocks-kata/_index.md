@@ -111,7 +111,7 @@ If you want some further reading check this out: {{% contentlink path="topics/li
 
 ## The actual project
 
-Write a program that sends a random inspirational quote to an email address, you should export 2 functions from a file name `sendEmail.js`:
+Write a program that sends a random inspirational quote to an email address, you should export 2 functions from a file named `sendEmail.js`:
   1. `handleSendEmail` it should take in a parameter which is the recipients email address, and should be the only function responsible for sending the email via SMTP
   2. `sendEmail` it should handle getting the recipients email address, the email address could come from the command line or passed directly to onSendEmail as a parameter
 
