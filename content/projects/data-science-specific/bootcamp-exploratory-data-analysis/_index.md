@@ -28,6 +28,15 @@ Your repo should contain everything needed to replicate your work:
 - notebook
 - `requirements.txt`
 
+It's good practice to structure your files well, so we'll expect you to have a separate directory for "data" and "notebooks", so that your final file structure looks something like this: 
+- data
+  - raw_data.csv
+- notebooks
+  - eda.ipynb
+- README.md
+- requirements.txt
+- .gitignore 
+
 ## Questions
 
 The [data set](data.csv) consists of health and demographic data for the period 2014-2015, obtained from [Global Health Observatory Data Repository](http://apps.who.int/gho/data/node.main). Here is some [metadata](data-info.txt) that may be useful.
