@@ -4,7 +4,8 @@ flavours:
 - none
 learning_outcomes:
 prerequisites:
-  hard: employability-sprint/online-profile
+  hard:  
+  - employability-sprint/online-profile
   soft: []
 ready: true
 story_points: 

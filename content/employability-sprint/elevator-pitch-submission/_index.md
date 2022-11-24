@@ -4,7 +4,8 @@ flavours:
 - none
 learning_outcomes:
 prerequisites:
-  hard: employability-sprint/elevator-pitch
+  hard:  
+  - employability-sprint/elevator-pitch
   soft: []
 ready: true
 story_points: 

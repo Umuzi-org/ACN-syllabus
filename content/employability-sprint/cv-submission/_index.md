@@ -4,7 +4,8 @@ flavours:
 - none
 learning_outcomes:
 prerequisites:
-  hard: employability-sprint/cv
+  hard: 
+  - employability-sprint/cv
   soft: []
 ready: true
 story_points: 
