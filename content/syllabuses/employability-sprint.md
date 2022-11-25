@@ -1,5 +1,5 @@
 ---
-title: Employability sprint with hiration
+title: Employability sprint
 ---
 
 - {{% contentlink path="employability-sprint/introduction" %}}
