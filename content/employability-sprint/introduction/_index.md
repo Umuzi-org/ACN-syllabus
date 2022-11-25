@@ -6,6 +6,6 @@ prerequisites:
   soft: []
 ready: true
 tags:
-- employability
+- employability-sprint
 title: Employability sprint introduction
 ---

@@ -11,6 +11,7 @@ ready: true
 story_points: 
 submission_type: link
 tags:
-- employability
+- employability-sprint
+- close_on_peer_reviews
 title: Submit your portfolio
 ---

@@ -2,7 +2,7 @@
 content_type: topic 
 ready: true
 tags:
-- employability
+- employability-sprint
 title: Employability sprint wrap-up
 ---
 

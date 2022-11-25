@@ -12,5 +12,6 @@ story_points:
 submission_type: link
 tags:
 - employability
+- close_on_peer_reviews
 title: Submit another online profile
 ---
