@@ -23,7 +23,7 @@ Now that your frontend is awesome, let's get the "search" button to work.
 
 Take a look at this neat little API:
 
-http://www.recipepuppy.com/about/api/
+https://api2.bigoven.com/
 
 As APIs go it's fairly straight-forward. It's also free and requires no authentication.
 
