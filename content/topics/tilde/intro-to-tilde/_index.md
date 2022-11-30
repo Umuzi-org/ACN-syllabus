@@ -14,7 +14,7 @@ If you are new to agile stuff, it's going to look a little weird. Don't worry. B
 
 Here is little video tour of the first features you'll be interacting with, please note there are 3 videos in this playlist.
 
-**The video doesn't cover everything. Please read this whole article**, there is more text under the video.
+**These videos doen't cover everything. Please read this whole article**, there is more text under the video.
 
 {{< youtubepl PLqU7nTtS-XlnJ_6mGbKKQTW5jfYmvU_db >}}
 
