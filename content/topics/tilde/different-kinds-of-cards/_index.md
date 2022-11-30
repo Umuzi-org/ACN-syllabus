@@ -46,6 +46,12 @@ If there are no details to be displayed, there won't be a details button. The bu
 
 ![labled-project](labled-project.png)
 
+## Deadlines
+
+Some cards may have a deadline on them that looks something like the picture below. It is important that you get these to the `Complete` column. Aim to get them there before the deadline. This means that you need to account for receiving reviews, so you want to submit early so that you can get it complete in time. Deadlines are listed in GMT +2.
+
+![deadline](deadline.png)
+
 ## Review cards
 
 Giving good feedback is a skill, and learning to give and receive feedback are both essential to any professional. At some point, maybe earlier, maybe later, you will be required to give your peers feedback on some of their projects. When giving feedback it is essential to do this carefully and helpfully. This is an opportunity for growth for both you and the other learner. 
