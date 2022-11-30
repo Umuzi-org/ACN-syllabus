@@ -5,6 +5,7 @@ flavours:
 - none
 ready: true
 tags:
+ - docx
  - close_on_peer_reviews
 submission_type: link
 title: 'Tilde project tutorial: How to submit a link'
