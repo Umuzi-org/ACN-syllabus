@@ -7,23 +7,25 @@ title: Introduction to Tilde
 
 Welcome to Tilde. We built it with love ❤️
 
-If you are new to dev stuff, it's going to look a little weird. Don't worry. Before you get too deep into how we actually use this thing, it'll be good for you to know a bit about the principles and practices that inspired the design.
+If you are new to agile stuff, it's going to look a little weird. Don't worry. Before you get too deep into how we actually use this thing, it'll be good for you to know a bit about the principles and practices that inspired the design.
 
-**Please Note:** The login mechanism uses a popup, if you are using ad blockers and popup blockers you will need to turn them off.
+**Please Note:** One of the login mechanisms uses a popups, if you are using ad blockers and popup blockers you will need to turn them off. Please also ensure cookies are enabled in your browser. 
 
 
-Here is little video tour of the first features you'll be interacting with:
+Here is little video tour of the first features you'll be interacting with, please note there are 3 videos in this playlist.
 
 **The video doesn't cover everything. Please read this whole article**, there is more text under the video.
 
-{{< youtube NC7PmQ-3aCg >}}
+{{< youtubepl PLqU7nTtS-XlnJ_6mGbKKQTW5jfYmvU_db >}}
 
 
-## How good dev teams work
+## How good agile teams work
 
-The first thing to know is that software development on a team is hard. And most techies work on a team. Back in the early days of software development things sucked. A lot. Software projects generally just failed; even big ones backed by people with really solid technical skills. Projects were mostly either late, broken, over-budget, or the features were just wrong. If you want success in this line of work, knowing how to use tech is just the tip of the iceberg lettuce.
+The first thing to know is that working on a team is hard. And most techies and professionals work on teams. Back in the early days of software development things sucked. A lot. Software projects generally just failed; even big ones backed by people with really solid technical skills. Projects were mostly either late, broken, over-budget, or the features were just wrong. If you want success in this line of work, knowing how to use tech and any tools of your trade is just the tip of the iceberg lettuce.
 
 So, after lots of suffering, the software industry started figuring out ways of working that are actually effective. There are loads and loads of things to be said about those methods. But the main thing to know for now is that we designed Tilde in such a way as to get you to practice those methods. The way you will be working through this course is really quite similar to how industry giants build epic software.
+
+It is also important to note that these principles and practices have been adopted over many industries, and agile project management techniques are still being adopted and adapted for other industries.
 
 ## Kanban
 
@@ -40,3 +42,5 @@ So please ask questions when you need to :)
 And learn to ask questions well! (Yes, this is a skill you can develop)
 
 **One major difference between a good coder and a bad coder is: Good coders UNDERSTAND the code**
+
+**The goal of any course is to gain skills and understanding. Rushing through content will not help you in the long run. In fact, it will hinder you overall and could even damage your career. It is important to get into good habits around always optimising for understanding now.**
