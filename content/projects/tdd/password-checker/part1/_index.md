@@ -141,6 +141,7 @@ Please don't re-implement the same check in two different places. Good code is D
 
 - [JS Errors](https://www.w3schools.com/js/js_errors.asp)
 - [Errors and Jasmine](https://stackoverflow.com/questions/4144686/how-to-write-a-test-which-expects-an-error-to-be-thrown-in-jasmine)
+- {{% contentlink path="topics/error-handling" %}}
 
 ## Python resources
 

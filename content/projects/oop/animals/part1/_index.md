@@ -195,7 +195,9 @@ For example,
 home.adoptPet(dog1) // returns the number of pets that have been adopted thus far
 home.adoptPet(dog1) // an error/exception gets raised
 ```
+For more information on effective error handling, please have a look at the following topic.{{% contentlink path="topics/error-handling" %}}
 
+Remember that writing code that doesnt do anything useful or doesn't serve a purpose is bad. even when handling errors, it is important to handle them correctly.
 ## Instructions for reviewer
 
 - The Animal class should follow the document's diagram's instructions exactly.
