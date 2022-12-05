@@ -1,8 +1,9 @@
 ---
+_db_id: 815
 content_type: topic
-learning_outcomes:
+learning_outcomes: null
 prerequisites:
-  hard: 
+  hard: null
   soft: []
 ready: true
 tags:

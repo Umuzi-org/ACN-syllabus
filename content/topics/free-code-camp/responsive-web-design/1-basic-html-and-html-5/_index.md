@@ -2,14 +2,14 @@
 _db_id: 307
 content_type: project
 flavours:
-  - none
+- none
 ready: true
 submission_type: link
 tags:
-  - html
-  - html5
-  - responsive web design
-  - free-code-camp
+- html
+- html5
+- responsive web design
+- free-code-camp
 title: FreeCodeCamp - Basic HTML and HTML5
 ---
 

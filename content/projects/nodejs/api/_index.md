@@ -2,24 +2,24 @@
 _db_id: 278
 content_type: project
 flavours:
-  - javascript
+- javascript
 from_repo: projects/nodejs/file-io
 learning_outcomes:
-  - web_dev_expose_business_logic
-pre: "<b>4: </b>"
+- web_dev_expose_business_logic
+pre: '<b>4: </b>'
 prerequisites:
   hard:
-    - projects/nodejs/sql
-    - topics/js-and-node-specific/apis-with-node
-    - projects/nodejs/file-io
+  - projects/nodejs/sql
+  - topics/js-and-node-specific/apis-with-node
+  - projects/nodejs/file-io
   soft: []
 ready: true
 story_points: 5
 submission_type: continue_repo
 tags:
-  - node
-  - api
-  - express
+- node
+- api
+- express
 title: Expose a JSON API
 weight: 4
 ---
