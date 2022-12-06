@@ -4,11 +4,14 @@ content_type: project
 flavours:
 - none
 ready: true
+tags:
+ - docx
+ - close_on_peer_reviews
 submission_type: link
 title: 'Tilde project tutorial: How to submit a link'
 ---
 
-There are a few kinds of projects you can do and they can be submitted in different ways. In this tutorial you'll see how to submit a link.
+There are a few kinds of projects you can do, and they can be submitted in different ways. In this tutorial you'll see how to submit a link.
 
 Link projects expect you to submit a link to your work. If the instructions say you need to make a repo, then you'll need to submit a link to your repo. If the instructions say you need to use Google Docs then you need to submit a link to your document.
 
@@ -53,7 +56,7 @@ The other common problem is people deleting their work. Once we have reviewed yo
 
 ## REALLY IMPORTANT
 
-If you do a project and you think you did it well, then you get to ask for a review. When you ask for a review then the project card will move to the "Review" column. We'll practice this in a little bit :)
+If you do a project, and you think you did it well, then you get to ask for a review. When you ask for a review then the project card will move to the "Review" column. We'll practice this in a little bit :)
 
 Once you put the card into the review column, someone (or something 🤖) will mark your work. Now one of two things can happen:
 
