@@ -2,23 +2,51 @@
 _db_id: 625
 content_type: project
 flavours:
-- any_language
+  - any_language
 learning_outcomes:
-- code_validation
-- code_problem_decomposition
-- code_algorithmic_thinking
-- code_tdd
+  - code_validation
+  - code_problem_decomposition
+  - code_algorithmic_thinking
+  - code_tdd
 prerequisites:
   hard:
-  - projects/tdd/simple-calculator-part1
+    - projects/tdd/simple-calculator-part1
 ready: true
 submission_type: repo
 tags:
-- tdd
-- problem-solving
-- validation
+  - tdd
+  - problem-solving
+  - validation
 title: Validate a South African ID number
 ---
+
+## Set up your environment
+
+### Javascript
+
+Your directory structure should look like this:
+
+```
+├── spec
+    ├── support
+    └── validate_sa_id_spec.js
+├── src
+    ├── validate_sa_id.js
+```
+
+### Python
+
+Your directory structure should look like this:
+
+```
+├── validate_sa_id
+│   └── validate_sa_id.py
+├── setup.py
+├── requirements.txt
+├── .gitignore
+└── tests
+    └── test_validate_sa_id.py
+```
 
 In this project, we'll be practising Test Driven Development while solving a validation problem.
 
