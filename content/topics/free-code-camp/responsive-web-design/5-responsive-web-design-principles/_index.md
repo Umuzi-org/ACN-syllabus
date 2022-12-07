@@ -2,16 +2,16 @@
 _db_id: 311
 content_type: project
 flavours:
-  - none
+- none
 prerequisites:
   hard:
-    - topics/free-code-camp/responsive-web-design/4-applied-accessibility
+  - topics/free-code-camp/responsive-web-design/4-applied-accessibility
 ready: true
 submission_type: link
 tags:
-  - html
-  - css
-  - free-code-camp
+- html
+- css
+- free-code-camp
 title: FreeCodeCamp - Responsive Web Design Principles
 ---
 

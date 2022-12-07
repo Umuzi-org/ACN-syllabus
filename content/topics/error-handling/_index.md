@@ -1,10 +1,11 @@
 ---
+_db_id: 830
 content_type: topic
-title: Error handling best practices
-tags:
-  - javascript
 flavours:
-  - javascript
+- javascript
+tags:
+- javascript
+title: Error handling best practices
 ---
 
 ## Errors are useful

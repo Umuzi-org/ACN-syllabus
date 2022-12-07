@@ -26,7 +26,9 @@ The general procedure for you is:
 
 Once you say you are finished with a topic then the card will move into either the "Review" or "Complete" column.
 
-Most topics will move straight to Complete, and others will need some kind of verification. For example, if a topic instructs you to go and do some external course on Coursera, then when you say you are finished a staff member will double-check. They might ask you to prove that you worked through the course, they might give you a test to complete, they might just have a chat with you.
+Most topics will move straight to Complete, and others will need some kind of verification. For example, if a topic instructs you to go and do some external course, then when you say you are finished a staff member will double-check. They might ask you to prove that you worked through the course, they might give you a test to complete, they might just have a chat with you.
+
+![labled-topic](labled-topic.png)
 
 ### Projects
 
@@ -34,7 +36,7 @@ This is where the magic happens.
 
 Projects are deliverables. We need to see you demonstrate your skills. By submitting projects you will move through the course and prove your competence.
 
-Projects come in two different forms: **Link** projects and **Repo** projects. These behave a little bit different to each other. We'll go into detail and demonstrate those differences by actually doing a few projects and moving them to the complete column.
+Projects come in two different forms: **Link** projects and **Repo** projects. These behave a little different to each other. We'll go into detail and demonstrate those differences by actually doing a few projects and moving them to the complete column.
 
 If you are writing code, you'll be working a lot with repo projects. If you are a non-tech person (for example, if you are focusing on UX, business strategy, or something low-code) then you won't need to worry about repo projects.
 
@@ -42,11 +44,27 @@ Please take note that there is a "details" button on project cards, this links t
 
 If there are no details to be displayed, there won't be a details button. The button will be displayed when it becomes useful.
 
+![labled-project](labled-project.png)
+
+## Deadlines
+
+Some cards may have a deadline on them that looks something like the picture below. It is important that you get these to the `Complete` column. Aim to get them there before the deadline. This means that you need to account for receiving reviews, so you want to submit early so that you can get it complete in time. Deadlines are listed in GMT +2.
+
+![deadline](deadline.png)
+
+## Review cards
+
+Giving good feedback is a skill, and learning to give and receive feedback are both essential to any professional. At some point, maybe earlier, maybe later, you will be required to give your peers feedback on some of their projects. When giving feedback it is essential to do this carefully and helpfully. This is an opportunity for growth for both you and the other learner. 
+
+Remember, everyone here, is here to learn and grow, any feedback you give or receive should be looked at through this lens.
+
+![labled-review-card](labled-review-card.png)
+
 ## A note on prerequisites and ordering
 
 Each card on your board represents a bit of work you need to do. Generally, the order of the cards in your backlog goes from least advanced to most advanced, and **you should try to do your work in roughly the order that the cards appear.**
 
-However, it's your journey so we want you to have as much freedom as possible in choosing what to do next. So if you want to start with the 5th card because it looks exciting, we are cool with that. Just please pay very close attention to any deadlines that have been set for you.
+However, it's your journey, so we want you to have as much freedom as possible in choosing what to do next. So if you want to start with the 5th card because it looks exciting, we are cool with that. Just please pay very close attention to any deadlines that have been set for you.
 
 **Professionals meet deadlines and we want you to be a pro!**
 
@@ -58,7 +76,7 @@ We do have some restrictions in place:
 
 ## REALLY IMPORTANT
 
-If you do a project and you think you did it well, then you get to ask for a review. When you ask for a review then the project card will move to the "Review" column. We'll practice this in a little bit :)
+If you do a project and you think you did it well, then you get to ask for a review. When you ask for a review then the project card will move to the "Review" column. We'll practice this in a bit :)
 
 Once you put the card into the review column, someone (or something 🤖) will mark your work. Now one of two things can happen:
 
@@ -69,4 +87,4 @@ If the project is not up to our standards (yet) then it will get moved to the "R
 - update your project so it's right
 - ask for another review
 
-You can ask for as many reviews as you need
+You can ask for as many reviews as you need, but always do your best to apply all the feedback received before moving the card back to review.

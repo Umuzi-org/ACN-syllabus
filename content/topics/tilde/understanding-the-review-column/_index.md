@@ -75,10 +75,12 @@ By reviewing code and stating your opinion you will constantly test and upgrade 
 
  You need to demonstrate your understanding of how the review column works before putting this topic card into the review column.
  
-**FIRST** these project cards should be marked competent:
+**FIRST** the below project card should be marked competent:
 
 **Tilde project tutorial: How to submit a link**
 
-**Tilde project tutorial: How Repo projects work*
+**For coders** the below project also needs to be in the complete column
 
-If **BOTH** these project cards aren't complete,  you will be red-flagged for this topic card if you move it to the review column. Instructions must be followed.
+**Tilde project tutorial: How Repo projects work** 
+
+If the relevant these project card(s) aren't complete, you will be red-flagged for this topic card if you move it to the review column. Instructions must be followed.

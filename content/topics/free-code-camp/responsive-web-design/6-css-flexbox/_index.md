@@ -2,16 +2,16 @@
 _db_id: 305
 content_type: project
 flavours:
-  - none
+- none
 prerequisites:
   hard:
-    - topics/free-code-camp/responsive-web-design/5-responsive-web-design-principles
+  - topics/free-code-camp/responsive-web-design/5-responsive-web-design-principles
 ready: true
 submission_type: link
 tags:
-  - html
-  - css
-  - free-code-camp
+- html
+- css
+- free-code-camp
 title: FreeCodeCamp - CSS Flexbox
 ---
 

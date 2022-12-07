@@ -27,7 +27,7 @@ title: Shop Database using sql
 
 - We are using Postgres
 - Instead of installing Postgres on your computer, you can launch it with a docker composition
-- MySQL is nice and lots of people use it in industry, but it doesn't implement standard SQL, it sort of does its own thing a bit. Postgres is a much more standard DB, and the industry loooooves it
+- MySQL is nice and lots of people use it in industry, but it doesn't implement standard SQL, it sort of does its own thing a bit. Postgres is a much more standard DB, and the industry loooooves it. 
 
 ## Structure:
 
@@ -147,6 +147,9 @@ NB! Be sure to label you answers by putting the question above the code that ans
 23. Select all products that have turnable front wheels.
 
 ## Files to submit & instructions for reviewer
+
+Please make sure that the learner used Postgres and not MySQL.
+
 - YAML/yml file with container setup.
 - `src` directory with 4 SQL script files(a script to a database, create tables, populate tables and one to query the database).
 - A `.md` needs to be present in the repo where the learner has documented what information is in which table and how the tables and which keys link the records between tables.
