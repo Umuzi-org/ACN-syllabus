@@ -115,29 +115,27 @@ You can include the following types of education:
 
 **School Leaving Example:**
 
+```
 Sandringham High School
-
 2015
-
 Matric (GED)
-
 Subjects: Maths (a), English (B), Zulu (C), Geography (D), History (E), Lufe Orientation (A)
-
+```
 
 **Higher Education Example:**
 
+```
 Umuzi
-
 May 2021 - Present
-
 National Certificate in Information Technology (System Development) (SAQA ID 48872)
+```
 
 **Short Courses Example:**
 
+```
 2017
-
 Grow with Google: User Experience Design
-
+```
 
 ### 5. Skills
 Presenting your skills visually is a great way to show what knowledge and skills you have. You can use icons to do this in a really easy way. You can present a range of different skills – some could be more technical than others.
@@ -206,23 +204,17 @@ You need to find other ways to stand out from the crowd. You need other credibil
 2. **Get real work experience by volunteering.** There are many charitable organisations that can do with an extra brain – find people with real problems and try to solve them. 
 3. **Build connections.** Attend tech and other meetups and conferences and take part. Many meetups let members take the stage and show off their work. If you go to these and try to add value, good things will happen for you. Sometimes it’s not what you know, it’s who you know. 
 4. **Think what people want or need to see in your CV**
-- For example:
-- Web Dev and Data Science - Set up your portfolio to show your skills and abilities in a way that is easy to navigate and will make a potential employer WANT to HIRE you. Make your technical skills and problem-solving ability CLEAR. 
-- Strategy - Potential employers want to see your thinking- and problem-solving abilities.
+      - For example:
+        - Web Dev and Data Science - Set up your portfolio to show your skills and abilities in a way that is easy to navigate and will make a potential employer WANT to HIRE you. Make your technical skills and problem-solving ability CLEAR. 
+        - Strategy - Potential employers want to see your thinking- and problem-solving abilities.
 
 ## More Resources + Examples
-[Tips to stand out with your CV - Blog CareerJunction](https://www.careerjunction.co.za/blog/top-cv-tips-cv-template/)
-
-[Skills to Put on Resume (List of Good Examples for All Jobs)](https://zety.com/blog/what-skills-to-put-on-a-resume)
-
-[Work Experience on a Resume - How to List It Right](https://novoresume.com/career-blog/how-to-list-work-experience-on-a-resume)
-
-[How to Make a Resume in 2022 | Beginner's Guide](https://novoresume.com/career-blog/how-to-write-a-resume-guide)
-
-[How To List Awards on Your Resume in 6 Steps (With Examples) | Indeed.com](https://www.indeed.com/career-advice/resumes-cover-letters/resume-awards-example)
-
-[Building a Data Science Portfolio](https://www.dataquest.io/blog/build-a-data-science-portfolio/)
-
-[Web Developer Portfolios to inspire you](https://medium.freecodecamp.org/15-web-developer-portfolios-to-inspire-you-137fb1743cae)
+ - [Tips to stand out with your CV - Blog CareerJunction](https://www.careerjunction.co.za/blog/top-cv-tips-cv-template/) 
+ - [Skills to Put on Resume (List of Good Examples for All Jobs)](https://zety.com/blog/what-skills-to-put-on-a-resume)
+ - [Work Experience on a Resume - How to List It Right](https://novoresume.com/career-blog/how-to-list-work-experience-on-a-resume)
+ - [How to Make a Resume in 2022 | Beginner's Guide](https://novoresume.com/career-blog/how-to-write-a-resume-guide)
+ - [How To List Awards on Your Resume in 6 Steps (With Examples) | Indeed.com](https://www.indeed.com/career-advice/resumes-cover-letters/resume-awards-example)
+ - [Building a Data Science Portfolio](https://www.dataquest.io/blog/build-a-data-science-portfolio/)
+ - [Web Developer Portfolios to inspire you](https://medium.freecodecamp.org/15-web-developer-portfolios-to-inspire-you-137fb1743cae)
 
 One of our Umuzi Alumni who has a really awesome online presence - [Kgomotso Neto](http://kgomotsoneto.com/) - [Kgomotso Behance](https://www.behance.net/kgomotsoneto) - [Kgomotso - Instagram](https://www.instagram.com/kgomotso_neto/?hl=en)
