@@ -2,34 +2,34 @@
 _db_id: 533
 content_type: project
 flavours:
-- javascript
-- typescript
+  - javascript
+  - typescript
 from_repo: projects/recipe-search/part-1
 prerequisites:
   hard:
-  - projects/recipe-search/part-1
-  - topics/redux-thunks
+    - projects/recipe-search/part-1
+    - topics/redux-thunks
   soft: []
 ready: true
 submission_type: continue_repo
 tags:
-- React
-- Redux
-- Thunks
-title: 'React and Redux recipe search: Part 2. API Access with thunks'
+  - React
+  - Redux
+  - Thunks
+title: "React and Redux recipe search: Part 2. API Access with thunks"
 ---
 
 Now that your frontend is awesome, let's get the "search" button to work.
 
 Take a look at this neat little API:
 
-http://www.recipepuppy.com/about/api/
+https://api.edamam.com/api/recipes
 
 As APIs go it's fairly straight-forward. It's also free and requires no authentication.
 
 ## Instructions
 
-Add a Button labelled "Search" to your web application. When the user clicks on this button do the following:
+Add a Button labeled "Search" to your web application. When the user clicks on this button do the following:
 
 1. Access the api using a thunk
 2. Once the results arrive, display them in a nice table. Make sure you display all the info and that it is nice and neat.
