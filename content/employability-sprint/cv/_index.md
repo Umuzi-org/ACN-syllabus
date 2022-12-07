@@ -103,9 +103,7 @@ Suggested format:
 
 It could look like this:
 
-[alt text](image_url) syntax
-# Insert image
-
+![work-experience](work-experience.png)
 
 ### 4. Education
 This is an opportunity to indicate what education you have completed up to this point. It is worth noting the format and layout of this, and to try and keep it consistent. Many explorers will check nationally recognised qualifications, but adding short courses and certificates is also valuable. 
@@ -144,11 +142,13 @@ Grow with Google: User Experience Design
 ### 5. Skills
 Presenting your skills visually is a great way to show what knowledge and skills you have. You can use icons to do this in a really easy way. You can present a range of different skills – some could be more technical than others.
 
-# Insert 2 x images
+![ux_skills](ux_skills.png)
+
+![technical_skills](technical_skills.png)
 
 
 ### 6. Portfolio Links
-Refer to the Portfolio of Work section (previous section of this sprint) for more information on this.
+Refer to the Portfolio of Work section for more information on this.
 
 
 ### 7. Achievements or Awards
