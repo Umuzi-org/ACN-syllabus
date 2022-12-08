@@ -32,7 +32,7 @@ You can apply these to just about any format in which you’re presenting your w
 ### *Authentic & Purpose Driven*
 Renowned author Dan Pink wrote a [book](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805) called Drive: The Surprising Truth About What Motivates Us, which looks into the science of motivation. This [animated summary video](https://www.youtube.com/watch?v=u6XAPnuFjJc&ab_channel=RSA) captures the key principles nicely. Here, we want to hone in on the principle captured in the image below: 
 
-# Insert image
+![purpose_driven](purpose_driven.png)
 
 People are drawn to an authentic purpose/cause. We’re also better than we think at figuring out when others are being inauthentic. Sometimes this expresses itself in how we feel about people, even if we don’t cognitively realise we’re not 100% trusting what they’re saying. If you can tie all your career communication into a genuine and meaningful personal purpose/conviction, this will truly help you stand out from the crowd. 
 
@@ -66,4 +66,3 @@ There’s an old adage in the fundraising world that we’ve often found to be t
 
 The same very likely holds true for people helping you with the job search. If you’re respectfully asking for advice and implementing the feedback/suggestions you receive, people will naturally want to support you in your journey in whatever way they can – including warm introductions to their friends who are hiring. 
 
-## THE END!
