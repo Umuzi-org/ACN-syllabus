@@ -20,6 +20,7 @@ As part of the Employability Sprint, you will complete a series of tasks which w
 
 
 By the end of the sprint you will have the following:
+
 - Greater clarity on what you want from the job search 
 - A CV geared towards your profession
 - A portfolio showcasing your skills
