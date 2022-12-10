@@ -31,6 +31,7 @@ Remember that every application and interview experience is a learning opportuni
 Job searching in your early career is particularly difficult. It takes a ton of effort to do it well, but it’s so worth it. Putting in the effort now, and finding the right job for your growth, will pay off exponentially in the long run. Also, the good news is that job searching does get much, much easier once you’ve built up more experience in your field. 
 
 There are a number of key things to remember about the process: 
+
 - Interview processes aren’t perfect. They don’t always correctly identify the best candidates. So don’t take it personally. 
 - Given the point above, it is, to some extent, a numbers game. Most people will be invited to interviews somewhere between 5% and 25% of the time. This means that you’ll need to submit between four and 20 applications to be invited to a single first-round interview. The more applications you submit, the more interview invitations you’ll receive.
 - While it is a numbers game, there is also a lot to be said for putting in some extra effort on the roles you’re most excited about, or where you have a positive reference from someone with influence in the organisation you’re applying to. 
@@ -38,16 +39,17 @@ There are a number of key things to remember about the process:
 
 ## Patience & Perseverance
 We are all about accelerating careers with effective and efficient learning-to-earning opportunities. As such, we’ve put together this employability sprint as a “crash-course” to help you land your first job. That said, the reality is that:
+
 1. **A job search takes time.** The best companies usually take the most time to ensure that they’re hiring the best candidates. For the job seeker, this often means lots of waiting and uncertainty. 
 2. **It’s a numbers game** – at least to some extent. Recruitment processes are far from perfect and the best candidate doesn’t always get hired – luck certainly plays a role. Plan for the long haul, don’t take rejection personally, and regularly audit and recalibrate around productive mindsets. (See below.) 
 3. **Rejection Therapy:** Rejection is an inevitable part of the process. It’s best to build up some immunity: 
-- [What I learned from 100 days of rejection (TED Talk)](https://www.youtube.com/watch?v=-vZXgApsPCQ&ab_channel=TED)  [(Text Transcript)](https://singjupost.com/jia-jiang-what-i-learned-from-100-days-of-rejection-at-ted-talk-transcript/)
-- Play the rejection therapy game for the next three days. Aim for at least 10 “nos” per day.
-- [How to come up with good rejection ideas](https://www.rejectiontherapy.com/blog/2013/07/23/3-ways-to-come-up-with-rejection-ideas)
+   - [What I learned from 100 days of rejection (TED Talk)](https://www.youtube.com/watch?v=-vZXgApsPCQ&ab_channel=TED)  [(Text Transcript)](https://singjupost.com/jia-jiang-what-i-learned-from-100-days-of-rejection-at-ted-talk-transcript/)
+   - Play the rejection therapy game for the next three days. Aim for at least 10 “nos” per day.
+   - [How to come up with good rejection ideas](https://www.rejectiontherapy.com/blog/2013/07/23/3-ways-to-come-up-with-rejection-ideas)
 4. **Growth Mindset:** Our brains are neuro-plastic, and neural pathways grow with practice. Skill sets take time to develop. So, failure really just means “not yet”. 
-- [5 Min Intro to Growth Mindset](https://www.youtube.com/watch?v=KUWn_TJTrnU&ab_channel=Sprouts) 
-- Some of the [Science of Growth Mindset](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5836039/#:~:text=Empirical%20studies%20have%20revealed%20that,challenges%20%5B11%2C12%5D.)
-- Watch the intro video above, and then describe a time where you used to be really bad at something, but became a whole lot better through lots and lots of practice. The same thing applies to job searching. It’s a skill that needs to be developed, and this takes time and practice.
+   - [5 Min Intro to Growth Mindset](https://www.youtube.com/watch?v=KUWn_TJTrnU&ab_channel=Sprouts) 
+   - Some of the [Science of Growth Mindset](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5836039/#:~:text=Empirical%20studies%20have%20revealed%20that,challenges%20%5B11%2C12%5D.)
+   - Watch the intro video above, and then describe a time where you used to be really bad at something, but became a whole lot better through lots and lots of practice. The same thing applies to job searching. It’s a skill that needs to be developed, and this takes time and practice.
 
 # Setting The Stage
 
