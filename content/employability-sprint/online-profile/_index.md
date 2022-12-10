@@ -33,9 +33,14 @@ Make sure you include remote jobs in your search and consider adding other locat
 Google’s job-listing platform is also pretty handy, as it pulls jobs from many other aggregators. Search normal Google for something like “UX Designer Jobs Johannesburg” and it’ll bring up the listings with a bunch of useful filters. 
 
 ### *Getting The Basics Right*
-[These curated resources](https://sites.google.com/umuzi.org/umuzi-recruits-home/resources/linkedin-resources?authuser=0) by Umuzi.org will walk you through the basics of a winning LinkedIn profile. They even include video walk-throughs of how to tackle key sections of your profile. 
 
+The below slideshow and youtube playlist will take you through the basics of setting up and populating your Linkedin profile.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ2XditmhReBD6moYTOewszCo39wjiycvycD6iFgAxxNiALJB8Y5euUT6aMd0_f8DnNV4QaT2022NWq/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+#### [YouTube playlist with step-by-step setup instructions](https://youtube.com/playlist?list=PLqU7nTtS-Xlmg2s96GCmiRQe8OGWWN_hm)
 ### *The LinkedIn Networking Approach*
+
 Some people believe that the “who you know” aspect is sometimes just as powerful as “what you know”. 
 
 DThompsonDev on YouTube might be one of these people. He has a playlist called [“Get a job using LinkedIn”](https://www.youtube.com/playlist?list=PL54X5yR8qizsMpvTCqUIEFMeEp-chvcxk). It has tons of actionable advice and detailed dos and don’ts for how to land a Developer Job by networking on LinkedIn. 
@@ -86,5 +91,3 @@ If a personal website or blog relates to your career interests, it will be a gre
 
 ## A Clean Digital Presence
 Be sure to audit your online presence for anything inappropriate that might cost you a great job. Employers don’t like finding videos of you getting drunk in your student days. A fun way to do this is to “hire” a friend to be a detective for an hour or two to see if they can dig up some dirt on you online. You can do the same for them, and the challenge is to see who can come up with the most damaging material. 
-
-## THE END
