@@ -13,12 +13,14 @@ title: Job search plan
 A job-search plan is a resource you create to help you take control of your job search. It enables you to track important data in each stage as you monitor your applications, interviews, and feedback. It also helps to keep you focused on the things you can control.  
 
 A Job-Search Plan will help you:
+
 - design your timeline 
 - set your expectations 
 - monitor your progress 
 - make adjustments, as necessary, to improve your outcomes 
 
 At each stage, you'll gather information to make decisions, like:
+
 - the number of CVs you need to send out each week
 - your application-to-interview ratio
 - which types of outreach and cover letter formats are working for you
@@ -65,7 +67,7 @@ The short intro article: [7 job offers during the worst job market](http://www.j
 
 A deeper dive [40 min overview video](https://www.youtube.com/watch?v=Pkrf8sGe_TQ&ab_channel=TowardsDataScience):
 
-# Insert Image
+![application_tracker](application_tracker.png)
 
 You’ll note that Jeff had a much higher success rate with companies where he had a referral/warm introduction. This is a consistent finding across the internet and in much of the research that’s been done on this. Positive referrals can improve your odds of getting the interview by as much as 10 times. 
 
