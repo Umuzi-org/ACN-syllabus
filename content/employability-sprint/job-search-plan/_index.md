@@ -27,7 +27,7 @@ At each stage, you'll gather information to make decisions, like:
 
 Remember that every application and interview experience is a learning opportunity. Your goals might also change over time, and information about your previous applications and interviews will help you analyse your past performance and set realistic expectations for future searches. Knowing what to expect and having visibility into what’s actually happening in your job search is key to being in control of your employment – and landing the job!
 
-# Important Mindset Reminders 
+# **Important Mindset Reminders**
 Job searching in your early career is particularly difficult. It takes a ton of effort to do it well, but it’s so worth it. Putting in the effort now, and finding the right job for your growth, will pay off exponentially in the long run. Also, the good news is that job searching does get much, much easier once you’ve built up more experience in your field. 
 
 There are a number of key things to remember about the process: 
@@ -51,7 +51,7 @@ We are all about accelerating careers with effective and efficient learning-to-e
    - Some of the [Science of Growth Mindset](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5836039/#:~:text=Empirical%20studies%20have%20revealed%20that,challenges%20%5B11%2C12%5D.)
    - Watch the intro video above, and then describe a time where you used to be really bad at something, but became a whole lot better through lots and lots of practice. The same thing applies to job searching. It’s a skill that needs to be developed, and this takes time and practice.
 
-# Setting The Stage
+# **Setting The Stage**
 
 ## Have A Scientific Mindset
 Given an environment where a very low percentage of applicants actually get through to the interview and some amount of rejection is inevitable, it’s wise to emotionally detach from the results of individual interviews as much as you can. 
@@ -69,9 +69,7 @@ The short intro article: [7 job offers during the worst job market](http://www.j
 
 A deeper dive [40 min overview video](https://www.youtube.com/watch?v=Pkrf8sGe_TQ&ab_channel=TowardsDataScience):
 
-![application_tracker](application_tracker.png)
-
-You’ll note that Jeff had a much higher success rate with companies where he had a referral/warm introduction. This is a consistent finding across the internet and in much of the research that’s been done on this. Positive referrals can improve your odds of getting the interview by as much as 10 times. 
+You’ll note that in the video Jeff had a much higher success rate with companies where he had a referral/warm introduction. This is a consistent finding across the internet and in much of the research that’s been done on this. Positive referrals can improve your odds of getting the interview by as much as 10 times. 
 
 Here is a similar example by Data Scientist Kelly Peng: [My journey to Airbnb](https://towardsdatascience.com/how-to-land-a-data-scientist-job-at-your-dream-company-my-journey-to-airbnb-f6a1e99892e8)
 
@@ -86,7 +84,7 @@ People often underestimate the power of goal setting. This article reminds us ju
 
 Be sure to focus on goals within your control. I.e. [Process Goals](https://www.developgoodhabits.com/process-goals/). Work really hard at them, and then allow yourself a suitable reward for all the hard work. 
 
-# Creating Your Plan
+# **Creating Your Plan**
 
 [Template: Job search project plan](https://docs.google.com/spreadsheets/d/1b4nvFVSdb0EHvJ5jcZ9ftJ-wfeh3ZzI_yXGEoiiQvfY/edit?usp=sharing)
 
