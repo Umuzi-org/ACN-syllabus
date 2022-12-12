@@ -32,14 +32,14 @@ Make sure you include remote jobs in your search and consider adding other locat
 
 Google’s job-listing platform is also pretty handy, as it pulls jobs from many other aggregators. Search normal Google for something like “UX Designer Jobs Johannesburg” and it’ll bring up the listings with a bunch of useful filters. 
 
-### *Getting The Basics Right*
+### Getting The Basics Right
 
 The below slideshow and youtube playlist will take you through the basics of setting up and populating your Linkedin profile.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ2XditmhReBD6moYTOewszCo39wjiycvycD6iFgAxxNiALJB8Y5euUT6aMd0_f8DnNV4QaT2022NWq/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 #### [YouTube playlist with step-by-step setup instructions](https://youtube.com/playlist?list=PLqU7nTtS-Xlmg2s96GCmiRQe8OGWWN_hm)
-### *The LinkedIn Networking Approach*
+### The LinkedIn Networking Approach
 
 Some people believe that the “who you know” aspect is sometimes just as powerful as “what you know”. 
 
@@ -47,7 +47,7 @@ DThompsonDev on YouTube might be one of these people. He has a playlist called [
 
 Check out the first video in the playlist, and then decide how deep you’d like to dive down this rabbit hole. We’d certainly recommend spending a little time experimenting with this approach. 
 
-### *Ask For Referrals*
+### Ask For Referrals
 Having a referral can help separate you from other job candidates and may increase your chances of getting an interview or job offer. [This](https://www.indeed.com/career-advice/finding-a-job/request-for-referral#:~:text=What%20is%20a%20request%20for%20a%20referral%3F,an%20interview%20or%20job%20offer.) is a great article to guide you on how to ask for referrals.
 
 ## Job Portals + Platforms
@@ -67,6 +67,7 @@ Register and upload your CV on leading job portals in your country - most of the
 Online freelance websites can also be extremely useful in building your reputation, experience, and profile in addition to making some extra money. These can even turn into a full-time career.
 
 Have a look at and sign-up to some of the options below; click on any of the links to see the short write-ups from [hostinger](https://www.hostinger.com/tutorials/best-freelance-websites). 
+
 1. [Fiverr](https://www.hostinger.com/tutorials/best-freelance-websites#1_Fiverr)
 2. [Toptal](https://www.hostinger.com/tutorials/best-freelance-websites#2_Toptal)
 3. [Jooble](https://www.hostinger.com/tutorials/best-freelance-websites#3_Jooble)
