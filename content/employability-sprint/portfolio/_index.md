@@ -45,7 +45,7 @@ There are many other industry-specific platforms and networks that you can also 
 
  - {{% contentlink path="employability-sprint/portfolio/tech_specific" %}}
 
-### *Highlighting Work You Did With An Employer*
+### Highlighting Work You Did With An Employer
 Unfortunately, there’s bound to be some work that you do with employers/clients that you can’t show in full on your portfolio. For example, most employers won’t want you sharing their entire code base with the outside world. 
 
 That said, there’s little preventing you from sharing a high-level summary of a project you worked on. The summary could outline the problems you solved and how you did so. As long as it’s not giving away any “secret sauce” that the company wouldn’t want to share publicly, you can always package it as a “case study” or even as a bullet point explanation on your CV. 

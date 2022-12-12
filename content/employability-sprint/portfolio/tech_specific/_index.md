@@ -42,6 +42,7 @@ Sometimes it’s better to learn in a team. Engage with some competition communi
 [Kaggle](https://www.kaggle.com/) and [Zindi](https://zindi.africa/) are great places to start. 
 
 [This article](https://medium.com/@jasonkgoodman/advice-on-building-data-portfolio-projects-c5f96d8a0627) has some wonderful advice for data portfolio projects: 
+
 - Use real data/scrape your own data/use publicly accessible APIs
 - Pick something you’re curious about, not something you hope will be impressive
 - Pick an analysis that is interesting, regardless of what you find
@@ -53,6 +54,7 @@ This great [article from dataquest.io](https://www.dataquest.io/blog/build-a-dat
 
 Finally, for a bit of polish, we really like [datascienceportfol.io](http://datascienceportfol.io) as a quick and easy way to show off your projects in a concise, elegant, and visually appealing way. 
 You might find some inspiration in the portfolios below: 
+
 - [FisherKK](https://github.com/FisherKK/F1sherKK-MyRoadToAI) (GitHub) – a nice way to group similar projects, and to highlight coursework you’ve done. 
 - [https://otoro.net/ml/](https://otoro.net/ml/) – beautiful visuals! Plus a very clean and tidy structure, with wonderfully concise yet descriptive project overviews. 
 
