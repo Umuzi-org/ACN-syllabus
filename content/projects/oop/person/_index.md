@@ -17,6 +17,66 @@ tags:
 title: Person
 ---
 
+## Set up your environment
+
+### JavaScript
+
+Your directory structure should look like this.
+
+```
+    >node_modules    <---- make sure this is in your .gitignore
+    >spec
+        > support
+            -jasmine.json
+        - person_spec.js
+    >src
+        - person.js
+    - package.json
+```
+
+### Python
+
+Your project is expected to be completed using `pytest`. You are expected to follow industry best practices in all things. This means that you need to have a directory structure that is in good shape. Please name your files and folders like this:
+
+```
+├── person   the package under test
+│   └── person.py
+├── requirements.txt    installation requirements
+├── setup.py            installation script for the package under test
+└── tests               all package tests go in this directory
+    ├── test_person.py
+```
+
+Please take a look at this topic to see an explanation of the required directory structure.
+{{% contentlink path="topics/python-specific/automated-testing-with-pytest" %}}
+
+### Java
+
+The code you push to git should have the following structure:
+
+```
+├── build.gradle
+├── gradle
+│   └── wrapper
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
+├── gradlew
+├── gradlew.bat
+├── settings.gradle
+└── src
+    ├── main
+    |   └── java
+            ├── Main.java
+    |       └── Person.java <-------- names are important
+    └── test
+        └── java
+            └── PersonTest.java             <-------- names are important
+```
+
+Please refer to the following to find out more: {{% contentlink path="topics/java-specific/project-submission-requirements" %}}
+
+## Instructions
+
 Create a `class` called `Person` which defines the generic data and functionality of a human.
 
 A class is a collection of attributes and functions. Different languages use different terminology for these things, but the basic concepts are the same.
