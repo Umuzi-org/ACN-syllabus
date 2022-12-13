@@ -177,7 +177,7 @@ Try and get feedback from both of these:
 - People who do the hiring. They’ve likely been through the process many, many times and can abstract the best dos and don’ts. 
 - People who have been repeatedly successful in getting hired. They might know some things about what actually works that the recruiters aren’t even aware of. 
 
-### *Avoid CV Padding*
+### Avoid CV Padding
 Landing your first job is ridiculously hard. One of the biggest reasons for this is that there are many juniors who think it’s ok to pad their CVs with claims that aren’t quite true. 
 
 For example, there are many junior devs who would, for example, do the React basic tutorial and then put React on their CV as though they have actual skills. Doing tutorials and pursuing learning is great, but you should never put anything misleading on your CV. Don’t claim you have skills when you only have introductory knowledge!
@@ -195,7 +195,7 @@ If a company wants to hire a junior developer t, thousands of unqualified people
  
 **This applies to many other skills and disciplines and should be avoided no matter what position you are applying for.**
 
-### *What Is A Person To Do?*
+### What Is A Person To Do?
 Firstly, be honest in your CV. That’s the most important thing. Don’t contribute to the problem.
 
 You need to find other ways to stand out from the crowd. You need other credibility indicators. And you need to connect with people.
