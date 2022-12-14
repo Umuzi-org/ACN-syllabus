@@ -118,7 +118,5 @@ console.log(correct) # true because: G G# A A# B - the note circle is a CIRCLE, 
 ## Acceptance criteria
 
 - Make sure you do this in a TDD way, and that code sample from the top needs to run as is.
-
 - Please just supply a working class. The only place you should instantiate your class is inside your unit tests.
-
-- Please export your class in this manner `module.exports = {JamBuddy:JamBuddy}`. This will allow us to add more exports later if we need to.
+- Please export your class in this manner `module.exports = { JamBuddy: JamBuddy }`. This will allow you to add more exports later if you need to.
