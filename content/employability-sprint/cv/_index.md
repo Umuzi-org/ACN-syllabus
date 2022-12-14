@@ -4,7 +4,7 @@ content_type: topic
 ready: true
 tags:
 - employability-sprint
-title: Create your CV
+title: Creating your CV
 ---
 
 # WHAT IS A CV?
@@ -16,6 +16,7 @@ There are some standardised components to a CV which you will be required to com
 It is also a great opportunity to review all the content you have created online and decide whether or not it is suitable for a potential employer. 
 
 ## Do's + Don’ts
+
 ### Do These Things
 - Keep it to one page
 - Include your contact details
