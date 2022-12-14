@@ -35,7 +35,7 @@ First, get familiar with consuming APIs from the command line. Play with this. [
 
 Remember, `curl` is your friend. And so is `man`. (try typing in `man curl` at the command line)
 
-Now, in your language of choice (not bash, use Java, Python or Js) write a function (get_pull_requests) with the input arguments:
+Now, in your language of choice (not bash, use Java, Python or Javascript) write a function (get_pull_requests) with the input arguments:
 
 - owner
 - repository name
@@ -45,6 +45,8 @@ Now, in your language of choice (not bash, use Java, Python or Js) write a funct
 The function should output a list or array of pull requests on the repo such that the PRs were created, updated, merged or closed between the given two dates.
 For each PR include the `id`, `user` (who opened the PR), `title`, `state`, and when it was created.
 While for private repos a token will be required, the function should be able to work on public repos (eg. [ACN-syllabus](https://github.com/Umuzi-org/ACN-syllabus)) without needing a token.
+
+For those using javascript, please use [the axios library](https://axios-http.com/) for making the API calls.
 
 Please be sure to follow the standard naming conventions for your language.
 
