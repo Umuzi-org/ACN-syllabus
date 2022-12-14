@@ -8,7 +8,7 @@ prerequisites:
 ready: true
 tags:
 - employability-sprint
-title: Portfolio of work
+title: Portfolio
 ---
 
 # GENERAL GUIDELINES
