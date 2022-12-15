@@ -24,13 +24,13 @@ Personal branding and persuasion can be helped along if you have a ready-prepare
 ## Task Description
 1. Consider your strongest points and interests.
 2. Write a 30-second elevator pitch in which you highlight the best aspects of yourself
-- Grab their attention
-- Introducing yourself
-- Provide a summary of what you do (past and present)
-- Future/Goals
-- Describe the unique value you offer/Why you are a good fit
+   - Grab their attention
+   - Introducing yourself
+   - Provide a summary of what you do (past and present)
+   - Future/Goals
+   - Describe the unique value you offer/Why you are a good fit
 3. Record your elevator pitch and upload it to youtube as “Unlisted”, this will allow your reviewers to view it with the link. (Without the link they will be unable to view it)
-- Plan what you will wear as well as the background of your video
+   - Plan what you will wear as well as the background of your video
 
 ## Instructions for reviewers
 - Check how the learner is dressed, and where the video was created
