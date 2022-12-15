@@ -26,6 +26,7 @@ Using the information in the **Topic: Portfolio of work**, and the different lin
 
 Now that you’ve compiled all the information you need, you will be required to create your own portfolio using this information. 
 Here are some simple steps to follow:
+
 * Decide on the tool you will be using. You can use the following tools to assist with a stand-alone document:
     + Figma 
     + Powerpoint / Keynote / Slides 
