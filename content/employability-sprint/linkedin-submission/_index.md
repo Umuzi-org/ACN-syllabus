@@ -17,12 +17,13 @@ tags:
 title: Submit your LinkedIn
 ---
 ## Task Description
-1. Using the content layed out in **Topic Online Profile** set up your **LinkedIn** online profile. Be sure to set your profile up completely and keep it professional.
+1. Using the content layed out in the previous sections set up your **LinkedIn** online profile. Be sure to set your profile up completely and keep it professional.
 2. Submit a link to your updated/new LinkedIn profile
 
 ***Tip: Also remember to add these where relevant i.e. your Portfolio and you CV***
 
 ## Instructions for reviewer
+
 - Check that the links work correctly and that the profile submitted is fully accessible.
     - Does the profile include a professional profile picture?
     - Does the profile include a headline?
