@@ -20,7 +20,7 @@ title: Submit another online profile
 1. Using the content layed out in **Topic: Online Profile** set up your various online profiles. Be sure to set them up completely and keep them professional.
     - Submit a link to another online profile (Not LinkedIn - that you already submitted previously)
 
-***Tip: Also remember to add these where relevant i.e. your Portfolio and you CV***
+***Tip: Also remember to add all the info, links, and work you have done in other sections of this course i.e. your Portfolio and you CV***
 
 ## Instructions for reviewer
 - Check that the links work correctly and that the profile submitted is fully accessible.
