@@ -19,9 +19,8 @@ title: Submit your CV
 ---
 
 ## Task Description
-1. Using the content in **Topic: Create Your CV** update your current CV, or create a new CV. Remember to go through the content in detail and apply all the learnings.
-2. Get input on your CV from 3 different people. (At least 1 in the industry) (At least 1 who is 10 yrs older than you) 
-3. Upload a link to your CV (make sure the share settings is set so *“Anyone with the link”* can view the document)
+1. Using the content in the previous sections update your current CV, or create a new CV. Remember to go through the content in detail and apply all the learnings. 
+2. Upload a link to your CV (make sure the share settings is set so *“Anyone with the link”* can view the document)
 
 ## Instructions for reviewer
 - Check that the CV is structured well and easy to read and follow
