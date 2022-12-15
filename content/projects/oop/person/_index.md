@@ -24,14 +24,14 @@ title: Person
 Your directory structure should look like this.
 
 ```
-    >node_modules    <---- make sure this is in your .gitignore
-    >spec
-        > support
-            -jasmine.json
-        - person_spec.js
-    >src
-        - person.js
-    - package.json
+    ├── node_modules    <---- make sure this is in your .gitignore
+    ├── spec               
+    |   ├── support
+    |   |   └── jasmine.json
+    |   └── person_spec.js
+    ├── src
+    |   └── person.js
+    └── package.json
 ```
 
 ### Python
