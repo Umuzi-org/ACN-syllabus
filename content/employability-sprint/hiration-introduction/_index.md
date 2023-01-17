@@ -93,3 +93,6 @@ Hiration Intro 15 (image)
 Use the section-wise scoring to go through the detailed descriptions, tips and guideson how to optimise your LinkedIn profile for maximum visibility and networkingcapability.
 
 Hiration Intro 16 (image)
+
+View a walkthrough of the Hiration platform [here](https://youtu.be/IhNwUjyxmDM)
+
