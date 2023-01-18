@@ -1,4 +1,5 @@
 ---
+_db_id: 832
 content_type: topic
 learning_outcomes: null
 prerequisites:
@@ -56,5 +57,4 @@ Finally, for a bit of polish, we really like [datascienceportfol.io](http://data
 You might find some inspiration in the portfolios below: 
 
 - [FisherKK](https://github.com/FisherKK/F1sherKK-MyRoadToAI) (GitHub) – a nice way to group similar projects, and to highlight coursework you’ve done. 
-- [https://otoro.net/ml/](https://otoro.net/ml/) – beautiful visuals! Plus a very clean and tidy structure, with wonderfully concise yet descriptive project overviews. 
-
+- [https://otoro.net/ml/](https://otoro.net/ml/) – beautiful visuals! Plus a very clean and tidy structure, with wonderfully concise yet descriptive project overviews.

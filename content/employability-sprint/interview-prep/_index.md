@@ -10,6 +10,7 @@ tags:
 - employability-sprint
 title: Interview Preperation
 ---
+
 Landing an interview is only half the battle won. The next step is to prepare for your interview. This can cause major anxiety – especially if you are new to the process. 
 
 The next milestone is getting from one interview round to the next. Companies generally interview multiple candidates at every stage, so it’s to be expected that you won’t always advance to the next round. The good news is that you can increase your interview success rate by practicing and preparing. 
@@ -85,6 +86,3 @@ This great article should help you choose the right platform:
 Also go through the tech specific content if you are preparing for a tachnical assessment or interview:
 
 {{% contentlink path="employability-sprint/interview-prep/tech-specific" %}}
-
-
-

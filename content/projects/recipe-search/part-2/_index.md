@@ -2,21 +2,21 @@
 _db_id: 533
 content_type: project
 flavours:
-  - javascript
-  - typescript
+- javascript
+- typescript
 from_repo: projects/recipe-search/part-1
 prerequisites:
   hard:
-    - projects/recipe-search/part-1
-    - topics/redux-thunks
+  - projects/recipe-search/part-1
+  - topics/redux-thunks
   soft: []
 ready: true
 submission_type: continue_repo
 tags:
-  - React
-  - Redux
-  - Thunks
-title: "React and Redux recipe search: Part 2. API Access with thunks"
+- React
+- Redux
+- Thunks
+title: 'React and Redux recipe search: Part 2. API Access with thunks'
 ---
 
 Now that your frontend is awesome, let's get the "search" button to work.

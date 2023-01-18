@@ -1,4 +1,5 @@
 ---
+_db_id: 834
 content_type: topic
 learning_outcomes: null
 prerequisites:
@@ -113,6 +114,3 @@ Remember that you can also ask people in your network for support on this. Frien
 
 *“I’ve never found anybody that didn’t want to help me if I asked them for help.” 
 Steve Jobs (This [two minute video](https://www.youtube.com/watch?v=zkTf0LmDqKI&ab_channel=SiliconValleyHistoricalAssociation) might just change your life!)*
-
-
-

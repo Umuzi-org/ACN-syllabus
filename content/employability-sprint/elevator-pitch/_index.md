@@ -11,7 +11,6 @@ tags:
 title: Elevator Pitch
 ---
 
-
 This subject is a little different from the others - it's much more personal, focusing on your most important selling tool: you! 
 
 This is a quick and easy way to iterate through different options before investing too much time in your CV and digital profiles or in building a more powerful portfolio.
@@ -67,5 +66,4 @@ Honest feedback is golden. If you get defensive about critical feedback, people 
 There’s an old adage in the fundraising world that we’ve often found to be true: 
 “Ask for money, and you’ll get advice. Ask for advice, and you’ll get the money”. 
 
-The same very likely holds true for people helping you with the job search. If you’re respectfully asking for advice and implementing the feedback/suggestions you receive, people will naturally want to support you in your journey in whatever way they can – including warm introductions to their friends who are hiring. 
-
+The same very likely holds true for people helping you with the job search. If you’re respectfully asking for advice and implementing the feedback/suggestions you receive, people will naturally want to support you in your journey in whatever way they can – including warm introductions to their friends who are hiring.

@@ -50,4 +50,4 @@ Unfortunately, there’s bound to be some work that you do with employers/client
 
 That said, there’s little preventing you from sharing a high-level summary of a project you worked on. The summary could outline the problems you solved and how you did so. As long as it’s not giving away any “secret sauce” that the company wouldn’t want to share publicly, you can always package it as a “case study” or even as a bullet point explanation on your CV. 
 
-If you’re unsure about it, it’s best to check with your client/employer first, as there can be legal implications to sharing stuff they’d prefer to keep private. Depending on the type of organisation, they might be very comfortable letting you share some of the snippets of code you wrote or screenshots of dashboards you built, etc.  
+If you’re unsure about it, it’s best to check with your client/employer first, as there can be legal implications to sharing stuff they’d prefer to keep private. Depending on the type of organisation, they might be very comfortable letting you share some of the snippets of code you wrote or screenshots of dashboards you built, etc.

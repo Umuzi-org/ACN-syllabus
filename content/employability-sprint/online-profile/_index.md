@@ -10,6 +10,7 @@ tags:
 - employability-sprint
 title: Online profile
 ---
+
 # What Is An Online Profile?
 Your online presence includes any personally identifying content and information on the internet. This includes any profiles or posts on LinkedIn, Facebook, Twitter, Instagram, Youtube, personal websites, blogs, online dating apps, and more.
 
@@ -91,4 +92,4 @@ A personal blog or website is a big commitment, so it’s really only worth doin
 If a personal website or blog relates to your career interests, it will be a great place to highlight your skills and an ideal way to feature your credentials. Read [how to build your resume website](https://www.jimdo.com/blog/resume-website-that-employers-love/).
 
 ## A Clean Digital Presence
-Be sure to audit your online presence for anything inappropriate that might cost you a great job. Employers don’t like finding videos of you getting drunk in your student days. A fun way to do this is to “hire” a friend to be a detective for an hour or two to see if they can dig up some dirt on you online. You can do the same for them, and the challenge is to see who can come up with the most damaging material. 
+Be sure to audit your online presence for anything inappropriate that might cost you a great job. Employers don’t like finding videos of you getting drunk in your student days. A fun way to do this is to “hire” a friend to be a detective for an hour or two to see if they can dig up some dirt on you online. You can do the same for them, and the challenge is to see who can come up with the most damaging material.
