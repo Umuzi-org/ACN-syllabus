@@ -2,24 +2,24 @@
 _db_id: 200
 content_type: project
 flavours:
-- none
+  - none
 learning_outcomes:
-- sql_docker_composition
-- sql_one_to_one_relationship
-- sql_one_to_many_relationship
-- sql_many_to_many_relation
-- sql_query_data_with_join
-- sql_query_data_with_group_by
+  - sql_docker_composition
+  - sql_one_to_one_relationship
+  - sql_one_to_many_relationship
+  - sql_many_to_many_relation
+  - sql_query_data_with_join
+  - sql_query_data_with_group_by
 prerequisites:
   hard:
-  - topics/solo-learn/sql/4-challenges
-  - docker/intro-to-docker/
+    - topics/solo-learn/sql/4-challenges
+    - docker/intro-to-docker/
   soft: []
 ready: true
 story_points: 3
 submission_type: repo
 tags:
-- sql
+  - sql
 title: Shop Database using sql
 ---
 
@@ -27,16 +27,16 @@ title: Shop Database using sql
 
 - We are using Postgres
 - Instead of installing Postgres on your computer, you can launch it with a docker composition
-- MySQL is nice and lots of people use it in industry, but it doesn't implement standard SQL, it sort of does its own thing a bit. Postgres is a much more standard DB, and the industry loooooves it. 
+- MySQL is nice and lots of people use it in industry, but it doesn't implement standard SQL, it sort of does its own thing a bit. Postgres is a much more standard DB, and the industry loooooves it.
 
 ## Structure:
 
 - Your repository should have a **.yml** file
-- Your repository should have **.sql** files
-- The different SQL commands should be saved in different descriptive script files i.e.
+- Your repository should have **.sql** files. The different SQL commands should be saved in different descriptive script files i.e.
   - when the reviewer is looking for the commands you used for creating the database they should be able to navigate to a file named **create-database.sql**,
   - navigate to a file named **create-tables.sql** for the commands used to create the database tables, and
   - navigate to the files that contain the commands used for inserting table records and querying the database
+- Your repository should have a new **.md** file for documenting the database
 
 ## Instructions
 
@@ -65,50 +65,52 @@ Save all of your instructions in script files - you will submit these files on G
 ### Customers Table
 
 | ID (int) | FirstName (varchar50) | LastName (varchar50) | Gender (varchar) | Address (varchar200)  | Phone (varchar 20) | Email (varchar100)     | City (varchar20) | Country (varchar50) |
-| ---------------- | --------------------- | -------------------- | ---------------- | --------------------- | ------------------ | ---------------------- | ---------------- | ------------------- |
-| 1                | John                  | Hibert               | Male             | 284 chaucer st        | 084789657          | john@gmail.com         | Johannesburg     | South Africa        |
-| 2                | Thando                | Sithole              | Female           | 240 Sect 1            | 0794445584         | thando@gmail.com       | Cape Town        | South Africa        |
-| 3                | Leon                  | Glen                 | Male             | 81 Everton Rd,Gillits | 0820832830         | Leon@gmail.com         | Durban           | South Africa        |
-| 4                | Charl                 | Muller               | Male             | 290A Dorset Ecke      | +44856872553       | Charl.muller@yahoo.com | Berlin           | Germany             |
-| 5                | Julia                 | Stein                | Female           | 2 Wernerring          | +448672445058      | Js234@yahoo.com        | Frankfurt        | Germany             |
+| -------- | --------------------- | -------------------- | ---------------- | --------------------- | ------------------ | ---------------------- | ---------------- | ------------------- |
+| 1        | John                  | Hibert               | Male             | 284 chaucer st        | 084789657          | john@gmail.com         | Johannesburg     | South Africa        |
+| 2        | Thando                | Sithole              | Female           | 240 Sect 1            | 0794445584         | thando@gmail.com       | Cape Town        | South Africa        |
+| 3        | Leon                  | Glen                 | Male             | 81 Everton Rd,Gillits | 0820832830         | Leon@gmail.com         | Durban           | South Africa        |
+| 4        | Charl                 | Muller               | Male             | 290A Dorset Ecke      | +44856872553       | Charl.muller@yahoo.com | Berlin           | Germany             |
+| 5        | Julia                 | Stein                | Female           | 2 Wernerring          | +448672445058      | Js234@yahoo.com        | Frankfurt        | Germany             |
 
 ### Employees Table
 
 | ID (int) | FirstName (varchar50) | LastName (varchar50) | Email (varchar100) | JobTitle (varchar20) |
-| ---------------- | --------------------- | -------------------- | ------------------ | -------------------- |
-| 1                | Kani                  | Matthew              | mat@gmail.com      | Manager              |
-| 2                | Lesly                 | Cronje               | LesC@gmail.com     | Clerk                |
-| 3                | Gideon                | Maduku               | m@gmail.com        | Accountant           |
+| -------- | --------------------- | -------------------- | ------------------ | -------------------- |
+| 1        | Kani                  | Matthew              | mat@gmail.com      | Manager              |
+| 2        | Lesly                 | Cronje               | LesC@gmail.com     | Clerk                |
+| 3        | Gideon                | Maduku               | m@gmail.com        | Accountant           |
 
 ### Orders Table
 
 | ID (int) | ProductID (int) | PaymentID (int) | FulfilledByEmployeeID (int) | DateRequired (datetime) | DateShipped (datetime) | Status (varchar20) |
-| ------------- | --------------- | --------------- | --------------------------- | ----------------------- | ---------------------- | ------------------ |
-| 1             | 1               | 1               | 2                           | 05-09-2018              |                        | Not shipped        |
-| 2             | 1               | 2               | 2                           | 04-09-2018              | 03-09-2018             | Shipped            |
-| 3             | 3               | 3               | 3                           | 06-09-2018              |                        | Not shipped        |
+| -------- | --------------- | --------------- | --------------------------- | ----------------------- | ---------------------- | ------------------ |
+| 1        | 1               | 1               | 2                           | 05-09-2018              |                        | Not shipped        |
+| 2        | 1               | 2               | 2                           | 04-09-2018              | 03-09-2018             | Shipped            |
+| 3        | 3               | 3               | 3                           | 06-09-2018              |                        | Not shipped        |
 
 Note: When creating tables you will note that each table has an ID column, when joining data between tables the foreign key must include the name of the table the data came from, i.e. `ProductID` in the above table.
+
 ### Payments Table
 
-| ID (int) | CustomerID (int)| PaymentDate (datetime) | Amount (decimal) |
-| ---------------- | --------------- | ---------------------- | ---------------- |
-| 1                | 1               | 01-09-2018             | R150.75          |
-| 2                | 5               | 03-09-2018             | R150.75          |
-| 3                | 4               | 03-09-2018             | R700.60          |
+| ID (int) | CustomerID (int) | PaymentDate (datetime) | Amount (decimal) |
+| -------- | ---------------- | ---------------------- | ---------------- |
+| 1        | 1                | 01-09-2018             | R150.75          |
+| 2        | 5                | 03-09-2018             | R150.75          |
+| 3        | 4                | 03-09-2018             | R700.60          |
 
 Note: When creating tables you will note that each table has an ID column, when joining data between tables the foreign key must include the name of the table the data came from, i.e. `CustomerID` in the above table.
+
 ### Products Table
 
-| ID (int) | ProductName (varchar100) | Description (varchar300)                                                    | BuyPrice (decimal) |
-| --------------- | ------------------------ | --------------------------------------------------------------------------- | ------------------ |
-| 1               | Harley Davidson Chopper  | This replica features a working kickstand, front suspension, gear-shift lever | R150.75            |
-| 2               | Classic Car              | Turnable front wheels, steering function                                    | R550.75            |
-| 3               | Sportscar               | Turnable front wheels, steering function                                    | R700.60            |
+| ID (int) | ProductName (varchar100) | Description (varchar300)                                                      | BuyPrice (decimal) |
+| -------- | ------------------------ | ----------------------------------------------------------------------------- | ------------------ |
+| 1        | Harley Davidson Chopper  | This replica features a working kickstand, front suspension, gear-shift lever | R150.75            |
+| 2        | Classic Car              | Turnable front wheels, steering function                                      | R550.75            |
+| 3        | Sportscar                | Turnable front wheels, steering function                                      | R700.60            |
 
 ## Part 2: Querying a database
 
-Save all of your instructions in script files - you will submit these files on Github. 
+Save all of your instructions in script files - you will submit these files on Github.
 
 NB! Be sure to label you answers by putting the question above the code that answers it, submitting a wall of code with no explanations makes it difficult to review.
 
@@ -148,9 +150,10 @@ NB! Be sure to label you answers by putting the question above the code that ans
 
 ## Files to submit & instructions for reviewer
 
-Please make sure that the learner used Postgres and not MySQL.
-
-- YAML/yml file with container setup.
-- `src` directory with 4 SQL script files(a script to a database, create tables, populate tables and one to query the database).
-- A `.md` needs to be present in the repo where the learner has documented what information is in which table and how the tables and which keys link the records between tables.
+- Please make sure that the learner used Postgres and not MySQL.
 - The ID columns of the tables can either be TableName + ID or just ID, either is acceptable due to recent updates.
+
+- The following files should be present:
+  - YAML/yml file with container setup.
+  - `src` directory with 4 SQL script files(a script to a database, create tables, populate tables and one to query the database).
+  - A new `.md` file needs to be present in the repo where the learner has documented what information is in which table and how the tables and which keys link the records between tables. They should not edit the `README.md` file because they didn't create it and it serves it's own purpose.
