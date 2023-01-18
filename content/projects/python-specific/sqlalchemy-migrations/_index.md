@@ -88,30 +88,30 @@ Using your dev db:
 1. Open up a psql shell and rename the "chatname" column to "rocketchat_user".
 2. Open up a python shell and try to query your db. What happened?
 3. Now create your migrations and look at the changes. Are there any changes? What will happen if you run your migrations?
-4. Now go to your models and rename the cohort column.
+4. Now go to your models and rename the chatname column.
 5. Create your migrations and look at the changes. Did anything happen?
 6. Create a new script to create some C27s and run it against your dev db.
 7. Run your script on your development database.
 8. Now run your migrations against your prod database. What happened?
-9. Run create_c26_recruits against your prod database. What happened?
+9. Run create_c27_recruits against your prod database. What happened?
 
 Do whatever it takes to get it to work... you might need to checkout an earlier commit. By the end you'll have the C27 recruits in the prod database.
 
 Rules: Don't delete any data in your production database! But you can completely delete your dev database if you wanted to.
 
-#### Situation 2: A deleted column
+#### Situation 3: A deleted column
 
 Using your dev db:
 
 1. Open up a psql shell and delete the id number column.
 2. Open up a python shell and try to query your db. what happened?
 3. Now create your migrations and look at the changes. Are there any changes? What will happen if you run your migrations?
-4. Now go to your models and remote the column.
+4. Now go to your models and remove the column.
 5. Create your migrations and look at the changes. Did anything happen?
 6. Create a new script to create some C28s and run it against your dev db.
 7. Run your script on your development database.
 8. Now run your migrations against your prod database. What happened?
-9. Run create_c26_recruits against your prod database. What happened?
+9. Run create_c28_recruits against your prod database. What happened?
 
 Do whatever it takes to get it to work... you might need to checkout an earlier commit. By the end you'll have the C28 recruits in the prod database.
 
