@@ -210,8 +210,10 @@ You need to find other ways to stand out from the crowd. You need other credibil
         - Strategy - Potential employers want to see your thinking- and problem-solving abilities.
 
 ## More Resources + Examples
+ - [Harvard University: Resume and Cover Letters](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)
  - [Tips to stand out with your CV - Blog CareerJunction](https://www.careerjunction.co.za/blog/top-cv-tips-cv-template/) 
  - [Skills to Put on Resume (List of Good Examples for All Jobs)](https://zety.com/blog/what-skills-to-put-on-a-resume)
+ - [Hiration: How to Write a Resume](https://www.hiration.com/blog/how-to-write-a-resume/)
  - [Work Experience on a Resume - How to List It Right](https://novoresume.com/career-blog/how-to-list-work-experience-on-a-resume)
  - [How to Make a Resume in 2022 | Beginner's Guide](https://novoresume.com/career-blog/how-to-write-a-resume-guide)
  - [How To List Awards on Your Resume in 6 Steps (With Examples) | Indeed.com](https://www.indeed.com/career-advice/resumes-cover-letters/resume-awards-example)
