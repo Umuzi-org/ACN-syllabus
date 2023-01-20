@@ -1,7 +1,7 @@
 ---
+_db_id: 88
 title: Data Science boot camp (with automarked katas)
 ---
-
 
 - {{% contentlink path="topics/clean-code/python" %}}
 - {{% contentlink path="projects/data-science-specific/bootcamp-exploratory-data-analysis" flavour="python" %}}

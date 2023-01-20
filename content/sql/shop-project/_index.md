@@ -2,24 +2,24 @@
 _db_id: 200
 content_type: project
 flavours:
-  - none
+- none
 learning_outcomes:
-  - sql_docker_composition
-  - sql_one_to_one_relationship
-  - sql_one_to_many_relationship
-  - sql_many_to_many_relation
-  - sql_query_data_with_join
-  - sql_query_data_with_group_by
+- sql_docker_composition
+- sql_one_to_one_relationship
+- sql_one_to_many_relationship
+- sql_many_to_many_relation
+- sql_query_data_with_join
+- sql_query_data_with_group_by
 prerequisites:
   hard:
-    - topics/solo-learn/sql/4-challenges
-    - docker/intro-to-docker/
+  - topics/solo-learn/sql/4-challenges
+  - docker/intro-to-docker/
   soft: []
 ready: true
 story_points: 3
 submission_type: repo
 tags:
-  - sql
+- sql
 title: Shop Database using sql
 ---
 

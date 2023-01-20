@@ -97,4 +97,3 @@ Use the section-wise scoring to go through the detailed descriptions, tips and g
 ![Hiration Intro 16](Hiration Intro 16.png)
 
 View a walkthrough of the Hiration platform [here](https://youtu.be/IhNwUjyxmDM)
-
