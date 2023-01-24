@@ -12,6 +12,7 @@ title: Employability sprint wrap-up
 Congratulations on completing the Employability Sprint. We hope this sprint has helped you learn the skills you need to find economic opportunities.
 
 You should now have the following set up to assist you in the next step of your learning to earning journey:
+
 - A CV representing your skills
 - A portfolio showcasing your skills
 - A well considered online presence / LinkedIn profile
