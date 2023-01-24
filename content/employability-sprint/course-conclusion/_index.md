@@ -16,7 +16,7 @@ You should now have the following set up to assist you in the next step of your 
 - A portfolio showcasing your skills
 - A well considered online presence / LinkedIn profile
 - New interview skills
-- Guidelines to create a job search to create a clear strategy to manage your focus in your job search
+- Guidelines to create a clear strategy to manage your focus in your job search
 
 ### We would appreciate your honest feedback
 
