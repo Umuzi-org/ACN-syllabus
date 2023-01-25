@@ -5,7 +5,8 @@ flavours:
 - javascript
 tags:
 - javascript
-title: Error handling best practices
+ready: True
+title: Javascript error handling best practices
 ---
 
 ## Errors are useful

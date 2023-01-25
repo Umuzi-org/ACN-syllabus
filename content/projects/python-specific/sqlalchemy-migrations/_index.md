@@ -42,14 +42,14 @@ This is similar to how you would work with real databases later in life. You'll 
 5. Make your migrations again and run them. This step won't go smoothly - you'll need to do it in a few steps.
 6. Look at your migration files, they should make sense.
 
-### using your production database
+### Using your production database
 
 1. Run all your migrations.
 2. Update your create_recruits script to add personal_email_address values, then run it against the prod database.
 
 This should have been quite smooth
 
-### back to the dev db
+### Back to the dev db
 
 Now a lot can go wrong with databases and migrations. Ideally the db, your models and your migrations will all be in sync. If they fall out of sync life gets kind of hard sometimes.
 
@@ -133,3 +133,7 @@ Earlier it was hinted that there are ways to prevent migration chaos. When it co
 4. When it comes time to deploy the master branch, migrations are generated off a real database and those migrations are pushed into the master branch.
 
 Just in case you nerds are interested, the main Tilde database is a google cloud SQL instance running postgres, and we're using the Django ORM instead of sqlalchemy. But the basic principles are the same.
+
+## Instructions for reviewers
+
+Please look at the migration files and make sure that the learner renamed columns when they were meant to. Dropping a column and creating a new column is not the same as renaming a column. If you drop a column then you drop all the data inside that column. 

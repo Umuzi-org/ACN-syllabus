@@ -3,7 +3,6 @@ _db_id: 282
 content_type: project
 flavours:
 - javascript
-from_repo: projects/nodejs/file-io
 learning_outcomes:
 - web_dev_database_connection
 - web_dev_database_queries
@@ -16,10 +15,12 @@ prerequisites:
   - sql/shop-project
   - topics/node-and-sql/
   - projects/nodejs/file-io
+  - topics/unit-testing-mocks-and-spies
+  - topics/clean-code/sql
   soft: []
 ready: true
 story_points: 5
-submission_type: continue_repo
+submission_type: repo
 tags:
 - node
 - sql
@@ -44,7 +45,7 @@ You are required to create a backend service that will help capture basic inform
 
 ## Helloworld
 
-Before you dive into anything too intense, let's make sure that you can get the node to connect to your database. Can you get this Node script to run:
+Before you dive into anything too intense, let's make sure that you can get node to connect to your database. Can you get this Node script to run:
 
 {{% code_snippet "helloworld.js" %}}
 
@@ -72,15 +73,10 @@ You will be expected to properly test your code. You can use whatever testing fr
 ## Instructions for reviewers
 
 - Connection strings should never be exposed. Ensure that the `.dotenv` module has been utilized.
-
 - The `.dotenv` file should not be present in the repo and should be specifically excluded through the use of `.gitignore.`
-
 - Ensure that Docker and docker-compose have been used. The `docker-compose.yml` file should be at the root of the project.
-
 - Ensure that the proper data type is returned for each function.
-
 - If used in the project, Ensure that `Pool.connect || Client.connect` and `Pool.end || Client.end` is used correctly. There is generally no need for opening and closing your connection inside every function.
-
 - Ensure the use of `return`, not `console.log`.
-
 - When it comes to testing for this project, have a look at {{% contentlink path="topics/unit-testing-mocks-and-spies" %}} , and make sure that mocks and spies are utilized properly.
+- did the learner follow all the clean coding practices described in {{% contentlink path="topics/clean-code/sql" %}} 

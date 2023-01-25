@@ -6,7 +6,10 @@ flavours:
 submission_type: repo
 tags:
 - sql
-title: SQL Library excercise
+title: SQL Library exercise
+prerequisites: 
+    hard:
+    - topics/clean-code/sql
 ---
 
 ## Introduction
