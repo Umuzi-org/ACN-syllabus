@@ -1,9 +1,11 @@
 ---
 content_type: project
 flavours:
+- none
 learning_outcomes: null
 prerequisites:
-  hard: []
+  hard:
+  - teaching_curriculum/introducing_teach_like_a_champion
   soft: []
 ready: true
 story_points: null

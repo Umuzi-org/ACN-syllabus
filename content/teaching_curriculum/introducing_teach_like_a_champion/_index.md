@@ -1,6 +1,7 @@
 ---
 content_type: topic
 flavours:
+- none
 learning_outcomes: null
 prerequisites:
   hard: []

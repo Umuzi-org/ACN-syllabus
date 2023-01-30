@@ -1,10 +1,11 @@
 ---
 content_type: project
 flavours:
+- none
 learning_outcomes: null
 prerequisites:
   hard:
-  - teaching-curriculum/quick_familiarity_1
+  - teaching_curriculum/project_quick_familiarity_1
   soft: []
 ready: true
 story_points: null
