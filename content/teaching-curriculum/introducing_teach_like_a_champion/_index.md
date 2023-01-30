@@ -1,14 +1,13 @@
 ---
-_db_id: 
 content_type: topic
 flavours:
-- teaching
 learning_outcomes: null
 prerequisites:
   hard: []
   soft: []
 ready: true
 tags: 
+- teaching
 title: Introducing Teach Like A Champion
 ---
 

@@ -1,17 +1,16 @@
 ---
-_db_id: 
 content_type: project
 flavours:
-- teaching
 learning_outcomes: null
 prerequisites:
   hard:
-  - teaching-curriculum/quick-familiarity-1
+  - teaching-curriculum/quick_familiarity_1
   soft: []
 ready: true
 story_points: null
 submission_type: repo
 tags: 
+- teaching
 title: Chapter 1 - High Standards
 ---
 

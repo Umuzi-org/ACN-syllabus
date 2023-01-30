@@ -1,8 +1,6 @@
 ---
-_db_id: 
 content_type: project
 flavours:
-- teaching
 learning_outcomes: null
 prerequisites:
   hard: []
@@ -11,7 +9,8 @@ ready: true
 story_points: null
 submission_type: repo
 tags: 
-title: Quick Familiarity - Part 3
+- teaching
+title: Quick Familiarity - Part 4
 ---
 
 As mentioned in the introductory topic of the course, the point of the quick familiarity projects is to do a quick skim of all of the techniques in the book, just to introduce you to the ideas and make sure that we can all start using the common language that the book provides for talking about nuanced teaching practices. We’ll practice the techniques more thoroughly later, but for now let's get just acquainted with them.
@@ -21,7 +20,7 @@ As mentioned in the introductory topic of the course, the point of the quick fam
 To keep the projects bite-sized, we'll look at just 3 chapters at a time and do a little bit of light reflection and planning. 
 
 ## Your Mission Objectives
-* Read through the summary of **Chapters 7, 8 and 9**. 
+* Read through the summary of **Chapters 10, 11 and 12**. At first glance these chapters might not seem relevant to teaching coders, but actually some of the techniques could be super useful!!! 
 * For each of these 3 chapters: 
     * (A) Describe which of the techniques you already apply pretty well, in general, and where and how it is that you tend do so. Also explain how it is that you know it works. 
     * (B) Describe which of the techniques, if applied better or more consistently, you think has the greatest potential to improve your teaching practice. Be sure to motivate your choice with some sound reasoning.  
