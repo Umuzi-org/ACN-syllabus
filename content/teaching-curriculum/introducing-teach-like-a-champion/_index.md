@@ -2,7 +2,7 @@
 content_type: topic
 learning_outcomes: null
 ready: true
-tags: 
+flavours:
 - teaching
 title: Introducing Teach Like A Champion
 ---

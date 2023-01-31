@@ -1,14 +1,12 @@
 ---
 content_type: project
 flavours:
-- none
+- teaching
 prerequisites:
   hard:
   - teaching_curriculum/project_quick_familiarity_1
 ready: true
 submission_type: link
-tags: 
-- teaching
 title: Chapter 1 - High Standards
 ---
 
