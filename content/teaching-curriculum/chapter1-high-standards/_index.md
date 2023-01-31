@@ -1,6 +1,6 @@
 ---
 content_type: project
-flavours:
+tags:
 - teaching
 prerequisites:
   hard:

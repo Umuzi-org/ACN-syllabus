@@ -5,7 +5,7 @@ prerequisites:
   - teaching_curriculum/introducing_teach_like_a_champion
 ready: true
 submission_type: link
-flavours:
+tags:
 - teaching
 title: Quick Familiarity - Part 2
 ---
