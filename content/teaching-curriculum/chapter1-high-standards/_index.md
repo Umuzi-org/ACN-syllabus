@@ -2,14 +2,11 @@
 content_type: project
 flavours:
 - none
-learning_outcomes: null
 prerequisites:
   hard:
   - teaching_curriculum/project_quick_familiarity_1
-  soft: []
 ready: true
-story_points: null
-submission_type: repo
+submission_type: link
 tags: 
 - teaching
 title: Chapter 1 - High Standards
@@ -30,3 +27,6 @@ These are the 5 techniques covered in the chapter:
 1. For each of these 5 techniques, reflect on your own experiences as a learner (before Umuzi), and describe a teacher you can remember who applied the technique really well, or really poorly in your classroom. 
 2. Now reflect on your time at Umuzi, both as a learner and a teacher. For each of these 5 techniques, describe how/where you've seen it applied really well. In a separate paragraph, describe how/where you've seen it done really poorly. 
 3. What 1 system/change do you think Umuzi should put in place to improve how we uphold high academic standards? Describe your suggested system/change in at least 3, but no more than 6 short paragraphs. 
+
+Answer each of the above objectives in no more than 300 words. 
+Do this on a Google doc and submit a link to the doc. MAKE SURE THAT THE SHARING PERMISSIONS ALLOW ANYONE ON THE INTERNET TO VIEW AND COMMENT ON THE FILE! 
