@@ -93,7 +93,7 @@ For example, `triangle(-3, "isosceles")` should print:
 
 ### Up for a Challenge?
 
-This section is not compulsory but if you do this, we’ll think you’re cool.
+This section of task 2.2 is not compulsory but if you do this, we’ll think you’re cool.
 
 Add some functionality to `triangle` so that an error/exception gets raised if an incorrect mode is entered.
 
