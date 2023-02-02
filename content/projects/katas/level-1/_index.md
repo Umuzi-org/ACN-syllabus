@@ -176,12 +176,12 @@ time
 
 Write a function `combine` that combines two lists by taking alternate elements and returns the result. You can assume the lists are of equal size.
 
-If your function can work with lists of unequal size, we'll think you’re cool.
+Your combine function should be able to work with lists of unequal size.
 
-For exampe, `combine([11,22,33], [1,2,3])` should return:
+For exampe, `combine([11,22,33,45], [1,2,3])` should return:
 
 ```
-[11,1,22,2,33,3]
+[11,1,22,2,33,3,45]
 ```
 
 Also, the output lists should maintain the list items in the original order in which they appeared in the input lists, so combine([12, 4, 2], [1, 5, 3]) should return:
