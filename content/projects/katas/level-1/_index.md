@@ -2,24 +2,24 @@
 _db_id: 219
 content_type: project
 flavours:
-- any_language
+  - any_language
 learning_outcomes:
-- code_algorithmic_thinking
-- code_pseudo_code
-- code_problem_decomposition
-- code_control_flow
-- code_naming_convention
-- code_code_documentation
-- code_basic_calculation
+  - code_algorithmic_thinking
+  - code_pseudo_code
+  - code_problem_decomposition
+  - code_control_flow
+  - code_naming_convention
+  - code_code_documentation
+  - code_basic_calculation
 prerequisites:
   hard:
-  - topics/reopening-pull-request
+    - topics/reopening-pull-request
 ready: true
 story_points: 3
 submission_type: repo
 tags:
-- algorithms
-- clean-code
+  - algorithms
+  - clean-code
 title: Level 1 coding challenges
 ---
 
@@ -38,7 +38,12 @@ If we say a function takes an input then we don't mean you should ask the user t
 
 ## Note to web devs:
 
-Please don't submit any HTML or CSS. Please don't use `document.write`. We are interested in seeing how you implement these algorithms. Use `console.log` if you are asked to print things.
+- Please don't submit any HTML or CSS. Please don't use `document.write`. We are interested in seeing how you implement these algorithms. Use `console.log` if you are asked to print things.
+- At the end of every one of your task files you need to export the function. You do this by including an export statement like this:
+
+```js
+module.exports = { YOUR_FUNCTION_NAME };
+```
 
 ## What does success look like?
 
@@ -190,9 +195,9 @@ Also, the output lists should maintain the list items in the original order in w
 [12,1,4, 5, 2, 3]
 ```
 
-
-
 ## Instructions for Reviewers
+
+### Tasks
 
 **Task 1**
 
@@ -209,3 +214,7 @@ Also, the output lists should maintain the list items in the original order in w
 **Task 7**
 
 - Ensure that the array which is being outputted consists of alternating values of the two arrays that are being inputted.
+
+### Exports
+
+- **For those using Javascript:** Make sure they export their functions correctly. Otherwise, the marking bot won't be able to access their functions.
