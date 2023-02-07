@@ -69,7 +69,7 @@ get_pull_requests("Umuzi-org", "ACN-syllabus", "2022-03-01", "2022-03-10")
 ]
 ```
 
-**Note:** the `state` property may not be the same because things change. It may have been closed or reopened for many reasons.
+**Note:** the `state` and `title` properties may not be exactly the same because things change. The PR may have been closed and the title may have been updated for many reasons.
 
 ### Pagination
 
@@ -92,7 +92,7 @@ Please make use of [axios](https://axios-http.com/docs/intro) to make the http r
 
 ## Instructions for reviewers
 
-- Ensure that the list of PRs matches the one in the instructions above when called with those arguments.
+- Ensure that the list of PRs matches the one in the instructions above when called with those arguments(the `state` and `title` property may not be the exact same).
 - Ensure that the function works with any GitHub user and repository name, meaning that the function should not only work with one user/repo name.
 - Ensure that the function returns the output. Printing the output is insufficient
 - Ensure that the correct error/exception messages are used when trying to handle errors, if an incorrect user or repo was passed in a function call then the error messages should be explicit e.g. `Error 404 User or Repo Not Found`.
