@@ -8,7 +8,7 @@ prerequisites:
   - projects/java-specific/introduction-to-spring-boot/part-3
   - topics/java-specific/jdbc-templates
   - sql/shop-project
-  soft:
+  soft: null
 ready: true
 submission_type: repo
 tags:

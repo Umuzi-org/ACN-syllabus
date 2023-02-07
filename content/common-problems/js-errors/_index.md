@@ -1,6 +1,7 @@
 ---
-title: Javascript Error handling
+_db_id: 842
 content_type: topic
+title: Javascript Error handling
 ---
 
 ## Thoughtlessly squashing errors

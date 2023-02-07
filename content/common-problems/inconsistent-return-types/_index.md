@@ -1,6 +1,7 @@
 ---
-title: Inconsistent return types
+_db_id: 839
 content_type: topic
+title: Inconsistent return types
 ---
 
 Consider the following pseudocode function

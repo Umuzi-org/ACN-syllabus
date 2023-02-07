@@ -24,7 +24,6 @@ title: Expose a RESTful JSON API
 weight: 4
 ---
 
-
 ## Instructions
 
 Use Express to expose the following JSON endpoints.

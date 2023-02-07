@@ -3,9 +3,9 @@ _db_id: 830
 content_type: topic
 flavours:
 - javascript
+ready: true
 tags:
 - javascript
-ready: True
 title: Javascript error handling best practices
 ---
 

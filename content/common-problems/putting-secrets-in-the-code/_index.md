@@ -1,4 +1,6 @@
 ---
+_db_id: 841
+content_type: topic
 title: Putting secrets in the code
 ---
 
@@ -71,4 +73,4 @@ If you have already pushed the secrets to Github then the general procedure for 
 
 1. invalidate the secrets immediately. If you revealed a password, go change the password. If you revealed an API key, go to the service provider and change the key. 
 2. If other people were relying on the secret that you revealed (eg multiple people using the same client key) then go apologise and give them access to the new secrets in a secure way
-3. change your name, sell all your stuff and move to a small anonymous island off the coast of Costa Rica. Not because you are unsafe, just because you are ashamed. 
+3. change your name, sell all your stuff and move to a small anonymous island off the coast of Costa Rica. Not because you are unsafe, just because you are ashamed.

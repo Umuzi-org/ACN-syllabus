@@ -1,4 +1,6 @@
 ---
+_db_id: 837
+content_type: topic
 title: Use an autoformatter
 ---
 
@@ -27,4 +29,3 @@ All modern code editors worth their salt allow for some kind of autoformatting.
 ## Suggested action
 
 Get the learner to set up their code editor properly. If they use vscode then they can set it up so that the formatter gets triggered every time they save a file. When you use the right tool for the job then everything is just better.
-

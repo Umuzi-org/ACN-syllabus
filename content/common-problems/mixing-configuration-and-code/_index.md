@@ -1,6 +1,7 @@
 ---
-title: Mixing code and configuration
+_db_id: 836
 content_type: topic
+title: Mixing code and configuration
 ---
 
 Learners often do this kind of thing in their code:

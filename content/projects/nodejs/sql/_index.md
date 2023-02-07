@@ -79,4 +79,4 @@ You will be expected to properly test your code. You can use whatever testing fr
 - If used in the project, Ensure that `Pool.connect || Client.connect` and `Pool.end || Client.end` is used correctly. There is generally no need for opening and closing your connection inside every function.
 - Ensure the use of `return`, not `console.log`.
 - When it comes to testing for this project, have a look at {{% contentlink path="topics/unit-testing-mocks-and-spies" %}} , and make sure that mocks and spies are utilized properly.
-- did the learner follow all the clean coding practices described in {{% contentlink path="topics/clean-code/sql" %}} 
+- did the learner follow all the clean coding practices described in {{% contentlink path="topics/clean-code/sql" %}}

@@ -136,4 +136,4 @@ Just in case you nerds are interested, the main Tilde database is a google cloud
 
 ## Instructions for reviewers
 
-Please look at the migration files and make sure that the learner renamed columns when they were meant to. Dropping a column and creating a new column is not the same as renaming a column. If you drop a column then you drop all the data inside that column. 
+Please look at the migration files and make sure that the learner renamed columns when they were meant to. Dropping a column and creating a new column is not the same as renaming a column. If you drop a column then you drop all the data inside that column.

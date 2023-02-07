@@ -3,13 +3,13 @@ _db_id: 641
 content_type: project
 flavours:
 - postgres
+prerequisites:
+  hard:
+  - topics/clean-code/sql
 submission_type: repo
 tags:
 - sql
 title: SQL Library exercise
-prerequisites: 
-    hard:
-    - topics/clean-code/sql
 ---
 
 ## Introduction
