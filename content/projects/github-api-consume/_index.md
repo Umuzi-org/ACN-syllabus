@@ -69,6 +69,8 @@ get_pull_requests("Umuzi-org", "ACN-syllabus", "2022-03-01", "2022-03-10")
 ]
 ```
 
+**Note:** the `state` property may not be the same because things change. It may have been closed or reopened for many reasons.
+
 ### Pagination
 
 **Pagination** is a process that is used to divide a large dataset into smaller chunks (pages).
