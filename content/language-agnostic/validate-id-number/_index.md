@@ -20,6 +20,34 @@ tags:
 title: Validate a South African ID number
 ---
 
+## Set up your environment
+
+### Javascript
+
+Your directory structure should look like this:
+
+```
+├── spec
+    ├── support
+    └── validate_sa_id_spec.js
+├── src
+    ├── validate_sa_id.js
+```
+
+### Python
+
+Your directory structure should look like this:
+
+```
+├── validate_sa_id
+│   └── validate_sa_id.py
+├── setup.py
+├── requirements.txt
+├── .gitignore
+└── tests
+    └── test_validate_sa_id.py
+```
+
 In this project, we'll be practising Test Driven Development while solving a validation problem.
 
 Please make sure that you commit your code often! At least every time you get one of your tests to pass. Also please make sure you make your git commit messages meaningful.

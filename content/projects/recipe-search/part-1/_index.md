@@ -2,31 +2,31 @@
 _db_id: 532
 content_type: project
 flavours:
-  - javascript
-  - typescript
+- javascript
+- typescript
 prerequisites:
   hard:
-    - projects/redux-intro/part-1
-    - projects/tilde-mockups
-    - topics/web-frontend/react/redux-architecture
+  - projects/redux-intro/part-1
+  - projects/tilde-mockups
+  - topics/web-frontend/react/redux-architecture
   soft: []
 ready: true
 submission_type: repo
 tags:
-  - React
-  - Redux
-title: "React and Redux recipe search: Part 1. Presenting the form"
+- React
+- Redux
+title: 'React and Redux recipe search: Part 1. Presenting the form'
 ---
 
-This is part 1 of a project where we will be using Redux in order to build a recipe search user interface based on the [RecipePuppy API](http://www.recipepuppy.com/about/api/).
+This is part 1 of a project where we will be using Redux in order to build a recipe search user interface based on the [Recipe API](https://api.edamam.com/api/recipes).
 
-In this part of the excercise we wont be making any queries to the api, we'll just be using React and Redux to build a kick-ass search form.
+In this part of the exercise we wont be making any queries to the api, we'll just be using React and Redux to build a kick-ass search form.
 
 ## Instructions
 
 Create a search page that has the following functionality:
 
-- It needs a search box where the user can enter keywords, for example "omlette" or "mexican" or whatever else they are keen on.
+- It needs a search box where the user can enter keywords, for example "omelette" or "mexican" or whatever else they are keen on.
 - It also needs a mechanism for adding ingredients to the search. And removing ingredients if they made a mistake.
 
 Here is a valid user journey:
@@ -38,9 +38,9 @@ Here is a valid user journey:
 
 ## Success criteria
 
-In this project you are expected to use redux for all your state managment. Don't use useState or any other hooks.
+In this project you are expected to use redux for all your state management. Don't use useState or any other hooks.
 
-In real life applictions it usually makes sense to use a combination of redux and react hook based state, but the purpose of this project is for you to practice getting redux and react to play nice.
+In real life applications it usually makes sense to use a combination of redux and react hook based state, but the purpose of this project is for you to practice getting redux and react to play nice.
 
 ## Hints
 

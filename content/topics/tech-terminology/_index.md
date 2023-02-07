@@ -143,7 +143,7 @@ Data Science is the study of data, it combines domain expertise, programming ski
 - Django [read more](https://www.djangoproject.com/)
 - Flask [read more](https://www.fullstackpython.com/flask.html)
 - Pandas [read more](https://pandas.pydata.org/)
-- TensorFlow [read more](https://pandas.pydata.org/)
+- TensorFlow [read more](https://www.tensorflow.org/)
 - scikit-learn [read more](https://scikit-learn.org/stable/)
 - NumPy [read more](https://numpy.org/)
 - NLTK [read more](https://www.nltk.org/)

@@ -25,9 +25,9 @@ title: Consume Github API
 
 In this project, you'll make use of Github's awesome API. We chose Github for this project because:
 
-- you are already familiar with Github,
-- the API is really well documented,
-- and the API is solidly built and a lot of people use it.
+- You are already familiar with Github
+- The API is really well documented
+- The API is solidly built and a lot of people use it
 
 ## Instructions
 
@@ -42,13 +42,12 @@ Now, in your language of choice (not bash, use Java, Python or Javascript) write
 - start date (yyyy-mm-dd)
 - end date (yyyy-mm-dd)
 
-The function should output a list or array of pull requests on the repo such that the PRs were created, updated, merged or closed between the given two dates.
+The function should return a list or array of pull requests on the repo such that the PRs were created, updated, merged or closed between the given two dates.
+
 For each PR include the `id`, `user` (who opened the PR), `title`, `state`, and when it was created.
 While for private repos a token will be required, the function should be able to work on public repos (eg. [ACN-syllabus](https://github.com/Umuzi-org/ACN-syllabus)) without needing a token.
 
-For those using javascript, please use [the axios library](https://axios-http.com/) for making the API calls.
-
-Please be sure to follow the standard naming conventions for your language.
+Please be sure to follow the standard naming conventions for your language. As usual.
 
 Make sure the output matches the following when called with the arguments below:
 
@@ -80,6 +79,10 @@ For example, without pagination you would have to load an entire chat history ju
 
 Please implement pagination. Your `get_pull_requests` function should return a list/array of ALL the matching pull requests, not just the first page.
 
+## Javascript learners
+
+Please make use of [axios](https://axios-http.com/docs/intro) to make the http requests.
+
 ## Resources
 
 - [An introduction to curl using GitHub's API](https://gist.github.com/tazjel/8735770).
@@ -88,7 +91,7 @@ Please implement pagination. Your `get_pull_requests` function should return a l
 ## Instructions for reviewers
 
 - Ensure that the list of PRs matches the one in the instructions above when called with those arguments.
-- Ensure that the function works with any GitHub User and repository name, meaning that the function should not only work with one User/repo name.
-- Ensure that for JavaScript the function prints the output, and for python the function returns the output.
+- Ensure that the function works with any GitHub user and repository name, meaning that the function should not only work with one user/repo name.
+- Ensure that the function returns the output. Printing the output is insufficient
 - Ensure that the correct error/exception messages are used when trying to handle errors, if an incorrect user or repo was passed in a function call then the error messages should be explicit e.g. `Error 404 User or Repo Not Found`.
 - Ensure that the output is a list/array and depending on the dates passed in, if there were no open, closed, updated or merged PR's between the two dates an empty array/list should be printed out.

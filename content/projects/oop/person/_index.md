@@ -17,6 +17,59 @@ tags:
 title: Person
 ---
 
+## Set up your environment
+
+### JavaScript
+
+Your directory structure should look like this.
+
+```
+    ├── node_modules    <---- make sure this is in your .gitignore
+    ├── src
+    |   └── person.js
+    └── package.json
+```
+
+### Python
+
+Please name your files and folders like this:
+
+```
+├── person   the package under test
+│   └── person.py
+├── requirements.txt    installation requirements
+└── setup.py            installation script for the package under test
+
+```
+
+The reason for this is that we have automations that will mark your work. If your work is not organised correctly then our friendly robot wont be able to mark your work.
+
+If you want to learn more, check this out: {{% contentlink path="topics/python-specific/automated-testing-with-pytest" %}}
+
+### Java
+
+The code you push to git should have the following structure:
+
+```
+├── build.gradle
+├── gradle
+│   └── wrapper
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
+├── gradlew
+├── gradlew.bat
+├── settings.gradle
+└── src
+    ├── main
+        └── java
+            ├── Main.java
+            └── Person.java <-------- names are important
+```
+
+Please refer to the following to find out more: {{% contentlink path="topics/java-specific/project-submission-requirements" %}}
+
+## Instructions
+
 Create a `class` called `Person` which defines the generic data and functionality of a human.
 
 A class is a collection of attributes and functions. Different languages use different terminology for these things, but the basic concepts are the same.

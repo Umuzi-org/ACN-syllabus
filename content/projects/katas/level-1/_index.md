@@ -2,24 +2,24 @@
 _db_id: 219
 content_type: project
 flavours:
-- any_language
+  - any_language
 learning_outcomes:
-- code_algorithmic_thinking
-- code_pseudo_code
-- code_problem_decomposition
-- code_control_flow
-- code_naming_convention
-- code_code_documentation
-- code_basic_calculation
+  - code_algorithmic_thinking
+  - code_pseudo_code
+  - code_problem_decomposition
+  - code_control_flow
+  - code_naming_convention
+  - code_code_documentation
+  - code_basic_calculation
 prerequisites:
   hard:
-  - topics/reopening-pull-request
+    - topics/reopening-pull-request
 ready: true
 story_points: 3
 submission_type: repo
 tags:
-- algorithms
-- clean-code
+  - algorithms
+  - clean-code
 title: Level 1 coding challenges
 ---
 
@@ -38,7 +38,12 @@ If we say a function takes an input then we don't mean you should ask the user t
 
 ## Note to web devs:
 
-Please don't submit any HTML or CSS. Please don't use `document.write`. We are interested in seeing how you implement these algorithms. Use `console.log` if you are asked to print things.
+- Please don't submit any HTML or CSS. Please don't use `document.write`. We are interested in seeing how you implement these algorithms. Use `console.log` if you are asked to print things.
+- At the end of every one of your task files you need to export the function. You do this by including an export statement like this:
+
+```js
+module.exports = { YOUR_FUNCTION_NAME };
+```
 
 ## What does success look like?
 
@@ -176,15 +181,23 @@ time
 
 Write a function `combine` that combines two lists by taking alternate elements and returns the result. You can assume the lists are of equal size.
 
-If your function can work with lists of unequal size, we'll think you’re cool.
+Your combine function should be able to work with lists of unequal size.
 
-For exampe, `combine([11,22,33], [1,2,3])` should return:
+For exampe, `combine([11,22,33,45], [1,2,3])` should return:
 
 ```
-[11,1,22,2,33,3]
+[11,1,22,2,33,3,45]
+```
+
+Also, the output lists should maintain the list items in the original order in which they appeared in the input lists, so combine([12, 4, 2], [1, 5, 3]) should return:
+
+```
+[12,1,4, 5, 2, 3]
 ```
 
 ## Instructions for Reviewers
+
+### Tasks
 
 **Task 1**
 
@@ -201,3 +214,7 @@ For exampe, `combine([11,22,33], [1,2,3])` should return:
 **Task 7**
 
 - Ensure that the array which is being outputted consists of alternating values of the two arrays that are being inputted.
+
+### Exports
+
+- **For those using Javascript:** Make sure they export their functions correctly. Otherwise, the marking bot won't be able to access their functions.

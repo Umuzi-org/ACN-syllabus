@@ -220,7 +220,7 @@ web_dev_api_call_tools:
     tools do a better job of making network requests.
 web_dev_api_consumption:
   _db_id: 89
-  description: Demonstrate an understanding of consuming APIs.
+  description: Demonstrate an understanding of consuming web APIs.
 web_dev_async_calls_with_ajax:
   _db_id: 66
   description: Demonstrate a working knowledge of using AJAX to make asynchronous

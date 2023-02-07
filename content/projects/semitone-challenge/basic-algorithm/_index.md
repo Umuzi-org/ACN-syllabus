@@ -21,9 +21,9 @@ weight: 1
 ---
 
 ## Set up your environment
- 
+
 Your directory structure should look like this.
- 
+
 ```
    >node_modules    <---- make sure this is in your .gitignore
    >spec
@@ -56,7 +56,7 @@ Ok...so what is a semitone? I'm glad you asked. Take a look at these links:
 
 What we want to do, is build a simple application that a musician can use to test their music theory skills.
 
-In the second video, Justin talks about a game that you can play with a jam buddy. Your buddy picks two notes from the note circle and tells them to you, then you tell your buddy how many semi-tones seperates those notes. That is basically what we are building here.
+In the second video, Justin talks about a game that you can play with a jam buddy. Your buddy picks two notes from the note circle and tells them to you, then you tell your buddy how many semi-tones separates those notes. That is basically what we are building here.
 
 The final goal is to have a program that outputs two notes from the note circle and then allows the user to enter a number. The program needs to be able to tell the user if they chose the correct number or not.
 
@@ -77,8 +77,8 @@ JS:
 let buddy = new JamBuddy()
 let notes = buddy.selectNotes()
 console.log(notes) # this will print an array of two notes
-console.log(currentSelectedNotes) # this will print the same array of two notes 
-console.log(notes === currentSelectedNotes) # should print true notes and currentSelectedNotes should be the same 
+console.log(currentSelectedNotes) # this will print the same array of two notes
+console.log(notes === currentSelectedNotes) # should print true notes and currentSelectedNotes should be the same
 correct = buddy.checkAnswer(1)
 console.log(correct) # this will print True if the `1` was the correct answer
 ```
@@ -117,6 +117,6 @@ console.log(correct) # true because: G G# A A# B - the note circle is a CIRCLE, 
 
 ## Acceptance criteria
 
-Make sure you do this in a TDD way, and that code sample from the top needs to run as is.
-
-Please just supply a working class. The only place you should instantiate your class is inside your unit tests.
+- Make sure you do this in a TDD way, and that code sample from the top needs to run as is.
+- Please just supply a working class. The only place you should instantiate your class is inside your unit tests.
+- Please export your class in this manner `module.exports = { JamBuddy: JamBuddy }`. This will allow you to add more exports later if you need to.

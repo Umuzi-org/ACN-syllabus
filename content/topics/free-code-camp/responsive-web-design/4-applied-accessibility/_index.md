@@ -2,16 +2,16 @@
 _db_id: 308
 content_type: project
 flavours:
-  - none
+- none
 prerequisites:
   hard:
-    - topics/free-code-camp/responsive-web-design/3-applied-visual-design
+  - topics/free-code-camp/responsive-web-design/3-applied-visual-design
 ready: true
 submission_type: link
 tags:
-  - html
-  - css
-  - free-code-camp
+- html
+- css
+- free-code-camp
 title: FreeCodeCamp - Applied Accessibility
 ---
 

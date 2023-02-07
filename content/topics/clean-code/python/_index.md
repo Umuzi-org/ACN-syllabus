@@ -105,7 +105,7 @@ However, explicit relative imports are an acceptable alternative to absolute imp
       from . import sibling
       from .sibling import example
 
-  Standard library code should avoid complex package layouts and always use absolute imports. Implicit relative imports should never be used and have been removed in Python 3.
+Standard library code should avoid complex package layouts and always use absolute imports. Implicit relative imports should never be used and have been removed in Python 3.
 
 When importing a class from a class-containing module, it's usually okay to spell this:
 
@@ -119,9 +119,23 @@ If this spelling causes local name clashes, then spell them explicitly:
 
 and use `myclass.MyClass` and `foo.bar.yourclass.YourClass`.
 
-- Wildcard imports (from <module> import \*) should be avoided, as they make it unclear which names are present in the namespace, confusing both readers and many automated tools. There is one defensible use case for a wildcard import, which is to republish an internal interface as part of a public API (for example, overwriting a pure Python implementation of an interface with the definitions from an optional accelerator module and exactly which definitions will be overwritten isn't known in advance).
+When importing it's usually best to avoid using wildcards:
 
-When republishing names this way, the guidelines below regarding public and internal interfaces still apply.
+```
+# No:
+from math import *
+from statistics import *
+
+# Yes
+from math import cos, sin, tan
+from statistics import mean, median, mode
+```
+
+Wildcard imports (from import *) should be avoided, as they make it unclear which names are present in the namespace, confusing both readers and many automated tools. There is one defensible use case for a wildcard import, which is to republish an internal interface as part of a public API (for example, overwriting a pure Python implementation of an interface with the definitions from an optional accelerator module and exactly which definitions will be overwritten isn’t known in advance).
+
+For further details follow these links:
+- [Wildcard imports should not be used](https://rules.sonarsource.com/python/RSPEC-2208)
+- [Why You Should Avoid Wildcard Imports](https://www.youtube.com/shorts/A9AhKxSBZ0Q)
 
 ## Strings
 
