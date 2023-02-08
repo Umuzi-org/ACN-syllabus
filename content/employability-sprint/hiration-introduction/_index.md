@@ -12,7 +12,7 @@ title: Hiration Introduction
 ---
 
 ## Welcome to the Hiration Resume Builder 
-Umuzi has partnered with Hiration to give you access to the Hiration platform. Hiration is an online resume builder which supports you to create your CV and help you review your CV through its AI-powered features.
+We have partnered with Hiration to give you access to the Hiration platform. Hiration is an online resume builder which supports you to create your CV and help you review your CV through its AI-powered features.
 
 The platform includes the following:
 
