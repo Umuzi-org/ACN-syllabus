@@ -47,6 +47,8 @@ The function should return a list or array of pull requests on the repo such tha
 For each PR include the `id`, `user` (who opened the PR), `title`, `state`, and when it was created.
 While for private repos a token will be required, the function should be able to work on public repos (eg. [ACN-syllabus](https://github.com/Umuzi-org/ACN-syllabus)) without needing a token.
 
+**For those using javascript**, please use [the axios library](https://axios-http.com/) for making the API calls.
+
 Please be sure to follow the standard naming conventions for your language. As usual.
 
 Make sure the output matches the following when called with the arguments below:
@@ -80,10 +82,6 @@ This means we are able to gradually fetch the data we need with little to no per
 For example, without pagination you would have to load an entire chat history just to see the latest message sent to you.
 
 Please implement pagination. Your `get_pull_requests` function should return a list/array of ALL the matching pull requests, not just the first page.
-
-## Javascript learners
-
-Please make use of [axios](https://axios-http.com/docs/intro) to make the http requests.
 
 ## Resources
 
