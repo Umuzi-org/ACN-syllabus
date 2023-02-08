@@ -25,9 +25,9 @@ Your directory structure should look like this.
 
 ```
     ├── node_modules    <---- make sure this is in your .gitignore
-    ├── src
-    |   └── person.js
-    └── package.json
+    └── src
+        └── person.js
+   
 ```
 
 ### Python
@@ -37,7 +37,6 @@ Please name your files and folders like this:
 ```
 ├── person   the package under test
 │   └── person.py
-├── requirements.txt    installation requirements
 └── setup.py            installation script for the package under test
 
 ```
