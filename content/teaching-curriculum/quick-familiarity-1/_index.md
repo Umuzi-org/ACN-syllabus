@@ -2,7 +2,7 @@
 content_type: project
 prerequisites:
   hard:
-  - teaching_curriculum/introducing_teach_like_a_champion
+  - teaching-curriculum/introducing-teach-like-a-champion
 ready: true
 submission_type: link
 tags:
@@ -25,4 +25,4 @@ To keep the projects bite-sized, we'll look at just 3 chapters at a time and do 
 
 Describe each of the above in no more than 300 words. 
 Do this on a Google doc and submit a link to the doc. 
-MAKE SURE THAT THE SHARING PERMISSIONS ALLOW ANYONE ON THE INTERNET TO VIEW AND COMMENT ON THE FILE! 
+MAKE SURE THAT THE SHARING PERMISSIONS ALLOW ANYONE ON THE INTERNET TO VIEW THE FILE! 

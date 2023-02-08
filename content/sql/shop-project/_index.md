@@ -14,6 +14,7 @@ prerequisites:
   hard:
   - topics/solo-learn/sql/4-challenges
   - docker/intro-to-docker/
+  - topics/clean-code/sql
   soft: []
 ready: true
 story_points: 3
@@ -23,13 +24,13 @@ tags:
 title: Shop Database using sql
 ---
 
-## Installation:
+## Installation
 
 - We are using Postgres
 - Instead of installing Postgres on your computer, you can launch it with a docker composition
 - MySQL is nice and lots of people use it in industry, but it doesn't implement standard SQL, it sort of does its own thing a bit. Postgres is a much more standard DB, and the industry loooooves it.
 
-## Structure:
+## Structure
 
 - Your repository should have a **.yml** file
 - Your repository should have **.sql** files. The different SQL commands should be saved in different descriptive script files i.e.
@@ -40,7 +41,15 @@ title: Shop Database using sql
 
 ## Instructions
 
-## Part 1: Creating a database
+### IMPORTANT
+
+You should know about clean sql code by now. If you need a refresher please take a look here: {{% contentlink path="topics/clean-code/sql" %}}
+
+The names of the tables and columns described in this project are funky (not in a good way).
+
+While doing this project, please adapt all names so that they hit the clean code standards. 
+
+### Part 1: Creating a database
 
 Save all of your instructions in script files - you will submit these files on Github.
 
@@ -62,7 +71,7 @@ Save all of your instructions in script files - you will submit these files on G
 
 6. Document what information is stored in your database. Be sure to say what information is kept in what table, and which keys link the records between tables. This file needs to be in a `.md` format.
 
-### Customers Table
+#### Customers Table
 
 | ID (int) | FirstName (varchar50) | LastName (varchar50) | Gender (varchar) | Address (varchar200)  | Phone (varchar 20) | Email (varchar100)     | City (varchar20) | Country (varchar50) |
 | -------- | --------------------- | -------------------- | ---------------- | --------------------- | ------------------ | ---------------------- | ---------------- | ------------------- |
@@ -72,7 +81,7 @@ Save all of your instructions in script files - you will submit these files on G
 | 4        | Charl                 | Muller               | Male             | 290A Dorset Ecke      | +44856872553       | Charl.muller@yahoo.com | Berlin           | Germany             |
 | 5        | Julia                 | Stein                | Female           | 2 Wernerring          | +448672445058      | Js234@yahoo.com        | Frankfurt        | Germany             |
 
-### Employees Table
+#### Employees Table
 
 | ID (int) | FirstName (varchar50) | LastName (varchar50) | Email (varchar100) | JobTitle (varchar20) |
 | -------- | --------------------- | -------------------- | ------------------ | -------------------- |
@@ -80,7 +89,7 @@ Save all of your instructions in script files - you will submit these files on G
 | 2        | Lesly                 | Cronje               | LesC@gmail.com     | Clerk                |
 | 3        | Gideon                | Maduku               | m@gmail.com        | Accountant           |
 
-### Orders Table
+#### Orders Table
 
 | ID (int) | ProductID (int) | PaymentID (int) | FulfilledByEmployeeID (int) | DateRequired (datetime) | DateShipped (datetime) | Status (varchar20) |
 | -------- | --------------- | --------------- | --------------------------- | ----------------------- | ---------------------- | ------------------ |
@@ -90,7 +99,7 @@ Save all of your instructions in script files - you will submit these files on G
 
 Note: When creating tables you will note that each table has an ID column, when joining data between tables the foreign key must include the name of the table the data came from, i.e. `ProductID` in the above table.
 
-### Payments Table
+#### Payments Table
 
 | ID (int) | CustomerID (int) | PaymentDate (datetime) | Amount (decimal) |
 | -------- | ---------------- | ---------------------- | ---------------- |
@@ -100,7 +109,7 @@ Note: When creating tables you will note that each table has an ID column, when 
 
 Note: When creating tables you will note that each table has an ID column, when joining data between tables the foreign key must include the name of the table the data came from, i.e. `CustomerID` in the above table.
 
-### Products Table
+#3## Products Table
 
 | ID (int) | ProductName (varchar100) | Description (varchar300)                                                      | BuyPrice (decimal) |
 | -------- | ------------------------ | ----------------------------------------------------------------------------- | ------------------ |
@@ -108,7 +117,7 @@ Note: When creating tables you will note that each table has an ID column, when 
 | 2        | Classic Car              | Turnable front wheels, steering function                                      | R550.75            |
 | 3        | Sportscar                | Turnable front wheels, steering function                                      | R700.60            |
 
-## Part 2: Querying a database
+### Part 2: Querying a database
 
 Save all of your instructions in script files - you will submit these files on Github.
 
@@ -157,3 +166,6 @@ NB! Be sure to label you answers by putting the question above the code that ans
   - YAML/yml file with container setup.
   - `src` directory with 4 SQL script files(a script to a database, create tables, populate tables and one to query the database).
   - A new `.md` file needs to be present in the repo where the learner has documented what information is in which table and how the tables and which keys link the records between tables. They should not edit the `README.md` file because they didn't create it and it serves it's own purpose.
+
+    - topics/clean-code/sql
+- Did the learner adapt the naming conventions so that they matched those specified in {{% contentlink path="topics/clean-code/sql"%}}
