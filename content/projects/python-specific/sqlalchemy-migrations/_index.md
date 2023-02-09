@@ -42,14 +42,14 @@ This is similar to how you would work with real databases later in life. You'll 
 5. Make your migrations again and run them. This step won't go smoothly - you'll need to do it in a few steps.
 6. Look at your migration files, they should make sense.
 
-### using your production database
+### Using your production database
 
 1. Run all your migrations.
 2. Update your create_recruits script to add personal_email_address values, then run it against the prod database.
 
 This should have been quite smooth
 
-### back to the dev db
+### Back to the dev db
 
 Now a lot can go wrong with databases and migrations. Ideally the db, your models and your migrations will all be in sync. If they fall out of sync life gets kind of hard sometimes.
 
@@ -88,30 +88,30 @@ Using your dev db:
 1. Open up a psql shell and rename the "chatname" column to "rocketchat_user".
 2. Open up a python shell and try to query your db. What happened?
 3. Now create your migrations and look at the changes. Are there any changes? What will happen if you run your migrations?
-4. Now go to your models and rename the cohort column.
+4. Now go to your models and rename the chatname column.
 5. Create your migrations and look at the changes. Did anything happen?
 6. Create a new script to create some C27s and run it against your dev db.
 7. Run your script on your development database.
 8. Now run your migrations against your prod database. What happened?
-9. Run create_c26_recruits against your prod database. What happened?
+9. Run create_c27_recruits against your prod database. What happened?
 
 Do whatever it takes to get it to work... you might need to checkout an earlier commit. By the end you'll have the C27 recruits in the prod database.
 
 Rules: Don't delete any data in your production database! But you can completely delete your dev database if you wanted to.
 
-#### Situation 2: A deleted column
+#### Situation 3: A deleted column
 
 Using your dev db:
 
 1. Open up a psql shell and delete the id number column.
 2. Open up a python shell and try to query your db. what happened?
 3. Now create your migrations and look at the changes. Are there any changes? What will happen if you run your migrations?
-4. Now go to your models and remote the column.
+4. Now go to your models and remove the column.
 5. Create your migrations and look at the changes. Did anything happen?
 6. Create a new script to create some C28s and run it against your dev db.
 7. Run your script on your development database.
 8. Now run your migrations against your prod database. What happened?
-9. Run create_c26_recruits against your prod database. What happened?
+9. Run create_c28_recruits against your prod database. What happened?
 
 Do whatever it takes to get it to work... you might need to checkout an earlier commit. By the end you'll have the C28 recruits in the prod database.
 
@@ -133,3 +133,7 @@ Earlier it was hinted that there are ways to prevent migration chaos. When it co
 4. When it comes time to deploy the master branch, migrations are generated off a real database and those migrations are pushed into the master branch.
 
 Just in case you nerds are interested, the main Tilde database is a google cloud SQL instance running postgres, and we're using the Django ORM instead of sqlalchemy. But the basic principles are the same.
+
+## Instructions for reviewers
+
+Please look at the migration files and make sure that the learner renamed columns when they were meant to. Dropping a column and creating a new column is not the same as renaming a column. If you drop a column then you drop all the data inside that column.

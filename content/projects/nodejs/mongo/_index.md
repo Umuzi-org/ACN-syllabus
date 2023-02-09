@@ -3,14 +3,13 @@ _db_id: 281
 content_type: project
 flavours:
 - javascript
-from_repo: projects/nodejs/file-io
-pre: '<b>2 (alt): </b>'
 prerequisites:
   hard:
   - projects/nodejs/file-io
+  - topics/unit-testing-mocks-and-spies
   soft: []
 ready: true
-submission_type: continue_repo
+submission_type: repo
 title: Node & mongoDB assignment
 weight: 2
 ---

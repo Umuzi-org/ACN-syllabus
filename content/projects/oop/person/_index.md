@@ -25,10 +25,6 @@ Your directory structure should look like this.
 
 ```
     ├── node_modules    <---- make sure this is in your .gitignore
-    ├── spec               
-    |   ├── support
-    |   |   └── jasmine.json
-    |   └── person_spec.js
     ├── src
     |   └── person.js
     └── package.json
@@ -36,19 +32,19 @@ Your directory structure should look like this.
 
 ### Python
 
-Your project is expected to be completed using `pytest`. You are expected to follow industry best practices in all things. This means that you need to have a directory structure that is in good shape. Please name your files and folders like this:
+Please name your files and folders like this:
 
 ```
 ├── person   the package under test
 │   └── person.py
 ├── requirements.txt    installation requirements
-├── setup.py            installation script for the package under test
-└── tests               all package tests go in this directory
-    └── test_person.py
+└── setup.py            installation script for the package under test
+
 ```
 
-Please take a look at this topic to see an explanation of the required directory structure.
-{{% contentlink path="topics/python-specific/automated-testing-with-pytest" %}}
+The reason for this is that we have automations that will mark your work. If your work is not organised correctly then our friendly robot wont be able to mark your work.
+
+If you want to learn more, check this out: {{% contentlink path="topics/python-specific/automated-testing-with-pytest" %}}
 
 ### Java
 
@@ -65,12 +61,9 @@ The code you push to git should have the following structure:
 ├── settings.gradle
 └── src
     ├── main
-    |   └── java
+        └── java
             ├── Main.java
-    |       └── Person.java <-------- names are important
-    └── test
-        └── java
-            └── PersonTest.java             <-------- names are important
+            └── Person.java <-------- names are important
 ```
 
 Please refer to the following to find out more: {{% contentlink path="topics/java-specific/project-submission-requirements" %}}

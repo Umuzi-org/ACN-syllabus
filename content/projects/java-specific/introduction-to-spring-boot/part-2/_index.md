@@ -16,7 +16,7 @@ tags:
 - rest-api
 - mvc
 - annotations
-title: Intro to spring boot - Part 2
+title: Intro to spring boot project - Part 2
 ---
 
 We are going to focus on creating a REST api that will serve as an end point to our spring boot java application.

@@ -58,6 +58,10 @@ The following operations should be allowed (and should be exposed at well named 
 3. Edit a computer
 4. Delete a computer
 
+## Unit tests
+
+Just do it Okuur? Don't forget best practice now. 
+
 ## Bonus!
 
 Umuzi is growing pretty fast. So that means we keep having to buy computers. Eventually when you call the list computers endpoint the list will be way too long.

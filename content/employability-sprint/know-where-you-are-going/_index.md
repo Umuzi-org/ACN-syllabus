@@ -46,5 +46,4 @@ A target company list can be as simple as listing out the companies you think of
 - Search within your network to see if you know anyone at companies that interest you and send them an email or message on LinkedIn to gain insight about the company.
 
 ### Familiarise Yourself With Job Descriptions In Your Chosen Field
-Skim through 10-20 relevant job descriptions and see if you can get a feel for the types of skills and experience sets that employers seem most interested in hiring for. (Tip: searching Google for “jobs Data Science Nairobi” will pull together job listings from a wide number of job listing sites.) 
-
+Skim through 10-20 relevant job descriptions and see if you can get a feel for the types of skills and experience sets that employers seem most interested in hiring for. (Tip: searching Google for “jobs Data Science Nairobi” will pull together job listings from a wide number of job listing sites.)

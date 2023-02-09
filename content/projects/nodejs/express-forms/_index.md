@@ -3,7 +3,7 @@ _db_id: 279
 content_type: project
 flavours:
 - javascript
-from_repo: projects/nodejs/file-io
+from_repo: projects/nodejs/sql
 learning_outcomes:
 - web_dev_server_setup
 - web_dev_form_creation
@@ -18,7 +18,6 @@ pre: '<b>3: </b>'
 prerequisites:
   hard:
   - projects/nodejs/sql
-  - projects/nodejs/file-io
   - topics/js-and-node-specific/expressjs
   soft: []
 ready: true
@@ -31,9 +30,11 @@ title: Express, forms and templates
 weight: 3
 ---
 
+In this project you'll be using Express to create a form that lets users interact with your database
+
 ## Create a basic HTML form
 
-Create an HTML form. This form will (eventually) be used to create Visitor fields in your database. Your form should have the following fields:
+Create an HTML form. This form will be used to create Visitor fields in your database. Your form should have the following fields:
 
 - visitor name
 - your name (name of the person who assisted the visitor)
@@ -46,7 +47,7 @@ Create an HTML form. This form will (eventually) be used to create Visitor field
 
 Create a basic express.js application and serve your form as a static file
 
-The URL should be `http://localhost:[YOUR_PORT]/new_visit`
+The URL should be `http://localhost:[YOUR_PORT]/new_visitor`
 
 ## submit the form
 

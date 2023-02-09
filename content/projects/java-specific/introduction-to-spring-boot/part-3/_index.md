@@ -18,7 +18,7 @@ tags:
 - unit-testing
 - caching
 - security
-title: Intro to spring boot - Part 3
+title: Intro to spring boot project - Part 3
 ---
 
 We are going to work on Spring boot **Caching** and **Security** for the project we created in part1 and part2

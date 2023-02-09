@@ -10,6 +10,7 @@ tags:
 - employability-sprint
 title: Job search plan
 ---
+
 A job-search plan is a resource you create to help you take control of your job search. It enables you to track important data in each stage as you monitor your applications, interviews, and feedback. It also helps to keep you focused on the things you can control.  
 
 A Job-Search Plan will help you:

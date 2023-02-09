@@ -16,6 +16,7 @@ tags:
 - close_on_peer_reviews
 title: Submit your LinkedIn
 ---
+
 ## Task Description
 1. Using the content layed out in the previous sections set up your **LinkedIn** online profile. Be sure to set your profile up completely and keep it professional.
 2. Submit a link to your updated/new LinkedIn profile
