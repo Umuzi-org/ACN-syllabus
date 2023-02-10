@@ -2,14 +2,14 @@
 _db_id: 705
 content_type: project
 flavours:
-- any_language
+  - any_language
 ready: true
 submission_type: repo
 tags:
-- loops
-- functions
-- foundations
-- data structures
+  - loops
+  - functions
+  - foundations
+  - data structures
 title: Shopping cart calculations
 ---
 
@@ -95,6 +95,8 @@ Please note that one person can have multiple baskets. If you look at the data, 
 
 ### Important notes for Javascript solutions
 
+**1. Destructuring**
+
 In Javascript it is best practice to use destructuring when passing arguments to a function. You can learn about destructuring here: [destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment).
 
 Please make sure you use destructuring for all your functions.
@@ -108,6 +110,14 @@ getCustomerBaskets("sine@umuzi.org", customerBaskets); // DON'T DO THIS EITHER
 function getCustomerBaskets({ shoppingBaskets, email }) {...}
 
 getCustomerBaskets({shoppingBaskets, email}) //DO THIS
+```
+
+**2. Exports**
+
+Don't forget to export all your functions so that the bot can access and mark your code. You do this by including an export statement like this.
+
+```
+module.exports = { YOUR_FIRST_FUNCTION_NAME, YOUR_SECOND_FUNCTION_NAME,... };
 ```
 
 ### get baskets belonging to a single customer
@@ -231,3 +241,4 @@ get_customers_with_open_baskets(shopping_baskets) //python
 - There can be some global constants to help prevent typos. eg `const DELIVERED="DELIVERED"`.
 - Functions are supposed to return very specific things.
 - All the functions stated above should take in at least one argument, the data array, and should work with similar data.
+- **For those using Javascript:** Make sure they export all their functions correctly. Otherwise, the marking bot won't be able to access their code
