@@ -62,7 +62,7 @@ Ideally, you will be able to build stuff at least as complicated as that. But we
 
 ## Get started with the project by adding the data to your repo
 
-First of all, please download this data in [this file](data.json) and add it to your repo. All of your functions should take this data structure as an argument.
+First of all, please **download the data in [this file](data.json) and add it to your repo**. All of your functions should take this data structure as an argument.
 
 If you look at the data you'll see that what we have is a list or array of elements. Each element represents a shopping basket.
 
