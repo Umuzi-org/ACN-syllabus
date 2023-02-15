@@ -36,11 +36,24 @@ The exercises below are meant to be language-agnostic. If we use the word `print
 
 If we say a function takes an input then we don't mean you should ask the user to type something. What we need is a function parameter or argument.
 
-## Naming conventions
+## Function naming conventions
 
 Please follow standard naming conventions for the language you are using. For example if we say a function is named `isSixtyThree` then that is a totally valid name in Javascript. But in Python, a better name would be `is_sixty_three`. We always follow the naming conventions of the language we are writing in. 
 
-## Note to web devs:
+## Naming your files
+
+If you are writing Python code your directory structure should look like:
+```
+├── task1.py
+├── task2.py
+├── task3.py
+...
+```
+In other words, there should be no directories. Only modules. 
+
+If you are writing JS code then your files would follow a similar pattern. You would just have `.js` instead of `.py` files.
+
+## Note to Javascript developers:
 
 - Please don't submit any HTML or CSS. Please don't use `document.write`. We are interested in seeing how you implement these algorithms. Use `console.log` if you are asked to print things.
 - At the end of every one of your task files you need to export the function. You do this by including an export statement like this:
