@@ -1,5 +1,8 @@
 ---
+_db_id: 848
 content_type: project
+flavours:
+- none
 prerequisites:
   hard:
   - teaching-curriculum/introducing-teach-like-a-champion
@@ -24,4 +27,4 @@ To keep the projects bite-sized, we'll look at just 3 chapters at a time and do 
 
 Describe each of the above in no more than 300 words. 
 Do this on a Google doc and submit a link to the doc. 
-MAKE SURE THAT THE SHARING PERMISSIONS ALLOW ANYONE ON THE INTERNET TO VIEW THE FILE! 
+MAKE SURE THAT THE SHARING PERMISSIONS ALLOW ANYONE ON THE INTERNET TO VIEW THE FILE!
