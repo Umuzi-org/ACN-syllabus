@@ -20,10 +20,12 @@ Often, you’ll need to first pass technical tests at home before even getting i
 Practice makes perfect and there are many  sites that allow you to practise your coding skills.
 
 Focus on your general problem-solving skills. These links are great for this: 
+
 - [DevSkiller Web Dev Skills Tests](https://devskiller.com/coding-tests-skill/web-development/#)
 - [CoderByte.com Skills Testing Platform](https://coderbyte.com/?utm_campaign=Employer%20-%20coderbyte.com/organizations&utm_source=orange_top_bar)
 
 Technical interviews are notoriously biassed towards questions on algorithms and data structures, for which you can and should prepare well.
+
 - Read this: [Leetcode style interviews](https://interviewguide.dev/leetcode)
 - And watch this: [Neetcode: How I got Good at Coding Interview](https://www.youtube.com/watch?v=SVvr3ZjtjI8&ab_channel=NeetCode). We particularly like how the Neetcode video groups and abstracts the types of problem-solving approaches that tend to work for different types of problems. 
 
@@ -56,6 +58,7 @@ Multitasking slows you down and splits your focus. Seriously, don't try to think
 
 #### If you finish the test ahead of time
 Go and read over all your answers:
+
 - check for bugs
 - double check that your code is clean and understandable. Remember that coders work in teams. If your code makes you seem inconsiderate and short-sighted, that would be a bad thing
 
@@ -67,7 +70,10 @@ Yes, slow down. By slowing your movements, you actually calm yourself.
 Focus your mind only on the one problem that is right in front of you. It might be a single question, or even a single part of the question.
 
 Sometimes when people panic, they start to jump from question to question. This isn't useful. Use the time-boxing technique mentioned above to stop yourself from doing that and to help you focus. For two-five minutes, you only have one problem to think about. Do your best on that one problem.
- 
+
+One thing worth knowing is that if you do well at your work you will probably get promoted to a position where there is a lot of pressure. Anxiety is part of the job! Anxiety is also very normal so there is a lot of wisdom out there that you can tap into.
+
+For more information about anxiety please read this  {{% contentlink path="soft-skills/dealing-with-anxiety" %}}
 
 ## In-Person Technical Interviews
 Lots of companies only do these after you’ve done “well enough” on an automated test, but some prefer to do these earlier in the process. Either way, the preparation discussed in the section on automated technical tests should power you up quite well for these as well. 
@@ -86,6 +92,7 @@ These are questions that are specific to the role that you’re going to be fill
 It helps interviewers see if you know what the job involves and if you can fulfil the role.
 
 You can prepare for this by:
+
 - Getting to know exactly what is involved in the role you are applying for so you can see what you need to either prepare for or sharpen.
 - Practising common terminologies in that specific language/jargon and ensuring that you’re able to explain them.
 
@@ -100,13 +107,14 @@ If you get interviewed and you get asked a question that you don't know the answ
 ### Your Playbook For Whiteboarding In Technical Interviews
 First, read this: [HackerNoon Whiteboarding Advice](https://hackernoon.com/the-best-whiteboard-interview-advice-i-ever-received-3ebbfa72e4a)
 
-## Culture Fit/Behavioural Interviews
+## Culture Fit/Behavioral Interviews
 Any interaction you have with a human at the employing organisation will feed into a “culture fit” assessment, but sometimes employers will set up time with senior staff specifically to assess “culture fit”. 
 Cultural fit is the likelihood that you will be able to conform and adapt to the core values and collective behaviours that make up the organisation where you are applying for a job opportunity..
 
 Your biggest weapons in these sessions are preparation and empathy. The better you understand the context of the organisation and the person sitting across from you, the better equipped you are to align what you can offer with what they are looking for ––whether from a skills standpoint or in terms of values alignment. 
 
 These articles give great overviews of how to engage well at every step of the process, as well as how to prepare for the relational/people-focused side of the interview process: 
+
 - [Offerzen: How to Win at Your Next Interview](https://www.offerzen.com/blog/how-to-kick-ass-at-your-next-interview)
 - [My advice after interviewing 100 software engineers](https://medium.com/swlh/my-advice-after-interviewing-100-software-engineers-e34bc3cbc669)
 

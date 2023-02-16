@@ -29,25 +29,32 @@ There is a lot that can go wrong in an interview, and since you’ll be nervous,
 - Prepare a list of **questions for the interviewer** about the company, team, and position you will be working in.
 - **Your portfolio** – the past projects you have showcased here could come up, so make sure that if you showed something off you remember the tools, techniques, and technologies that you used.
 - Prepare a list of **questions that you would expect from the interviewer**, and try to get in their head so that you can anticipate and prepare for them. Even if they ask something different, this preparation will help you.
+- Prepare a list of questions that you would like to ask at the interview. Maybe you are curious about their choice of tools, maybe you want to know what kinds of tasks you will be doing when you start out, or how the company maintains their culture. Getting answers will help you make a good decision and asking thoughtful questions will leave a good impression!
 
 ### For An In-Person Interview:
 - Make sure you dress correctly. If you are unsure, ask about the company’s dress code beforehand.
 - Presentation is more than just dress code – also make sure your hair and personal hygiene are up to scratch.
-- Make sure you leave with ample time to get there – ideally you want to walk in 10 minutes early. And if you arrive in the area earlier, try to walk into reception no earlier than 15 minutes early.
+- Make sure you leave with ample time to get there – ideally you want to walk in at least 10 minutes early. And if you arrive in the area earlier, try to walk into reception no earlier than 15 minutes early.
 - Make sure you have a copy of your CV as well as any relevant pieces of your portfolio with you.
 - Make sure you have a pen and notebook, and use it. No one's memory is perfect, and this also adds to your professional image.
 
 
 ### For A Virtual Interview:
-- Find out what video software will be used. Make sure you test it out a few days in advance.
-- Dress code – even in a video interview, you need to be presentable.
+- Find out what video software will be used. Make sure you test it out a few days in advance. Make sure your sound quality is good as well
+- If you are worried about load-shedding or have a sketchy internet connection, make a plan! Go do your interview somewhere with a reliable connection
+- Dress code – even in a video interview, you need to be presentable
 - Check your connection and make sure you have a backup connection.
 - Check your power – do you have any scheduled maintenance or interruptions?
 - Having a pen and paper available is also very useful and professional.
 - Be prepared to share your screen should you want to showcase a project.
 - Be prepared for them to share their screen should they want to ask questions on a project. 
 
-If, during the interview, you are asked something that you don't know, the best approach is to admit that you don't know, but show a willingness to do some research and get back to them. 
+### Be honest about your skills
+If, during the interview, you are asked something that you don't know, the best approach is to admit that you don't know, but show a willingness to do some research and get back to them. Don't ever try to misdirect your interviewer by telling them about cool things you know that don't answer the question, stay on topic.
+
+Never ever try to bullshit your interviewer, don't misrepresent your skills, don't say "that's what I meant" if your interviewer corrects one of your answers. Be honest and represent your skills accurately. 
+
+If you are ever unsure if you have answered a question accurately you can say "does that answer your question?" or even "Sorry, I'm a bit nervous, what was the question again?"
 
 ## Practice Makes Perfect
 There are some wonderful platforms that facilitate mock interviews with peers or mentors. Some of the peer-driven ones are even accessible for free and can be incredibly helpful – especially if you take individual bits of feedback with a pinch of salt, but pay close attention to which bits of feedback remain consistent across multiple interviews. 
@@ -65,6 +72,7 @@ When used correctly, the tool can assist in reducing the anxiety that comes with
 
 ### Hiration Interview Preparation
 You can also visit [Hiration’s interview preparation](https://www.hiration.com/interview-preparation/) section that includes the following:
+
 - Interview questions along with sample answers
 - An overview/objective of each question
 - Insight into what the recruiter is expecting
@@ -83,6 +91,6 @@ This great article should help you choose the right platform:
 - [How To Prepare For An Interview Amid The Great Resignation](https://www.forbes.com/sites/emmylucas/2022/05/03/how-to-prepare-for-an-interview-amid-the-great-resignation/?sh=5dbbfdcb2c10)
 - [How To Prepare for an Interview in 11 Steps](https://www.indeed.com/career-advice/interviewing/how-to-prepare-for-an-interview)
 
-Also go through the tech specific content if you are preparing for a tachnical assessment or interview:
+Also go through the tech specific content if you are preparing for a technical assessment or interview:
 
 {{% contentlink path="employability-sprint/interview-prep/tech-specific" %}}
