@@ -2,10 +2,10 @@
 _db_id: 223
 content_type: project
 flavours:
-- any_language
+  - any_language
 learning_outcomes:
-- code_oop_encapsulation
-- code_oop_class_instantiation
+  - code_oop_encapsulation
+  - code_oop_class_instantiation
 prerequisites:
   hard: []
   soft: []
@@ -13,7 +13,7 @@ ready: true
 story_points: 2
 submission_type: repo
 tags:
-- oop
+  - oop
 title: Person
 ---
 
@@ -24,10 +24,9 @@ title: Person
 Your directory structure should look like this.
 
 ```
-    ├── node_modules    <---- make sure this is in your .gitignore
-    ├── src
-    |   └── person.js
-    └── package.json
+├── src
+|   └── person.js
+└── package.json
 ```
 
 ### Python
@@ -121,6 +120,14 @@ In OOP this is known as abstraction. We created a simple model of a more complex
 
 When an object instance is created from a class, the class's constructor function is run to create it. This process of creating an object instance from a class is called instantiation — the object instance is instantiated from the class. `person` is an instance of `Person`.
 
+### Exports
+
+**For those using JavaScript:** Don't forget to export your `Person` class so that the automarker may be able to access your class. You do this by including an export statement like this.
+
+```
+module.exports = { YOUR_CLASS_NAME };
+```
+
 ## Acceptance criteria
 
 A person might have many interests, or they might only have 1. If they are depressed then they might not be interested in anything at all. Make sure you can handle all cases!
@@ -129,15 +136,21 @@ Also, you must submit good clean code! Make sure you name your variables clearly
 
 ## Instructions for reviewer
 
+### Tasks
+
 1. **Multiple interests, punctuation, and spacing** - Make sure that the interests array attribute can take in multiple interests. The interests should all get printed out separated with a comma and space. The last interest should have an `and` before it followed by a full stop. Your class should contain and use all of the attributes above.
-The output of 2 or more interests should look like this: `Hello, my name is Ryan, my gender is male and I am 30 years old. My interests are reading and coding.`.
+   The output of 2 or more interests should look like this: `Hello, my name is Ryan, my gender is male and I am 30 years old. My interests are reading and coding.`.
 
 2. **Single interest or no interests** - Check if the class can work with a single interest and that the string output is different from the multiple interests string output. Instead of `my interests are` it should be `my interest is`.
-The output of 1 interest should look like this: `Hello, my name is Ryan, my gender is male and I am 30 years old. My interest is being a hardarse.`.
-If there are no interests(empty interests array) then the output should look like this: `Hello, my name is Ryan, my gender is male and I am 30 years old. I have no interests.`.
+   The output of 1 interest should look like this: `Hello, my name is Ryan, my gender is male and I am 30 years old. My interest is being a hardarse.`.
+   If there are no interests(empty interests array) then the output should look like this: `Hello, my name is Ryan, my gender is male and I am 30 years old. I have no interests.`.
 
 Mark this as Excellent if:
 
 1. **There is a separate function just for building the interests string**. If the student makes multiple small, single-purpose, clear functions instead of one giant function then that is good.
 2. Makes use of templating instead of string concatenation as much as possible. In Python this means using f-strings, in Javascript, it means using template literals, in Java, this means using `String.format`.
 3. Also meets normal excellence criteria as specified on Tilde under "HOW DO I CHOOSE A STATUS?".
+
+### Exports
+
+**For those using Javascript:** Make sure they export their class correctly. Otherwise, the marking bot won't be able to access their code
