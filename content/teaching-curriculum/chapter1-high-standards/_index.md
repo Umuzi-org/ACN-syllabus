@@ -1,12 +1,15 @@
 ---
+_db_id: 846
 content_type: project
-tags:
-- teaching
+flavours:
+- none
 prerequisites:
   hard:
   - teaching-curriculum/quick-familiarity-1
 ready: true
 submission_type: link
+tags:
+- teaching
 title: Chapter 1 - High Standards
 ---
 
@@ -27,4 +30,4 @@ These are the 5 techniques covered in the chapter:
 3. What 1 system/change do you think Umuzi should put in place to improve how we uphold high academic standards? Describe your suggested system/change in at least 3, but no more than 6 short paragraphs. 
 
 Answer each of the above objectives in no more than 300 words. 
-Do this on a Google doc and submit a link to the doc. MAKE SURE THAT THE SHARING PERMISSIONS ALLOW ANYONE ON THE INTERNET TO VIEW THE FILE! 
+Do this on a Google doc and submit a link to the doc. MAKE SURE THAT THE SHARING PERMISSIONS ALLOW ANYONE ON THE INTERNET TO VIEW THE FILE!

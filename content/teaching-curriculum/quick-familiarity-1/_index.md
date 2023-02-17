@@ -1,5 +1,8 @@
 ---
+_db_id: 847
 content_type: project
+flavours:
+- none
 prerequisites:
   hard:
   - teaching-curriculum/introducing-teach-like-a-champion
@@ -9,7 +12,6 @@ tags:
 - teaching
 title: Quick Familiarity - Part 1
 ---
-
 
 As mentioned in the introductory topic of the course, the point of the quick familiarity projects is to do a quick skim of all of the techniques in the book, just to introduce you to the ideas and make sure that we can all start using the common language that the book provides for talking about nuanced teaching practices. We’ll practice the techniques more thoroughly later, but for now let's get just acquainted with them.
 
@@ -25,4 +27,4 @@ To keep the projects bite-sized, we'll look at just 3 chapters at a time and do 
 
 Describe each of the above in no more than 300 words. 
 Do this on a Google doc and submit a link to the doc. 
-MAKE SURE THAT THE SHARING PERMISSIONS ALLOW ANYONE ON THE INTERNET TO VIEW THE FILE! 
+MAKE SURE THAT THE SHARING PERMISSIONS ALLOW ANYONE ON THE INTERNET TO VIEW THE FILE!

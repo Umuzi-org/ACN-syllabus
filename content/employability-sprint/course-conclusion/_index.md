@@ -22,5 +22,3 @@ You should now have the following set up to assist you in the next step of your 
 ### We would appreciate your honest feedback
 
 Our learners are the most important stakeholders in our organisation. Please complete [this survey](https://airtable.com/shrZxssOwH3g0H3Cd) to help us understand your experience of the sprint. This will help us to better understand your needs and keep on getting better at creating tools and products to support your journey.
-
-

@@ -2,24 +2,24 @@
 _db_id: 219
 content_type: project
 flavours:
-  - any_language
+- any_language
 learning_outcomes:
-  - code_algorithmic_thinking
-  - code_pseudo_code
-  - code_problem_decomposition
-  - code_control_flow
-  - code_naming_convention
-  - code_code_documentation
-  - code_basic_calculation
+- code_algorithmic_thinking
+- code_pseudo_code
+- code_problem_decomposition
+- code_control_flow
+- code_naming_convention
+- code_code_documentation
+- code_basic_calculation
 prerequisites:
   hard:
-    - topics/reopening-pull-request
+  - topics/reopening-pull-request
 ready: true
 story_points: 3
 submission_type: repo
 tags:
-  - algorithms
-  - clean-code
+- algorithms
+- clean-code
 title: Level 1 coding challenges
 ---
 
@@ -36,7 +36,24 @@ The exercises below are meant to be language-agnostic. If we use the word `print
 
 If we say a function takes an input then we don't mean you should ask the user to type something. What we need is a function parameter or argument.
 
-## Note to web devs:
+## Function naming conventions
+
+Please follow standard naming conventions for the language you are using. For example if we say a function is named `isSixtyThree` then that is a totally valid name in Javascript. But in Python, a better name would be `is_sixty_three`. We always follow the naming conventions of the language we are writing in. 
+
+## Naming your files
+
+If you are writing Python code your directory structure should look like:
+```
+├── task1.py
+├── task2.py
+├── task3.py
+...
+```
+In other words, there should be no directories. Only modules. 
+
+If you are writing JS code then your files would follow a similar pattern. You would just have `.js` instead of `.py` files.
+
+## Note to Javascript developers:
 
 - Please don't submit any HTML or CSS. Please don't use `document.write`. We are interested in seeing how you implement these algorithms. Use `console.log` if you are asked to print things.
 - At the end of every one of your task files you need to export the function. You do this by including an export statement like this:
@@ -93,12 +110,14 @@ Write a function `multiples` without parameters that prints the sum of all the m
 
 ## Task 2
 
-Write a function `hasThree` that takes 2 numbers as input.
+Write a function called `hasThree` or `has_three` that takes 2 numbers as input.
 If either of the numbers is 3 and the sum of the numbers contains a 3 then return true. Otherwise, return false.
+
+Remember to choose the best function name for the language you are working in.
 
 ## Task 3
 
-Write a function `isSixtyFive` that takes 2 numbers as input.
+Write a function called `isSixtyFive` or `is_sixty_five` that takes 2 numbers as input.
 If either of the numbers is 65, or if the sum of the numbers is 65 then return true. Otherwise, return false.
 
 ## Task 4
@@ -209,7 +228,7 @@ Also, the output lists should maintain the list items in the original order in w
 
 **Task 6**
 
-- If there are strings with the same length, all should be printed in "next line" form.
+- If there are strings with the same length, they should each be printed on a new line
 
 **Task 7**
 
