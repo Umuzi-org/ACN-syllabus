@@ -93,6 +93,7 @@ Please fetch the maximum number of PRs per page(100) to avoid making too many ap
 
 - [An introduction to curl using GitHub's API](https://gist.github.com/tazjel/8735770).
 - [Traversing with pagination](https://docs.github.com/en/rest/guides/traversing-with-pagination#basics-of-pagination).
+- [Crash course video tutorial on Github's API](https://www.youtube.com/watch?v=5QlE6o-iYcE)
 
 ## Instructions for reviewers
 
