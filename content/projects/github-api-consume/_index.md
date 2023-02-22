@@ -87,6 +87,8 @@ For example, without pagination you would have to load an entire chat history ju
 
 Please implement pagination. Your `get_pull_requests` function should return a list/array of ALL the matching pull requests, not just the first page.
 
+Please fetch the maximum number of PRs per page(100) to avoid making too many api calls.
+
 ## Resources
 
 - [An introduction to curl using GitHub's API](https://gist.github.com/tazjel/8735770).
