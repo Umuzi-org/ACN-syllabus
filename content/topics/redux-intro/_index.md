@@ -34,7 +34,7 @@ There are a few concepts that are super important
 
 ### Store
 
-Lets say you are making a TODO application. This application has a beautiful frontend that automatically renders your todo items from a datastructure. Something like this:
+Lets say you are making a TODO application. This application has a beautiful frontend that automatically renders your todo items from a data structure. Something like this:
 
 ```
 const store = {
@@ -76,7 +76,7 @@ So if we wanted Redux to actually add a thing to our todo list we would do somet
 dispatch({type: "ADD_TODO", title: "pay rent"})
 ```
 
-This is kinda a pain to write out so usually instead of doing thigs like this we make use of action creators. Eg:
+This is kinda a pain to write out so usually instead of doing things like this we make use of action creators. Eg:
 
 ```
 const ADD_TODO = "ADD_TODO"
@@ -143,10 +143,10 @@ Here are some benefits:
 
 Look up the "Command Pattern" . Redux isn't the same but it's super powers are very similar. Therefore there are similar applications.
 
-- Frontend development: different buttons, inputsand widgets dispatch different actions in a predictable way
+- Frontend development: different buttons, inputs and widgets dispatch different actions in a predictable way
 - Actions can be grouped. Meaning we can dispatch one action that dispatches a whole lot of different actions
 - Macro recording. We can record the actions a user takes so that we can replay them later
-- Reducers can be in a seperate code-base. we can send actions over a network and dispatch them elsewhere, we can send the same action to multiple computers to allow parallel processing
+- Reducers can be in a separate code-base. we can send actions over a network and dispatch them elsewhere, we can send the same action to multiple computers to allow parallel processing
 - undo/redo functionality becomes trivial
 - feedback: if a number of actions need to be completed in order to complete a large task then we can track the completion of those actions and update a progress bar
 - Actions can be added to a task queue instead of being dispatched immediately
