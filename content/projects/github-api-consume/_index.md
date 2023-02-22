@@ -29,6 +29,18 @@ In this project, you'll make use of Github's awesome API. We chose Github for th
 - The API is really well documented
 - The API is solidly built and a lot of people use it
 
+## Set up your environment
+
+### JavaScript
+
+Your directory structure should look like this.
+
+```
+├── src
+|   └── consume_github_api.js
+└── package.json
+```
+
 ## Instructions
 
 First, get familiar with consuming APIs from the command line. Play with this. [Getting started with the Github API V3](https://developer.github.com/v3/guides/getting-started/).
