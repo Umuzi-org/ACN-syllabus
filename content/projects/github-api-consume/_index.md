@@ -95,5 +95,4 @@ Please implement pagination. Your `get_pull_requests` function should return a l
 - Ensure that the list of PRs matches the one in the instructions above when called with those arguments(the `state` and `title` property may not be the exact same).
 - Ensure that the function works with any GitHub user and repository name, meaning that the function should not only work with one user/repo name.
 - Ensure that the function returns the output. Printing the output is insufficient
-- Ensure that the correct error/exception messages are used when trying to handle errors, if an incorrect user or repo was passed in a function call then the error messages should be explicit e.g. `Error 404 User or Repo Not Found`.
 - Ensure that the output is a list/array and depending on the dates passed in, if there were no open, closed, updated or merged PR's between the two dates an empty array/list should be printed out.
