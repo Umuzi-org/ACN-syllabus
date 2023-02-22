@@ -47,6 +47,8 @@ The function should return a list or array of pull requests on the repo such tha
 For each PR include the `id`, `user` (who opened the PR), `title`, `state`, and when it was created.
 While for private repos a token will be required, the function should be able to work on public repos (eg. [ACN-syllabus](https://github.com/Umuzi-org/ACN-syllabus)) without needing a token.
 
+Use this url: `https://api.github.com/repos/{repoOwner}/{repoName}/pulls`. Learn more about it [here](https://docs.github.com/en/rest/pulls/pulls?apiVersion=2022-11-28#list-pull-requests)
+
 **For those using javascript**, please use [the axios library](https://axios-http.com/) for making the API calls.
 
 Export the `get pull request` function from a file named `consume_github_api.js`
