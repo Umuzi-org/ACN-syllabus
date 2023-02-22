@@ -49,6 +49,8 @@ While for private repos a token will be required, the function should be able to
 
 **For those using javascript**, please use [the axios library](https://axios-http.com/) for making the API calls.
 
+Export the `get pull request` function from a file named `consume_github_api.js`
+
 Please be sure to follow the standard naming conventions for your language. As usual.
 
 Make sure the output matches the following when called with the arguments below:
