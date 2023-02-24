@@ -2,18 +2,18 @@
 _db_id: 269
 content_type: project
 flavours:
-- any_language
+  - any_language
 prerequisites:
   hard:
-  - projects/tdd/simple-calculator-part1
-  - language-agnostic/validate-id-number
+    - projects/tdd/simple-calculator-part1
+    - language-agnostic/validate-id-number
   soft: []
 ready: true
 story_points: 3
 submission_type: repo
 tags:
-- tdd
-- error-checking
+  - tdd
+  - error-checking
 title: password-checker
 ---
 
@@ -97,7 +97,7 @@ passwordIsValid(password)
 password_is_valid(password)
 ```
 
-`password_is_valid` will check if the password meets a few different conditions. If one of the below conditions is not met, then the relevant error/exception should be thrown/raised. Python should raise a specific error type. [This resource](https://www.tutorialsteacher.com/python/error-types-in-python) shows the types of errors that we get in Python, and selects the appropriate one for this application. Your error/exception message should match one of the following conditions exactly (word-for-word).
+The `password is valid` function will check if the password meets a few different conditions. If all conditions are met return `true` . If one of the below conditions is not met, then the relevant error/exception should be thrown/raised. Python should raise a specific error type. [This resource](https://www.tutorialsteacher.com/python/error-types-in-python) shows the types of errors that we get in Python, and selects the appropriate one for this application. Your error/exception message should match one of the following conditions exactly (word-for-word).
 
 1. password should exist
 2. password should be longer than 8 characters
@@ -109,7 +109,7 @@ password_is_valid(password)
 
 In the case of (6) above, a special character is a character that is on the keyboard but is not a number or letter. Eg: `{ % & * " '` etc.
 
-Next, implement a function called "password strength":
+Next, implement a function called `password strength`:
 
 ```
 // JavaScript:
@@ -153,5 +153,5 @@ Please don't re-implement the same check in two different places. Good code is D
 
 ## Instructions for reviewers
 
-- For password strength, make sure cases of invalid passwords are checked, for example these passwords are both invalid; `P@ssw 12`, `User1@`.  
+- For password strength, make sure cases of invalid passwords are checked, for example these passwords are both invalid; `P@ssw 12`, `User1@`.
 - Actual passwords should never be printed to the terminal, for example, in assert messages or when raising exceptions.
