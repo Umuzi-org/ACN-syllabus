@@ -2,24 +2,24 @@
 _db_id: 186
 content_type: project
 flavours:
-- any_language
+  - any_language
 learning_outcomes:
-- web_dev_http_requests
-- web_dev_api_call_tools
-- web_dev_restful_apis
-- web_dev_json_data_representation
-- web_dev_api_consumption
+  - web_dev_http_requests
+  - web_dev_api_call_tools
+  - web_dev_restful_apis
+  - web_dev_json_data_representation
+  - web_dev_api_consumption
 prerequisites:
   hard:
-  - topics/apis/basics/
+    - topics/apis/basics/
   soft: []
 ready: true
 story_points: 3
 submission_type: repo
 tags:
-- api
-- github
-- logical-operators
+  - api
+  - github
+  - logical-operators
 title: Consume Github API
 ---
 
@@ -29,13 +29,25 @@ In this project, you'll make use of Github's awesome API. We chose Github for th
 - The API is really well documented
 - The API is solidly built and a lot of people use it
 
+## Set up your environment
+
+### JavaScript
+
+Your directory structure should look like this.
+
+```
+├── src
+|   └── consume_github_api.js
+└── package.json
+```
+
 ## Instructions
 
 First, get familiar with consuming APIs from the command line. Play with this. [Getting started with the Github API V3](https://developer.github.com/v3/guides/getting-started/).
 
 Remember, `curl` is your friend. And so is `man`. (try typing in `man curl` at the command line)
 
-Now, in your language of choice (not bash, use Java, Python or Js) write a function (get_pull_requests) with the input arguments:
+Now, in your language of choice (not bash, use Java, Python or Javascript) write a function (`get_pull_requests` in Python, `getPullRequests` in Java and Javascript) with the input arguments:
 
 - owner
 - repository name
@@ -46,6 +58,12 @@ The function should return a list or array of pull requests on the repo such tha
 
 For each PR include the `id`, `user` (who opened the PR), `title`, `state`, and when it was created.
 While for private repos a token will be required, the function should be able to work on public repos (eg. [ACN-syllabus](https://github.com/Umuzi-org/ACN-syllabus)) without needing a token.
+
+Use this url: `https://api.github.com/repos/{repoOwner}/{repoName}/pulls`. Learn more about it [here](https://docs.github.com/en/rest/pulls/pulls?apiVersion=2022-11-28#list-pull-requests)
+
+**For those using javascript**, please use [the axios library](https://axios-http.com/) for making the API calls.
+
+Export the `get pull request` function from a file named `consume_github_api.js`
 
 Please be sure to follow the standard naming conventions for your language. As usual.
 
@@ -69,6 +87,8 @@ get_pull_requests("Umuzi-org", "ACN-syllabus", "2022-03-01", "2022-03-10")
 ]
 ```
 
+**Note:** the `state` and `title` properties may not be exactly the same because things change. The PR may have been closed and the title may have been updated for many reasons.
+
 ### Pagination
 
 **Pagination** is a process that is used to divide a large dataset into smaller chunks (pages).
@@ -79,19 +99,17 @@ For example, without pagination you would have to load an entire chat history ju
 
 Please implement pagination. Your `get_pull_requests` function should return a list/array of ALL the matching pull requests, not just the first page.
 
-## Javascript learners
-
-Please make use of [axios](https://axios-http.com/docs/intro) to make the http requests.
+Please fetch the maximum number of PRs per page(100) to avoid making too many api calls.
 
 ## Resources
 
 - [An introduction to curl using GitHub's API](https://gist.github.com/tazjel/8735770).
 - [Traversing with pagination](https://docs.github.com/en/rest/guides/traversing-with-pagination#basics-of-pagination).
+- [Crash course video tutorial on Github's API](https://www.youtube.com/watch?v=5QlE6o-iYcE)
 
 ## Instructions for reviewers
 
-- Ensure that the list of PRs matches the one in the instructions above when called with those arguments.
+- Ensure that the list of PRs matches the one in the instructions above when called with those arguments(the `state` and `title` property may not be the exact same).
 - Ensure that the function works with any GitHub user and repository name, meaning that the function should not only work with one user/repo name.
 - Ensure that the function returns the output. Printing the output is insufficient
-- Ensure that the correct error/exception messages are used when trying to handle errors, if an incorrect user or repo was passed in a function call then the error messages should be explicit e.g. `Error 404 User or Repo Not Found`.
 - Ensure that the output is a list/array and depending on the dates passed in, if there were no open, closed, updated or merged PR's between the two dates an empty array/list should be printed out.
