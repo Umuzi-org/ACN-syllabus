@@ -24,9 +24,9 @@ title: Person
 Your directory structure should look like this.
 
 ```
-    ├── src
-    |   └── person.js
-    └── package.json 
+├── src
+|   └── person.js
+└── package.json 
 ```
 
 ### Python
@@ -139,7 +139,6 @@ Mark this as Excellent if:
 1. **There is a separate function just for building the interests string**. If the student makes multiple small, single-purpose, clear functions instead of one giant function then that is good.
 2. Makes use of templating instead of string concatenation as much as possible. In Python this means using f-strings, in Javascript, it means using template literals, in Java, this means using `String.format`.
 3. Also meets normal excellence criteria as specified on Tilde under "HOW DO I CHOOSE A STATUS?".
-
 
 ### Exports
 
