@@ -7,10 +7,9 @@ title: Introduction to Tilde
 
 Welcome to Tilde. We built it with love ❤️
 
-If you are new to agile stuff, it's going to look a little weird. Don't worry. Before you get too deep into how we actually use this thing, it'll be good for you to know a bit about the principles and practices that inspired the design.
+If you are new to agile project management, it's going to look a little weird at first. Don't worry. Before you get too deep into how we actually use this thing, it'll be good for you to know a bit about the principles and practices that inspired the design.
 
 **Please Note:** One of the login mechanisms uses a popups, if you are using ad blockers and popup blockers you will need to turn them off. Please also ensure cookies are enabled in your browser. 
-
 
 Here is little video tour of the first features you'll be interacting with, please note there are 3 videos in this playlist.
 
@@ -44,3 +43,14 @@ And learn to ask questions well! (Yes, this is a skill you can develop)
 **One major difference between a good coder and a bad coder is: Good coders UNDERSTAND the code**
 
 **The goal of any course is to gain skills and understanding. Rushing through content will not help you in the long run. In fact, it will hinder you overall and could even damage your career. It is important to get into good habits around always optimising for understanding now.**
+
+
+## Check your understanding!
+
+It's important to understand everything before you move forward. Test yourself with these quiz questions:
+
+1. What is Tilde and why was it created?
+2. What should you know before using Tilde, according to the text?
+3. What is the purpose of the Kanban board in Tilde?
+4. Why is it important to not rush through the content of the course?
+5. What is the main difference between a good coder and a bad coder?

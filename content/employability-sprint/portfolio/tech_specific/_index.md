@@ -11,7 +11,6 @@ tags:
 title: Portfolio of work - tech guidelines
 ---
 
-# TECH PORTFOLIOS
 ## GitHub Profile Best Practices
 To assess the quality of your work, the hiring manager needs to access your raw code, which makes a solid GitHub profile essential. It needs to show the meaningful and impressive work you’ve done. The code should work reliably, and it needs to be clean and readable.
 

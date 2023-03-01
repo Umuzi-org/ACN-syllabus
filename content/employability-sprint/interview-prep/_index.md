@@ -8,7 +8,7 @@ prerequisites:
 ready: true
 tags:
 - employability-sprint
-title: Interview Preperation
+title: Interview Preparation
 ---
 
 Landing an interview is only half the battle won. The next step is to prepare for your interview. This can cause major anxiety – especially if you are new to the process. 

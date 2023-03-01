@@ -11,7 +11,7 @@ tags:
 title: Portfolio
 ---
 
-# GENERAL GUIDELINES
+## GENERAL GUIDELINES
 **Your portfolio** is the real substance and what employers really care about at the end of the day, as it answers the question: “What are you already able to do for us?”. When creating your portfolio, keep the following in mind:  
 
 - **You need both substance and polish.** You need to have solid projects, but you also need to package them well to concisely communicate what you can do. 
