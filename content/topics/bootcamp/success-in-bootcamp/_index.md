@@ -13,7 +13,7 @@ You will be expected to read and understand a lot of different things.
 
 Be a professional. Do your reading.
 
-This takes a bit of self-discipline and focus.
+This takes a bit of self-discipline and focus. 
 
 **We are looking for self-disciplined people who can focus.**
 
@@ -22,8 +22,9 @@ This takes a bit of self-discipline and focus.
 We've given you a lot of stuff to get through. For some of you it will be WAY too much. Just do your best and **focus on understanding**. If you don't finish all the work it's alright. Just take them one at a time and do your best.
 
 If something has a deadline:
+
 - you'll see the deadline on the Tilde frontend
-- we'll expect you to hit all your deadlines
+- we'll expect you to hit all your deadlines! 
 
 ## Focus on understanding!
 
@@ -128,3 +129,13 @@ When looking at a Kanban board, an easy prioritization hack is: the closer somet
 
 - giving and receiving feedback is a higher priority than doing new work
 - finishing what you have in progress is a higher priority than starting new things
+
+## Check your understanding!
+
+- What is the expected behavior of the learners in this course?
+- What is the importance of understanding the work?
+- What happens if someone ignores the invitations to collaborate on code repositories?
+- What are the communication expectations for learners?
+- Why should learners avoid copying each other's work?
+- What are the consequences of being disrespectful or abusive towards staff members or peers?
+- What should learners do if they need help?

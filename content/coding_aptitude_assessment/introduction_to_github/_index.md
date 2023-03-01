@@ -9,7 +9,7 @@ Time to learn a little bit about Github.
 
 ## Why?
 
-Git and Github are friggin wonderful. Trust me on this. During your time on this learning journey, you'll be using these wonderful tools a lot.
+Git and Github are friggin' wonderful. Trust me on this. During your time on this learning journey, you'll be using these wonderful tools a lot.
 
 We don't just use these tools for fun. We use them because Git is an industry standard tool. If you want to have a solid tech career then it'll serve you to have some solid Git skills.
 

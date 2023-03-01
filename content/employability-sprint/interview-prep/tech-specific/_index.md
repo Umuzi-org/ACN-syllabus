@@ -8,7 +8,7 @@ prerequisites:
 ready: true
 tags:
 - employability-sprint
-title: Technical Interview Preperation
+title: Technical Interview Preparation
 ---
 
 There are many general-purpose guides available on how to prepare for software engineering interviews. This is one of our favourites: [Interviewguide.dev](https://interviewguide.dev/)
@@ -17,7 +17,7 @@ There are many general-purpose guides available on how to prepare for software e
 Often, you’ll need to first pass technical tests at home before even getting into the room with a human recruiter. Code tests are a quick and easy (and highly automated) way to assess whether you have the basic skills needed to land the interview. Normally they don’t expect juniors to get 100%, but they do want to get a better understanding of your skills.
 
 ### Preparation
-Practice makes perfect and there are many  sites that allow you to practise your coding skills.
+Practice makes perfect and there are many  sites that allow you to practice your coding skills.
 
 Focus on your general problem-solving skills. These links are great for this: 
 
