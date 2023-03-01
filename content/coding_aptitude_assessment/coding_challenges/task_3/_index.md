@@ -23,3 +23,9 @@ For example:
 ## Did you know that...
 
 Most self taught coders don't know the difference between print and return. Make sure that you understand the difference. It really matters a lot if you want to build anything significant.
+
+## Check your understanding! 
+
+- what does it mean for a function to `return` something? 
+- how is return different from printing?
+- would you know how to write a function that tells if a number is divisible by 6? 

@@ -51,3 +51,10 @@ Some learners will be moving to alternate programmes following this, but as long
 ### Part 2: Addressing review feedback
 
 {{% youtube OTb8VoZHvpM %}}
+
+
+## Check your understanding! 
+
+- What does it mean to "print"?
+- What is a function?
+- What is a string? How does that compare to integers? 

@@ -20,3 +20,13 @@ Write a function that takes in a single optional parameter. It should work like 
 `task2("Sally")` should print `Hello Sally!`
 `task2("Tshepo")` should print `Hello Tshepo!`
 `task2()` should print `Hello Friend!`
+
+## Check your understanding! 
+
+- How do function arguments/parameters work? 
+- What happens if you pass in too many arguments? 
+- How do you make an argument optional?
+- How do you join multiple strings together?
+- Did you use an if statement here? How was it used? 
+- If you used an if statement, what happens if you don't fill in the `else` part? 
+- when are multiple strings considered equal? Would this be true or false: `"Hello Sally" == "Hello, Sally"` (try it yourself to see)

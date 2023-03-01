@@ -31,16 +31,14 @@ In the background, we mark your tests and figure out who might be able to make i
 
 You are here.
 
-We make decisions about who is in and who is out in our bootcamp.
+This is a selection bootcamp. If you do well then you'll be invited to take part in one of our main Umuzi courses. This is a fantastic opportunity, basically everyone who finishes our courses go on to have awesome careers!
 
 We've found that our learners do best when they are able to:
 
 - **hold themselves accountable** if we bring people onto the programme who aren't willing to do their homework without being pulled into disciplinary hearings then that's a giant waste of time. We are looking for adults who we can trust to get things done.
-- **pursue understanding** those people who copy random bits of code off the Internet don't go far in life
+- **pursue understanding** those people who copy random bits of code off the Internet don't go far in life. If you do not understand the work that you cover in the bootcamp then you wont pass. 
 
 The bootcamp is run using our own custom built learning platform. There will be a bit of a learning curve and you'll probably get confused, but there will be staff on hand to help you out if you get stuck. Please make sure you ask questions when you get stuck!
-
-During the bootcamp you'll have a bit of work to do, and you'll have a few interviews and tests with different people.
 
 PLEASE NOTE: the bootcamp should be treated like a full time job! Spend at least a full workday on your course every single day!
 
@@ -49,7 +47,7 @@ It is your responsibility to:
 - make sure you have the time and space to do this
 - make sure you are available for all your scheduled interviews, tests and workshops
 
-Here at Umuzi, we require professional behavior.
+Here at Umuzi, we require professional behavior
 
 - A professional shows up and does the work
 - A professional pursues understanding
@@ -81,9 +79,9 @@ There are different kinds of learners on different programmes with different req
 
 The next phase is learning. You'll be familiar with how we do things from going through our bootcamp. We'll give you a whole lot of learning to do, and lots of projects and assessments to hone your mad skillz.
 
-You'll be expected to work like a real professional. You will be immersed in modern agile development practices from day 1. You'll learn hard skills, "soft" skills (which are by no means easy), interact with your peers and overcome challenges you never thought you could.
+You'll be expected to work like a real professional. You will be immersed in modern agile practices from day 1. You'll learn hard skills, "soft" skills (which are by no means easy), interact with your peers and overcome challenges you never thought you could.
 
-At the end of this you'll have an NQF level 5 National Certificate, and some solid, proven skills, and a network of high potential indviduals who know what you are about.
+At the end of this you'll have an NQF level 5 National Certificate, and some solid, proven skills, and a network of high potential individuals who know what you are about.
 
 ### 6. Use your skills
 
@@ -105,12 +103,11 @@ If we believe that you are work-ready then we hustle to get you an internship at
 
 This does all depend on the size and shape of your contract, sometimes the corporate partner who is sponsoring your learnership has different plans for you. So the external work experience isn't a 100% certain thing for everyone.
 
-
 ### 8. Job time! But it's not the end...
 
 Once your time with us is up you should be ready for work. As long as you put in the effort during our course and behave professionally then you'll be good to go.
 
-We have a team of recruitment ninjas and a large network of employer partners. We're pretty good at placing people in jobs.
+We have a team of recruitment ninjas and a large network of employer partners who trust our opinion. We're very good at helping people get jobs.
 
 We'll work hard to get you placed in a job, and if your job doesn't last for whatever reason then you can get in touch with us and we'll work hard to hook you up again.
 
@@ -122,8 +119,15 @@ Once you have gone through our programme you are one of the family and we'll con
 
 As mentioned, if you are ever in need of a job you can let us know and we'll work hard to get you sorted out. Our recruitment ninjas are always happy to assist, and our network of employer organizations keeps growing.
 
-On top of that, we will support your continued learning by keeping our platform and syllabus open to you. You'll be able to register for other courses that we run, some of those courses will be advanced specializations. When you complete these courses we'll be able to give you our stamp of approval.
+On top of that, we will support your continued learning by keeping our platform and syllabus open to you (so long as you keep contributing feedback to your peers). You'll be able to register for other courses that we run, some of those courses will be advanced specializations. When you complete these courses we'll be able to give you our stamp of approval.
 
-Our course offerings grow all the time. Maybe you are a web dev who wants to learn about cross platform mobile development, we'll hook you up! Maybe you are a data-scientist and you want to learn about productionising your pipelines, we got you!
+Our course offerings grow all the time. Maybe you are a web dev who wants to learn about cross-platform mobile development, we'll hook you up! Maybe you are a data-scientist and you want to learn about productionising your data pipelines, we got you!
 
-### And they all lived happily ever after
+## Check your understanding!
+ 
+- What is Umuzi's mission?
+- What is the selection process for becoming a learner at Umuzi?
+- What are the expectations of Umuzi learners during the bootcamp?
+- What is provisional acceptance and what are some of the criteria that must be met before being accepted?
+- What happens during the learning phase at Umuzi?
+- What are some of the opportunities that can be available to Umuzi learners during their contract period?

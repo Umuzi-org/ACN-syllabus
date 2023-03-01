@@ -38,7 +38,7 @@ Each task will require that you write a single function. Please name the functio
 
 Task 1's function should be named `task1`  (so you will start off by writing `function task1(`), and task 2's function should be named `task2`, etc.
 
-### Exports
+### Exports - CRITICAL INFO FOR JAVASCRIPT LEARNERS
 
 > This is only necessary for JavaScript developers.
 
@@ -60,3 +60,10 @@ function task1(){
 module.exports = { task1 };
 
 ```
+
+## Check your understanding!
+
+- Why is it important to pay attention to file and function naming conventions in coding challenges?
+- If you are doing the coding challenge in Python, what is the naming convention for the files and functions for Task 1?
+- What is the naming convention for the files and functions for Task 2 in a Javascript coding challenge?
+- For Javascript developers, what is the critical information to include at the end of each task file to ensure the bot can access the functions?

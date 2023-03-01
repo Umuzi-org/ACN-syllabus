@@ -24,3 +24,12 @@ If a vowel appears twice in the input string then it should appear twice in the 
 Example usage:
 
 `task9("Hello there Andy")` should return `["a","e","e","e","o"]`
+
+## Check your understanding 
+
+- how would you change your code if you wanted to handle multiple strings?
+- how would you change your code if you wanted to look for numbers or special characters?
+- if you used a loop then what kind of loop did you use and why? 
+- how would you change your code if you wanted to return 2 lists/arrays: one with all the vowels and one with all the consonants 
+- how would you change your code if we just wanted to count how many vowels were in the string?
+- play with these ideas, challenge yourself and grow :)

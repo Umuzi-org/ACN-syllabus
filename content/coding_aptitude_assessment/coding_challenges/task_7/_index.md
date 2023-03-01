@@ -14,3 +14,15 @@ title: 'Coding aptitude assessment challenge: Task 7'
 ---
 
 Write a function that takes in a number representing the temperature in Celsius and returns the temperature in Fahrenheit.
+
+## Check your understanding 
+
+Will the following calculations give different results? Try to predict the answer before opening up a terminal and checking for yourself.
+
+```
+1 + 2 / 3 * 4
+(1 + 2) / 3 * 4
+4 * 1 + (2 / 3)
+```
+
+Try a few things out and make sure you understand the order of operations

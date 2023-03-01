@@ -23,3 +23,8 @@ Again, the function should expect a bunch of numbers as input, not an array or l
 task6([1,2,44,3])  // BAD
 task6(1,2,44,3)    // GOOD
 ```
+
+## Check your understanding
+
+- what kinds of loops do you know of? What are they for? How do they differ?
+- will your code work if there are 50 numbers passed into your function?
