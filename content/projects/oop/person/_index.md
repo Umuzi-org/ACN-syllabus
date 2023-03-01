@@ -36,7 +36,6 @@ Please name your files and folders like this:
 ```
 ├── person   the package under test
 │   └── person.py
-├── requirements.txt    installation requirements
 └── setup.py            installation script for the package under test
 
 ```
