@@ -1,10 +1,11 @@
 ---
-title: Dealing with anxiety (for coders)
+_db_id: 849
 content_type: topic
 ready: true
 tags:
 - soft-skills
 - anxiety
+title: Dealing with anxiety (for coders)
 ---
 
 Basically all developers need to face anxiety in their work. While a developer is still learning to code they might face written or verbal tests; and they might need to speak up in front of their peers. When a developer is looking for a job they might need to pass tests, and they'll definitely need to deal with job interviews. 
@@ -133,4 +134,4 @@ Don't let yourself be limited by those beliefs. You just haven't had much of a c
 
 ## Disclaimer
 
-Anxiety is mediated by brain chemicals, that stuff is complicated. There is such a thing as an anxiety disorder, some people actually need therapy or medication to deal with anxiety. Most people don't. This article is about a more average kind of anxiety. 
+Anxiety is mediated by brain chemicals, that stuff is complicated. There is such a thing as an anxiety disorder, some people actually need therapy or medication to deal with anxiety. Most people don't. This article is about a more average kind of anxiety.

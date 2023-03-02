@@ -31,4 +31,4 @@ Coders are precise so it is important to focus here. The output should show the 
 - can you think of different numbers you can pass into your function in order to test that it is working? Eg, what should `task8(0)` do? Does it do the right thing? 
 - imagine you were checking to see if someone else's code worked. What numbers would you pass in? What should the output be? Can you test your own code in the same way?
 - when should the word "minute" be used? When should the word "minutes" be used? 
-- how about "hour" and "hours" 
+- how about "hour" and "hours"

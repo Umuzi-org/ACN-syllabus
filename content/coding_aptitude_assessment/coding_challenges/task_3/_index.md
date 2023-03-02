@@ -28,4 +28,4 @@ Most self taught coders don't know the difference between print and return. Make
 
 - what does it mean for a function to `return` something? 
 - how is return different from printing?
-- would you know how to write a function that tells if a number is divisible by 6? 
+- would you know how to write a function that tells if a number is divisible by 6?

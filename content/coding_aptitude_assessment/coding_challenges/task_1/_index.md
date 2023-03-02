@@ -57,4 +57,4 @@ Some learners will be moving to alternate programmes following this, but as long
 
 - What does it mean to "print"?
 - What is a function?
-- What is a string? How does that compare to integers? 
+- What is a string? How does that compare to integers?

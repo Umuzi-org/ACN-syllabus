@@ -5,7 +5,6 @@ ready: true
 title: Reopening a Pull request
 ---
 
-
 Pull requests are an excellent approach to communicating proposed code changes for review and receiving feedback from staff and other learners. This usually leads to dialogues and suggestions in the comments, which may lead to more code changes.
 
 While comments and feedback are useful for enhancing code quality, they can easily be lost. To ensure that data isn't lost and a consistent system of record is created, it is worth noting that you are expected to REOPEN a closed Pull request if changes are requested. 

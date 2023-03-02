@@ -7,11 +7,11 @@ prerequisites:
   hard:
   - coding_aptitude_assessment/introduction_to_github
   - environment-setup
-tags:
-- close_on_peer_reviews
 protect_main_branch: false
 ready: true
 submission_type: repo
+tags:
+- close_on_peer_reviews
 title: 'Tilde project tutorial: Simple repository projects'
 ---
 
