@@ -14,13 +14,12 @@ submission_type: link
 tags:
 - employability
 - close_on_peer_reviews
-- docx
 title: Submit your CV
 ---
 
 ## Task Description
 1. Using the content in the previous sections update your current CV, or create a new CV. Remember to go through the content in detail and apply all the learnings. 
-2. Upload a link to your CV (make sure the share settings is set so *“Anyone with the link”* can view the document)
+2. Upload a link to your CV (make sure the share is set so *“Anyone with the link”* can view the document)
 
 ## Instructions for reviewer
 - Check that the CV is structured well and easy to read and follow
