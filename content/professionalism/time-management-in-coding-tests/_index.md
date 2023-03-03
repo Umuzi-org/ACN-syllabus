@@ -1,6 +1,6 @@
 ---
 _db_id: 621
-content_type: workshop
+content_type: topic
 ready: true
 title: How to plan your time during a coding test
 ---

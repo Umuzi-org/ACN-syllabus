@@ -3,6 +3,11 @@ _db_id: 280
 content_type: project
 flavours:
 - javascript
+learning_outcomes:
+- web_dev_file_system
+- web_dev_json_file_creation
+- web_dev_classes
+- web_dev_methods_and_functions
 pre: '<b>1: </b>'
 prerequisites:
   hard:
@@ -18,7 +23,7 @@ title: Node & File IO
 weight: 1
 ---
 
-You are required to create a back-end service that will help capture basic information about prospective students who come to inquire here at Umuzi. In this project you'll just be storing and retrieving information from plain old json files.
+You are required to create a backend service that will help capture basic information about prospective students who come to inquire here at Umuzi. In this project, you'll just be storing and retrieving information from plain old JSON files.
 
 ## Instructions
 
@@ -29,7 +34,7 @@ You are required to create a back-end service that will help capture basic infor
 - date of visit
 - time of visit
 - comments
-- name of the person who assisted the visitor
+- the name of the person who assisted the visitor
 
 2. Create a function called `save` that saves the visitor's data to a JSON file. The file name should be named like this `visitor_{their_full_name}.json`.
 
@@ -41,7 +46,7 @@ charlie.save() # results in visitor_charley_sheen.json
 
 Notice that the full name used in the file is all lower-case and spaces are replaced by underscores.
 
-3. Create a function called `load` that takes in a name and then grabs a Visitor object from file. It should simply `console.log` the visitor.
+3. Create a function called `load` that takes in a name and then grabs a Visitor object from a file. It should simply `console.log` the visitor.
 
 eg:
 
@@ -63,7 +68,7 @@ load("Bob Marley")
 
 Here are some upgrades you can add to your project if you are up for it.
 
-4. Update your `load` function so that it returns an instance of `Visitor` instead of just `console.log`ging it. You'll need to learn a little bit about Syncronous versus Asyncronous code to get this one right :)
+4. Update your `load` function so that it returns an instance of `Visitor` instead of just `console.log`. You'll need to learn a little bit about Synchronous versus Asynchronous code to get this one right :)
 
 5. Make use of integer ids when saving things to files.
 
@@ -77,6 +82,7 @@ charlie.save() # results in visitor_3.json
 alice.comments = "Kinda weird, I don't think he'll fit in"
 alice.save()   # results in an UPDATE to visitor_1.json
 ```
+- Do not overwrite existing `.json` files when `save()` is called on a different instance.
 
 Your load function should also get a bit of an update.
 
@@ -85,3 +91,12 @@ charlie = load(3)
 charlie.comments = "Winning!"
 charlie.save() # results in an UPDATE to visitor_3.json
 ```
+
+## Instructions for a reviewer
+
+- The load function can either log or return the visitor. Either is fine.
+- Edge cases should be catered for. The learner should make sure that the load function takes in the proper data type.
+- The learner should use mocks and spies when testing this project since the project requires interacting with the file system.
+- Please pay careful attention to DRY code. A common problem is that learners write the same logic multiple times. 
+
+ > Imagine that the code produced by the learner needs to be maintained, imagine that some parts of the code will have to change over time. Ideally, changes to the code should be made just once, and that change should affect everything else without going through the file(s) looking to change the same thing.

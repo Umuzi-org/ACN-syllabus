@@ -1,5 +1,5 @@
 ---
-_db_id: 214
+_db_id: 218
 content_type: project
 flavours:
 - java
@@ -8,118 +8,99 @@ prerequisites:
   hard:
   - projects/java-specific/introduction-to-spring-boot/part-1
   - projects/java-specific/introduction-to-spring-boot/part-2
-  - topics/java-specific/introduction-to-spring-boot/part-3
+  - topics/java-specific/introduction-to-spring-boot/part3
   soft: []
 ready: true
 submission_type: continue_repo
 tags:
 - spring-boot
-- rest-api
-- mvc
 - annotations
-title: Introduction to Spring Boot - part 3
+- unit-testing
+- caching
+- security
+title: Intro to spring boot project - Part 3
 ---
 
-We are going to focus on creating a REST api that will serve as a end point to our sping boot java application.
+We are going to work on Spring boot **Caching** and **Security** for the project we created in part1 and part2
 
-## Service
+## Caching
 
-Continuing with {{% contentlink path="projects/java-specific/introduction-to-spring-boot/part-1" %}} for the **User** we are going to expose a **REST endpoint** to the application and we will use test to see if the application does what we want it to.
+Continuing with {{% contentlink path="projects/java-specific/introduction-to-spring-boot/part-2" %}} for the **User** we are going to add **security** and **caching** on the application and we will use test and browser to see if the application does what we expect.
 
 **Step 1**
 
-Create a Controller Class based on the spring MVC infrastructure. This will be used to expose the endpoint.
+Import the following dependency
 
 ```
-package controller;
-
-public class UserController {
+dependencies {
+    compile 'org.springframework.boot:spring-boot-starter-cache'
 }
 ```
 
 **Step 2**
 
-Add two spring annotations to indicate:
-1 - The REST Controller above the class declaration.
-2 - The route URL extension to reach this controller.
+Implement caching for the 'name' in the "getUser" method, use the right annotation to invoke this 😉, in order to see if something is being served from cache or not we are going to simulate our own delay.
+
+Add this code on your getUser method just before the return statement
 
 ```
-package controller;
-
-//add here.
-//add your specified route as input parameter to your annotation.
-public class UserController {
+try
+{
+    System.out.println("Going to sleep for 5 Secs.. to simulate backend call.");
+    Thread.sleep(1000*5);
+}
+catch (InterruptedException e)
+{
+    e.printStackTrace();
 }
 ```
 
-**Step 3**
+Use the rest API you created in Part 2 to test your cache
 
-Add the annotation to your UserServiceImpl that indicated class previously created in {{% contentlink path="projects/java-specific/introduction-to-spring-boot/part-1" %}} is a service.
+Write an integration test (Testing in which individual software modules are combined and tested as a group) that will call the endpoint which invokes the `getUser` function four times
+
+Expect output
+
+**Without Cache:**
 
 ```
-//add annotation here.
+Going to sleep for 5 Secs.. to simulate backend call.
+Going to sleep for 5 Secs.. to simulate backend call.
+Going to sleep for 5 Secs.. to simulate backend call.
+Going to sleep for 5 Secs.. to simulate backend call.
 
-public class UserServiceImpl{
-    addUser(name, surname) // should call insert(name, surname) from FakeRepo and print to console '[name] entered'
+```
 
-	removeUser(Id) // should call delete(id) from FakeRepo and print to console '[name] removed'
+**With Cache:**
 
-	getUser(Id) // should call find(id) from FakeRepo and print to console 'hello [name]'
+```
+Going to sleep for 5 Secs.. to simulate backend call.
+...
+...
+...
 
-	[name] - replaced with actual name
-    }
+```
+
+## Security
+
+Import the following dependency
+
+```
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter-security'
 }
-
 ```
 
-**Step 4**
+**Step 1**
 
-Specify all your methods inside the UserServiceInterface then implement all methods in the UserServiceImpl.
+Override the neccessary functions in the WebSecurityConfigurer class to configure your own username and password
 
-**Step 5**
+**Step 2**
 
-1 - Do the following in the UserController.
+Add a test to show that your username and password actually work to override the default one
 
-2 - Use the Put, Delete, Get spring annotations to map the respective services.
+## Resource 😉
 
-3 - Do not forget to mark the input parameter as a Request Body if you are receiving data in the body of the object.
+https://howtodoinjava.com/spring-boot2/spring-boot-cache-example/
 
-4 - If you are receiving the data as url parameter - mark variable as a Path Variable.
-
-5 - If you are receiving the data as a query parameter - mark variable as a query parameter.
-
-Example
-
-```
-	@PutMapping
-    public ResponseEntity<String> update(@RequestBody Customer customer)
-    {
-        customerService.update(customer);
-        ResponseEntity<String> responseEntity = new ResponseEntity("Success!", HttpStatus.NO_CONTENT);
-        return responseEntity;
-    }
-
-```
-
-**Step 5**
-
-Do not forget to write integration tests for the endpoints(addUser, getUserById, removeUser) in your controller using MockMVC or TestRestTemplate.
-
-- All CRUD operations defined in your services should be accompanied by corresponding unit test,
-  using the relevant spring annotations as in {{% contentlink path="projects/java-specific/introduction-to-spring-boot/part-1" %}}.
-
-**Side Notes**
-1 - Please remember to test your end points using postman. If you need help with using postman access the using postman link.
-
-2 - Add at least one image of a successful request using postman.
-3 - The first resource link shows you everything you need to do to complete this project from start to finish if you struggle with any step.
-4 - This project assumes you have set up your Postgress connection as it is an extension of part1 and part2 of the Spring Boot Series.
-5 - Please create a new branch labeled **part3**
-**Happy Coding...**
-
-## Resources
-
-https://dzone.com/articles/expose-restful-apis-using-spring-boot-in-7-minutes
-https://www.google.com/search?q=using+postman&oq=using+postman&aqs=chrome..69i57j0l7.2559j0j7&sourceid=chrome&ie=UTF-8#kpvalbx=_WISeXrbFAZaY1fAPp6eFmA449
-https://dzone.com/articles/creating-a-rest-api-with-java-and-spring
-https://github.com/nikeshpathak/customer-demo-webservice/blob/master/src/main/java/com/example/customer/demo/controller/CustomerCtrl.java
+https://www.baeldung.com/spring-security-integration-tests

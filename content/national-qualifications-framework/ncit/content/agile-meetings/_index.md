@@ -131,7 +131,7 @@ Optimal Development Team size is small enough to remain nimble and large enough 
 #### The Scrum Master
 The Scrum Master is responsible for promoting and supporting Scrum as defined in the Scrum Guide. Scrum Masters do this by helping everyone understand Scrum theory, practices, rules, and values.
 
-The Scrum Master is a servant-leader for the Scrum Team. The Scrum Master helps those outside the Scrum Team understand which of their interactions with the Scrum Team are helpful and which aren’t. The Scrum Master helps everyone change these interactions to maximize the value created by the Scrum Team.
+The Scrum Master is a servant-leader for the Scrum Team. The Scrum Master helps those outside the Scrum Team understand which of their interactions with the Scrum Team are helpful and which are not. The Scrum Master helps everyone change these interactions to maximize the value created by the Scrum Team.
 
 **Scrum Master Service to the Product Owner**
 

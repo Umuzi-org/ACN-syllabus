@@ -3,6 +3,12 @@ _db_id: 233
 content_type: project
 flavours:
 - python
+learning_outcomes:
+- data_sci_eda
+- data_sci_handle_categorical_variables
+- data_sci_justify_feature_selection
+- data_sci_linear_model_evaluation
+- data_sci_cross_validation
 pre: '<b>MEDIUM: </b>'
 prerequisites:
   hard:

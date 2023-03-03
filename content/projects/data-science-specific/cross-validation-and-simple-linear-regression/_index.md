@@ -3,6 +3,14 @@ _db_id: 234
 content_type: project
 flavours:
 - python
+learning_outcomes:
+- data_sci_eda
+- data_sci_cross_validation
+- data_sci_handle_categorical_variables
+- data_sci_justify_feature_selection
+- data_sci_linear_model_evaluation
+- data_sci_linear_model_summary
+- data_sci_linear_model_overfitting
 pre: '<b>MEDIUM: </b>'
 prerequisites:
   hard:
@@ -53,7 +61,7 @@ Import the data [salary.csv](salary.csv) to a Jupyter Notebook. A description of
 
 ### Steps and questions
 
-1. Split your data into a training and test set. Leave the test set for now. Examine the training data for missing and extreme values. Create histograms to show the distribution of the variables and a scatterplot showing the relationship between Years Worked and Salary. Are the data appropriate for linear regression? Is there anything that needs to be transformed or edited first?
+1. Split your data into a training and test set. Leave the test set for now. Examine the training data for missing and extreme values. Create different histograms to show the distribution of each variable in your dataset. Create a scatterplot showing the relationship between Years Worked and Salary. Are the data appropriate for linear regression? Is there anything that needs to be transformed or edited first?
 
 2. Using the ``statsmodels`` package and the _training data_, run a simple linear regression for Salary with one predictor variable: Years Worked.
    - Does the model significantly predict the dependent variable? Report the amount of variance explained (R^2) and significance value (p) to support your answer.

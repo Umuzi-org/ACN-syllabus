@@ -75,7 +75,7 @@ class Main{
 
 ### Inheritance
 
-Inheritance can be thought of an an "is a" relationship.
+[Inheritance](https://www.scaler.com/topics/java/inheritance-in-java/) can be thought of an an "is a" relationship.
 
 The following Java code shows how Inheritance can be implemented. In this example we have a superclass called `Vehicle`. a `Bakkie` is a `Vehicle`, and a `Beatle` is a `Vehicle`. So both these child classes do vehivle things and have vehicle attributes, but layer on a bit of extra behavior.
 

@@ -5,19 +5,17 @@ ready: true
 title: Getting set up to write code on your device
 ---
 
-You'll need to be set up so that you can write and run code on your own device. There are a few options here. Please follow the appropriate link:
+You'll need to be set up so that you can write and run code on your own device. There are a few options here.
 
-## Before you do anything
+## Different languages work differently
 
-Make sure git is installed.
+If you are here for web dev, you'll be learning JavaScript, if you are here for Data Science or Data Engineering you'll be doing Python. And if you are doing our Java course, follow the Java instructions.
 
-{{% contentlink path="environment-setup/git" %}}
+We run quite a few different courses so if you are unsure what language you'll be using then you can scroll down on your Tilde backlog. You'll be able to see some Topics and Projects that tell you what language you are using.
 
 ## If you have a computer
 
 Please follow the instructions below based on the language you are going to be using.
-
-If you are here for web dev, you'll be learning JavaScript, if you are here for Data Science or Data Engineering you'll be doing Python. And if you are doing our Java course, follow the Java instructions.
 
 - {{% contentlink path="environment-setup/javascript-on-computer" %}}
 - {{% contentlink path="environment-setup/python-on-computer" %}}
@@ -39,11 +37,12 @@ Using ACode: https://www.youtube.com/watch?v=XZAc-imlq88 This video focuses on J
 ## If you have an iPhone
 
 Eish, we haven't managed to find anything good here. If you have any suggestions please bring them up. You can even submit a PR, we'll all be very impressed.
+
 ## If you don't have the gear you need
 
 Do your best to find a solution on your own
 
-- ask your friends and family if you can borrow something
-- see if you can find an Internet cafe and try make a deal
-- see if there are any co-working spaces near you that have computers available
-- see if you can make a plan with someone who refurbishes computers for a living, sometimes you can pick up gear very cheaply
+- Ask your friends and family if you can borrow something.
+- See if you can find an internet cafe and try make a deal.
+- See if there are any co-working spaces near you that have computers available.
+- See if you can make a plan with someone who refurbishes computers for a living, sometimes you can pick up gear very cheaply.

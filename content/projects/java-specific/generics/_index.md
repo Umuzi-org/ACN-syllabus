@@ -13,7 +13,7 @@ submission_type: repo
 tags:
 - generics
 - array-manipulation
-title: Java Generics
+title: Java Generics Project
 ---
 
 ## Generic method

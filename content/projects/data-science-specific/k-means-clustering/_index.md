@@ -3,6 +3,11 @@ _db_id: 235
 content_type: project
 flavours:
 - python
+learning_outcomes:
+- data_sci_unsupervised_learning
+- data_sci_k_means
+- data_sci_cluster_optimisation
+- data_sci_cluster_metrics
 pre: '<b>MEDIUM: </b>'
 prerequisites:
   hard:

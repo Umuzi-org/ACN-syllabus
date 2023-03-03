@@ -23,16 +23,16 @@ Now that your frontend is awesome, let's get the "search" button to work.
 
 Take a look at this neat little API:
 
-http://www.recipepuppy.com/about/api/
+https://api.edamam.com/api/recipes
 
-As APIs go it's pairly straight-forward. It's also free and requires no authentication.
+As APIs go it's fairly straight-forward. It's also free and requires no authentication.
 
 ## Instructions
 
 Add a Button labelled "Search" to your web application. When the user clicks on this button do the following:
 
 1. Access the api using a thunk
-2. once the results arrive, display them in a nice table. Make sure you display all the info and that it is nice and neat.
+2. Once the results arrive, display them in a nice table. Make sure you display all the info and that it is nice and neat.
 3. Make sure that the user can easily do another search without having to refresh the page or anything weird like that
 
 ## Getting to Excellent

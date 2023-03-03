@@ -17,8 +17,9 @@ You'll also need to know a bit about JSON
 - [Intro to JSON](https://www.digitalocean.com/community/tutorials/an-introduction-to-json)
 - [Using JSON in JavaScript](https://www.w3schools.com/js/js_json_intro.asp)
 - [Using JSON in Python](https://www.w3schools.com/python/python_json.asp)
+- [Using JSON in Java](https://www.baeldung.com/java-org-json)
 
 The following tools are useful for manually playing with api:
 
-- [curl](https://quickleft.com/blog/command-line-tutorials-curl/)
+- [curl basics](https://web.archive.org/web/20181012061506/https://quickleft.com/blog/command-line-tutorials-curl/) | [official tutorial](https://curl.se/docs/manual.html)
 - [Postman](https://www.getpostman.com/postman)

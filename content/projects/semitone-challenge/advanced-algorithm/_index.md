@@ -5,6 +5,10 @@ flavours:
 - javascript
 - typescript
 from_repo: projects/semitone-challenge/basic-algorithm
+learning_outcomes:
+- web_dev_shuffling_elements
+- web_dev_indexing
+- web_dev_two_dimensional_arrays
 pre: <b>3. </b>
 prerequisites:
   hard:
@@ -40,4 +44,4 @@ Have fun :)
 
 ## Acceptance criteria
 
-The usual. TDD is a must
+The usual, TDD is a must.

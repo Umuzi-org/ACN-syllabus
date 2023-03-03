@@ -3,6 +3,10 @@ _db_id: 232
 content_type: project
 flavours:
 - python
+learning_outcomes:
+- data_sci_oop
+- data_sci_oop_metrics_class
+- data_sci_oop_diagnostic_class
 pre: '<b>MEDIUM: </b>'
 prerequisites:
   hard:
@@ -66,3 +70,14 @@ It is efficient to put machine learning models and other data science techniques
 5. [OPTIONAL] Create a class called `InfluenceCalculator` that takes a model fit object as an argument and has methods for calculating and displaying leverage values and Cook's distance. Call these methods `leverage`, `cooks_distance`. This is easiest to do using the package `statsmodels` to create the linear regression model object. Are there any observations that may be influencing the models?
 
 _Tip:_ These classes should be able to work with any regression problem. You can re-use these classes in upcoming assignments when inspecting models and you can also make classes in future that can work for both regression and classification problems.
+
+## Instructions for reviewer
+
+1. One of the main purposes of OOP is the reusability of code.  Therefore it is important that learners do not
+   create new classes, objects or code when the same result could have been achieved if the learner understood OOP.
+   
+2. Learners should show a clear understanding of Inheritance from parent classes.  This would be most evidently
+   showed by the use of super() and the way in which a child class is created.
+
+3. Decorators are another way to ensure that learners don't create unnecessary functions, so the code stays DRY.  
+   If the learner chooses to use decorators then it should be done properly. Note, the use of decorators is not required for this project.

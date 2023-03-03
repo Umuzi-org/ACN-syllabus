@@ -2,6 +2,8 @@
 _db_id: 320
 content_type: topic
 ready: true
+tags:
+- free-code-camp
 title: JavaScript Algorithms and Data Structures
 ---
 

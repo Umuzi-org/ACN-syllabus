@@ -3,13 +3,15 @@ _db_id: 278
 content_type: project
 flavours:
 - javascript
-from_repo: projects/nodejs/file-io
+from_repo: projects/nodejs/sql
+learning_outcomes:
+- web_dev_expose_business_logic
 pre: '<b>4: </b>'
 prerequisites:
   hard:
   - projects/nodejs/sql
+  - projects/nodejs/express-forms
   - topics/js-and-node-specific/apis-with-node
-  - projects/nodejs/file-io
   soft: []
 ready: true
 story_points: 5
@@ -18,22 +20,20 @@ tags:
 - node
 - api
 - express
-title: Expose a JSON API
+title: Expose a RESTful JSON API
 weight: 4
 ---
-
-There is no need to create a new git repo for this code submission. This is a continuation of your previous work.
 
 ## Instructions
 
 Use Express to expose the following JSON endpoints.
 
-- `/addNewVisitor`: create a new Visitor in the database
-- `/deleteVisitor:id`: delete a single Visitor from the database
-- `/deleteAllVisitors`: delete all Visitors
-- `/viewVisitors`: view all Visitors
-- `/viewVisitor:id`: view a single Visitor
-- `/updateVisitor:id`: Update a single Visitor
+- GET `/visitors` lists all the visitors
+- POST `/visitors` creates a new visitors
+- GET `/visitors/:id` gets the details of a specific visitor
+- DELETE `/visitors/:id` deletes a specific visitor
+- DELETE `/visitors` deletes all visitors
+- PUT `/visitors/:id` updates a specific visitor
 
 ### Resources
 

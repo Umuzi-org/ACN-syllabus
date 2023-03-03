@@ -1,6 +1,7 @@
 ---
 _db_id: 41
 content_type: topic
+ready: true
 title: Google forms like a boss
 ---
 

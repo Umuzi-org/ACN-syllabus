@@ -3,6 +3,10 @@ _db_id: 247
 content_type: project
 flavours:
 - python
+learning_outcomes:
+- data_sci_data_processing
+- data_sci_data_validation
+- data_sci_pandas
 pre: '<b>MEDIUM: </b>'
 prerequisites:
   hard:
@@ -27,10 +31,11 @@ Please make use of Jupyter notebooks while doing this project.
 
 ## Tutorials
 
-- If you are new to Jupiter: https://realpython.com/jupyter-notebook-introduction/
+- Pandas content - https://www.youtube.com/watch?v=tRKeLrwfUgU&ab_channel=NicholasRenotte 
 - Intro to pandas and data manipulation [here](https://www.kaggle.com/learn/pandas)
 - https://towardsdatascience.com/data-wrangling-with-pandas-5b0be151df4e
 - https://towardsdatascience.com/7-must-know-data-wrangling-operations-with-python-pandas-849438a90d15
+- How to handle missing data - https://towardsdatascience.com/7-ways-to-handle-missing-values-in-machine-learning-1a6326adf79e
 - If you'd like more, complete the DataCamp skills track [Data Manipulation with Python](https://www.datacamp.com/tracks/data-manipulation-with-python)
 
 ## Assignment
@@ -76,11 +81,11 @@ The new data frame will look something like this:
 | (3, 5)               | (4, 1)                | (3, 1)                               | ... | 6                 | 1                   |
 | (3, 5)               | (4, 3)                | (3, 3)                               | ... | 8                 | 3                   |
 
-3. Import the data in [departments.csv](departments.csv). Merge this data frame with the personality score data frame, keeping all applicants within the department data frame. Use an assert statement to check that the newly created merged data frame has the same amount of rows as the department data frame, and the expected number of columns.
+3. Import the data in [departments.csv](departments.csv). Merge this data frame with the personality score data frame, keeping all applicants within the department data frame. Use an assert statement to check that the newly created merged data frame has the same amount of rows as the department data frame and the expected number of columns.
 
 4. Filter the merged data frame so that you get only the applicants who scored less than 30 on emotional stability, conscientiousness AND agreeableness. Print the ID numbers and departments of these applicants to the screen, and also assign these applicants the tag "high_risk" in a new column. All other applicants get the tag "low_risk"
 
-5. Create a new data frame with a count of the number of low and high risk applicants within each department. Let each department be a separate column. In other words, the data frame should look something like this:
+5. Create a new data frame with a count of the number of low and high-risk applicants within each department. Let each department be a separate column. In other words, the data frame should look something like this:
 
 | Risk      | Multimedia | Coding | Data |
 | --------- | ---------- | ------ | ---- |

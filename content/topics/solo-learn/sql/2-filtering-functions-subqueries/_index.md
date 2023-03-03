@@ -7,6 +7,7 @@ prerequisites:
 ready: true
 tags:
 - sql
+- solo-learn
 title: Solo Learn - SQL - Module 2 - Filtering, Functions, Subqueries
 topic_needs_review: false
 ---

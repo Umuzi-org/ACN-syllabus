@@ -11,14 +11,14 @@ tags:
 title: Clean Code for Python
 ---
 
-Please bookmark this page. If you submit a project and the code is not clean then you will be asked to go clean up your work. This isn't all going to make 100% perfect sense to you right now, but as you move forward in your course more and more will make sense.
 ## Tabs or Spaces
 
 Python is about whitespace and if you are working on a team then your whitespace better line up otherwise you'll just make errors.
 
-If you are running vscode then set it up so that whenever you hit the Tab key it makes 4 spaces.
+If you are running VSCode, then set it up so that whenever you hit the Tab key it makes 4 spaces.
 
 Your code should always use 4 spaces to indent:
+
 ```
 for i in range(5):
     print("see those 4 spaces at the start of this line")
@@ -26,8 +26,7 @@ for i in range(5):
 
 ## Cheat codes
 
-If you are running vscode then you can set it up to autoformat your code whenever you hit save. You'll be asked what formatter to use. We recommend using [Black](https://github.com/psf/black). Once you go black you never go back. 
-
+If you are running VSCode, then you can set it up to autoformat your code whenever you hit save. You'll be asked what formatter to use. We recommend using [Black](https://github.com/psf/black). Once you go black you never go back.
 
 ## Naming Conventions
 
@@ -46,25 +45,16 @@ Class names should normally use the `CapitalizedWords` convention.
 
 Python packages should have short `lowercase` names.
 
-### Constants
+### Configuration constants
 
-Constants are usually defined on a module level and written in `UPPERCASE` with underscores separating words. Examples include `MAX_OVERFLOW` and `TOTAL`.
-
-### Names to Avoid
-
-Never use the characters 'l' (lowercase letter el), 'O' (uppercase letter oh), or 'I' (uppercase letter eye) as single character variable names.
-In some fonts, these characters are indistinguishable from the numerals one and zero. 
-
-### When to break the rules
-
-If you are working with someone else's code and there is a different convention in place then follow that convention. It's really imnportant to stay consistent. Inconsistent code leaves people guessing, and guesses make bugs. 
+Constants are usually defined on a module level and written in `UPPERCASE` with underscores separating words. Examples include `SERVER_URL` and `PORT`.
 
 
 ## Comments
 
 ### Block Comments
 
-Block comments generally apply to some (or all) code that follows them, and are indented to the same level as that code. Each line of a block comment starts with a `#` and a single space (unless it is indented text inside the comment).
+Block comments generally apply to some (or all) code that follows them and are indented to the same level as that code. Each line of a block comment starts with a `#` and a single space (unless it is indented text inside the comment).
 Paragraphs inside a block comment are separated by a line containing a single `#`.
 
 ### Inline Comments
@@ -72,7 +62,7 @@ Paragraphs inside a block comment are separated by a line containing a single `#
 Use inline comments sparingly.
 
 An inline comment is a comment on the same line as a statement. Inline comments should be separated by at least two spaces from the statement. They should start with a # and a single space.
-Inline comments are unnecessary and in fact distracting if they state the obvious. Don't do this:
+Inline comments are unnecessary and distracting if they state the obvious. Don't do this:
 
 ```
     x = x + 1                 # Increment x
@@ -81,17 +71,18 @@ But sometimes, this is useful:
 ```
     x = x + 1                 # Compensate for border
 ```
-Why? Because coders read code. If your comments just rewrite the code in English then that's just a waste. 
+Why? Because coders read code. If your comments just rewrite the code in English then that's just a waste.
+
 ## Imports
 
 Imports should usually be on separate lines:
 
 ```
-# Yes: 
+# Yes:
 import os
 import sys
 
-# No: 
+# No:
 import sys, os
 ```
 
@@ -101,7 +92,7 @@ It's okay to say this though:
 from subprocess import Popen, PIPE
 ```
 
-Absolute imports are recommended, as they are usually more readable and tend to be better behaved (or at least give better error messages) if the import system is incorrectly configured (such as when a directory inside a package ends up on sys.path):
+Absolute imports are recommended, as they are usually more readable and tend to better behave (or at least give better error messages) if the import system is incorrectly configured (such as when a directory inside a package ends up on sys.path):
 
 ```
 import mypkg.sibling
@@ -114,7 +105,7 @@ However, explicit relative imports are an acceptable alternative to absolute imp
       from . import sibling
       from .sibling import example
 
-  Standard library code should avoid complex package layouts and always use absolute imports. Implicit relative imports should never be used and have been removed in Python 3.
+Standard library code should avoid complex package layouts and always use absolute imports. Implicit relative imports should never be used and have been removed in Python 3.
 
 When importing a class from a class-containing module, it's usually okay to spell this:
 
@@ -128,9 +119,23 @@ If this spelling causes local name clashes, then spell them explicitly:
 
 and use `myclass.MyClass` and `foo.bar.yourclass.YourClass`.
 
-- Wildcard imports (from <module> import \*) should be avoided, as they make it unclear which names are present in the namespace, confusing both readers and many automated tools. There is one defensible use case for a wildcard import, which is to republish an internal interface as part of a public API (for example, overwriting a pure Python implementation of an interface with the definitions from an optional accelerator module and exactly which definitions will be overwritten isn't known in advance).
+When importing it's usually best to avoid using wildcards:
 
-When republishing names this way, the guidelines below regarding public and internal interfaces still apply.
+```
+# No:
+from math import *
+from statistics import *
+
+# Yes
+from math import cos, sin, tan
+from statistics import mean, median, mode
+```
+
+Wildcard imports (from import *) should be avoided, as they make it unclear which names are present in the namespace, confusing both readers and many automated tools. There is one defensible use case for a wildcard import, which is to republish an internal interface as part of a public API (for example, overwriting a pure Python implementation of an interface with the definitions from an optional accelerator module and exactly which definitions will be overwritten isn’t known in advance).
+
+For further details follow these links:
+- [Wildcard imports should not be used](https://rules.sonarsource.com/python/RSPEC-2208)
+- [Why You Should Avoid Wildcard Imports](https://www.youtube.com/shorts/A9AhKxSBZ0Q)
 
 ## Strings
 

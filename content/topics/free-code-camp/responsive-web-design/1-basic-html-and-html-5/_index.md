@@ -9,15 +9,16 @@ tags:
 - html
 - html5
 - responsive web design
+- free-code-camp
 title: FreeCodeCamp - Basic HTML and HTML5
 ---
 
-Make an account here if you haven't already: https://www.freecodecamp.org/learn
+Sign up for an account here if you haven't already: https://www.freecodecamp.org/learn
 
-Look under "Responsive Web Design"
+Look under "Legacy Responsive Web Design Certification".
 
-You'll be hitting "Basic HTML and HTML5"
+You'll be hitting "Basic HTML and HTML5".
 
-Please submit a link to your profile. eg https://www.freecodecamp.org/fccfda32191-55c2-49ec-b6f4-26719c1dd7f4
+Please submit a link to your profile. For example, https://www.freecodecamp.org/fccfda32191-55c2-49ec-b6f4-26719c1dd7f4.
 
-To make your profile useful you need to go into your FreeCodeCamp settings and and set all your privacy settings to "Public".
+To make your profile useful, you need to go into your FreeCodeCamp settings and set all your privacy settings to "Public".

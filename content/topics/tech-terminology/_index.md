@@ -11,7 +11,7 @@ The tech landscape is vast with interconnected technologies that comprise backen
 
 ### Languages
 
-A programming language is essentially a set of instructions given to a computer to produce various kinds of output. They are used to implement algorithms. Different languages have different syntax. In Web development, the frontend has 3 essential languages.
+A programming language is essentially a set of instructions given to a computer to produce various kinds of output. They are used to implement algorithms. Different languages have different syntaxes. In Web development, the frontend has 3 essential languages.
 
 ### Frameworks and Libraries
 
@@ -21,13 +21,13 @@ Read more on [The difference between Frameworks and Libraries](https://www.freec
 
 ### Tools
 
-A tool is a program that developers use to create, debug, maintain or support other programs and applications. These are usually simple programms that can be combined to accomplish a task. Some basic tools include source code editors, and compilers or interpreters. Tools are often excuted from the [command line](https://www.youtube.com/watch?v=yz7nYlnXLfE).
+A tool is a program that developers use to create, debug, maintain or support other programmes and applications. These are usually simple programmes that can be combined to accomplish a task. Some basic tools include source code editors, and compilers or interpreters. Tools are often executed from the [command line](https://www.youtube.com/watch?v=yz7nYlnXLfE).
 
 A tool that is widely used in development is Git [read more](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F), which is a version-control tool. It is used to track changes in the source code during the development process.
 
 ### Databases
 
-A database is basically a structure that enables the storage, retrieval, manipulation and updating of data.
+A database is a structure that enables the storage, retrieval, manipulation and updating of data.
 
 ### IDEs
 
@@ -37,13 +37,13 @@ Integrated Development Environment(IDE) is a software suite that consolidates ba
 
 A platform is any hardware or software that is used to execute or host software, application or service. The most popular ones include Heroku, Amazon Web Services (AWS), Microsoft Azure and Google Cloud Platform.
 
-A widely used platform in Tech is Github [watch for more info](https://www.youtube.com/watch?v=w3jLJU7DT5E). It is a code hosting platform for version-control and collaboration. It is an online service to which developers who use Git can connect, upload and download resources. There are also alternatives to Github like GitLab, Bitbucket,Beanstalk and a whole lot others.
+A widely used platform in Tech is Github [watch for more info](https://www.youtube.com/watch?v=w3jLJU7DT5E). It is a code hosting platform for version control and collaboration. It is an online service to which developers who use Git can connect, upload and download resources. There are also alternatives to Github like GitLab, Bitbucket, Beanstalk and a whole lot others.
 
 New to Git and Github? Here's a [tutorial](https://www.youtube.com/watch?v=SWYqp7iY_Tc) to help you get started.
 
 ### Cloud Computing
 
-The practise of using a network of remote servers hosted on the Internet to store, manage, and process data, rather than a local server or a personal computer.
+The practice of using a network of remote servers hosted on the Internet to store, manage, and process data, rather than a local server or a personal computer.
 
 There are three types of Cloud Computing:
 
@@ -64,7 +64,7 @@ Examples: DigitalOcean, Linode, Rackspace, Amazon Web Services (AWS), Cisco Meta
 
 ### Virtual Machines
 
-These are software computers that provide the same functionality as a physical computer. They run on a physical computer, they behave like a separate computer system. VMs can run applications and operating software like a physical computer would. They are used to perform specific tasks that are risky to run on a host environment like accessing virus-infected data or testing an operating system. There different virtual machines for different operating systems namely: Mac, iOS, Android, Linux, VMware and Ubuntu. There are also virtual machines for Python and Java.
+These are software computers that provide the same functionality as a physical computer. They run on a physical computer, they behave like a separate computer system. VMs can run applications and operating software like a physical computer would. They are used to perform specific tasks that are risky to run on a host environment like accessing virus-infected data or testing an operating system. There are different virtual machines for different operating systems namely: Mac, iOS, Android, Linux, VMware and Ubuntu. There are also virtual machines for Python and Java.
 
 ### Container
 
@@ -74,7 +74,7 @@ A container is a method for packaging applications and other dependencies so tha
 
 Web development is the work involved in building websites, web apps and social media services, for the internet or private network (intranet). It can be broken down into specific specializations, namely: Frontend (Client facing side, Backend (server-side) or Fullstack (specializes in both). Web development is like a machine and the specializations are like different parts of the machine.
 
-These parts have different technologies that comprise languages, frameworks, libraries and Databases and IDEs which make development possible.
+These parts have different technologies that comprise languages, frameworks, libraries, databases and IDEs which make development possible.
 
 More on [how Frontend and Backend work together](https://www.quora.com/How-do-front-end-and-back-end-technologies-work-together)
 
@@ -143,7 +143,7 @@ Data Science is the study of data, it combines domain expertise, programming ski
 - Django [read more](https://www.djangoproject.com/)
 - Flask [read more](https://www.fullstackpython.com/flask.html)
 - Pandas [read more](https://pandas.pydata.org/)
-- TensorFlow [read more](https://pandas.pydata.org/)
+- TensorFlow [read more](https://www.tensorflow.org/)
 - scikit-learn [read more](https://scikit-learn.org/stable/)
 - NumPy [read more](https://numpy.org/)
 - NLTK [read more](https://www.nltk.org/)

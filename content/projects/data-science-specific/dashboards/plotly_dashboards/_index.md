@@ -21,12 +21,13 @@ title: Plotly Dashboard Assignment
 
 ## Tutorials
 
-- [Create a Plotly Dashboard in under 10 minutes](https://moderndata.plot.ly/create-a-plotly-dashboards-in-under-10-minutes/) (Easy)
+- [Create a basic Plotly Dashboard](https://pythoninoffice.com/python-dash-web-app-tutorial/) (Simple)
+- [Create a Plotly Dashboard in under 10 minutes](https://realpython.com/python-dash/) (Easy)
 - [Create a dashboard with Pusher and Flask](https://pusher.com/tutorials/live-dashboard-python) (Advanced)
 
 ## Assignment
 
-In the Mobile Money Data Visualisation Assignment, you created graphs to display the relationship between the type of financial services accessed (non-mobile, mobile, both), how frequently these services were accessed, and socio-demographic information about the users (gender, land ownership type of income, and so forth). Create a Plotly dashboard of the 3-5 most informative graphs from this assignment.
+In the Mobile Money Data Visualisation Assignment, you created graphs to display the relationship between the type of financial services accessed (non-mobile, mobile, both), how frequently these services were accessed, and socio-demographic information about the users (gender, land ownership, type of income, and so forth). Create a Plotly dashboard of the 3-5 most informative graphs from this assignment.
 
 Your dashboard should be both visually appealing and informative.
 
@@ -38,14 +39,14 @@ Your dashboard should be both visually appealing and informative.
 4. There has to be a requirements.txt file which has been set up correctly.
 5. In the source folder there should be at most two files, one that candidates usually call 'app.py' and another which
    candidates usually call 'processing.py'.
-6. The graphs which will be presented on the dashboard should not be imported as saved images from the Financial services
+6. The graphs which will be presented on the dashboard should not be imported as saved images from the Financial Services
    in Tanzania project, the graphs should be created in the 'processing.py' file.  Therefore, any data cleanup and changes
    to the data is to be done in the 'processing.py' file.
-7. No less than three and no more than five graphs are to be displayed in a neat and orderly on the dashboard.
+7. No less than three and no more than five graphs are to be displayed neat and orderly on the dashboard.
 8. The dashboard should have a large enough heading with an appropriate title.
 9. There should be a small introduction below the heading to explain what the dashboard is about.
 10. Any explanations regarding a graph should not be done in paragraph form but rather pointed out on the graph with a
-   suitable annotation and perhaps a small piece of text.  The idea behind any visualizations is that it should be
+   suitable annotation and perhaps a small piece of text.  The idea behind any visualisations is that it should be
    so well done that it becomes self-explanatory.
 11. Graphs must have suitable axes labels, things such as 'Count' is not descriptive at all.  If big data is being
    represented the candidate should consider adding a multiplier to the label, for instance,

@@ -1,23 +1,31 @@
 ---
 _db_id: 712
-content_type: topic
+content_type: project
+flavours:
+- any_language
 ready: true
+submission_type: link
+tags:
+- technical-assessment
 title: 'Assessment: For loops'
-topic_needs_review: true
 ---
 
-Many people do pattern matching instead of understanding. Here are some common things that will be tested
+Many people do pattern matching instead of understanding. Here are some common things that will be tested:
 
-## JS and Java learners understands that they can count up and down
+## Note about submission format
+
+On Tilde you'll notice that this card is asking for a link submission. **Please don't worry about submitting a link**. You will be assessed according to {{% contentlink path="specific-skill-success-criteria/introduction-to-assessments" %}}
+
+## JS and Java learners understand that they can count up and down.
 
 ```
 for (some_initialiser,some_check,some_update){
     ...
 }
 ```
-They should be able to reason about each of the different parts of the loops configuration.
+They should be able to reason about each of the different parts of the configuration of the loops.
 
-\## python learners understand `range` and `in`
+\## Python learners understand `range` and `in`.
 
 ```
 for x in [1,2,3,4,5]:
@@ -27,10 +35,10 @@ for x in range(len(arr))
     ...
 ```
 
-- they should be able to move forwards or backwards
-- they should also understand how to use `enumerate`
+- They should be able to move forward or backwards.
+- They should also understand how to use `enumerate`.
 
-## all learners understands that the whole body of the loop executes on each iteration
+## All learners understand that the whole body of the loop executes on each iteration.
 
 ```
 for i in range(5):
@@ -38,7 +46,7 @@ for i in range(5):
     print('b')
 ```
 
-## all learners understand that loop counters don't magically fetch information from other data structures
+## All learners understand that loop counters don't magically fetch information from other data structures.
 
 ```
 arr = ['a','b','c']
@@ -48,7 +56,7 @@ for (let i = 0; i< arr.length; i++){
 }
 ```
 
-## all learners should be able to reason about nested for loops
+## All learners should be able to reason about nested for loops.
 
 ```
 for n in [0,1,2]:
@@ -57,9 +65,9 @@ for n in [0,1,2]:
     print("here")    # this one only executes 3 times. Why?
 ```
 
-## all learners should be able to reason about continue and break in a single for loop
+## All learners should be able to reason about continue and break in a single for loop.
 
-eg:
+E.g.:
 ```
 for (let i = 0; i < 5; i++){
     print(i)
@@ -71,10 +79,10 @@ for (let i = 0; i < 5; i++){
 }
 ```
 
-## all learners should be able to reason about continue and break within a nested for loop
+## All learners should be able to reason about `continue` and `break` within a nested for loop.
 
 ```
-for (let n=0; n<3 n++){
+for (let n=0; n<3; n++){
     print(n)
     for (let i = 0; i < 5; i++){
         print(i)
@@ -87,11 +95,11 @@ for (let n=0; n<3 n++){
 }
 ```
 
-## all learners should be able to iterate over strings and arrays
+## All learners should be able to iterate over strings and arrays.
 
-Some people think you need to turn stings into arrays before you can start iterating over them. This is not the case!
+Some people think you need to turn strings into arrays before you can start iterating over them. This is not the case!
 
-## all learners should understand the basics of while loops
+## All learners should understand the basics of while loops.
 
 - Can you convert a for loop into a while loop?
 - How do `break` and `continue` statements work in while loops versus for loops?

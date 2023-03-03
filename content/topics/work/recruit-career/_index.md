@@ -5,6 +5,8 @@ ready: true
 title: Recruit Career Questionnaire
 ---
 
+DEPRECATED
+
 Please complete the Questionnaire below
 
 This is all invloved in preparing you for work experience
