@@ -111,22 +111,34 @@ If you want some further reading check this out: {{% contentlink path="topics/li
 
 ## The actual project
 
-Write a program that sends a random inspirational quote to an email address, you should export 2 functions from a file named `sendEmail.js`:
+Write a program that sends a random inspirational quote to an email address, you should export 2 functions from a file named `send_email.js`:
 
-1. `handleSendEmail` it should take in a parameter which is the recipients email address, and should be the only function responsible for sending the email via SMTP
-2. `sendEmail` it should handle getting the recipients email address, the email address could come from the command line or passed directly to onSendEmail as a parameter
+1. `handleSendEmail`: it should take in a parameter which is the recipients email address, and should be the only function responsible for sending the email via SMTP.
+2. `sendEmail`: it should handle getting the recipients email address, the email address could come from the command line or passed directly to on `sendEmail` as a parameter. It should call `handleSendEmail`.
 
 You should have a list of quotes in a file by itself. Your program should grab one and send the email.
 
 Your final email quotes should be formatted like this:
 
 ```
-"The only true measure of success is the number of people you have helped" — Ray Dalio
+"The only true measure of success is the number of people you have helped" - Ray Dalio
 ```
 
-### Node
+### Javascript/Node
 
-After `npm init` you should add your script to `package.json`. Look for `scripts` inside the file.
+Your directory structure should look like this.
+
+```
+├── spec
+|   ├── support
+|   |   └── jasmine.json
+|   └── send_email_spec.js
+├── src
+|   └── send_email.js
+└── package.json
+```
+
+After `npm init` you should add a script named `send_inspiration` to `package.json`. Look for `scripts` inside the file.
 
 you should be able to do the following:
 
@@ -138,7 +150,7 @@ The command needs to allow you to pass in an email address from the command line
 
 Also, note that good code is written to be reusable. Make sure all your executable code is inside useful functions. When we run `npm run send_inspiration` then the right functions will need to be executed.
 
-Make use of `nodemailer` https://nodemailer.com/about/ to make it easier for yourself to send emails.
+Make use of [nodemailer](https://nodemailer.com/about/) to make it easier for yourself to send emails.
 
 ### Python
 
@@ -198,5 +210,4 @@ As another example, if you were developing a "forgot password" or "confirm email
 - Unit tests:
 - The learner should demonstrate that the email sends only once, with the correct arguments.
 - The learner should demonstrate an understanding of mocks and spies. Please see {{% contentlink path="topics/unit-testing-mocks-and-spies" %}} .
-
 - Sending emails to multiple recipients is not a requirement, but if the code is structured well enough, then doing so should be easy. The unit test should demonstrate that the code in not restricted to sending just one email.
