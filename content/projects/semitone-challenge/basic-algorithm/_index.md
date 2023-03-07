@@ -2,20 +2,20 @@
 _db_id: 199
 content_type: project
 flavours:
-- typescript
-- javascript
+  - typescript
+  - javascript
 learning_outcomes:
-- web_dev_shuffling_elements
-- web_dev_indexing
+  - web_dev_shuffling_elements
+  - web_dev_indexing
 pre: <b>1. </b>
 prerequisites:
   hard:
-  - projects/tdd/simple-calculator-part1
+    - projects/tdd/simple-calculator-part1
   soft: []
 ready: true
 submission_type: repo
 tags:
-- problem solving
+  - problem solving
 title: semitone difference - basic algorithm
 weight: 1
 ---
@@ -25,17 +25,16 @@ weight: 1
 Your directory structure should look like this.
 
 ```
-   >node_modules    <---- make sure this is in your .gitignore
-   >spec
-       > support
-           - jasmine.json
-       - semitone_spec.js
-   >src
-       - semitone.js
-   - package.json
+├── spec
+|   ├── support
+|   |   └── jasmine.json
+|   └── semitone_spec.js
+├── src
+|   └── semitone.js
+└── package.json
 ```
 
-This is a multi-step project designed to level up many different skills.
+This is the first step in a multi-step project designed to level up many different skills.
 
 We want to see the following skills demonstrated in different parts of this project:
 
@@ -69,7 +68,7 @@ For those of you learning web dev, you will be expected to build a simple user i
 
 ## Instructions
 
-Make a class called JamBuddy. JamBuddy should have an attribute that keeps track of the currently selected notes and should be called currentSelectedNotes. JamBuddy class should work like this:
+Make a class called `JamBuddy`. It should have an attribute that keeps track of the currently selected notes and should be called `currentSelectedNotes`. JamBuddy class should work like this:
 
 JS:
 
