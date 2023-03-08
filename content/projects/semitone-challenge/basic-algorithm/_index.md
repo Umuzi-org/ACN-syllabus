@@ -34,6 +34,16 @@ Your directory structure should look like this.
 └── package.json
 ```
 
+```
+
+**Note**: Please export your class using the following syntax at the end of the code:
+
+```
+
+module.exports = {className: className}
+
+```
+
 This is the first step in a multi-step project designed to level up many different skills.
 
 We want to see the following skills demonstrated in different parts of this project:
@@ -73,6 +83,7 @@ Make a class called `JamBuddy`. It should have an attribute that keeps track of 
 JS:
 
 ```
+
 let buddy = new JamBuddy()
 let notes = buddy.selectNotes()
 console.log(notes) # this will print an array of two notes
@@ -80,6 +91,7 @@ console.log(currentSelectedNotes) # this will print the same array of two notes
 console.log(notes === currentSelectedNotes) # should print true notes and currentSelectedNotes should be the same
 correct = buddy.checkAnswer(1)
 console.log(correct) # this will print True if the `1` was the correct answer
+
 ```
 
 ## Some finer points
@@ -87,7 +99,9 @@ console.log(correct) # this will print True if the `1` was the correct answer
 For now don't worry about "flat" notes. The notes we care about are:
 
 ```
+
 A A# B C C# D D# E F F# G G#
+
 ```
 
 Here is an example usage:
@@ -95,6 +109,7 @@ Here is an example usage:
 JS:
 
 ```
+
 let buddy = new JamBuddy()
 let notes = buddy.selectNotes()
 console.log(notes) # let's pretend that this outputs ['A', 'B']
@@ -112,6 +127,7 @@ console.log(notes) # let's pretend that this outputs ['G', 'B']
 
 correct = buddy.checkAnswer(4)
 console.log(correct) # true because: G G# A A# B - the note circle is a CIRCLE, remember that!
+
 ```
 
 ## Acceptance criteria
@@ -119,3 +135,4 @@ console.log(correct) # true because: G G# A A# B - the note circle is a CIRCLE, 
 - Make sure you do this in a TDD way, and that code sample from the top needs to run as is.
 - Please just supply a working class. The only place you should instantiate your class is inside your unit tests.
 - Please export your class in this manner `module.exports = { JamBuddy: JamBuddy }`. This will allow you to add more exports later if you need to.
+```
