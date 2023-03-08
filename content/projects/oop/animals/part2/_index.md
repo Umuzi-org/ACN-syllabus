@@ -60,35 +60,24 @@ Your directory structure should look like this:
 ├── spec
 |   ├── support
 |   |   └── jasmine.json
-|   └── semitone_spec.js
+|   └── animals_spec.js
 ├── src
-|   └── semitone.js
+|   └── animals.js
 └── package.json
 ```
-
-**Note**: Please export your class using the following syntax at the end of the code:
-
-```
-
-module.exports = {className: className}
-
-```
-
-This is the first step in a multi-step project designed to level up many different skills.
 
 ### Python
 
 Your directory structure should look like this:
 
 ```
-
 ├── animals
 │   └── animals.py
 ├── setup.py
 ├── requirements.txt
 ├── .gitignore
 └── tests
-  └── test_animals.py
+    └── test_animals.py
 
 ```
 
@@ -107,7 +96,6 @@ Create a class called `AnimalTests`.
 Now let's add our first JUnit test to our `AnimalTests`. The class should have the following methods `TestDogSound()`, `TestDogEat()`, `TestCatSound()` and `TestCatEat()`. Each method should have the @Test tag placed above it, the tests should work as follows:
 
 ```
-
 //Dog Tests
 Dog dog = new Dog();
 Test -> Does <dog name> eats should Pass
@@ -129,6 +117,7 @@ Use Jasmine to test your code.
 Then create tests for your `eat()` and `sound()` methods on the `Dog` and `Cat` classes with Jasmine.
 
 ```
+
 
 //Dog Tests
 let dog = new Dog();
@@ -173,7 +162,3 @@ Test -> Does cat Bark should Fail
 - There should be no global variables.
 - If a variable is only used within a given method, then constantly referring to it as `self.variable`/`this.variable` isn't necessary.
 - There should be a test for each method in the child classes.
-
-```
-
-```
