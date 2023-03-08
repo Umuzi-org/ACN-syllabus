@@ -2,21 +2,21 @@
 _db_id: 273
 content_type: project
 flavours:
-- any_language
+  - any_language
 learning_outcomes:
-- code_tdd
-- code_existing_code_update
-- code_basic_calculation
-pre: '<b>EASY: </b>'
+  - code_tdd
+  - code_existing_code_update
+  - code_basic_calculation
+pre: "<b>EASY: </b>"
 prerequisites:
   hard:
-  - topics/test-driven-development
+    - topics/test-driven-development
   soft: []
 ready: true
 story_points: 2
 submission_type: repo
 tags:
-- tdd
+  - tdd
 title: simple-calculator part 1
 ---
 
@@ -58,6 +58,12 @@ Your directory structure should look like this:
     >src
         - simple_calculator.js
     - package.json
+```
+
+**Note**: Please export your two functions using the following syntax at the end of the code:
+
+```
+module.exports = {firstFunctionName, secondFunctionName}
 ```
 
 ### Python
@@ -167,8 +173,8 @@ multiply(-1,3)
 
 ## Instructions for reviewers
 
-* `__init__.py` is not needed if the repo is set up properly (python).
-* The point of tests in TDD isn't only to have tests but to have very specific tests. For a given input we don't just want to know that they pass or fail. So instead of one function that tests everything you want specific tests.
-* Do not use built-in function names as variables e.g. `sum`.
-* Tests should have descriptive names.
-* Built-in functions should not be used in this project.
+- `__init__.py` is not needed if the repo is set up properly (python).
+- The point of tests in TDD isn't only to have tests but to have very specific tests. For a given input we don't just want to know that they pass or fail. So instead of one function that tests everything you want specific tests.
+- Do not use built-in function names as variables e.g. `sum`.
+- Tests should have descriptive names.
+- Built-in functions should not be used in this project.
