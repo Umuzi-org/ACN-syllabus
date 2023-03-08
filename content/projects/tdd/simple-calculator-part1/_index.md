@@ -50,14 +50,13 @@ After setting up Jasmine on the terminal, please ensure that your directory has 
 Your directory structure should look like this:
 
 ```
-    >node_modules    <---- make sure this is in your .gitignore
-    >spec
-        > support
-            - jasmine.json
-        - simple_calculator_spec.js
-    >src
-        - simple_calculator.js
-    - package.json
+├── spec
+|   ├── support
+|   |   └── jasmine.json
+|   └── simple_calculator_spec.js
+├── src
+|   └── simple_calculator.js
+└── package.json
 ```
 
 **Note**: Please export your two functions using the following syntax at the end of the code:
