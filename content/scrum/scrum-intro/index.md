@@ -1,6 +1,8 @@
 ---
+_db_id: 738
 title: Introduction to Scrum
 content_type: topic
+ready: true
 tags:
 - scrum
 - scrum-master
