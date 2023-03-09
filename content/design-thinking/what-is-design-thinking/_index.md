@@ -4,5 +4,5 @@ ready: true
 tags:
 - design-thinking
 - design-thinking-sprint
-title: 
+title: What is design thinking
 ---
