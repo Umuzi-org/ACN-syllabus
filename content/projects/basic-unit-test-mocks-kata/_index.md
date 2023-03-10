@@ -113,8 +113,17 @@ If you want some further reading check this out: {{% contentlink path="topics/li
 
 Write a program that sends a random inspirational quote to an email address, you should export 2 functions from a file named `send_email.js`:
 
-1. `handleSendEmail`: it should take in a parameter which is the recipients email address, and should be the only function responsible for sending the email via SMTP.
-2. `sendEmail`: it should handle getting the recipients email address, the email address could come from the command line or passed directly to on `sendEmail` as a parameter. It should call `handleSendEmail`.
+1. `handleSendEmail` should take in a parameter which is the recipients email addresses, and should be the only function responsible for sending the email via SMTP.
+2. `sendEmail` is the function that gets called when you execute the script from the command line. It needs to do something like this:
+
+```js
+// 1. get the emails from the command line parameters
+emails = ...;
+// 2. call the function responsible for sending the random quote with those emails
+handleSendMail(emails);
+```
+
+The reason we use separate functions is that we want to make sure our functionality is as reusable and testable as possible. If you have one function that grabs the email address from the command line arguments and then immediately sends the email then that function would only be able to be used from the command line. You wouldn't be able to use it in other places.
 
 You should have a list of quotes in a file by itself. Your program should grab one and send the email.
 
