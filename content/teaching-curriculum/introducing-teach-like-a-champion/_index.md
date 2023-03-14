@@ -12,7 +12,7 @@ title: Introducing Teach Like A Champion
 We'll be kicking off our teaching curriculum with a brief intro to one of the most influential books in the teaching profession, Teach Like a Champion by Doug Lemov. 
 We've highlighted below how it is that we'll start getting familiar with the powerful tools and principles contained within the book. 
 
-[This 12 page book summary](https://www.boyd.k12.ky.us/userfiles/496/Classes/27400/Teach%20Like%20A%20Champion%20-%20The%20Main%20Idea.pdf) provides a really nice 2 page intro to the rigorous methodology that author Doug Lemov and his team used to distil the best teaching practices from the best performing teachers they could find. Give those first 2 pages a quick read before continuing to read what's below.
+[This 12 page book summary](https://drive.google.com/file/d/1ace5039zhdNbrd4CBgXz3GikFpPwMLru/view?usp=share_link) provides a really nice 2 page intro to the rigorous methodology that author Doug Lemov and his team used to distil the best teaching practices from the best performing teachers they could find. Give those first 2 pages a quick read before continuing to read what's below.
 
 ## Quick Familiarty Projects
 The purpose of the quick familiarity projects is to give you a basic intro to the various techniques covered in the book, and to introduce you to some of the key language / specific terms used in the book. These terms (you might call it a taxonomy) give us a common language through which we can have more detailed and nuanced conversations about how we're teaching. 

@@ -2,21 +2,21 @@
 _db_id: 625
 content_type: project
 flavours:
-- any_language
+  - any_language
 learning_outcomes:
-- code_validation
-- code_problem_decomposition
-- code_algorithmic_thinking
-- code_tdd
+  - code_validation
+  - code_problem_decomposition
+  - code_algorithmic_thinking
+  - code_tdd
 prerequisites:
   hard:
-  - projects/tdd/simple-calculator-part1
+    - projects/tdd/simple-calculator-part1
 ready: true
 submission_type: repo
 tags:
-- tdd
-- problem-solving
-- validation
+  - tdd
+  - problem-solving
+  - validation
 title: Validate a South African ID number
 ---
 
@@ -28,10 +28,18 @@ Your directory structure should look like this:
 
 ```
 ├── spec
-    ├── support
-    └── validate_sa_id_spec.js
+|   ├── support
+|   |   └── jasmine.json
+|   └── validate_sa_id_spec.js
 ├── src
-    ├── validate_sa_id.js
+|   └── validate_sa_id.js
+└── package.json
+```
+
+**Note**: Please export your function using the following syntax at the end of the code:
+
+```
+module.exports = {firstFunctionName}
 ```
 
 ### Python
@@ -99,7 +107,7 @@ function validate_phone_number(phone_number){
 
 ## Your mission:
 
-Write a function that validates South African ID numbers. Please name your function according to the common naming conventions for the language you are using.
+Write a function called `is id number valid` that validates South African ID numbers. Make sure the name of the function is according to the common naming conventions for the language you are using.
 
 If the ID number is valid then return true, if it is not valid then return false.
 

@@ -7,6 +7,7 @@ from pathlib import Path
 import frontmatter
 import yaml
 import logging
+
 logging.basicConfig(level=logging.WARN)
 
 
@@ -41,7 +42,6 @@ def check_all_frontmatter_and_directory_names(path):
             check_one_file_frontmatter(child)
 
 
-
 class IdChaecker:
     seen_syllabuses = {}
     seen_content_items = {}
@@ -50,12 +50,14 @@ class IdChaecker:
     def check(cls, db_id, title, file_path):
         if file_path.name == "_index.md":
             # we are dealing with normal content items
-            seen = cls.seen_content_items 
+            seen = cls.seen_content_items
         else:
             seen = cls.seen_syllabuses
 
         if db_id in seen:
-            raise Exception(f"Repeated id! {db_id} found at {file_path} ({title})AND {seen[db_id]['file_path']} ({seen[db_id]['title']})")
+            raise Exception(
+                f"Repeated id! {db_id} found at {file_path} ({title})AND {seen[db_id]['file_path']} ({seen[db_id]['title']})"
+            )
         seen[db_id] = {
             "title": title,
             "file_path": file_path,
@@ -63,20 +65,20 @@ class IdChaecker:
 
 
 def check_one_file_frontmatter(file_path):
-    """ given the path to a markdown file, make sure that the frontmatter includes
+    """given the path to a markdown file, make sure that the frontmatter includes
     the required metadata
     """
     print(f"checking frontmatter for {file_path}")
     name = file_path.name
     if not name.endswith(".md"):
         return
-    
+
     if name != "_index.md":
         # only checking content items
-        return 
+        return
     front = frontmatter.load(file_path)
 
-    required = ["title","content_type"]
+    required = ["title", "content_type"]
     allowed = [
         "_db_id",
         "pre",
@@ -85,21 +87,19 @@ def check_one_file_frontmatter(file_path):
         "date",
         "disableToc",
         "todo",
-        
         "prerequisites",
         "tags",
         "story_points",
         "flavours",
         "topic_needs_review",
-
         "ncit_standards",
-        "ncit_specific_outcomes"
+        "ncit_specific_outcomes",
     ]
 
     if "_db_id" in front:
         IdChaecker.check(front["_db_id"], front["title"], file_path)
 
-    is_project = front.get('content_type') == "project"
+    is_project = front.get("content_type") == "project"
 
     if is_project:
         required.append("submission_type")
@@ -130,6 +130,10 @@ def check_one_file_frontmatter(file_path):
         if key not in front.keys():
             logging.error(f"{file_path} has MISSING frontmatter: {key}")
             continue
+        value = front[key]
+        if not value:
+            logging.error(f"{file_path} has MISSING frontmatter: {key}")
+            continue
 
     if "flavours" in front and front.get("submission_type") != "nosubmit":
         for option in front["flavours"]:
@@ -140,11 +144,10 @@ def check_contentlinks_ok():
     import os
 
     os.system("hugo")
-    os.system('grep -r "contentlink-missing" public') 
-    # os.system('grep -r "contentlink-todo" public')  
+    os.system('grep -r "contentlink-missing" public')
+    # os.system('grep -r "contentlink-todo" public')
 
 
 if __name__ == "__main__":
     check_all_frontmatter_and_directory_names("content")
     check_contentlinks_ok()
-
