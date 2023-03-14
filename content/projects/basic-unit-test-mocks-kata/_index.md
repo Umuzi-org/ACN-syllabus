@@ -113,8 +113,8 @@ If you want some further reading check this out: {{% contentlink path="topics/li
 
 Write a program that sends a random inspirational quote to an email address, you should export 2 functions from a file named `send_email.js`:
 
-1. `handleSendEmail` should take in a parameter which is the recipients email addresses, and should be the only function responsible for sending the email via SMTP.
-2. `sendEmail` is the function that gets called when you execute the script from the command line. It needs to do something like this:
+1. `handle send email`(use the appropriate naming conventions for the language you are using) - should take in a parameter which is the recipients email addresses, and should be the only function responsible for sending the email via SMTP.
+2. `send email`(use the appropriate naming conventions for the language you are using) - is the function that gets called when you execute the script from the command line. It needs to do something like this:
 
 ```js
 // 1. get the emails from the command line parameters
