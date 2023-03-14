@@ -34,14 +34,12 @@ Your directory structure should look like this.
 └── package.json
 ```
 
-```
+
 
 **Note**: Please export your class using the following syntax at the end of the code:
 
 ```
-
 module.exports = {className: className}
-
 ```
 
 This is the first step in a multi-step project designed to level up many different skills.
