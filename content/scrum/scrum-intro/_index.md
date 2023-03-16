@@ -1,14 +1,14 @@
 ---
 _db_id: 738
-title: Introduction to Scrum
 content_type: topic
+prerequisites:
+  hard: []
+  soft: []
 ready: true
 tags:
 - scrum
 - scrum-master
-prerequisites:
-  hard: []
-  soft: []
+title: Introduction to Scrum
 ---
 
 Go through all the below links in detail, you will be revisiting them throughout your learning. 
