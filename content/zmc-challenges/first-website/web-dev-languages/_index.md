@@ -38,4 +38,3 @@ We don't like to write all our learning content ourselves. Our superpowers are:
 - validating people's skills (making sure they learned what they were meant to learn)
 
 So don't be surprised when we send you to read content on other websites :)
-

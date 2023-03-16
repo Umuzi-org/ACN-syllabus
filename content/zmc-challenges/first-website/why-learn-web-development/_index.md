@@ -1,8 +1,12 @@
 ---
-title: Why learn web development?
-blurb: There are lots of different kinds of coding and non-coding careers. We'd like to show you why we're focusing on web dev and why it's probably worth your while to do take on this challenge
+_db_id: 875
+blurb: There are lots of different kinds of coding and non-coding careers. We'd like
+  to show you why we're focusing on web dev and why it's probably worth your while
+  to do take on this challenge
+content_type: topic
 tags:
 - internal/zmc-challenge
+title: Why learn web development?
 ---
 
 There are loads of different kinds of coders, and each type of coder needs to know a different set of tools, practices and languages. It's very possible that you would be better suited to a different kind of programming than web development.
@@ -52,5 +56,4 @@ Here are a few questions, just think though them for yourself
 
 - If you were a successful programmer then how would your life change? How would that effect your family and community?
 - If you were not able to learn to code then what would that mean for you, your family and your community?
-- What might get in the way of your learning to code? What obstacles do you think  you'll face? Can you think of ways to get around those obstacles? 
-
+- What might get in the way of your learning to code? What obstacles do you think  you'll face? Can you think of ways to get around those obstacles?

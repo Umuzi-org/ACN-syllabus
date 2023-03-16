@@ -3,6 +3,8 @@ _db_id: 871
 blurb: HTML is all about the layout of your web content. CSS is all about style! In
   this section you'll get to add a bit of visual flair to your site
 content_type: project
+flavours:
+- none
 submission_type: link
 title: Introducing CSS
 ---
@@ -30,6 +32,3 @@ Make sure that when you view your website then the css changes are happening.
 ### 3. Submit your work 
 
 Once you are happy with your work then upload your latest changes to github and submit a link to your github page.
-
-
-

@@ -1,6 +1,7 @@
 ---
 _db_id: 872
-blurb: Time to flex your skills! In this step you'll be writing a web page from scratch on your own device.
+blurb: Time to flex your skills! In this step you'll be writing a web page from scratch
+  on your own device.
 content_type: topic
 title: Your first HTML page
 ---
@@ -51,5 +52,3 @@ This website can be about anything you want. If you like cats it can be about ca
 ### That's it 
 
 Make sure your website works on your own device. In the next step we'll get it online!
-
-

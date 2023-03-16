@@ -42,4 +42,3 @@ Once everything seems to be working fine then upload your latest changes to gith
 ### 4. Submit your link
 
 Once you are happy that your github site does what it is meant to, submit the link to your github page and wait for feedback.
-

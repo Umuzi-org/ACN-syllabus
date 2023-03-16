@@ -52,4 +52,4 @@ You'll submit the link to your github page. You'll need to wait a little while f
 
 ## Nice job! 
 
-If you got this right then you would have had to level up a little bit. You now know a bit about how to reference other resources from inside an HTML page. This is a pretty big deal because the web wouldn't be a web if it wasn't interconnected.  
+If you got this right then you would have had to level up a little bit. You now know a bit about how to reference other resources from inside an HTML page. This is a pretty big deal because the web wouldn't be a web if it wasn't interconnected.

@@ -1,6 +1,8 @@
 ---
 _db_id: 866
-blurb: This section will be downright empowering. Once you have done this you'll be able to make websites and share them on the internet whenever you want, for free,  forever. Feel the power!
+blurb: This section will be downright empowering. Once you have done this you'll be
+  able to make websites and share them on the internet whenever you want, for free,  forever.
+  Feel the power!
 content_type: project
 flavours:
 - none
@@ -119,8 +121,3 @@ You have learned:
 - how to host a website
 
 The journey is not over yet! Go to the next step when you are ready
-
-
-
-
-
