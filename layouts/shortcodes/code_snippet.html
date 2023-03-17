@@ -1,4 +1,4 @@
-{{ $dir := $.Page.Dir  }}
+{{ $dir := $.Page.File.Dir  }}
 {{ $filename := .Get 0 }}
 {{ $path := (print $dir $filename)}}
 
