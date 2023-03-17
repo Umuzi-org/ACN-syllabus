@@ -1,5 +1,4 @@
 ---
-_db_id: 
 content_type: project
 flavours:
 - java
@@ -12,7 +11,7 @@ submission_type: repo
 tags:
 - data-structures
 - array-manipulation
-title: Java streams
+title: Java Streams
 ---
 
 Remember your semitone challenge project ***(see prerequisites above)*** well for this project we are about to make that project more cooller.

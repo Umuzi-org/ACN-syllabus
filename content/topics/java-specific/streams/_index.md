@@ -1,8 +1,7 @@
 ---
-_db_id: 
 content_type: topic
 ready: true
-title: Java streams
+title: Java Streams
 ---
 
 Streams are one of the major features introduced in java 8, what do they do you ask, well in short they give data sources super powers. These streams should not be confused with File I/O streams which are a completly different thing.
