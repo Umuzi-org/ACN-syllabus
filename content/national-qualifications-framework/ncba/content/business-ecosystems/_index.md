@@ -34,7 +34,7 @@ When dealing with various clients and stakeholders of a business, it is importan
 
 You can achieve this by adopting clear standards of ethics and appropriate professional behaviour. These standards and behaviours will assist you in always making wise decisions even when confronted with difficult situations which may compromise your integrity.
 
-![people](people.jpg)
+![students](students.jpg)
 
 PROFESSIONAL CONDUCT WHEN INTERACTING WITH CLIENTS AND STAKEHOLDERS 
 
@@ -120,6 +120,8 @@ Now that we've identified some acceptable and unacceptable practices in consulta
 
 
 Please watch the following video on being ethical even when no one is watching. 
+
+{{< youtube ohmOCHYz530 >}}
 
 To further guide our decision-making process in upholding this code of ethics and professional conduct PMI has compiled a framework for decisions making which can be found here.
 
