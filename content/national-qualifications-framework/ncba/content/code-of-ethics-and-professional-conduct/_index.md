@@ -8,13 +8,13 @@ tags: []
 title: Code of Ethics and Professional Conduct
 ---
 
-##DESCRIPTION
+## DESCRIPTION
 
 In this first module of the NCBA you will learn about how a professional is expected to conduct themselves in an ethical manner that is acceptable and respectful of one another, and the different bodies that govern the universal compliance of professionals in different industries. 
 
 You will be required to identify the different codes of ethics and behavioural standards that govern your professional workplace that ensures professionals behave in a manner that is acceptable and respectful of one another.
 
-##LEARNING OUTCOMES
+## LEARNING OUTCOMES
 
 By the end of this module you will be developed the following skills:
 Clear understanding of ethical behaviour.
@@ -24,11 +24,11 @@ Acceptable and unacceptable behaviour for professionals.
 Identify the professional bodies that govern the different industries.
 
 
-##READING MATERIAL
+## READING MATERIAL
 
-###PROFESSIONAL CONDUCT
+### PROFESSIONAL CONDUCT
 
-###INTRODUCTION TO BEING PROFESSIONAL
+### INTRODUCTION TO BEING PROFESSIONAL
 
 When dealing with various clients and stakeholders of a business, it is important to keep a professional relationship. We should commit ourselves to doing what is honourable and right. Ethical and professional behaviour instils business confidence, and it's mandatory in establishing the credibility of professionals. Ethical behaviour is not always a black or white issue, nor is it always easy. Conflicts of interest, contradictory requirements or processes, fear of failure, and business pressures can all affect ethical behaviour. Being professional in all circumstances can benefit your reputation, morale, and the success of your career. 
 
