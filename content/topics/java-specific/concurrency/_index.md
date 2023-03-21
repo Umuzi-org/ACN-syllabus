@@ -100,3 +100,5 @@ https://www.tutorialspoint.com/java_concurrency/concurrency_overview.htm
 https://www.tutorialspoint.com/java_concurrency/concurrency_major_operations.htm
 
 https://www.tutorialspoint.com/java_concurrency/concurrency_deadlock.htm
+
+https://deadlockempire.github.io/#menu - this one is fun

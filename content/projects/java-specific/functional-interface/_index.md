@@ -14,6 +14,8 @@ tags:
 title: Java Lamba Expressions and Functional Interfaces
 ---
 
+### What is the number
+
 Write the following methods that return a lambda expression performing a specified action:
 
 1. A method called **isOdd**: The lambda expression must return true if a number is odd or false if it is even.
