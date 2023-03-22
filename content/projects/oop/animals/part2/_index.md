@@ -171,7 +171,3 @@ Test -> Does cat Bark should Fail
 - There should be no global variables.
 - If a variable is only used within a given method, then constantly referring to it as `self.variable`/`this.variable` isn't necessary.
 - There should be a test for each method in the child classes.
-
-```
-
-```
