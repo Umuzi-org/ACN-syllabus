@@ -2,24 +2,46 @@
 _db_id: 224
 content_type: project
 flavours:
-- any_language
+  - any_language
 learning_outcomes:
-- code_oop_class_instantiation
-- code_oop_polymorphism
-- code_oop_encapsulation
-- code_oop_inheritance
-- code_oop_composition
+  - code_oop_class_instantiation
+  - code_oop_polymorphism
+  - code_oop_encapsulation
+  - code_oop_inheritance
+  - code_oop_composition
 prerequisites:
   hard:
-  - projects/oop/person
+    - projects/oop/person
   soft: []
 ready: true
 story_points: 3
 submission_type: repo
 tags:
-- oop
+  - oop
 title: Animals Part 1. OOP basics
 ---
+
+## Project structure
+
+### JavaScript
+
+Your directory structure should look like this:
+
+```
+├── src
+|   └── animals.js
+└── package.json
+```
+
+**Note**: Please export your class using the following syntax at the end of the code:
+
+```
+
+module.exports = {className: className}
+
+```
+
+## Instructions
 
 This challenge should test topics from your OOP knowledge.
 
