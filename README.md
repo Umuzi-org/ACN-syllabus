@@ -21,6 +21,9 @@ There are lots of ways to contribute. You can improve the instructions on a spec
 
 This is a Hugo based application.
 
+**PLEASE NOTE** We are using hugo version 0.51. We have run into some annoying problems when upgrading hugo in the past so please just use this version.
+If you are tempted to give us a PR that upgrades this to the latest version of hugo, PLEASE DONT. The plan is to upgrade this all to use Eleventy in the near future.
+
 ### initial setup
 
 Make sure your global Github details like your username and email is set up correctly. Run the following commands in
@@ -70,8 +73,10 @@ Run these installs in your terminal using Homebrew
 
 ```
 brew install go
-brew install hugo
+brew install Umuzi-org/homebrew-hugo/hugo@0.51
 ```
+
+Note that running `brew install hugo` will install the latest version of hugo but we want version 0.51; which is why we have [our own tap](https://github.com/Umuzi-org/homebrew-hugo) with the right version.
 
 ### to run the development server, once it is installed
 
