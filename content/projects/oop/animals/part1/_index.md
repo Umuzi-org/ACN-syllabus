@@ -33,11 +33,11 @@ Your directory structure should look like this:
 └── package.json
 ```
 
-**Note**: Please export your class using the following syntax at the end of the code:
+**Note**: Please export all your created classes using the following syntax at the end of the code:
 
 ```
 
-module.exports = {className: className}
+module.exports = {class1Name, class2Name, ...}
 
 ```
 
