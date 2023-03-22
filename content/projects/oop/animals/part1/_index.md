@@ -33,7 +33,7 @@ Your directory structure should look like this:
 └── package.json
 ```
 
-**Note**: Please export all your created classes using the following syntax at the end of the code:
+**Note**: Please export your `Dog`, `Cat` and `Home` classes using the following syntax at the end of the code:
 
 ```
 
