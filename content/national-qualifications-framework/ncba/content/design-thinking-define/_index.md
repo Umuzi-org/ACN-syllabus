@@ -17,21 +17,29 @@ In this stage of design thinking, you will be required to develop a problem stat
 ## LEARNING OUTCOMES:
 
 -By the end of this module you will be developed the following skills:
+
 -Clear understating of problem statements 
+
 -How to create a user persona 
+
 -Clear understanding of the different business process modeling notation 
 
 
 
 In addition to these skills you will also learn:
+
 -How to create a business process model 
+
 -How to write a problem statement
+
 -How to create a “how might we” statement 
+
 -Interact in a business environment
 
 ## INTRODUCTION
 It’s time to accumulate the information gathered during the Empathise stage. You then analyse your observations and synthesize them to define the core problems you and your team have identified. These definitions are called problem statements. During the Define stage, you put together the information you have created and gathered during the Empathise stage. This is where you will analyse your observations and synthesise them to define the core problems that you and your team have identified up to this point. You should seek to define the problem as a problem statement in a human-centered manner.
  
+ ![definebullseye](definebullseye.png)
 
 ## THE DEFINE STAGE OVERVIEW
 The define stage is perhaps the most challenging part of the Design Thinking process, as the definition of a problem (also called a design challenge) will require you to synthesise your observations about your users from the first stage in the Design Thinking process.
