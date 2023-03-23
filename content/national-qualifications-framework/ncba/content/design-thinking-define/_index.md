@@ -16,41 +16,42 @@ In this stage of design thinking, you will be required to develop a problem stat
 
 ## LEARNING OUTCOMES:
 
-By the end of this module you will be developed the following skills:
-Clear understating of problem statements 
-How to create a user persona 
-Clear understanding of the different business process modeling notation 
+-By the end of this module you will be developed the following skills:
+-Clear understating of problem statements 
+-How to create a user persona 
+-Clear understanding of the different business process modeling notation 
 
 
 
 In addition to these skills you will also learn:
-How to create a business process model 
-How to write a problem statement
-How to create a “how might we” statement 
-Interact in a business environment
+-How to create a business process model 
+-How to write a problem statement
+-How to create a “how might we” statement 
+-Interact in a business environment
 
-INTRODUCTION
+## INTRODUCTION
 It’s time to accumulate the information gathered during the Empathise stage. You then analyse your observations and synthesize them to define the core problems you and your team have identified. These definitions are called problem statements. During the Define stage, you put together the information you have created and gathered during the Empathise stage. This is where you will analyse your observations and synthesise them to define the core problems that you and your team have identified up to this point. You should seek to define the problem as a problem statement in a human-centered manner.
  
 
-THE DEFINE STAGE OVERVIEW
+## THE DEFINE STAGE OVERVIEW
 The define stage is perhaps the most challenging part of the Design Thinking process, as the definition of a problem (also called a design challenge) will require you to synthesise your observations about your users from the first stage in the Design Thinking process.
 
 The define stage is preceded by the empathise stage, where you learn as much as possible about your users, conduct interviews, and used a variety of immersion and observation techniques. Once you have a good idea of who your users are and, most importantly, their wants, needs, and pain points, you’re ready to turn this empathy into an actionable problem statement.
 
 The relationship between the empathise and define stages can best be described in terms of analysis and synthesis. In the empathise phase, we use analysis to break down everything we observe and discover about our users into smaller, more manageable components—dividing their actions and behaviour into “what”, “why” and “how” categories, for example. In the define stage, we piece these components back together, synthesising our findings to create a detailed overall picture.
-WHY IS THE DEFINE STAGE SO IMPORTANT?
+
+## WHY IS THE DEFINE STAGE SO IMPORTANT?
 The defined stage ensures you fully understand the goal of your design project. It helps you to articulate your design problem and provides a clear-cut objective to work towards. The define phase allows you the chance to interpret, understand, synthesize and analyse the data into actionable information that represents the problems our users/clients face.
 
-ANALYSIS AND SYNTHESIS
+## *ANALYSIS AND SYNTHESIS*
 
 Analysis and synthesis are “equally important, and each plays an essential role in the process of creating options and making choices.”
 
-Analysis is about breaking down complex concepts and problems into smaller, easier-to-understand constituents. We do that, for instance, during the first stage of the Design Thinking process, the Empathise stage, when we observe and document details that relate to our users. Synthesis, on the other hand, involves creatively piecing the puzzle together to form whole ideas. This happens during the Define stage when we organise, interpret, and make sense of the data we have gathered to create a problem statement.
+**Analysis** is about breaking down complex concepts and problems into smaller, easier-to-understand constituents. We do that, for instance, during the first stage of the Design Thinking process, the Empathise stage, when we observe and document details that relate to our users. Synthesis, on the other hand, involves creatively piecing the puzzle together to form whole ideas. This happens during the Define stage when we organise, interpret, and make sense of the data we have gathered to create a problem statement.
 
 Although analysis takes place during the Empathise stage and synthesis takes place during the Define stage, they do not only happen in the distinct stages of Design Thinking. In fact, analysis and synthesis often happen consecutively throughout all stages of the Design Thinking process. 
 
-THE PUZZLE
+## THE PUZZLE
 
 In empathising, you were gathering the data and information; you collected all the little pieces of the puzzle together into one box. In the define phase, you are trying to organise those puzzle pieces into something recognisable.
 
@@ -59,7 +60,7 @@ Imagine that the puzzle pieces are the feedback and research from your users and
 What you are doing here is trying to build a picture of the entire experience held by your user/client to identify the main issues faced during their experience; you are getting a picture of the challenge that is being faced by your user.
 
 
-FOCUS ON THE PROBLEM
+## *FOCUS ON THE PROBLEM*
 
 
 
@@ -68,7 +69,8 @@ You may find that there are several problems faced by your users/clients, but th
 The aim is to develop the main problem you have identified into a succinct problem statement. We will explore problem statements later in this section.
 
 The key is to remember that you may uncover a whole list of user/client problems that you cannot solve all at once. You need to rank the problems and choose the one that is impacting the widest user group because solving that will create the greatest impact/value for your users.
-JO EXAMPLE
+
+## JO EXAMPLE
 
 Let’s have a look at this quick and rather strange example which should help you understand why it’s so important to dig deeper and find the ‘real’ problem that we are solving for our user.
 The below 5 points are pieces of data that we pulled from an interview with someone named ‘Jo’.
@@ -78,12 +80,12 @@ When Jo goes during the rain, he comes back home and uses the elevator to get up
 When it’s not raining, he goes up the elevator but only halfway, and then he uses the stairs to get to his floor
 Jo really wants to use the elevator to go all the way up every day.
 
-Challenge: We want to be able to help Jo use the elevator every day to get to his floor.
+**Challenge: We want to be able to help Jo use the elevator every day to get to his floor.**
 
-Already, you may be ideating solutions:
-You may suggest that he only goes for walks on rainy days.
-Or maybe you suggest he find a new apartment with fewer floors.
-...STOP!
+**Already, you may be ideating solutions:**
+-You may suggest that he only goes for walks on rainy days.
+-Or maybe you suggest he find a new apartment with fewer floors.
+-...STOP!
 
 If you find yourself in a space of ideation before you get to the ideation phase...STOP! It is very important to avoid getting into a solution space before you have identified the problem you are working with. This is done by being conscious and guiding the team when empathising and defining. 
 
@@ -98,9 +100,9 @@ Jo cannot reach the highest floor level in the elevator because he is too short.
 
 The problem is now much clearer for us to solve. Let’s take a brief look at the output/outcome of the defined phase before we get into problem statements, and how we can turn the problem identified for Jo into a useful and actionable ‘How Might We’ statement.
 
-THE OUTPUT
+## THE OUTPUT
 
-The outcome of the defined phase is a “Problem Statement”, and a “How might we” (HMW) statement. An HMW statement is a proactive expression of the problem statement. Very briefly, a problem statement is an exact expression of the problem the user faces: “The problem is that people can’t butter toast with a fork”. We transform the statement into something proactive: “How might we help people butter bread with a fork?”
+The **outcome** of the defined phase is a **“Problem Statement”**, and a **“How might we” (HMW)## statement. An HMW statement is a proactive expression of the problem statement. Very briefly, a problem statement is an exact expression of the problem the user faces: “The problem is that people can’t butter toast with a fork”. We transform the statement into something proactive: “How might we help people butter bread with a fork?”
 
 We will go deeper into both of these concepts, but hopefully for now you can see that a problem statement is a general definition of the current situation experienced, and a HMW is an active statement that looks at finding a resolution for the problem faced. Simply, it’s rewording the problem statement into something forward-looking and focused on a solution.
 
@@ -108,7 +110,7 @@ Now that you have a good overview of the define phase, let’s jump into some of
 
 
 
-Take some time to watch this video to summarise what we are doing in the define phase.
+Take some time to watch [this video](https://www.youtube.com/watch?v=TNAdanuvwtc) to summarise what we are doing in the define phase.
 
 
 
@@ -131,51 +133,52 @@ Take some time to watch this video to summarise what we are doing in the define 
 
 
 
-PROBLEM STATEMENT
+## PROBLEM STATEMENT
 
+![Defne, bull's eye](definebullseye.png)
 
 When we spoke about Jo in our example above, we noticed that there were a whole host of elements that contribute to Jo’s situation. But to solve the situation that Jo is in, we need to understand precisely what the problem is that he is facing. What we need is a problem statement to help us frame Jo’s problem accurately.
 
-So what is a problem statement? Well, simply put, a problem statement is: a concise description of an issue to be addressed or a condition to be improved upon. It is a descriptive statement that discusses the concerns or obstacles faced by your user that you discovered during empathising and further defining. We need this type of statement as it helps guide the design team when ideating and ensures that there is a tight focus on the precise problem the user faces so that we design an appropriate solution.
+So what is a problem statement? Well, simply put, **a problem statement is: a concise description of an issue to be addressed or a condition to be improved upon. It is a descriptive statement that discusses the concerns or obstacles faced by your user that you discovered during empathising and further defining.** We need this type of statement as it helps guide the design team when ideating and ensures that there is a tight focus on the precise problem the user faces so that we design an appropriate solution.
 
 What is also important to note is that you may only come up with one problem statement during this phase. This is perfectly fine. Having one statement shows that you have a clear focus and direction. Having multiple problem statements might indicate that you are solving problems for multiple user types, or one user but in multiple scenarios. This is perfectly acceptable too. Your challenge will be having to decide which problem statement is most crucial for you to solve in this design thinking process.
 
 This process step can be hard for some. The idea that you need to take all of your thoughts, stats, facts, research, and findings and consolidate them into one succinct statement is quite intimidating. Not all of your research and findings will be relevant or useful, and some might lead to one type of problem statement, while other leads to another - remember, it’s perfectly fine to have more than one statement.
 
-Let's recap on what a problem statement is
+[Let's recap on what a problem statement is.](https://youtu.be/vjCCC2kFJcQ)
 
 
-POV STATEMENT
+## POV STATEMENT
 You may come across the term “Point of View Statement (POV)”. This is synonymous with a Problem Statement. Both of these terms are the name given to a succinct sentence that stipulates the essence of the problem that a user faces. The POV statement merely aims to indicate to us that the statement is from the perspective of the user, and it’s an explicit expression of the problem you are striving to address for them.
 
-WHAT MAKES A GOOD PROBLEM STATEMENT
+## WHAT MAKES A GOOD PROBLEM STATEMENT
 
 A good problem statement is:
-Human-Centered: The focus should be on the user that we are solving for, not on products or services. Do not think about feasibility or viability here.
-Broad/Non-Solution-focused: The statement should not be limited to including any specific solution.
-Narrow: The statement needs to have restrictions and limitations, otherwise we will solve too broad of a problem that may be unattainable.
-Action Orientated: The statement should focus on what the user wants to achieve or do.
-Concise: The statement is a short description - it is not a 5 sentence paragraph explaining the issue; it is a simple sentence that fully encompasses the issue faced by the user.
+**Human-Centered:** The focus should be on the user that we are solving for, not on products or services. Do not think about feasibility or viability here.
+**Broad/Non-Solution-focused:** The statement should not be limited to including any specific solution.
+**Narrow:** The statement needs to have restrictions and limitations, otherwise we will solve too broad of a problem that may be unattainable.
+**Action Orientated:** The statement should focus on what the user wants to achieve or do.
+**Concise:** The statement is a short description - it is not a 5 sentence paragraph explaining the issue; it is a simple sentence that fully encompasses the issue faced by the user.
 
-BUILDING YOUR PROBLEM STATEMENT
+## BUILDING YOUR PROBLEM STATEMENT
 
 A great tactic to help you build your statement is to think about it in terms of the 5 question words: Who, what, where, when, how, and why.
 
-Who: Who does the problem affect? Specific groups, organizations, customers, etc.
-What: What does the user want to achieve? What do they need?
-What is the issue?
-What is the impact of the issue?
-When: When does the issue occur?; When does it need to be fixed?
-Where: Where is the issue occurring? Only in certain locations, processes, products, etc.
-How: How is the problem affecting the user?
-Why: Why is it important that we fix the problem?
+ - **Who:** Who does the problem affect? Specific groups, organizations, customers, etc.
+ - **What:** What does the user want to achieve? What do they need?
+    - What is the issue?
+    - What is the impact of the issue?
+**When:** When does the issue occur?; When does it need to be fixed?
+**Where:** Where is the issue occurring? Only in certain locations, processes, products, etc.
+**How:** How is the problem affecting the user?
+**Why:** Why is it important that we fix the problem?
 
 However, in building your problem statement, you are focused on: Who, what, and why.
-Who needs what and why?
+*Who* needs *what* and why?
 
 So your format of the statement would look like this:
 
-User (X ) characteristics (use your persona to describe your user)  needs ( what do they need/ what are their motivations)  insights ( why do they need what they need)
+**User (X ) characteristics (use your persona to describe your user)  needs ( what do they need/ what are their motivations)  insights ( why do they need what they need)**
 
 
 
