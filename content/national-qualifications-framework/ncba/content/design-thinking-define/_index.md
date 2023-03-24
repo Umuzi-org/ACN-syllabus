@@ -136,7 +136,7 @@ We will go deeper into both of these concepts, but hopefully for now you can see
 
 Now that you have a good overview of the define phase, let’s jump into some of those tools. First, we will look at ‘Problem Statements’.
 
-
+![researchagendaandmission](researchagendaandmission.gif)
 
 Take some time to watch [this video](https://www.youtube.com/watch?v=TNAdanuvwtc) to summarise what we are doing in the define phase.
 
