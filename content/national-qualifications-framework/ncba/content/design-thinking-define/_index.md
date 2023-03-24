@@ -64,6 +64,8 @@ Although analysis takes place during the Empathise stage and synthesis takes pla
 
 ## THE PUZZLE
 
+![thepuzzle](thepuzzle.jpg)
+
 In empathising, you were gathering the data and information; you collected all the little pieces of the puzzle together into one box. In the define phase, you are trying to organise those puzzle pieces into something recognisable.
 
 Imagine that the puzzle pieces are the feedback and research from your users and clients - the user journeys, the empathy maps, and the interviews. In figuring out how the puzzle fits together, you need to synthesise and analyse all these findings. The puzzle itself, once complete, represents the challenge/problem that the user/client faces which you will tackle.
