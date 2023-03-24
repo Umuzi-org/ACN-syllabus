@@ -2,20 +2,20 @@
 _db_id: 230
 content_type: project
 flavours:
-  - any_language
+- any_language
 prerequisites:
   hard:
-    - topics/unit-testing-mocks-and-spies
-    - topics/linux/os-environmental-variables
+  - topics/unit-testing-mocks-and-spies
+  - topics/linux/os-environmental-variables
   soft: []
 ready: true
 story_points: 8
 submission_type: repo
 tags:
-  - tdd
-  - mocks
-  - environmental variables
-  - smtp
+- tdd
+- mocks
+- environmental variables
+- smtp
 title: Email random inspirational quote
 ---
 
