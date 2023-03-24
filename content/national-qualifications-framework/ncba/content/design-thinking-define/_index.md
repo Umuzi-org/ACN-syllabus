@@ -75,7 +75,7 @@ What you are doing here is trying to build a picture of the entire experience he
 
 ## *FOCUS ON THE PROBLEM*
 
-![whatproblemarewetryingtosolve](whatproblemarewetryingtosolve)
+![whatproblemarewetryingtosolve](whatproblemarewetryingtosolve.png)
 
 You may find that there are several problems faced by your users/clients, but the focus in this section needs to be on the problem that has the greatest impact on your user/client. Why solve something that only affects a few people? You want to solve the issue that is present in most people's experiences.
 
@@ -85,30 +85,45 @@ The key is to remember that you may uncover a whole list of user/client problems
 
 ## JO EXAMPLE
 
+![Jo](Jo.png)
+
 Let’s have a look at this quick and rather strange example which should help you understand why it’s so important to dig deeper and find the ‘real’ problem that we are solving for our user.
+
 The below 5 points are pieces of data that we pulled from an interview with someone named ‘Jo’.
-Jo loves to take a walk in the park with his dog.
-Jo even goes when it is raining
-When Jo goes during the rain, he comes back home and uses the elevator to get up to his apartment.
-When it’s not raining, he goes up the elevator but only halfway, and then he uses the stairs to get to his floor
-Jo really wants to use the elevator to go all the way up every day.
+
+1. Jo loves to take a walk in the park with his dog.
+
+2. Jo even goes when it is raining
+
+3. When Jo goes during the rain, he comes back home and uses the elevator to get up to his apartment.
+
+4. When it’s not raining, he goes up the elevator but only halfway, and then he uses the stairs to get to his floor
+
+5. Jo really wants to use the elevator to go all the way up every day.
 
 **Challenge: We want to be able to help Jo use the elevator every day to get to his floor.**
 
 **Already, you may be ideating solutions:**
--You may suggest that he only goes for walks on rainy days.
--Or maybe you suggest he find a new apartment with fewer floors.
--...STOP!
+
+- You may suggest that he only goes for walks on rainy days.
+
+- Or maybe you suggest he find a new apartment with fewer floors.
+
+- ...STOP!
 
 If you find yourself in a space of ideation before you get to the ideation phase...STOP! It is very important to avoid getting into a solution space before you have identified the problem you are working with. This is done by being conscious and guiding the team when empathising and defining. 
 
 Ideally, though, you would decide to dig a bit deeper in defining this problem for Jo. So you decide to ask him some more questions. By asking some why questions, you may find out that:
-Jo is very short, he actually has dwarfism
-Jo takes an umbrella walking with him when it rains
-He uses the umbrella to reach the highest button in the elevator
+
+- Jo is very short, he actually has dwarfism
+
+- Jo takes an umbrella walking with him when it rains
+
+- He uses the umbrella to reach the highest button in the elevator
 
 Now that you have these vital pieces of information, you can better define the problem that Jo faces: 
-Jo cannot reach the highest floor level in the elevator because he is too short.
+
+- Jo cannot reach the highest floor level in the elevator because he is too short.
 
 
 The problem is now much clearer for us to solve. Let’s take a brief look at the output/outcome of the defined phase before we get into problem statements, and how we can turn the problem identified for Jo into a useful and actionable ‘How Might We’ statement.
