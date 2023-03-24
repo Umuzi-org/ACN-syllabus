@@ -75,7 +75,7 @@ What you are doing here is trying to build a picture of the entire experience he
 
 ## *FOCUS ON THE PROBLEM*
 
-
+![whatproblemarewetryingtosolve](whatproblemarewetryingtosolve)
 
 You may find that there are several problems faced by your users/clients, but the focus in this section needs to be on the problem that has the greatest impact on your user/client. Why solve something that only affects a few people? You want to solve the issue that is present in most people's experiences.
 
