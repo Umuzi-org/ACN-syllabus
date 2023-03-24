@@ -42,6 +42,9 @@ It’s time to accumulate the information gathered during the Empathise stage. Y
  ![definebullseye](definebullseye.png)
 
 ## THE DEFINE STAGE OVERVIEW
+
+![definestageoverview](definestageoverview.png)
+
 The define stage is perhaps the most challenging part of the Design Thinking process, as the definition of a problem (also called a design challenge) will require you to synthesise your observations about your users from the first stage in the Design Thinking process.
 
 The define stage is preceded by the empathise stage, where you learn as much as possible about your users, conduct interviews, and used a variety of immersion and observation techniques. Once you have a good idea of who your users are and, most importantly, their wants, needs, and pain points, you’re ready to turn this empathy into an actionable problem statement.
