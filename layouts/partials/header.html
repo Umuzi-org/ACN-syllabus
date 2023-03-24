@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    {{ hugo.Generator }} 
+    {{ .Hugo.Generator }}
     {{ partial "meta.html" . }}
     {{ partial "favicon.html" . }}
     <title>{{ .Title }} :: {{ .Site.Title }}</title>
@@ -92,13 +92,13 @@
         {{define "breadcrumb"}}
           {{$parent := .page.Parent }}
           {{ if $parent }}
-            {{ $value := (printf "<a href='%s'>%s</a> > %s" $parent.RelPermalink $parent.Title .value) }}
+            {{ $value := (printf "<a href='%s'>%s</a> > %s" $parent.URL $parent.Title .value) }}
             {{ template "breadcrumb" dict "page" $parent "value" $value }}
           {{else}}
             {{.value|safeHTML}}
           {{end}}
         {{end}}
-        
+
 
         <table>
             {{ if .Page.Params.story_points }}
@@ -178,9 +178,9 @@
 
 
 
-        {{ if hasPrefix .Page.File.Dir "projects"}}
+        {{ if hasPrefix .Page.Dir "projects"}}
         {{ if not .Page.Params.noform }}
-        {{ $path := .Page.File.Dir }}
+        {{ $path := .Page.Dir }}
         {{ $trimmed := trim $path "projects/"}}
 
 
