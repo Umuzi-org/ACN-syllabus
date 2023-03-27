@@ -140,30 +140,9 @@ Now that you have a good overview of the define phase, let’s jump into some of
 
 Take some time to watch [this video](https://www.youtube.com/watch?v=TNAdanuvwtc) to summarise what we are doing in the define phase.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## PROBLEM STATEMENT
 
-![Defne, bull's eye](definebullseye.png)
+![problemsheadcausion](problemsheadcausion.png)
 
 When we spoke about Jo in our example above, we noticed that there were a whole host of elements that contribute to Jo’s situation. But to solve the situation that Jo is in, we need to understand precisely what the problem is that he is facing. What we need is a problem statement to help us frame Jo’s problem accurately.
 
@@ -208,46 +187,49 @@ So your format of the statement would look like this:
 
 **User (X ) characteristics (use your persona to describe your user)  needs ( what do they need/ what are their motivations)  insights ( why do they need what they need)**
 
-
+![buildingproblemstatement](buildingproblemstatement.png)
 
 
 Example
-Let’s go back to Jo and let’s try to build out his problem statement.
-Remember, we are looking for: who is the person experiencing the problem, what do they need/desire, and why do they need it.
+**Let’s go back to Jo and let’s try to build out his problem statement.**
 
-If we tend to each element on its own:
-Who: Jo, who is a person with dwarfism
-What: Jo wants to be able to select buttons in the lift that are out of reach no matter the weather.
-Why: Jo wants to get to his floor without having to get out and use the stairs.
+Remember, we are looking for: ***who* is the person experiencing the problem, ***what** do they need/desire, and ***why* do they need it.
+
+**If we tend to each element on its own:**
+
+ - Who: Jo, who is a person with dwarfism
+ 
+ - What: Jo wants to be able to select buttons in the lift that are out of reach no matter the weather.
+ 
+ - Why: Jo wants to get to his floor without having to get out and use the stairs.
 
 So the problem statement for Jo could be: “As a person with dwarfism, I need to be able to select buttons in the elevator that are out of reach no matter the weather because I need to get to my floor without having to get out and use the stairs.”
 
-CURRENT VS FUTURE
+##CURRENT VS FUTURE
 
-You may find that some problem statements are forward-looking while others are focused on the current situation. An example would best explain this:
+You may find that some problem statements are ***forward-looking** while others are focused on the **current situation**. An example would best explain this:
 
-Current: As a car driver, I have problems reading road signs, because my eyesight is bad.
+**Current:** As a car driver, I have problems reading road signs, because my eyesight is bad.
 
-Future: As a car driver with bad eyesight, I need to be able to read road signs better, because it will make me a safer driver.
+**Future:** As a car driver with bad eyesight, I need to be able to read road signs better, because it will make me a safer driver.
 
-The current situation describes the problem the user is facing now without looking forward as to what they need, whereas the future looking focuses on the current situation as well as what the user needs/desires. Your focus should always be on the future focused statement as it includes an action for us to focus on - fulfilling what the user needs.
+The current situation describes the problem the user is facing now without looking forward as to what they need, whereas the future looking focuses on the current situation as well as what the user needs/desires. ***Your focus should always be on the future focused statement as it includes an action for us to focus on - fulfilling what the user needs.**
 
-Let’s take a look at HMW (How Might We) statements before looking at some more examples of problems and HMW statements.
+Let’s take a look at **HMW (How Might We)** statements before looking at some more examples of problems and HMW statements.
 
-HOW MIGHT WE STATEMENTS
+##HOW MIGHT WE STATEMENTS
+
+![howmightwe](howmightwe.jpg)
+
+Now that you have learned how to develop your problem statement, we need to learn how to reframe it into something that allows us to be solution-oriented. The original problem statement is exactly that, it’s a problem. **We want to reword it so that we are focusing on solving the problem.** We do this by transforming the problem statement into a “How Might We” statement.
+**“Every problem is an opportunity for design. By framing your challenge as a How Might We question, you’ll set yourself up for an innovative solution.” — Designkit.org**
+
+Let’s take a look at [this short video](https://youtu.be/mRpUV-uIkF8) explaining How Might We.
+
+Also take a look at [this short video](https://youtu.be/6BfIK3suMBo) to understand why reframing the wording of the problem statement into an HMW is so important.
 
 
-
-
-Now that you have learned how to develop your problem statement, we need to learn how to reframe it into something that allows us to be solution-oriented. The original problem statement is exactly that, it’s a problem. We want to reword it so that we are focusing on solving the problem. We do this by transforming the problem statement into a “How Might We” statement.
-“Every problem is an opportunity for design. By framing your challenge as a How Might We question, you’ll set yourself up for an innovative solution.” — Designkit.org
-
-Let’s take a look at this short video explaining How Might We.
-
-Also take a look at this short video to understand why reframing the wording of the problem statement into an HMW is so important.
-
-
-DEVELOPING YOUR HMW
+***DEVELOPING YOUR HMW**
 
 Let’s head back to our main-man Jo. If you recall, we had defined his problem statement as:
 “As a person with dwarfism, I need to be able to select buttons in the elevator that are out of reach no matter the weather because I need to get to my floor without having to get out and use the stairs”. As you can see, this isn’t forward-looking; we need to transform it into something that is solution orientated.
@@ -261,8 +243,11 @@ The same limitations on problem statements - being too broad, too narrow, not co
 
 Before we continue with some examples, let’s take a look at this screenshot which does a great job of showing how different types of HMWs can be developed from just one problem statement. Take note of the methods they use to find the HMW - thinking about applying the good, removing the bad, or even changing the way the problem is traditionally solved.
 
-Let’s summarise this by watching this video.
-EXAMPLES
+![developinghowmightwe](developinghowmightwe)
+
+Let’s summarise this by watching [this video](https://youtu.be/MJWLON3Sy4E)
+
+***EXAMPLES**
 
 
 Remember, you will start by having a ‘challenge’ or a brief you need to work on - this is the puzzle that you have built from all your synthesizing in the empathise and define phase. This challenge will represent the problem situation or environment in which our user is experiencing something.
