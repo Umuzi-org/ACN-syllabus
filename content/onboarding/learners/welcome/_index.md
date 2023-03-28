@@ -11,3 +11,8 @@ The young people (YOU) that move through our programmes are at the heart of what
 Join us in being part of this movement!
 
 **ENERGY, CONNECTION, IMPACT**
+
+#**Now for a little bit of admin before we move forward!**
+
+**If you haven’t** completed the payroll information form, the baeline survey and/or submitted your certified documents just yet, [click here]( https://docs.google.com/document/d/18dKQlxM8CMWaP0MJAf5PXdi_mqg_cNfUePiOD_YjhSo/edit) to do so before continuing to the next card. 
+
