@@ -2,16 +2,16 @@
 _db_id: 266
 content_type: project
 flavours:
-- any_language
+  - any_language
 prerequisites:
   hard:
-  - projects/tdd/simple-calculator-part1
+    - projects/tdd/simple-calculator-part1
   soft: []
 ready: true
 submission_type: repo
 tags:
-- tdd
-- regular-expressions
+  - tdd
+  - regular-expressions
 title: string-calculator part 1
 ---
 
@@ -24,14 +24,19 @@ Please test your code using jasmine.
 Your directory structure should look like this.
 
 ```
-    >node_modules    <---- make sure this is in your .gitignore
-    >spec
-        > support
-            - jasmine.json
-        - string_calculator_spec.js
-    >src
-        - string_calculator.js
-    - package.json
+├── spec
+|   ├── support
+|   |   └── jasmine.json
+|   └── string_calculator_spec.js
+├── src
+|   └── string_calculator.js
+└── package.json
+```
+
+**Note**: Please export your `add` function using the following syntax at the end of the code:
+
+```
+module.exports = {functionName}
 ```
 
 ### Python
@@ -59,7 +64,7 @@ Please use junit to test your code https://www.guru99.com/junit-test-framework.h
     └── main
     |   └── java
     |       └── StringCalculator
-    |       └── Main    
+    |       └── Main
     └── test
         └── java
            └── StringCalculatorTest
@@ -179,7 +184,6 @@ For example:
 add("//***\n1***2***3")
 // should return 6
 ```
-
 
 ### Why is this important?
 
