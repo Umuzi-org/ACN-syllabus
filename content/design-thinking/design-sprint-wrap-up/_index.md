@@ -13,6 +13,7 @@ tags:
 - design-thinking-sprint
 title: Design Sprint wrap-up
 ---
+
 ## Well done, you did it!
 Congratulations on completing the **Design Thinking Sprint**. We hope this sprint has helped you understand and use the *5 step process of Design Thinking* and that it has opened up an entirely new way of thinking for you. 
 
