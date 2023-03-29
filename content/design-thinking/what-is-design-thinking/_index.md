@@ -28,7 +28,7 @@ Design thinking usually starts with gaining a general understanding, a process c
 
 ## 5 STEPS TO SOLVING PROBLEMS 
 
-# Insert picture: 5 Steps to solving problems
+![5-steps-to-problem-solving](5_Steps_to_Solving_Problems.png)
 
 We are going to be learning these principles using the IDEO Design Thinking 5 step process which includes: Empathise, Define, Ideate, Prototype and Test.
 
