@@ -7,8 +7,7 @@ tags:
 - design-thinking-sprint
 title: Step 3 - Ideate
 ---
-# Insert image: Step 3_Ideate
-
+![Step 3_Ideate](Step 3_Ideate.png)
 ## Coming Up With Different Ideas
 During Ideation, the aim is to generate a large quantity of ideas that the team can then filter and cut down into the best, most practical or most innovative, in order to inspire new and better design solutions and products. Ideation is often the most exciting stage in the Design Thinking process, as you are now out of the heavy detailed research and empathising, and are now free to explore ideas and really open up that right brain.
 
