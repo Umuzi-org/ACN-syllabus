@@ -5,9 +5,10 @@ ready: true
 tags:
 - design-thinking
 - design-thinking-sprint
-title: What is design thinking - test
+title: Step 5 - Test
 ---
-# Insert picture: Step 5_Test
+
+![Step 5_Test](Step 5_Test.png)
 
 ## Checking In With Your User
 The final stage is called Test and is different to prototyping because now your product actually exists. You created a basic version of the tech and you've got some kind of service that users or customers can pay for and use. You’re out of the problem and solution finding phases and now into a real product or service - an actual thing!
