@@ -9,7 +9,7 @@ title: Step 1 - Empathise
 ---
 # Step 1 - Empathise
 
-# Insert picture - Step 1_Empathise
+![Step 1_Empathise](Step 1_Empathise.png)
 
 ## Who is the User?
 
