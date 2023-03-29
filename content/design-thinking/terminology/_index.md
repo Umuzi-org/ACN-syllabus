@@ -38,11 +38,11 @@ title: Terminology
 
 **QUALITATIVE:** Qualitative research involves collecting and analyzing non-numerical data (e.g., text, video, or audio) to understand concepts, opinions, or experiences. It can be used to gather in-depth insights into a problem or generate new ideas for research. 
 
-**QUANTITATIVE:** is the process of collecting and analysing numerical data. It can be used to find patterns and averages, make predictions, test causal relationships, and generalise results to wider populations.
+**QUANTITATIVE:** Quantitative research involves collecting and analysing numerical data. It can be used to find patterns and averages, make predictions, test causal relationships, and generalise results to wider populations.
 
-**LOW FIDELITY:**  (lo-fi) prototyping is a quick and easy way to translate high-level design concepts into tangible and testable artifacts. The first and most important role of lo-fi prototypes is to check and test functionality rather than the visual appearance of the product.
+**LOW FIDELITY:** (lo-fi) prototyping is a quick and easy way to translate high-level design concepts into tangible and testable artifacts. The first and most important role of lo-fi prototypes is to check and test functionality rather than the visual appearance of the product.
 
-**HIGH FIDELITY:**  (hi-fi) prototypes appear and function as similar as possible to the actual product that will ship. Teams usually create high-fidelity prototypes when they have a solid understanding of what they are going to build and they need to either test it with real users or get final-design approval from stakeholders.
+**HIGH FIDELITY:** (hi-fi) prototypes appear and function as similar as possible to the actual product that will ship. Teams usually create high-fidelity prototypes when they have a solid understanding of what they are going to build and they need to either test it with real users or get final-design approval from stakeholders.
 
 **OPEN-ENDED QUESTIONS:** "Open-ended questions prompt the beginning of a longer conversation by asking questions starting with "why," "how," and "what if?" Closed-ended questions can be answered with single-word answers, such as "yes" or "no”.
 
