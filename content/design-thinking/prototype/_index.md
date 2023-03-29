@@ -7,7 +7,7 @@ tags:
 - design-thinking-sprint
 title: Step 4 - Prototype
 ---
-# Insert picture: Step 4_Prototype
+![Step 4_Prototype](Step 4_Prototype.png)
 
 ## Coming Up With a Solution
 Prototyping is one of the wonders of Design Thinking, where problem solvers build out a basic version of what they think will address their user’s problem, and run it by them to see that it is actually useful. We want to learn if our users think our ideas are good before we build a product they don't like, an issue that so many problem solvers run into in the real world!. 
