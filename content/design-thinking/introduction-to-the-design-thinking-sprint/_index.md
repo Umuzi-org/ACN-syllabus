@@ -13,7 +13,7 @@ This sprint will take you through the 5 step process of Design Thinking to assis
 
 Design Thinking is a term that is used broadly to describe an iterative process to collaboratively solve problems that people, customers or users experience.  It is sometimes referred to as user or human-centred design (HCD), to emphasise the focus on the ‘human user’. There are a lot of new words which we’ll be touching on, there’s a **TERMINOLOGY** topic card to help you familiarise yourself with all the new words during this sprint.
 
-### Insert image
+![intro to design thinking](Introduction_Design Sprint.png)
 
 Before embarking on your challenge, it’s important you understand Design Thinking from your own perspective and within your own contexts. 
 
