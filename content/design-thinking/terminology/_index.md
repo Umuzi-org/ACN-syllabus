@@ -7,6 +7,7 @@ tags:
 - design-thinking-sprint
 title: Terminology
 ---
+
 # Terminology
 ## Know the meaning
 
