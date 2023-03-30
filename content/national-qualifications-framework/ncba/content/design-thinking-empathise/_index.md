@@ -48,9 +48,11 @@ Design thinking is a non-linear, iterative process that can have anywhere from t
 Let's take an overview look at DT. Watch these two videos for a quick overview first:
 
 ![thedesignthinkingprocess](thedesignthinkingprocess.png)
+
 [The Design Thinking Process](https://www.youtube.com/watch?v=_r0VX-aU_T8&vl=en)
 
 ![whatisdesignthinking](whatisdesignthinking.png)
+
 [What Is Design Thinking?](https://www.youtube.com/watch?v=a7sEoEvT8l8)
 
 ### THE 5 STAGES OF DESIGN THINKING
@@ -373,17 +375,21 @@ Your goal should be to create a believable and alive character. Avoid adding ext
 
 Thus, each piece of information should have a purpose for being included: if it would not affect the final design or help make any decision easier, omit it. 
 
+![janetthefamilyplanner](janetthefamilyplanner.jpg)
 
-
-USER JOURNEYS
+### USER JOURNEYS
 
 A user journey is a path a user may take to reach their goal when using a particular service/product. User journeys are used in designing services/products to identify the different ways to enable the user to achieve their goal as quickly and easily as possible.
 
 They can be used to:
-Demonstrate the way users currently interact with the service/product
-The way you may want users to use your product/service in the future
-They help us understand user behavior – user journeys can help you work out how users are going to interact with your system and what they expect from it
-They help identify possible functionality at a high level – by understanding the key tasks they will want to do so you can start to understand what sort of functional requirements will help enable those tasks
+
+   - Demonstrate the way users currently interact with the service/product
+
+   - The way you may want users to use your product/service in the future
+
+   - They help us understand user behavior – user journeys can help you work out how users are going to interact with your system and what they expect from it
+
+   - They help identify possible functionality at a high level – by understanding the key tasks they will want to do so you can start to understand what sort of functional requirements will help enable those tasks
 They help you define your taxonomy and interface – By understanding the ‘flow’ of the various tasks the user will want to undertake, you can start to think about what sort of taxonomy can help support those tasks and what kind of interface the user will be needing to accomplish them
 
 It is also important to note that journey maps can be both high and low fidelity. This means that they can be as simple as some hand drawing on a whiteboard, all the way to a fully designed map using software and tools.
@@ -391,48 +397,65 @@ It is also important to note that journey maps can be both high and low fidelity
 Another note is that you need to choose a persona to focus the journey map on. So you can only work on journey maps once you have developed your personas and empathy maps.
 
 So before attempting a user journey make sure you understand:
-Your user’s goals
-Their motivations
-Their current pain points
-Their overall character
-The main tasks they want to achieve
-Context – Where is the user? What is around them? Are there any external factors that may be distracting them? Further reading: Contextual product backlogs
-Progression – How does each step enable them to get to the next?
-Devices – what device are they using? Are they a novice or experts? What features does the device have
-Functionality – What type of functionality are they expecting? Is it achievable?
-Emotion – What is their emotional state in each step? Are they engaged, bored, or annoyed?
 
+   - Your user’s goals
 
+   - Their motivations
 
+   - Their current pain points
 
+   - Their overall character
 
-Let’s take a look at the following video on How to Create User Journeys
+   - The main tasks they want to achieve
 
-WHAT’S NEXT?
+   - Context – Where is the user? What is around them? Are there any external factors that may be distracting them? Further reading: Contextual product backlogs
+
+   - Progression – How does each step enable them to get to the next?
+
+   - Devices – what device are they using? Are they a novice or experts? What features does the device have
+
+   - Functionality – What type of functionality are they expecting? Is it achievable?
+
+   - Emotion – What is their emotional state in each step? Are they engaged, bored, or annoyed?
+
+![userjourney](userjourney.png)
+
+Let’s take a look at the following video on [How to Create User Journeys](https://www.youtube.com/watch?v=mSxpVRo3BLg)
+
+### WHAT’S NEXT?
 
 Well, by now you should see that getting to know your user is the main focus of the Empathising phase. 
 
 You’ve learnt the following from the module:
-The fundamentals of Design Thinking
-How to identify the long-term goal and objectives
-How to identify the mission of the organisation
-How to identify the client requirements to achieve the long-term objective
-How to do ‘empathising’
-How to conduct interviews and create questionnaires
-How to observe and report on user behaviour
-How to build User Journeys
-How to build Empathy Maps
 
-Next up, in Module 5, we will be looking at the Define phase of Design Thinking :)
+   - The fundamentals of Design Thinking
+
+   - How to identify the long-term goal and objectives
+
+   - How to identify the mission of the organisation
+
+   - How to identify the client requirements to achieve the long-term objective
+
+   - How to do ‘empathising’
+
+   - How to conduct interviews and create questionnaires
+
+   - How to observe and report on user behaviour
+
+   - How to build User Journeys
+
+   - How to build Empathy Maps
+
+Next up, in Module 5, we will be looking at the **Define** phase of Design Thinking :)
 
 
+### ADDITIONAL RESOURCES
 
+#### ARTICLES: 
 
+[How to empathise](https://www.interaction-design.org/literature/article/stage-1-in-the-design-thinking-process-empathise-with-your-users) 
 
+[https://www.interaction-design.org/literature/topics/empathy](https://www.interaction-design.org/literature/topics/empathy) 
 
-ADDITIONAL RESOURCES
+[https://careerfoundry.com/en/blog/ux-design/what-is-design-thinking-everything-you-need-to-know-to-get-started/](https://careerfoundry.com/en/blog/ux-design/what-is-design-thinking-everything-you-need-to-know-to-get-started/)
 
-ARTICLES: 
-How to empathise 
-https://www.interaction-design.org/literature/topics/empathy 
-https://careerfoundry.com/en/blog/ux-design/what-is-design-thinking-everything-you-need-to-know-to-get-started/
