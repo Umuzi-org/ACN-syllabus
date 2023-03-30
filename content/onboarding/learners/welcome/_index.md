@@ -1,4 +1,4 @@
-![congratulations pic]()
+![congratulations pic](Congratulations_pic.png)
 
 ##**Who are we and what do we do?**
 
