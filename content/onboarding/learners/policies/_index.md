@@ -237,6 +237,249 @@ Open Classrooms Course: Learn to work autonomously - [link](https://openclassroo
 
 
 
+**#PRESENTATION OF SEXUAL EXPLOITATION AND ABUSE TRAINING (PSEA)**
+
+**##REPORT IT, PREVENT IT, STOP IT**
+
+![zerotolerance](zero_tolerance.jpg)
+
+Umuzi has a zero tolerance policy towards acts of sexual exploitation and abuse by all Umuzi representatives (including learners). All forms of sexual exploitation and abuse (SEA) are prohibited and constitute serious misconduct. These are therefore grounds for initiating disciplinary proceedings, which may ultimately lead to summary dismissal or termination of contract, and other serious measures in accordance with the legal framework applicable to the different categories of the Umuzi personnel. 
+
+**##What is sexual exploitation and abuse?**
+
+![tiedhands](tied_hands.jpg)
+
+The abuse or attempted abuse of a position of vulnerability, differential power or trust for sexual purposes, including, but not limited to, profiting monetarily, socially or politically from the sexual exploitation of another. 
+Similarly, the term “sexual abuse” means the actual or threatened physical intrusion of a sexual nature, whether by force or under unequal or coercive conditions.
 
 
+**##What is sexual harassment?**
+
+![redhands](red_hands.jpg)
+
+It is any unwelcome conduct of a sexual nature when such conduct interferes with work, is made a condition of employment or creates an intimidating, hostile or offensive work environment by an Umuzi representative against each other, or against any other individual.
+
+**Sexual Harassment Conduct /Behaviour includes:**
+
+**1. Physical Sexual harassment**
+
+This is unwanted physical contact; touching, sexual assault, rape, or a strip search by or in the presence of the opposite sex.
+
+
+**2. Verbal Sexual harassment**
+
+This is unwanted innuendoes, jokes, suggestions, hints, and improper sexual conversation. Sexual advances, comments with sexual overtones, and sex-related jokes are considered improper in a professional work environment and can cause offence and hurt. 
+
+Insults or unwelcome graphical comments about a person’s body made in the presence of or directed toward a person is harassment. 
+
+Unwelcome and inappropriate enquiries about a person’s sex life and sexuality, sexuality constitutes sexual harassment. Unwelcome whistling and catcalling directed at a person or group of persons constitute sexual harassment. 
+
+**3. Non-verbal Sexual harassment**
+
+This is unwelcomed gestures, indecent exposure, and the display of sexually explicit pictures and objects in the professional work environment are unacceptable and considered sexual harassment. 
+
+Quid pro quo harassment occurs when an owner, employer, supervisor, member of  management, contracted consultant undertakes or attempts to influence the process of employment,  promotion, training, discipline, dismissal, salary increment or other benefits of an employee, learner, or  job applicant in exchange for sexual favours. 
+
+Sexual favouritism exists where a person who is in a position of authority rewards only those who respond to his/her sexual advances, whilst other deserving employees who do not submit themselves to any sexual advances are denied promotions, merit rating or salary increases. 
+
+
+**#Key Responsibilities**
+![responsibility](responsibility.png)
+
+It is the responsibility of the Umuzi representative to report any person and to report incidences of sexual exploitation and abuse. 
+
+Managers and others in leadership positions, in particular, are responsible for creating and maintaining an environment in which the Umuzi representatives are aware of the organisation’s expectations on prevention of sexual exploitation and abuse - either actual and/or suspected inappropriate behaviour. 
+
+
+**##Procedures**
+
+![procedure_policies](procedure_policies.jpg)
+
+The Umuzi management and leadership have a duty to ensure that allegations of sexual exploitation and abuse are investigated and that appropriate disciplinary measures are taken.
+
+The organisation also has a duty to provide appropriate assistance to any victims of sexual exploitation and abuse by the Umuzi representative. 
+
+The organisation shall ensure that reports are investigated and handled in a manner whereby the identities of the persons involved are kept confidential, if necessary and as far as reasonably possible.
+
+
+**##REPORTING AN INCIDENT**
+**How do you tell someone?**
+
+Anyone has the right to make a report about the behaviour of an Umuzi representative in line with our Code of Conduct, PSEA Policy and Whistleblower Policy. 
+ 
+Please include as much information in your complaint, including:
+
+All facts describing the alleged event, issue, or matter,
+
+The name and title of each person involved,
+
+Dates, times, frequency, and locations,
+
+Facts relevant to urgency; and
+
+Documentation, witnesses, or other evidence available to support the allegation, including any laws or policies believed to be breached
+
+
+All sexual relationships between Umuzi representatives and learners on the organisation’s programmes are strongly discouraged as they are based on inherently unequal power dynamics. Such relationships undermine the credibility and integrity of the Umuzi organisations work.
+
+If an Umuzi learner is subjected to engage in any sexual activities with a Umuzi representative, he/she must report this immediately to the People operations manager who liaises with the Managing Director and the Umuzi Disciplinary team to take actions against the Umuzi representative. 
+
+The Head of People and Managing Director, together with the Chair of the Board of Trustees, will decide the appropriate steps which may include an investigation, disciplinary action, reporting to local authorities, supporting criminal prosecution; and referrals for support for victims/survivors.
+
+Sensitive information related to incidents of sexual exploitation and abuse shall be shared only with law enforcement authorities, registered support service agents and relevant Umuzi representatives. 
+
+**##REPORTING IN GOOD FAITH**
+
+Reports should be made in good faith. If the allegation later proves to be untrue, you will not face repercussions if you reported in good faith.
+
+**1. Good Faith**
+
+Reporting in good faith means the report is made with honest and sincere intentions.
+
+**2. False complaints**
+
+The person who makes a complaint of sexual exploitation and abuse that they know to be false are themselves violating the Umuzi standards of conduct and may be subject to disciplinary proceedings or other administrative action.
+
+**3. Anonymous reports**
+
+You do not have to give your name when reporting a suspicion of sexual exploitation and abuse. Anonymous complaints will be treated just as seriously as non-anonymous complaints. If you decide to report anonymously, do provide sufficient details to allow for independent corroboration of the allegation. Otherwise, it may not be possible to investigate.
+
+
+#**SCENARIOS EXAMPLES**
+
+**SCENARIO 1**
+Dimpho and Karabo are learners at Umuzi. They study the same course and are put into a group for an assignment. Dimpho becomes attracted to Karabo and starts to chat to him and eventually explicitly flirts with Karabo. Karabo, being aware of Dimpho’s attraction to him, respectfully informs her that he is not interested. This upsets Dimpho, and instead of accepting Karabo’s response she continues to flirt with him and send very suggestive pictures of her body while she starts a rumour that she and Karabo are a couple within the group. Karabo is upset about this however isn’t sure how to address this without disrupting the group assignment.
+ 
+**HAS DIMPHO COMMITTED SEXUAL EXPLOITATION AND ABUSE?**
+
+**ANSWER TO QUESTION : YES**
+
+Dimpho has committed sexual exploitation and abuse in the following conduct:
+
+The standards of conduct on sexual exploitation and abuse prohibit all Umuzi learners to engage unwanted innuendos, jokes, suggestions, hints and improper sexual conversation in public workspaces.
+
+Unwelcome gestures, indecent exposure, and the display of sexually explicit pictures and objects in the professional work environment are unacceptable and considered sexual harassment.
+
+ 
+**WHAT SHOULD KARABO DO?**
+
+**Karabo must do the following:**
+
+He should report it to the Learner Support manager who will liaise with the People Operations manager for complaint against Dimpho. The People Operations manager will alert the Head of People and Managing Director together with the Head of Learner Experience to decide the appropriate steps which may include an investigation, disciplinary action and more importantly referring Karabo to the designated Wellness support member for counselling.
+
+The People Operations manager, along with the Head of Learner Experience, will come back to Karabo with the two options to resolve his complaint: either an attempt can be made to resolve the complaint in an informal way or a formal procedure (refer to the Umuzi PSEA Policy & Umuzi Disciplinary Procedures) can be sanctioned. 
+
+**Please note that the Umuzi learner should be under no duress to accept either option.**
+
+ 
+**SCENARIO 2**
+
+Serge is part of a group assignment, which he looks forward to as he enjoys collaborating with his peers until a new learner, Curtis, joins at the last minute. 
+
+Towards the end of the group meeting, Curtis has a tendency to talk & boost about his sex life and asks inappropriate questions to everyone including Serge. 
+
+Serge confronts Curtis to stop with his inappropriate questions. This does not deter Curtis and he continues to aggressively ask and even insinuates Serge’s sexual orientation, making Serge feel embarrassed and angry.
+
+**HAS CURTIS COMMITTED SEXUAL EXPLOITATION AND ABUSE?**
+
+**ANSWER TO QUESTION : YES**
+
+Curtis has committed sexual exploitation and abuse in the following conduct:
+The standards of conduct on sexual exploitation and abuse prohibit all Umuzi learners in engaging unwelcome and inappropriate enquiries about a person’s sex life or sexuality as it constitutes sexual harassment.
+
+Unwanted innuendos, jokes, suggestions, hints and improper sexual conversation in public workspaces. Sexual advances, comments with sexual overtones, and sex-related jokes are considered improper in a professional work environment and can cause offence and hurt.
+ 
+
+**WHAT SHOULD SERGE DO?**
+
+**Serge must do the following:**
+
+He should report it to the Head of Learner Experience who will liaise with the People Operations manager for complaint against Curtis or he can go to the Umuzi Wellness site to the direct report form.
+
+Either the People Operations manager will alert the Head of People and Managing Director and the Head of Learner Experience or a Wellness support member will reach Serge for counselling and will alert the Umuzi Disciplinary team. 
+
+The Umuzi Disciplinary team together with the Head of People and Managing Director decide the appropriate steps which may include an investigation and disciplinary action.
+
+The People Operations manager, along with the Head of Learner Experience, will come back to Serge with the two options to resolve his complaint: either an attempt can be made to resolve the complaint in an informal way or a formal procedure (refer to the Umuzi PSEA Policy & Umuzi Disciplinary Procedures) can be sanctioned. 
+
+**Please note that the Umuzi learner should be under no duress to accept either option.**
+
+ 
+##**Investigations and Disciplinary Action**
+
+Umuzi will investigate allegations of sexual exploitation and abuse and will engage professional investigators as appropriate if needed. This may involve local authorities in the police and justice system. Investigations are key to inform appropriate action as well as to uphold the rights to justice for victims/survivors. The safety, consent and protection of the rights of the victim will be central in all processes Umuzi undertakes. This includes upholding the strictest confidentiality.
+
+The Umuzi Disciplinary Team in concert with the Umuzi Wellness Team will take care that  during an investigation of a grievance of sexual harassment, that the aggrieved person is not  disadvantaged, and that the position of other parties is not prejudiced if the grievance is found to be unwarranted.
+
+The range of disciplinary sanctions to which Umuzi representatives/learners are liable is clearly stated in the Umuzi Code of Conduct and Umuzi Disciplinary Procedures, and therein it is made clear that it is a disciplinary offence to victimise or retaliate against an representative/learner who in good faith lodges a grievance of sexual harassment.
+
+ 
+##**Dispute Resolution**
+
+Should a complaint of alleged sexual harassment not be satisfactorily resolved by Umuzi internal procedures described above and set out in full in the Umuzi Code of Conduct and Umuzi Disciplinary Procedure, either party may within 30 days of the dispute having arisen, refer the matter to the CCMA for conciliation in accordance with the provisions of section 135 of the Labour Relations Act, 1995. Should the dispute remain unresolved, either party may refer the dispute to the Labour Court within 30 days of receipt of the certificate issued by the commissioner in terms of section 135(5).
+
+
+**Criminal and civil charges:**
+
+A victim of sexual assault has the right to press separate criminal and/or civil charges against an alleged perpetrator, and the legal rights of the victim are in no way limited by Umuzi’s PSEA Policy in accordance with the Department of Labour’s issued Code of Good Practice.
+
+**Malicious accusation of sexual harassment:**
+
+In the event where all due process has been followed to investigate an allegation of sexual harassment, and it is for Umuzi that the allegation was made with defamatory intent, such a false accusation of sexual harassment will be dealt with as an instance of serious sexual harassment in and of itself, subject to the same disciplinary process put out for serious offences in Umuzi’s Disciplinary Procedures.
+
+
+##**PROCEDURES  FOR SEXUAL HARASSMENT VICTIMS** 
+
+**Advice & assistance**
+
+Designated Umuzi Wellness Team members, line management, and Wellness Support Counsellors, whom complainants may approach for confidential advice and assistance, have appropriate skills and experience to be able to provide support and advice on a confidential basis. 
+
+There are two options to resolve a problem relating to sexual harassment: either an attempt can be made to resolve the problem in an informal way or a formal procedure (refer to Umuzi Code of Conduct, PSEA Policy & Umuzi Disciplinary Procedures) can be sanctioned. 
+The Umuzi learner should be under no duress to accept either option.
+
+
+**Informal procedure**
+
+An opportunity where the Umuzi representative/learner can explain to the person engaging in the unwanted conduct that the behaviour in question is not welcome, that it offends them or makes them uncomfortable, and that it interferes with their work might be sufficient for the parties involved to resolve the grievance amicably. 
+
+If this informal approach has not provided a satisfactory outcome, if the case is severe, or if the conduct continues, it may be more appropriate to embark upon a formal procedure (refer to Umuzi Code of Conduct, PSEA Policy & Umuzi Disciplinary Procedure). Severe cases may include: persistent harassment, sexual assault, rape, a strip search, and quid pro quo harassment.
+
+
+**Formal procedure**
+
+Where a formal procedure has been chosen by the aggrieved, Umuzi’s Disciplinary Procedure for resolving the grievance is available and discussions with the Disciplinary Team should:
+
+Specify with whom the Umuzi representative/learner should liaise in proceeding with their grievance
+
+Make reference to time frames which allow the grievance to be dealt with expeditiously
+
+Provide that if the case is not resolved satisfactorily, the issue can be dealt with in terms of the dispute procedures contained in item 2.3.2 of the Umuzi PSEA Policy
+
+#**Victim Assistance**
+
+The Umuzi Disciplinary team will ensure that victims are referred to and receive professional assistance, with the assistance of the Wellness team,  informed by their consent and needs and in line with local regulations and guidelines.
+
+**Additional sick leave**
+
+Where a complainant’s existing sick leave entitlement have been exhausted, Umuzi management would give due consideration to the granting of additional sick leave in cases of serious sexual harassment where the learner - on medical advice - requires trauma counselling.
+
+
+##**Umuzi Helpful Links**
+
+[PSEA Policy](https://docs.google.com/document/u/0/d/1R7jvU43fcG5T40XTsERFvNO5xkjaBO4csmuw4X4iFJQ/edit)
+
+[Whistleblower Policy](https://docs.google.com/document/u/0/d/15Xyuta72Kr6W3R-bXtjAC8Tbb8jMaNR1YDWuHtBylWw/edit)
+
+[Umuzi Code of Conduct](https://docs.google.com/document/u/0/d/1ei56CNKhGzOAey4a5-7uDafTw4uPUQePDr9ZxV20c4A/edit)
+
+[Umuzi Staff Disciplinary Procedure](https://docs.google.com/document/u/0/d/1yde2oSq8ODsn_JTYI3Bql-iJM7WlQx6LJsOchdlTjfo/edit)
+
+[Umuzi Wellness Site](https://sites.google.com/umuzi.org/umuziwellness/wellness-resources/prevention-of-sexual-abuse-and-exploitation)
+
+[Report Here](https://docs.google.com/forms/d/e/1FAIpQLSfKRIDGIdnwXbbllaLVucr6nD2_nePy86sUwSgQvF68ZoTAiw/viewform)
+
+[My Umuzi Site](https://sites.google.com/umuzi.org/umuzi-recruits-home/whats-news?authuser=1)
+
+
+##**REPORT IT, PREVENT IT, STOP IT**
 
