@@ -483,3 +483,24 @@ Where a complainant’s existing sick leave entitlement have been exhausted, Umu
 
 ##**REPORT IT, PREVENT IT, STOP IT**
 
+
+
+
+#**Umuzi Policies**
+
+
+Every organisation has a set of policies and procedures that govern the behaviour of all stakeholders. Umuzi is no different. These policies create guidelines that ensure that this remains a healthy working and learning environment for both staff and learners.
+
+Explore the policies below and read through them thoroughly. Feel free to contact Rivo, your LSM if you have any questions about any of the policies.
+
+
+[Code of Conduct](https://docs.google.com/document/d/1P298TsR0PLN2lHaj1mfGpjanrwJsgy6ePlD28tZCy9Y/edit#heading=h.73zzpafoqvlx)
+
+[Disciplinary Procedure](https://docs.google.com/document/d/1ROQVZFjmYi87ExbMlzPbdeKDD1U9k8fCE4qXO8zSC-M/edit)
+
+[Social Media Policy](https://docs.google.com/document/d/1TNQMMRJwfVHPzOOL2xBw1f-pxwRpCcL7UdhqiIhCPeg/edit#heading=h.cr32l0rdpvyz)
+
+[Leave Policy](https://docs.google.com/document/d/1UEcef4epcoNqbS0YtM9KjCu4Es_jdIphaQbk9B8Gy6U/edit)
+
+
+
