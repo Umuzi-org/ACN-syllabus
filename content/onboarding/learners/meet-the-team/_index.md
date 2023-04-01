@@ -1,3 +1,10 @@
+---
+_db_id: 881
+content_type: topic
+ready: true
+title: Meet the Umuzi team
+---
+
 ![staffprofiless](staff_profiless.png)
 
 #**Welcome to the family!**
@@ -26,3 +33,4 @@ Some you will interact with and others not too much but they will all contribute
 ![Lisa](Lisa.png)
 
 ![Nancy](Nancy.png)
+

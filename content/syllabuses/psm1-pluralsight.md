@@ -9,3 +9,4 @@ title: Professional Scrum Master with Pluralsight
 - {{% contentlink path="scrum/scrum-essential-exam-prep" %}}
 - {{% contentlink path="scrum/scrum-open-assessment" %}}
 - {{% contentlink path="scrum/product-owner-open-assessment" %}}
+- {{% contentlink path="scrum/psm1-wrap-up" %}}

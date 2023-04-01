@@ -1,3 +1,10 @@
+---
+_db_id: 880
+content_type: topic
+ready: true
+title: Connection and community
+---
+
 ![communityandconnctionheader](Community_Connection.png)
 
 We’re so happy to have you here and aim to help you connect and network with other learners in the Umuzi Community. We encourage you to use every opportunity to collaborate with others and grow your social capital during your time with us.
@@ -87,3 +94,4 @@ The name Umuzi comes from the word ‘Home’. When you branch out into the worl
 We’ll be knocking on your digital door with newsletters, initiatives to engage in, job opportunities, workshops and masterclasses - maybe even an event here and there, and most importantly - blowing all the smoke when you’re out in the world killing it at what you do :) 
 
 #**Happy Connecting!**
+
