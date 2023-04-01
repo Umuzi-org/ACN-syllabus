@@ -5,42 +5,44 @@ ready: true
 title: Umuzi Policies
 ---
 
-#**Vitual Work Guide**
+## **Vitual Work Guide**
 
 
 The world of work has evolved tremendously since the start of the pandemic and many organisations, just like Umuzi, have had to adjust to being a remote training organisation. This has meant providing our learners the necessary support to ensure that learning and productivity are not interrupted. 
 Below are a few guidelines to help you as you navigate the virtual world of learning and work!
 
 
-##**STRUCTURING YOUR WORKDAY TO GET WORK DONE!**
+## **STRUCTURING YOUR WORKDAY TO GET WORK DONE!**
 
 **Your working hours**
 
 The standard working hours at Umuzi are 08h30 - 17h30 with an hour lunch break every day. Although we are in no way clock watchers, we believe that having set hours of work gives one structure for the day, helps create boundaries that divide time for working and time for resting or living life, as well as to act as preparation for the workplace where these are the usual hours of work in many organisations. 
 
-Now we understand that even in a virtual work environment, things happen! If any personal emergency arises, make sure to communicate with your main contact person, usually your Learner Support Manager,  as soon as you can. We can’t offer the support you need if we don’t know what is happening. We’re just a quick call, WhatsApp text or email away.
+Now we understand that even in a virtual work environment, things happen! If any personal emergency arises, make sure to communicate with your main contact person, usually your Learner Support Manager, as soon as you can. We can’t offer the support you need if we don’t know what is happening. We’re just a quick call, WhatsApp text or email away.
 
 
 **Some ideas to help you stay on track**
 
 Keep some kind of diary - play around to see what kind of task management system works for you: digital, analogue, an app of some kind. Here are some free systems that we suggest experimenting with:
+
 The [bullet journal](https://bulletjournal.com/pages/learn) method;
+
 [Trello](https://trello.com/?&aceid=&adposition=&adgroup=105703213888&campaign=9843285526&creative=437184392305&device=c&keyword=trello&matchtype=e&network=g&placement=&ds_kids=p53016482445&ds_e=GOOGLE&ds_eid=700000001557344&ds_e1=GOOGLE&gclid=Cj0KCQjw7MGJBhD-ARIsAMZ0eeuu9gyMtuTDnrwTJoC5VXLNiabURwVThzFxDc-8pEreYrDnDFp8GVUaAiWYEALw_wcB&gclsrc=aw.ds) / [Asana](https://asana.com/?utm_source=unknown&utm_campaign=app.asana.com) / [Notion](https://www.notion.so/personal?utm_source=adwords&utm_campaign=14083469691&utm_medium=123977436423&utm_content=502429039670&utm_term=trello&targetid=kwd-3609071522&gclid=Cj0KCQjw7MGJBhD-ARIsAMZ0eetf-zkN_iRDIeXjEsaPGFzkImWk0uePPWOz_8Fn7u9M46OyQKvs7JYaAhyaEALw_wcB)
+
 If you have Microsoft Office - To Do app (search for it to download it)
 
 
 **How is your work environment set up?**
 
 Now that we’re all working from home, it may be obvious, but you will require;
--A quiet area where you can focus on your work
 
--A background that is appropriate for professional meetings - your messy room and unmade bed are probably not going to leave the best impression ;) 
-
--A reliable internet and electricity connection as far as that is something that is under your control. If you know that where you live, the internet is unreliable and you frequently experience load shedding, then you are going to struggle to get your work done. It then becomes your responsibility to find an alternative workspace, where you can perform your duties. 
+- A quiet area where you can focus on your work
+- A background that is appropriate for professional meetings - your messy room and unmade bed are probably not going to leave the best impression ;) 
+- A reliable internet and electricity connection as far as that is something that is under your control. If you know that where you live, the internet is unreliable and you frequently experience load shedding, then you are going to struggle to get your work done. It then becomes your responsibility to find an alternative workspace, where you can perform your duties. 
 
 It is your responsibility to ensure that you have what you need to get your job done. 
 
-##**COMMUNICATION**
+## **COMMUNICATION**
 
 The importance of mastering this soft essential skill for your own career success cannot be overstated. Different divisions and departments will communicate differently but there are some common themes that will take you a long way.
 
@@ -52,8 +54,6 @@ Email
 
 Rocket Chat
 
-Discord
-
 WhatsApp groups
 
 To prevent you from constantly task switching, it may be a good idea to have set periods where you check comms e.g. first thing as you start work, at lunch and just before ending your day. This way, you can focus on getting work done instead of getting distracted by little noises every 5 seconds but the greatest delay someone will have in hearing from you will be max a couple of hours.
@@ -62,7 +62,7 @@ To prevent you from constantly task switching, it may be a good idea to have set
 In general, a 24-hour response time to communications is considered professional best practice. While sometimes this is difficult, you should strive to achieve this as often as possible, even if it is just to acknowledge the communication and let your contact know you will revert with further feedback.
 
 
-##**Acknowledging comms:**
+## **Acknowledging comms:**
 
 If you receive a message or if there is a general comm that goes out and you are an intended recipient (e.g. someone who is meant to be receiving the comm) then you either need to reply to the message, where necessary, or react with an emoji - if that’s an established practice for your department.
 
@@ -72,23 +72,18 @@ This is to acknowledge that you’ve seen the message. For example:
 
 Remember: should the message contain a task for you to complete - add that task to whatever task management system you’re using so that you remember to get it done!
 
-##**Team communication:**
+## **Team communication:**
 
 When it affects a team you might be part of for a project, communicate where the whole team can see it. Where possible, communicate challenges like loadshedding or connection issues on a public channel (e.g tech team RocketChat or WhatsApp) so that the whole team is aware of the issue and there is no broken telephone.
 
 Other considerations:
 
--Try to organise stand-ins for duties you will not be able to perform
-
--When taking leave, communicate with your co-learners to organise stand-ins for events
-
--Communicate publicly who will be doing what so that the team is not in the dark and confused while you are away
-
--When you need help but don’t know who to ask, ask publically
-
--Your team members can tag someone that is able to help or offer help themselves
-
--If the issue is of a personal nature and you don’t feel comfortable posting to a public platform, then of course rather go straight to your LSM or line manager
+- Try to organise stand-ins for duties you will not be able to perform
+- When taking leave, communicate with your co-learners to organise stand-ins for events
+- Communicate publicly who will be doing what so that the team is not in the dark and confused while you are away
+- When you need help but don’t know who to ask, ask publically
+- Your team members can tag someone that is able to help or offer help themselves
+- If the issue is of a personal nature and you don’t feel comfortable posting to a public platform, then of course rather go straight to your LSM or line manager
 
 
 **E-mails:**
@@ -104,41 +99,31 @@ If it’s a work-related call - which is what this document is addressing, then 
 We have diaries that are open for a reason: if possible, check to see that the person’s diary is open before calling or message to ask if they have time to chat at some point and ask what time works for them.
 
 
-##**MEETINGS**
+## **MEETINGS**
 
--Where possible, send your meeting request at least 1 day in advance
-
--Avoid double booking - everyone’s calendars are visible for this reason
-
--Respond to calendar invites as soon as you see them, so that others can plan their time effectively
-
--If you responded “yes” but something changes e.g. no electricity, let the meeting host know in advance that you can’t make it (and explain why)
-
--Check your calendar the night before or early in the morning to be able to plan your day effectively
-
--PREP for every meeting! If anything is sent to you in advance, go through it. If you know that the meeting will use some sort of tech e.g. Mural then make sure you have access etc.
-
--Ensure you have a working microphone so that you can join in on the discussion
+- Where possible, send your meeting request at least 1 day in advance
+- Avoid double booking - everyone’s calendars are visible for this reason
+- Respond to calendar invites as soon as you see them, so that others can plan their time effectively
+- If you responded “yes” but something changes e.g. no electricity, let the meeting host know in advance that you can’t make it (and explain why)
+- Check your calendar the night before or early in the morning to be able to plan your day effectively
+- PREP for every meeting! If anything is sent to you in advance, go through it. If you know that the meeting will use some sort of tech e.g. Mural then make sure you have access etc.
+- Ensure you have a working microphone so that you can join in on the discussion
 
 **A word on your professional “brand”:**
 
--Out of sight, out of mind: if you’re wanting to accelerate your career, you need to be noticed. One way of doing this is by focusing on the fact that you are a professional brand. If you want to build your brand as someone who is a competent team player - then participate in the meetings you’re in! 
-
--If you can, turn your camera on: there are plenty of studies that say people trust you more when they can see you!
+- Out of sight, out of mind: if you’re wanting to accelerate your career, you need to be noticed. One way of doing this is by focusing on the fact that you are a professional brand. If you want to build your brand as someone who is a competent team player - then participate in the meetings you’re in! 
+- If you can, turn your camera on: there are plenty of studies that say people trust you more when they can see you!
 
 **Daily stand-ups:**
 
--Stand-ups are an important tool for us to communicate and coordinate. To have effective stand ups, it’s a good idea to:
-
--Prepare for your stand-up in advance, by the time you get to stand-up you should have a rough plan for your day prepared
+- Stand-ups are an important tool for us to communicate and coordinate. To have effective stand ups, it’s a good idea to:
+- Prepare for your stand-up in advance, by the time you get to stand-up you should have a rough plan for your day prepared
 
 Communicate what you need:
 
--Reviews
-
--Help
-
--Blockers
+- Reviews
+- Help
+- Blockers
 
 Communicate and take note of your colleagues’ plans
 
@@ -150,12 +135,11 @@ If you are unable to send it in advance, send it as soon as you come online
 
 Your manager will make sure to communicate the order of priority different tasks that you’re involved in, however, if they don’t cover it, or you’re left unsure - ASK them:
 
--Where should I focus my attention first?
+- Where should I focus my attention first?
+- What’s the max amount of time I should spend on this?
 
--What’s the max amount of time I should spend on this?
 
-
-##**SOCIAL MEDIA**
+## **SOCIAL MEDIA**
 
 Remote working has forced us to use various social media platforms to communicate with colleagues in real-time. Umuzi has several social media platforms which are used for a variety of work-related objectives. 
 
@@ -179,11 +163,11 @@ Try to only discuss work related matters in the group and use alternative groups
 We all have our different beliefs, religions and opinions on the world - you can share yours in a respectful manner, but not in any way that seems forceful or as though your opinion / belief or religion is the only correct one to hold
 
 
-Please do not share (Screenshots) or discuss (voice notes) confidential work with people outside of Umuzi (this includes names, issues / treatment details,       especially anything relating to our Employer Partners)
+Please do not share (Screenshots) or discuss (voice notes) confidential work with people outside of Umuzi (this includes names, issues / treatment details, especially anything relating to our Employer Partners)
 
 Avoid one on one personal conversations, in the group. Switch to private messages
 
-Refrain from arguments, heated opinions, fear mongering and fake news. Check your sources before you share.
+Refrain from arguments, heated opinions, fearmongering and fake news. Check your sources before you share.
 
 Understand that the discussions will be moderated by the group admins/managers and any inappropriate activity may lead to further investigation and potential disciplinary.
 
@@ -195,13 +179,9 @@ Let’s face it, fun social media is an inescapable part of our everyday life. W
 You need to be able to set boundaries that reflect the respect you have for your work. Here are some measures to put in place if you are struggling to get work done because you are easily distracted by social media.
 
 1. Turn off your social network alerts and notifications
-
 2. Close any news and livestreaming tabs
-
 3. Close all social media tabs that aren’t work related
-
 4. Log off all the social media apps on your phone that you gravitate towards when work gets challenging. If this doesn’t work, try no. 5.
-
 5. Delete the app. Seems extreme, but if you just can’t resist the temptation, it may be worth it, while you pursue bigger goals at work.
 
 If all else fails, try getting some assistance from these software programs: 
@@ -209,7 +189,7 @@ If all else fails, try getting some assistance from these software programs:
 
 [Momentum](https://momentumdash.com/) is a great chrome plugin that helps you to avoid all the pages that Google tries to lead you to. 
 
-##**Ways to beat the sheds⚡:**
+## **Ways to beat the sheds⚡:**
 
 There is no denying the impact that load shedding has on everyone’s productivity and of course, connectivity. Ensuring that you are able to complete your tasks within the required time remains each learner’s responsibility as our programmes are time-sensitive and at times, collaborative, meaning that your delays in reviewing a peer’s work for example, can delay their overall progress.
 
@@ -246,15 +226,15 @@ Open Classrooms Course: Learn to work autonomously - [link](https://openclassroo
 
 
 
-**#PRESENTATION OF SEXUAL EXPLOITATION AND ABUSE TRAINING (PSEA)**
+# **PRESENTATION OF SEXUAL EXPLOITATION AND ABUSE TRAINING (PSEA)**
 
-**##REPORT IT, PREVENT IT, STOP IT**
+## **REPORT IT, PREVENT IT, STOP IT**
 
 ![zerotolerance](zero_tolerance.jpg)
 
 Umuzi has a zero tolerance policy towards acts of sexual exploitation and abuse by all Umuzi representatives (including learners). All forms of sexual exploitation and abuse (SEA) are prohibited and constitute serious misconduct. These are therefore grounds for initiating disciplinary proceedings, which may ultimately lead to summary dismissal or termination of contract, and other serious measures in accordance with the legal framework applicable to the different categories of the Umuzi personnel. 
 
-**##What is sexual exploitation and abuse?**
+## **What is sexual exploitation and abuse?**
 
 ![tiedhands](tied_hands.jpg)
 
@@ -262,7 +242,7 @@ The abuse or attempted abuse of a position of vulnerability, differential power 
 Similarly, the term “sexual abuse” means the actual or threatened physical intrusion of a sexual nature, whether by force or under unequal or coercive conditions.
 
 
-**##What is sexual harassment?**
+## **What is sexual harassment?**
 
 ![redhands](red_hands.jpg)
 
@@ -277,22 +257,22 @@ This is unwanted physical contact; touching, sexual assault, rape, or a strip se
 
 **2. Verbal Sexual harassment**
 
-This is unwanted innuendoes, jokes, suggestions, hints, and improper sexual conversation. Sexual advances, comments with sexual overtones, and sex-related jokes are considered improper in a professional work environment and can cause offence and hurt. 
+This is unwanted innuendos, jokes, suggestions, hints, and improper sexual conversation. Sexual advances, comments with sexual overtones, and sex-related jokes are considered improper in a professional work environment and can cause offense and hurt. 
 
 Insults or unwelcome graphical comments about a person’s body made in the presence of or directed toward a person is harassment. 
 
-Unwelcome and inappropriate enquiries about a person’s sex life and sexuality, sexuality constitutes sexual harassment. Unwelcome whistling and catcalling directed at a person or group of persons constitute sexual harassment. 
+Unwelcome and inappropriate inquiries about a person’s sex life and sexuality, sexuality constitutes sexual harassment. Unwelcome whistling and catcalling directed at a person or group of persons constitute sexual harassment. 
 
 **3. Non-verbal Sexual harassment**
 
 This is unwelcomed gestures, indecent exposure, and the display of sexually explicit pictures and objects in the professional work environment are unacceptable and considered sexual harassment. 
 
-Quid pro quo harassment occurs when an owner, employer, supervisor, member of  management, contracted consultant undertakes or attempts to influence the process of employment,  promotion, training, discipline, dismissal, salary increment or other benefits of an employee, learner, or  job applicant in exchange for sexual favours. 
+Quid pro quo harassment occurs when an owner, employer, supervisor, member of  management, contracted consultant undertakes or attempts to influence the process of employment, promotion, training, discipline, dismissal, salary increment or other benefits of an employee, learner, or  job applicant in exchange for sexual favours. 
 
 Sexual favouritism exists where a person who is in a position of authority rewards only those who respond to his/her sexual advances, whilst other deserving employees who do not submit themselves to any sexual advances are denied promotions, merit rating or salary increases. 
 
 
-**#Key Responsibilities**
+# **Key Responsibilities**
 ![responsibility](responsibility.png)
 
 It is the responsibility of the Umuzi representative to report any person and to report incidences of sexual exploitation and abuse. 
@@ -300,7 +280,7 @@ It is the responsibility of the Umuzi representative to report any person and to
 Managers and others in leadership positions, in particular, are responsible for creating and maintaining an environment in which the Umuzi representatives are aware of the organisation’s expectations on prevention of sexual exploitation and abuse - either actual and/or suspected inappropriate behaviour. 
 
 
-**##Procedures**
+## **Procedures**
 
 ![procedure_policies](procedure_policies.jpg)
 
@@ -311,7 +291,8 @@ The organisation also has a duty to provide appropriate assistance to any victim
 The organisation shall ensure that reports are investigated and handled in a manner whereby the identities of the persons involved are kept confidential, if necessary and as far as reasonably possible.
 
 
-**##REPORTING AN INCIDENT**
+## **REPORTING AN INCIDENT**
+
 **How do you tell someone?**
 
 Anyone has the right to make a report about the behaviour of an Umuzi representative in line with our Code of Conduct, PSEA Policy and Whistleblower Policy. 
@@ -337,7 +318,7 @@ The Head of People and Managing Director, together with the Chair of the Board o
 
 Sensitive information related to incidents of sexual exploitation and abuse shall be shared only with law enforcement authorities, registered support service agents and relevant Umuzi representatives. 
 
-**##REPORTING IN GOOD FAITH**
+## **REPORTING IN GOOD FAITH**
 
 Reports should be made in good faith. If the allegation later proves to be untrue, you will not face repercussions if you reported in good faith.
 
@@ -354,7 +335,7 @@ The person who makes a complaint of sexual exploitation and abuse that they know
 You do not have to give your name when reporting a suspicion of sexual exploitation and abuse. Anonymous complaints will be treated just as seriously as non-anonymous complaints. If you decide to report anonymously, do provide sufficient details to allow for independent corroboration of the allegation. Otherwise, it may not be possible to investigate.
 
 
-#**SCENARIOS EXAMPLES**
+# **SCENARIOS EXAMPLES**
 
 **SCENARIO 1**
 Dimpho and Karabo are learners at Umuzi. They study the same course and are put into a group for an assignment. Dimpho becomes attracted to Karabo and starts to chat to him and eventually explicitly flirts with Karabo. Karabo, being aware of Dimpho’s attraction to him, respectfully informs her that he is not interested. This upsets Dimpho, and instead of accepting Karabo’s response she continues to flirt with him and send very suggestive pictures of her body while she starts a rumour that she and Karabo are a couple within the group. Karabo is upset about this however isn’t sure how to address this without disrupting the group assignment.
@@ -414,7 +395,7 @@ The People Operations manager, along with the Head of Learner Experience, will c
 **Please note that the Umuzi learner should be under no duress to accept either option.**
 
  
-##**Investigations and Disciplinary Action**
+## **Investigations and Disciplinary Action**
 
 Umuzi will investigate allegations of sexual exploitation and abuse and will engage professional investigators as appropriate if needed. This may involve local authorities in the police and justice system. Investigations are key to inform appropriate action as well as to uphold the rights to justice for victims/survivors. The safety, consent and protection of the rights of the victim will be central in all processes Umuzi undertakes. This includes upholding the strictest confidentiality.
 
@@ -423,7 +404,7 @@ The Umuzi Disciplinary Team in concert with the Umuzi Wellness Team will take ca
 The range of disciplinary sanctions to which Umuzi representatives/learners are liable is clearly stated in the Umuzi Code of Conduct and Umuzi Disciplinary Procedures, and therein it is made clear that it is a disciplinary offence to victimise or retaliate against an representative/learner who in good faith lodges a grievance of sexual harassment.
 
  
-##**Dispute Resolution**
+## **Dispute Resolution**
 
 Should a complaint of alleged sexual harassment not be satisfactorily resolved by Umuzi internal procedures described above and set out in full in the Umuzi Code of Conduct and Umuzi Disciplinary Procedure, either party may within 30 days of the dispute having arisen, refer the matter to the CCMA for conciliation in accordance with the provisions of section 135 of the Labour Relations Act, 1995. Should the dispute remain unresolved, either party may refer the dispute to the Labour Court within 30 days of receipt of the certificate issued by the commissioner in terms of section 135(5).
 
@@ -437,7 +418,7 @@ A victim of sexual assault has the right to press separate criminal and/or civil
 In the event where all due process has been followed to investigate an allegation of sexual harassment, and it is for Umuzi that the allegation was made with defamatory intent, such a false accusation of sexual harassment will be dealt with as an instance of serious sexual harassment in and of itself, subject to the same disciplinary process put out for serious offences in Umuzi’s Disciplinary Procedures.
 
 
-##**PROCEDURES  FOR SEXUAL HARASSMENT VICTIMS** 
+## **PROCEDURES  FOR SEXUAL HARASSMENT VICTIMS** 
 
 **Advice & assistance**
 
@@ -464,7 +445,7 @@ Make reference to time frames which allow the grievance to be dealt with expedit
 
 Provide that if the case is not resolved satisfactorily, the issue can be dealt with in terms of the dispute procedures contained in item 2.3.2 of the Umuzi PSEA Policy
 
-#**Victim Assistance**
+# **Victim Assistance**
 
 The Umuzi Disciplinary team will ensure that victims are referred to and receive professional assistance, with the assistance of the Wellness team,  informed by their consent and needs and in line with local regulations and guidelines.
 
@@ -473,7 +454,7 @@ The Umuzi Disciplinary team will ensure that victims are referred to and receive
 Where a complainant’s existing sick leave entitlement have been exhausted, Umuzi management would give due consideration to the granting of additional sick leave in cases of serious sexual harassment where the learner - on medical advice - requires trauma counselling.
 
 
-##**Umuzi Helpful Links**
+## **Umuzi Helpful Links**
 
 [PSEA Policy](https://docs.google.com/document/u/0/d/1R7jvU43fcG5T40XTsERFvNO5xkjaBO4csmuw4X4iFJQ/edit)
 
@@ -489,13 +470,9 @@ Where a complainant’s existing sick leave entitlement have been exhausted, Umu
 
 [My Umuzi Site](https://sites.google.com/umuzi.org/umuzi-recruits-home/whats-news?authuser=1)
 
+## **REPORT IT, PREVENT IT, STOP IT**
 
-##**REPORT IT, PREVENT IT, STOP IT**
-
-
-
-
-#**Umuzi Policies**
+# **Umuzi Policies**
 
 
 Every organisation has a set of policies and procedures that govern the behaviour of all stakeholders. Umuzi is no different. These policies create guidelines that ensure that this remains a healthy working and learning environment for both staff and learners.

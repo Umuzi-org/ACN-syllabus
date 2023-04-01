@@ -5,9 +5,9 @@ ready: true
 title: Meet the Umuzi team
 ---
 
-![staffprofiless](staff_profiless.png)
+![staffprofiles](staff_profiles.png)
 
-#**Welcome to the family!**
+# **Welcome to the family!**
 
 
 Below are a few key people you should know as well as what they are all about. 

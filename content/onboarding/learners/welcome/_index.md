@@ -7,7 +7,7 @@ title: Welcome to your learnership
 
 ![congratulations pic](Congratulations_pic.png)
 
-##**Who are we and what do we do?**
+## **Who are we and what do we do?**
 
 At the heart of Umuzi is our energy, our commitment and passion to reduce social inequality in Africa through digital education. We are excited about what we do, who we work with and the value we are adding on a daily basis. We do this with warmth, empathy, and dynamism. We are a bold, daring and exciting organisation, creating meaning through sharing our energy - it’s contagious!
 
@@ -19,8 +19,8 @@ Join us in being part of this movement!
 
 **ENERGY, CONNECTION, IMPACT**
 
-#**Now for a little bit of admin before we move forward!**
+# **Now for a little bit of admin before we move forward!**
 
-**If you haven’t** completed the payroll information form, the baeline survey and/or submitted your certified documents just yet, [click here]( https://docs.google.com/document/d/18dKQlxM8CMWaP0MJAf5PXdi_mqg_cNfUePiOD_YjhSo/edit) to do so before continuing to the next card. 
+**If you haven’t** completed the payroll information form, the baseline survey and/or submitted your certified documents just yet, [click here]( https://docs.google.com/document/d/18dKQlxM8CMWaP0MJAf5PXdi_mqg_cNfUePiOD_YjhSo/edit) to do so before continuing to the next card. 
 
 
