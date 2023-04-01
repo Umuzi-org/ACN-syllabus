@@ -7,6 +7,7 @@ tags:
 - design-thinking-sprint
 title: What is design thinking
 ---
+
 Design Thinking is a term that is used broadly to describe an iterative process to collaboratively solve problems that people, customers or users experience.  It is sometimes referred to as user or human-centred design (HCD), to emphasise the focus on the ‘human user’. There are a lot of new words which we’ll be touching on throughout the Sprint. Make sure to check out the TERMINOLOGY topic card to familiarise yourself with these new words or a recap as you progress through the sprint.
 
 For a more in depth definition of Design Thinking, visit the [IDEO website](https://designthinking.ideo.com/) for an introduction to Design Thinking and how it came to be. 
