@@ -58,13 +58,13 @@ An extension for VSCode can be installed as well https://marketplace.visualstudi
 
 You wont need to install docker-compose as this is already included.
 
-If you are having issues with Docker Desktop, please see this topic for troubleshooting {{% contentlink path="docker/docker-desktop-troubleshooting" %}}
+If you are having issues with Docker Desktop, please see this topic for troubleshooting {{< contentlink path="docker/docker-desktop-troubleshooting" >}}
 
 ### Create a docker-composition file
 
 Make a file called `docker-compose.yaml`. This is where you specify what containers you want to run and how you want them "constructed". Paste the following into the file:
 
-{{% code_snippet "docker-compose-pg.yaml" %}}
+{{< code_snippet "docker-compose-pg.yaml" >}}
 
 Now open up a terminal and `cd` into the directory containing the docker-compose file then say `docker-compose up`
 
@@ -74,7 +74,7 @@ This launches two containers. One for PostgreSQL, and one for adminer. Adminer i
 
 You can run a MySQL composition like this one
 
-{{% code_snippet "docker-compose-mysql.yaml" %}}
+{{< code_snippet "docker-compose-mysql.yaml" >}}
 
 What's the difference? Postgresql is more of an industry-standard than Mysql. But they are both great tools.
 

@@ -107,7 +107,7 @@ So when we call `source smtp_secrets.sh`, bash makes a few variables and makes s
 
 Cool eh?
 
-If you want some further reading check this out: {{% contentlink path="topics/linux/os-environmental-variables" %}}
+If you want some further reading check this out: {{< contentlink path="topics/linux/os-environmental-variables" >}}
 
 ## The actual project
 
@@ -218,5 +218,5 @@ As another example, if you were developing a "forgot password" or "confirm email
 
 - Unit tests:
 - The learner should demonstrate that the email sends only once, with the correct arguments.
-- The learner should demonstrate an understanding of mocks and spies. Please see {{% contentlink path="topics/unit-testing-mocks-and-spies" %}} .
+- The learner should demonstrate an understanding of mocks and spies. Please see {{< contentlink path="topics/unit-testing-mocks-and-spies" >}} .
 - Sending emails to multiple recipients is not a requirement, but if the code is structured well enough, then doing so should be easy. The unit test should demonstrate that the code in not restricted to sending just one email.

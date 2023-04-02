@@ -16,4 +16,4 @@ There are a few exercises here. Try the ones marked as easy first.
 
 ## Reads
 
-- Here is a quick read on the most common TDD pitfalls: {{% contentlink path="topics/unit-testing/tdd-horrors" %}}
+- Here is a quick read on the most common TDD pitfalls: {{< contentlink path="topics/unit-testing/tdd-horrors" >}}

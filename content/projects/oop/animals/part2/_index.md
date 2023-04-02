@@ -50,7 +50,7 @@ The code you push to git should have the following structure:
             ... other logical things
 ```
 
-Please refer to the following to find out more: {{% contentlink path="topics/java-specific/project-submission-requirements" %}}
+Please refer to the following to find out more: {{< contentlink path="topics/java-specific/project-submission-requirements" >}}
 
 ### JavaScript
 
@@ -146,7 +146,7 @@ Test -> Does cat Bark should Fail
 
 Use pytest to test your code.
 
-Please refer to the following to find out more: {{% contentlink path="topics/python-specific/automated-testing-with-pytest" %}}
+Please refer to the following to find out more: {{< contentlink path="topics/python-specific/automated-testing-with-pytest" >}}
 
 Remember the correct naming convention for the tests in your `test_animals.py` file.
 

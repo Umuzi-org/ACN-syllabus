@@ -26,9 +26,9 @@ title: OOP for data science
 
 ## Prerequisite
 
-You need to complete the Multivariate Regression assignment using the salary dataset before doing this assignment ({{% contentlink path="projects/data-science-specific/multivariate-linear-regression" %}}). You will use the data and the model you built in that assignment for this OOP assignment.
+You need to complete the Multivariate Regression assignment using the salary dataset before doing this assignment ({{< contentlink path="projects/data-science-specific/multivariate-linear-regression" >}}). You will use the data and the model you built in that assignment for this OOP assignment.
 
-Go through the OOP for Python topic {{% contentlink path="topics/python-specific/oop-for-python" %}} before starting this assignment.
+Go through the OOP for Python topic {{< contentlink path="topics/python-specific/oop-for-python" >}} before starting this assignment.
 
 You may also want to look at Khan Academy's content on [interpreting residual plots](https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/assessing-the-fit-in-least-squares-regression/v/residual-plots).
 

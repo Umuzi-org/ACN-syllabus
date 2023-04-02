@@ -16,7 +16,7 @@ title: 'NCIT assessment: Research Document'
 
 Submit a copy of your research notes from your "design thinking sprint" (DTS) or your "make us better" (MUB) sprint in which you document your research findings in an organised way. 
 
-Ensure this document meets the standards and criteria in {{% contentlink path="national-qualifications-framework/ncit/content/conducting-research-and-user-interviews" %}}
+Ensure this document meets the standards and criteria in {{< contentlink path="national-qualifications-framework/ncit/content/conducting-research-and-user-interviews" >}}
 
 It should be labelled like: FirstName LastName - Research Notes
    

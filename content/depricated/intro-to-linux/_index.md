@@ -26,4 +26,4 @@ Linux Ubuntu or Mint will be demonstrated to the recruits. Demonstrate:
 
 Whoever is doing ths workshop should be familiar with the exercises given to recruits. Questions will come up, you should be able to answer them.
 
-- {{% contentlink path="projects/linux" %}}
+- {{< contentlink path="projects/linux" >}}

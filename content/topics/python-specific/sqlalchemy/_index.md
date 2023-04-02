@@ -12,8 +12,8 @@ What's an ORM? Well, glad you asked and also glad [this guy asked](https://stack
 Sqlalchamy of course is not the only ORM around. There's a very good chance that you'll come across [this one](https://docs.djangoproject.com/en/3.0/topics/db/queries/) as well.
 
 Take a little bit of time to learn the fundamentals here:
-{{% contentlink path="topics/python-specific/sqlalchemy/basics" %}}
+{{< contentlink path="topics/python-specific/sqlalchemy/basics" >}}
 
 Once you are done with the basics, it's good to understand migrations. Migrations basically let you version control the structure of your database. This is seriously quite useful if you ever want to actually us an ORM in production (hint: You do!)
 
-{{% contentlink path="topics/python-specific/sqlalchemy/migrations" %}}
+{{< contentlink path="topics/python-specific/sqlalchemy/migrations" >}}

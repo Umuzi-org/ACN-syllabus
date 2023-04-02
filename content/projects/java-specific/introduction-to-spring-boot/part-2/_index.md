@@ -23,7 +23,7 @@ We are going to focus on creating a REST api that will serve as an end point to 
 
 ## Service
 
-Continuing with {{% contentlink path="projects/java-specific/introduction-to-spring-boot/part-1" %}} for the **User** we are going to expose a **REST endpoint** to the application.
+Continuing with {{< contentlink path="projects/java-specific/introduction-to-spring-boot/part-1" >}} for the **User** we are going to expose a **REST endpoint** to the application.
 
 **Step 1**
 

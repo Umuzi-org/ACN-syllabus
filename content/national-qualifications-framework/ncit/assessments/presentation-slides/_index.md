@@ -20,7 +20,7 @@ Submit the final version of your presentation slides from your "design thinking 
 
 If you did not attend the above or no longer have access to your project you will need to conduct research on game design. 
 
-Ensure this document meets the standards and criteria in {{% contentlink path="national-qualifications-framework/ncit/content/presenting-your-findings" %}}
+Ensure this document meets the standards and criteria in {{< contentlink path="national-qualifications-framework/ncit/content/presenting-your-findings" >}}
 
 It should be labeled like: FirstName LastName - Research Notes
 

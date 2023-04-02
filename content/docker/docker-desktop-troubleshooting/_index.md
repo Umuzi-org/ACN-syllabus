@@ -20,7 +20,7 @@ You are probably running a version of windows which does not have Hyper-V as a s
 
 In order to do this, you will need to create a file, anywhere, using a text editor and copy the following into that file:
 
-{{% code_snippet "hyperv.bat" %}}
+{{< code_snippet "hyperv.bat" >}}
 
 Now save that as hyperv.bat from your text editor. The desktop or download folder are good destinations for which to save and easily located for the next step.
 

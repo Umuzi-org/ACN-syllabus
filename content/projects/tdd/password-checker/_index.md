@@ -6,5 +6,5 @@ submission_type: nosubmit
 title: Password Checker
 ---
 
-- {{% contentlink path="projects/tdd/password-checker/part1" %}}
-- {{% contentlink path="projects/tdd/password-checker/part2" %}}
+- {{< contentlink path="projects/tdd/password-checker/part1" >}}
+- {{< contentlink path="projects/tdd/password-checker/part2" >}}

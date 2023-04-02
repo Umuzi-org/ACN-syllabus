@@ -13,7 +13,7 @@ This should be written following a TDD process. Remember that this means: RED, G
 
 You have a data structure like this:
 
-{{% code_snippet "struct-shallow.js" %}}
+{{< code_snippet "struct-shallow.js" >}}
 
 This represents a directory structure with files and directories. (directory == folder)
 
@@ -27,7 +27,7 @@ You will notice that there is a lot of repetition in the functionality you imple
 
 Now consider te following:
 
-{{% code_snippet "struct.js" %}}
+{{< code_snippet "struct.js" >}}
 
 Directory structures usually have some depth. Directories have sub directories. Sub directories also contain stuff.
 

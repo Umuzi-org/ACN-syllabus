@@ -36,7 +36,7 @@ As you progress through, you will have to write a lot of code. Your code will be
 We use Github for keeping our code safe. [Here](https://guides.github.com/introduction/git-handbook/) is a little intro and
 [here](https://drive.google.com/open?id=1g5oD59DFQbrhPHvW7a8mW8NKI1UNV-dZ) is the official cheat sheet.
 
-Also checkout {{% contentlink path="topics/bootcamp/git-for-bootcamp" %}}
+Also checkout {{< contentlink path="topics/bootcamp/git-for-bootcamp" >}}
 
 ## For our data recruits
 

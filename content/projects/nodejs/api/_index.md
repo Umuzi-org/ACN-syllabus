@@ -37,5 +37,5 @@ Use Express to expose the following JSON endpoints.
 
 ### Resources
 
-- {{% contentlink path="topics/apis/basics" %}}
-- {{% contentlink path="topics/js-and-node-specific/apis-with-node" %}}
+- {{< contentlink path="topics/apis/basics" >}}
+- {{< contentlink path="topics/js-and-node-specific/apis-with-node" >}}

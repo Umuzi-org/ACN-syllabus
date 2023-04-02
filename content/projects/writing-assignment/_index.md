@@ -23,4 +23,4 @@ Please create a separate file for each question. Please use the question number 
 
 Remember to pay attention to your sentence structure, spelling and grammar. If you need a little help with your grammar, [Grammarly](https://app.grammarly.com/) is a really useful service. Being able to communicate clearly and professionally in text is a super power.
 
-You can see all the questions by following this link: {{% contentlink path="projects/writing-assignment/questions" %}}
+You can see all the questions by following this link: {{< contentlink path="projects/writing-assignment/questions" >}}

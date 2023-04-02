@@ -13,4 +13,4 @@ The following are to be demonstrated:
 
 ## Resources
 
-{{% contentlink path="topics/intro-to-css-architecture" %}}
+{{< contentlink path="topics/intro-to-css-architecture" >}}

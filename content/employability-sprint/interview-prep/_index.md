@@ -93,4 +93,4 @@ This great article should help you choose the right platform:
 
 Also go through the tech specific content if you are preparing for a technical assessment or interview:
 
-{{% contentlink path="employability-sprint/interview-prep/tech-specific" %}}
+{{< contentlink path="employability-sprint/interview-prep/tech-specific" >}}

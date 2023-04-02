@@ -13,7 +13,7 @@ That sounds pretty cool. But what does it mean? And what can't it do?
 
 At this point in your learning journey you should be pretty familiar with React and modern JavaScript.  If you aren't yet familiar, or if you want a little re-introduction please revisit this link:
 
-{{% contentlink path="topics/web-frontend/react/intro-to-react" %}}
+{{< contentlink path="topics/web-frontend/react/intro-to-react" >}}
 
 Next up, read through this and watch all the introductory videos:
 

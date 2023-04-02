@@ -45,8 +45,8 @@ title: Agile Project Management
 
 Watch the two videos below to learn the basics of Agile and Scrum.
 
-{{% youtube Z9QbYZh1YXY %}}
-{{% youtube 9TycLR0TqFA %}}
+{{< youtube Z9QbYZh1YXY >}}
+{{< youtube 9TycLR0TqFA >}}
 
 ## 2. Cost-benefit analysis
 

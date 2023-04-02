@@ -56,7 +56,7 @@ Generally, developers need to work on programs that talk to other programs. And 
 
 Take a look at this to see how you can see Tilde's data structures:
 
-{{% youtube Jx0jq2SiFS4 %}}
+{{< youtube Jx0jq2SiFS4 >}}
 
 Ideally, you will be able to build stuff at least as complicated as that. But we're going to start with some simpler things.
 

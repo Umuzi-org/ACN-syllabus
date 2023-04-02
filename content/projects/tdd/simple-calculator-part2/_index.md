@@ -17,7 +17,7 @@ tags:
 title: simple-calculator part 2
 ---
 
-This a continuation of {{% contentlink path="projects/tdd/simple-calculator-part1" %}}. If you haven't done that yet then please do. At this point you should have a well tested `add` and `multiply` function.
+This a continuation of {{< contentlink path="projects/tdd/simple-calculator-part1" >}}. If you haven't done that yet then please do. At this point you should have a well tested `add` and `multiply` function.
 
 This exercise will require a little OOP knowledge. Brace yourself.
 
@@ -54,7 +54,7 @@ Your project is expected to be completed using pytest. You are expected to follo
 ```
 
 Please take a look at this topic to see an explanation of the required directory structure.
-{{%contentlink "topics/python-specific/automated-testing-with-pytest" %}}
+{{< contentlink "topics/python-specific/automated-testing-with-pytest" >}}
 
 ## Introducing the calculator class
 
@@ -64,7 +64,7 @@ For now on this document will just describe the features we need the Calculator 
 
 ## Note
 
-This is an extension of {{% contentlink path="projects/tdd/simple-calculator-part1" %}}. In other words, previously implemented functionality should still work.
+This is an extension of {{< contentlink path="projects/tdd/simple-calculator-part1" >}}. In other words, previously implemented functionality should still work.
 
 ```
 # this should still work

@@ -47,4 +47,4 @@ You will be expected to properly test your code. You can use whatever testing fr
 
 ## Resources
 
-{{% contentlink path="topics/js-and-node-specific/mongodb" %}}
+{{< contentlink path="topics/js-and-node-specific/mongodb" >}}

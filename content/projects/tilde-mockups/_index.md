@@ -49,6 +49,6 @@ Your objective is not to make a fully functioning full stack web application. Yo
 
 If you are struggling to think of something to build, here are a few ideas. If you want to build something else then that is also fine :)
 
-1. {{% contentlink path="projects/tilde-mockups/code-review-performance-dashboard" %}}
-2. {{% contentlink path="projects/tilde-mockups/public-profile" %}}
-3. {{% contentlink path="projects/tilde-mockups/volunteer-dashboard" %}}
+1. {{< contentlink path="projects/tilde-mockups/code-review-performance-dashboard" >}}
+2. {{< contentlink path="projects/tilde-mockups/public-profile" >}}
+3. {{< contentlink path="projects/tilde-mockups/volunteer-dashboard" >}}

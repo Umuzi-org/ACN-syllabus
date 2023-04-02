@@ -31,7 +31,7 @@ You are required to create a backend service that will help capture basic inform
 
 ## database setup
 
-1. Set up a Postgresql database on your computer. Please use Docker to do this. You can find more information here: {{% contentlink path="docker/intro-to-docker" %}}.
+1. Set up a Postgresql database on your computer. Please use Docker to do this. You can find more information here: {{< contentlink path="docker/intro-to-docker" >}}.
 2. Create a table inside the database and name it Visitors.
 3. The table must contain the following fields :
 
@@ -47,7 +47,7 @@ You are required to create a backend service that will help capture basic inform
 
 Before you dive into anything too intense, let's make sure that you can get node to connect to your database. Can you get this Node script to run:
 
-{{% code_snippet "helloworld.js" %}}
+{{< code_snippet "helloworld.js" >}}
 
 ## Functionality
 
@@ -78,5 +78,5 @@ You will be expected to properly test your code. You can use whatever testing fr
 - Ensure that the proper data type is returned for each function.
 - If used in the project, Ensure that `Pool.connect || Client.connect` and `Pool.end || Client.end` is used correctly. There is generally no need for opening and closing your connection inside every function.
 - Ensure the use of `return`, not `console.log`.
-- When it comes to testing for this project, have a look at {{% contentlink path="topics/unit-testing-mocks-and-spies" %}} , and make sure that mocks and spies are utilized properly.
-- did the learner follow all the clean coding practices described in {{% contentlink path="topics/clean-code/sql" %}}
+- When it comes to testing for this project, have a look at {{< contentlink path="topics/unit-testing-mocks-and-spies" >}} , and make sure that mocks and spies are utilized properly.
+- did the learner follow all the clean coding practices described in {{< contentlink path="topics/clean-code/sql" >}}

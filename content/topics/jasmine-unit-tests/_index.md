@@ -80,13 +80,13 @@ npm add jsdom
 
 Now
 
-{{% code_snippet "dom_manipulation.js" %}}
+{{< code_snippet "dom_manipulation.js" >}}
 
 ### Spies
 
 Spies (often referred to as mocks in other languages and tools) are used to allow a kind of dependency injection within your tests. Here is a basic example of how it works:
 
-{{% code_snippet "spies.js" %}}
+{{< code_snippet "spies.js" >}}
 
 Of course, this is just the tip of the iceberg. But it gives a basic intro. Spies are detailed in the official tutorial.
 

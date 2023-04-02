@@ -25,7 +25,7 @@ We are going to work on Spring boot **Caching** and **Security** for the project
 
 ## Caching
 
-Continuing with {{% contentlink path="projects/java-specific/introduction-to-spring-boot/part-2" %}} for the **User** we are going to add **security** and **caching** on the application and we will use test and browser to see if the application does what we expect.
+Continuing with {{< contentlink path="projects/java-specific/introduction-to-spring-boot/part-2" >}} for the **User** we are going to add **security** and **caching** on the application and we will use test and browser to see if the application does what we expect.
 
 **Step 1**
 
