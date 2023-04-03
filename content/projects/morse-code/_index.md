@@ -94,7 +94,6 @@ Add unit tests to your code. Leave the assertions in there, so that we can see y
 - When using assertions make sure that the assert statements are checking if the input and output lengths and input and output spaces are the same by checking if they are equal.
 - If unit tests are used, make sure that there is a test that checks the input and output lengths and ensure that imports and exports were used correctly.
 - Make sure an assertion function was used to assert if both functions input and output data are the same.
-- Make sure a function was used to contain all the data, for example, letters of the alphabets, numbers, special characters and morse code.
 - Make sure that the assertions do not print an error if empty strings are passed in both functions, for example:
 
 ```
