@@ -14,23 +14,23 @@ Below are a few key people you should know as well as what they are all about.
 Some you will interact with and others not too much but they will all contribute to your learning journey here at Umuzi in one way or another.
 
 
-![Andrew](Andrew.png)
+![Andrewn](Andrew_n.png)
 
 ![Gil](Gil.png)
 
-![Lyndi](Lyndi.png)
+![Lyndin](Lyndi_n.png)
 
-![Liezel](Liezel.png)
+![Liezeln](Liezel_n.png)
 
-![Rivoningo](Rivoningo.png)
+![Rivoningon](Rivoningo_n.png)
 
-![Sheena](Sheena.png)
+![Sheenan](Sheena_n.png)
 
-![Ryan](Ryan.png)
+![Ryann](Ryan_n.png)
 
-![Ansanda](Asanda.png)
+![Asandan](Asanda_n.png)
 
-![Lisa](Lisa.png)
+![Lisan](Lisa_n.png)
 
-![Nancy](Nancy.png)
+![Nancyn](Nancy_n.png)
 
