@@ -185,7 +185,12 @@ You need to be able to set boundaries that reflect the respect you have for your
 5. Delete the app. Seems extreme, but if you just can’t resist the temptation, it may be worth it, while you pursue bigger goals at work.
 
 If all else fails, try getting some assistance from these software programs: 
-[Cold Turkey](https://getcoldturkey.com/), [Freedom](https://freedom.to/?rfsn=1011885.qt02j4o&subid=kssbncn7vo00ypei058d6), or [RescueTime](https://www.rescuetime.com/)
+
+[Cold Turkey](https://getcoldturkey.com/)
+
+[Freedom](https://freedom.to/?rfsn=1011885.qt02j4o&subid=kssbncn7vo00ypei058d6)
+
+[RescueTime](https://www.rescuetime.com/)
 
 [Momentum](https://momentumdash.com/) is a great chrome plugin that helps you to avoid all the pages that Google tries to lead you to. 
 
