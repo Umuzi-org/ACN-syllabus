@@ -45,9 +45,8 @@ If you want to start learning about your own character strengths, complete the [
 
 Your character strengths are key elements to living an authentic, meaningful life. Research shows that people who use their strengths a lot are 18 times more likely to be flourishing than those who do not. 
 
-We would appreciate honest feedback on your experience of this workshop. Please complete this [feedback survey](https://airtable.com/shr5wHaiSqeNhfvjG). 
 
-When you are done, go and watch this [video](https://www.facebook.com/watch/?ref=saved&v=5277183705658753). It will definitely change how you think about your strengths and weaknesses going forward.
+Check out this [video](https://www.facebook.com/watch/?ref=saved&v=5277183705658753). It will definitely change how you think about your strengths and weaknesses going forward.
 
 Have a great day!
 
