@@ -21,6 +21,11 @@ Join us in being part of this movement!
 
 # **Now for a little bit of admin before we move forward!**
 
-**If you haven’t** completed the payroll information form, the baseline survey and/or submitted your certified documents just yet, [click here]( https://docs.google.com/document/d/18dKQlxM8CMWaP0MJAf5PXdi_mqg_cNfUePiOD_YjhSo/edit) to do so before continuing to the next card. 
+Have you completed the below pre-onboarding task list?
+**If not**, check your first email from Rivo for the links you need to complete the required forms and upload the documents requested.
+**Complete this task before moving on to the next card.**
 
-
+- [ ] Payroll Info form
+- [ ] Certified Documents uploaded
+- [ ] Baseline Survey
+- [ ] Joined Whatsapp group
