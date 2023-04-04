@@ -2,6 +2,11 @@
 _db_id: 864
 content_type: topic
 ready: true
+prerequisites:
+  hard: []
+  soft:
+  - design-thinking/additional-reading-and-resources
+  - design-thinking/terminology
 tags:
 - design-thinking
 - design-thinking-sprint
@@ -23,5 +28,6 @@ The Define phase allows you the chance to interpret, understand, synthesise and 
 
 In the Define phase of Design Thinking you will have two tasks: building your **problem statement,** and then you will translate the problem statement into **a question.** (The question will catapult you into ideation and brainstorming solutions, but remember for now we are still framing our problem in Empathise & Define).
 
-Watch this [video on Design Thinking - Define](https://www.youtube.com/watch?v=TNAdanuvwtc) to help you define your problem to create your **Problem Statement** and **How Might We (HMW) statement.**
+Watch this video for a brief summary on the **Define stage of Design Thinking.** to help you define your problem to create your **Problem Statement** and **How Might We (HMW) statement.**
 
+{{<youtube TNAdanuvwtc>}}

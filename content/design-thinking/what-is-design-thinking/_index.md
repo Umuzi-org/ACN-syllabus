@@ -35,4 +35,4 @@ We are going to be learning these principles using the IDEO Design Thinking 5 st
 
 [This video](https://www.youtube.com/watch?v=bpVzgW8TUQ0) will give you a brief overview of the 5 phase Design Thinking process.
 
-Here is [another video](https://www.youtube.com/watch?v=-ySx-S5FcCI) to give you a holistic view of Design Thinking and how the 5 steps appear to be  sequential, keep in mind that design thinking is less linear and more iterative.
+Here is [another video](https://www.youtube.com/watch?v=-ySx-S5FcCI) to give you a holistic view of Design Thinking and how the 5 steps appear to be sequential, keep in mind that design thinking is less linear and more iterative.

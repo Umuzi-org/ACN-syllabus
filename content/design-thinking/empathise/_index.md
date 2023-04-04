@@ -2,12 +2,16 @@
 _db_id: 861
 content_type: topic
 ready: true
+prerequisites:
+  hard: []
+  soft:
+  - design-thinking/additional-reading-and-resources
+  - design-thinking/terminology
 tags:
 - design-thinking
 - design-thinking-sprint
 title: Step 1 - Empathise
 ---
-# Step 1 - Empathise
 
 ![Step 1_Empathise](Step 1_Empathise.png)
 
@@ -23,4 +27,6 @@ Empathy is used to describe a wide range of experiences. Emotion researchers gen
 
 For this entire step, your only focus is to think about your user. Who are they, in as much detail as possible. Try to keep your mind from floating to any problems or solutions just yet - there will be plenty of time for that in the steps to come. All you need to do is empathise, empathise, empathise! 
 
-Watch this [video on Design Thinking - Empathise](https://www.youtube.com/watch?v=q654-kmF3Pc&t=12s) to make sure you understand this first step in order to start your project. 
+Watch this video for a brief summary on the **Empathise stage of Design Thinking** to get you started with your project.
+
+{{<youtube q654-kmF3Pc>}}
