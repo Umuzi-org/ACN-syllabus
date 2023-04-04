@@ -5,13 +5,13 @@ blurb: One of HTML's superpowers is linking. One HTML page is nice and all, but 
 content_type: project
 flavours:
 - none
-submission_type: link
-title: Adding more pages
 link_example: https://your-name.github.io/your-repo-name/
 link_message: Please make sure you are linking to your github page, not just your
   repo. If someone follows the link then they should see your website
 link_name: Github page url
 link_regex: https://.*\.github.io/.*/?$
+submission_type: link
+title: Adding more pages
 ---
 
 In this section you are going to learn about making websites with multiple pages. First, you're going to need to learn about the anchor tags, also known as links.

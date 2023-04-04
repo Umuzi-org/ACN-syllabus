@@ -95,4 +95,3 @@ The name Umuzi comes from the word ‘Home’. When you branch out into the worl
 We’ll be knocking on your digital door with newsletters, initiatives to engage in, job opportunities, workshops and masterclasses - maybe even an event here and there, and most importantly - blowing all the smoke when you’re out in the world killing it at what you do :) 
 
 # **Happy Connecting!**
-

@@ -33,4 +33,3 @@ Some you will interact with and others not too much but they will all contribute
 ![Lisan](Lisa_n.png)
 
 ![Nancyn](Nancy_n.png)
-

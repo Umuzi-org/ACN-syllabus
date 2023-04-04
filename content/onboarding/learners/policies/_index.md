@@ -492,7 +492,3 @@ Explore the policies below and read through them thoroughly. Feel free to contac
 [Social Media Policy](https://docs.google.com/document/d/1TNQMMRJwfVHPzOOL2xBw1f-pxwRpCcL7UdhqiIhCPeg/edit#heading=h.cr32l0rdpvyz)
 
 [Leave Policy](https://docs.google.com/document/d/1UEcef4epcoNqbS0YtM9KjCu4Es_jdIphaQbk9B8Gy6U/edit)
-
-
-
-
