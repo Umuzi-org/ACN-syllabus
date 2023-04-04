@@ -22,7 +22,7 @@ Join us in being part of this movement!
 # **Now for a little bit of admin before we move forward!**
 
 Have you completed the below pre-onboarding task list?
-**If not**, check your first email from Rivo for the links you need to complete the required forms and upload the documents requested.
+**If not**, check your first email from us for the links you need to complete the required forms and upload the documents requested.
 **Complete this task before moving on to the next card.**
 
 - [ ] Payroll Info form
