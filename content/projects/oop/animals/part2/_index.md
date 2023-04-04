@@ -2,19 +2,19 @@
 _db_id: 225
 content_type: project
 flavours:
-- any_language
+  - any_language
 from_repo: projects/oop/animals/part1
 prerequisites:
   hard:
-  - projects/tdd/simple-calculator-part1
-  - projects/oop/animals/part1
+    - projects/tdd/simple-calculator-part1
+    - projects/oop/animals/part1
   soft: []
 ready: true
 story_points: 3
 submission_type: continue_repo
 tags:
-- unit-testing
-- oop
+  - unit-testing
+  - oop
 title: Animals Part 2. Adding Tests
 ---
 
@@ -66,11 +66,11 @@ Your directory structure should look like this:
 └── package.json
 ```
 
-**Note**: Please export your class using the following syntax at the end of the code:
+**Note**: Please export your `Dog`, `Cat` and `Home` classes using the following syntax at the end of the code:
 
 ```
 
-module.exports = {className: className}
+module.exports = {class1Name, class2Name, ...}
 
 ```
 
