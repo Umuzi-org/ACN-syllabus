@@ -1,12 +1,12 @@
 ---
 _db_id: 861
 content_type: topic
-ready: true
 prerequisites:
   hard: []
   soft:
   - design-thinking/additional-reading-and-resources
   - design-thinking/terminology
+ready: true
 tags:
 - design-thinking
 - design-thinking-sprint
