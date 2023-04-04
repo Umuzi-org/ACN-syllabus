@@ -12,6 +12,7 @@ tags:
 - design-thinking-sprint
 title: Step 2 - Define
 ---
+
 ![Step 2_Define](Step 2_Define.png)
 
 ## Defining the Problem

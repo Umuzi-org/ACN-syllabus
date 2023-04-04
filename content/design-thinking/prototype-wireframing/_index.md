@@ -15,8 +15,9 @@ tags:
 - design-thinking
 - design-thinking-sprint
 - close_on_peer_reviews
-title: Prototype 
+title: Prototype
 ---
+
 For this assessment you need to choose between two options depending on the solution you would like to test (only pick one template that best suit your project)
 1. If your solution is a **digital solution** like a mobile app use [this link](https://docs.google.com/presentation/d/1InG8AsgvVAjGxE8iXcPEs2YoXH3h9QIv2RGSDjSPboQ/edit#slide=id.g1dfb42b39be_0_0) and download the assessment template.
 2. If your solution is **not digital** use [this link](https://docs.google.com/document/d/1HOuWWCImSgH3XMjGDGzMNFEnFd1qYIotoDYpHRP6EJo/edit#heading=h.41mmf57f86d) and download the assessment template.

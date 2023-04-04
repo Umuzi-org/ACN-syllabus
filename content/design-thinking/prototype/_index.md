@@ -12,6 +12,7 @@ tags:
 - design-thinking-sprint
 title: Step 4 - Prototype
 ---
+
 ![Step 4_Prototype](Step 4_Prototype.png)
 
 ## Coming Up With a Solution

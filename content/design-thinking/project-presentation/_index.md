@@ -21,6 +21,7 @@ tags:
 - close_on_peer_reviews
 title: Design Thinking Project Presentation
 ---
+
 Follow [this link](https://docs.google.com/document/d/1C-5CC_tDmcItoZohcc8zq-B4LZrbBDKt2uQcT92FHDQ/edit#) and download the document (make a copy).
 
 Rename the document to include your name. Eg, **PROJECT 1_ACN_DTS_Empathise - Questionnaire & Persona_Thabo Dlamini**

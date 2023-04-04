@@ -17,6 +17,7 @@ tags:
 - close_on_peer_reviews
 title: Ideate - Brainstorming
 ---
+
 Follow [this link](https://docs.google.com/document/d/1xnrBZejeXp6donW35_YncN1sKniiVwn-hPbVtdJ6QyY/edit#heading=h.o237imhww8fl) and download the document (make a copy). 
 
 Rename the document to include your name. Eg, ***PROJECT 1_ACN_DTS_Empathise - Questionnaire & Persona_Thabo Dlamini***

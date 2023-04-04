@@ -7,6 +7,7 @@ tags:
 - design-thinking-sprint
 title: Introduction to the Design Thinking Sprint
 ---
+
 **Welcome to the wonderful world of Design Thinking!**
 
 This sprint will take you through the 5 step process of Design Thinking to assist you in being able to **Think, Do and Create.**
@@ -46,4 +47,3 @@ In this sprint challenge you will be required to build a product or service **e.
 **Using each phase of the Design Thinking process, solve the problem from your own and your community's context to improve or make your lives better!**
 
 The solution can be in the form of a digital application.
-
