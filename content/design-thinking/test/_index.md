@@ -2,6 +2,11 @@
 _db_id: 852
 content_type: topic
 ready: true
+prerequisites:
+  hard: []
+  soft:
+  - design-thinking/additional-reading-and-resources
+  - design-thinking/terminology
 tags:
 - design-thinking
 - design-thinking-sprint
@@ -17,4 +22,5 @@ This phase reminds us that the world of businesses, products, services etc is a 
 
 **It’s really important to check in with your user and make sure that you really have made something that will help them.**
 
-Watch [this video](https://www.youtube.com/watch?v=UVEQCNM6X-A) for a brief summary on the **Test stage of Design Thinking.**
+Watch this video for a brief summary on the **Test stage of Design Thinking.**
+{{< youtube UVEQCNM6X-A >}}
