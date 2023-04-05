@@ -12,7 +12,9 @@ title: NCBA wrap up & feedback
 Well done, you did it!
 
 Congratulations on completing the Design Sprint. We hope this sprint has helped you learn the skills you need to find economic opportunities.
+
 I am sure you are wondering that is next from here?  Well….
+
 As you have been found competent on all your formative and summative assessments by our assessor Dr. Augustine, here are the next steps that will follow towards you obtaining that final paper proving your hard work has been recorded in the books of academics! Yup, your certificate.
 
    1. Complete portfolio showcasing your skills, which is checked by Seta to certify you
