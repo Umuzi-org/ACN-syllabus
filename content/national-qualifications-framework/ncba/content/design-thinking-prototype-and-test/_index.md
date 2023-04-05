@@ -325,45 +325,59 @@ Below is an example template for gathering feedback.
 A variation in your testing, rather than a new method, a/b split testing allows you to test multiple solutions with your users. This can be done in two ways:
 offer the user two variances of your prototype and ask them to use both and then choose which they prefer.
 Offer one prototype to one user group and the other to a different set of users. By splitting your user group in two, you can get unbiased data as to which prototype performs better. Ensure that you split your user group up evenly.
-GUIDELINES
+
+***GUIDELINES***
+
 A few things to consider when testing:
-Be Impartial
-You do not want to become protective of your idea and get defensive if people state problems with it. Remain calm and remember that you are trying to get constructive criticism on how to make your solution better for your user. It may be hard to take the feedback, but it’s only going to make you and your product better.
+ - Be Impartial
+ 
+  - You do not want to become protective of your idea and get defensive if people state problems with it. Remain calm and remember that you are trying to get constructive criticism on how to make your solution better for your user. It may be hard to take the feedback, but it’s only going to make you and your product better.
 
-Be Flexible
-If your user suggests something that could be a great fix to your solution, then go about a thought experiment with them to engage their solution and think with them on how it would work. This only works if you can maintain your impartiality.
-
-
-Let the User contribute
-Allow your user to express ideas and changes. You may not agree with any or all of them, however, it makes your user feel like they are being engaged and useful which should mean they will give more meaningful and useful feedback to you.
-
-Present the Idea and task neutrally
-Along with being impartial is how you present the idea. Make sure you don’t present the idea in a way that the user will feel bad if they give feedback. Don’t say “This is my awesome perfect amazing solution that I know will make your life better”. Rather say “The team has come up with this solution and we want to know if it’s something that will be used and be useful for you”.
-
-Ask lots of questions
-The key to testing is in the questions you ask the user. Make sure that you have a strong list of questions already devised before you begin, and be open to asking new questions that may arise as you go through the process.
-Vary your questions:
-You can ask specific functional questions like: How did this work or did you know to click on that button
-You can ask non-functional questions like: How did this look? What feelings did you feel when you read this? How did the colour scheme make you feel?
-
-Let the User guide the feedback
-Don’t instruct or direct the user when they give feedback; allow them to express themselves as freely as possible. A lot of the time, people only get the real meaty feedback once they have opened up and spoken about some smaller issues first. Give the user the floor to speak their mind.
-
-Design a questionnaire
-To be impartial, you can design a questionnaire that the user can fill in after they have tested the solution. This allows you to be more systematic when gathering feedback and also allows for easier quantitative data analysis, as the interview questions you ask may be more qualitative.
-
-Involve external observers
-You can invite someone from outside of your team to assist with asking questions or for taking down feedback. The benefit is that you know they will be more impartial than you would be.
+ - Be Flexible
+  - If your user suggests something that could be a great fix to your solution, then go about a thought experiment with them to engage their solution and think with them on how it would work. This only works if you can maintain your impartiality.
 
 
-Don’t listen to your users
-Huh? Don’t? Well...yes, sort of. What you want to avoid doing is listening to user feedback that is misguided or irrelevant. You of course want to listen and respond to what your users say, but sometimes they may say things that are just wrong (remember the differentiation between bad and wrong ideas? The same applies here).
-Imagine you were testing an idea to solve an issue for ‘users who love the beach but hate having sand in their shoes after the beach’. Upon testing your solution, the user says “yeah it’s great, I like it, but wouldn’t it be easier to just not even go to the beach?”. In this case, the feedback goes against the initial problem statement - the problem is that people who do want to go to the beach hate having sand in their shoes when they leave; by suggesting that users rather avoid the beach, we are not adhering to the problem and the correct user group. 
+ - Let the User contribute
+ - 
+  - Allow your user to express ideas and changes. You may not agree with any or all of them, however, it makes your user feel like they are being engaged and useful which should mean they will give more meaningful and useful feedback to you.
+
+ - Present the Idea and task neutrally
+
+  - Along with being impartial is how you present the idea. Make sure you don’t present the idea in a way that the user will feel bad if they give feedback. Don’t say “This is my awesome perfect amazing solution that I know will make your life better”. Rather say “The team has come up with this solution and we want to know if it’s something that will be used and be useful for you”.
+
+ - Ask lots of questions
+  - The key to testing is in the questions you ask the user. Make sure that you have a strong list of questions already devised before you begin, and be open to asking new questions that may arise as you go through the process.
+  - Vary your questions:
+  
+   - You can ask specific functional questions like: How did this work or did you know to click on that button
+  
+  - You can ask non-functional questions like: How did this look? What feelings did you feel when you read this? How did the colour scheme make you feel?
+
+ - Let the User guide the feedback
+
+  - Don’t instruct or direct the user when they give feedback; allow them to express themselves as freely as possible. A lot of the time, people only get the real meaty feedback once they have opened up and spoken about some smaller issues first. Give the user the floor to speak their mind.
+
+ - Design a questionnaire
+  
+  - To be impartial, you can design a questionnaire that the user can fill in after they have tested the solution. This allows you to be more systematic when gathering feedback and also allows for easier quantitative data analysis, as the interview questions you ask may be more qualitative.
+
+ - Involve external observers
+
+  - You can invite someone from outside of your team to assist with asking questions or for taking down feedback. The benefit is that you know they will be more impartial than you would be.
+
+
+ - Don’t listen to your users
+
+  - Huh? Don’t? Well...yes, sort of. What you want to avoid doing is listening to user feedback that is misguided or irrelevant. You of course want to listen and respond to what your users say, but sometimes they may say things that are just wrong (remember the differentiation between bad and wrong ideas? The same applies here).
+
+  - Imagine you were testing an idea to solve an issue for ‘users who love the beach but hate having sand in their shoes after the beach’. Upon testing your solution, the user says “yeah it’s great, I like it, but wouldn’t it be easier to just not even go to the beach?”. In this case, the feedback goes against the initial problem statement - the problem is that people who do want to go to the beach hate having sand in their shoes when they leave; by suggesting that users rather avoid the beach, we are not adhering to the problem and the correct user group. 
 
 Don’t forget why you are testing! You want to ensure that the solution you design for your user is one that your user will use.
 
+![designvsuserexperience](designvsuserexperience.jpg)
 
-RECORD TESTS
+***RECORD TESTS***
+
 As stated above, you need to document the user feedback that you receive. What is the point of asking people what they think if you aren't going to hear and listen to them? You need to be collecting all feedback that the user gives you, even if you think it is silly or unnecessary. You may find another team member thinks it’s very valuable or you may realise later that 80% of your users said the same thing.
 
 By documenting your findings, you can come back to decipher them and find insights embedded within them. You want to look for root causes here; you want to understand why your user struggled with something or didn’t see something that was important.
@@ -372,50 +386,63 @@ You can do this in various ways, however, the software development practice of g
 
 Additionally, you can also use cameras to help record the user and their experience. This can be used as both a data collection method and a data recording method.
 
-
+![recording](recording.jpg)
 
 The below gives you an idea of how you could categorise the feedback, however the method you choose to use is up to you:
 
-Feature Change: This is a change that must occur on a feature of the product
-E.g. We didn’t expect the user to want to place more than one item in their shopping cart, and now the program has been written to only allow one item. To fix this, we must change the feature so that the user can add more than one item.
+ - Feature Change: This is a change that must occur on a feature of the product
+  
+  - E.g. We didn’t expect the user to want to place more than one item in their shopping cart, and now the program has been written to only allow one item. To fix this, we must change the feature so that the user can add more than one item.
 
-Bug: This is an issue in the way the program/product works; it’s how the product isn’t working vs how it was intended to work.
-E.g. If we had initially intended for the shopping cart to allow more than one item and we coded it that way, and now it doesn’t work that way, then it is a bug that must be fixed.
+ - Bug: This is an issue in the way the program/product works; it’s how the product isn’t working vs how it was intended to work.
 
+  - E.g. If we had initially intended for the shopping cart to allow more than one item and we coded it that way, and now it doesn’t work that way, then it is a bug that must be fixed.
 
+ - Feature Request: This is a new piece of functionality that the user is requesting.
 
-Feature Request: This is a new piece of functionality that the user is requesting.
-E.g. The user wants to be able to log in and save their shopping data so that they can return later. We did not build the solution to have a login, so now we need to assess this request and decide if we should action it.
-As you can see, it’s sometimes hard to find the difference between bug/change/request; however, hopefully, you see that a change is something small to existing functionality, and a bug is an issue with the way the current functionality works, and a request is an entirely new piece of functionality.
+  - E.g. The user wants to be able to log in and save their shopping data so that they can return later. We did not build the solution to have a login, so now we need to assess this request and decide if we should action it.
 
-UX/UI Issues: This is an issue the user has with the way the product looks and feels
-E.g. The user was unable to see the blue button as it was placed on a blue background. Or, the users we are serving are the elderly, and the text on our site is too small which means it’s difficult for them to read it.
+  - As you can see, it’s sometimes hard to find the difference between bug/change/request; however, hopefully, you see that a change is something small to existing functionality, and a bug is an issue with the way the current functionality works, and a request is an entirely new piece of functionality.
+
+ - UX/UI Issues: This is an issue the user has with the way the product looks and feels
+
+  - E.g. The user was unable to see the blue button as it was placed on a blue background. Or, the users we are serving are the elderly, and the text on our site is too small which means it’s difficult for them to read it.
 
 By similarly categorising your feedback to the above list you’ll find it much easier to analyse the data. You’ll have X feature changes, Y bugs, and Z UX/UI issues.
 If you can see there are an overwhelming number of bugs, then you’ll likely want to treat some of them first by adding or changing features. However, if you have a bug on a feature that is going to change, then you don’t want to fix it before you change it - you’ll just be making double the work for yourself. What you need to do is prioritise and ‘code’ your feedback.
 
-On each feedback, write an acronym on the front of it that states where or what part of the product it affects.
-E.g “Checkout”/”ChkOut” - This is for anything related to checking out your chosen items
-E.g “LogIn” - This is for any feedback related to the login screen of your application.
+ 
+- On each feedback, write an acronym on the front of it that states where or what part of the product it affects.
 
-Then add a column that lets you rank each issue.
-Decide on a points scale: 1-5 works best; where 5 is the most important.
-Rank each feedback issue based on its importance to the user
-Can the user survive without this feature for now? Does this bug break the entire system or just a small unimportant part?
+  - E.g “Checkout”/”ChkOut” - This is for anything related to checking out your chosen items
 
-If you find that you have:
-3 bugs for the LogIn
-2 bugs ranked 5
-1 is ranked 2.
-1 feature change for the page
-Ranked 5
-You’ll need to look at the two priority bugs and your feature change to decide on what order they must be done to avoid duplicating work.
+  - E.g “LogIn” - This is for any feedback related to the login screen of your application.
 
+ - Then add a column that lets you rank each issue.
+  
+  - Decide on a points scale: 1-5 works best; where 5 is the most important.
 
+  - Rank each feedback issue based on its importance to the user
 
+   - Can the user survive without this feature for now? Does this bug break the entire system or just a small unimportant part?
 
+ - If you find that you have:
 
-IMPROVING PROTOTYPE & RE-TEST
+  - 3 bugs for the LogIn
+
+   - 2 bugs ranked 5
+
+   - 1 is ranked 2.
+
+  - 1 feature change for the page
+   - Ranked 5
+  - You’ll need to look at the two priority bugs and your feature change to decide on what order they must be done to avoid duplicating work.
+
+![fixbugsoraddmorefeatures](fixbugsoraddmorefeatures.jpg)
+
+### IMPROVING PROTOTYPE & RE-TEST
+
+![improvingprototypeandretest](improvingprototypeandretest.png)
 
 Now that you have all this great feedback from your users, you will want to use that feedback to improve your prototype. There are no tricks or tips in this section, you simply need to head back to your original prototype and adjust it based on the features, issues, and bugs that you found when recording your user feedback.
 
@@ -424,30 +451,40 @@ Once you have updated your prototype to reflect all the important feedback, you 
 You can run through this cycle as many times as needed, however, you may want to limit yourself otherwise you could run into time and money issues. Once you are satisfied with the results of your tests, you can conclude your testing phase.
 
 
-WHAT’S NEXT?
+## WHAT’S NEXT?
 You have now run through the entirety of a design thinking process and have produced a solution that fits the original users' problems and has been tested as a viable solution for the user. Well done!
+
+![sealofapproval](sealofapproval.jpg)
 
 Next up, we will briefly look at how to start looking at implementing the solution you’ve tested. We will focus on pitching the implementation suggestions to the client and how to update your user journey/BPM to reflect the tested solution as it may have changed from your original proposed user journey when you pitched the idea to the client at the end of ideation.
 
-ADDITIONAL RESOURCES
+## ADDITIONAL RESOURCES
 
-VIDEOS:
+### VIDEOS:
 
-Design Thinking: Prototype
-Design Thinking:Test
+[Design Thinking: Prototype](https://youtu.be/Q4MzT2MEDHA)
+[Design Thinking:Test](https://youtu.be/UVEQCNM6X-A)
 
-ARTICLES: 
+### ARTICLES: 
 
 https://www.uxpin.com/studio/blog/what-is-a-prototype-a-guide-to-functional-ux/
-https://www.usability.gov/how-to-and-tools/methods/prototyping.html
-https://www.interaction-design.org/literature/article/design-thinking-get-started-with-prototyping
-https://it.toolbox.com/blogs/craigborysowich/prototyping-types-of-prototypes-030607
-https://www.entrepreneur.com/article/308724
-https://www.interaction-design.org/literature/article/stage-4-in-the-design-thinking-process-prototype
-http://knowwithoutborders.org/unpacking-design-thinking-prototype/
-https://www.interaction-design.org/literature/article/prototyping-learn-eight-common-methods-and-best-practices
-https://www.interaction-design.org/literature/article/test-your-prototypes-how-to-gather-feedback-and-maximise-learning
-https://ux.stackexchange.com/questions/74862/the-most-appropriate-questions-to-get-quality-end-user-feedback-during-prototype
 
+https://www.usability.gov/how-to-and-tools/methods/prototyping.html
+
+https://www.interaction-design.org/literature/article/design-thinking-get-started-with-prototyping
+
+https://it.toolbox.com/blogs/craigborysowich/prototyping-types-of-prototypes-030607
+
+https://www.entrepreneur.com/article/308724
+
+https://www.interaction-design.org/literature/article/stage-4-in-the-design-thinking-process-prototype
+
+http://knowwithoutborders.org/unpacking-design-thinking-prototype/
+
+https://www.interaction-design.org/literature/article/prototyping-learn-eight-common-methods-and-best-practices
+
+https://www.interaction-design.org/literature/article/test-your-prototypes-how-to-gather-feedback-and-maximise-learning
+
+https://ux.stackexchange.com/questions/74862/the-most-appropriate-questions-to-get-quality-end-user-feedback-during-prototype
 
 https://www.interaction-design.org/literature/article/stage-5-in-the-design-thinking-process-test
