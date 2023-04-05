@@ -33,11 +33,14 @@ In addition to these skills you will also learn:
 
 ## INTRODUCTION
 
-![]()
+![prototype](prototype.png)
 
 By this point, you’ve learned how to talk to your users and client to help understand their needs and objectives, how to frame the problem they face appropriately and how to devise solutions around that problem. Now, you will learn how to build a working model of your idea and how to test that idea with your users/client.
 Simply put, prototyping is a sample or example of how the final solution will work. It’s a mock-version of the final solution which we use to help find issues or areas for improvement before we go ahead and build/execute the final solution. The general idea is that by testing out a pre-final version, we can avoid issues that would otherwise only arise once the final solution is implemented, and at that point it’s very difficult to make changes.
+
 PROTOTYPING OVERVIEW
+
+![prototyping](prototyping.png)
 
 So we know why we need to prototype - it’s to test out our idea before we go ahead with the final solution. The main objective is to find any problems with our current idea’s design and execution so that we can optimize and improve the idea for its final release to the public.
 
@@ -54,42 +57,54 @@ In both examples, we are trying to avoid creating something that is suboptimal f
 Just like we want to solve for the correct problem and we go about empathising with our users to find out their exact pains, we also need to create the correct solution for the users, which means we must prototype and test with them.
 
 Let’s look at some of the main points about prototyping:
-It is an inexpensive version of the idea
-It is a simplified or scaled-down version of the final idea.
-Its aim is to reveal areas to improve or adjust.
-We want to test the usability and practically of an idea
-We want to know how our users think and feel about the solution
-It can lead us to new or different solutions that are even better than our chosen idea.
-We take the feedback from the users and use it to improve or refine the solution.
-We are trying to avoid costly mistakes from occurring by testing first.  
-It can be a very simple version of the idea, or it can be highly complex
 
-The more complex, the more time and effort is spent in creating it, which might mean more time and effort wasted if we find our solution isn’t appropriate as it is.
+   - It is an inexpensive version of the idea
 
-We can focus on certain parts of the idea; we don’t need to create the entire solution as a prototype, we can hone in on a certain component and test that specifically.
+   - It is a simplified or scaled-down version of the final idea.
 
-Imagine if we just tested out the material with Jo before building the stairs - he may inform us that he hates the look and feel of wood and metal and prefers plastic. This already helps us avoid wasting time on creating mockups with those materials.
+   - Its aim is to reveal areas to improve or adjust.
 
-We ideally want to run through several rounds of prototyping; the more we test and improve, the closer our final product/service will be to what people want.
-We must include the whole team from our ideation phase when designing, building, and testing the prototype.
-We prototype to have something tangible to use when explaining the idea and  showcasing it to stakeholders.
+   - We want to test the usability and practically of an idea
+
+   - We want to know how our users think and feel about the solution.
+
+  - It can lead us to new or different solutions that are even better than our chosen idea.
+
+  - We take the feedback from the users and use it to improve or refine the solution.
+
+  - We are trying to avoid costly mistakes from occurring by testing first.
+
+  - It can be a very simple version of the idea, or it can be highly complex
+
+   - The more complex, the more time and effort is spent in creating it, which might mean more time and effort wasted if we find our solution isn’t appropriate as it is.
+
+ - We can focus on certain parts of the idea; we don’t need to create the entire solution as a prototype, we can hone in on a certain component and test that specifically.
+
+  - Imagine if we just tested out the material with Jo before building the stairs - he may inform us that he hates the look and feel of wood and metal and prefers plastic. This already helps us avoid wasting time on creating mockups with those materials.
+
+  - We ideally want to run through several rounds of prototyping; the more we test and improve, the closer our final product/service will be to what people want.
+
+  - We must include the whole team from our ideation phase when designing, building, and testing the prototype.
+  
+  - We prototype to have something tangible to use when explaining the idea and  showcasing it to stakeholders.
 
 You may hear of the term “rapid prototyping”. What this means is that you are building and testing prototypes quickly and iteratively. You come up with the first one, you test it, you come back to the drawing board with your feedback and new insights, and you build and test again. You run through this cycle several times until you have found a version of the idea that is feasible and viable for your client and user. In rapid prototyping, you can also have different team members working on different prototypes so that you can build and test multiple options of the idea at the same time; this approach is also useful for testing various parts of the solution - some team members could build one component to test and the rest of the team another component.
 
-Take a quick watch of this video to understand rapid prototyping further.
+Take a quick watch of [this video](https://vimeo.com/78645037) to understand rapid prototyping further.
 
 “The reason for prototyping is experimentation—the act of creating forces you to ask questions and make choices. It also gives you something you can show and talk about with other people. … a prototype is just an embodiment of your idea. It could be a skit in which you act out a service experience, such as visiting the emergency room at a hospital.” - Tom and David Kelley
 
-Take a look at this video of a prototyping session in action.
+Take a look at [this video](https://youtu.be/kI-CyvHeNNQ) of a prototyping session in action.
 
-METHODS OF PROTOTYPING
+## METHODS OF PROTOTYPING
 
+![methods of prototyping](methods of prototyping.png)
 
-Before we get into this, let’s watch this video which briefly explains the types of prototypes.
+Before we get into this, let’s watch [this video](https://youtu.be/ZzN4jQqXiOU) which briefly explains the types of prototypes.
 
+![prototypee](prototypee.png)
 
-
-Watch this video as well which summarises briefly what prototyping is, and talks about 3 methods to prototype. (Watch up until 2 minutes; the remainder goes into a specific example that you don’t need to watch)
+Watch [this video](https://youtu.be/NXLKgUgr6qI) as well which summarises briefly what prototyping is, and talks about 3 methods to prototype. (Watch up until 2 minutes; the remainder goes into a specific example that you don’t need to watch)
 
 There are various methods for prototyping, and depending on your solution’s focus - be it software or hardware - you will need to choose an appropriate prototyping method. If you are building a new website, you’ll likely create wireframes to test out your idea, however, if you are building a new type of stepladder, you may want to create a physical mock-up of the ladder that someone can actually use.
 
@@ -99,7 +114,7 @@ We aren’t going to be recommending a certain method here, as each has its meri
 
 First, let's look at the fidelity of a prototype before we engage with the methods.
 
-HIGH VS LOW FIDELITY
+### HIGH VS LOW FIDELITY
 
 The first thing to discuss is the fidelity of your prototype. Fidelity refers to the accuracy or exactness of something. So for prototyping, low fidelity means that the prototype does not closely represent the exactness of the final solution; this could mean that the prototype is highly simplified, or we are only looking at one part of the solution. High fidelity on the other hand means that the prototype very closely resembles the intended final product; if we are building a mobile application, the high-fidelity prototype will include pictures, colours, and working buttons, as opposed to low-fidelity which would just be a hand-drawn black/white mock-up without working buttons. With the high-fidelity prototype, we are creating something very close to the final product; we use tools like 3D models with physical moving parts to showcase the product and allow for physical user testing.
 
@@ -107,41 +122,46 @@ Using low-fidelity prototypes is useful as it allows the team to either test bas
 
 The correct way to do it would be to create multiple low-fidelity versions first which will help with finding all the major bugs and issues with your solution and then, only once you are confident that your solution has taken onboard all the feedback, you can create and release a high-fidelity version for final testing.
 
-METHODS
+### METHODS
+
 As mentioned above, there are several types of prototyping methods. The list below goes over the most common. Some may be completely irrelevant to your needs; you may be designing for a new website, in which case you wouldn’t be building a physical mock-up because the product you are designing is software and is intangible.
 
-Let’s take a look at each before we dive into a couple.
+**Let’s take a look at each before we dive into a couple.**
 
-Film/Movie
+***Film/Movie***
+
 This method involves creating a video which indicates to other people how the idea might work by using motion-graphics and/or audio.
 
 The idea is to speak to your users and explain to them how the process might work and what steps are involved. By seeing visuals and hearing someone explain it, the user can have a good understanding of the product/service you are designing for.
 
-Rapid Prototyping
+***Rapid Prototyping***
+
 The method here dictates that multiple rounds of prototypes are created to incrementally test the validity of certain decisions or features. One could start with low-fidelity versions and end on high versions.
 
-Simulations
+***Simulations***
+
 The idea here is to create a mock-up of the solution that is then run through a simulation machine which mimics the real world. So instead of testing on real users, the solution is run through a generic real-world situation. If it cannot pass the normal real-world situation, then it is unlikely to pass a specific user test.
 
 The example here could be a flight simulation game. The idea is that before a big company like Boeing goes and creates a new airplane, they can create a digital version first that can get run on a simulation so that they can test the reliability and performance of the new aircraft.
 
-Storyboard
+***Storyboard***
+
 This method prescribes that you draw out the solution as a story. Imagine you are creating a comic strip, where each block is a different phase/stage of the solution. By laying out the process or journey that the user would go on when engaging with the product, we can take them through it and get real feedback on where they think they might have issues or where we can improve.
 
+![storyboard](storyboard.png)
 
+***Sketching***
 
-
-
-Sketching
 This method is the most basic version of wireframing. It entails using a pen and paper to draw out your potential solution.
 
 This can be used for both digital and non-digital solutions.
 
 This is usually done as a precursor to wireframing which we discuss next. Wireframing generally, but not always, involves using software to build a skeleton of the idea, and if we sketch first we can simply replicate the solution using a wireframing tool.
 
+![sketching](sketching.png)
 
+***Wireframes***
 
-Wireframes
 A wireframe is a hand-drawn or digitally rendered basic version of your solution.
 
 This method is mainly used when designing digital solutions such as websites or mobile applications.
@@ -152,10 +172,12 @@ This method allows us to ensure that the idea works from a functional perspectiv
 
 There is no set rule to using wireframing software or using a pen and paper. The idea is that you don’t want to waste any time, so avoid using software if there is a steep learning curve. There are tons of digital tools, such as InVision and Axure.
 
+![wireframe](wireframe.png)
 
+![wireframing](wireframing.png)
 
+***Mock-ups***
 
-Mock-ups
 This is very similar to wireframes, however, we are inversing what we look at. Instead of looking at the functional elements, we are looking at the non-functional.
 
 We want to have a view of the look and feel of the page or product we are designing. How do we expect its style and design to look? We are not concerned with how it is going to work, but rather what it is going to look like.
@@ -164,18 +186,20 @@ We generally do mock-ups after we have done wireframing and have bedded down whe
 
 With mock-ups, we are very close to what the final product may look like. If you are building websites and you use a tool like InVision, you can actually link your various pages together with real clickable buttons. This allows you to give your user a very close look at the potential product and how it would be used.
 
-Here is an example of a clickable mockup. (Note that this is not a working website; these are simply images that have been linked to each other and made into a mock process; also, only certain parts of the image are clickable).
+Here is an example of a [clickable mockup](https://marvelapp.com/29a9gjj/screen/32324245). (Note that this is not a working website; these are simply images that have been linked to each other and made into a mock process; also, only certain parts of the image are clickable).
 
+![mockups1](mockups1.png)
 
+![mockups2](mockups2.png)
 
+***Sketch vs Wireframe vs Mockup:***
 
-
-Sketch vs Wireframe vs Mockup:
 Below shows the progression of an idea from sketch, to wireframe, to mockup.
 
+![sketchvswireframvsmockup](sketchvswireframvsmockup.png)
 
+***Document Prototype Process***
 
-Document Prototype Process
 When prototyping, you should ensure to capture all collateral that is developed during the process. This includes any low-fidelity prototypes that you come up with on your way to your high-fidelity versions. Capture all sketches that you may do and any wireframes that are created as well. Equally as important is any feedback that may have been captured along the way. If any small testing has been done, or if any feedback from stakeholders or the client has been gathered, then that too must be documented appropriately.
 
 It’s important to do this so that we have a good track-record of the decisions we made during our prototyping. It can be a record of any pivots we have made or any changes that occured. We can also ensure that we are documenting any decisions that are to affect things later in the project. Perhaps we find that there are decisions or processes that must occur during the execution of the idea that impact other departments in the company - we must document these to ensure we don’t forget about them.
@@ -184,36 +208,35 @@ You can attach all this information to the client pitch document you created in 
 
 TEST OVERVIEW
 
+![testoverview](testoverview.png)
 
 In this phase, we are going to look at how we test our prototypes with our users. This is a crucial phase of the process, as this is the time where we learn if our solution is actually going to work for whom we are designing. Our testing in this phase will either confirm that our solution is appropriate and does actually work for our users, or indicate that it needs to be redesigned or engineered to satisfy the user better; we may even learn that our solution won’t work at all and we need to head back to one of the previous stages.
 
 
-Always Test!
+**Always Test!**
 
+![alwaystest](alwaystest.jpg)
 
 Note: in the assignment questions attached to this section, we refer to ‘troubleshooting’ the problems. This simply means testing the solution with your users and engaging the users such that you can collect their data and their responses to understand the why of the problem they have with the solution. This section will help explain how to do this.
 
-THE USER
+### THE USER
 Ensure that you are working with the correct users. We spoke in a previous section about ‘extreme users’ which is the idea that most of your users will fit into the ‘average’ user, however you will have users who are not part of the norm. You must make sure to engage with extreme users in this testing phase to check that your solution works for both the average user and the outlying user.
 What you should ideally do is go back to the personas which you developed previously and find users who fit those persona types. You would want to get around 5 users per persona type for initial testing. There is no prescribed number of users to test on, however the more user feedback you have the better - you just need to be very conscious of time and resources as you do not want to get stuck in the testing phase for too long.
 
 Additionally, you may want to garner feedback from your key stakeholders as well. If you have different departments involved in the solution, then you should get those people to test it out too.
 Make sure that you document the type of user the user is when you are documenting their feedback. You may find that stakeholders all feel a certain way and that is in line or different from how the end users feel.
 
+![theuser](theuser.png)
 
-
-
-USABILITY TESTING
-
+### USABILITY TESTING
 
 We must remember that how we intend something to be used is not necessarily how it will be used and so we need to conduct usability tests to ensure our solution works for our user. Seeing a user in action using the solution is far more valuable than how we think they might use it.
 
-
-
+![usabilitytesting](usabilitytesting.png)
 
 An important point to note is that there is a difference between user testing and usability testing:
 
-
+![userandusabilitytesting](userandusabilitytesting.png)
 
 User testing is about going to your end users and asking them: If I built this solution for this problem that you’re facing, would you use it? Would you find it useful? Would it solve your problem?
 However, with usability testing, you are actually placing the solution in front of the user and saying “Use it”. You want the user to actually engage with your solution to see if it really does solve their problem or not.
@@ -222,73 +245,83 @@ The problem with user testing is that without actually using the solution, the f
 
 Think about it like this: If you are in two scenarios, one in which you are told to plan on how you would spend R1m, and one in which you got given R1m and are then asked to spend it, which scenario would best indicate how you spend R1m? Well, the scenario where you actually get the money and we can watch you spend it of course. We all know that when given a hypothetical scenario like being given R1m we tend to give answers that are more objectively agreed upon - like giving 10% of the money to charity. However, once we have the money, the chances of us just giving away 10% is much less. What we say vs what we do as humans is never the same; it is much easier to say something than to do it. How many people have you heard say “yeah I can do that!” and then struggle to actually do it?
 
+***Sure I can grow an amazing beard!***
 
+![expectationsvsreality](expectationsvsreality.png)
 
-
-
-
-Sure I can grow an amazing beard!
-
-
-
-
-HOW TO TEST
+### HOW TO TEST
 The way in which you test will depend on the type of prototype you have developed. If you have designed a simple sketch wireframe to first use as a test, then you will have a lot more of the ‘hypothesised’ user feedback. If the user only has a hand drawn website to look at, then they can only tell you how they might use it - “this looks confusing”, "this looks interesting”, “I wouldn't know to click here”, “does this button take me back?”, etc.
 
 However, if we have a real working mock-up for the user to use, we can get feedback like “I couldn’t click on this”, “I got stuck at this step”, or “I wanted to go here but I couldn't because of this” etc. So depending on the type of prototype you have depends on if you can do user testing or usability testing.
 
-
-
-
-
 How we intend our product to be used vs how our users use it
 
+![howtotest](howtotest.gif)
 
-
-Usability Testing
+### Usability Testing
 If you have a high-fidelity prototype, something like a mockup that has clickable linked wireframes, then you can engage in usability testing easily. What you’ll do is:
 
-Test
-Sit your user down in a quiet room
-Introduce the prototype to them and explain what their objective/task is
-“We want you to go from point A to B”, or “We want you to purchase an item”
-Sit back and keep quiet; do not help the user even if they ask
-Document where the user is struggling as this is the feedback you are looking for.
-Jot down where they asked their question
-Take note of the question itself
-Take note of where the user struggles but didn’t ask for help
-Document how long the user struggled at each point in the journey
+  - Test
+   
+   - Sit your user down in a quiet room
 
-Interview
+   - Introduce the prototype to them and explain what their objective/task is
+
+   - “We want you to go from point A to B”, or “We want you to purchase an item”
+   
+   - Sit back and keep quiet; do not help the user even if they ask
+
+   - Document where the user is struggling as this is the feedback you are looking for.
+
+   - Jot down where they asked their question
+
+   - Take note of the question itself
+
+   - Take note of where the user struggles but didn’t ask for help
+
+   - Document how long the user struggled at each point in the journey
+
+  - **Interview**
+  - 
 Once the user has finished with their task, you can then engage with them:
-Explain to them the thinking behind certain problem areas and listen for their feedback - do they agree now that they understand? Are they still confused? Do they understand but disagree with your assumptions on how it would be used?
-Ask specific questions on things you want to know from them:
-Do you know what this is?
-Would you know to click on this if you needed to get here?
-Did this confuse you?
-What would you change?
-What can be improved?
-Ask the user for any suggestions or recommendations
-USER TESTING
+
+   - Explain to them the thinking behind certain problem areas and listen for their feedback - do they agree now that they understand? Are they still confused? Do they understand but disagree with your assumptions on how it would be used?
+
+   - Ask specific questions on things you want to know from them:
+
+   - Do you know what this is?
+
+   - Would you know to click on this if you needed to get here?
+
+   - Did this confuse you?
+
+   - What would you change?
+
+   - What can be improved?
+
+   - Ask the user for any suggestions or recommendations
+
+### USER TESTING
+
 If you are doing user testing, the easiest and best way to do this is to try and mimic usability testing first. Give the user the low-fidelity prototype and follow the test process listed above.
 However, the real testing will come in the interview stage. Because the prototype has much uncertainty and the user can’t actually use it, the most value you will get is in interviewing the user.
 Additionally, if you only have sketches to show and you happen to have multiple versions of the solution, then you can test out all of them with the user. Let them engage with the first one and gather feedback, then introduce the second, and so on.
 
-FOCUS GROUP
+**FOCUS GROUP**
 You can also use focus groups to get user feedback. You’ll need to gather up a group of users, either from the same persona type or from different personas, and sit them together in a room. You’ll then present the idea to them and they can either each go through it individually first, or you can take them through it as a group. Once you’ve done so, you will then allow them to have a discussion and discuss their experience with the solution. The idea then is to get all of their feedback as a group; you want a conversation to take place.
 
 The benefit of using focus groups is that it allows certain people in the group a chance to speak up and share their thoughts when they hear other people sharing similar thoughts. Listening to others can trigger certain thoughts that you wouldn't have had normally.
 
 The issue however with focus groups is that sometimes it’s only the loudest voices in the room that speak up, and other shy people are less likely to share their thoughts. The problem is that you may miss out on great feedback from people who are keeping quiet.
 
-SURVEYS/QUESTIONNAIRES
+**SURVEYS/QUESTIONNAIRES**
 You can also use surveys or questionnaires to gather feedback. If you have users who are located far away from you and you cannot meet with them, then you can send them the prototype and attach a survey for them to fill out.
 
 Below is an example template for gathering feedback.
 
+![gatheringfeedback](gatheringfeedback.png)
 
-
-A/B TESTING
+**A/B TESTING**
 A variation in your testing, rather than a new method, a/b split testing allows you to test multiple solutions with your users. This can be done in two ways:
 offer the user two variances of your prototype and ask them to use both and then choose which they prefer.
 Offer one prototype to one user group and the other to a different set of users. By splitting your user group in two, you can get unbiased data as to which prototype performs better. Ensure that you split your user group up evenly.
