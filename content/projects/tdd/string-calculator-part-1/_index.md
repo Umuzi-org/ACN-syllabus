@@ -148,7 +148,7 @@ In the second case, the default delimiter is: "4".
 
 #### 5. Modify the add function so that it can handle negative integers
 
-If a negative number is passed into the add function it should throw this exception:
+If a negative number is passed into the add function it should throw this error/exception:
 `negatives not allowed <negative integers found>`
 
 The exception should contain a list of all the negative integers that were passed into the add function.
