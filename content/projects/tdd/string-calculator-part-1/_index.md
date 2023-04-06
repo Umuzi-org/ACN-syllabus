@@ -79,7 +79,7 @@ Please note that this project should be done in a TDD manner.
 
 #### 1. Create an add function that can handle up to two integers passed in as a string
 
-Create a function called `add()` that takes in a string as a parameter and behaves in the following way:
+Create a function called `add` that takes in a string as a parameter and behaves in the following way:
 
 ```
 add("")
@@ -93,7 +93,7 @@ add("1,1")
 
 ```
 
-_Note: The output that the function returns should be an integer and not a string._
+**Note:** The output that the function returns should be an integer and not a string.
 
 #### 2. Modify the add function to handle multiple integers
 
@@ -120,7 +120,7 @@ add("1\n2,3" )
 // should return 6
 ```
 
-#### 4. Modify the add function so that it can handle different delimiters
+#### 4. Modify the add function so that it can handle custom delimiters
 
 Delimiters will be specified in the following manner:
 
@@ -144,26 +144,12 @@ In the first case, the default delimiter is: ";".
 
 In the second case, the default delimiter is: "4".
 
-**Note:** you are not expected to handle integer delimiters where the delimiter and the digit you are adding are the same. For example
-
-```
-add("//4\n14244")
-add("//88\n18882")
-```
-
-Strings like these should raise an error, `'ERROR: invalid input'`. When this isn't the case, your function should work as explained above;
-
-```
-add("//88\n18820882")
-// should return 23
-```
-
-**Python:** Raise an appropriate exception type. Using the base Exception isn't good practice. Here are [errors](https://www.tutorialsteacher.com/python/error-types-in-python) that can be raised.
+**Note:** you are not expected to handle integer delimiters where the delimiter and the digit you are adding are the same.
 
 #### 5. Modify the add function so that it can handle negative integers
 
 If a negative number is passed into the add function it should throw this exception:
-`"negatives not allowed"`
+`negatives not allowed <negative integers found>`
 
 The exception should contain a list of all the negative integers that were passed into the add function.
 
@@ -172,8 +158,10 @@ For example:
 ```
 add("-1,-2,3,4")
 // should throw the following:
-    'ERROR: negatives not allowed -1,-2'
+    'negatives not allowed -1,-2'
 ```
+
+**Python:** Raise an appropriate exception type. Using the base Exception isn't good practice. Here are [errors](https://www.tutorialsteacher.com/python/error-types-in-python) that can be raised.
 
 #### 6. Modify the add function so that it can support delimiters of any length
 
@@ -183,6 +171,7 @@ For example:
 ```
 add("//***\n1***2***3")
 // should return 6
+
 ```
 
 ### Why is this important?
@@ -197,6 +186,6 @@ add("//***\n1***2***3")
 
 - Ensure that the add function takes a string as an argument.
 
-- The function that needs to be constantly updated is the `add()` function. It is even better if the `add()` function relies on other tiny functions.
+- The function that needs to be constantly updated is the `add` function. It is even better if the `add` function relies on other tiny functions.
 
-- An understanding of regular expression methods should be demonstrated within the project.
+- An understanding of regular expressions should be demonstrated within the project.
