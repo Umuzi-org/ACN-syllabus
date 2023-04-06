@@ -5,6 +5,11 @@ blurb: HTML is all about the layout of your web content. CSS is all about style!
 content_type: project
 flavours:
 - none
+link_example: https://your-name.github.io/your-repo-name/
+link_message: Please make sure you are linking to your github page, not just your
+  repo. If someone follows the link then they should see your website
+link_name: Github page url
+link_regex: https://.*\.github.io/.*/?$
 submission_type: link
 title: Introducing CSS
 ---
@@ -19,7 +24,7 @@ https://www.w3schools.com/css/
 
 ### 1. Create a css file 
 
-Create a css file called `styles.css` and reverence `styles.css` in each of your html files. [This page](https://www.w3schools.com/css/css_howto.asp) will tell you how.
+Create a css file in your repo and reverence it in each of your html files by making use of a link tag. [This page](https://www.w3schools.com/css/css_howto.asp) will tell you how.
 
 ### 2. Add some styles 
 

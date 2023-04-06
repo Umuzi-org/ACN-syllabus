@@ -21,6 +21,28 @@ tags:
 title: Animals Part 1. OOP basics
 ---
 
+## Project structure
+
+### JavaScript
+
+Your directory structure should look like this:
+
+```
+├── src
+|   └── animals.js
+└── package.json
+```
+
+**Note**: Please export your `Dog`, `Cat` and `Home` classes using the following syntax at the end of the code:
+
+```
+
+module.exports = {class1Name, class2Name, ...}
+
+```
+
+## Instructions
+
 This challenge should test topics from your OOP knowledge.
 
 1. Encapsulation

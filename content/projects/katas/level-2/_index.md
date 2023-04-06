@@ -99,7 +99,7 @@ Add some functionality to `triangle` so that an error/exception gets raised if a
 
 ## Task 2.3
 
-Write a function that takes a list of strings and prints them as columns with a single space between them.
+Write a function `columns` that takes a list of strings and prints them as columns with a single space between them.
 
 For example, `columns(["Write","good","code","every","day"])` gets printed as:
 
@@ -109,6 +109,12 @@ r o o v a
 i o d e y
 t d e r
 e     y
+```
+
+**For javascript:** Don't forget to export you function with the code:
+
+```
+module.exports = {functionName}
 ```
 
 ## Next Steps
