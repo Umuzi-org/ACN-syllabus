@@ -43,13 +43,13 @@ module.exports = {functionName}
 
 Your project is expected to be completed using pytest. You are expected to follow industry best practices in all things. This means that you need to have a directory structure that is in good shape. Please name your files and folders like this:
 
-```
-├── string_calculator   the package under test
-│   └── calculator.py
-├── requirements.txt    installation requirements
-├── setup.py            installation script for the package under test
-└── tests               all package tests go in this directory
-    └── test_calculator.py
+```py
+├── string_calculator   # the package under test
+│   └── string_calculator.py
+├── requirements.txt    # installation requirements
+├── setup.py            # installation script for the package under test
+└── tests               # all package tests go in this directory
+    └── test_string_calculator.py
 ```
 
 Please take a look at this topic to see an explanation of the required directory structure.
