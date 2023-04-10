@@ -22,6 +22,8 @@ You can see more detailed instructions [here](https://www.w3schools.com/html/htm
 
 If you have an Android then you can make use of the [ACode](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree&hl=en_ZA) code editor.
 
+ACode can be a little confusing. [Here](https://youtu.be/ivJ4FGKnGUE) is a little demonstration video that might help you.
+
 ## Option 3: If you have a computer and want to be fancy about it
 
 Install [vscode](https://code.visualstudio.com/Download). It's a fancy text editor that is especially designed for coding.  You don't need it at this stage in your journey but it's cool. And we like to encourage cool things. 
