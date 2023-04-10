@@ -9,7 +9,7 @@ tags:
 title: Why learn web development?
 ---
 
-There are loads of different kinds of coders, and each type of coder needs to know a different set of tools, practices and languages. It's very possible that you would be better suited to a different kind of programming than web development.
+There are loads of different kinds of programmers, and each type needs to know a different set of tools, practices and languages. If you spend some time Googling "what programming language should I learn first" then you'll get lots of confusing and conflicting advice. 
 
 ## So why start with web dev?
 
@@ -43,12 +43,13 @@ If you decide to pursue a different kind of coding career, for example data scie
 
 ## Is this challenge a good way to start?
 
-Well... yes. In this challenge 
+Yes! In this challenge you will 
 
-- you will learn about the fundamental tools in web dev
-- you'll learn how to host websites you make yourself for free
-- you'll be set up to keep learning on your own - the web is full of learning material (some good and some bad) and advice (some good and some bad). We're really good at finding the best stuff. We'll share that with you so you can keep growing!
-- once you finish this challenge you'll be in our database of high potential people. That means we'll give you access to more courses and opportunities in future
+- learn about the fundamental tools in web dev
+- learn how to host websites you make yourself for free
+- be set up to keep learning on your own - the web is full of learning material (some good and some bad) and advice (some good and some bad). We're really good at finding the best stuff. We'll share that with you so you can keep growing!
+
+Once you finish this challenge you'll be in our database of high potential people. That means we'll give you access to more courses and opportunities in future. 
 
 ## Think about this...
 

@@ -19,7 +19,7 @@ We'll get into some details in a little while :)
 
 CSS is all about style. It decides how your HTML will look.
 
-For example you might say you want your title is big and underlined, your image is centered, and your button is blue. It's all up to you. 
+For example you might want your title to be big and underlined, your image to be centered, and your button to be blue. It's all up to you. 
 
 You'll get to play with CSS a little later.
 
@@ -27,7 +27,7 @@ You'll get to play with CSS a little later.
 
 Javascript lets you add smarts to your website. You can use it to add interactions and dynamic behavior. Eg you can say that if a user clicks on a button then some new HTML elements are added to the web page, or some changes are made to the CSS. 
 
-It's a very powerful tool and it is worth knowing about it. We wont be getting into details in this challenge but we'll recommend some good learning resources at the end.
+It's a very powerful tool and it is worth knowing about it. We wont be getting into details in this challenge but we'll recommend some good learning resources at the end. 
 
 ## Our content strategy
 
