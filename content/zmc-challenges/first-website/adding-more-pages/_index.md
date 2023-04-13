@@ -34,7 +34,7 @@ On your local device create another page. It needs to have the following:
 - valid `<head>` and `<body>` elements
 - a single `<h1>` title 
 - a link to your `index.html` page
-- a link to another website. The href attribute should have an absolute url (check the MDN docs above if you don't know what that means)
+- a link to another website of your choice. The href attribute should have an absolute url (check the MDN docs above if you don't know what that means)
 - An unordered HTML list. It can contain whatever you want. You'll need to do a little bit of research to figure this one out :) 
 
 ### 2. Update index.html
