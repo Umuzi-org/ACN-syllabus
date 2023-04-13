@@ -32,7 +32,7 @@ If you can't install it or if it's weird and confusing then don't worry :) You c
 
 ## If none of the above work 
 
-If none of these options work fo you then you might need to do some research. Basically all you need is a text editor and a way to open files in a browser. Google is your friend :) 
+If none of these options work for you then you might need to do some research. Basically all you need is a text editor and a way to open files in a browser. Google is your friend :) 
 
 ## If you have a different code editor
 
