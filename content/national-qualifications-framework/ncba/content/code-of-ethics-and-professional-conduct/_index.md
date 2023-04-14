@@ -37,7 +37,7 @@ When dealing with various clients and stakeholders of a business, it is importan
 
 You can achieve this by adopting clear standards of ethics and appropriate professional behaviour. These standards and behaviours will assist you in always making wise decisions even when confronted with difficult situations which may compromise your integrity.
 
-![Students](Students.jpg)
+![students](students.jpg)
 
 ### *PROFESSIONAL CONDUCT WHEN INTERACTING WITH CLIENTS AND STAKEHOLDERS* 
 
