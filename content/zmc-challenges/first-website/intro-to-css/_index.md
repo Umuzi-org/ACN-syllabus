@@ -22,7 +22,7 @@ Earlier on in this challenge we mentioned that CSS can be used to give your html
 
 ### 1. Create a css file 
 
-Create a css file in your repo and reverence it in each of your html files by making use of a `<link/>` element. [This page](https://www.w3schools.com/css/css_howto.asp) will tell you how.
+Create a css file in your repo and reference it in each of your html files by making use of a `<link/>` element. [This page](https://www.w3schools.com/css/css_howto.asp) will tell you how.
 
 ### 2. Add some styles 
 
