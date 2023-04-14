@@ -29,9 +29,7 @@ You will be required to identify the different codes of ethics and behavioural s
    - Identify the professional bodies that govern the different industries.
 
 
-## READING MATERIAL
-
-### PROFESSIONAL CONDUCT
+## PROFESSIONAL CONDUCT
 
 ### INTRODUCTION TO BEING PROFESSIONAL
 
