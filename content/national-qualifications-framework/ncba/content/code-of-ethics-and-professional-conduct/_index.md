@@ -146,7 +146,7 @@ Now that we've identified some acceptable and unacceptable practices in consulta
 
 Please watch the following [video](https://www.youtube.com/watch?v=ohmOCHYz530) on being ethical even when no one is watching. 
 
-To further guide our decision-making process in upholding this code of ethics and professional conduct PMI has compiled a framework for decisions making which can be found [here](https://www.pmi.org/-/media/pmi/documents/public/pdf/ethics/ethical-decision-making-framework.pdf?v=53450dfb-bf1d-4596-b639-018ab1163300&sc_lang_temp=en)
+To further guide our decision-making process in upholding this code of ethics and professional conduct PMI has compiled a framework for decisions making which can be found [here.](https://www.pmi.org/-/media/pmi/documents/public/pdf/ethics/ethical-decision-making-framework.pdf?v=53450dfb-bf1d-4596-b639-018ab1163300&sc_lang_temp=en)
 
 
 ### PROFESSIONAL BODIES
