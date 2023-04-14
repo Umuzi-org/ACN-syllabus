@@ -79,7 +79,7 @@ You'll now use Github pages to host your website on the web.
 
 Github pages are a really powerful thing and they can be configured to do all kinds of cool stuff. We're going to use the simplest setup possible :) 
 
-[This guide](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site) will take you through the process.
+[This guide](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site) will take you through the process. You can also use the following [video demonstration](https://www.youtube.com/watch?v=74v58saH8dE) for reference.
 
 You'll be asked to choose a publishing source. You'll just use the main branch and the root directory.
 
