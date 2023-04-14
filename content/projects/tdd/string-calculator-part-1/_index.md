@@ -88,6 +88,9 @@ add("")
 add("1")
 // should return 1
 
+add("123")
+// should return 123
+
 add("1,1")
 // should return 2
 
@@ -106,6 +109,9 @@ add("")
 
 add("1")
 // should still return 1
+
+add("123")
+// should still return 123
 
 add("1,1")
 // should still return 2
@@ -144,7 +150,7 @@ In the first case, the default delimiter is: ";".
 
 In the second case, the default delimiter is: "4".
 
-**Note:** you are not expected to handle integer delimiters where the delimiter and the digit you are adding are the same.
+**Note:** you are not expected to handle integer delimiters where the delimiter and the digit you are adding are the same. Same thing for when an iteger delimeter is at the end of the list of integers. This and more will be dealt with in part 2 of the project.
 
 #### 5. Modify the add function so that it can handle negative integers
 
