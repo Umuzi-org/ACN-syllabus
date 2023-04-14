@@ -34,7 +34,7 @@ Your directory structure should look like this:
 └── package.json
 ```
 
-**Note**: Please export your both the previously created functions and the new `logger` setup object from their respective files
+**Note**: Please export `logger`, a setup object from the new `logger.js` file(see above diagram). Exports from part-1 of the project should remain.
 
 ## General instructions
 
