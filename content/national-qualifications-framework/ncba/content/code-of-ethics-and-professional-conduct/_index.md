@@ -124,7 +124,7 @@ We commit to only providing service within the boundaries of our level of expert
 
 ### ACCEPTABLE & UNACCEPTABLE BEHAVIOUR
 
-![Integrity, truth and commitment](Integrity, truth and commitment.jpg)
+![integrity,truth,commitment](integrity,truth,commitment.jpg)
 
 Ethics are not just a vague theory but a working concept that can have an important and real effect on your professional practice. Ethics are not simply a matter of obeying the law; it goes much beyond this. You will also see that the ethical decision  is not always simple, there are always a lot of factors to consider when making a decision. You will however be required to act with integrity.
 
