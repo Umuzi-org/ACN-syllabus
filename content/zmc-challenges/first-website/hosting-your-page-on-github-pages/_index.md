@@ -123,3 +123,5 @@ You have learned:
 - a few fundamental HTML elements
 - how to back your work up on GitHub
 - how to host a website
+- the pros of learning web development
+- the importance of understanding before moving forward
