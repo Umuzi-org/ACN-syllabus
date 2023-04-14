@@ -149,7 +149,7 @@ In the second case, the default delimiter is: "4".
 #### 5. Modify the add function so that it can handle negative integers
 
 If a negative number is passed into the add function it should throw this error/exception:
-`negatives not allowed <negative integers found>`
+`negatives not allowed {comma separated list of negative integers found}`
 
 The exception should contain a list of all the negative integers that were passed into the add function.
 
@@ -181,11 +181,6 @@ add("//***\n1***2***3")
 ## Instructions for reviewers
 
 - Proper TDD to be followed. Mocks and Spies are not needed for this project.
-
 - Proper error handling to be used. no `print`/`console.log`. an exception is to be thrown when needed and a value returned when needed.
-
 - Ensure that the add function takes a string as an argument.
-
-- The function that needs to be constantly updated is the `add` function. It is even better if the `add` function relies on other tiny functions.
-
 - An understanding of regular expressions should be demonstrated within the project.
