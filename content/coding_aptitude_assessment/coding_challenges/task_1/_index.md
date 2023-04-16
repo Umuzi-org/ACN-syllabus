@@ -38,6 +38,16 @@ print "dont do this"  # if you are writing print statements like this
 ```
 
 
+## Java 
+
+If you are using Java then you should be using `System.out.println` to print the string.
+
+For example:
+
+```
+System.out.println("something");
+```
+
 ## Have some videos :)
 
 Since this is your first code project we'll walk you through the process of getting to complete.  You'll need to do the future projects on your own though :)
@@ -52,9 +62,10 @@ Some learners will be moving to alternate programmes following this, but as long
 
 {{% youtube OTb8VoZHvpM %}}
 
-
 ## Check your understanding! 
 
 - What does it mean to "print"?
-- What is a function?
+- What is a function? 
+- What does it mean to call a function?
 - What is a string? How does that compare to integers?
+- Can you run your own code? Does it work?

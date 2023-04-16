@@ -38,6 +38,8 @@ Each task will require that you write a single function. Please name the functio
 
 Task 1's function should be named `task1`  (so you will start off by writing `function task1(`), and task 2's function should be named `task2`, etc.
 
+
+
 ### Exports - CRITICAL INFO FOR JAVASCRIPT LEARNERS
 
 > This is only necessary for JavaScript developers.
@@ -59,6 +61,25 @@ function task1(){
 
 module.exports = { task1 };
 
+```
+## Java 
+
+If you are doing the coding challenges in Java then you should make a separate file per task. Each file must contain one class.
+
+For task 1 the file should be names `Task1.java`. Inside that file, you should have a class named `Task1`. Inside that class you should have a function called `task1`.
+
+If you want to test out your code then feel free to make a `main` function as well. For example, your final Task1.java file could look something like this:
+
+```
+public class Task1 {
+    public static void main(String[] args) {
+        // Optional: write code that calls your task1 function to make sure that it works as you expect it to
+    }
+
+    public static void task1() {
+        // Required: implement task 1 code here
+    }
+}
 ```
 
 ## Check your understanding!
