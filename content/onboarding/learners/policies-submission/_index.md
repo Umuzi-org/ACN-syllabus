@@ -9,7 +9,6 @@ prerequisites:
 ready: true
 submission_type: link
 tags:
-- docx
 - close_on_peer_reviews
 title: Policy Questionaire
 ---
