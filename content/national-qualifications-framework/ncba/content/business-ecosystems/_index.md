@@ -8,279 +8,402 @@ tags: []
 title: Business Ecosystems
 ---
 
-DESCRIPTION
+## DESCRIPTION
 
 In the previous module you learned about what it means to be a professional and what acceptable behavior is. Now that you know all of that it's just as important for you to know that the workplace exists within a business and a business has ecosystems. 
 
 In this module you will learn  about the different components of the business environment and how it affects the business.
 
-LEARNING OUTCOMES:
+## LEARNING OUTCOMES:
 
 By the end of this module you will have an understanding of:
-External business environment
-Internal business environment 
-Types of businesses 
-Business systems 
-Enterprise resource planning 
+
+  - External business environment
+
+  - Internal business environment 
+
+  - Types of businesses 
+
+  - Business systems 
+
+  - Enterprise resource planning 
 
 In addition to these skills you will also learn how to:
-Identify the different types of business  environment 
-Use a Porter's value chain Interact in a business environment 
+
+  - Identify the different types of business  environment 
+
+  - Use a Porter's value chain Interact in a business environment 
 
 
-INTRODUCTION TO BUSINESS ECOSYSTEMS
+## INTRODUCTION TO BUSINESS ECOSYSTEMS
 
 In this module, you will be introduced to the multifaceted world of business. What does it take to set up a business? What does the environment look like? What regulations must we comply with? It is important for us to explore the business ecosystem before we get into how to run internal projects and solve real user problems. 
 
 Let’s jump into it!  As a professional in the making, it's important to know the environment and ecosystems that the business you are consulting for operate in and you know the regulations that govern the business. So let's get to know more about the different business ecosystems.
 
+![jhbcbd](jhbcbd.png)
 
-UNDERSTANDING THE BUSINESS ENVIRONMENT
+### UNDERSTANDING THE BUSINESS ENVIRONMENT
 
 Businesses do not operate in a vacuum but rather in a dynamic environment that has a direct influence on how they operate and whether they will achieve their objectives. This external business environment is composed of numerous outside organizations and forces. A business environment comprises both internal and external factors. The business environment poses threats to a firm or offers immense opportunities for potential market exploitation. 
 
 Businesses operate in an environment that determines the businesses growth or failure depending on how the business adjusts to the dynamics of the environment. Businesses can manage the environmental components or have an influence on those components or even the business will just need to adjust.We have two different environments which are Micro and Macro environments.
 
 For us to fully understand the business environment and all its moving parts, let's use Umuzi as an example. Sure we’re about providing access to high-quality education which leads to high-value employment opportunities, but there’s so much more to us than just that. What makes up Umuzi is our education side, our marketing department, our community and wellness teams, and much more.
-THE INTERNAL BUSINESS ENVIRONMENT
+
+***THE INTERNAL BUSINESS ENVIRONMENT***
+
 An organization's internal environment consists of the entities, conditions, events, and factors within the organization that influence choices and activities. Factors could include employee behavior, the organization's culture, mission statement, and leadership styles.
 What is an internal environment-: An internal environment is a set of elements that define the atmosphere within the company’s structure that the organization has control over.
 
 Because these factors are internal, the business (in this case Umuzi) is able to control them. It’s not always easy, but it’s certainly easier to control internal factors than external factors. We’ll talk about the external factors later. 
 
- Businesses like Umuzi are made up mostly of the common internal business environment factors, such as: 
+Businesses like Umuzi are made up mostly of the common internal business environment factors, such as: 
 
+  - Financial (resources, systems)  
 
-Financial (resources, systems)  
-Human (employees, management)
-Technological (systems, processes) 
-Physical (location)
-Product 
+  - Human (employees, management)
+
+  - Technological (systems, processes) 
+
+  - Physical (location)
+
+  - Product 
 
 While we have control over all these factors, a lot of effort is directed to our internal team at all times, from managers to existing recruits. We focus on our internal team to create a strong organizational culture, which is a critical business success factor.
-THE EXTERNAL BUSINESS ENVIRONMENT
+
+
+***THE EXTERNAL BUSINESS ENVIRONMENT***
+
 An external environment is composed of all the outside factors or influences that impact the operation of the business. The business must act or react to keep up its flow of operations. The external environment can be broken down into two types: the micro-environment and the macro-environment.
 
-Watch this video below to recap what we’ve learned about the macro-environment.
-The External Business Environment
-MICRO ENVIRONMENT
+Watch [this video](https://www.youtube.com/watch?v=H8_W8tAEsfQ) below to recap what we’ve learned about the macro-environment.
+[The External Business Environment](https://youtu.be/H8_W8tAEsfQ)
+
+***MICRO ENVIRONMENT***
 
 The term ‘micro-environment’ refers to those environmental factors which are closely associated with the business. Below are a few examples of these. Micro environment refers to the immediate factors that have an impact on the success of the business and the business has an influence on these to make them manageable.
 
-Customers
-
+***Customers***
 
 Customers are people that buy goods and services from the business. Businesses have direct control over who their customers are and what their customers can buy from them. The relationships we build are vital to our success so we’ve got to understand the different types of customers and the influence they have on our success.
 
-Suppliers
 
+***Suppliers***
 
 Suppliers are where businesses can acquire their resources, things that the business needs to continue running may differ from business to business however now that we are reliant on the internet the network provider of wifi becomes the supplier of that business. We have learned that businesses have direct control over the microenvironment which means the business can choose who their network provider is.
 
-Competitors
 
+***Competitors***
 
 Competing firms can influence business in a number of ways. They can do so by bringing new and cheap products into the market, by leveraging technology more effectively than their competitors, by meeting customer needs more effectively, or by undercutting the competition through marketing, positioning, and promotion. Think about guys like Vega, AAA, Boston City Campus, or even agencies creating their own learnerships. They might have better access to funds. 
 
-The Public
+
+***The Public***
 
 The Public has different players like the local public, press or media, etc. The attitude or behavior of these players can affect business units. 
 
-Market Intermediaries
+
+***Market Intermediaries***
 
 Market intermediaries are the links that help to promote, sell, and distribute the products to final consumers. They are the physical distribution firms (transport firms), service agencies (media firms), financial intermediaries (banks, insurance companies), etc. that help in producing, marketing, and insuring the goods against loss or theft, fire, etc. 
 
-MACRO ENVIRONMENT
-
+***MACRO ENVIRONMENT***
 
 The macro-environment consists of general factors that a business typically has no control over. The success of the company depends on its ability to adapt. The macro-environment consists of the economic and non-economic variables that provide opportunities and threats to firms. Below are examples of the macro-environment.  
 
-Watch this video that explains the External Business Environment in  the macro-environment.
+Watch [this video](https://youtu.be/rFUs1wYKtKI?t=41) that explains the External Business Environment in  the macro-environment.
 
-ECONOMIC ENVIRONMENT
+***ECONOMIC ENVIRONMENT***
 
 Some of these in the list below won’t seem to directly affect our online community and wellness, but you’ll be surprised at how interlinked everything is. Take a look at the list below of what makes up the economic environment that affects business activities and then we’ll talk about how one thing can affect another.
-Industrial production
-Agriculture
-Infrastructure
-National income
-Per capita income
-Business cycles
-Economic policies
-Infrastructural facilities
-Financial facilities
+
+  - Industrial production
+  
+  - Agriculture
+
+  - Infrastructure
+
+  - National income
+
+  - Per capita income
+
+  - Business cycles
+
+  - Economic policies
+
+  - Infrastructural facilities
+
+  - Financial facilities
 
 
 So what’s the point of knowing all about the economic system? Well, it helps in answering questions like:
-Is it the right time to set up the business?
-Can new products be added to the product line?
-Is the market size large enough to provide the desired rate of returns?
-Is the environment conducive in terms of availability of manpower, infrastructure, raw material, finance, building, plant, and machinery etc?
+
+  - Is it the right time to set up the business?
+
+  - Can new products be added to the product line?
+
+  - Is the market size large enough to provide the desired rate of returns?
+
+  - Is the environment conducive in terms of availability of manpower, infrastructure, raw material, finance, building, plant, and machinery etc?
 
 The economic environment clearly plays a vital role in shaping the culture of our organization and other businesses. We’ve always got to remember that market forces and state planning provide the constraints within which we can carry out our functions.
 
-NON-ECONOMIC ENVIRONMENT
+***NON-ECONOMIC ENVIRONMENT***
 
 These influence and are influenced by the economic environment. A large number of variables actually affect the non-economic environment. This consists of: 
 Socio-cultural
-Demographic
-Natural
-Physical
-Technological
-Political
-Legal environment
+
+  - Demographic
+
+  - Natural
+
+  - Physical
+
+  - Technological
+  
+  - Political
+
+  - Legal environment
 
 
-POLITICAL-LEGAL ENVIRONMENT
+***POLITICAL-LEGAL ENVIRONMENT***
 
 This is the legislative, executive, and judicial environment of the country that shapes and controls business activities.
 In general, government regulations relating to standards of product, packaging of products, protection of environmental and ecological balance, a ban on advertisement of certain products (liquor), advertisement of certain products with a statutory warning (cigarette), etc.
 The political-legal system helps in answering questions such as:
-Is the political climate stable in the country so that government policies do not change time and again?
-Do political organizations promote business activities, that is, the processing of paperwork is done without much delay because of bureaucracy and red tape?
-Is the judiciary effective in decision-making to deal with business conflicts and law-suits?
-Are the government policies conducive to business growth in terms of incentives, markets, taxation etc?
-Are the licensing procedures for entering into a new business lenient or strict?
-How conducive are the export and import policies to promote imports and exports, etc?
+
+  - Is the political climate stable in the country so that government policies do not change time and again?
+
+  - Do political organizations promote business activities, that is, the processing of paperwork is done without much delay because of bureaucracy and red tape?
+
+  - Is the judiciary effective in decision-making to deal with business conflicts and law-suits?
+
+  - Are the government policies conducive to business growth in terms of incentives, markets, taxation etc?
+
+  - Are the licensing procedures for entering into a new business lenient or strict?
+
+  - How conducive are the export and import policies to promote imports and exports, etc?
 
 These points are interesting when you consider how attractive South Africa is to external investors. For example, all the different unions in South Africa across mining, transport, manufacturing, etc, ensure that we have a fair employment climate. Thing is, the union's love a good strike, and if a foreign company is interested in investing money in South Africa’s platinum production, for example, they might worry that the mineworkers will strike at any given time and therefore slow production and export of platinum.
 
 
-REGULATORY ENVIRONMENT
+***REGULATORY ENVIRONMENT***
 
 Linked to the political-legal environment is the regulatory environment. In South Africa, different sectors and industries are governed and guided by rules and best practices which are laid out by their own relevant industry bodies, associations, or regulatory bodies. These organizations, while performing some of the same functions, are in fact quite different.
 
 Here are a few points which specify the aspects of professional vs regulatory bodies.
 Association/Professional Body
-Acts in the interest of the profession
-Independent of the regulatory body
-Promotes and supports the practitioners and the profession
-A membership organization of professional practitioners 
-Ensures members meet their own standards which are at least those required by the regulatory body but may exceed them.
 
-Regulatory Authority
-Acts in the interest of the public and have processes open and accountable to the public and the profession
-Independent of professional bodies
-Promotes the process of regulation
-Administers a single register of practitioners who meet agreed criteria.
-Works with the profession to agree and oversee minimum standards.
-Sets requirements for generic continuing professional development (CPD)
+  - Acts in the interest of the profession
+
+  - Independent of the regulatory body
+
+  - Promotes and supports the practitioners and the profession
+
+  - A membership organization of professional practitioners 
+
+  - Ensures members meet their own standards which are at least those required by the regulatory body but may exceed them.
+
+***Regulatory Authority***
+
+  - Acts in the interest of the public and have processes open and accountable to the public and the profession
+
+  - Independent of professional bodies
+
+  - Promotes the process of regulation
+
+  - Administers a single register of practitioners who meet agreed criteria.
+
+  - Works with the profession to agree and oversee minimum standards.
+
+  - Sets requirements for generic continuing professional development (CPD)
 
 And a couple of points on the advantages and disadvantages of regulatory bodies.
 
-Advantages of Regulatory Compliance
-Quality control
-Avoidance of costly litigation from unhappy clients, stakeholders or consumers
-Avoidance of costly litigation from unhappy clients, stakeholders or consumers
-Increased efficiency
-Public and consumer trust and brand association
-Fair competition - everyone plays by the same rules
-Promote transparency in operations and decision making
+***Advantages of Regulatory Compliance***
+
+  - Quality control
+  
+  - Avoidance of costly litigation from unhappy clients, stakeholders or consumers
+
+  - Avoidance of costly litigation from unhappy clients, stakeholders or consumers
+
+  - Increased efficiency
+
+  - Public and consumer trust and brand association
+
+  - Fair competition - everyone plays by the same rules
+
+  - Promote transparency in operations and decision making
 
 Disadvantages of Regulatory Compliance
-Regulatory bodies are inflexible
-Bodies are often inefficient and unnecessarily bureaucratic, slowing down business operations.
-Many of the regulations have little or no discernable public benefit
-Can limit the adoption of technology that promotes safety and efficiency
-Undermines proper conduct - people follow rules and tick boxes rather than considering the ethics/efficiency of a process or decision
-Costly
-Can limit internal creativity and innovation
 
-SOCIO-CULTURAL ENVIRONMENT
+  - Regulatory bodies are inflexible
+
+  - Bodies are often inefficient and unnecessarily bureaucratic, slowing down business operations.
+
+  - Many of the regulations have little or no discernable public benefit
+
+  - Can limit the adoption of technology that promotes safety and efficiency
+
+  - Undermines proper conduct - people follow rules and tick boxes rather than considering the ethics/efficiency of a process or decision
+
+  - Costly
+
+  - Can limit internal creativity and innovation
+
+***SOCIO-CULTURAL ENVIRONMENT***
 
 This represents the values, culture, beliefs, norms, and ethics of the society in which we operate. People are important to organizations both as human resources and customers. Their buying habits, buying capacities, tastes, preferences, and education affect what we offer and how we do business. We understand that our potential Recruits don’t have very high buying/spending capacities, that’s why we work really hard to not only offer free education but offer a stipend as well. This is a very different model for private institutions.  Many firms and businesses change their production and marketing plans according to consumer demand.
 The social environment consists of the social values; concern for social problems like protection of the environment against pollution, providing employment opportunities, health care for the aged and old, etc.; consumerism, that is, indulging in fair trade practices to satisfy the market.
 The cultural environment represents the values and beliefs of society. These beliefs mold the attitudes of people and help business enterprises determine their need perception. The socio-cultural environment helps firms support the social and cultural values of society by encouraging fine arts projects, sports, communication media, donations to educational, religious, and charitable institutions, counseling centers, vocational and technical training centers, etc.
-TECHNOLOGICAL ENVIRONMENT
+
+***TECHNOLOGICAL ENVIRONMENT***
+
 Technology refers to the application of scientific and organized knowledge to organizational tasks. Basically, technology includes inventions and innovations regarding techniques of production. But it’s not the only production: technology can be used in the way in which we communicate and recruit potential applicants. Technology is changing at a fast pace and the technological environment is dramatically affecting the business environment.
 You’ll hear a lot of people talk about how technology can disrupt an industry. Basically what this means is technology has the ability to change the game as we know it. Think about Uber, for example. In the old days if you wanted a private taxi there were about 10 steps to getting them to pick you up. Now, your ride is just 1 click away, thanks to some clever use of technology. Basically, disruptive technology takes the rule book and chucked it in the fire.
-DEMOGRAPHIC ENVIRONMENT
+
+***DEMOGRAPHIC ENVIRONMENT***
 
 This refers to the types of people that form the population in an economy. Demographics refer to factors such as gender, age, income, growth rate, language, and religion, etc. In a growing economy, there is an increase in products and labour.
 NATURAL ENVIRONMENT
 
-The natural environment consists of the renewable and non­-renewable resources used in production processes. The renewable resources are air, water, and solar energy which can be replenished and non-renewable resources are oil, coal, wood, etc. which cannot be replenished.
+The natural environment consists of the renewable and non-renewable resources used in production processes. The renewable resources are air, water, and solar energy which can be replenished and non-renewable resources are oil, coal, wood, etc. which cannot be replenished.
 Business enterprises should use these resources wisely and adopt methods to restrict environmental pollution. Legislative measures are also enforced by the Government to protect the natural environment. Even renewable resources should be used wisely so that we don’t use more than we have.
-THE GLOBAL ENVIRONMENT
+
+***THE GLOBAL ENVIRONMENT***
 
 It represents the global environment characterised by the “borderless world”. The global business environment is significantly influenced by the principles and agreements of the World Trade Organization (WTO). WTO monitors and regulates the business transacted in the international environment.
 
 
-BUSINESS SECTORS IN SOUTH AFRICA
+### BUSINESS SECTORS IN SOUTH AFRICA
 
 There is more than one way to classify businesses by sector. Some economists divide businesses by corporate, government and nonprofit organizations. But most prefer to divide the economy into three broad sectors: primary, secondary and tertiary. 
+
 The primary sector serves as the foundation of all business. Think of this as the raw materials that support everything else. The primary sector involves the extraction of raw materials from the earth. This extraction results in raw materials and basic foods, such as coal, wood, iron and corn. 
+
 The secondary sector involves the transformation of raw materials into goods. This transformation results in wood being made into furniture, steel being made into cars or textiles being made into clothes, as examples. 
+
 The tertiary sector involves the supplying of services to consumers and businesses. This sector provides services to the general population and businesses, including retail, sales, transportation and restaurants. The types of workers in this sector include restaurant bartenders, accountants and pilots. The service industry makes up 80% of the labor force today.
+
 Among the key sectors that contribute to the gross domestic product and keep the economic engine running are:
-Manufacturing
-Wholesale and retail trade
-Financial services
-Transport
-Mining
-Agriculture
-Tourism
+
+   - Manufacturing
+
+  - Wholesale and retail trade
+
+  - Financial services
+
+  - Transport
+
+  - Mining
+
+  - Agriculture
+
+  - Tourism
 
 
-TYPES OF BUSINESSES
+***TYPES OF BUSINESSES***
+
 Whether you're a retailer, supplier of services (like Umuzi), or manufacturer, there are various legal ways in which you can set up your business.
-A business that is altogether separate and distinct from its members is a legal entity, in other words, if its members jumped ship tomorrow, it would still stay afloat.
-A business that is set up as a legal entity has:
-Legal capacity and is competent to have rights and duties
-Capacity to act is competent to contract
-Capacity to litigate. It has the capacity to appear in court, as a party to legal action.
-This protects the owners of the business. If the business is taken to court, for example, it is the business' assets that are at risk, not the personal assets of the owners.
-From a legal point of view, there are five types of businesses:
-Sole proprietorships
-Partnerships
-Non-Profits
-Companies
-Co-operatives
-Let's look into these.
 
-Sole Proprietorships
+A business that is altogether separate and distinct from its members is a legal entity, in other words, if its members jumped ship tomorrow, it would still stay afloat.
+
+A business that is set up as a legal entity has:
+
+  - Legal capacity and is competent to have rights and duties
+  
+  - Capacity to act is competent to contract
+
+  - Capacity to litigate. It has the capacity to appear in court, as a party to legal action.
+
+  - This protects the owners of the business. If the business is taken to court, for example, it is the business' assets that are at risk, not the personal assets of the owners.
+
+From a legal point of view, there are five types of businesses:
+
+  - Sole proprietorships
+
+  - Partnerships
+
+  - Non-Profits
+
+  - Companies
+
+  - Co-operatives
+
+  Let's look into these.
+
+***Sole Proprietorships***
+
 The simplest and most common form of business ownership, sole proprietorship is a business owned and run by someone for their own benefit. The business’ existence is entirely dependent on the owner’s decisions, so when the owner dies, so does the business.
 Sole Proprietorships are for-profit entities, meaning that they are designed to generate profit for the owner.
+
 Advantages of sole proprietorship:
-All profits are subject to the owner
-There is very little regulation for proprietorships
-Owners have total flexibility when running the business
-Very few requirements for starting—often only a business license
+
+  - All profits are subject to the owner
+
+  - There is very little regulation for proprietorships
+ 
+  - Owners have total flexibility when running the business
+
+  - Very few requirements for starting—often only a business license
+
 Disadvantages  of sole proprietorship:
-Owner is 100% liable for business debts
-Equity is limited to the owner’s personal resources
-Ownership of proprietorship is difficult to transfer
-No distinction between personal and business income
+
+  - Owner is 100% liable for business debts
+
+  - Equity is limited to the owner’s personal resources
+
+  - Ownership of proprietorship is difficult to transfer
+
+  - No distinction between personal and business income
+
 Watch the videos below to learn more about a sole proprietorship. 
 
-What Is A Sole Proprietorship? - QuickBooks US
+[What Is A Sole Proprietorship? - QuickBooks US](https://youtu.be/aKkcggE7SRw0)
  
-Partnerships (Personal Liability Companies)
+***Partnerships (Personal Liability Companies)***
+
 A partnership is an agreement in which two or more persons combine their resources in a business. In order to establish the terms of the business and to protect partners/shareholders in the event of disagreement or dissolution of the business, a partnership/shareholders agreement should be drawn up with the assistance of a lawyer.
 Partners share in the profits according to the terms of their agreement. Personal Liability Companies are often denoted by the letters “Inc.” in their title. Eg: Ja Rule’s Murder INC.
 
 
+***TYPES OF PARTNERSHIPS***
 
+***General Partnership***
 
-Types of Partnerships
-
-General Partnership
 All  members share the management of the business and each is personally liable for all the debts and obligations of the business.
-Limited Partnership
+
+***Limited Partnership***
 Some members are general partners who control and manage the business and may be entitled to a greater share of the profits, while other partners are limited and contribute only capital. Limited partners take no part in control or management and are liable for debts to a specified extent only.
-Partnerships are for-profit entities, meaning that they are designed to generate profit.
-Advantages of Partnerships
-Shared resources provides more capital for the business
-Each partner shares the total profits of the company
-Inexpensive to establish a business partnership, formal or informal
+
+**Partnerships are for-profit entities, meaning that they are designed to generate profit.**
+
+Advantages of Partnerships:
+
+   - Shared resources provides more capital for the business
+
+   - Each partner shares the total profits of the company
+
+   - Inexpensive to establish a business partnership, formal or informal
+
 Disadvantages of Partnerships
-Each partner is 100% responsible for debts and losses
-Selling the business is difficult—requires finding new partner
-Partnership ends when any partner decides to end it
-Watch these videos to get an insight into the things you should consider when getting into a partner
-Business Partnership
-How To Make A Business Partnership Work
-Companies
+
+  
+  - Each partner is 100% responsible for debts and losses
+
+  - Selling the business is difficult—requires finding new partner
+
+  - Partnership ends when any partner decides to end it
+
+  - Watch these videos to get an insight into the things you should consider when getting into a partner
+
+[Business Partnership](https://youtu.be/HXaBVFnZ_dQ)
+[How To Make A Business Partnership Work](https://youtu.be/fG_NBTeNN2s)
+
+
+***COMPANIES***
 
 A company is a legal entity that is separate from its owners, the shareholders. No shareholder of a corporation is personally liable for the debts, obligations or acts of the corporation. A company is identified by the terms "Limited", "Ltd.", "Corporation", or "Corp.".
 Companies are mainly divided into private and public companies.
