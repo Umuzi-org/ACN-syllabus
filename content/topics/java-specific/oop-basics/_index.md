@@ -5,7 +5,7 @@ ready: true
 title: Java OOP basics resources and readings
 ---
 
-One thing a lot of programmers really struggle with is Object Oriented Programming. Once you get your head around it it can be pretty fun. And it is a super powerful tool. Read and understand this
+One thing a lot of programmers really struggle with is Object Oriented Programming. Once you get your head around it it can be pretty fun. And it is a super powerful tool. Read and understand these:
 
 - [What is Object Oriented Programming?](https://medium.com/learn-how-to-program/chapter-3-what-is-object-oriented-programming-d0a6ec0a7615)
 - [Beginners guide to OOP](https://dev.to/charanrajgolla/beginners-guide---object-oriented-programming)
