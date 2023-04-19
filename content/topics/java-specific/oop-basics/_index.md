@@ -77,47 +77,50 @@ class Employee {
 
 ### Inheritance
 
-[Inheritance](https://www.scaler.com/topics/java/inheritance-in-java/) can be thought of an an "is a" relationship.
+[Inheritance](https://www.scaler.com/topics/java/inheritance-in-java/) can be thought of as an "is a" relationship.
 
-The following Java code shows how Inheritance can be implemented. In this example we have a superclass called `Vehicle`. a `Bakkie` is a `Vehicle`, and a `Beatle` is a `Vehicle`. So both these child classes do vehivle things and have vehicle attributes, but layer on a bit of extra behavior.
+The following Java code shows how Inheritance can be implemented. In this example we have a superclass called `Vehicle`. a `Bakkie` is a `Vehicle`, and a `Beatle` is a `Vehicle`. So both these child classes do vehicle things and have vehicle attributes, but layer on a bit of extra behavior.
 
-```
+```java
 //superclass
 class Vehicle {
-    void printType(){
-        System.out.println("I am a Vehicle");
-    }
+
+  void printType() {
+    System.out.println("I am a Vehicle");
+  }
 }
 
-class Beatle extends  Vehicle {
-    //Override method
-    @Override
-    void printType() {
-        //call method in super class
-        super.printType();
-        System.out.println("I am a Beatle");
-    }
+class Beatle extends Vehicle {
+
+  //Override method
+  @Override
+  void printType() {
+    //call method in super class
+    super.printType();
+    System.out.println("I am a Beatle");
+  }
 }
 
-class Bakkie extends  Vehicle {
-    //Override method
-    @Override
-    void printType() {
-        //call method in super class
-        super.printType();
-        System.out.println("I am a Bakkie");
-    }
+class Bakkie extends Vehicle {
+
+  //Override method
+  @Override
+  void printType() {
+    //call method in super class
+    super.printType();
+    System.out.println("I am a Bakkie");
+  }
 }
 
-class Main{
-    public static void main(String[] args) {
-        //Create a car object
-        Beatle beatle = new Beatle();
-        //call method
-        beatle.printType();
-    }
-}
+class Main {
 
+  public static void main(String[] args) {
+    //Create a car object
+    Beatle beatle = new Beatle();
+    //call method
+    beatle.printType();
+  }
+}
 ```
 
 To learn how `@Override` actually works, check (this)[https://www.baeldung.com/java-override] out
