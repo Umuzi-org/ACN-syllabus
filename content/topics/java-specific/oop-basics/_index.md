@@ -40,35 +40,37 @@ Publicly accessible methods are generally provided in the class so-called [acces
 
 The following Java code shows how Encapsulation can be implemented:
 
-```
-class Employee{
+```java
+class Employee {
 
-    //private data member
-    private String name;   // you can't just access this whenever you want.
+  //private data member
+  private String name; // you can't just access this whenever you want.
 
-    public void setName(String employeeName){
-        // this is the only way to update the name. You can put validation logic in here if you want. Eg if the employeeName has naughty words in it then raise an exception.
-        this.name  = employeeName;
-    }
+  //setter method for name
+  public void setName(String employeeName) {
+    // this is the only way to update the name. You can put validation logic in here if you want.
+    // E.g. if the employeeName has naughty words in it then raise an exception.
+    this.name = employeeName;
+  }
 
-    //getter method for name
-    public String getName(){
-        return name;
-    }
-
+  //getter method for name
+  public String getName() {
+    return name;
+  }
 }
 
-class Main{
-    public static void main(String args[]) {
-        //creating instance of the encapsulated class
-        Employee e = new Employee();
-        //setting value in the name member
-        e.setName("Mbali");
-        //getting value of the name member
-        System.out.println(e.getName());
+ class Main {
 
-    }
+  public static void main(String[] args) {
+    //creating instance of the encapsulated class
+    Employee e = new Employee();
+    //setting value in the name member
+    e.setName("Mbali");
+    //getting value of the name member
+    System.out.println(e.getName());
+  }
 }
+
 ```
 
 [Abstraction vs Encapsulation](https://1.bp.blogspot.com/-ECYNAUTGGMk/WPQeY4EpFtI/AAAAAAAAIX8/j-Ji8N_mDz8-d72SasgNPnQD-nIlw-kiACLcB/s1600/Abstraction%2Bvs%2BEncapsulation%2B2.jpg)
