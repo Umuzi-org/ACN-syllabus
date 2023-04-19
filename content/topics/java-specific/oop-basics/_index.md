@@ -5,7 +5,7 @@ ready: true
 title: Java OOP basics resources and readings
 ---
 
-One thing a lot of programmers really struggle with is Object Orientated Programming. Once you get your head around it it can be pretty fun. And it is a super powerful tool. Read and understand this
+One thing a lot of programmers really struggle with is Object Oriented Programming. Once you get your head around it it can be pretty fun. And it is a super powerful tool. Read and understand this
 
 - [What is Object Oriented Programming?](https://medium.com/learn-how-to-program/chapter-3-what-is-object-oriented-programming-d0a6ec0a7615)
 - [Beginners guide to OOP]https://dev.to/charanrajgolla/beginners-guide---object-oriented-programming
@@ -18,7 +18,7 @@ OOP is really powerful. There's a lot worth knowing. Make sure that you understa
 
 In Object-oriented programming, abstraction is a process of hiding the implementation details from the user, only the functionality will be provided to the user. In other words, the user will have the information on what the object does instead of how it does it.
 
-An every day example of abstraction is driving a car. When you turn on the ignition you just turn a key, the car does a whole lot of things under the hood. The starter motor and carberator is abstracted. You don't need to know how that stuff works in order to work a car.
+An every day example of abstraction is driving a car. When you turn on the ignition you just turn a key, the car does a whole lot of things under the hood. The starter motor and carburetor is abstracted. You don't need to know how that stuff works in order to work a car.
 
 In Java there is a thing called an Abstract Class. This is not to be confused with the principle of abstraction. You can achieve abstraction without using abstract classes. A lot of people get these concepts mixed up.
 
@@ -34,7 +34,7 @@ Take a look at (this discussion)[https://softwareengineering.stackexchange.com/q
 Encapsulation is known as data-hiding. Basically in OOP in Java you can choose what parts of your objects are exposed for use, and which are under the hood. If we think about cars again, the steering wheel and gear lever are exposed to you, but then the fuel injection system is hidden away.
 
 In coding terms this means that objects may be able to communicate with one another but are restricted to access some of the object's components directly.
-Publicly accessible methods are generally provided in the class so-called [accessors and mutators.](https://www.cs.colostate.edu/~cs161/Fall12/labs/lab2/bookgetset.html))
+Publicly accessible methods are generally provided in the class so-called [accessors and mutators.](https://www.cs.colostate.edu/~cs161/Fall12/labs/lab2/bookgetset.html)
 
 [Read more on encapsulation.](https://www.geeksforgeeks.org/encapsulation-in-java/)
 
@@ -47,7 +47,7 @@ class Employee{
     private String name;   // you can't just access this whenever you want.
 
     public void setName(String employeeName){
-        // this is the only way to update the name. Yo can put validation logic in here if you want. Eg if the employeeName has naughty words in it then raise an exception.
+        // this is the only way to update the name. You can put validation logic in here if you want. Eg if the employeeName has naughty words in it then raise an exception.
         this.name  = employeeName;
     }
 
