@@ -139,91 +139,93 @@ Overriding a method is when a method in the subclass has the same name and metho
 
 The following Java code shows how overriding can be implemented:
 
-```
+```java
 public class Fruit {
-    public void print() {
-        System.out.println("I am a fruit");
-    }
+
+  public void print() {
+    System.out.println("I am a fruit");
+  }
 }
 
 class Apple extends Fruit {
 
-    //Override method
-    @Override
-    public void print() {
-        System.out.println("I am an Apple");
-    }
-
+  //Override method
+  @Override
+  public void print() {
+    System.out.println("I am an Apple");
+  }
 }
 
-class Main{
-    public static void main(String[] args) {
-        //Create an animal object
-        Fruit fruit = new Fruit();
-        //Create horse object
-        Apple apple = new Apple()
-        fruit.print();
-        //call method
-        apple.print();
-    }
-}
+class Main {
 
+  public static void main(String[] args) {
+    //Create an animal object
+    Fruit fruit = new Fruit();
+    //Create horse object
+    Apple apple = new Apple();
+    fruit.print();
+    //call method
+    apple.print();
+  }
+}
 ```
 
 #### Method overloading
 
-Overloading a method is when a method in the subclass has the same name but the method signature is different from the method in the superclass.[Read more](https://beginnersbook.com/2013/05/method-overloading/)
+Overloading a method is when a method in the subclass has the same name but the method signature is different from the method in the superclass. [Read more](https://beginnersbook.com/2013/05/method-overloading/)
 
 The following Java code shows how overloading can be implemented:
 
-```
-class Calculate{
+```java
+class Calculate {
 
-    public int product (int x, int y) {
-        return (x * y);
-    }
+  public int product(int x, int y) {
+    return (x * y);
+  }
 
-    // Overloaded. This product method  takes three int parameters
-    public int product(int x, int y, int z) {
-        return (x * y * z);
-    }
+  // Overloaded. This product method takes three int parameters
+  public int product(int x, int y, int z) {
+    return (x * y * z);
+  }
 
-    // Overloaded. This product method takes two double parameters
-    public double product(double x, double y) {
-        return (x * y);
-    }
+  // Overloaded. This product method takes two double parameters
+  public double product(double x, double y) {
+    return (x * y);
+  }
 }
 
 class Main {
-    public static void main(String args[]) {
-        Calculate prod_object = new Calculate();
-        System.out.println(prod_object.product(10, 20));
-        System.out.println(prod_object.product(10, 20, 30));
-        System.out.println(prod_object.product(10.5, 20.5));
-    }
+
+  public static void main(String args[]) {
+    Calculate prod_object = new Calculate();
+    System.out.println(prod_object.product(10, 20));
+    System.out.println(prod_object.product(10, 20, 30));
+    System.out.println(prod_object.product(10.5, 20.5));
+  }
 }
 ```
 
 #### The danger of accidental overloading
 
-```
+```java
 public class Machine {
-    public boolean equals(Machine obj){
-        return true;
-    }
+
+  public boolean equals(Machine obj) {
+    return true;
+  }
 }
 
 public class MainProgram {
-    public static void main(String[] args){
 
-        Object first = new Machine();
-        Object second = new Machine();
-        Machine third = new Machine();
-        Machine fourth = new Machine();
+  public static void main(String[] args) {
+    Object first = new Machine();
+    Object second = new Machine();
+    Machine third = new Machine();
+    Machine fourth = new Machine();
 
-        System.out.println(first.equals(second)); // returns false
-        System.out.println(third.equals(fourth)); // returns true
-    }
+    System.out.println(first.equals(second)); // returns false
+    System.out.println(third.equals(fourth)); // returns true
+  }
 }
 ```
 
