@@ -8,7 +8,7 @@ title: Java OOP basics resources and readings
 One thing a lot of programmers really struggle with is Object Oriented Programming. Once you get your head around it it can be pretty fun. And it is a super powerful tool. Read and understand this
 
 - [What is Object Oriented Programming?](https://medium.com/learn-how-to-program/chapter-3-what-is-object-oriented-programming-d0a6ec0a7615)
-- [Beginners guide to OOP]https://dev.to/charanrajgolla/beginners-guide---object-oriented-programming
+- [Beginners guide to OOP](https://dev.to/charanrajgolla/beginners-guide---object-oriented-programming)
 
 ## Four main OOP priciples in java
 
@@ -27,7 +27,7 @@ In Java there is a thing called an Abstract Class. This is not to be confused wi
 
 Abstraction can be achieved through use of abstract classes. Or just regular classes.
 
-Take a look at (this discussion)[https://softwareengineering.stackexchange.com/questions/230401/confused-about-the-definition-of-abstraction-in-oop] for a bit more info
+Take a look at [this discussion](https://softwareengineering.stackexchange.com/questions/230401/confused-about-the-definition-of-abstraction-in-oop) for a bit more info
 
 ### Encapsulation == hiding details
 
@@ -123,7 +123,7 @@ class Main {
 }
 ```
 
-To learn how `@Override` actually works, check (this)[https://www.baeldung.com/java-override] out
+To learn how `@Override` actually works, check [this](https://www.baeldung.com/java-override) out
 
 ### Polymorphism
 
