@@ -17,9 +17,9 @@ This task is very similar to task 1.
 
 Write a function that takes in a single optional parameter. It should work like this:
 
-`task2("Sally")` should print `Hello Sally!`
-`task2("Tshepo")` should print `Hello Tshepo!`
-`task2()` should print `Hello Friend!`
+- `task2("Sally")` should print `Hello Sally!`. Note that we are passing in a single string
+- `task2("Tshepo")` should print `Hello Tshepo!`
+- `task2()` should print `Hello Friend!`. Note that we are passing in no arguments here. 
 
 ## Check your understanding! 
 

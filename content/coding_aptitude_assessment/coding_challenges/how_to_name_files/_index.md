@@ -82,6 +82,16 @@ public class Task1 {
 }
 ```
 
+### Do not declare a package
+
+If you put your code inside a package then the tests will pass. If you find yourself writing code that looks anything like this then stop.
+
+```
+package anything.at.all
+```
+
+If this section doesn't make sense to you yet, don't worry. You'll learn about packages later. The important thing is to not use packages in these challenges.
+
 ## Check your understanding!
 
 - Why is it important to pay attention to file and function naming conventions in coding challenges?
