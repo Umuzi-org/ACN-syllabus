@@ -106,7 +106,7 @@ Before we start the project, we need to make sure that all parties involved are 
 
 You have to document an Agile project in the Online Community and Wellness product team(s). Make sure you identify the objectives of the project, scrum team, and their roles as well as the resources required. 
 
-**3.1 Requirements and needs **
+**3.1 Requirements and needs**
 
 3.1.1 Define the requirements and needs of the project. 
 
