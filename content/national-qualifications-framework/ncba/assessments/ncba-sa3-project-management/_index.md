@@ -186,7 +186,9 @@ You have to document an Agile project in the Online Community and Wellness produ
 **Daily stand-ups **
 
 5.1 Who will attend?
+
 5.2 How long will they be?
+
 5.3 Where will they happen?
 
 **Your Answer:**
@@ -222,8 +224,7 @@ Note: This is just your first version of the kanban board, which we will check d
 
 
 
-6.2 Prioritise the kanban backlog, selecting the most important tasks for this
-       sprint.
+6.2 Prioritise the kanban backlog, selecting the most important tasks for this sprint.
        
 **Your Answer:**
 
@@ -243,8 +244,7 @@ Note: This is just your first version of the kanban board, which we will check d
 
 
 
-6.4 Draw up a work plan for our first week in order to complete the tasks we
-      have  prioritised on our kanban board. 
+6.4 Draw up a work plan for our first week in order to complete the tasks we have prioritised on our kanban board. 
 
 **Your Answer**
 
@@ -254,8 +254,7 @@ Note: This is just your first version of the kanban board, which we will check d
 
 
 
-6.5 Hold daily standups and record your answers to these daily standup 
-      questions:
+6.5 Hold daily standups and record your answers to these daily standup questions:
 
   - What did we do yesterday to achieve our priorities for this week? 
 
@@ -297,9 +296,7 @@ Take pictures of the sticky notes grouped and ungrouped and paste them below; in
 
 
 
-7.2 Discuss the two or three most important themes emerging, focusing on the 
-      team dynamics (how can we work better next time?) rather than criticising
-      individual team members. Take pictures of your most important themes.
+7.2 Discuss the two or three most important themes emerging, focusing on the team dynamics (how can we work better next time?) rather than criticising individual team members. Take pictures of your most important themes.
 
 **Paste pictures of the themes below, and also add a written description about each theme:**
 
@@ -319,8 +316,7 @@ Take pictures of the sticky notes grouped and ungrouped and paste them below; in
 
 
 
-7.4 As this is our first sprint, we want to check we are working efficiently as a 
-      team. Show how you spent your time in the first week.
+7.4 As this is our first sprint, we want to check we are working efficiently as a team. Show how you spent your time in the first week.
 
 **Your answer:**
 
@@ -330,8 +326,7 @@ Take pictures of the sticky notes grouped and ungrouped and paste them below; in
 
 
 
-7.5 Identify the weaknesses in your time management process. Focus on how 
-      your daily stand-up meetings went.
+7.5 Identify the weaknesses in your time management process. Focus on how your daily stand-up meetings went.
 
 **Your answer:**
 
@@ -341,8 +336,7 @@ Take pictures of the sticky notes grouped and ungrouped and paste them below; in
 
 
 
-7.6 What were the top time wasters impacting your productivity during the 
-         week?
+7.6 What were the top time wasters impacting your productivity during the week?
 
 **Your answer:**
 
@@ -352,8 +346,7 @@ Take pictures of the sticky notes grouped and ungrouped and paste them below; in
 
 
 
-7.7 Identify the external forces which had the biggest effects on your 
-      productivity.
+7.7 Identify the external forces which had the biggest effects on your productivity.
 
 **Your answer:**
 
