@@ -894,26 +894,34 @@ Activities that are streamlined in most organizations through this integration c
 ### ERP BEST PRACTICES
 
 **Be patient**
+
 Realize that a successful ERP implementation does not happen overnight. Proper planning and preparation are necessary and can take time. Investing the time and resources upfront to get it right will save your business time and money in the long run.
 
 **Define business strategy and desired outcomes**
+
 Of all the best practices for a successful ERP implementation, this step is the most critical. Business leaders must establish a vision and define the desired outcomes. Perhaps a key objective is to shorten the month-end close process, increase inventory turns or scale operations to support revenue growth. Defining a business strategy sets the course for positive results.
 
 **Establish measurable goals**
+
 Define goals and metrics you can use to measure progress throughout your ERP implementation, such as reducing time spent on forecasting by 20% or completing the lead to opportunity process in less than 10 steps. Concrete goals also provide a basis for making trade-off decisions about how best to deploy scarce resources; choose the functionality or approach that best achieves the goals for the money or time spent. Goals should be revisited throughout the life of the project to ensure the implementation remains on the right track.
 
 **Map the customer journey**
+
 Most businesses will ultimately want a new ERP system to help employees deliver a more seamless customer experience. To accomplish this, you must invest time in mapping the current state of your customer’s journey and identifying the links between your internal processes and the customers’ experience. Identify proven and potential friction points so you and your implementation partner can identify specific improvements.     
 
 **Maintain leadership commitment**
+
 An ERP implementation requires ongoing leadership and involvement across your organization. In addition, support from subject matter experts and end-users from diverse functional areas is equally beneficial. Support from the top-down sets the tone from the very start and goes a long way in improving user adoption when ERP goes live.
 
 **Keep the focus**
+
 Deploying ERP can be overwhelming, so focus on implementing essential features first and avoid the ‘kitchen sink’ approach. Implementations that deliver new capabilities in a series of releases often result in improved adoption, a superior new system and less business disruption. Prioritize improvements for your most inefficient or error-prone processes. Keeping this focus will save time and money throughout the ERP implementation project.
  
 ## ADDITIONAL RESOURCES:
 
 Videos:
 [External environment](https://youtu.be/rFUs1wYKtKI)
+
 [Types of business](https://youtu.be/NBFIW4AUbNs)
+
 [Porter's Value Chain](https://www.mindtools.com/pages/article/newSTR_66.htm)
