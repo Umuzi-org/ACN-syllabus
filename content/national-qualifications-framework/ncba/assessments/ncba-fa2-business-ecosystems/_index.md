@@ -46,6 +46,7 @@ Research the internal business environment. Discuss the aspects of the internal 
  
 
 
+
 **Types of Businesses**
 
 Under which business sector do you think Umuzi would be grouped? Motivate your answer. 
@@ -66,6 +67,7 @@ What type of business is Umuzi? Also, include the advantages and disadvantages o
  
 **Assessors Notes:**
  
+
 
 
 
@@ -91,6 +93,7 @@ What would the impact of non-compliance be?
  
 
 
+
 **Business Objectives**
 
 6.1	List the most applicable business objectives for Umuzi.
@@ -112,6 +115,7 @@ objectives.
  
 **Assessors Notes:**
  
+
 
 
 **Value Chain**
@@ -179,6 +183,7 @@ Show the interdependence between the system and other organizational systems. Ti
  
 **Assessors Notes:**
  
+
 
 
 **Current Business Process**
