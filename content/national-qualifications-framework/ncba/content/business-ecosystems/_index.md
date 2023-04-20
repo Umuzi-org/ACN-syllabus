@@ -920,6 +920,7 @@ Deploying ERP can be overwhelming, so focus on implementing essential features f
 ## ADDITIONAL RESOURCES:
 
 Videos:
+
 [External environment](https://youtu.be/rFUs1wYKtKI)
 
 [Types of business](https://youtu.be/NBFIW4AUbNs)
