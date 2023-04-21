@@ -30,11 +30,13 @@ Your directory structure should look like this.
 |   ├── support
 |   |   └── jasmine.json
 |   └── password_is_valid_spec.js
-|   └── password_is_strength_spec.js
+|   └── password_strength_spec.js
 ├── src
 |   └── password_checker.js
 └── package.json
 ```
+
+**Note:** Remember to export the `passwordIsValid` and `passwordStrength` functions from their respective files.
 
 ### Python
 
