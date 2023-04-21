@@ -5,22 +5,16 @@ ready: true
 title: Know and understand yourself
 ---
 
-# **Know & Understand Yourself**
-
-
 As part of your learning journey, we would also like to support you in your personal growth. Getting to know yourself and understanding yourself is an important part of reaching your full potential in life. 
 
 
 These are some of the questions you need to ask yourself:
 
 
-**Who am I?** 
-
-**Do I know myself and what my strengths are?** 
-
-**Am I setting myself up for success?** 
-
-**Am I taking responsibility for my own life?**
+ - **Who am I?** 
+ - **Do I know myself and what my strengths are?** 
+ - **Am I setting myself up for success?** 
+ - **Am I taking responsibility for my own life?**
 
 If you would like to understand yourself better, [click here](https://www.16personalities.com/free-personality-test) to take a free online personality test. It will help you understand yourself and others better. It’s not difficult. It just requires a bit of thoughtful, objective honesty.
 

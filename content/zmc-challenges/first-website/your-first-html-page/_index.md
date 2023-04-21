@@ -8,7 +8,7 @@ title: Your first HTML page
 
 Here is a great tutorial all about HTML. Do all the sections up to the end of HTML Paragraphs.
 
-https://www.w3schools.com/html/html_intro.asp
+[W3Schools - HTML Tutorial](https://www.w3schools.com/html/html_intro.asp)
 
 ## Check your understanding before moving forward
 

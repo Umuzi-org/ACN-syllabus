@@ -16,6 +16,7 @@ title: 'Coding aptitude assessment challenge: Task 9'
 Write a function that takes in a string and then returns all the vowels in the string as a list or array.
 
 The returned vowels should be:
+
 - lowercase
 - in alphabetical order
 

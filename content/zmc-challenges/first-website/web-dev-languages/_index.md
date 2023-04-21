@@ -25,7 +25,7 @@ You'll get to play with CSS a little later.
 
 ## JavaScript
 
-Javascript lets you add smarts to your website. You can use it to add interactions and dynamic behavior. Eg you can say that if a user clicks on a button then some new HTML elements are added to the web page, or some changes are made to the CSS. 
+Javascript lets you add smarts to your website. You can use it to add interactions and dynamic behavior. E.g. you can say that if a user clicks on a button then some new HTML elements are added to the web page, or some changes are made to the CSS. 
 
 It's a very powerful tool and it is worth knowing about it. We wont be getting into details in this challenge but we'll recommend some good learning resources at the end. 
 
