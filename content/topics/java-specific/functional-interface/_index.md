@@ -68,11 +68,8 @@ new Thread(() -> {
 
 
 ### Recourses
-
-https://www.geeksforgeeks.org/functional-interfaces-java/
-
-https://www.javatpoint.com/java-8-functional-interfaces
-
-https://www.baeldung.com/java-8-functional-interfaces
+- https://www.geeksforgeeks.org/functional-interfaces-java/
+- https://www.javatpoint.com/java-8-functional-interfaces
+- https://www.baeldung.com/java-8-functional-interfaces
 
 
