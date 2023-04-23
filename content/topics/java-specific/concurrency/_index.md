@@ -7,12 +7,13 @@ tags:
 title: Java Multithread, Concurrency and Parallelism
 ---
 
+## Have you heard?
 
-I am sure by now you have heard about java being multi-threaded, what does that mean exactly
+I am sure by now you have heard about java being multi-threaded, what does that mean exactly?
 
-Unlike for example JavaScript which is a single threaded language Java on the other has multiple threads to help you run your program faster. 
+Unlike for example JavaScript which is a single threaded language, Javaw has multiple threads to help you run your program faster. 
 
-#### What is Multithreading
+## What is Multithreading
 
 Multithreading means that you have multiple threads of execution inside the same application. A thread is like a separate CPU executing your application. Thus, a multithreaded application is like an application that has multiple CPUs executing different parts of the code at the same time. 
 
@@ -20,7 +21,7 @@ Multithreading means that you have multiple threads of execution inside the same
 
 ![thread-life-cycle](Thread_Life_Cycle.jpg)
 
-how to create a thread
+### how to create a thread
 
 ```
 // Thread definition used here where Runnable is a functional interface
@@ -41,11 +42,11 @@ class Test {
 
 ```
 
-#### What is Concurrency
+## What is Concurrency
 
 Concurrency actually means that multiple tasks can be executed in an overlapping time period. One of the tasks can begin before the preceding one is completed; however, they won’t be running at the same time. The CPU will adjust time slices per task and appropriately switch contexts. That’s why this concept is quite complicated to implement and especially debug.
 
-thre are many components/utilities in the Concurrency package, one of the commonly used one is Executor
+there are many components/utilities in the concurrency package, one of the commonly used one is ***Executor***
 
 **Executor:** is a set of interfaces that represents an object whose implementation executes tasks. It depends on the implementation whether the task should be run on a new thread or on a current thread. Hence, we can decouple the task execution flow from the actual task execution mechanism, using this interface.
 
@@ -78,7 +79,7 @@ public void execute() {
 
 ```
 
-#### What is Parallelism
+## What is Parallelism
 
 Parallelism is the ability to execute independent tasks of a program in the same instant of time. Contrary to concurrent tasks, these tasks can run simultaneously on another processor core, another processor, or an entirely different computer that can be a distributed system. As the demand for computing speed from real-world applications increases, parallelism becomes more common and affordable.
 
@@ -87,18 +88,11 @@ Parallelism is the ability to execute independent tasks of a program in the same
 
 
 
-#### Resources
-
-https://www.baeldung.com/cs/concurrency-vs-parallelism
-
-https://www.geeksforgeeks.org/java-util-concurrent-package/
-
-https://www.geeksforgeeks.org/java-util-concurrent-package/
-
-https://www.tutorialspoint.com/java_concurrency/concurrency_overview.htm
-
-https://www.tutorialspoint.com/java_concurrency/concurrency_major_operations.htm
-
-https://www.tutorialspoint.com/java_concurrency/concurrency_deadlock.htm
-
-https://deadlockempire.github.io/#menu - this one is fun
+## Resources
+- https://www.baeldung.com/cs/concurrency-vs-parallelism
+- https://www.geeksforgeeks.org/java-util-concurrent-package/
+- https://www.geeksforgeeks.org/java-util-concurrent-package/
+- https://www.tutorialspoint.com/java_concurrency/concurrency_overview.htm
+- https://www.tutorialspoint.com/java_concurrency/concurrency_major_operations.htm
+- https://www.tutorialspoint.com/java_concurrency/concurrency_deadlock.htm
+- https://deadlockempire.github.io/#menu - this one is fun

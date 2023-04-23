@@ -13,9 +13,9 @@ submission_type: repo
 title: Java Threads
 ---
 
-### The Chicken and the Farmer
+## The Chicken and the Farmer
 
-Have you read the book Animal Farm well its not so important for this project but if you havent read it you should; anyways, in this project you are going to create a Chicken and a Farmer each of these will be there own functions and these are the rules
+In this project you are going to create a `Chicken` function and a `Farmer` function each following these rules
 
 1. Have the Chicken and the Farmer run on different threads
 
@@ -28,7 +28,9 @@ Have you read the book Animal Farm well its not so important for this project bu
 5. The basket is full if it has 1 egg
 
 
-That is it, pretty simple. have fun
+We kept the instructions open-ended on purpose. This is meant to have a bit of room for interpretation, there is no one perfect solution to this. We are very interested to see how you structure your solution.
+
+Oh yeah, and remember to test your work. Always.
 
 
 
