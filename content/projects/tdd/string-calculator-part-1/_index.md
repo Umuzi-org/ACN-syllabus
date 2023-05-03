@@ -150,17 +150,26 @@ In the first case, the default delimiter is: ";".
 
 In the second case, the default delimiter is: "4".
 
-**Note:** you are not expected to handle integer delimiters where the delimiter and the digit you are adding are the same. Example:
+**Note:** you are not expected to handle integer delimiters where the delimiter and the digit you are adding are next to each other. This and more will be dealt with in part 2 of the project. Example:
 
 ```
 add("//88\n18882")
 ```
 
-You are also not expected to handle integer delimeters where the delimeter is at the start or end of the list of integers. This and more will be dealt with in part 2 of the project. Example:
+You are expected to handle integer delimeters where the delimeter is at the start and or end of the list of integers. Example:
 
 ```
-add("//4\n1424")
-add("//2\n2134")
+// start
+add("//4\n434243")
+// should return 48
+
+// end
+add("//4\n342434")
+// should return 39
+
+// start and end
+add("//4\n4342434")
+// should return 79
 ```
 
 #### 5. Modify the add function so that it can handle negative integers
