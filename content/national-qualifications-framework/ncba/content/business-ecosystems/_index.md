@@ -78,7 +78,6 @@ While we have control over all these factors, a lot of effort is directed to our
 An external environment is composed of all the outside factors or influences that impact the operation of the business. The business must act or react to keep up its flow of operations. The external environment can be broken down into two types: the micro-environment and the macro-environment.
 
 Watch [this video](https://www.youtube.com/watch?v=H8_W8tAEsfQ) below to recap what we’ve learned about the macro-environment.
-[The External Business Environment](https://youtu.be/H8_W8tAEsfQ)
 
 ***MICRO ENVIRONMENT***
 
@@ -237,7 +236,7 @@ And a couple of points on the advantages and disadvantages of regulatory bodies.
 
   - Promote transparency in operations and decision making
 
-Disadvantages of Regulatory Compliance
+***Disadvantages of Regulatory Compliance***
 
   - Regulatory bodies are inflexible
 
@@ -498,14 +497,13 @@ Advantages of Non-Profits:
 
   - Owned and controlled by members
   
-  
   - Tax and other benefits
 
   - Limited liability
 
   - A non-profit organization can receive grants or aid in contrast to business entities that have to use loans as a means of raising funds
 
-  -Satisfaction from being able to contribute to social development
+  - Satisfaction from being able to contribute to social development
 
 Disadvantages of Non-profits:
 
@@ -706,7 +704,7 @@ The other variable in our formula is "processing" which specifies how data is to
 
 The six components that must come together in order to produce an information system are:
 
-  - Hardware - The term hardware refers to machinery. This includes the computer itself, which is often referred to as the central processing unit (CPU), and all of its support equipment. Among the support, equipment is input and output devices, storage devices, and communications devices.
+  - **Hardware** - The term hardware refers to machinery. This includes the computer itself, which is often referred to as the central processing unit (CPU), and all of its support equipment. Among the support, equipment is input and output devices, storage devices, and communications devices.
 
   - **Software** - The term software refers to computer programs and the manuals (if any) that support them. Computer programs are machine-readable instructions that direct the circuitry within the hardware parts of the system to function in ways that produce useful information from data. Programs are generally stored on some input/output medium, often a disk or tape.
  
