@@ -14,20 +14,21 @@ Project management is the application of processes, methods, skills, knowledge, 
 
 ## LEARNING OUTCOMES:
 
-By the end of this module you will have an understanding of:
-Project management
-Software Development Life Cycle
-Waterfall methodology
-Agile methodology 
+ - By the end of this module you will have an understanding of:
+ - Project management
+ - Software Development Life Cycle
+ - Waterfall methodology
+ - Agile methodology 
 
 In addition to these skills you will also learn how to:
-Run scrum events 
-Develop a project plan 
-Use project management tools 
-Interact in a business environment
-Perform activities to assist with requirement specifications
-Provide support on the analysis of the requirements
-Perform activities to assess that the requirement specification has been met
+
+ - Run scrum events 
+ - Develop a project plan 
+ - Use project management tools 
+ - Interact in a business environment
+ - Perform activities to assist with requirement specifications
+ - Provide support on the analysis of the requirements
+ - Perform activities to assess that the requirement specification has been met
 
 ## INTRODUCTION
 
@@ -191,13 +192,13 @@ As part of their embrace of this methodology, many teams are also applying an Ag
 
 *"We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:*
 
-*Individuals and interactions over processes and tools*
+ - *Individuals and interactions over processes and tools*
 
-*Working software over comprehensive documentation*
+ - *Working software over comprehensive documentation*
 
-*Customer collaboration over contract negotiation*
+ - *Customer collaboration over contract negotiation*
 
-*Responding to change over following a plan*
+ - *Responding to change over following a plan*
 
 *That is, while there is value in the items on the right, we value the items on the left more".*
 
@@ -233,7 +234,7 @@ End-of-life activities including customer notification and migration. getting in
 
 Remember that the agile process/method allows the team to update and change the process at any stage.
 
-### WATERFALL VERSUAGILE VERSUS WATERFALL
+### AGILE VERSUS WATERFALL
 
 ![agilevswaterfall](agilevswaterfall.png)
 
@@ -468,7 +469,7 @@ It’s not just a simple to-do list, though. Each item in the product backlog:
 
    - Is prioritised
 
-   -Is estimated
+   - Is estimated
 
 There should be no low-level tasks in your backlog (like sending emails), and the backlog itself should be a living document that’s regularly rearranged.
 
@@ -500,7 +501,7 @@ A scrum product backlog ultimately makes sprint planning much easier. After all,
 
 ![sprintbacklogexample](sprintbacklogexample.png)
 
-Sprint Backlog Example
+*Sprint Backlog Example*
 
 The Sprint Backlog is composed of the Sprint Goal (why), the set of Product Backlog items selected for the Sprint (what), as well as an actionable plan for delivering the Increment (how).
 
@@ -614,7 +615,7 @@ The people involved during this phase include the Product owner, however, this d
 
    - They will then determine the capacity based on the hours available in the day to complete the tasks. They will add up all the hours from each team member and subtract the time needed during the sprint and will assign tasks accordingly. For example, 4 recruiters have 40 hours each week which totals 160 hours per week, each for the 2-week sprint, then subtract the daily standups, sprint planning, backlog grooming, sprint review, and sprint retrospective time to determine actual hours to complete tasks.
 
-**Daily Scrum/Standup **
+**Daily Scrum/Standup**
 
    - This is where all team members meet up to relay what they did the day before and what they plan to do today. This is more for collaboration purposes rather than status meetings. Remember, no one is telling each team member what to do, they are organizing to ensure all tasks are accomplished by the end of the sprint. So, team members can ask each other questions such as: “What did you do yesterday? What are you doing today? Do you need any help with anything?” It's a chance for the team to voice if they need help from other team members.
 
