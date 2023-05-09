@@ -31,7 +31,7 @@ You will be required to identify the different codes of ethics and behavioural s
 
 ## PROFESSIONAL CONDUCT
 
-### INTRODUCTION TO BEING PROFESSIONAL
+### *INTRODUCTION TO BEING PROFESSIONAL*
 
 When dealing with various clients and stakeholders of a business, it is important to keep a professional relationship. We should commit ourselves to doing what is honourable and right. Ethical and professional behaviour instils business confidence, and it's mandatory in establishing the credibility of professionals. Ethical behaviour is not always a black or white issue, nor is it always easy. Conflicts of interest, contradictory requirements or processes, fear of failure, and business pressures can all affect ethical behaviour. Being professional in all circumstances can benefit your reputation, morale, and the success of your career. 
 
@@ -43,7 +43,7 @@ You can achieve this by adopting clear standards of ethics and appropriate profe
 
 You should always maintain a professional relationship when dealing with your clients and in business analysis, this is guided by mandatory standards for all professionals. The standards of conduct are aligned with the four ethical values which were identified as the most important for all professionals by the Project Management Institute(PMI).) These standards should form the basis of all decision-making processes and guide your actions in your professional interactions.
 
-### CODES OF CONDUCT AND ETHICAL BEHAVIOUR
+## CODES OF CONDUCT AND ETHICAL BEHAVIOUR
 
 ### *ETHICAL VALUE: RESPECT*
 
@@ -78,7 +78,7 @@ To create an environment that engenders credibility through transparency and int
 
    - We do not engage in or condone behaviour that is designed to deceive others, including but not limited to, making misleading or false statements, stating half-truths, providing information out of context or withholding information that, if known, would render our statements as misleading or incomplete.
 
-  - We do not engage in dishonest behaviour with the intention of personal gain or at the expense of another.
+   - We do not engage in dishonest behaviour with the intention of personal gain or at the expense of another.
 
    - We provide accurate information in a timely manner.
 
@@ -175,7 +175,7 @@ Let's move on to the next module to learn about Business Ecosystems.
 There are some additional resources below for you to review at your own pace and interest, feel free to contribute and share with your peers if you find anything else of interest.
 
 #### *VIDEOS*
-Ethics in the work place 
+[Ethics in the work place](https://youtu.be/b_n6i1ug0tQ)
 
 #### *ARTICLES*
 [The Global Standard for Business Analysis | IIBA®](https://www.iiba.org/) 
