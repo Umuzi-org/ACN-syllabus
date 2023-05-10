@@ -2,30 +2,28 @@
 _db_id: 533
 content_type: project
 flavours:
-- javascript
-- typescript
+  - javascript
+  - typescript
 from_repo: projects/recipe-search/part-1
 prerequisites:
   hard:
-  - projects/recipe-search/part-1
-  - topics/redux-thunks
+    - projects/recipe-search/part-1
+    - topics/redux-thunks
   soft: []
 ready: true
 submission_type: continue_repo
 tags:
-- React
-- Redux
-- Thunks
-title: 'React and Redux recipe search: Part 2. API Access with thunks'
+  - React
+  - Redux
+  - Thunks
+title: "React and Redux recipe search: Part 2. API Access with thunks"
 ---
 
-Now that your frontend is awesome, let's get the "search" button to work.
+Now that your frontend is awesome, let's get the "S earch" button to work.
 
-Take a look at this neat little API:
+Take a look at [this neat little API](https://developer.edamam.com/edamam-recipe-api)
 
-https://api.edamam.com/api/recipes
-
-As APIs go it's fairly straight-forward. It's also free and requires no authentication.
+As far as APIs go it's fairly straight-forward. All you need to do is create an account and use the free developer plan.
 
 ## Instructions
 
