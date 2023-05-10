@@ -180,10 +180,10 @@ A great tactic to help you build your statement is to think about it in terms of
  - **What:** What does the user want to achieve? What do they need?
     - What is the issue?
     - What is the impact of the issue?
-**When:** When does the issue occur?; When does it need to be fixed?
-**Where:** Where is the issue occurring? Only in certain locations, processes, products, etc.
-**How:** How is the problem affecting the user?
-**Why:** Why is it important that we fix the problem?
+ - **When:** When does the issue occur?; When does it need to be fixed?
+ - **Where:** Where is the issue occurring? Only in certain locations, processes, products, etc.
+ - **How:** How is the problem affecting the user?
+ - **Why:** Why is it important that we fix the problem?
 
 However, in building your problem statement, you are focused on: Who, what, and why.
 *Who* needs *what* and why?
@@ -213,13 +213,13 @@ So the problem statement for Jo could be: “As a person with dwarfism, I need t
 
 ## CURRENT VS FUTURE
 
-You may find that some problem statements are ***forward-looking** while others are focused on the **current situation**. An example would best explain this:
+You may find that some problem statements are ***forward-looking*** while others are focused on the ***current situation***. An example would best explain this:
 
 **Current:** As a car driver, I have problems reading road signs, because my eyesight is bad.
 
 **Future:** As a car driver with bad eyesight, I need to be able to read road signs better, because it will make me a safer driver.
 
-The current situation describes the problem the user is facing now without looking forward as to what they need, whereas the future looking focuses on the current situation as well as what the user needs/desires. ***Your focus should always be on the future focused statement as it includes an action for us to focus on - fulfilling what the user needs.**8
+The current situation describes the problem the user is facing now without looking forward as to what they need, whereas the future looking focuses on the current situation as well as what the user needs/desires. ***Your focus should always be on the future focused statement as it includes an action for us to focus on - fulfilling what the user needs.***
 
 Let’s take a look at **HMW (How Might We)** statements before looking at some more examples of problems and HMW statements.
 
