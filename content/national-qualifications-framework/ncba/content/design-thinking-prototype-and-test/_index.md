@@ -38,7 +38,7 @@ In addition to these skills you will also learn:
 By this point, you’ve learned how to talk to your users and client to help understand their needs and objectives, how to frame the problem they face appropriately and how to devise solutions around that problem. Now, you will learn how to build a working model of your idea and how to test that idea with your users/client.
 Simply put, prototyping is a sample or example of how the final solution will work. It’s a mock-version of the final solution which we use to help find issues or areas for improvement before we go ahead and build/execute the final solution. The general idea is that by testing out a pre-final version, we can avoid issues that would otherwise only arise once the final solution is implemented, and at that point it’s very difficult to make changes.
 
-PROTOTYPING OVERVIEW
+### PROTOTYPING OVERVIEW
 
 ![prototyping](prototyping.png)
 
@@ -261,7 +261,7 @@ How we intend our product to be used vs how our users use it
 ### Usability Testing
 If you have a high-fidelity prototype, something like a mockup that has clickable linked wireframes, then you can engage in usability testing easily. What you’ll do is:
 
-  - Test
+**Test**
    
    - Sit your user down in a quiet room
 
@@ -281,23 +281,24 @@ If you have a high-fidelity prototype, something like a mockup that has clickabl
 
    - Document how long the user struggled at each point in the journey
 
-  - **Interview**
-  - 
+**Interview**
+
 Once the user has finished with their task, you can then engage with them:
 
-   - Explain to them the thinking behind certain problem areas and listen for their feedback - do they agree now that they understand? Are they still confused? Do they understand but disagree with your assumptions on how it would be used?
+   - Explain to them the thinking behind certain problem areas and listen for their feedback 
+   - do they agree now that they understand? Are they still confused? Do they understand but disagree with your assumptions on how it would be used?
 
    - Ask specific questions on things you want to know from them:
 
-   - Do you know what this is?
+     - Do you know what this is?
 
-   - Would you know to click on this if you needed to get here?
+     - Would you know to click on this if you needed to get here?
 
-   - Did this confuse you?
+     - Did this confuse you?
 
-   - What would you change?
+     - What would you change?
 
-   - What can be improved?
+     - What can be improved?
 
    - Ask the user for any suggestions or recommendations
 
