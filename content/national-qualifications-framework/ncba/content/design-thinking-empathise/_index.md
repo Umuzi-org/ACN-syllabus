@@ -47,13 +47,13 @@ Design thinking is a non-linear, iterative process that can have anywhere from t
 
 Let's take an overview look at DT. Watch these two videos for a quick overview first:
 
-![thedesignthinkingprocess](thedesignthinkingprocess.png)
+**The Design Thinking Process:**
 
-[The Design Thinking Process](https://www.youtube.com/watch?v=_r0VX-aU_T8&vl=en)
+{{< youtube _r0VX-aU_T8 >}}
 
-![whatisdesignthinking](whatisdesignthinking.png)
+**What Is Design Thinking?:**
 
-[What Is Design Thinking?](https://www.youtube.com/watch?v=a7sEoEvT8l8)
+{{< youtube a7sEoEvT8l8 >}}
 
 ### THE 5 STAGES OF DESIGN THINKING
 
@@ -220,7 +220,7 @@ When listening to and engaging with people, get into the habit of suspending you
 
 ***Ask What-How-Why***
 
-****Constant curiosity: Ask what, how, and why.***
+***Constant curiosity: Ask what, how, and why.***
 
 Throughout the empathise phase, you should constantly be considering the what, how, and why of your users’ behaviour. The what-how-why framework can help you translate your (assumption-free) observations into more abstract user motivations. Divide your page into three sections and break down what you’ve observed as follows:
 
