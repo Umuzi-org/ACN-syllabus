@@ -286,57 +286,63 @@ There are a ton of other methods you can use to help during ideation. The list b
 
 ## CHOOSING YOUR IDEA
 
-
+![choose_your_idea](choose_your_idea.png)
 
 Having ideated, you should now have a whole bunch of potential ideas. In order to more forward, you need to somehow sift through those ideas and choose the best few. This section explains how to go about choosing your best idea.
 
 There are a whole host of different ways to choose the best ideas, here is a list of some of the methods most commonly used:
-Post-it Voting or Dot Voting.
-Four Categories Method
-Bingo Selection
-Idea Affinity Maps
-Now Wow How Matrix
-Six Thinking Hats
-Lean Startup Machine Idea Validation Board
-Idea Selection Criteria
+ - Post-it Voting or Dot Voting.
+ - Four Categories Method
+ - Bingo Selection
+ - Idea Affinity Maps
+ - Now Wow How Matrix
+ - Six Thinking Hats
+ - Lean Startup Machine Idea Validation Board
+ - Idea Selection Criteria
 
 We will be focusing on Dot-Voting and the Now Wow How Matrix methods.
 
-DOT VOTING
+### DOT VOTING
 
 This is one of the more popular methods. It’s very democratic, in the sense that everyone gets an equal and fair vote.
-This method works as follows:
-Each team member gets 5 (or more/less, it’s up to the facilitator) ‘votes’
-These can be represented by dots - either sticky dots that can get stuck onto each note, or a coloured marker that can be used to mark the note.
-Each member goes through the board and places their votes onto the idea that they like the best.
-There is no need to take it in turns, everyone can stand up and place stickies simultaneously.
-The facilitator must choose if each member gets to put a maximum of 1 vote per idea, or if they can add all their votes to 1 idea.
-Once voting is done, group the ideas based on dots and order them based on most to least.
-Take the top X ideas (usually 2 or 3) and explore them further through discussion.
+
+**This method works as follows:**
+
+ - Each team member gets 5 (or more/less, it’s up to the facilitator) ‘votes’
+ - These can be represented by dots - either sticky dots that can get stuck onto each note, or a coloured marker that can be used to mark the note.
+ - Each member goes through the board and places their votes onto the idea that they like the best.
+ - There is no need to take it in turns, everyone can stand up and place stickies simultaneously.
+ - The facilitator must choose if each member gets to put a maximum of 1 vote per idea, or if they can add all their votes to 1 idea.
+ - Once voting is done, group the ideas based on dots and order them based on most to least.
+ - Take the top X ideas (usually 2 or 3) and explore them further through discussion.
 
 An important point to consider is: what are we voting on? Are we voting on how easy the idea is to prototype, or how beneficial it will be to the end user?
+
 The team must decide on the vital metric/s before voting, so that everyone is voting on the same thing.
 
-A final note on this method, is that there is one problematic area: if voting is visible to the team, then members can be swayed one way or another if they see one idea has gotten more votes than other. It’s almost like peer pressure; if you see 4 people vote for A and 1 for B, you’re more likely inclined to vote with A. We will look at Poker Planning/Playing as an alternate method to dot-voting after the Now Wow How matrix method.
-NOW WOW HOW MATRIX
+A final note on this method, is that there is one problematic area: if voting is visible to the team, then members can be swayed one way or another if they see one idea has gotten more votes than others. It’s almost like peer pressure; if you see 4 people vote for A and 1 for B, you’re more likely inclined to vote with A. We will look at Poker Planning/Playing as an alternate method to dot-voting after the Now Wow How matrix method.
+
+### NOW WOW HOW MATRIX
+
+![now_wow_how](now_wow_how.png)
 
 This is another popular method commonly used. This method involves using a matrix grid, like the one you see above, to help the team rank ideas.
 
-
-
 The focus of this method is in terms of ranking ideas based on 3 important metrics:
-“Now” - Ideas which can be implemented right away
-“Wow” - Ideas which are innovative and unique
-“How”  - Ideas which could be done in the future
+ - **“Now”** - Ideas which can be implemented right away
+ - **“Wow”** - Ideas which are innovative and unique
+ - **“How”** - Ideas which could be done in the future
+ - 
 As you can see in the grid above, there are two axis. The vertical (y) shows us the difficulty of implementing the idea - how hard would it be to execute. The horizontal axis (x) shows us the level of innovation within the idea - how unique and creative it is. From this grid, we can see there are 4 quadrants; in this method, we care about 3.
 
-The first quadrant: Normal idea & hard to implement. These are not ideas we want to try out because they are, as the quadrant says, very hard to make real and they are just average or normal idas.
-The second: Now - Normal idea & easy to implement. These are ideas that require little effort, but they also aren't anything special.
-The third: Wow - Unique/Innovative idea & easy to implement. These are the ideas we really want. They are easy to make happen and they are unique and new solutions.
-The fourth is: How - Unique/innovative ideas & hard to implement. These are ideas that we want to do, but we can’t do them now because they require lots of effort. So we look at them as future ideas.
+ - **The first quadrant:** Normal idea & hard to implement. These are not ideas we want to try out because they are, as the quadrant says, very hard to make real and they are just average or normal idas.
+ - **The second quadrant:** Now - Normal idea & easy to implement. These are ideas that require little effort, but they also aren't anything special.
+ - **The third quadrant:** Wow - Unique/Innovative idea & easy to implement. These are the ideas we really want. They are easy to make happen and they are unique and new solutions.
+ - **The fourth is quadrant:** How - Unique/innovative ideas & hard to implement. These are ideas that we want to do, but we can’t do them now because they require lots of effort. So we look at them as future ideas.
+
 The team can either each have a dot/sticky/pen which they can mark each idea with to show if they think it’s a Wow/How/Now idea. Each person will vote once on each idea and indicate their choice. Once each person has voted, the ideas are reviewed and placed inside the matrix, which you can do visually on a whiteboard.
 
-POKER PLANNING/PLAYING
+### POKER PLANNING/PLAYING
 
 This method is not one that you will normally find in the list of idea selection techniques, however it can be very useful. As stated above, this method is in response to Dot-voting and the issue of peer-pressure, as this method allows for voting to be unbiased.
 
@@ -348,13 +354,16 @@ Voting is done in secret (under the table/behind your back). Each person holds u
 
 Ideally, there will be consensus amongst the team and most people will vote close to each other. If not, then the outliers need to have a conversation to discuss why they have different opinions. At the end of that conversation there should be a consensus and agreement on what rank to give the idea.
 
-Making the Choice
+#### Making the Choice
+
 Now that you have ranked all of your ideas, it should be relatively easy to choose which one you are going to use as the solution to your problem statement.
 
 The list of ideas you have will be ranked according to which method of screening you chose above. If there is a clear ‘winner’ then you take that idea forward, otherwise you take the top X ideas and you need to debate them amongst the team until a consensus is reached to determine which idea should be taken forward.
 
 Don’t forget that the metrics you choose to use in the voting process can be whatever you and your team choose to use. However, you need to make sure you consider the most important factors in your project.
-MODEL SOLUTION
+
+### MODEL SOLUTION
+
 Modeling your solution is an odd step. It’s not a prototype; we aren’t focused on creating a working representation of the idea just yet. However, it’s important as it prescribes the basis on which the prototype will developed. This step is not part of the normal Design Thinking process; we need to consider it as ‘Business Process Modelling’ is a key skill that business analysts and strategists need to know.
 
 For this step, we simply want to showcase the idea in a very low-touch, low-effort way. This can be done by using user journey mapping/BPM which you learned in the define stage.
@@ -362,122 +371,132 @@ For this step, we simply want to showcase the idea in a very low-touch, low-effo
 When you learned about BPN in the previous section, we spoke about the ‘as-is’ and the ‘to-be’ model. You would have developed your as-is while you empathised and defined the problem. 
 
 Now, you want to develop the to-be user journey. To help you, ask questions such as the following:
-How will the user journey change with your new solution in place?
-What new challenges might it open up which we must consider?
-What dependencies does the idea have?
-On other projects
-Other stakeholders
-On budget
-Where will the pain be diminished for our users?
-Where will they see gains?
+
+ - How will the user journey change with your new solution in place?
+ - What new challenges might it open up which we must consider?
+ - What dependencies does the idea have?
+  - On other projects
+  - Other stakeholders
+  - On budget
+ - Where will the pain be diminished for our users?
+ - Where will they see gains?
+
 Remember, this is not a prototype yet; a prototype will be a real working representation of the idea. For now, we are modelling the proposed solution in terms of the process and steps in the user and client journeys.
 
-
-PLAN THE PROTOTYPE AND TESTING
+## PLAN THE PROTOTYPE AND TESTING
 
 Before we go ahead and start prototyping, we need to understand how long it will take, and what resources will be needed. To do so, you need to sit with your team and relevant stakeholders and think about:
-What resources will we need to create it
-What stakeholders will be involved in the creation
-What limitations are there on the prototyping phase
-What major requirements must we meet
-What level of fidelity are we aiming for
-What is the budget for this prototype
-Are there any limitations on how much time we have to complete it.
-What do we require for testing
-How long will testing take
-Who is involved in testing
+
+ - What resources will we need to create it
+ - What stakeholders will be involved in the creation
+ - What limitations are there on the prototyping phase
+ - What major requirements must we meet
+ - What level of fidelity are we aiming for
+ - What is the budget for this prototype
+ - Are there any limitations on how much time we have to complete it.
+ - What do we require for testing
+ - How long will testing take
+ - Who is involved in testing
+
 Once you have done this, you then need to consider how all these factors influence the timeline and factor in all the relevant dependencies.
 
 Draw up a visual representation of this timeline. Make sure to indicate when testing occurs or where any decisions need to be made. Indicate as well if there are any potential points of failure and what resolutions we may take to solve them.
 
 The below examples are meant to show you how you can visually represent your timeline. Do not look at these examples from a content perspective.
 
+![project_overview](project_overview.jpg)
 
+![project_roadmap](project_roadmap.jpg)
 
-COMMUNICATE THE SOLUTION
+![project_timeline](project_timeline.jpg)
 
-PITCH TO THE CLIENT
+## COMMUNICATE THE SOLUTION
+
+![communicate](communicate.jpg)
+
+### PITCH TO THE CLIENT
+
 Before you go ahead with prototyping the solution you have just ideated, you need to first present the idea to your client. You need to have buy-in from your client before you go and spend time and money on creating the model/prototype of you solution.
 Below, you will learn about what continent to contain in the presentation and how to execute a good presentation.
 PITCH THE CONTENT
 You will need to create a pitch-deck, a powerpoint presentation, which contains visuals and information that allows the client to understand the empathise, define and ideate process you’ve just gone through and the related findings and decisions.  
 
 You will need to ensure your pitch contains content on:
-Introduction
-Summarise the aim of this project and the objective of the client.
-List the team members involved
-What is the user problem
-This is your problem statement and our How Might We, which you developed in the define phase.
-How you are solving the users problem
-This is your chance to showcase the idea you have come up with. Talk about how it solves the users' pains and creates more gains.
-Show the new user journey/BPM to show the client how the idea will impact the current process.
-How you’re meeting the client’s Objectives
-You had identified the client’s objectives in your empathising section and listed them in the introduction. You now need to show how your solution has taken into account their objectives and is solving for them.
-How your solution is innovative and using latest technology
-Ideally your solution is using new and innovative technology. Showcase how you're doing this and where the technology is used in the solution.
-How your idea is being cost effective and practical.
-In the ideation selection phase, you had certain key metrics which helped you decide on which idea to choose. These metrics now need to be reported on in terms of how they affect the solution. If being cost-effective was a key metric, then you need to express how you are being cost-focused with your solution. If you have alternate metrics, then explain their effect here.
-Show a timeline for prototyping and testing the solution.
-Here you need to showcase the proposed timeline for executing the prototype and testing it.
-Show the stakeholders involved and their roles in for the project
-You also need to showcase who the team is and who the other members are who are involved in various parts of the process.
-Consider who the testing team is and how you will work with them. Consider if you need designers or copywriters or developers for your prototype. Will you need strategists to document the process? Will you need a scrum master to help with managing the daily tasks?
-List any resourcing requirements that are needed for the project
-You should also be indicating if you require any non-human resources.
-Do we need any computers or servers for the prototyping?
+
+ - **Introduction**
+  - Summarise the aim of this project and the objective of the client.
+  - List the team members involved
+ - **What is the user problem**
+  - This is your problem statement and our How Might We, which you developed in the define phase.
+ - **How you are solving the users problem**
+  - This is your chance to showcase the idea you have come up with. Talk about how it solves the users' pains and creates more gains.
+  - Show the new user journey/BPM to show the client how the idea will impact the current process.
+ - **How you’re meeting the client’s Objectives**
+ - You had identified the client’s objectives in your empathising section and listed them in the introduction. You now need to show how your solution has taken into account their objectives and is solving for them.
+ - **How your solution is innovative and using latest technology**
+  - Ideally your solution is using new and innovative technology. Showcase how you're doing this and where the technology is used in the solution.
+ - **How your idea is being cost effective and practical.**
+  - In the ideation selection phase, you had certain key metrics which helped you decide on which idea to choose. These metrics now need to be reported on in terms of how they affect the solution. If being cost-effective was a key metric, then you need to express how you are being cost-focused with your solution. If you have alternate metrics, then explain their effect here.
+ - **Show a timeline for prototyping and testing the solution.**
+  - Here you need to showcase the proposed timeline for executing the prototype and testing it.
+ - **Show the stakeholders involved and their roles in for the project**
+  - You also need to showcase who the team is and who the other members are who are involved in various parts of the process.
+  - Consider who the testing team is and how you will work with them. Consider if you need designers or copywriters or developers for your prototype. Will you need strategists to document the process? Will you need a scrum master to help with managing the daily tasks?
+ - **List any resourcing requirements that are needed for the project**
+  - You should also be indicating if you require any non-human resources.
+  - Do we need any computers or servers for the prototyping?
 Will we need any specific office space? (usually you take over a boardroom for the duration of the prototyping and testing so that the team is together and can be more productive).
-Will we need any office supplies like pens, paper etc.
-List any success factors that will help indicate if the prototype is successful
-Here you can list out any potential critical success factors (or KPI’s) that you will use to help measure the success of the prototype.
+  - Will we need any office supplies like pens, paper etc.
+ - **List any success factors that will help indicate if the prototype is successful**
+  - Here you can list out any potential critical success factors (or KPI’s) that you will use to help measure the success of the prototype.
 
 Note that all of this is living-information, which means that it is all subject to change. You are pitching what you think will be the case, and ideally you’ll be pretty close to the proposed process; however, you may find that once you begin to prototype that you forgot to include certain stakeholders or account for specific resources. This is not a problem, you can alter things once you are in the prototype phase. Ideally though the changes should be minor; if you are making wholesale changes, then you may land up with an unhappy client if what you pitched them and what you do is completely different.
 
-WHAT MAKES A GOOD PITCH
+### WHAT MAKES A GOOD PITCH
+
 When you present to a client, there are certain do’s and don't's that you need to stick by. The success of a project, no matter how good the idea may be, depends on how the client receives the pitch. You need to be very aware of the pitching phase and ensure that you are knocking the ball out the park - you don’t want all your hard work jeopardized because you failed to explain it well enough to your client.
 
-
 Let’s take a watch of this video on How to Pitch to Potential Clients before we get into it.
-Here are some great tips and tricks to help you:
-Introduce yourself.
-Start off your presentation by introducing yourself and your team.
-This can be short and sweet. Don’t drag it out by talking too much about yourself.
 
-Introduce the presentation
-Explain to the audience why they are here and what the aim of the presentation is.
-Quickly run through the content of the presentation to ensure your audience isn’t in the dark.
+{{< youtube i7O4AtfeM6k >}}
 
-Practice Practice Practice
-Make sure you stick to your time limit.
-Try presenting to a test audience so that you can fix and improve things before the main pitch.
+#### Here are some great tips and tricks to help you:
 
-During the pitch
-Be energetic. Show enthusiasm and interest. The worst type of pitch is one where the presenter isn’t engaged and interesting.
-Focus on your body language. People respond to how you convey yourself. Ensure you have an open and relaxed body language.
-Know when to stop speaking. You need to be able to know when to keep quiet and listen to your audience. Remember, you want as much feedback as possible, so make an effort to pause and ask for feedback.
-Be confident. You need to speak with purpose and authority. Make sure your voice carries across the room and you can be heard.
-Before the pitch:
-Dress to impress. Make sure you present yourself in the best way. Keep neat and tidy and make sure you look the part.
-Identify who the main note-taker is to document feedback and actions.
-Choose who the main presenter is going to be.
+ - **Introduce yourself.**
+  - Start off your presentation by introducing yourself and your team.
+  - This can be short and sweet. Don’t drag it out by talking too much about yourself.
+ - **Introduce the presentation**
+  - Explain to the audience why they are here and what the aim of the presentation is.
+  - Quickly run through the content of the presentation to ensure your audience isn’t in the dark.
+ - **Practice Practice Practice**
+  - Make sure you stick to your time limit.
+  - Try presenting to a test audience so that you can fix and improve things before the main pitch.
+ - **During the pitch**
+  - **Be energetic.** Show enthusiasm and interest. The worst type of pitch is one where the presenter isn’t engaged and interesting.
+  - **Focus on your body language.** People respond to how you convey yourself. Ensure you have an open and relaxed body language.
+  - **Know when to stop speaking.** You need to be able to know when to keep quiet and listen to your audience. Remember, you want as much feedback as possible, so make an effort to pause and ask for feedback.
+  - **Be confident.** You need to speak with purpose and authority. Make sure your voice carries across the room and you can be heard.
+ - **Before the pitch:**
+  - Dress to impress. Make sure you present yourself in the best way. Keep neat and tidy and make sure you look the part.
+  - Identify who the main note-taker is to document feedback and actions.
+  - Choose who the main presenter is going to be.
+ - Lastly, ensure you use lots of imagery in your presentation - a picture paints a thousand words
 
-Lastly, ensure you use lots of imagery in your presentation - a picture paints a thousand words
+![1000_words](1000_words.jpg)
 
+### DOCUMENT CLIENT FEEDBACK
 
-
-DOCUMENT  CLIENT FEEDBACK
 To finish up this phase, you’ll need to ensure that you are documenting the client feedback received during the pitch and thereafter.
 
 Are they completely happy? Have they down-right rejected the pitch? What parts do they have a problem with? Can we still go ahead with the project and prototyping? Do we need to go back to empathising or define? Do they disapprove of the idea and we need to go through ideation again? Have we got a clear go-ahead?
 
 Send around the feedback from the meeting and list any major decisions that were made or need to be made. List any actions that must be taken as well.
 
-
-
-
-WHAT'S NEXT?
-
+### WHAT'S NEXT?
 
 Let’s watch this video to recap what we have learned about ideation. 
+
+{{< youtube tdjiUvhWHU >}}
 
 Next up we will take a look at how to prototype and test your idea. You’ve spoken to your users, you’ve identified the problem, you’ve ideated a solution, you’ve pitched to the client and gotten the go-ahead, and now it’s time to build out a model of the idea and test its validity with your users.
 
