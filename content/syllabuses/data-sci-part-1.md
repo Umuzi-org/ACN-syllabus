@@ -2,10 +2,6 @@
 title: "Data Science - part 1"
 ---
 
-
-
-
-
 - {{% contentlink path="agile/agile-scrum" %}}
 - {{% contentlink path="topics/clean-code/python" %}}
 - {{% contentlink path="topics/file-and-directory-naming/python" %}}
