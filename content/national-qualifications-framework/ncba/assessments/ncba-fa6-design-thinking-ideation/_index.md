@@ -7,6 +7,7 @@ prerequisites:
   - national-qualifications-framework/ncba/content/design-thinking-ideation
 ready: true
 submission_type: link
-tags: []
+tags: 
+ - docx
 title: NCBA FA6 Design Thinking - Ideation
 ---
