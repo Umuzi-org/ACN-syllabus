@@ -19,7 +19,7 @@ tags:
 title: "React and Redux recipe search: Part 2. API Access with thunks"
 ---
 
-Now that your frontend is awesome, let's get the "S earch" button to work.
+Now that your frontend is awesome, let's get the "Search" button to work.
 
 Take a look at [this neat little API](https://developer.edamam.com/edamam-recipe-api)
 
