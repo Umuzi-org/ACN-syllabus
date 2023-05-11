@@ -2,20 +2,20 @@
 _db_id: 199
 content_type: project
 flavours:
-  - typescript
-  - javascript
+- typescript
+- javascript
 learning_outcomes:
-  - web_dev_shuffling_elements
-  - web_dev_indexing
+- web_dev_shuffling_elements
+- web_dev_indexing
 pre: <b>1. </b>
 prerequisites:
   hard:
-    - projects/tdd/simple-calculator-part1
+  - projects/tdd/simple-calculator-part1
   soft: []
 ready: true
 submission_type: repo
 tags:
-  - problem solving
+- problem solving
 title: semitone difference - basic algorithm
 weight: 1
 ---
@@ -34,14 +34,12 @@ Your directory structure should look like this.
 └── package.json
 ```
 
-```
+
 
 **Note**: Please export your class using the following syntax at the end of the code:
 
 ```
-
 module.exports = {className: className}
-
 ```
 
 This is the first step in a multi-step project designed to level up many different skills.

@@ -3,7 +3,7 @@ _db_id: 228
 content_type: project
 ready: true
 submission_type: nosubmit
-title: OOP Excercises
+title: OOP Exercises
 ---
 
 Here are a few oop challenges for you. If you are new to OOP then it would make sense to do these in the following order:

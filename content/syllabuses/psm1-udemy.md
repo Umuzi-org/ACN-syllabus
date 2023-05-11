@@ -11,3 +11,4 @@ _db_id: 79
 - {{% contentlink path="scrum/scrum-open-assessment" %}}
 - {{% contentlink path="scrum/product-owner-open-assessment" %}}
 - {{% contentlink path="scrum/volkerdon-practice-tests" %}}
+- {{% contentlink path="scrum/psm1-wrap-up" %}}

@@ -2,21 +2,21 @@
 _db_id: 625
 content_type: project
 flavours:
-  - any_language
+- any_language
 learning_outcomes:
-  - code_validation
-  - code_problem_decomposition
-  - code_algorithmic_thinking
-  - code_tdd
+- code_validation
+- code_problem_decomposition
+- code_algorithmic_thinking
+- code_tdd
 prerequisites:
   hard:
-    - projects/tdd/simple-calculator-part1
+  - projects/tdd/simple-calculator-part1
 ready: true
 submission_type: repo
 tags:
-  - tdd
-  - problem-solving
-  - validation
+- tdd
+- problem-solving
+- validation
 title: Validate a South African ID number
 ---
 

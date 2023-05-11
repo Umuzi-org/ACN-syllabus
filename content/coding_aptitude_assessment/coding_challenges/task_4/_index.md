@@ -17,6 +17,12 @@ Write a function that takes in three numbers. These numbers represent the length
 
 This article will explain how to do it https://www.wikihow.com/Calculate-the-Area-of-a-Triangle
 
+Make sure your function works with floating point inputs. Eg:
+
+```
+task4(1.2, 2, 3.5)
+```
+
 ## Check your understanding! 
 
 - how would you write a function that calculates the area of a square?

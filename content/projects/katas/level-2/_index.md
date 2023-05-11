@@ -2,28 +2,38 @@
 _db_id: 637
 content_type: project
 flavours:
-- any_language
+  - any_language
 from_repo: projects/katas/level-1
 learning_outcomes:
-- code_algorithmic_thinking
-- code_pseudo_code
-- code_problem_decomposition
-- code_control_flow
-- code_naming_convention
-- code_code_documentation
-- code_existing_code_update
-- code_basic_calculation
+  - code_algorithmic_thinking
+  - code_pseudo_code
+  - code_problem_decomposition
+  - code_control_flow
+  - code_naming_convention
+  - code_code_documentation
+  - code_existing_code_update
+  - code_basic_calculation
 prerequisites:
   hard:
-  - projects/katas/level-1
+    - projects/katas/level-1
 ready: true
 story_points: 3
 submission_type: continue_repo
 tags:
-- algorithms
-- clean-code
+  - algorithms
+  - clean-code
 title: Level 2 coding challenges
 ---
+
+## Project directory structure
+
+Task 2.1 and Task 2.2 are a updates of Task 4 and 5 from {{% contentlink path="projects/katas/level-1"%}}. You should not create new files for them.
+
+For Task 2.3, you are expected to create a new files with the following names:
+
+- `task2_3.js` for javascript
+- `task2_3.py` for python
+- `Task2_3.java` for java
 
 ## Task 2.1
 
@@ -99,7 +109,7 @@ Add some functionality to `triangle` so that an error/exception gets raised if a
 
 ## Task 2.3
 
-Write a function that takes a list of strings and prints them as columns with a single space between them.
+Write a function `columns` that takes a list of strings and prints them as columns with a single space between them.
 
 For example, `columns(["Write","good","code","every","day"])` gets printed as:
 
@@ -109,6 +119,12 @@ r o o v a
 i o d e y
 t d e r
 e     y
+```
+
+**For javascript:** Don't forget to export you function with the code:
+
+```
+module.exports = {functionName}
 ```
 
 ## Next Steps

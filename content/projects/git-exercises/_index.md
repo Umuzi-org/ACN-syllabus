@@ -364,8 +364,8 @@ Go look at your network page. Each of the dots there represent commits that you 
 
 ### Multiple repos
 
-1. While still in your newly created branch `project/git-basic-exercises` use `git log` to see the history.
-2. From your new branch called `project/git-basic-exercises` navigate back to your `git-basic-exercises` repo, use `git log` again to see the difference.
+1. While still in your newly checked out branch `a-branch-with-a-few-commits` use `git log` to see the history.
+2. From  the branch `a-branch-with-a-few-commits` navigate back to your `git-basic-exercises` repo, use `git log` again to see the difference.
 3. Let's go back to our home directory `cd` and make a new folder `mkdir this-will-be-another-repo`
 4. cd into this folder now use `git init` to initialise a new git repo here, you should get a message in terminal that says 'Initialised empty Git repository in /home/\$specific-path/this-will-be-another-repo/.git/'
 5. Type in `touch README.md`. This creates a new blank file. Stage then commit.

@@ -9,8 +9,9 @@ tags:
 title: Build your own website and host it on the web!
 ---
 
-- {{% contentlink path="zmc-challenges/first-website/what-is-html" %}}
-- {{% contentlink path="environment-setup/html-on-phone-or-computer" %}}
+- {{% contentlink path="zmc-challenges/first-website/why-learn-web-development" %}}
+- {{% contentlink path="zmc-challenges/first-website/web-dev-languages" %}}
+- {{% contentlink path="zmc-challenges/first-website/html-on-phone-or-computer" %}}
 - {{% contentlink path="zmc-challenges/first-website/your-first-html-page" %}}
 - {{% contentlink path="zmc-challenges/first-website/hosting-your-page-on-github-pages" %}}
 - {{% contentlink path="zmc-challenges/first-website/adding-images" %}}

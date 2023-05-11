@@ -25,7 +25,7 @@ Make sure you:
 
 - wrote every statement in your code in a very thoughtful way
 - understand every statement you wrote (obviously)
-- tested the code out yourself, does it work? Or does it cause random errors?
+- tested the code out yourself, does it work? Or does it cause random errors? If you hand in code that doesn't run then that wont make you look good. If you can't run it, don't hand it in!
 
 ## Critical ⚠️
 

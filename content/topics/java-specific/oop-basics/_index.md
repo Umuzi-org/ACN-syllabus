@@ -5,10 +5,10 @@ ready: true
 title: Java OOP basics resources and readings
 ---
 
-One thing a lot of programmers really struggle with is Object Orientated Programming. Once you get your head around it it can be pretty fun. And it is a super powerful tool. Read and understand this
+One thing a lot of programmers really struggle with is Object Oriented Programming. Once you get your head around it it can be pretty fun. And it is a super powerful tool. Read and understand these:
 
 - [What is Object Oriented Programming?](https://medium.com/learn-how-to-program/chapter-3-what-is-object-oriented-programming-d0a6ec0a7615)
-- [Beginners guide to OOP]https://dev.to/charanrajgolla/beginners-guide---object-oriented-programming
+- [Beginners guide to OOP](https://dev.to/charanrajgolla/beginners-guide---object-oriented-programming)
 
 ## Four main OOP priciples in java
 
@@ -18,7 +18,7 @@ OOP is really powerful. There's a lot worth knowing. Make sure that you understa
 
 In Object-oriented programming, abstraction is a process of hiding the implementation details from the user, only the functionality will be provided to the user. In other words, the user will have the information on what the object does instead of how it does it.
 
-An every day example of abstraction is driving a car. When you turn on the ignition you just turn a key, the car does a whole lot of things under the hood. The starter motor and carberator is abstracted. You don't need to know how that stuff works in order to work a car.
+An every day example of abstraction is driving a car. When you turn on the ignition you just turn a key, the car does a whole lot of things under the hood. The starter motor and carburetor is abstracted. You don't need to know how that stuff works in order to work a car.
 
 In Java there is a thing called an Abstract Class. This is not to be confused with the principle of abstraction. You can achieve abstraction without using abstract classes. A lot of people get these concepts mixed up.
 
@@ -27,98 +27,103 @@ In Java there is a thing called an Abstract Class. This is not to be confused wi
 
 Abstraction can be achieved through use of abstract classes. Or just regular classes.
 
-Take a look at (this discussion)[https://softwareengineering.stackexchange.com/questions/230401/confused-about-the-definition-of-abstraction-in-oop] for a bit more info
+Take a look at [this discussion](https://softwareengineering.stackexchange.com/questions/230401/confused-about-the-definition-of-abstraction-in-oop) for a bit more info
 
 ### Encapsulation == hiding details
 
 Encapsulation is known as data-hiding. Basically in OOP in Java you can choose what parts of your objects are exposed for use, and which are under the hood. If we think about cars again, the steering wheel and gear lever are exposed to you, but then the fuel injection system is hidden away.
 
 In coding terms this means that objects may be able to communicate with one another but are restricted to access some of the object's components directly.
-Publicly accessible methods are generally provided in the class so-called [accessors and mutators.](https://www.cs.colostate.edu/~cs161/Fall12/labs/lab2/bookgetset.html))
+Publicly accessible methods are generally provided in the class so-called [accessors and mutators.](https://www.cs.colostate.edu/~cs161/Fall12/labs/lab2/bookgetset.html)
 
 [Read more on encapsulation.](https://www.geeksforgeeks.org/encapsulation-in-java/)
 
 The following Java code shows how Encapsulation can be implemented:
 
-```
-class Employee{
+```java
+class Employee {
 
-    //private data member
-    private String name;   // you can't just access this whenever you want.
+  //private data member
+  private String name; // you can't just access this whenever you want.
 
-    public void setName(String employeeName){
-        // this is the only way to update the name. Yo can put validation logic in here if you want. Eg if the employeeName has naughty words in it then raise an exception.
-        this.name  = employeeName;
-    }
+  //setter method for name
+  public void setName(String employeeName) {
+    // this is the only way to update the name. You can put validation logic in here if you want.
+    // E.g. if the employeeName has naughty words in it then raise an exception.
+    this.name = employeeName;
+  }
 
-    //getter method for name
-    public String getName(){
-        return name;
-    }
-
+  //getter method for name
+  public String getName() {
+    return name;
+  }
 }
 
-class Main{
-    public static void main(String args[]) {
-        //creating instance of the encapsulated class
-        Employee e = new Employee();
-        //setting value in the name member
-        e.setName("Mbali");
-        //getting value of the name member
-        System.out.println(e.getName());
+ class Main {
 
-    }
+  public static void main(String[] args) {
+    //creating instance of the encapsulated class
+    Employee e = new Employee();
+    //setting value in the name member
+    e.setName("Mbali");
+    //getting value of the name member
+    System.out.println(e.getName());
+  }
 }
+
 ```
 
 [Abstraction vs Encapsulation](https://1.bp.blogspot.com/-ECYNAUTGGMk/WPQeY4EpFtI/AAAAAAAAIX8/j-Ji8N_mDz8-d72SasgNPnQD-nIlw-kiACLcB/s1600/Abstraction%2Bvs%2BEncapsulation%2B2.jpg)
 
 ### Inheritance
 
-[Inheritance](https://www.scaler.com/topics/java/inheritance-in-java/) can be thought of an an "is a" relationship.
+[Inheritance](https://www.scaler.com/topics/java/inheritance-in-java/) can be thought of as an "is a" relationship.
 
-The following Java code shows how Inheritance can be implemented. In this example we have a superclass called `Vehicle`. a `Bakkie` is a `Vehicle`, and a `Beatle` is a `Vehicle`. So both these child classes do vehivle things and have vehicle attributes, but layer on a bit of extra behavior.
+The following Java code shows how Inheritance can be implemented. In this example we have a superclass called `Vehicle`. a `Bakkie` is a `Vehicle`, and a `Beatle` is a `Vehicle`. So both these child classes do vehicle things and have vehicle attributes, but layer on a bit of extra behavior.
 
-```
+```java
 //superclass
 class Vehicle {
-    void printType(){
-        System.out.println("I am a Vehicle");
-    }
+
+  void printType() {
+    System.out.println("I am a Vehicle");
+  }
 }
 
-class Beatle extends  Vehicle {
-    //Override method
-    @Override
-    void printType() {
-        //call method in super class
-        super.printType();
-        System.out.println("I am a Beatle");
-    }
+class Beatle extends Vehicle {
+
+  //Override method
+  @Override
+  void printType() {
+    //call method in super class
+    super.printType();
+    System.out.println("I am a Beatle");
+  }
 }
 
-class Bakkie extends  Vehicle {
-    //Override method
-    @Override
-    void printType() {
-        //call method in super class
-        super.printType();
-        System.out.println("I am a Bakkie");
-    }
+class Bakkie extends Vehicle {
+
+  //Override method
+  @Override
+  void printType() {
+    //call method in super class
+    super.printType();
+    System.out.println("I am a Bakkie");
+  }
 }
 
-class Main{
-    public static void main(String[] args) {
-        //Create a car object
-        Beatle beatle = new Beatle();
-        //call method
-        beatle.printType();
-    }
-}
+class Main {
 
+  public static void main(String[] args) {
+    //Create a car object
+    Beatle beatle = new Beatle();
+    //call method
+    beatle.printType();
+  }
+}
 ```
 
-To learn how `@Override` actually works, check (this)[https://www.baeldung.com/java-override] out
+To learn how `@Override` actually works, check [this](https://www.baeldung.com/java-override) out
 
 ### Polymorphism
 
@@ -134,91 +139,93 @@ Overriding a method is when a method in the subclass has the same name and metho
 
 The following Java code shows how overriding can be implemented:
 
-```
+```java
 public class Fruit {
-    public void print() {
-        System.out.println("I am a fruit");
-    }
+
+  public void print() {
+    System.out.println("I am a fruit");
+  }
 }
 
 class Apple extends Fruit {
 
-    //Override method
-    @Override
-    public void print() {
-        System.out.println("I am an Apple");
-    }
-
+  //Override method
+  @Override
+  public void print() {
+    System.out.println("I am an Apple");
+  }
 }
 
-class Main{
-    public static void main(String[] args) {
-        //Create an animal object
-        Fruit fruit = new Fruit();
-        //Create horse object
-        Apple apple = new Apple()
-        fruit.print();
-        //call method
-        apple.print();
-    }
-}
+class Main {
 
+  public static void main(String[] args) {
+    //Create an animal object
+    Fruit fruit = new Fruit();
+    //Create horse object
+    Apple apple = new Apple();
+    fruit.print();
+    //call method
+    apple.print();
+  }
+}
 ```
 
 #### Method overloading
 
-Overloading a method is when a method in the subclass has the same name but the method signature is different from the method in the superclass.[Read more](https://beginnersbook.com/2013/05/method-overloading/)
+Overloading a method is when a method in the subclass has the same name but the method signature is different from the method in the superclass. [Read more](https://beginnersbook.com/2013/05/method-overloading/)
 
 The following Java code shows how overloading can be implemented:
 
-```
-class Calculate{
+```java
+class Calculate {
 
-    public int product (int x, int y) {
-        return (x * y);
-    }
+  public int product(int x, int y) {
+    return (x * y);
+  }
 
-    // Overloaded. This product method  takes three int parameters
-    public int product(int x, int y, int z) {
-        return (x * y * z);
-    }
+  // Overloaded. This product method takes three int parameters
+  public int product(int x, int y, int z) {
+    return (x * y * z);
+  }
 
-    // Overloaded. This product method takes two double parameters
-    public double product(double x, double y) {
-        return (x * y);
-    }
+  // Overloaded. This product method takes two double parameters
+  public double product(double x, double y) {
+    return (x * y);
+  }
 }
 
 class Main {
-    public static void main(String args[]) {
-        Calculate prod_object = new Calculate();
-        System.out.println(prod_object.product(10, 20));
-        System.out.println(prod_object.product(10, 20, 30));
-        System.out.println(prod_object.product(10.5, 20.5));
-    }
+
+  public static void main(String args[]) {
+    Calculate prod_object = new Calculate();
+    System.out.println(prod_object.product(10, 20));
+    System.out.println(prod_object.product(10, 20, 30));
+    System.out.println(prod_object.product(10.5, 20.5));
+  }
 }
 ```
 
 #### The danger of accidental overloading
 
-```
+```java
 public class Machine {
-    public boolean equals(Machine obj){
-        return true;
-    }
+
+  public boolean equals(Machine obj) {
+    return true;
+  }
 }
 
 public class MainProgram {
-    public static void main(String[] args){
 
-        Object first = new Machine();
-        Object second = new Machine();
-        Machine third = new Machine();
-        Machine fourth = new Machine();
+  public static void main(String[] args) {
+    Object first = new Machine();
+    Object second = new Machine();
+    Machine third = new Machine();
+    Machine fourth = new Machine();
 
-        System.out.println(first.equals(second)); // returns false
-        System.out.println(third.equals(fourth)); // returns true
-    }
+    System.out.println(first.equals(second)); // returns false
+    System.out.println(third.equals(fourth)); // returns true
+  }
 }
 ```
 

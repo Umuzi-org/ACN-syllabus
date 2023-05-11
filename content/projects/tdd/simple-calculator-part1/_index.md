@@ -2,21 +2,21 @@
 _db_id: 273
 content_type: project
 flavours:
-  - any_language
+- any_language
 learning_outcomes:
-  - code_tdd
-  - code_existing_code_update
-  - code_basic_calculation
-pre: "<b>EASY: </b>"
+- code_tdd
+- code_existing_code_update
+- code_basic_calculation
+pre: '<b>EASY: </b>'
 prerequisites:
   hard:
-    - topics/test-driven-development
+  - topics/test-driven-development
   soft: []
 ready: true
 story_points: 2
 submission_type: repo
 tags:
-  - tdd
+- tdd
 title: simple-calculator part 1
 ---
 
