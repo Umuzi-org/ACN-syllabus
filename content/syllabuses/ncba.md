@@ -10,8 +10,11 @@ title: NCBA
 - {{% contentlink path="national-qualifications-framework/ncba/assessments/ncba-sa3-project-management" %}}
 - {{% contentlink path="national-qualifications-framework/ncba/assessments/ncba-fa4-design-thinking-empathise" %}}
 - {{% contentlink path="national-qualifications-framework/ncba/assessments/ncba-sa4-design-thinking-empathise" %}}
+- {{% contentlink path="national-qualifications-framework/ncba/assessments/ncba-sa4-design-thinking-empathise-data" %}}
+- {{% contentlink path="national-qualifications-framework/ncba/assessments/ncba-sa4-design-thinking-empathise-presentation" %}}
 - {{% contentlink path="national-qualifications-framework/ncba/assessments/ncba-fa5-design-thinking-define" %}}
 - {{% contentlink path="national-qualifications-framework/ncba/assessments/ncba-sa5-design-thinking-define" %}}
+- {{% contentlink path="national-qualifications-framework/ncba/assessments/ncba-sa5-design-thinking-define-model" %}}
 - {{% contentlink path="national-qualifications-framework/ncba/assessments/ncba-fa6-design-thinking-ideation" %}}
 - {{% contentlink path="national-qualifications-framework/ncba/assessments/ncba-sa6-design-thinking-ideation" %}}
 - {{% contentlink path="national-qualifications-framework/ncba/assessments/ncba-fa7-design-thinking-prototype-and-test" %}}
