@@ -7,41 +7,50 @@ ready: true
 tags: []
 title: Design Thinking - Ideation
 ---
-DESCRIPTION
+## DESCRIPTION
 
 Now that you’ve formulated the problem into words, you can start working on solutions and ideas, which brings us onto the third stage of the Design Thinking process Ideate.
 
 With a solid understanding of your users and a clear problem statement in mind, it’s time to start working on potential solutions. Ideas are best generated in a specific environment that allows you to think in a creative way. There are methods used to generate ideas and you are going to learn what those methods are and how to decide on the most feasible solution.
 
 
-LEARNING OUTCOMES:
+### LEARNING OUTCOMES:
 
 By the end of this module you will have developed the following skills:
-How to ideate 
-Learn the different methods of choosing an idea 
+
+ - How to ideate 
+ - Learn the different methods of choosing an idea 
 
 In addition to these skills you will also learn:
-How to conduct an ideation session
-Interact in a business environment 
+
+ - How to conduct an ideation session
+ - Interact in a business environment 
 
 
-INTRODUCTION
-By this point, you have learned how to run an organised and structured Empathising and Define phase. You’ve learnt how to understand your user, pinpoint user needs by interviewing them, document your findings into a synthesized user journey or persona, build an accurate problem statement and finally a how might we statement.
+## INTRODUCTION
+
+By this point, you have learned how to run an organised and structured Empathising and Define phase. You’ve learnt how to understand your user, pinpoint user needs by interviewing them, document your findings into a synthesized user journey or persona, build an accurate problem statement and finally a *how might we statement*.
+
+
 Up until now you have focused on the problem entirely and have avoided any form of ideation. This is crucial for a meaningful and accurate design thinking process. Now its time to start thinking of creative ways that you can address your user’s needs. Your focus is entirely on being solution oriented; the problem is going to be your guiding point for your ideation. At this point, we assume that the problem statement you've developed is accurate and true, 
-Let’s first take an overview look at the ideation phase before we get into the methods and tools used in this step of the process.
 
+Let’s first take an overview look at the **ideation phase** before we get into the methods and tools used in this step of the process.
 
-THE IDEATE PHASE
+![idea_lightbulb](idea_lightbulb.png)
+### THE IDEATE PHASE
+
+![the_ideation_phase](the_ideation_phase.png)
 
 During Ideation the aim is to generate a large quantity of ideas that the team can then filter and cut down into the best, most practical or most innovative ones in order to inspire new and better design solutions and products. Ideation is often the most exciting stage in the Design Thinking process, as you are now out of the heavy detailed research and empathising, and are now free to explore ideas and really open up that right brain.
 
 The reason why we focus heavily on ideation is that:
-It allows us to move away from obvious solutions, which allows us to explore more innovative ideas.
-Including the whole team allows for a mix of opinions, ideas and perspective. The more varied viewpoints we have, the more chance there is for unique ideas to be generated.
-We generate an abundance of ideas, not limiting ourselves to a fixed number of solutions.
-It discourages linear thinking that focuses on one idea.
 
-“You ideate in order to transition from identifying problems to creating solutions for your users. Ideation is your chance to combine the understanding you have of the problem space and people you are designing for with your imagination to generate solution concepts. Particularly early in a design project, ideation is about pushing for a widest possible range of ideas from which you can select, not simply finding a single, best solution.”
+ - It allows us to move away from obvious solutions, which allows us to explore more innovative ideas.
+ - Including the whole team allows for a mix of opinions, ideas and perspective. The more varied viewpoints we have, the more chance there is for unique ideas to be generated.
+ - We generate an abundance of ideas, not limiting ourselves to a fixed number of solutions.
+ - It discourages linear thinking that focuses on one idea.
+
+*“You ideate in order to transition from identifying problems to creating solutions for your users. Ideation is your chance to combine the understanding you have of the problem space and people you are designing for with your imagination to generate solution concepts. Particularly early in a design project, ideation is about pushing for a widest possible range of ideas from which you can select, not simply finding a single, best solution.”*
 
 So what’s the point of this phase? Simple: come up with ideas!
 
@@ -49,131 +58,135 @@ Your aim is to take your problem statement developed by understanding your users
 
 So how do you ideate? Well there are actually a number of tools one can use, from brainstorming to worst-possible-idea to SCAMPER; we will focus on brainstorming as the main tool in our ideation toolkit, however several alternate methods will also be discussed. We will also focus on how to choose your best idea and how to begin thinking about prototyping it.
 
+Let’s watch the video below to quickly recap some of the main points:
 
-
-Let’s watch this video to quickly recap some of the main points
+{{< youtube UzlaCBaafbE >}}
 
 “It’s not about coming up with the ‘right’ idea, it’s about generating the broadest range of possibilities.”
-IDEATION GUIDELINES
 
+## IDEATION GUIDELINES
+
+![guidelines_colourful](guidelines_colourful.jpg)
 
 Ideation is something that many teams struggle with, and a lot of that struggle comes down to not following some important ‘rules’ for collaborative and innovative ideation sessions.
 
-Below is a  comprehensive list of do’s, dont’s and things to consider when forming an ideation team and working through ideation sessions. These guidelines should apply to any of the ideation process tools that you will learn about later in this section.
+Below is a comprehensive list of do’s, dont’s and things to consider when forming an ideation team and working through ideation sessions. These guidelines should apply to any of the ideation process tools that you will learn about later in this section.
 
-Humans naturally fall into the trap of sticking to what they know and staying in their comfort zone. Make sure you are pushing yourself and stretching your team to think outside the box and move away from what makes them feel safe.
-This is the notion that we are creatures of habit - we generally revert back to what we know. For example, we always conform back to the same restaurants when choosing what to eat; it’s difficult to think of somewhere new and then take the chance - we’d rather stick to what we know.
-Be highly self-aware during this process. Do not let yourself fall into old habits.
-Do not stick to what you know and believe. You need to be able to overturn your assumptions and allow yourself to even contradict your normal beliefs.
-You need to be adaptive. Your ability to change the way you think and see solutions is vital. Actively train yourself to think in a new way.
-Try to have a birds eye view of the ideas generated to see if you can connect unrelated solutions or ideas together to form new and innovative solutions.
-Think  BIG! Don’t limit yourself to viable or feasible solutions. You need to throw those constraints out the window and allow yourself to really imaginate.
-Remove all constraints. Don’t limit yourself to ‘how people normally do things’. You need to move away from social conventions or norms and allow yourself to propose solutions that could even create new norms or conventions. Take risks with your ideas and be willing to challenge the status quo.  
-Keep referring back to your problem or POV statement to make sure you are headed in the right direction. Refer back to your personas or user journey if need be.
-Get visual. Use drawings to help convey your idea.
-Remember that it’s all about quantity, not quality.  You want to generate  as many ideas as you can , however crazy or wild they may seem. We don’t want to focus on only the highest quality ideas, as it may trap us into thinking that those are the only high quality ideas.
+ - Humans naturally fall into the trap of sticking to what they know and staying in their comfort zone. Make sure you are pushing yourself and stretching your team to think outside the box and move away from what makes them feel safe.
+  - This is the notion that we are creatures of habit - we generally revert back to what we know. For example, we always conform back to the same restaurants when choosing what to eat; it’s difficult to think of somewhere new and then take the chance - we’d rather stick to what we know.
+  - Be highly self-aware during this process. Do not let yourself fall into old habits.
+  - Do not stick to what you know and believe. You need to be able to overturn your assumptions and allow yourself to even contradict your normal beliefs.
+ - You need to be adaptive. Your ability to change the way you think and see solutions is vital. Actively train yourself to think in a new way.
+ - Try to have a birds eye view of the ideas generated to see if you can connect unrelated solutions or ideas together to form new and innovative solutions.
+ - Think BIG! Don’t limit yourself to viable or feasible solutions. You need to throw those constraints out the window and allow yourself to really imaginate.
+ - Remove all constraints. Don’t limit yourself to ‘how people normally do things’. You need to move away from social conventions or norms and allow yourself to propose solutions that could even create new norms or conventions. Take risks with your ideas and be willing to challenge the status quo.  
+ - Keep referring back to your problem or POV statement to make sure you are headed in the right direction. Refer back to your personas or user journey if need be.
+ - Get visual. Use drawings to help convey your idea.
+ - Remember that it’s all about quantity, not quality. You want to generate as many ideas as you can, however crazy or wild they may seem. We don’t want to focus on only the highest quality ideas, as it may trap us into thinking that those are the only high quality ideas.
+
 There is no such thing as a bad idea. Don’t be quick to assess an idea as bad; and even then, don’t dismiss it. ‘Bad’ ideas are sometimes the ones that inspire great ideas. Bad ideas even help to guide you to know what you don’t want.
 
 
 There certainly are ideas that seem bad; but some suggest that bad ideas are just good ideas poorly executed. 
 
+ - Ideation sessions need to be fun! They need to be full of energy! Get pumped, get motivated. Keep it interesting by bringing snacks and drinks, meet in strange places or even wear comfortable clothing.
+ - But most importantly: don’t judge. Don’t be quick to judge other ideas. You may disagree with the idea, but during ideation the objective is to list as many ideas as we can and to avoid ranking them or judging them. When you judge people's ideas, they are less likely to share ideas, and they may be sitting on something really amazing. So, don’t judge. Let’s leave it to Judy.
 
+![judge](judge.jpg)
 
-Ideation sessions need to be fun! They need to be full of energy! Get pumped, get motivated. Keep it interesting by bringing snacks and drinks, meet in strange places or even wear comfortable clothing.
-But most importantly: don’t judge. Don’t be quick to judge other ideas. You may disagree with the idea, but during ideation the objective is to list as many ideas as we can and to avoid ranking them or judging them. When you judge people's ideas, they are less likely to share ideas, and they may be sitting on something really amazing. So, don’t judge. Let’s leave it to Judy.
-
-Have fun! Ideation, for most people, is the best part of the process. Enjoy it!
+ - Have fun! Ideation, for most people, is the best part of the process. Enjoy it!
  
 You might be thinking that some of the above guidelines are hard to implement and not natural qualities that your team has, which is most likely the case. You need to make sure to take extra caution in following these guidelines and encourage your team to as well. Although this process step is fun, it’s also difficult to implement well. A good ideation session is not easy, it’s hard work! You and your team need to consciously consider all of the above while you engage in solution findings; you may find some people struggle with one of the above, and it’s your and your team's job to help them through the journey.
 
-Enjoy a couple more examples of ‘bad’ ideas:
-
+**Enjoy a couple more examples of ‘bad’ ideas:**
 
 Not necessarily a ‘bad’ idea...just poorly executed. Not safe at all!
 
+![bad_idea_ladder](bad_idea_ladder.jpg)
 
 I’m sure there are people out there who enjoy pickles enough to want to brush with pickle flavored toothpaste. However, the vast majority of people will likely find this to be a bad idea!
 
-
-
+![bad_idea_pickle](bad_idea_pickle.jpg)
 
 This is probably the worst of the ideas. There is no ‘good’ reason to have decided to put the charging cable underneath the mouse. The only reason could be for look and feel - they didn’t want an open port ruining the aesthetics. A bad idea though, or just a poorly executed good idea?
 
-
+![bad_idea_mouse](bad_idea_mouse.jpg)
 
 One last point on bad ideas: although there may not be any bad ideas, there are certainly wrong ideas. A wrong idea is one that does not align with our HMW or problem statement; it doesn't help us achieve our goal or actually solve the problem.
 
 For example:
-How might we help huge cruise ships turn faster?
-“Bad” Idea: Just make the ship smaller. (This isn’t a ‘great’ idea, because if we made them smaller, than they wouldn't be cruise ships anymore)
-Wrong Idea: Cruise ships shouldn't exist.  
+
+ - How might we help huge cruise ships turn faster?
+ - “Bad” Idea: Just make the ship smaller. (This isn’t a ‘great’ idea, because if we made them smaller, than they wouldn't be cruise ships anymore)
+ - Wrong Idea: Cruise ships shouldn't exist.  
 
 Having taken a look at the ideation guidelines, the next section is going to look at the main method we will be using to ideate - brainstorming. We will go deep into this method to look at the dos and don’ts and how to run a good brainstorming session. Following that, we will take a look at some alternate methods for ideating.
 
-
-
-
-IDEATION METHODS (BRAINSTORMING)
+## IDEATION METHODS (BRAINSTORMING)
 
 
 Brainstorming is the tool of choice when it comes to ideation. It’s so widely used because it stimulates creative thinking, allows for a wide range of ideas to be generated, and it allows for all team members to be included in the process.
-There is a simple reason for wanting all team members to be involved: the more brains there are in the room, the more diverse the ideas are. This does assume that all those brains aren’t all the same. If you have a room of 6 designers or you have a room of 2 designers, 2 strategists and 2 developers which do you think would generate the broadest range of ideas? The mixed group should be your answer. Having people with different mindsets, backgrounds and demographics will allow for a more diverse array of ideas being generated as they engage, listen and build on each others ideas.
+There is a simple reason for wanting all team members to be involved: the more brains there are in the room, the more diverse the ideas are. This does assume that all those brains aren’t all the same. If you have a room of 6 designers or you have a room of 2 designers, 2 strategists and 2 developers which do you think would generate the broadest range of ideas? The mixed group should be your answer. Having people with different mindsets, backgrounds and demographics will allow for a more diverse array of ideas being generated as they engage, listen and build on each other's ideas.
 
 What’s also crucial about brainstorming is that it allows you to set aside a dedicated block of time for ideation. This allows you to ensure you switch off that analytical side and turn up the creative side.
 
 
-Let’s watch this video: Brainstorming are we Doing It Wrong
+Let’s watch the below video: Brainstorming are we Doing It Wrong
 
-Watch IDEO founder David Kelly talking about brainstorming and it’s value  (Listen up until 1:30 for the main bits on Ideation)
-SETUP
+{{< youtube 09_JdhFA2W0 >}}
 
+Also watch the video below from IDEO founder David Kelly talking about brainstorming and it’s value (Listen up until 1:30 for the main bits on Ideation)
 
-STAKEHOLDERS
+{{< youtube xXsHI_VlhmY >}}
+
+## SETUP
+
+![setup](setup.jpg)
+
+### STAKEHOLDERS
 
 Before you begin ideation, consider who your involved stakeholders will be.
 As stated above, you want to have a highly diversified team of people involved in ideation to allow for the widest breadth of ideas. For most of us, we struggle to identify and understand the viewpoint or situation of someone with a different background or demographic type. By involving a diverse group, we can listen and understand each other better.
 
 Make sure that you involve at least one person from each department that would be involved in developing the solution or part of the solution at some point. If your solution requires a call center to be set up so that people can get assistance, then you should include the head of the call center department to be a part of the ideation so that they can share insights which you otherwise wouldn't have known about. This helps you avoid developing solutions that will have future problems for other involved stakeholders.
 
-ENVIRONMENT AND GUIDELINES
+### ENVIRONMENT AND GUIDELINES
+
 Jumping straight into brainstorming is never a good idea. If you are facilitating the session, you need to ensure that you set the scene, manage expectations and ensure the purpose is clearly defined before you begin. If this is not done, you run the risk of each stakeholder entering the session with different preconceptions and with the focus unclear; this is bound to lead to infighting, arguments and confusion which can all cause damage within the team, ruin existing team cohesion and ruin future creative sessions.
 
-
-
 Below are a couple of important things to consider which should ensure a productive and successful brainstorming session:
-Break the Ice
-Begin the session with an icebreaker. This allows people to relax and become more comfortable in the setting. There are tons of ice-breaker ideas, from asking people to answer a silly question to playing a no-smiling game. Have fun with the ice-breaker, that’s what it’s meant for!
-Set the tone
-Whomever is leading the session needs to be passionate and enthusiastic.  You want the team to understand that the tone is fun and engaging, not serious and programmatic.
-There should be laughter and joking as we explore wild and crazy ideas. Don’t let anyone be the joy-suck.
-Ensure the team is aware that one person speaks at a time.
-The leader should ensure that everyone is aware that:
-Comments and responses need to be brief.
-We are not engaging in debate and conversion. This is about producing as many ideas as we can in the time we have. We will debate the ideas afterwards
-The team should focus on building on other people's ideas.
-There is mutual understanding and trust within the team, and ensure that that trust is not broken. This generally happens when someone gets too negative and starts rejecting ideas or labeling them as bad. The facilitator should be ready to put out any fires like these, in order to ensure the session doesn't get derailed.
-Judgments and analysis are discouraged. The team must avoid judging other’s ideas. The team should be encouraged to internalise their disagreement, and channel that into building on or improving the idea.
-Wild and crazy ideas are fully encouraged!
 
-Ensure the entire team is aware that we are basing our ideation off of our HMW statement produced in the previous phase. There will be no debate or rehashing of this HMW.
-The team should be aware of the time limits. Brainstorming is not an entire day's exercise; it needs to be focused and punchy - an hour is a good amount of time. Some suggest that you can reach 100 ideas inside 30mins.
-The focus is on quantity. The more ideas generated, the more chances there are for revolutionary ideas.
+ - Break the Ice
+  - Begin the session with an icebreaker. This allows people to relax and become more comfortable in the setting. There are tons of ice-breaker ideas, from asking people to answer a silly question to playing a no-smiling game. Have fun with the ice-breaker, that’s what it’s meant for!
+ - Set the tone
+  - Whomever is leading the session needs to be passionate and enthusiastic.  You want the team to understand that the tone is fun and engaging, not serious and programmatic.
+  - There should be laughter and joking as we explore wild and crazy ideas. Don’t let anyone be the joy-suck.
+  - Ensure the team is aware that one person speaks at a time.
+ - The leader should ensure that everyone is aware that:
+  - Comments and responses need to be brief.
+   - We are not engaging in debate and conversion. This is about producing as many ideas as we can in the time we have. We will debate the ideas afterwards
+  - The team should focus on building on other people's ideas.
+  - There is mutual understanding and trust within the team, and ensure that that trust is not broken. This generally happens when someone gets too negative and starts rejecting ideas or labeling them as bad. The facilitator should be ready to put out any fires like these, in order to ensure the session doesn't get derailed.
+  - Judgments and analysis are discouraged. The team must avoid judging other’s ideas. The team should be encouraged to internalise their disagreement, and channel that into building on or improving the idea.
+  - Wild and crazy ideas are fully encouraged!
+
+
+ - **Ensure the entire team is aware that we are basing our ideation off of our HMW statement produced in the previous phase.** There will be no debate or rehashing of this HMW.
+ - **The team should be aware of the time limits.** Brainstorming is not an entire day's exercise; it needs to be focused and punchy - an hour is a good amount of time. Some suggest that you can reach 100 ideas inside 30mins.
+ - **The focus is on quantity.** The more ideas generated, the more chances there are for revolutionary ideas.
 Every idea must be captured and displayed. Remember, no idea is a bad idea; every idea needs to be written down and documented. This allows team members who are not confident to feel better when suggesting ideas.
-
-
-
-
-
-
 
 Some of the important points from above:
 
-
+![brainstorm_points](brainstorm_points.png)
 
 And always remember:
 
-OUTPUTS
+![brainstorm_ideas](brainstorm_ideas.png)
 
+### OUTPUTS
+
+![stickynotes](stickynotes.png)
 
 The main method for documenting the ideas generated during brainstorming is with sticky notes. Give every team member a stack of sticky notes and a pen to write with. Each team member can jot down as many ideas as they want, but each must be written on a single sticky.
 
@@ -181,10 +194,12 @@ When writing your idea on the sticky, make sure to be concise. You are not writi
 
 Do not be protective of ideas - you don’t need to write down your name on the sticky. It should not be important whose idea it is.
 
-This short video talks about why sticky notes are useful and how you should use them:
+The short video below talks about why sticky notes are useful and how you should use them:
 
+{{< youtube HGsNmbDaV7E >}}
 
-GROUPING IDEAS
+### GROUPING IDEAS
+
 Once you have concluded the brainstorming and reached the time limit that had been stipulated, you now need to organise all the ideas.
 
 The facilitator will start to group ideas based on similarity or repetition first. Any ideas that are the same get grouped together. Once that is done, ideas then need to be organised according to theme, or even a stage of the user journey.
@@ -195,41 +210,45 @@ This step can be a challenge if the sticky notes are not simple and descriptive 
 
 Let’s check out this video to see a brainstorm in action.
 
+{{< youtube VvdJzeO9yN8 >}}
 
-Take a look at this video to summarise the learnings from brainstorming.
+Also, take a look at this video to summarise the learnings from brainstorming.
 
-VARIATIONS OF BRAINSTORMING
+{{< youtube 9K8W4ooygUU >}}
+
+### VARIATIONS OF BRAINSTORMING
 
 There are 3 variations of brainstorming. These have been designed because of a few ‘big’ issues with generic brainstorming: there are schools of thought and research which show that ideating alone as opposed to groups is actually better and generates more ideas. From this research, these 3 variations have been invented. Some of which focus solely on individuals while others include a mix of solo and group thinking.
-Braindumping
 
-BRAIN DUMPING 
+#### BRAIN DUMPING 
+
+![braindump](braindump.png)
 
 The idea with this method is that we all generally have a bunch of ideas and thoughts running around in our head even before we begin to brainstorm. To help clear up the brain to allow for even greater ideation, this method prescribes that we ideate individually. To facilitate this process:  
-The facilitator should hand out sticky notes at the start of the session and allow each member 5-10 minutes to jot down all of their ideas.
-Each member then takes it in turn to walk up to the board and stick up their ideas while explaining them.
-Once each member has done this, the team then moves into the idea selection and voting phase. (You will learn how to select and vote in the next section)
 
-Brainwriting
+ - The facilitator should hand out sticky notes at the start of the session and allow each member 5-10 minutes to jot down all of their ideas.
+ - Each member then takes it in turn to walk up to the board and stick up their ideas while explaining them.
+ - Once each member has done this, the team then moves into the idea selection and voting phase. (You will learn how to select and vote in the next section)
 
-BRAIN WRITING 
+
+#### BRAIN WRITING 
+
+![brainwrite](brainwrite.png)
 
 This is a very different technique to the one’s above. Instead of sharing your ideas with the broader team, each team member writes down their ideas like a braindump and then passes their ideas along to the person next to them in the room.
-During each passing phase, each individual should be ideating on the other person's ideas to either build on them or generate new ideas.
-Each round should be 3-5 minutes.
-This happens in silence - there is no discussion of ideas at this point.
-The cycle ends once the round has been completed 3 or more times.
-Once concluded, each team member stands up and presents the ideas that they have in their possession, which will include ideas that are both theirs and those of others.
+ - During each passing phase, each individual should be ideating on the other person's ideas to either build on them or generate new ideas.
+ - Each round should be 3-5 minutes.
+ - This happens in silence - there is no discussion of ideas at this point.
+ - The cycle ends once the round has been completed 3 or more times.
+ - Once concluded, each team member stands up and presents the ideas that they have in their possession, which will include ideas that are both theirs and those of others.
 
 This method helps allow each team member to have an equal voice. With normal brainstorming it sometimes occurs that the biggest personalities or the loudest voices dominate the process and the introverts get left behind.
 
 This method also allows for each team member to jot down all of their ideas as they arrive. In normal brainstorming you sometimes forget your idea while you wait for someone to stand up and present theirs. This method allows you to focus and get all those ideas down quickly.
-Brainwalking
 
+#### BRAIN WALKING 
 
-
-
-BRAIN WALKING 
+![brainwalk](brainwalk.png)
 
 This might sound like a strange technique, but it has its merits. The idea is similar to brainwriting, however instead of passing along your ideas, you actively get up and walk around to sit in another seat or even at another desk.
 
@@ -237,32 +256,35 @@ The idea is that by moving around and being physically active, you will be more 
 
 Note that with either of the three alternate methods above, you can still continue into a round of brainstorming or further ideation once complete. No one method is conclusive or wholy encompassing.
 
-Other Ideation Methods
+**Other Ideation Methods**
+
 There are a ton of other methods you can use to help during ideation. The list below comprises the most common alternate methods. If you’d like to read further on any of them, you can follow the links that appear after the list to learn more; the links also include even more ideation methods which aren’t listed below.
-Challenge Assumptions
-SCAMPER
-Mindmap
-Sketch or Sketchstorm
-Storyboard
-Analogies
-Provocation
-Movement
-Bodystorm
-Gamestorming
-Cheatstorm
-Crowdstorm
-Co-Creation Workshops
-Prototype
-Creative Pause
 
-Learn more about each method:
-https://www.designorate.com/ideation-design-thinking-tools/
-https://www.interaction-design.org/literature/article/introduction-to-the-essential-ideation-techniques-which-are-the-heart-of-design-thinking
-https://www.cleverism.com/18-best-idea-generation-techniques/
-https://www.linkedin.com/pulse/10-lesser-known-ideation-tools-design-thinking-process-manoj-kothari/
+ - Challenge Assumptions
+ - SCAMPER
+ - Mindmap
+ - Sketch or Sketchstorm
+ - Storyboard
+ - Analogies
+ - Provocation
+ - Movement
+ - Bodystorm
+ - Gamestorming
+ - Cheatstorm
+ - Crowdstorm
+ - Co-Creation Workshops
+ - Prototype
+ - Creative Pause
+
+**Learn more about each method:**
+
+ - https://www.designorate.com/ideation-design-thinking-tools/
+ - https://www.interaction-design.org/literature/article/introduction-to-the-essential-ideation-techniques-which-are-the-heart-of-design-thinking
+ - https://www.cleverism.com/18-best-idea-generation-techniques/
+ - https://www.linkedin.com/pulse/10-lesser-known-ideation-tools-design-thinking-process-manoj-kothari/
 
 
-CHOOSING YOUR IDEA
+## CHOOSING YOUR IDEA
 
 
 
@@ -487,7 +509,7 @@ Next up we will take a look at how to prototype and test your idea. You’ve spo
 ADDITIONAL RESOURCES:
 
 VIDEOS:
-3. Design Thinking: Ideate 
+1. Design Thinking: Ideate 
 
 ARTICLES: 
 https://www.interaction-design.org/literature/article/what-is-ideation-and-how-to-prepare-for-ideation-sessions
