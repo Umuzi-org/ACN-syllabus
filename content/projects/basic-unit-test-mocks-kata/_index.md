@@ -25,7 +25,7 @@ We'll be making an application that sends emails.
 
 ## Set up
 
-Step 1 is to sign up for [SendinBlue](https://www.sendinblue.com/). You can sign up for the free plan. Once you are logged in click on the "Transactional" tab at the top of the page. You'll see some SMTP settings. It'll look something like this:
+Step 1 is to sign up for [Brevo](https://www.brevo.com/). You can sign up for the free plan. Once you are logged in click on the drop down near the profile profile avatar at the top right of the page. Then, click on SMTP & API. It'll look something like this:
 
 ```
 SMTP server: smtp-relay.sendinblue.com
