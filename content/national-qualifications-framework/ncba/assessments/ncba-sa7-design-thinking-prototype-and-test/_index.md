@@ -1,4 +1,5 @@
 ---
+_db_id: 886
 content_type: project
 flavours:
 - none
@@ -7,7 +8,7 @@ prerequisites:
   - national-qualifications-framework/ncba/content/design-thinking-prototype-and-test
 ready: true
 submission_type: link
-tags: 
- - docx
+tags:
+- docx
 title: NCBA SA7 Design Thinking - Prototype & Test
 ---

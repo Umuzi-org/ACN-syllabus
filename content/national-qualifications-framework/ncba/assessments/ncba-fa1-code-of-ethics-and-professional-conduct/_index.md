@@ -1,4 +1,5 @@
 ---
+_db_id: 893
 content_type: project
 flavours:
 - none
@@ -7,7 +8,7 @@ prerequisites:
   - national-qualifications-framework/ncba/content/code-of-ethics-and-professional-conduct
 ready: true
 submission_type: link
-tags: 
- - docx
+tags:
+- docx
 title: NCBA FA1 Code of Ethics and Professional Conduct
 ---

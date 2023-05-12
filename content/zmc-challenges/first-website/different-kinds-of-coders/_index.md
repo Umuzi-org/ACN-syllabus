@@ -178,7 +178,4 @@ That's all we have for you in this challenge. We hope you enjoyed your time with
 
 This isn't then end of the road with us though. Now that you have shown us that you are willing and able to push yourself to learn new things and prove your skill, we know that you will make the best of other opportunities we send your way.
 
-We will send you invitations to join other coding challenges, courses, internships and other opportunities as they come up. So please stay tuned! 
-
-
-
+We will send you invitations to join other coding challenges, courses, internships and other opportunities as they come up. So please stay tuned!

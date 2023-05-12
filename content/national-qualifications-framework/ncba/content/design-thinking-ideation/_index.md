@@ -1,4 +1,5 @@
 ---
+_db_id: 909
 content_type: topic
 ncit_standards: []
 prerequisites:
@@ -7,6 +8,7 @@ ready: true
 tags: []
 title: Design Thinking - Ideation
 ---
+
 ## DESCRIPTION
 
 Now that you’ve formulated the problem into words, you can start working on solutions and ideas, which brings us onto the third stage of the Design Thinking process Ideate.
@@ -539,8 +541,3 @@ https://www.interaction-design.org/literature/article/three-ideation-methods-to-
 https://www.justinmind.com/blog/8-ux-ideation-techniques-to-try-out/
 https://www.designorate.com/ideation-design-thinking-tools/
 https://www.uxpin.com/studio/blog/design-thinking-ideation/
-
-
-
-
-
