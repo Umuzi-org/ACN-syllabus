@@ -13,7 +13,7 @@ submission_type: repo
 title: "Coding aptitude assessment challenge: Task 4"
 ---
 
-Write a function that takes in three numbers. These numbers represent the lengths of the sides of a triangle. The function should return the area of a triangle.
+Write a function that takes in three numbers. These numbers represent the lengths of the sides of a triangle. The function should return the area of a triangle to the nearest whole number.
 
 This article will explain how to do it https://www.wikihow.com/Calculate-the-Area-of-a-Triangle
 
@@ -22,6 +22,12 @@ Make sure your function works with floating point inputs. Eg:
 ```
 task4(1.2, 2.4, 3.5)
 ```
+
+Example usage:
+
+- `task4(1.2, 2.4, 3.5)` should return `0`
+- `task4(3, 4, 5)` should return `6`
+- `task4(7, 8, 10)` should return `27`
 
 ## Check your understanding!
 
