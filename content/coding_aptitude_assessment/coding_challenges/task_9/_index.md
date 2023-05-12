@@ -13,7 +13,7 @@ submission_type: repo
 title: 'Coding aptitude assessment challenge: Task 9'
 ---
 
-Write a function that takes in a string and then returns all the vowels in the string as a list or array.
+Write a function that takes in a string and then returns all the vowels in the string as a list or array. If you are working in java you must return an array not a list.
 
 The returned vowels should be:
 
