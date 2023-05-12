@@ -24,8 +24,8 @@ If a vowel appears twice in the input string then it should appear twice in the 
 
 Example usage:
 
-`task9("Hello there Andy")` should return `[a, e, e, e, o]`
-`task9("xyz")` should return `[]`
+- `task9("Hello there Andy")` should return `[a, e, e, e, o]`
+- `task9("xyz")` should return `[]`
 
 ## Check your understanding
 
