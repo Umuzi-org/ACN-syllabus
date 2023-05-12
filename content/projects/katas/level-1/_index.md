@@ -211,7 +211,7 @@ For exampe, `combine([11,22,33,45], [1,2,3])` should return:
 Also, the output lists should maintain the list items in the original order in which they appeared in the input lists, so combine([12, 4, 2], [1, 5, 3]) should return:
 
 ```
-[12,1,4, 5, 2, 3]
+[12,1,4,5,2,3]
 ```
 
 ## Instructions for Reviewers
