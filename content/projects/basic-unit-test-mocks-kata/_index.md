@@ -25,7 +25,7 @@ We'll be making an application that sends emails.
 
 ## Set up
 
-Step 1 is to sign up for [Brevo](https://www.brevo.com/). You can sign up for the free plan. Once you are logged in click on the drop down near the profile profile avatar at the top right of the page. Then, click on SMTP & API. It'll look something like this:
+Step 1 is to sign up for [Brevo](https://www.brevo.com/). You can sign up for the free plan. Once you are logged in click on the drop down near the profile profile avatar at the top right of the page and click on SMTP & API. This is where you will find the SMTP settings. It'll look something like this:
 
 ```
 SMTP server: smtp-relay.sendinblue.com
@@ -220,3 +220,4 @@ As another example, if you were developing a "forgot password" or "confirm email
 - The learner should demonstrate that the email sends only once, with the correct arguments.
 - The learner should demonstrate an understanding of mocks and spies. Please see {{% contentlink path="topics/unit-testing-mocks-and-spies" %}} .
 - Sending emails to multiple recipients is not a requirement, but if the code is structured well enough, then doing so should be easy. The unit test should demonstrate that the code in not restricted to sending just one email.
+- Make sure that the code is re-usable
