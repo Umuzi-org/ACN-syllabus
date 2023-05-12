@@ -1,4 +1,5 @@
 ---
+_db_id: 904
 content_type: topic
 ncit_standards: []
 prerequisites:
@@ -7,6 +8,7 @@ ready: true
 tags: []
 title: Project Management
 ---
+
 ## DESCRIPTION
 
 In this module you will learn that in each project that you work on there is planning that needs to be done, allocation of resources and clear goals to be achieved. This is where your skills and knowledge in project management will come essential.
@@ -649,4 +651,4 @@ The people involved during this phase include the Product owner, however, this d
 
 [Project management basics](https://www.wrike.com/project-management-guide/agile-methodology-basics/)
 
-[Agile methodology basics](https://www.wrike.com/project-management-guide/agile-methodology-basics/) 
+[Agile methodology basics](https://www.wrike.com/project-management-guide/agile-methodology-basics/)
