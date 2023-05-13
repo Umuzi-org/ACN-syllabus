@@ -15,7 +15,7 @@ React is one of many strong frontend tools and it will not last forever. React i
 - Experience with modern web frontend tools and methodologies
 - Stronger ability to visualise data structuring and data flow
 - Stronger ability to reason about asynchronous workflows
-- Practice application state managment
+- Practice application state management
 
 React can also be a stepping stone on the way to a strong cross-platform mobile development skill set. Once React has been mastered, getting into ReactNative or Ionic is not terribly difficult. And once any serious frontend toolset has been learned it's not hard to transfer those skills to another toolset. For example Vue and Angular are quite popular already.
 
