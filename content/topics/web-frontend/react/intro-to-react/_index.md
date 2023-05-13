@@ -21,5 +21,5 @@ React can also be a stepping stone on the way to a strong cross-platform mobile 
 
 Take a look at this to see how React compares to the most popular web frameworks and libraries around:
 
-- https://www.educative.io/blog/react-angular-vue-comparison
-- https://programmingwithmosh.com/react/react-vs-angular/
+- [Angular vs Vue vs React: Choose the best framework](https://www.educative.io/blog/react-angular-vue-comparison)
+- [React vs. Angular: The Complete Comparison](https://programmingwithmosh.com/react/react-vs-angular/)
