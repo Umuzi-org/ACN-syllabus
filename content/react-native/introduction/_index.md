@@ -61,9 +61,9 @@ Here is a little list of why React Native is a good thing to learn:
 
 If you want more, take a look at these resources:
 
-- https://insights.stackoverflow.com/survey/2021#section-most-popular-technologies-web-frameworks
-- https://spyro-soft.com/blog/is-it-still-worth-learning-react-native-in-2021
-- https://medium.com/@SilentHackz/top-10-reasons-why-you-should-learn-react-right-now-f7b0add7ec0d
+- [2022 Stack Overflow Developer Survey - Most popular technologies](https://survey.stackoverflow.co/2022/#most-popular-technologies-webframe)
+- [Is it still worth learning React Native?](https://spyro-soft.com/blog/is-it-still-worth-learning-react-native-in-2021)
+- [Top 10 reasons why you should learn React right now](https://medium.com/@SilentHackz/top-10-reasons-why-you-should-learn-react-right-now-f7b0add7ec0d)
 
 ## Learn once, write anywhere? Really?
 
