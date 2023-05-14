@@ -11,7 +11,6 @@ submission_type: link
 tags:
 - docx
 title: NCBA SA3 Project Management
-<<<<<<< HEAD
 ---
 
 Please do the following:
@@ -24,6 +23,3 @@ Please do the following:
 
 4. Your link should look like this:
 https://drive.google.com/file/d/1YtW4iBMCZuBYxUf1YCZGsDRFminxXKk9/view?usp=sharing or https://docs.google.com/document/d/1YtW4iBMCZuBYxUf1YCZGsDRFminxXKk9/edit
-=======
----
->>>>>>> develop
