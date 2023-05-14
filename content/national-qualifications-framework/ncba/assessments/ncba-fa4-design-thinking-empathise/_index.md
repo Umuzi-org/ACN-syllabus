@@ -9,15 +9,12 @@ ready: true
 submission_type: link
 tags: 
  - docx
- - ncba
- - design-thinking
- - empathise
 title: NCBA FA4 Design Thinking - Empathise
 ---
 
 Please do the following:
 
-1. Follow [this link](https://docs.google.com/document/d/1BHEMEgZtSFFWcpzI2fgHA-L8gprE91or/edit?usp=sharing&ouid=106698657596806218419&rtpof=true&sd=true) and download the document. If you have an Umuzi email address then you will have access to the document. If you do not have an Umuzi email address you may need to request access.
+1. Follow [this link](https://docs.google.com/document/d/1ONKqwgMTGtFyBeX7-Ly-Q9vwWD_lhkeU/edit?usp=share_link&ouid=106698657596806218419&rtpof=true&sd=true) and download the document. If you have an Umuzi email address then you will have access to the document. If you do not have an Umuzi email address you may need to request access.
 
 2. Complete the assessment. The instructions are in the document. 
    

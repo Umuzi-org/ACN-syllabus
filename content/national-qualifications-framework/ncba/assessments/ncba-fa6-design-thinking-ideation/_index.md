@@ -17,7 +17,7 @@ title: NCBA FA6 Design Thinking - Ideation
 
 Please do the following:
 
-1. Follow [this link](https://docs.google.com/document/d/197BGAG3IBrli3Nc1RIz7fiE6d71u8G3U/edit?usp=share_link&ouid=106698657596806218419&rtpof=true&sd=true) and download the document. If you have an Umuzi email address then you will have access to the document. If you do not have an Umuzi email address you may need to request access.
+1. Follow [this link](https://docs.google.com/document/d/1djTl6HDF_kn17PDr5exEUI2M8aMx8Qjh/edit?usp=share_link&ouid=106698657596806218419&rtpof=true&sd=true) and download the document. If you have an Umuzi email address then you will have access to the document. If you do not have an Umuzi email address you may need to request access.
 
 2. Complete the assessment. The instructions are in the document. 
    

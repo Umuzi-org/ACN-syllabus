@@ -9,14 +9,12 @@ ready: true
 submission_type: link
 tags: 
  - docx
- - ncba
- - project-management
 title: NCBA SA3 Project Management
 ---
 
 Please do the following:
 
-1. Follow [this link](https://docs.google.com/document/d/1gdOKVge_65l4wiNyWEVNNkFX7nC06rBe/edit?usp=share_link&ouid=106698657596806218419&rtpof=true&sd=true) and download the document. If you have an Umuzi email address then you will have access to the document. If you do not have an Umuzi email address you may need to request access.
+1. Follow [this link](https://docs.google.com/document/d/1_suCP1R4D-k9DCxssbIWZcEsJhqMFYe3/edit?usp=sharing&ouid=106698657596806218419&rtpof=true&sd=true) and download the document. If you have an Umuzi email address then you will have access to the document. If you do not have an Umuzi email address you may need to request access.
 
 2. Complete the assessment. The instructions are in the document. 
    
