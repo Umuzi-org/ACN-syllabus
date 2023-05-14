@@ -1,4 +1,5 @@
 ---
+_db_id: 905
 content_type: topic
 ncit_standards: []
 prerequisites:
@@ -7,6 +8,7 @@ ready: true
 tags: []
 title: Design Thinking - Empathise
 ---
+
 ## DESCRIPTION
 
 In this module we will introduce you to the Design Thinking Framework. Design Thinking is an innovative problem-solving non-linear, iterative process that teams use to understand their users better, challenge assumptions, redefine challenges, and develop and test novel solutions.  
@@ -458,4 +460,3 @@ Next up, in Module 5, we will be looking at the **Define** phase of Design Think
 [https://www.interaction-design.org/literature/topics/empathy](https://www.interaction-design.org/literature/topics/empathy) 
 
 [https://careerfoundry.com/en/blog/ux-design/what-is-design-thinking-everything-you-need-to-know-to-get-started/](https://careerfoundry.com/en/blog/ux-design/what-is-design-thinking-everything-you-need-to-know-to-get-started/)
-

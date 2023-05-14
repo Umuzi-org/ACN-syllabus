@@ -1,4 +1,5 @@
 ---
+_db_id: 892
 content_type: project
 flavours:
 - none
@@ -7,9 +8,10 @@ prerequisites:
   - national-qualifications-framework/ncba/content/design-thinking-empathise
 ready: true
 submission_type: link
-tags: 
- - docx
+tags:
+- docx
 title: NCBA FA4 Design Thinking - Empathise
+<<<<<<< HEAD
 ---
 
 Please do the following:
@@ -22,3 +24,6 @@ Please do the following:
 
 4. Your link should look like this:
 https://drive.google.com/file/d/1YtW4iBMCZuBYxUf1YCZGsDRFminxXKk9/view?usp=sharing or https://docs.google.com/document/d/1YtW4iBMCZuBYxUf1YCZGsDRFminxXKk9/edit
+=======
+---
+>>>>>>> develop

@@ -69,4 +69,4 @@ Some learners will be moving to alternate programmes following this, but as long
 - What does it mean to call a function?
 - What is a string? How does that compare to integers?
 - Can you run your own code? Does it work?
-- What is a function argument? 
+- What is a function argument?

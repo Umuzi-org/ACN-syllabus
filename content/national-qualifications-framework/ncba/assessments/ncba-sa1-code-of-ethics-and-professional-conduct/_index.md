@@ -1,4 +1,5 @@
 ---
+_db_id: 890
 content_type: project
 flavours:
 - none
@@ -7,6 +8,7 @@ prerequisites:
   - national-qualifications-framework/ncba/content/code-of-ethics-and-professional-conduct
 ready: true
 submission_type: link
+<<<<<<< HEAD
 tags: 
  - docx
  - ncba
@@ -24,3 +26,9 @@ Please do the following:
 
 4. Your link should look like this:
 https://drive.google.com/file/d/1YtW4iBMCZuBYxUf1YCZGsDRFminxXKk9/view?usp=sharing or https://docs.google.com/document/d/1YtW4iBMCZuBYxUf1YCZGsDRFminxXKk9/edit
+=======
+tags:
+- docx
+title: NCBA SA1 Code of Ethics and Professional Conduct
+---
+>>>>>>> develop
