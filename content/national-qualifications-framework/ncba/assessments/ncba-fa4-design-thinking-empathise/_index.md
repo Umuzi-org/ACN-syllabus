@@ -8,8 +8,11 @@ prerequisites:
   - national-qualifications-framework/ncba/content/design-thinking-empathise
 ready: true
 submission_type: link
-tags:
-- docx
+tags: 
+ - docx
+ - ncba
+ - design-thinking
+ - empathise
 title: NCBA FA4 Design Thinking - Empathise
 ---
 
