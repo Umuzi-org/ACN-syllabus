@@ -25,6 +25,16 @@ tags:
 title: Level 2 coding challenges
 ---
 
+## Project directory structure
+
+Task 2.1 and Task 2.2 are a updates of Task 4 and 5 from {{% contentlink path="projects/katas/level-1"%}}. You should not create new files for them.
+
+For Task 2.3, you are expected to create a new files with the following names:
+
+- `task2_3.js` for javascript
+- `task2_3.py` for python
+- `Task2_3.java` for java
+
 ## Task 2.1
 
 Update your existing square function so that it takes 2 parameters but do not overload the square function. The first parameter should be the size of the square and the second one should be the character to use when drawing the square. The second parameter should be optional.

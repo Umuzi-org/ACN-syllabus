@@ -33,7 +33,16 @@ title: Web dev bridging course
 - {{% contentlink path="soft-skills/how-to-master-fundamentals" %}}
 - {{% contentlink path="topics/clean-code/java-script" %}}
 - {{% contentlink path="topics/file-and-directory-naming/javascript" %}}
-- {{% contentlink path="projects/katas/level-0" flavour="javascript" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_1" flavour="javascript" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_2" flavour="javascript" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_3" flavour="javascript" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_4" flavour="javascript" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_5" flavour="javascript" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_6" flavour="javascript" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_7" flavour="javascript" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_8" flavour="javascript" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_9" flavour="javascript" %}}
+- {{% contentlink path="coding_aptitude_assessment/coding_challenges/task_10" flavour="javascript" %}}
 - {{% contentlink path="language-agnostic/intro-to-hackerrank" flavour="javascript" %}}
 - {{% contentlink path="projects/katas/level-1" flavour="javascript" %}}
 - {{% contentlink path="specific-skill-success-criteria/introduction-to-assessments" %}}

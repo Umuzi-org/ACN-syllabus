@@ -26,16 +26,17 @@ Please note that this is a unit testing project. Make sure you demonstrate a sol
 Your directory structure should look like this.
 
 ```
-    >node_modules    <---- make sure this is in your .gitignore
-    >spec
-        > support
-            -jasmine.json
-        - password_is_valid_spec.js
-        - password_strength_spec.js
-    >src
-        - password_checker.js
-    - package.json
+├── spec
+|   ├── support
+|   |   └── jasmine.json
+|   └── password_is_valid_spec.js
+|   └── password_strength_spec.js
+├── src
+|   └── password_checker.js
+└── package.json
 ```
+
+**Note:** Remember to export the `passwordIsValid` and `passwordStrength` functions from their respective files.
 
 ### Python
 

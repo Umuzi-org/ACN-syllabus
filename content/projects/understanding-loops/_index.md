@@ -13,7 +13,7 @@ tags:
 title: Shopping cart calculations
 ---
 
-## Set up your environment
+## Directory structure
 
 ### Javascript
 
@@ -36,6 +36,8 @@ Your directory structure should look like this:
     └── shopping_cart.py
 ```
 
+## Introduction
+
 A lot of new programmers don't know why understanding is important. They think they can just copy code from people and that's enough to get by. BUT as soon as you get your first job you'll need to solve some serious problems on your own.
 
 The problems you'll be solving in this project are designed to be realistic. As a professional, you'll likely need to do things similar to this. Please make sure you 100% understand!
@@ -50,7 +52,7 @@ On the online shopping site, users (people who want to buy stuff) navigate aroun
 
 As a techie, data will be a part of your life. You're going to need to learn how to make this stuff dance.
 
-For data scientists and data engineers, it's pretty obvious why this is the case. But seriously, for any kind of developer, it's friggin important.
+For data scientists and data engineers, it's pretty obvious why this is the case. But seriously, for any kind of developer, it's friggin' important.
 
 Generally, developers need to work on programs that talk to other programs. And programs talk to each other by passing data structures back and forth.
 
@@ -95,7 +97,7 @@ Please note that one person can have multiple baskets. If you look at the data, 
 
 ### Important notes for Javascript solutions
 
-**1. Destructuring**
+#### 1. Destructuring
 
 In Javascript it is best practice to use destructuring when passing arguments to a function. You can learn about destructuring here: [destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment).
 
@@ -112,12 +114,15 @@ function getCustomerBaskets({ shoppingBaskets, email }) {...}
 getCustomerBaskets({shoppingBaskets, email}) //DO THIS
 ```
 
-**2. Exports**
+#### 2. Exports
 
 Export all your functions for the bot to be able access and mark your code. You do this by including an export statement like this.
 
 ```
-module.exports = { YOUR_FIRST_FUNCTION_NAME, YOUR_SECOND_FUNCTION_NAME,... };
+module.exports = { 
+    YOUR_FIRST_FUNCTION_NAME, 
+    YOUR_SECOND_FUNCTION_NAME,... 
+    };
 ```
 
 ### get baskets belonging to a single customer
@@ -129,8 +134,8 @@ If the customer has no shopping baskets then return an empty list/array.
 e.g.
 
 ```
-getCustomerBaskets({ email, shoppingBaskets }); //javascript
-getCustomerBaskets(email, shoppingBaskets); //java
+getCustomerBaskets({ email, shoppingBaskets }); // javascript
+getCustomerBaskets(email, shoppingBaskets); // java
 get_customer_baskets(email, shopping_baskets) // python
 ```
 

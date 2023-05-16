@@ -20,6 +20,26 @@ tags:
 title: Morse code
 ---
 
+## Project structure
+
+### JavaScript
+
+Your directory structure should look like this:
+
+```
+├── src
+|   └── morse_code.js
+└── package.json
+```
+
+Remember to export both functions like this:
+
+```
+module.exports = { function1Name, function2Name };
+```
+
+## Instructions
+
 Create two functions:
 
 ```
@@ -29,18 +49,22 @@ morseCodeToLetters
 
 eg:
 
-```
-lettersToMorseCode("Hi there")
+```js
+lettersToMorseCode("Hi there");
 // should return
 // ".... .. / - .... . .-. ."
+
+morseCodeToLetters(".... .. / - .... . .-. .");
+// should return
+// "hi there"
 ```
 
 Make sure to cater for punctuation marks and all special characters.
 
 Include the following assertions in your code:
 
-- Assert that the output and input both have the same number of characters represented.
-- Assert that there are the right number of spaces represented in the output.
+- Assert that the output and input both have the same number of characters represented. Use the string `the number of input and output characters is not the same` when both input and output characters are not equal.
+- Assert that there are the right number of spaces represented in the output. Use the string `the number of input and output space characters is not the same` when both input and output space characters are not equal.
 
 Make sure that when you do this, your code remains clean and dry.
 

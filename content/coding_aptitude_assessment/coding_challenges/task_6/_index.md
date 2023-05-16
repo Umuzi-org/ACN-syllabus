@@ -28,3 +28,5 @@ task6(1,2,44,3)    // GOOD
 
 - what kinds of loops do you know of? What are they for? How do they differ?
 - will your code work if there are 50 numbers passed into your function?
+- will it work if there are negative and positive numbers passed in?
+- can it handle the number zero?

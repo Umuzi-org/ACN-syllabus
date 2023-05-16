@@ -31,6 +31,6 @@ task5(1,2,3)  // GOOD - this accepts three numbers just like we need it to.
 - What would you need to do differently in your code if you did accept an array or list?
 - Are there builtin functions that can calculate the maximum number? How about the minimum number? 
 - How do you think you benefit from writing these kinds of functions yourself? What do you think we are testing for? 
-- You made use of > or < operators. What other comparison operators are there? 
+- You made use of `>` or `<` operators. What other comparison operators are there? 
 - can you think of how you would solve this problem using a loop? 
 - can you think of how you would solve this problem without using a loop?
