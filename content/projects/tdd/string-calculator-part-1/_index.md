@@ -150,27 +150,28 @@ In the first case, the default delimiter is: ";".
 
 In the second case, the default delimiter is: "4".
 
-**Note:** you are not expected to handle integer delimiters where the delimiter and the digit you are adding are next to each other. This and more will be dealt with in part 2 of the project. Example:
+**Note:** you are not expected to handle integer delimiters where the delimiter and the digit you are adding are next to each other. Example:
 
 ```
 add("//88\n18882")
 ```
 
-You are expected to handle integer delimeters where the delimeter is at the start and or end of the list of integers. Example:
+**Note:** You are also not expected to handle integer delimeters where the delimeter is at the start and or end of the list of integers. Example:
 
 ```
+// These input are invalid
+
 // start
 add("//4\n434243")
-// should return 48
 
 // end
 add("//4\n342434")
-// should return 39
 
 // start and end
 add("//4\n4342434")
-// should return 79
 ```
+
+They are considered invalid and more will be dealt with in part 2 of the project.
 
 #### 5. Modify the add function so that it can handle negative integers
 
@@ -197,6 +198,22 @@ For example:
 ```
 add("//***\n1***2***3")
 // should return 6
+```
+
+**Note:** You are not expected to handle delimeters where the delimeter is at the start and or end of the list of integers. Example:
+
+```
+// These are considered invalid
+
+// start
+add("//***\n***1***2***3")
+
+// end
+add("//***\n1***2***3***")
+
+// start and end
+add("//***\n***1***2***3***")
+
 ```
 
 ### Why is this important?
