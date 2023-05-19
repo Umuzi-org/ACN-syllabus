@@ -2,26 +2,26 @@
 _db_id: 637
 content_type: project
 flavours:
-- any_language
+  - any_language
 from_repo: projects/katas/level-1
 learning_outcomes:
-- code_algorithmic_thinking
-- code_pseudo_code
-- code_problem_decomposition
-- code_control_flow
-- code_naming_convention
-- code_code_documentation
-- code_existing_code_update
-- code_basic_calculation
+  - code_algorithmic_thinking
+  - code_pseudo_code
+  - code_problem_decomposition
+  - code_control_flow
+  - code_naming_convention
+  - code_code_documentation
+  - code_existing_code_update
+  - code_basic_calculation
 prerequisites:
   hard:
-  - projects/katas/level-1
+    - projects/katas/level-1
 ready: true
 story_points: 3
 submission_type: continue_repo
 tags:
-- algorithms
-- clean-code
+  - algorithms
+  - clean-code
 title: Level 2 coding challenges
 ---
 
@@ -34,6 +34,8 @@ For Task 2.3, you are expected to create a new files with the following names:
 - `task2_3.js` for javascript
 - `task2_3.py` for python
 - `Task2_3.java` for java
+
+**Note:** Accuracy is very important. The output should be exactly as shown in the examples. Unnecessary spaces or newlines will get you marked wrong and taken back.
 
 ## Task 2.1
 
