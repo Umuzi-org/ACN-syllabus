@@ -61,6 +61,9 @@ If you are writing JS code then your files would follow a similar pattern. You w
 ```js
 module.exports = { YOUR_FUNCTION_NAME };
 ```
+## Note to Java developers:
+
+- Even though the instructions will specifically ask for a function, please don't submit only the function/method. Make sure that there is a public class and a main entry method in your code.
 
 ## What does success look like?
 
