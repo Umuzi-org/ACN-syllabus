@@ -63,7 +63,7 @@ module.exports = { YOUR_FUNCTION_NAME };
 ```
 ## Note to Java developers:
 
-- Even though the instructions will specifically ask for a function, please don't submit only the function/method. Make sure that there is a public class in your code.
+- Even though the instructions will specifically ask for a function, please don't submit only the function/method. Make sure that there is a wrapping public class in your code.
 
 ## What does success look like?
 
