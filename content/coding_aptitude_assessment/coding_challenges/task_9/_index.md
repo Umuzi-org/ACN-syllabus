@@ -15,13 +15,13 @@ title: 'Coding aptitude assessment challenge: Task 9'
 
 Write a function that takes in a string and then returns all the vowels in the string as a list or array.
 
-## For java
+**For java**
+
 Write a function that takes in a string and then returns all the vowels in the string as an array
 
 Example usage:
 
 `task9("Hello there Andy")` should return `[a, e, e, e, o]`
-
 
 The returned vowels should be:
 
