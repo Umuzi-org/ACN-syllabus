@@ -2,24 +2,24 @@
 _db_id: 219
 content_type: project
 flavours:
-- any_language
+  - any_language
 learning_outcomes:
-- code_algorithmic_thinking
-- code_pseudo_code
-- code_problem_decomposition
-- code_control_flow
-- code_naming_convention
-- code_code_documentation
-- code_basic_calculation
+  - code_algorithmic_thinking
+  - code_pseudo_code
+  - code_problem_decomposition
+  - code_control_flow
+  - code_naming_convention
+  - code_code_documentation
+  - code_basic_calculation
 prerequisites:
   hard:
-  - topics/reopening-pull-request
+    - topics/reopening-pull-request
 ready: true
 story_points: 3
 submission_type: repo
 tags:
-- algorithms
-- clean-code
+  - algorithms
+  - clean-code
 title: Level 1 coding challenges
 ---
 
@@ -32,24 +32,28 @@ Please follow best practices when doing this work!
 
 ## Note
 
-The exercises below are meant to be language-agnostic. If we use the word `print` in an exercise description then we mean output it to the terminal/console/stdout. We don't mean print to a printer, and we don't want a gui. These exercises just spit out some text.
+- The exercises below are meant to be language-agnostic. If we use the word `print` in an exercise description then we mean output it to the terminal/console/stdout. We don't mean print to a printer, and we don't want a gui. These exercises just spit out some text.
 
-If we say a function takes an input then we don't mean you should ask the user to type something. What we need is a function parameter or argument.
+- If we say a function takes an input then we don't mean you should ask the user to type something. What we need is a function parameter or argument.
+
+- Accuracy is very important. If a task requires you to print, the output should be exactly as shown in the examples. Unnecessary spaces or newlines will get you marked wrong and taken back.
 
 ## Function naming conventions
 
-Please follow standard naming conventions for the language you are using. For example if we say a function is named `isSixtyThree` then that is a totally valid name in Javascript. But in Python, a better name would be `is_sixty_three`. We always follow the naming conventions of the language we are writing in. 
+Please follow standard naming conventions for the language you are using. For example if we say a function is named `isSixtyThree` then that is a totally valid name in Javascript. But in Python, a better name would be `is_sixty_three`. We always follow the naming conventions of the language we are writing in.
 
 ## Naming your files
 
 If you are writing Python code your directory structure should look like:
+
 ```
 ├── task1.py
 ├── task2.py
 ├── task3.py
 ...
 ```
-In other words, there should be no directories. Only modules. 
+
+In other words, there should be no directories. Only modules.
 
 If you are writing JS code then your files would follow a similar pattern. You would just have `.js` instead of `.py` files.
 
