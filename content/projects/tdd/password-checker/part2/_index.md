@@ -2,17 +2,17 @@
 _db_id: 270
 content_type: project
 flavours:
-- any_language
+  - any_language
 from_repo: projects/tdd/password-checker/part1
 prerequisites:
   hard:
-  - projects/tdd/password-checker/part1
+    - projects/tdd/password-checker/part1
   soft: []
 ready: true
 story_points: 3
 submission_type: continue_repo
 tags:
-- logging
+  - logging
 title: Add logging to password checker
 ---
 
@@ -34,7 +34,11 @@ Your directory structure should look like this:
 └── package.json
 ```
 
-**Note**: Please export `logger`, a setup object from the new `logger.js` file(see above diagram). Exports from part-1 of the project should remain.
+**Note**: Please export `logger`, a setup object from the new `logger.js` file(see above diagram). Exports from part-1 of the project should remain. Use the following named export syntax:
+
+```
+module.exports = { nameOfObject }
+```
 
 ## General instructions
 
