@@ -3,10 +3,6 @@ title: "Data Science"
 _db_id: 2
 ---
 
-
-
-
-
 - {{% contentlink path="agile/agile-scrum" %}}
 - {{% contentlink path="topics/clean-code/python" %}}
 - {{% contentlink path="topics/file-and-directory-naming/python" %}}
@@ -21,6 +17,7 @@ _db_id: 2
 - {{% contentlink path="projects/morse-code/" flavour="python" %}}
 - {{% contentlink path="language-agnostic/intro-to-hackerrank" flavour="python" %}}
 - {{% contentlink path="workshops/general-coding-best-practices" %}}
+- {{% contentlink path="topics/high-performance-dev-teams" %}}
 - {{% contentlink path="topics/python-specific/oop-for-python" %}}
 - {{% contentlink path="topics/python-specific/automated-testing-with-pytest"%}}
 - {{% contentlink path="topics/python-specific/virtual-envs/" %}}

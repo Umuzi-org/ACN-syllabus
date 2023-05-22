@@ -13,6 +13,7 @@ title: Web frontend foundations
 - {{% contentlink path="projects/katas/level-2" flavour="javascript" %}}
 - {{% contentlink path="agile/agile-scrum" %}}
 - {{% contentlink path="topics/big-picture-web-dev" %}}
+- {{% contentlink path="topics/high-performance-dev-teams" %}}
 - {{% contentlink path="topics/js-and-node-specific/super-basic-intro-to-node" %}}
 - {{% contentlink path="topics/web-frontend/intro-to-web-design/" %}}
 - {{% contentlink path="projects/web-development-website" %}}
