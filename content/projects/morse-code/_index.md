@@ -2,21 +2,21 @@
 _db_id: 184
 content_type: project
 flavours:
-  - any_language
+- any_language
 learning_outcomes:
-  - code_assert_statements
-  - code_error_messages
+- code_assert_statements
+- code_error_messages
 prerequisites:
   hard:
-    - topics/intro-to-assertive-programming
+  - topics/intro-to-assertive-programming
   soft: []
 ready: true
 story_points: 3
 submission_type: repo
 tags:
-  - problem solving
-  - data structures
-  - defensive programming
+- problem solving
+- data structures
+- defensive programming
 title: Morse code
 ---
 
@@ -32,6 +32,12 @@ Your directory structure should look like this:
 └── package.json
 ```
 
+Remember to export both functions like this:
+
+```
+module.exports = { function1Name, function2Name };
+```
+
 ## Instructions
 
 Create two functions:
@@ -43,10 +49,14 @@ morseCodeToLetters
 
 eg:
 
-```
-lettersToMorseCode("Hi there")
+```js
+lettersToMorseCode("Hi there");
 // should return
 // ".... .. / - .... . .-. ."
+
+morseCodeToLetters(".... .. / - .... . .-. .");
+// should return
+// "hi there"
 ```
 
 Make sure to cater for punctuation marks and all special characters.
@@ -57,16 +67,6 @@ Include the following assertions in your code:
 - Assert that there are the right number of spaces represented in the output. Use the string `the number of input and output space characters is not the same` when both input and output space characters are not equal.
 
 Make sure that when you do this, your code remains clean and dry.
-
-## Exports
-
-### For Javascript:
-
-Export both you functions like this:
-
-```
-module.exports = { function1Name, function2Name };
-```
 
 ## Resources
 
@@ -94,7 +94,6 @@ Add unit tests to your code. Leave the assertions in there, so that we can see y
 - When using assertions make sure that the assert statements are checking if the input and output lengths and input and output spaces are the same by checking if they are equal.
 - If unit tests are used, make sure that there is a test that checks the input and output lengths and ensure that imports and exports were used correctly.
 - Make sure an assertion function was used to assert if both functions input and output data are the same.
-- Make sure a function was used to contain all the data, for example, letters of the alphabets, numbers, special characters and morse code.
 - Make sure that the assertions do not print an error if empty strings are passed in both functions, for example:
 
 ```

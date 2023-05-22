@@ -2,19 +2,45 @@
 _db_id: 270
 content_type: project
 flavours:
-- any_language
+  - any_language
 from_repo: projects/tdd/password-checker/part1
 prerequisites:
   hard:
-  - projects/tdd/password-checker/part1
+    - projects/tdd/password-checker/part1
   soft: []
 ready: true
 story_points: 3
 submission_type: continue_repo
 tags:
-- logging
+  - logging
 title: Add logging to password checker
 ---
+
+## Set up environment
+
+### JavaScript:
+
+Your directory structure should look like this:
+
+```js
+├── spec
+|   ├── support
+|   |   └── jasmine.json
+|   └── password_is_valid_spec.js
+|   └── password_strength_spec.js
+├── src
+|   └── password_checker.js
+|   └── logger.js // new file for setting up your logger
+└── package.json
+```
+
+**Note**: Please export `logger`, a setup object from the new `logger.js` file(see above diagram). Exports from part-1 of the project should remain. Use the following named export syntax:
+
+```
+module.exports = { nameOfObject }
+```
+
+## General instructions
 
 In part one of this exercise you created two functions. Now you are going to upgrade that program by adding some logging capabilities.
 You are expected to use the recommended logging library(or framework) for your programming language:
@@ -49,7 +75,6 @@ Take note, we aren't actually logging the user's password. In general you want t
 - Make sure that you update your `.gitignore` so that the `errors.log` file is not in your repo.
 
 **Please take note:** All your previous tests should all pass.
-
 
 ## Instructions for reviewer
 

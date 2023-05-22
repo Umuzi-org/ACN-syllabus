@@ -11,6 +11,7 @@ _db_id: 4
 - {{< contentlink path="topics/how-to-ask-for-help-with-your-code" >}}
 - {{< contentlink path="topics/code-reviews/part-2-author" >}}
 - {{< contentlink path="topics/big-picture-web-dev" >}}
+- {{< contentlink path="topics/high-performance-dev-teams" >}}
 - {{< contentlink path="specific-skill-success-criteria/introduction-to-assessments" >}}
 - {{< contentlink path="specific-skill-success-criteria/functions-and-return" flavour="python" >}}
 - {{< contentlink path="projects/katas/level-2" flavour="python" >}}
