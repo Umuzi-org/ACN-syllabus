@@ -4,7 +4,7 @@ _db_id: 3
 ---
 
 - {{< contentlink path="agile/agile-scrum" >}}
-- {{< contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/1-basic-javascript/">}}
+- {{< contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/1-basic-javascript/" >}}
 - {{< contentlink path="topics/big-picture-web-dev" >}}
 - {{< contentlink path="topics/high-performance-dev-teams" >}}
 - {{< contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/2-es6" >}}

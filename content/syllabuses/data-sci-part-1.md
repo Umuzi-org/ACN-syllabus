@@ -18,7 +18,7 @@ title: Data Science - part 1
 - {{< contentlink path="language-agnostic/intro-to-hackerrank" flavour="python" >}}
 - {{< contentlink path="workshops/general-coding-best-practices" >}}
 - {{< contentlink path="topics/python-specific/oop-for-python" >}}
-- {{< contentlink path="topics/python-specific/automated-testing-with-pytest">}}
+- {{< contentlink path="topics/python-specific/automated-testing-with-pytest" >}}
 - {{< contentlink path="topics/python-specific/virtual-envs/" >}}
 - {{< contentlink path="topics/khan-academy/statistics-and-probability/unit-1-introduction-to-statistics" >}}
 - {{< contentlink path="topics/khan-academy/statistics-and-probability/unit-2-intermediate-statistics" >}}

@@ -8,7 +8,7 @@ _db_id: 31
 - {{< contentlink path="topics/watch-this-space" >}}
 - {{< contentlink path="topics/solo-learn/python/10-pythonicness-and-packaging" >}}
 - {{< contentlink path="topics/python-specific/oop-for-python" >}}
-- {{< contentlink path="topics/python-specific/automated-testing-with-pytest">}}
+- {{< contentlink path="topics/python-specific/automated-testing-with-pytest" >}}
 - {{< contentlink path="topics/clean-code/python" >}}
 - {{< contentlink path="projects/basic-unit-test-mocks-kata" flavour="python" >}}
 - {{< contentlink path="projects/oop/animals/part2" flavour="python" >}}

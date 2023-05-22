@@ -8,8 +8,8 @@ title: DEPRECATED Foundations of data sci for employed learners
 ## Intro to Tilde
 
 - {{< contentlink path="topics/tilde/different-kinds-of-cards" >}}
-- {{< contentlink path="projects/tilde/link-card-tutorial" flavour="">}}
-- {{< contentlink path="projects/tilde/repo-card-tutorial/part-2" flavour="">}}
+- {{< contentlink path="projects/tilde/link-card-tutorial" flavour="" >}}
+- {{< contentlink path="projects/tilde/repo-card-tutorial/part-2" flavour="" >}}
 - {{< contentlink path="topics/tilde/understanding-the-review-column" >}}
 - {{< contentlink path="topics/messaging/honor-code" >}}
 

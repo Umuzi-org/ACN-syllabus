@@ -19,7 +19,7 @@ _db_id: 2
 - {{< contentlink path="workshops/general-coding-best-practices" >}}
 - {{< contentlink path="topics/high-performance-dev-teams" >}}
 - {{< contentlink path="topics/python-specific/oop-for-python" >}}
-- {{< contentlink path="topics/python-specific/automated-testing-with-pytest">}}
+- {{< contentlink path="topics/python-specific/automated-testing-with-pytest" >}}
 - {{< contentlink path="topics/python-specific/virtual-envs/" >}}
 - {{< contentlink path="topics/khan-academy/statistics-and-probability/unit-1-introduction-to-statistics" >}}
 - {{< contentlink path="topics/khan-academy/statistics-and-probability/unit-2-intermediate-statistics" >}}
@@ -46,10 +46,10 @@ _db_id: 2
 - {{< contentlink path="projects/github-api-consume" flavour="python" >}}
 - {{< contentlink path="projects/data-science-specific/dashboards/plotly_dashboards" flavour="python" >}}
 - {{< contentlink path="sql/shop-project/" >}}
-- {{< contentlink path="projects/data-science-specific/logistic-regression/breast-cancer"  flavour="python">}}
+- {{< contentlink path="projects/data-science-specific/logistic-regression/breast-cancer"  flavour="python" >}}
 - {{< contentlink path="projects/understanding-loops" flavour="python" >}}
 - {{< contentlink path="topics/optimizations-and-big-o/" >}}
 - {{< contentlink path="topics/data-infrastructure/database-comparison/" >}}
-- {{< contentlink path="projects/data-science-specific/decision-trees" flavour="python">}}
-- {{< contentlink path="projects/data-science-specific/k-means-clustering" flavour="python">}}
-- {{< contentlink path="projects/data-science-specific/natural-language-processing" flavour="python">}}
+- {{< contentlink path="projects/data-science-specific/decision-trees" flavour="python" >}}
+- {{< contentlink path="projects/data-science-specific/k-means-clustering" flavour="python" >}}
+- {{< contentlink path="projects/data-science-specific/natural-language-processing" flavour="python" >}}

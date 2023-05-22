@@ -7,7 +7,7 @@ _db_id: 82
 - {{< contentlink path="react-native/harvard-cs-50-m/01-overview" >}}
 - {{< contentlink path="react-native/getting-set-up" >}}
 - {{< contentlink path="react-native/expo-tutorial-project" flavour="javascript" >}}
-- {{< contentlink path="react-native/qr-conference-connector/proof-of-concept" flavour="javascript">}}
+- {{< contentlink path="react-native/qr-conference-connector/proof-of-concept" flavour="javascript" >}}
 - {{< contentlink path="react-native/harvard-cs-50-m/05-lists-input" >}}
 - {{< contentlink path="react-native/harvard-cs-50-m/06-input-debugging" >}}
 - {{< contentlink path="react-native/harvard-cs-50-m/07-navigation" >}}

@@ -27,7 +27,7 @@ title: Level 2 coding challenges
 
 ## Project directory structure
 
-Task 2.1 and Task 2.2 are a updates of Task 4 and 5 from {{< contentlink path="projects/katas/level-1">}}. You should not create new files for them.
+Task 2.1 and Task 2.2 are a updates of Task 4 and 5 from {{< contentlink path="projects/katas/level-1" >}}. You should not create new files for them.
 
 For Task 2.3, you are expected to create a new files with the following names:
 

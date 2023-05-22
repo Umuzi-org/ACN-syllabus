@@ -51,7 +51,7 @@ _db_id: 19
 - {{< contentlink path="topics/kotlin/enum-classes" >}}
 - Project : LiveData and Live Data Observers.
 - Project : Data binding with ViewModel and LiveData.
-- {{< contentlink path="projects/kotlin/project-5/live-data-transformations" flavour="kotlin">}}
+- {{< contentlink path="projects/kotlin/project-5/live-data-transformations" flavour="kotlin" >}}
 
 ## Null Safety, Annotations, Constructor, Returns and Jumps, Database and Recycler View.
 
@@ -65,7 +65,7 @@ _db_id: 19
 - Project : Data binding with ViewModel and LiveData.
 - Project : DiffUtil and data binding with RecyclerView
 - Project : GridLayout with RecyclerView.
-- {{< contentlink path="projects/kotlin/project-7/headers-in-recyclerview" flavour="kotlin">}}
+- {{< contentlink path="projects/kotlin/project-7/headers-in-recyclerview" flavour="kotlin" >}}
 
 ## Work Manager, Internet Data, Images, Filtering, Functions.
 
@@ -77,7 +77,7 @@ _db_id: 19
 - Project : Getting Data From The Internet.
 - Project : Getting and Displaying Images From The Internet
 - Project : Filtering and Detail Views with Internet Data
-- {{< contentlink path="projects/kotlin/project-8/repository" flavour="kotlin">}}
+- {{< contentlink path="projects/kotlin/project-8/repository" flavour="kotlin" >}}
 
 ## Styles, Design, Colours, Dimensions
 
