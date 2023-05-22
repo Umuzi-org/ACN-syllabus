@@ -13,7 +13,7 @@ submission_type: repo
 title: 'Coding aptitude assessment challenge: Task 9'
 ---
 
-Write a function that takes in a string and then returns all the vowels in the string as a list or array.
+Write a function that takes in a string and then returns all the vowels in the string.
 
 The returned vowels should be:
 
@@ -22,26 +22,15 @@ The returned vowels should be:
 
 If a vowel appears twice in the input string then it should appear twice in the output.
 
-Example usage:
+## Language specific instructions
+
+- if you are using Python then your function should return a List 
+- if you are writing Javascript then your function should return an Array
+- if you are writing Java then your function should return an Array of Strings
+
+## Example usage
 
 `task9("Hello there Andy")` should return `["a","e","e","e","o"]`
-
-**For java**
-
-Write a function that takes in a string and then returns all the vowels in the string as an array.
-
-Ensure that your function is wrapped by a public class, in other words it should ***compile***
-
-The returned vowels should be:
-
-- lowercase
-- in alphabetical order
-
-If a vowel appears twice in the input string then it should appear twice in the output.
-
-Example usage:
-
-`task9("Hello there Andy")` should return `[a, e, e, e, o]`
 
 ## Check your understanding 
 
