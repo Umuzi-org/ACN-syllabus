@@ -42,7 +42,7 @@ Please name your files and folders like this:
 
 The reason for this is that we have automations that will mark your work. If your work is not organised correctly then our friendly robot wont be able to mark your work.
 
-If you want to learn more, check this out: {{% contentlink path="topics/python-specific/automated-testing-with-pytest" %}}
+If you want to learn more, check this out: {{< contentlink path="topics/python-specific/automated-testing-with-pytest" >}}
 
 ### Java
 
@@ -64,7 +64,7 @@ The code you push to git should have the following structure:
             └── Person.java <-------- names are important
 ```
 
-Please refer to the following to find out more: {{% contentlink path="topics/java-specific/project-submission-requirements" %}}
+Please refer to the following to find out more: {{< contentlink path="topics/java-specific/project-submission-requirements" >}}
 
 ## Instructions
 

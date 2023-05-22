@@ -69,4 +69,4 @@ order_instance.get_total_price()
 
 ## Additional Resources
 
-- {{% contentlink path="topics/basic-architecture-concepts" %}}
+- {{< contentlink path="topics/basic-architecture-concepts" >}}

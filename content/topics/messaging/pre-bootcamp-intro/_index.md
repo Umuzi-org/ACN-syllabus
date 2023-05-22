@@ -101,4 +101,4 @@ The bootcamp will be a 2 week process. We'll introduce that to you separately. T
 
 Take a look at the following link. It'll tell you a bit more about what you are signing up for :)
 
-{{% contentlink path="topics/messaging/umuzi-recruit-user-journey" %}}
+{{< contentlink path="topics/messaging/umuzi-recruit-user-journey" >}}

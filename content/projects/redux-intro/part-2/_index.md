@@ -29,6 +29,6 @@ Demonstrate your understanding of `combineReducers`.
 
 Make sure that you organise your code according to the architectural guidelines already covered here:
 
-{{% contentlink path="topics/web-frontend/react/redux-architecture" flavour="react,redux" %}}
+{{< contentlink path="topics/web-frontend/react/redux-architecture" flavour="react,redux" >}}
 
 It's likely that you will need to refactor a lot of your work.

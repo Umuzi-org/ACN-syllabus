@@ -105,7 +105,7 @@ Now don't add any reviewers. Because it will make Mother Theresa sad.
 
 #### Video Tutorial for parts 1 & 2 below
 
-{{% youtube KyDxI7gOQbo %}}
+{{< youtube KyDxI7gOQbo >}}
 
 ### 3. Get your Pull Request merged
 

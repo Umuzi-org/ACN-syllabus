@@ -57,7 +57,7 @@ Your project is expected to be completed using `pytest`. You are expected to fol
 ```
 
 Please take a look at this topic to see an explanation of the required directory structure.
-{{% contentlink path="topics/python-specific/automated-testing-with-pytest" %}}
+{{< contentlink path="topics/python-specific/automated-testing-with-pytest" >}}
 
 ### Java
 
@@ -81,7 +81,7 @@ The code you push to git should have the following structure:
             └── ???.java             <-------- names are important
 ```
 
-Please refer to the following to find out more: {{% contentlink path="topics/java-specific/project-submission-requirements" %}}
+Please refer to the following to find out more: {{< contentlink path="topics/java-specific/project-submission-requirements" >}}
 
 ## Instructions
 

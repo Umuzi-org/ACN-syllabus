@@ -48,7 +48,7 @@ Your project is expected to be completed using pytest. You are expected to follo
 ```
 
 Please take a look at this topic to see an explanation of the required directory structure.
-{{%contentlink "topics/python-specific/automated-testing-with-pytest" %}}
+{{< contentlink "topics/python-specific/automated-testing-with-pytest" >}}
 
 ### Java
 
@@ -68,7 +68,7 @@ Please use junit to test your code https://www.guru99.com/junit-test-framework.h
 
 ## Instructions
 
-Before you commence, first read through {{% contentlink path="/topics/data_validation_and_verification/" %}}. Upon completion, read through {{% contentlink path="/topics/regular-expressions/" %}}.
+Before you commence, first read through {{< contentlink path="/topics/data_validation_and_verification/" >}}. Upon completion, read through {{< contentlink path="/topics/regular-expressions/" >}}.
 
 Please note that this project should be done in a TDD manner.
 
@@ -183,7 +183,7 @@ add("//***\n1***2***3")
 
 ### Why is this important?
 
-- If you are wondering, "Why is this so important!?" take a look at {{% contentlink path="/topics/data_validation_and_verification/" %}}
+- If you are wondering, "Why is this so important!?" take a look at {{< contentlink path="/topics/data_validation_and_verification/" >}}
 
 ## Instructions for reviewers
 

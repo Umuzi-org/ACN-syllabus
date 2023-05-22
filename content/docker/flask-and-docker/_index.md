@@ -14,7 +14,7 @@ submission_type: continue_repo
 title: Flask and docker
 ---
 
-Before you do this, please revise {{% contentlink path="docker/intro-to-docker" %}}. You are going to need to have solid understanding of all the **Advanced Topics**. If you are having issues with setting up Docker Desktop on Windows, please visit this follow this topic {{% contentlink path="docker/docker-desktop-troubleshooting" %}}.
+Before you do this, please revise {{< contentlink path="docker/intro-to-docker" >}}. You are going to need to have solid understanding of all the **Advanced Topics**. If you are having issues with setting up Docker Desktop on Windows, please visit this follow this topic {{< contentlink path="docker/docker-desktop-troubleshooting" >}}.
 
 Make sure you understand:
 

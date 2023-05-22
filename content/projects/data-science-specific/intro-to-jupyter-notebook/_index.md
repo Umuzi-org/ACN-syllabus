@@ -46,4 +46,4 @@ basic skills you will need to complete the assignment.
 - [Python For Data Science Cheat Sheets](http://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf)
 - [Jupyter Notebook Keyboard Shortcuts](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/pdf_bw/)
 - [Basic Python 3 Programming for Scientists](http://www.sixthresearcher.com/didactic-materials/)
-- {{% contentlink path="topics/jupyter-notebooks-best-practices" %}}
+- {{< contentlink path="topics/jupyter-notebooks-best-practices" >}}

@@ -18,14 +18,14 @@ For the fourth project, you need to apply regex and webscraping to extract data 
 
 ### Compulsory
 
-EASY {{% contentlink path="projects/data-science-specific/dashboards/plotly_dashboards" %}}.
+EASY {{< contentlink path="projects/data-science-specific/dashboards/plotly_dashboards" >}}.
 
 ### Optional
 
-You will need the tutorial in Google Datastudio {{% contentlink path="topics/data-science-specific/google-data-studio" %}}
+You will need the tutorial in Google Datastudio {{< contentlink path="topics/data-science-specific/google-data-studio" >}}
 
-EASY {{% contentlink path="projects/data-science-specific/dashboards/google_data_studio" %}}
+EASY {{< contentlink path="projects/data-science-specific/dashboards/google_data_studio" >}}
 
-HARD:{{% contentlink path="projects/data-science-specific/dashboards/live_dashboards" %}}
+HARD:{{< contentlink path="projects/data-science-specific/dashboards/live_dashboards" >}}
 
-HARD:{{% contentlink path="projects/data-science-specific/dashboards/webscraping_plus_dashboards" %}}
+HARD:{{< contentlink path="projects/data-science-specific/dashboards/webscraping_plus_dashboards" >}}

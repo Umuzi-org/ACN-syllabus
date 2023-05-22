@@ -28,8 +28,8 @@ Your manager will also need to review your plan of action once it is merged. Ple
 
 ## Projects
 
-- {{% contentlink path="projects/capstone-projects/chrome-extension-tie-spent-in-hangouts" %}}
-- {{% contentlink path="projects/capstone-projects/spaced-repitition-machine" %}}
-- {{% contentlink path="projects/capstone-projects/quizmaster" %}}
-- {{% contentlink path="projects/capstone-projects/pair-stairs" %}}
-- {{% contentlink path="projects/capstone-projects/gmail-text-scraper" %}}
+- {{< contentlink path="projects/capstone-projects/chrome-extension-tie-spent-in-hangouts" >}}
+- {{< contentlink path="projects/capstone-projects/spaced-repitition-machine" >}}
+- {{< contentlink path="projects/capstone-projects/quizmaster" >}}
+- {{< contentlink path="projects/capstone-projects/pair-stairs" >}}
+- {{< contentlink path="projects/capstone-projects/gmail-text-scraper" >}}

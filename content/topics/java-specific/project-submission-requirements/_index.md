@@ -39,4 +39,4 @@ Now if you run your unit tests and everything passes (which they should before y
 
 ## Directory structure
 
-Please see this: {{% contentlink path="topics/java-specific/gradle-and-intellij-project-structure" %}}
+Please see this: {{< contentlink path="topics/java-specific/gradle-and-intellij-project-structure" >}}

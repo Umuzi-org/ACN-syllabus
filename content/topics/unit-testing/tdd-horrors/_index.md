@@ -191,5 +191,5 @@ Remove useless stuff, it serves no purpose. so get rid of it.
 ### Some useful Readings
 
 1. [Common mistakes in TDD](https://cmatskas.com/common-mistakes-in-tdd/)
-2. {{% contentlink path="/topics/unit-testing/" %}}
-3. {{% contentlink path="/topics/clean-code/" %}}
+2. {{< contentlink path="/topics/unit-testing/" >}}
+3. {{< contentlink path="/topics/clean-code/" >}}

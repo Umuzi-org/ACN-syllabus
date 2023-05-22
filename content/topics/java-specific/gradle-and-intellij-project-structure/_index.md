@@ -71,4 +71,4 @@ Now take a look at what github knows about. Everything should be looking clean a
 
 Please copy this into your projects and save it as `.gitignore`:
 
-{{% code_snippet ".gitignore" %}}
+{{< code_snippet ".gitignore" >}}

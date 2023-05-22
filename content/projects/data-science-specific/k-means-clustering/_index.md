@@ -28,7 +28,7 @@ title: K-Means Clustering Assignment
 
 ## Pre-requisites
 
-Read through the K-Means Tutorials at {{% contentlink path="topics/data-science-specific/clustering" %}} before starting this project.
+Read through the K-Means Tutorials at {{< contentlink path="topics/data-science-specific/clustering" >}} before starting this project.
 
 ## Clustering whisky distilleries according to tasting Profiles
 

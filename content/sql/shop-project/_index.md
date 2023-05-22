@@ -43,7 +43,7 @@ title: Shop Database using sql
 
 ### IMPORTANT
 
-You should know about clean sql code by now. If you need a refresher please take a look here: {{% contentlink path="topics/clean-code/sql" %}}
+You should know about clean sql code by now. If you need a refresher please take a look here: {{< contentlink path="topics/clean-code/sql" >}}
 
 The names of the tables and columns described in this project are funky (not in a good way).
 
@@ -168,4 +168,4 @@ NB! Be sure to label you answers by putting the question above the code that ans
   - A new `.md` file needs to be present in the repo where the learner has documented what information is in which table and how the tables and which keys link the records between tables. They should not edit the `README.md` file because they didn't create it and it serves it's own purpose.
 
     - topics/clean-code/sql
-- Did the learner adapt the naming conventions so that they matched those specified in {{% contentlink path="topics/clean-code/sql"%}}
+- Did the learner adapt the naming conventions so that they matched those specified in {{< contentlink path="topics/clean-code/sql" >}}

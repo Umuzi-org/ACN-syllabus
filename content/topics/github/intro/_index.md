@@ -30,7 +30,7 @@ Github has a few competitors. For example [GitLab](https://gitlab.com/) and [Bit
 During your course here with us, you'll be expected to use GitHub like a professional developer. Professional developers use the "command line". The documentation we give you here should help you get to grips with the basics of what git and GitHub are about. But we don't do things that way.
 
 You'll learn more about how to use the command line in this project:
-{{% contentlink path="projects/git-exercises" %}}. We'll cover that later, but if you feel like doing that now, go wild :)
+{{< contentlink path="projects/git-exercises" >}}. We'll cover that later, but if you feel like doing that now, go wild :)
 
 Generally, you'll be expected to use the command line for anything to do with:
 - downloading code

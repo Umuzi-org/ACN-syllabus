@@ -8,4 +8,4 @@ tags:
 title: FreeCodeCamp - Maths for Programmers - Sets and Logic
 ---
 
-{{% youtube 2SpuBqvNjHI %}}
+{{< youtube 2SpuBqvNjHI >}}

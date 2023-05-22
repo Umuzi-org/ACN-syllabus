@@ -16,7 +16,7 @@ tags:
 title: string-calculator part 2
 ---
 
-This a continuation of {{% contentlink path="projects/tdd/string-calculator-part-1" %}}. All the functionality developed there should still work here.
+This a continuation of {{< contentlink path="projects/tdd/string-calculator-part-1" >}}. All the functionality developed there should still work here.
 
 
 ## Instructions

@@ -6,5 +6,5 @@ submission_type: nosubmit
 title: Animals
 ---
 
-- {{% contentlink path="projects/oop/animals/part1" %}}
-- {{% contentlink path="projects/oop/animals/part2" %}}
+- {{< contentlink path="projects/oop/animals/part1" >}}
+- {{< contentlink path="projects/oop/animals/part2" >}}

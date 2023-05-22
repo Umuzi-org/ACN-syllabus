@@ -15,7 +15,7 @@ title: 'Assessment: Basic data analysis - part 2'
 
 ## Note about submission format
 
-On Tilde you'll notice that this card is asking for a link submission. **Please don't worry about submitting a link**. You will be assessed according to {{% contentlink path="specific-skill-success-criteria/introduction-to-assessments" %}}.
+On Tilde you'll notice that this card is asking for a link submission. **Please don't worry about submitting a link**. You will be assessed according to {{< contentlink path="specific-skill-success-criteria/introduction-to-assessments" >}}.
 
 ## All concepts
 

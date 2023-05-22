@@ -75,7 +75,7 @@ There isn't one standard to rule all standards. Different teams and organisation
 
 Please refer to this project to see a bit more about how you'll be expected to organise your code during this course:
 
-{{% contentlink path="projects/tdd/simple-calculator-part1" %}}
+{{< contentlink path="projects/tdd/simple-calculator-part1" >}}
 
 #### Naming conventions
 
@@ -111,7 +111,7 @@ Different languages have different conventions and reasons for those conventions
 
 To see an example of the file/folder naming conventions used in this course pelase see:
 
-{{% contentlink path="projects/tdd/simple-calculator-part1" %}}
+{{< contentlink path="projects/tdd/simple-calculator-part1" >}}
 
 #### Files and folders
 
