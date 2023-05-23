@@ -65,10 +65,12 @@ module.exports = { YOUR_FUNCTION_NAME };
 
 - Even though the instructions will specifically ask for a function, please don't submit only the function/method. Make sure that there is a wrapping public class in your code.
 
-E.g The following code is incorrect:
+E.g. If you have a file called `Task1.java` where you are required to write a function called `task1` which returns the sum of `num1` and `num2`;
+
+Then following code is incorrect:
 
 ```
-public static int foo(int num1, int num2) {
+public static int task1(int num1, int num2) {
     return num1 + num2;
 }
 ```
@@ -76,9 +78,9 @@ public static int foo(int num1, int num2) {
 But the following code is correct:
 
 ```
-public class MyClass {
+public class Task1 {
     
-    public static int foo(int num1, int num2) {
+    public static int task1(int num1, int num2) {
         return num1 + num2;
     }
 
