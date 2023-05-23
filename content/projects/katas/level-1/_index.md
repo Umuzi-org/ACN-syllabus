@@ -65,6 +65,26 @@ module.exports = { YOUR_FUNCTION_NAME };
 
 - Even though the instructions will specifically ask for a function, please don't submit only the function/method. Make sure that there is a wrapping public class in your code.
 
+E.g The following code is incorrect:
+
+```
+public static int foo(int num1, int num2) {
+    return num1 + num2;
+}
+```
+
+But the following code is correct:
+
+```
+public class MyClass {
+    
+    public static int foo(int num1, int num2) {
+        return num1 + num2;
+    }
+
+}
+```
+
 ## What does success look like?
 
 Katas are pretty common in coding (and martial arts). Katas are about practicing and perfecting fundamental skills. There are a few different skills we need to see here.
