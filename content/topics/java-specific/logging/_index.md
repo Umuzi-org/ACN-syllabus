@@ -9,7 +9,7 @@ tags:
 title: Java Logging with Log4j
 ---
 
-Please make sure you read and understand this before moving forward: {{% contentlink path="/topics/logging" %}}
+Please make sure you read and understand this before moving forward: {{< contentlink path="/topics/logging" >}}
 
 Ok, so now you know about what logging is and why we do it, we're going to dig a bit more into some specific details about how to do this stuff in Java.
 

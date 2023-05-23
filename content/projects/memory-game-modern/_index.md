@@ -7,7 +7,7 @@ submission_type: repo
 title: 'Memory Game: rebuild using a modern web frontend framework'
 ---
 
-Take a look at this: {{% contentlink path="projects/memory-game/part-1" %}}
+Take a look at this: {{< contentlink path="projects/memory-game/part-1" >}}
 
 ## Instructions
 

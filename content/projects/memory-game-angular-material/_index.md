@@ -9,6 +9,6 @@ submission_type: repo
 title: Memory game using Angular Material
 ---
 
-Take a look at this: {{% contentlink path="projects/memory-game/part-1" %}}
+Take a look at this: {{< contentlink path="projects/memory-game/part-1" >}}
 
 Please build it using Angular Material

@@ -35,8 +35,8 @@ Learning is not a passive thing. If the follower is not actively practicing a sk
 
 ## Types of sessions
 
-- {{% contentlink path="learning-how-to-teach-coders/deep-practice-foundational-skills" %}}
-- {{% contentlink path="learning-how-to-teach-coders/problem-solving-based-on-tests" %}}
-- {{% contentlink path="learning-how-to-teach-coders/polishing-projects" %}}
-- {{% contentlink path="learning-how-to-teach-coders/quizzes" %}}
-- {{% contentlink path="learning-how-to-teach-coders/debugging" %}}
+- {{< contentlink path="learning-how-to-teach-coders/deep-practice-foundational-skills" >}}
+- {{< contentlink path="learning-how-to-teach-coders/problem-solving-based-on-tests" >}}
+- {{< contentlink path="learning-how-to-teach-coders/polishing-projects" >}}
+- {{< contentlink path="learning-how-to-teach-coders/quizzes" >}}
+- {{< contentlink path="learning-how-to-teach-coders/debugging" >}}

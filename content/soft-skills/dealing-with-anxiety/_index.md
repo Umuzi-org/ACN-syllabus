@@ -24,7 +24,7 @@ You can reduce the negative effects of anxiety by preparing yourself for stressf
 
 It's worth knowing a bit about how anxiety works in humans. This ted talk has a good overview.
 
-{{% youtube  oITW0XsZd3o %}}
+{{< youtube  oITW0XsZd3o >}}
 
 ### Let's talk about spiders
 
@@ -66,7 +66,7 @@ Interviews can be scaaaaary! But if you break it down it's just a focused conver
 
 ### Practice resources 
 
-There are a lot of ways to practice tests and interviews. You can see a few recommendations in this topic {{% contentlink path="employability-sprint/interview-prep" %}}
+There are a lot of ways to practice tests and interviews. You can see a few recommendations in this topic {{< contentlink path="employability-sprint/interview-prep" >}}
 
 
 ### Catastrophising 

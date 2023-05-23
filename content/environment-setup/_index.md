@@ -17,10 +17,10 @@ We run quite a few different courses so if you are unsure what language you'll b
 
 Please follow the instructions below based on the language you are going to be using.
 
-- {{% contentlink path="environment-setup/javascript-on-computer" %}}
-- {{% contentlink path="environment-setup/python-on-computer" %}}
-- {{% contentlink path="environment-setup/java-on-computer" %}}
-- {{% contentlink path="environment-setup/datascience-extras-on-computer" %}}
+- {{< contentlink path="environment-setup/javascript-on-computer" >}}
+- {{< contentlink path="environment-setup/python-on-computer" >}}
+- {{< contentlink path="environment-setup/java-on-computer" >}}
+- {{< contentlink path="environment-setup/datascience-extras-on-computer" >}}
 
 ## If you have an Android device
 
@@ -30,9 +30,9 @@ You'll need to install Acode: This is where you will edit your code: https://pla
 
 Using ACode: https://www.youtube.com/watch?v=XZAc-imlq88 This video focuses on JavaScript, but don't panic if you are doing something else. The editor can be used to write all sorts of things.
 
-- {{% contentlink path="environment-setup/python-extras-on-android" %}}
-- {{% contentlink path="environment-setup/java-extras-on-android" %}}
-- {{% contentlink path="environment-setup/datascience-extras-on-android" %}}
+- {{< contentlink path="environment-setup/python-extras-on-android" >}}
+- {{< contentlink path="environment-setup/java-extras-on-android" >}}
+- {{< contentlink path="environment-setup/datascience-extras-on-android" >}}
 
 ## If you have an iPhone
 

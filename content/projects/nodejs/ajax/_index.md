@@ -51,4 +51,4 @@ Update the "thank you page" so that it only displays for 3 seconds and then redi
 
 ## Resources
 
-- {{% contentlink path="topics/intro-to-ajax" %}}
+- {{< contentlink path="topics/intro-to-ajax" >}}

@@ -60,6 +60,6 @@ Make use of the pug template engine to render the "Thank you" page
 
 ### Resources
 
-- {{% contentlink path="topics/js-and-node-specific/expressjs/" %}}
-- {{% contentlink path="topics/js-and-node-specific/template-engines" %}}
-- {{% contentlink path="topics/js-and-node-specific/fetch" %}}
+- {{< contentlink path="topics/js-and-node-specific/expressjs/" >}}
+- {{< contentlink path="topics/js-and-node-specific/template-engines" >}}
+- {{< contentlink path="topics/js-and-node-specific/fetch" >}}

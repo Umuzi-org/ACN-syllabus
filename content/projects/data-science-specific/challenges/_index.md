@@ -11,4 +11,4 @@ for yourself what techniques would be best to use.
 
 ## Determine whether a computer network has been breached
 
-Complete and submit {{% contentlink path="projects/data-science-specific/challenges/network-intrusion" %}}
+Complete and submit {{< contentlink path="projects/data-science-specific/challenges/network-intrusion" >}}

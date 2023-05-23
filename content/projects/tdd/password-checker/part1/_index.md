@@ -2,18 +2,18 @@
 _db_id: 269
 content_type: project
 flavours:
-- any_language
+  - any_language
 prerequisites:
   hard:
-  - projects/tdd/simple-calculator-part1
-  - language-agnostic/validate-id-number
+    - projects/tdd/simple-calculator-part1
+    - language-agnostic/validate-id-number
   soft: []
 ready: true
 story_points: 3
 submission_type: repo
 tags:
-- tdd
-- error-checking
+  - tdd
+  - error-checking
 title: password-checker
 ---
 
@@ -36,7 +36,11 @@ Your directory structure should look like this.
 └── package.json
 ```
 
-**Note:** Remember to export the `passwordIsValid` and `passwordStrength` functions from their respective files.
+**Note:** Remember to export the `passwordIsValid` and `passwordStrength` functions from their respective files. Use the following named export syntax:
+
+```
+module.exports = { firstFunctionName, secondFunctionName }
+```
 
 ### Python
 
@@ -53,7 +57,7 @@ Your project is expected to be completed using `pytest`. You are expected to fol
 ```
 
 Please take a look at this topic to see an explanation of the required directory structure.
-{{% contentlink path="topics/python-specific/automated-testing-with-pytest" %}}
+{{< contentlink path="topics/python-specific/automated-testing-with-pytest" >}}
 
 ### Java
 
@@ -77,7 +81,7 @@ The code you push to git should have the following structure:
             └── ???.java             <-------- names are important
 ```
 
-Please refer to the following to find out more: {{% contentlink path="topics/java-specific/project-submission-requirements" %}}
+Please refer to the following to find out more: {{< contentlink path="topics/java-specific/project-submission-requirements" >}}
 
 ## Instructions
 

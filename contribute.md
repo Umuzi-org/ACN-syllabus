@@ -35,7 +35,7 @@ if an issue has the `status/issue-claimed` label please skip it and if you a beg
 
 1. Please always run the hugo site locally and look at the site with your eyes before making a PR. If it looks weird an buggy, broken or missing, then please fix it
 2. Always run the linter before making a PR. If the linter fails then we will be sad.
-3. Dont hardcode links to content. Rather use the contentlink shortcode. Eg: {{% contentlink path="topics/web-frontend/react/intro-to-react" %}}. This renders all cool like and it is meaningful to Tilde and the linter.
+3. Dont hardcode links to content. Rather use the contentlink shortcode. Eg: {{< contentlink path="topics/web-frontend/react/intro-to-react" >}}. This renders all cool like and it is meaningful to Tilde and the linter.
 
 ## <a name="ds"></a> Directory structure
 
@@ -223,13 +223,13 @@ For example:
 
 ```
 Web devs ned to do this:
-- {{% contentlink path="projects/oop/animals/part2"  flavour="javascript" %}}
+- {{< contentlink path="projects/oop/animals/part2"  flavour="javascript" >}}
 
 And data engineers should rather do this
-- {{% contentlink path="projects/oop/animals/part2"  flavour="python" %}}
+- {{< contentlink path="projects/oop/animals/part2"  flavour="python" >}}
 
 You can also pick multiple flavours, like so:
-- {{% contentlink path="projects/memory-game/part-2" flavour="react,redux" %}}
+- {{< contentlink path="projects/memory-game/part-2" flavour="react,redux" >}}
 
 ```
 

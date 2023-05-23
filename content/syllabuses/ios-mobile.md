@@ -12,7 +12,7 @@ _db_id: 17
 - Topic : iOS Overview
 - Topic : MVC
 - Topic : Swift Development and other Tools
-- {{% contentlink path="projects/ios-mobile/swift-and-more" flavour="swift" %}}
+- {{< contentlink path="projects/ios-mobile/swift-and-more" flavour="swift" >}}
 
 ## More Swift and Gestures
 
@@ -26,7 +26,7 @@ _db_id: 17
 
 - Topic : Animation
 
-- {{% contentlink path="projects/ios-mobile/swift-and-gestures-animations" flavour="swift" %}}
+- {{< contentlink path="projects/ios-mobile/swift-and-gestures-animations" flavour="swift" >}}
 
 ## Multithreading Layout and Functionality
 
@@ -42,21 +42,21 @@ _db_id: 17
 
 - Topic : More about Documents and Persistence Demo
 
-- {{% contentlink path="projects/ios-mobile/multithreading-layout-and-functionality" flavour="swift" %}}
+- {{< contentlink path="projects/ios-mobile/multithreading-layout-and-functionality" flavour="swift" >}}
 
 ## Multithreading Layout and Other Functionality
 
-- {{% contentlink path="projects/ios-mobile/timer-segues-autolayout" flavour="swift" %}}
+- {{< contentlink path="projects/ios-mobile/timer-segues-autolayout" flavour="swift" >}}
 
 ## Drag and Drop, Multithreading and Delegation
 
-- {{% contentlink path="projects/ios-mobile/drag-and-drop-multithreading-delegation" flavour="swift" %}}
+- {{< contentlink path="projects/ios-mobile/drag-and-drop-multithreading-delegation" flavour="swift" >}}
 
 ## Codable, File Manager, URL
 
-- {{% contentlink path="projects/ios-mobile/codable-file-manager-url" flavour="swift" %}}
+- {{< contentlink path="projects/ios-mobile/codable-file-manager-url" flavour="swift" >}}
 
 ## Unit Testing
 
 - Topic : TDD and Unit Testing
-- {{% contentlink path="projects/ios-mobile/unit-testing" flavour="swift" %}}
+- {{< contentlink path="projects/ios-mobile/unit-testing" flavour="swift" >}}

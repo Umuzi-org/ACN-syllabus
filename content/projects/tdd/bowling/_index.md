@@ -66,4 +66,4 @@ PLEASE DO NOT IMPLEMENT A FANCY GUI. We don't care to see the bowling pins or th
 
 This is not a simple project. To build something awesome you should be aware of a few architectural concepts.
 
-- {{% contentlink path="topics/basic-architecture-concepts" %}}
+- {{< contentlink path="topics/basic-architecture-concepts" >}}

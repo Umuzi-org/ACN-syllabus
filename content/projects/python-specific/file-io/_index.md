@@ -74,7 +74,7 @@ charlie.comments = "Winning!"
 charlie.save() # results in an UPDATE to visitor_3.json
 ```
 
-6. Add tests to your project to make sure all the functions are working as specified. Since you'll be interacting with files, you'll need to know about mocks. Check out the python resources from here {{% contentlink path="topics/unit-testing-mocks-and-spies" %}}.
+6. Add tests to your project to make sure all the functions are working as specified. Since you'll be interacting with files, you'll need to know about mocks. Check out the python resources from here {{< contentlink path="topics/unit-testing-mocks-and-spies" >}}.
 
 ## Instructions for reviewer
 

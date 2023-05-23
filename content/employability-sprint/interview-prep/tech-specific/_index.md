@@ -73,7 +73,7 @@ Sometimes when people panic, they start to jump from question to question. This 
 
 One thing worth knowing is that if you do well at your work you will probably get promoted to a position where there is a lot of pressure. Anxiety is part of the job! Anxiety is also very normal so there is a lot of wisdom out there that you can tap into.
 
-For more information about anxiety please read this  {{% contentlink path="soft-skills/dealing-with-anxiety" %}}
+For more information about anxiety please read this  {{< contentlink path="soft-skills/dealing-with-anxiety" >}}
 
 ## In-Person Technical Interviews
 Lots of companies only do these after you’ve done “well enough” on an automated test, but some prefer to do these earlier in the process. Either way, the preparation discussed in the section on automated technical tests should power you up quite well for these as well. 

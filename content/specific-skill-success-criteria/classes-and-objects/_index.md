@@ -12,7 +12,7 @@ title: 'Assessment: Classes and objects'
 
 ## Note about submission format
 
-On Tilde you will notice that this card is asking for a link submission. **Please don't worry about submitting a link**. You will be assessed according to {{% contentlink path="specific-skill-success-criteria/introduction-to-assessments" %}}
+On Tilde you will notice that this card is asking for a link submission. **Please don't worry about submitting a link**. You will be assessed according to {{< contentlink path="specific-skill-success-criteria/introduction-to-assessments" >}}
 
 You need to prove that you understand the following concepts:
 - how constructors work

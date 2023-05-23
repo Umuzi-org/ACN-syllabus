@@ -20,7 +20,7 @@ This should happen after a test. Try to choose either:
 
 The focus of these events is problem solving. The focus is not getting the answers to the test, the follower needs to know HOW to derive to the answer to similar and harder questions. So it's about problem solving technique.
 
-This should help: {{% contentlink path="language-agnostic/problem-solving-technique" %}}
+This should help: {{< contentlink path="language-agnostic/problem-solving-technique" >}}
 
 If it becomes clear that the follower is missing foundational skills then fall back to the deep practice technique. Zoom in on the specific skill they are missing.
 

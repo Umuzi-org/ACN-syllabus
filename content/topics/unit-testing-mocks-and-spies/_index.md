@@ -129,7 +129,7 @@ If you are writing pointless code then you are doing it wrong. Mocks and spies e
 
 ## JS Resources
 
-{{% contentlink path="topics/jasmine-spies" %}}
+{{< contentlink path="topics/jasmine-spies" >}}
 
 ## Java Resource
 - [Work through tutorial](https://www.youtube.com/watch?v=xXO8ft-tsrY)

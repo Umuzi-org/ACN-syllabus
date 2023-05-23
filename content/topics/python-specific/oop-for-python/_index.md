@@ -30,4 +30,4 @@ https://realpython.com/python3-object-oriented-programming/
 
 The code below demonstrates composition and a little bit of inheritance. There is a lot more to be said about OOP.
 
-{{% code_snippet "cars.py" %}}
+{{< code_snippet "cars.py" >}}

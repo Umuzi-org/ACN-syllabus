@@ -20,7 +20,7 @@ Create a technical report based on your "Design Thinking Sprint" (DTS) or your "
 
 If you did not attend the above or no longer have access to your project you will need to conduct research on game design. 
 
-Ensure this document meets the standards and criteria in {{% contentlink path="national-qualifications-framework/ncit/content/write-a-report" %}}
+Ensure this document meets the standards and criteria in {{< contentlink path="national-qualifications-framework/ncit/content/write-a-report" >}}
 
 How it should be labelled: FirstName LastName - Technical Report
 

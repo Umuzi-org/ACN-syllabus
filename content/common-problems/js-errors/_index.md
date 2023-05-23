@@ -85,4 +85,4 @@ if(typeof number !== 'number') {
 
 For more info see here:
 
-- {{% contentlink path="topics/javascript-error-handling" %}}
+- {{< contentlink path="topics/javascript-error-handling" >}}
