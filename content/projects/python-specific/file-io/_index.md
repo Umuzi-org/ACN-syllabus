@@ -80,7 +80,7 @@ charlie.save() # results in an UPDATE to visitor_3.json
 
 - The load function should return a visitor instance and not just print the visitor data.
 - Edge cases should be catered for. The learner should make sure that the load function takes in the proper data type.
-- The learner should use mocks if/when testing this project - since the project requires interacting with the file system.
 - Please pay careful attention to DRY code. How do you do this:
+- **If the learner completed point 6 under "Up for a challenge?"** the learner should use mocks if/when testing this project - since the project requires interacting with the file system.
 
  > Imagine that the code produced by the learner needs to be maintained and some parts of the code will have to change over time. Ideally, changes to the code should be made just once, and that change should affect everything else without going through the file(s) looking to change the same thing.
