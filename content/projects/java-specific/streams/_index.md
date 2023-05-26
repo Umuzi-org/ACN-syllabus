@@ -23,8 +23,8 @@ The requirements here is that you should have already submitted your semitone pr
 Pretty simple just use atleast three operators of streams to refactor your implementation of the semitone challenge, make sure you test your logic aspecially the paths that use streams.
 
 
-#### Instructions to the review
-- Ensure they used three or more stream function
+#### Instructions for reviewer
 
-- Ensure they have tests that cover logic where streams are used
+- Ensure that 3 or more stream functions are used.
 
+- Ensure that tests exist, they should test the logic where streams are used.
