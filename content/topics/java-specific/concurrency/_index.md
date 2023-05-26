@@ -75,7 +75,7 @@ public void execute() {
 
 ```
 
-### What is Parallelism
+## What is Parallelism
 
 Parallelism is the ability to execute independent tasks of a program in the same instant of time. Contrary to concurrent tasks, these tasks can run simultaneously on another processor core, another processor, or an entirely different computer that can be a distributed system. As the demand for computing speed from real-world applications increases, parallelism becomes more common and affordable.
 
