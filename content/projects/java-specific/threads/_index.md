@@ -15,22 +15,18 @@ title: Java Threads
 
 ## The Chicken and the Farmer
 
-In this project you are going to create a `Chicken` function and a `Farmer` function each following these rules
+In this project you are going to create a two functions, one should be called `chicken` and the other should be called `farmer`. Both these functions should follow the following rules:
 
-1. Have the Chicken and the Farmer run on different threads
+1. They should run on different threads.
 
-2. The Chicken should put eggs in a Basket ***(static array/list of size 1)*** and the Farmer should take eggs from the basket
+2. The chicken function should put eggs in a Basket ***(static array/list of size 1)*** and the farmer function should take eggs from the basket.
 
-3. The Farmer cannot take from an empty basket
+3. The Farmer cannot take from an empty basket.
 
-4. The Chicken cannot add to a full basket
+4. The Chicken cannot add to a full basket.
 
-5. The basket is full if it has 1 egg
-
+5. The basket is considered full if it has 1 egg.
 
 We kept the instructions open-ended on purpose. This is meant to have a bit of room for interpretation, there is no one perfect solution to this. We are very interested to see how you structure your solution.
 
-Oh yeah, and remember to test your work. Always.
-
-
-
+Remember to test your work. Always.
