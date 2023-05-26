@@ -24,15 +24,15 @@ Implement the following methods, each should return a lambda expression performi
 
 3. A method called `isPrime`: The lambda expression must return true if the number is Prime (3) or false if it is not a not Prime (4)
 
-Then you must get a number from the standard input which will go through all three functions and return the correct strings
+Once the obove has been implemented, you must get a number from the standard input which will go through all three functions and return the correct strings
 
-4. If the user enters 77 in the standard input then you should **Print!** 
+4. If the user enters 77 in the standard input then you should **Print** the following: 
 
 ```
  Number is: Odd, Palindrome and NotPrime
 ```
 
-Then give the user an Opportunity to enter another number
+The user should be able to to enter another number in the standard input.
 
 
 **Example2: User types 43 this time**
@@ -44,7 +44,8 @@ Then give the user an Opportunity to enter another number
 ***ALL FUNCTIONS MUST BE TESTED***
 
 
-#### Note to reviewer
-- All three function return lambada expressions
-- All functions are tested
-- Where things should be returned are returned and where they should be printed they are printed
+#### Instructions for reviewers
+
+- Ensure that all three functions should return lambada expressions.
+
+- Ensure that every function is tested.
