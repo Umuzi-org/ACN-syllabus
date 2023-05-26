@@ -7,11 +7,10 @@ tags:
 title: Java Multithread, Concurrency and Parallelism
 ---
 
-## Have you heard?
 
-I am sure by now you have heard about java being multi-threaded, what does that mean exactly?
+By now, you should have heard about java being multi-threaded - but what does that mean exactly?
 
-Unlike for example JavaScript which is a single threaded language, Javaw has multiple threads to help you run your program faster. 
+Unlike JavaScript for example - which is a single threaded language; Java has multiple threads to help you run your program faster. 
 
 ## What is Multithreading
 
@@ -27,12 +26,9 @@ Multithreading means that you have multiple threads of execution inside the same
 // Thread definition used here where Runnable is a functional interface
 Thread(Runnable r)
 
-
 // so to create a new thread you would do it like this
 class Test {
-    public static void main(String args[])
-    {
- 
+    public static void main(String args[]) {
         // lambda expression to create the object
         new Thread(() -> {
             System.out.println("New thread created");
@@ -46,9 +42,9 @@ class Test {
 
 Concurrency actually means that multiple tasks can be executed in an overlapping time period. One of the tasks can begin before the preceding one is completed; however, they won’t be running at the same time. The CPU will adjust time slices per task and appropriately switch contexts. That’s why this concept is quite complicated to implement and especially debug.
 
-there are many components/utilities in the concurrency package, one of the commonly used one is ***Executor***
+There are many components/utilities in the concurrency package, one of the commonly used one is ***Executor***
 
-**Executor:** is a set of interfaces that represents an object whose implementation executes tasks. It depends on the implementation whether the task should be run on a new thread or on a current thread. Hence, we can decouple the task execution flow from the actual task execution mechanism, using this interface.
+**Executor:** is a set of interfaces that represents an object whose implementation executes tasks. It depends on the implementation whether the task should be run on a new thread or on a current thread. This means, we can decouple the task execution flow from the actual task execution mechanism using this interface.
 
 ```
 public interface Executor {
@@ -56,7 +52,7 @@ public interface Executor {
 }
 ```
 
-In order to create an executer instance, we need to create an invoker.
+In order to create an executer instance, we need to create an invoker:
 
 ```
 public class Invoker implements Executor {
@@ -67,7 +63,7 @@ public class Invoker implements Executor {
 }
 ```
 
-Now, for the execution of the task, we can use this invoker.
+Now, for the execution of the task, we can use this invoker:
 
 ```
 public void execute() {
@@ -79,16 +75,14 @@ public void execute() {
 
 ```
 
-## What is Parallelism
+### What is Parallelism
 
 Parallelism is the ability to execute independent tasks of a program in the same instant of time. Contrary to concurrent tasks, these tasks can run simultaneously on another processor core, another processor, or an entirely different computer that can be a distributed system. As the demand for computing speed from real-world applications increases, parallelism becomes more common and affordable.
 
-
 ![concurnecy-vs-parallelism](con-vs-par.webp)
 
+#### Extra Resources
 
-
-## Resources
 - https://www.baeldung.com/cs/concurrency-vs-parallelism
 - https://www.geeksforgeeks.org/java-util-concurrent-package/
 - https://www.geeksforgeeks.org/java-util-concurrent-package/
