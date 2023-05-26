@@ -6,7 +6,6 @@ tags:
 title: Java Lambda expressions and Functional Interface
 ---
 
-
 #### What are Lambda expressions:
 
 Introduced in Java 8 Lambda expressions are anonymous(don't have names) shortcode blocks that can take parameters and return a value just like methods.
@@ -43,7 +42,6 @@ new Thread(() -> {
 }).start();
 ```
 
-
 #### Custom functional interface
 
 ```
@@ -63,11 +61,8 @@ new Thread(() -> {
   }
 ```
 
-
 #### Extra Recourses
 
 - https://www.geeksforgeeks.org/functional-interfaces-java/
 - https://www.javatpoint.com/java-8-functional-interfaces
 - https://www.baeldung.com/java-8-functional-interfaces
-
-
