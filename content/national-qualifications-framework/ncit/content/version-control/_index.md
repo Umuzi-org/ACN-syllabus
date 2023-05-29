@@ -20,9 +20,7 @@ ncit_specific_outcomes:
 ncit_standards:
 - 115362
 prerequisites:
-  hard:
-  - projects/git-exercises
-  - projects/tdd/simple-calculator-part1
+  hard: []
 ready: true
 tags:
 - git

@@ -49,8 +49,7 @@ ncit_standards:
 - 115359
 - 115384
 prerequisites:
-  hard:
-  - language-agnostic/validate-id-number
+  hard: []
 ready: true
 tags:
 - tdd

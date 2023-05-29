@@ -8,6 +8,18 @@ ncit_standards:
 prerequisites:
   hard:
   - national-qualifications-framework/ncit/content/thinking-like-a-machine
+  - language-agnostic/problem-solving-technique
+  - language-agnostic/intro-to-hackerrank
+  - coding_aptitude_assessment/coding_challenges/task_1
+  - coding_aptitude_assessment/coding_challenges/task_2
+  - coding_aptitude_assessment/coding_challenges/task_3
+  - coding_aptitude_assessment/coding_challenges/task_4
+  - coding_aptitude_assessment/coding_challenges/task_5
+  - coding_aptitude_assessment/coding_challenges/task_6
+  - coding_aptitude_assessment/coding_challenges/task_7
+  - coding_aptitude_assessment/coding_challenges/task_8
+  - coding_aptitude_assessment/coding_challenges/task_9
+  - coding_aptitude_assessment/coding_challenges/task_10
 ready: false
 submission_type: link
 tags:

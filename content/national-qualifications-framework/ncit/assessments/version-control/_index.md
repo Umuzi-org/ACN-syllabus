@@ -8,6 +8,8 @@ ncit_standards:
 prerequisites:
   hard:
   - national-qualifications-framework/ncit/content/version-control
+  - projects/git-exercises
+  - projects/tdd/simple-calculator-part1
 ready: false
 submission_type: link
 tags:

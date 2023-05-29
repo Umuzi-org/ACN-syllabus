@@ -82,8 +82,7 @@ ncit_standards:
 - 114048
 - 114049
 prerequisites:
-  hard:
-  - sql/shop-project
+  hard: []
 ready: true
 tags:
 - sql

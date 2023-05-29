@@ -9,6 +9,7 @@ ncit_standards:
 prerequisites:
   hard:
   - national-qualifications-framework/ncit/content/database-development
+  - sql/shop-project
 ready: false
 submission_type: link
 tags:

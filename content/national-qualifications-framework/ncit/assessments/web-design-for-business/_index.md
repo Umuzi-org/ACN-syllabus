@@ -8,6 +8,7 @@ ncit_standards:
 prerequisites:
   hard:
   - national-qualifications-framework/ncit/content/web-design-for-business
+  - projects/simple-website
 ready: false
 submission_type: link
 tags:

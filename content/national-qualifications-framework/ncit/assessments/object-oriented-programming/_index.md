@@ -8,6 +8,7 @@ ncit_standards:
 prerequisites:
   hard:
   - national-qualifications-framework/ncit/content/object-oriented-programming
+  - projects/oop/person
 ready: false
 submission_type: link
 tags:
