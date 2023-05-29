@@ -110,7 +110,6 @@ If you practice your skills by writing code and saving it on Github then you wil
 
 This is a very big deal! It can be really hard to get your first job as a coder. There are a LOT of people trying to break into the industry so you need to stand out. The best way you can do this is by demonstrating real skill. 
 
-
 A lot of new coders do very misguided things - they do some tutorials on the internet and then get a whole lot of shallow knowledge in a bunch of different things (remember, it's important to go deep!). They then put a whole lot of fancy words on their CV's and resumes and claim to be good at all sorts of things that they don't actually know about. 
 
 Don't do that. It's silly and harmful.
