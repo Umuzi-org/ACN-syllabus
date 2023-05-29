@@ -16,13 +16,11 @@ tags:
 title: 'NCIT assessment: Presentation Slides'
 ---
 
-Submit the final version of your presentation slides from your "design thinking sprint" (DTS) or your "make us better" (MUB) sprint to fulfill the presentation requirements.
+Submit the final version of your presentation slides from your "design thinking sprint" (DTS) or your "make us better" (MUB) sprint using [THIS TEMPLATE](https://docs.google.com/document/d/1Es5NbaEsU7rWwRZej-KSvW9Ng8LJUgKT/edit?usp=share_link&ouid=106698657596806218419&rtpof=true&sd=true)to fulfill the presentation requirements.
 
 If you did not attend the above or no longer have access to your project you will need to conduct research on game design. 
 
 Ensure this document meets the standards and criteria in {{< contentlink path="national-qualifications-framework/ncit/content/presenting-your-findings" >}}
-
-It should be labeled like: FirstName LastName - Research Notes
 
 Required format: Google Doc
 

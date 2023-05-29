@@ -16,7 +16,7 @@ tags:
 title: 'NCIT assessment: Technical Report'
 ---
 
-Create a technical report based on your "Design Thinking Sprint" (DTS) or your "Make Us Better" (MUB) to fulfil the research and technical report requirements.
+Create a technical report based on your "Design Thinking Sprint" (DTS) or your "Make Us Better" (MUB) on [THIS TEMPLATE](https://docs.google.com/document/d/1ww1Y9KEKQZS3EOTKcl4aQ__ockq3FSD7/edit?usp=share_link&ouid=106698657596806218419&rtpof=true&sd=true) to fulfil the research and technical report requirements.
 
 If you did not attend the above or no longer have access to your project you will need to conduct research on game design. 
 
