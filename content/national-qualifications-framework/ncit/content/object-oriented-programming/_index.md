@@ -40,8 +40,7 @@ ncit_specific_outcomes:
 ncit_standards:
 - 115378
 prerequisites:
-  hard:
-  - projects/oop/person
+  hard: []
 ready: true
 tags:
 - oop
