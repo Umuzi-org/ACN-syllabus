@@ -5,7 +5,7 @@ _db_id: 30
 
 - {{< contentlink path="topics/web-frontend/react/intro-to-react" >}}
 - {{< contentlink path="topics/watch-this-space" >}}
-- {{< contentlink path="projects/tilde-mockups" flavour="javascript,react" >}}
+- {{< contentlink path="projects/tilde-mockups" flavour="javascript" >}}
 - {{< contentlink path="topics/web-frontend/react/redux-architecture" >}}
 - {{< contentlink path="topics/react-redux-dev-tools" >}}
 - {{< contentlink path="topics/web-frontend/react/unit-testing" >}}
