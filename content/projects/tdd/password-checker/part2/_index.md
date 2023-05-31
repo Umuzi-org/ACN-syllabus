@@ -22,7 +22,7 @@ title: Add logging to password checker
 
 Your directory structure should look like this:
 
-```js
+```
 ├── spec
 |   ├── support
 |   |   └── jasmine.json
@@ -32,6 +32,30 @@ Your directory structure should look like this:
 |   └── password_checker.js
 |   └── logger.js // new file for setting up your logger
 └── package.json
+```
+
+### Java:
+
+Your directory structure should look like this:
+
+```
+├── build.gradle
+├── gradle
+│   └── wrapper
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
+├── gradlew
+├── gradlew.bat
+├── settings.gradle
+└── src
+    ├── main
+    |   └── java
+    |       └── PasswordChecker.java <-------- names are important
+    |       └── logging/
+    |           └── Log4j2Configuration.java
+    └── test
+        └── java
+            └── ???.java             <-------- names are important
 ```
 
 **Note**: Please export `logger`, a setup object from the new `logger.js` file(see above diagram). Exports from part-1 of the project should remain. Use the following named export syntax:
