@@ -14,15 +14,35 @@ tags:
 title: Java Lamba Expressions and Functional Interfaces
 ---
 
+## Directory structure
+
+```
+├── build.gradle
+├── gradle
+│   └── wrapper
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
+├── gradlew
+├── gradlew.bat
+├── settings.gradle
+└── src
+    ├── main
+    │   └── java
+    │       └── FunctionalInterfaceDemo.java       <-------- names are important
+    └── test
+        └── java
+            └── FunctionalInterfaceDemoTest.java   <-------- names are important
+```
+
 ## What is the number
 
-Implement the following methods, each should return a lambda expression performing a specified action:
+Create a class called `FunctionalInterfaceDemo` which implements methods called `isOdd`, `isPalidrome` and `isPrime`. Each of the methods should return a lambda expression.
 
-1. A method called `isOdd`: The lambda expression must return true if a number is odd or false if it is even.
+1. `isOdd`: The lambda expression must return true if a number is odd or false if it is even.
 
-2. A method called `isPalindrome`: The lambda expression must return true if the number is Palindrome (12321) or false if it is not a Palindrome
+2. `isPalindrome`: The lambda expression must return true if the number is Palindrome (12321) or false if it is not a Palindrome
 
-3. A method called `isPrime`: The lambda expression must return true if the number is Prime (3) or false if it is not a not Prime (4)
+3. `isPrime`: The lambda expression must return true if the number is Prime (3) or false if it is not a not Prime (4)
 
 Once the obove has been implemented, you must get a number from the standard input which will go through all three functions and return the correct strings
 
@@ -32,20 +52,14 @@ Once the obove has been implemented, you must get a number from the standard inp
  Number is: Odd, Palindrome and NotPrime
 ```
 
-The user should be able to to enter another number in the standard input.
-
-
-**Example2: User types 43 this time**
+The user should be able to to enter another number in the standard input. For example, if the user inputs 43 the second time around, then you should print the following:
 
 ```
  Number is: Odd, NotPalindrome and Prime
 ```
+Remember to test all your functions.
 
-***ALL FUNCTIONS MUST BE TESTED***
-
-
-#### Instructions for reviewers
+### Instructions for reviewers
 
 - Ensure that all three functions should return lambada expressions.
-
 - Ensure that every function is tested.
