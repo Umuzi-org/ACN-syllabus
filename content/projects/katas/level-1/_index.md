@@ -57,7 +57,7 @@ In other words, there should be no directories. Only modules.
 
 If you are writing JS code then your files would follow a similar pattern. You would just have `.js` instead of `.py` files.
 
-If you are using Java, name your files should be named like this:
+If you are using Java, your files should be named like this:
 
 ```
 ├── Task1.py
