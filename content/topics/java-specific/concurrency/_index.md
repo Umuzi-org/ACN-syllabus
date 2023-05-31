@@ -7,8 +7,7 @@ tags:
 title: Java Multithread, Concurrency and Parallelism
 ---
 
-
-By now, you should have heard about java being multi-threaded - but what does that mean exactly?
+By now, you should have heard about Java being multi-threaded - but what does that mean exactly?
 
 Unlike JavaScript for example - which is a single threaded language; Java has multiple threads to help you run your program faster. 
 
@@ -42,9 +41,9 @@ class Test {
 
 Concurrency actually means that multiple tasks can be executed in an overlapping time period. One of the tasks can begin before the preceding one is completed; however, they won’t be running at the same time. The CPU will adjust time slices per task and appropriately switch contexts. That’s why this concept is quite complicated to implement and especially debug.
 
-There are many components/utilities in the concurrency package, one of the commonly used one is ***Executor***
+There are many components/utilities in the concurrency package, one of the commonly used one is `Executor`.
 
-**Executor:** is a set of interfaces that represents an object whose implementation executes tasks. It depends on the implementation whether the task should be run on a new thread or on a current thread. This means, we can decouple the task execution flow from the actual task execution mechanism using this interface.
+The Executor interface represents an object that executes tasks. Depending on the implementation, the task can be run on either a new thread or the current thread. This decoupling of the task execution flow from the execution mechanism allows for greater flexibility and control.
 
 ```
 public interface Executor {
@@ -52,7 +51,7 @@ public interface Executor {
 }
 ```
 
-In order to create an executer instance, we need to create an invoker:
+Since Executor is an interface, we can't just create instances. We need to implement the Executor interface. We do this by creating an `Invoker` class like so:
 
 ```
 public class Invoker implements Executor {
@@ -72,8 +71,9 @@ public void execute() {
        // task to be performed
    });
 }
-
 ```
+
+Explore Java documentation and official Java tutorials provided by Oracle. The [Java Concurrency tutorial](https://docs.oracle.com/javase/tutorial/essential/concurrency/), in particular, covers the Executor framework and provides detailed explanations and examples.
 
 ## What is Parallelism
 
