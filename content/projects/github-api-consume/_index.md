@@ -33,12 +33,31 @@ In this project, you'll make use of Github's awesome API. We chose Github for th
 
 ### JavaScript
 
-Your directory structure should look like this.
+Your directory structure should look like this:
 
 ```
 ├── src
 |   └── consume_github_api.js
 └── package.json
+```
+
+### Java
+
+Your directory structure should look like this:
+
+```
+├── build.gradle
+├── gradle
+│   └── wrapper
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
+├── gradlew
+├── gradlew.bat
+├── settings.gradle
+└── src
+    └── main
+        └── java
+            └── ConsumeGithubAPI.java       <-------- names are important 
 ```
 
 ## Instructions
