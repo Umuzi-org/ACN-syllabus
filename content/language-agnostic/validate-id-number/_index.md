@@ -75,7 +75,7 @@ Your directory structure should look like this:
     │       └── ValidateSaId.java       <-------- names are important
     └── test
         └── java
-            └── ???.java   <-------- names are important
+            └── ValidateSaIdTest.java   <-------- names are important
 ```
 
 In this project, we'll be practising Test Driven Development while solving a validation problem.
