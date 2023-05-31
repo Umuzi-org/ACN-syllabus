@@ -34,6 +34,13 @@ Your directory structure should look like this:
 └── package.json
 ```
 
+**Note**: Please export `logger`, a setup object from the new `logger.js` file(see above diagram). Exports from part-1 of the project should remain. Use the following named export syntax:
+
+```
+module.exports = { nameOfObject }
+```
+
+
 ### Java:
 
 Your directory structure should look like this:
@@ -56,12 +63,6 @@ Your directory structure should look like this:
     └── test
         └── java
             └── ???.java             <-------- names are important
-```
-
-**Note**: Please export `logger`, a setup object from the new `logger.js` file(see above diagram). Exports from part-1 of the project should remain. Use the following named export syntax:
-
-```
-module.exports = { nameOfObject }
 ```
 
 ## General instructions
