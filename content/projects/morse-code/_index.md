@@ -31,6 +31,13 @@ Your directory structure should look like this:
 |   └── morse_code.js
 └── package.json
 ```
+
+Remember to export both functions like this:
+
+```
+module.exports = { function1Name, function2Name };
+```
+
 ### Java
 
 Your directory structure should look like this:
@@ -48,12 +55,6 @@ Your directory structure should look like this:
     └── main
         └── java
             └── MorseCode.java       <-------- names are important
-```
-
-Remember to export both functions like this:
-
-```
-module.exports = { function1Name, function2Name };
 ```
 
 ## Instructions
