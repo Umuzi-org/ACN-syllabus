@@ -57,6 +57,15 @@ In other words, there should be no directories. Only modules.
 
 If you are writing JS code then your files would follow a similar pattern. You would just have `.js` instead of `.py` files.
 
+If you are using Java, name your files should be named like this:
+
+```
+├── Task1.py
+├── Task2.py
+└── Task3.py
+...
+```
+
 ## Note to Javascript developers:
 
 - Please don't submit any HTML or CSS. Please don't use `document.write`. We are interested in seeing how you implement these algorithms. Use `console.log` if you are asked to print things.
