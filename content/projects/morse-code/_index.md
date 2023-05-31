@@ -31,6 +31,24 @@ Your directory structure should look like this:
 |   └── morse_code.js
 └── package.json
 ```
+### Java
+
+Your directory structure should look like this:
+
+```
+├── build.gradle
+├── gradle
+│   └── wrapper
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
+├── gradlew
+├── gradlew.bat
+├── settings.gradle
+└── src
+    └── main
+        └── java
+            └── MorseCode.java       <-------- names are important
+```
 
 Remember to export both functions like this:
 
