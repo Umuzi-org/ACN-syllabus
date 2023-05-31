@@ -63,7 +63,7 @@ module.exports = { YOUR_FUNCTION_NAME };
 ```
 ## Note to Java developers:
 
-- Even though the instructions will specifically ask for a function, please don't submit only the function/method. Make sure that there is a wrapping public class in your code.
+- Even though the instructions will specifically ask for a function, please don't submit only the function/method. Make sure that there is a wrapping public class for your function/method.
 
 E.g. If you have a file called `Task1.java` where you are required to write a function called `task1` which returns the sum of `num1` and `num2`;
 
