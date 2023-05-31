@@ -22,7 +22,7 @@ By combining functional interfaces with lambda expressions, we can achieve small
 
 Read more about them [here](https://www.geeksforgeeks.org/functional-interfaces-java/#:~:text=Java%20SE%208%20included%20four%20main%20kinds%20of%20functional%20interfaces%20which%20can%20be%20applied%20in)
 
-#### Examples of built in functional interface:
+#### Example of built in functional interface:
 
 - `Runnable()`
 
