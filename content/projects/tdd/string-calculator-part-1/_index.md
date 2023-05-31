@@ -23,15 +23,16 @@ Please test your code using jasmine.
 
 Your directory structure should look like this.
 
+make sure that the `node_modules` are in your `.gitignore` file.
+
 ```
-    >node_modules    <---- make sure this is in your .gitignore
-    >spec
-        > support
-            - jasmine.json
-        - string_calculator_spec.js
-    >src
-        - string_calculator.js
-    - package.json
+├── src/
+|   └── string _calculator.js
+├── spec/
+|   ├── support/
+|   |   └── jasmine.json
+|   └── string_calculator_spec.js
+└── package.json
 ```
 
 ### Python
