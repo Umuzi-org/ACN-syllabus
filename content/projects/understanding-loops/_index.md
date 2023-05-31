@@ -15,7 +15,7 @@ title: Shopping cart calculations
 
 ## Directory structure
 
-### Javascript
+### JavaScript
 
 Your directory structure should look like this:
 
@@ -25,13 +25,34 @@ Your directory structure should look like this:
     └── data.json
 ```
 
+### Java
+
+Your directory structure should look like this:
+
+```
+├── build.gradle
+├── gradle
+│   └── wrapper
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
+├── gradlew
+├── gradlew.bat
+├── settings.gradle
+└── src
+    └── main
+        ├── java
+        |    └── ShoppingCartCalculations.java <------ names are important
+        └── data
+             └── data.json 
+```
+
 ### Python
 
 Your directory structure should look like this:
 
 ```
 ├── data
-    └── data.json
+|   └── data.json
 └── src
     └── shopping_cart.py
 ```
