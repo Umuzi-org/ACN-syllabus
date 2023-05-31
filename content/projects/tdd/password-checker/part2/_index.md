@@ -62,7 +62,7 @@ Your directory structure should look like this:
     |           └── Log4j2Configuration.java
     └── test
         └── java
-            └── ???.java             <-------- names are important
+            └── PasswordCheckerTest.java             <-------- names are important
 ```
 
 ## General instructions
