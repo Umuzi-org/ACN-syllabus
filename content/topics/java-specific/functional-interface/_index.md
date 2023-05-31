@@ -6,16 +6,15 @@ tags:
 title: Java Lambda expressions and Functional Interface
 ---
 
-#### What are Lambda expressions:
+## Lambda expressions
 
-Introduced in Java 8 Lambda expressions are anonymous(don't have names) shortcode blocks that can take parameters and return a value just like methods.
+Lambda expressions, introduced in Java 8, are concise and anonymous blocks of code that can take parameters and return values, similar to methods.
 
-#### What are Functional Interface
+## Functional Interface
 
-Functional Interface in Java is also called Single Abstract Method (SAM) interface. They can have many default and static methods but only one abstract method - this is why they are called SAM. They make it possible to create abstractions that multiple classes can use without copying and pasting code. This is especially helpful when developers need to create a complex abstraction with various methods and behaviors.
+Functional Interfaces are called Single Abstract Method (SAM) interface. They can have many default and static methods but only one abstract method - this is why they are called SAM. They make it possible to create abstractions that multiple classes can use without copying and pasting code. This is especially helpful when developers need to create a complex abstraction with various methods and behaviors.
 
-All together Functional interface with lambda expressions help us write smaller and cleaner code by removing a lot of boilerplate code.
-
+By combining functional interfaces with lambda expressions, we can achieve smaller and cleaner code, eliminating the need for excessive boilerplate code.
 
 #### Functional Interface have four types
 
@@ -23,7 +22,10 @@ All together Functional interface with lambda expressions help us write smaller 
 
 Read more about them [here](https://www.geeksforgeeks.org/functional-interfaces-java/#:~:text=Java%20SE%208%20included%20four%20main%20kinds%20of%20functional%20interfaces%20which%20can%20be%20applied%20in)
 
-- Examples of built in functional interface like **Runnable()**
+#### Examples of built in functional interface:
+
+- `Runnable()`
+
 ```
 // create anonymous inner class object
 new Thread(new Runnable() {
@@ -33,7 +35,7 @@ new Thread(new Runnable() {
 }).start();
 ```
 
-- Using lambda expressions to re-write the code above
+We can use lambda expressions to re-write the code above, like so:
 
 ```
 // lambda expression to create the object
