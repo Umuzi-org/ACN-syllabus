@@ -23,7 +23,7 @@ Please test your code using jasmine.
 
 Your directory structure should look like this.
 
-make sure that the `node_modules` are in your `.gitignore` file.
+Make sure that the `node_modules` are in your `.gitignore` file.
 
 ```
 ├── src/
