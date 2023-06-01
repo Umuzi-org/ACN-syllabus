@@ -57,12 +57,12 @@ In other words, there should be no directories. Only modules.
 
 If you are writing JS code then your files would follow a similar pattern. You would just have `.js` instead of `.py` files.
 
-If you are using Java, your files should be named like this:
+If you are using Java, your file names should be capitalized, like so:
 
 ```
-├── Task1.py
-├── Task2.py
-└── Task3.py
+├── Task1.java
+├── Task2.java
+└── Task3.java
 ...
 ```
 
