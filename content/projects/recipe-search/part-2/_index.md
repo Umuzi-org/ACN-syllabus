@@ -38,4 +38,4 @@ Add a Button labelled "Search" to your web application. When the user clicks on 
 If you want to be marked as excellent then there are a few things you can do:
 
 - Add a "next" and "previous" button to add paging to your application. Or, better yet, automatically fetch the next page of results as the user scrolls to the end of the returned recipes list.
-- Make use of a spinner widget to show that the search results are still loading: https://material-ui.com/components/progress/
+- Make use of a [spinner widget](https://material-ui.com/components/progress/) to show that the search results are still loading.
