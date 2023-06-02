@@ -85,6 +85,4 @@ Make sure your video is marked as UNLISTED or PUBLIC, then link to the video in 
 
 ### Screen mirroring
 
-If you are using a physical device for a project then it would likely be necessary to mirror your screen. That is, get your phone's display to show up on your computer. There are many excellent tools that you can use for this:
-
-https://fossbytes.com/android-screen-mirroring-apps-pc/
+If you are using a physical device for a project then it would likely be necessary to mirror your screen. That is, get your phone's display to show up on your computer. There are many excellent tools that you can use for this: [6 Methods To Mirror Android Screen To PC (No Root Apps) In 2022](https://fossbytes.com/android-screen-mirroring-apps-pc/)
