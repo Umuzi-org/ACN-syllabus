@@ -17,7 +17,7 @@ Start off by doing [this tutorial](https://docs.expo.dev/tutorial/planning/). Ma
 
 Once you have finished the basic tutorial, improve it by doing the following:
 
-1. Please be sure to include a `.nvmrc` file in your project submission. If you don't know what that means then go read about NVM.
+1. Include a `.nvmrc` file in your project submission. If you don't know what that means then go read about NVM.
 2. Refactor your code so that each component is in a separate file.
 3. Add a new button to clear the selected image and selected sticker/emoji.
 4. Make sure that you use `const` wherever appropriate. The tutorial uses `let` for everything, it's not always the best option. Most things are actually constant.
