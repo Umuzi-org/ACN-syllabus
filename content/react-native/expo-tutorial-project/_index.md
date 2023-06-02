@@ -30,6 +30,13 @@ If your splash screen doesn't show up in your web browser, don't panic, it's nor
 
 If you are using the Expo go app on your phone then you might notice that even after updating your splash screen, nothing changes in the app. You need to close Expo Go completely and re-open it. When you reload your app then the new splash screen will show up.
 
+### Emoji sticker not showing up on Chrome in Linux
+
+If the select an emoji sticker doesn't show up on the web version in chrome, but it works on an Android or IOS simulator/device, try:
+
+- clear your browser cookies, this works sometimes.
+- use a different browser for testing the web version, Firefox seems to work fine.
+
 ## Video please
 
 Going forward, we will require a video demo of all the apps you create during this course. If there is a multi-part project then we will always want to be able to access videos of any part of the project.
