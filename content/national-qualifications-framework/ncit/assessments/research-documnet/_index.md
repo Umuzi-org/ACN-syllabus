@@ -14,17 +14,15 @@ tags:
 title: 'NCIT assessment: Research Document'
 ---
 
-Submit a copy of your research notes from your "design thinking sprint" (DTS) or your "make us better" (MUB) sprint in which you document your research findings in an organised way. 
+Submit a copy of your research notes from your "design thinking sprint" (DTS) or your "make us better" (MUB) sprint using [THIS TEMPLATE](https://docs.google.com/document/d/1wjVSI57YvG1cjKCUd9JBuw7RBSG2NYtP/edit?usp=share_link&ouid=106698657596806218419&rtpof=true&sd=true) in which you document your research findings in an organised way. 
 
 Ensure this document meets the standards and criteria in {{< contentlink path="national-qualifications-framework/ncit/content/conducting-research-and-user-interviews" >}}
-
-It should be labelled like: FirstName LastName - Research Notes
-   
+  
 Required format: Google Doc
 
 Upload the document to google drive and submit a link. Ensure that the submission has the `docx` file extension. Please make sure that the link works. If your work is private then we won't be able to review it. You can double-check this by opening your own link in an incognito browser.  
 
-Your link should look like this:
+Your link should look something like this:
 https://drive.google.com/file/d/1YtW4iBMCZuBYxUf1YCZGsDRFminxXKk9/view?usp=sharing or https://docs.google.com/document/d/1YtW4iBMCZuBYxUf1YCZGsDRFminxXKk9/edit
 
 ## Game Design

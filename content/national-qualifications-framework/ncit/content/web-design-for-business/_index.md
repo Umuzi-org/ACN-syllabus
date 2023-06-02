@@ -19,8 +19,7 @@ ncit_specific_outcomes:
 ncit_standards:
 - 115374
 prerequisites:
-  hard:
-  - projects/simple-website
+  hard: []
 ready: true
 tags:
 - ncit

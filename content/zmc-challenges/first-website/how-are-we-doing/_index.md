@@ -8,12 +8,8 @@ content_type: topic
 title: How did we do? What should we do next?
 ---
 
-TODO: survey link
+We want to help as many people as possible. In order to do so, we need to understand the people we are trying to help. 
 
-We'd appreciate it if you could fill out the survey linked to below. We tried to keep it as short as possible. We basically want to know about:
-
-- your experience of this challenge
-- if you are likely to keep learning on your own
-- what you might want to learn next - this will help us choose what to build next :) 
+We'd appreciate it if you could fill out [this survey](https://forms.gle/6t7rKFyuZP5cqJ5GA). We tried to keep it as short as possible. 
 
 Thank you!
