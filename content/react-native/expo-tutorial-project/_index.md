@@ -24,38 +24,6 @@ Once you have finished the basic tutorial, improve it by doing the following:
 
 ## Common problems
 
-### Section: Sharing the image
-
-If you get the error: `Uncaught (in promise) ReferenceError: Platform is not defined` then double check that your imports include `Platform`. Eg:
-
-```
-import { Image, StyleSheet, Text, TouchableOpacity, View , Platform} from 'react-native';
-```
-
-### Section: Handling platform differences
-
-The tutorial makes use of a service called `anonomousfiles`. This service does go down from time to time. If you get an error that looks like this:
-
-```
-Access to fetch at 'https://api.anonymousfiles.io/' from origin 'http://localhost:19006' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.
-```
-
-Then you probably did everything right. The anonomous files service is a web api that accepts an image and responds with a sharable url. If this isn't working then just hard-code a url for now.
-
-Eg:
-
-```
-    if (Platform.OS === 'web') {
-      // let remoteUri = await uploadToAnonymousFilesAsync(pickerResult.uri);
-      const remoteUri = "https://nerdist.com/wp-content/uploads/2020/07/maxresdefault.jpg"
-      setSelectedImage({ localUri: pickerResult.uri, remoteUri });
-    } else {
-      setSelectedImage({ localUri: pickerResult.uri, remoteUri: null });
-    }
-```
-
-This is ok because the aim of this tutorial is just to understand how ReactNative works.
-
 ### Configuring a splash screen and app icon
 
 If your splash screen doesn't show up in your web browser, don't panic, it's normal.
