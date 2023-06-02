@@ -2,8 +2,8 @@
 _db_id: 785
 content_type: project
 flavours:
-- javascript
-- typescript
+  - javascript
+  - typescript
 ready: true
 submission_type: repo
 title: Expo tutorial project
@@ -13,15 +13,13 @@ Alrighty, time to get your hands dirty.
 
 Start off by doing [this tutorial](https://docs.expo.dev/tutorial/planning/). Make sure that you understand what you are doing, we'll be doing much harder stuff soon.
 
-Please be sure to include a `.nvmrc` file in your project submission. If you don't know what that means then go read about NVM.
-
-## Moar requirements
+## More requirements
 
 Once you have finished the basic tutorial, improve it by doing the following:
 
-1. Refactor your code so that each component is in a separate file
-2. Add a new button to clear the selected image state
-3. Create a reusable Button component to clean up duplication of TouchableOpacity / Text
+1. Please be sure to include a `.nvmrc` file in your project submission. If you don't know what that means then go read about NVM.
+2. Refactor your code so that each component is in a separate file.
+3. Add a new button to clear the selected image and selected sticker/emoji.
 4. Make sure that you use `const` wherever appropriate. The tutorial uses `let` for everything, it's not always the best option. Most things are actually constant.
 
 ## Common problems
@@ -33,6 +31,7 @@ If you get the error: `Uncaught (in promise) ReferenceError: Platform is not def
 ```
 import { Image, StyleSheet, Text, TouchableOpacity, View , Platform} from 'react-native';
 ```
+
 ### Section: Handling platform differences
 
 The tutorial makes use of a service called `anonomousfiles`. This service does go down from time to time. If you get an error that looks like this:
@@ -41,9 +40,10 @@ The tutorial makes use of a service called `anonomousfiles`. This service does g
 Access to fetch at 'https://api.anonymousfiles.io/' from origin 'http://localhost:19006' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.
 ```
 
-Then you probably did everything right. The anonomous files service is a web api that accepts an image and responds with a sharable url.  If this isn't working then just hard-code a url for now.
+Then you probably did everything right. The anonomous files service is a web api that accepts an image and responds with a sharable url. If this isn't working then just hard-code a url for now.
 
 Eg:
+
 ```
     if (Platform.OS === 'web') {
       // let remoteUri = await uploadToAnonymousFilesAsync(pickerResult.uri);
