@@ -2,15 +2,15 @@
 _db_id: 762
 content_type: project
 flavours:
-  - any_language
+- any_language
 prerequisites:
   hard:
-    - coding_aptitude_assessment/coding_challenges/introduction
-    - coding_aptitude_assessment/coding_challenges/how_to_name_files
+  - coding_aptitude_assessment/coding_challenges/introduction
+  - coding_aptitude_assessment/coding_challenges/how_to_name_files
 protect_main_branch: false
 ready: true
 submission_type: repo
-title: "Coding aptitude assessment challenge: Task 8"
+title: 'Coding aptitude assessment challenge: Task 8'
 ---
 
 Make a function to convert a number representing minutes into hours and minutes. It should return a string showing the numbers of hours and minutes.

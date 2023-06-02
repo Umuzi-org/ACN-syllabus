@@ -8,11 +8,11 @@ prerequisites:
   - national-qualifications-framework/ncba/content/design-thinking-prototype-and-test
 ready: true
 submission_type: link
-tags: 
- - docx
- - ncba
- - design-thinking
- - prototype-and-test
+tags:
+- docx
+- ncba
+- design-thinking
+- prototype-and-test
 title: NCBA SA7 Design Thinking - Prototype & Test
 ---
 
