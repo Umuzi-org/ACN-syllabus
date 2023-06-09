@@ -66,7 +66,7 @@ If you are using Java, your file names should be capitalized, like so:
 ...
 ```
 
-## Note to Javascript developers:
+## Note to JavaScript developers:
 
 - Please don't submit any HTML or CSS. Please don't use `document.write`. We are interested in seeing how you implement these algorithms. Use `console.log` if you are asked to print things.
 - At the end of every one of your task files you need to export the function. You do this by including an export statement like this:
@@ -213,7 +213,7 @@ time
 
 Write a function `combine` that combines two lists by taking alternate elements and returns the result. You can assume the lists are of equal size.
 
-Your combine function should be able to work with lists of unequal size.
+Your combine function should be able to work with lists/arrays of unequal size. 
 
 For exampe, `combine([11,22,33,45], [1,2,3])` should return:
 
@@ -221,7 +221,7 @@ For exampe, `combine([11,22,33,45], [1,2,3])` should return:
 [11,1,22,2,33,3,45]
 ```
 
-Also, the output lists should maintain the list items in the original order in which they appeared in the input lists, so combine([12, 4, 2], [1, 5, 3]) should return:
+Also, the output lists should maintain the list/array items(integers) in the original order in which they appeared in the input lists, so combine([12, 4, 2], [1, 5, 3]) should return:
 
 ```
 [12,1,4,5,2,3]
