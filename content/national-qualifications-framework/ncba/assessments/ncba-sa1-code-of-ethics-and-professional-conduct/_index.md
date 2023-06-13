@@ -8,10 +8,10 @@ prerequisites:
   - national-qualifications-framework/ncba/content/code-of-ethics-and-professional-conduct
 ready: true
 submission_type: link
-tags: 
- - docx
- - ncba
- - ethics-and-profession-conduct
+tags:
+- docx
+- ncba
+- ethics-and-profession-conduct
 title: NCBA SA1 Code of Ethics and Professional Conduct
 ---
 

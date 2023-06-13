@@ -8,10 +8,10 @@ prerequisites:
   - national-qualifications-framework/ncba/content/design-thinking-prototype-and-test
 ready: true
 submission_type: link
-tags: 
- - docx
- - ncba
- - design-thinking
+tags:
+- docx
+- ncba
+- design-thinking
 title: NCBA SA8 Design Thinking - Recommendation
 ---
 

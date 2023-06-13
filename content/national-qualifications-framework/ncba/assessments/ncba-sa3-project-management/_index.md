@@ -8,10 +8,10 @@ prerequisites:
   - national-qualifications-framework/ncba/content/project-management
 ready: true
 submission_type: link
-tags: 
- - docx
- - ncba
- - project-management
+tags:
+- docx
+- ncba
+- project-management
 title: NCBA SA3 Project Management
 ---
 

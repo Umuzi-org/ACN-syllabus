@@ -3,7 +3,7 @@ _db_id: 811
 content_type: topic
 prerequisites:
   hard:
-    - react-native/harvard-cs-50-m/05-lists-input
+  - react-native/harvard-cs-50-m/05-lists-input
 ready: true
 title: CS50's Mobile App Development with React Native - User input and debugging
 ---
