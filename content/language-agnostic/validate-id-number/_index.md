@@ -56,6 +56,28 @@ Your directory structure should look like this:
     └── test_validate_sa_id.py
 ```
 
+### Java
+
+Your directory structure should look like this:
+
+```
+├── build.gradle
+├── gradle
+│   └── wrapper
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
+├── gradlew
+├── gradlew.bat
+├── settings.gradle
+└── src
+    ├── main
+    │   └── java
+    │       └── ValidateSaId.java       <-------- names are important
+    └── test
+        └── java
+            └── ValidateSaIdTest.java   <-------- names are important
+```
+
 In this project, we'll be practising Test Driven Development while solving a validation problem.
 
 Please make sure that you commit your code often! At least every time you get one of your tests to pass. Also please make sure you make your git commit messages meaningful.
