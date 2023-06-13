@@ -65,6 +65,31 @@ If you are writing JS code then your files would follow a similar pattern. You w
 ```js
 module.exports = { YOUR_FUNCTION_NAME };
 ```
+## Note to Java developers:
+
+Even though the instructions will specifically ask for a function, please don't submit only the function/method. Make sure that there is a wrapping public class for your function/method.
+
+E.g. If you have a file called `Task1.java` where you are required to write a function called `task1` which returns the sum of `num1` and `num2`;
+
+Then following code is incorrect:
+
+```
+public static int task1(int num1, int num2) {
+    return num1 + num2;
+}
+```
+
+But the following code is correct:
+
+```
+public class Task1 {
+    
+    public static int task1(int num1, int num2) {
+        return num1 + num2;
+    }
+
+}
+```
 
 ## What does success look like?
 
