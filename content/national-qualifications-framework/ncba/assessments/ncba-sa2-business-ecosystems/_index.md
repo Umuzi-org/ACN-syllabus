@@ -8,10 +8,10 @@ prerequisites:
   - national-qualifications-framework/ncba/content/business-ecosystems
 ready: true
 submission_type: link
-tags: 
- - docx
- - ncba
- - business-ecosystems
+tags:
+- docx
+- ncba
+- business-ecosystems
 title: NCBA SA2 Business Ecosystems
 ---
 

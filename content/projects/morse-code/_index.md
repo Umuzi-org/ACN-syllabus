@@ -38,6 +38,25 @@ Remember to export both functions like this:
 module.exports = { function1Name, function2Name };
 ```
 
+### Java
+
+Your directory structure should look like this:
+
+```
+├── build.gradle
+├── gradle
+│   └── wrapper
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
+├── gradlew
+├── gradlew.bat
+├── settings.gradle
+└── src
+    └── main
+        └── java
+            └── MorseCode.java       <-------- names are important
+```
+
 ## Instructions
 
 Create two functions:

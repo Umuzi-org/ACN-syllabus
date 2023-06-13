@@ -8,11 +8,11 @@ prerequisites:
   - national-qualifications-framework/ncba/content/design-thinking-define
 ready: true
 submission_type: link
-tags: 
- - docx
- - ncba
- - design-thinking
- - define
+tags:
+- docx
+- ncba
+- design-thinking
+- define
 title: NCBA SA5 Design Thinking - Define
 ---
 

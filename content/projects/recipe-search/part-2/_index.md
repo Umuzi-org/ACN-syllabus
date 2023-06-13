@@ -2,21 +2,21 @@
 _db_id: 533
 content_type: project
 flavours:
-  - javascript
-  - typescript
+- javascript
+- typescript
 from_repo: projects/recipe-search/part-1
 prerequisites:
   hard:
-    - projects/recipe-search/part-1
-    - topics/redux-thunks
+  - projects/recipe-search/part-1
+  - topics/redux-thunks
   soft: []
 ready: true
 submission_type: continue_repo
 tags:
-  - React
-  - Redux
-  - Thunks
-title: "React and Redux recipe search: Part 2. API Access with thunks"
+- React
+- Redux
+- Thunks
+title: 'React and Redux recipe search: Part 2. API Access with thunks'
 ---
 
 Now that your frontend is awesome, let's get the "Search" button to work.
@@ -39,3 +39,4 @@ If you want to be marked as excellent then there are a few things you can do:
 
 - Add a "next" and "previous" button to add paging to your application. Or, better yet, automatically fetch the next page of results as the user scrolls to the end of the returned recipes list.
 - Make use of a [spinner widget](https://material-ui.com/components/progress/) to show that the search results are still loading.
+

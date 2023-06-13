@@ -2,24 +2,24 @@
 _db_id: 219
 content_type: project
 flavours:
-  - any_language
+- any_language
 learning_outcomes:
-  - code_algorithmic_thinking
-  - code_pseudo_code
-  - code_problem_decomposition
-  - code_control_flow
-  - code_naming_convention
-  - code_code_documentation
-  - code_basic_calculation
+- code_algorithmic_thinking
+- code_pseudo_code
+- code_problem_decomposition
+- code_control_flow
+- code_naming_convention
+- code_code_documentation
+- code_basic_calculation
 prerequisites:
   hard:
-    - topics/reopening-pull-request
+  - topics/reopening-pull-request
 ready: true
 story_points: 3
 submission_type: repo
 tags:
-  - algorithms
-  - clean-code
+- algorithms
+- clean-code
 title: Level 1 coding challenges
 ---
 
@@ -64,6 +64,31 @@ If you are writing JS code then your files would follow a similar pattern. You w
 
 ```js
 module.exports = { YOUR_FUNCTION_NAME };
+```
+## Note to Java developers:
+
+Even though the instructions will specifically ask for a function, please don't submit only the function/method. Make sure that there is a wrapping public class for your function/method.
+
+E.g. If you have a file called `Task1.java` where you are required to write a function called `task1` which returns the sum of `num1` and `num2`;
+
+Then following code is incorrect:
+
+```
+public static int task1(int num1, int num2) {
+    return num1 + num2;
+}
+```
+
+But the following code is correct:
+
+```
+public class Task1 {
+    
+    public static int task1(int num1, int num2) {
+        return num1 + num2;
+    }
+
+}
 ```
 
 ## What does success look like?
