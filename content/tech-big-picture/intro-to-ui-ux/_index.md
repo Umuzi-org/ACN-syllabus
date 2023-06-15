@@ -1,6 +1,7 @@
 ---
 title: Introduction to UI/UX
 content_type: topic 
+ready: True
 ---
 
 In the realm of digital product development, two terms that frequently come up are User Interface (UI) and User Experience (UX). While these terms are often used interchangeably, they represent different aspects of the product development process, each with its unique focus and purpose.
@@ -23,9 +24,9 @@ Both UI and UX design are crucial to the product development process. While they
 
 UI/UX design has a direct impact on a product's success, influencing user satisfaction, retention rates, and ultimately, the product's bottom line. As such, understanding and implementing sound UI/UX principles is essential for any business in the digital space.
 
-
 ## Resources
 
-## Optional extras
-
+- https://bootcamp.uxdesign.cc/basic-introduction-to-user-experience-and-user-interface-design-f0aae08a2b44
+- https://www.futurelearn.com/info/blog/introduction-to-ux-ui
+- https://careerfoundry.com/en/tutorials/ux-design-for-beginners/what-is-ux-design/
 - [Nailing UX Interviews and Creating a Viable UX Design Career](https://alison.com/course/nailing-ux-interviews-and-creating-a-viable-ux-design-career?utm_source=alison_user&utm_medium=affiliates&utm_campaign=31931242): This 1.5 - 3 hour mini course will tell you a bit about how you can start a career in UI/UX

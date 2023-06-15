@@ -1,5 +1,7 @@
 ---
 title: Testing and Quality Assurance (QA)
+ready: true
+content_type: topic
 ---
 
 Testing and QA are essential components of the software development process, aimed at ensuring the quality and reliability of software products. They involve a wide range of activities designed to identify and fix defects, improve the usability of the product, and verify that the software meets the defined requirements and user expectations.
@@ -17,7 +19,6 @@ This involves a tester manually operating the software and comparing the actual 
 ### Automated Testing 
 
 This involves writing scripts to automatically execute tests. It's often used for regression testing (to ensure that new changes haven't broken existing functionality), load testing (to test the system's behavior under heavy loads), and unit testing (to test individual units of code).
-
 
 ## Quality Assurance
 

@@ -1,6 +1,7 @@
 ---
 title: Intro to version control
 content_type: topic
+ready: true
 ---
 
 If you ever want to build a serious piece of software then version control is a must. 

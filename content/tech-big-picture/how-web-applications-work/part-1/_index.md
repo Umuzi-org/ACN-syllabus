@@ -4,6 +4,7 @@ title: How web applications work - part 1
 prerequisites:
     hard:
         - tech-big-picture/how-the-internet-works
+ready: True
 ---
 
 In this series of topics we'll be talking through all the moving parts that make up a web application work. We'll start off very simple and add layers of complexity over time so you can see the purpose of every piece of the puzzle.

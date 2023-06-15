@@ -1,9 +1,11 @@
 ---
 title: Security best practices for you
-
+content_type: topic
+ready: true
 ---
 
 Here are some security best practices that individuals should follow:
+
 1. **Strong Passwords**: Use strong, unique passwords for each of your accounts. A strong password should be long (12 characters at a minimum) and include a combination of upper and lower case letters, numbers, and special characters. This makes it harder for attackers to guess or crack your password.
 2. **Password Managers**: It can be challenging to remember many complex passwords, so consider using a password manager. These tools generate and store strong, unique passwords for each of your accounts, so you only need to remember one master password.
 3. **Two-Factor Authentication (2FA)**: Enable 2FA whenever it's available. This adds an extra layer of security by requiring two types of identification: something you know (like a password), and something you have (like a code sent to your phone).
@@ -16,3 +18,8 @@ Here are some security best practices that individuals should follow:
 10. **Educate Yourself**: Stay informed about the latest security threats and best practices. The more you know, the better you can protect yourself.
 
 These practices are important because they significantly reduce the risk of a security breach, protecting your personal information from potential threats.
+
+## Resources 
+
+- https://www.nytimes.com/guides/privacy-project/how-to-protect-your-digital-privacy
+- https://www.zdnet.com/article/online-security-101-how-to-protect-your-privacy-from-hackers-spies-and-the-government/

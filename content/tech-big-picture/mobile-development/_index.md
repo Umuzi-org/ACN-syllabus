@@ -1,6 +1,9 @@
 ---
 title: Introduction to mobile development 
 content_type: topic
+preprequisites:
+    hard:
+        - tech-big-picture/how-web-applications-work/part-4
 ---
 
 Now that you know a bit more about web development, you can more easily understand mobile development.
@@ -64,21 +67,28 @@ As you can see, Android is king in Africa.
 
 Mobile development tools can be categorized based on the approach they take to create apps. Here are the three major categories:
 
-1. **Native Mobile Development Tools**: These tools are used to develop apps for a specific mobile operating system. They allow developers to leverage the full capabilities of the hardware and the operating system's features. As a result, native apps typically provide the best performance and user experience. However, they require separate codebases for each operating system, which can increase development time and cost. Examples of native mobile development tools are:
+### 1. Native Mobile Development Tools 
 
-    - Android: Android Studio (with Java or Kotlin)
-    - iOS: Xcode (with Objective-C or Swift)
+These tools are used to develop apps for a specific mobile operating system. They allow developers to leverage the full capabilities of the hardware and the operating system's features. As a result, native apps typically provide the best performance and user experience. However, they require separate codebases for each operating system, which can increase development time and cost. Examples of native mobile development tools are:
 
+- Android: Android Studio (with Java or Kotlin)
+- iOS: Xcode (with Objective-C or Swift)
 
-2. **Hybrid Mobile Development Tools (Web Views)**: These tools allow developers to create apps using web technologies (HTML, CSS, and JavaScript), which are then run within a WebView (a native container that can display web content) inside a native app shell. This enables a single codebase to be used across multiple platforms, reducing development time and cost. However, these apps may not offer the same performance or access to operating system features as native apps. Examples of these tools are:
+### 2. Hybrid Mobile Development Tools (Web Views) 
 
-    - Apache Cordova (formerly PhoneGap)
-    - Ionic
+These tools allow developers to create apps using web technologies (HTML, CSS, and JavaScript), which are then run within a WebView (a native container that can display web content) inside a native app shell. This enables a single codebase to be used across multiple platforms, reducing development time and cost. However, these apps may not offer the same performance or access to operating system features as native apps. Examples of these tools are:
 
-3. **Cross-Platform Mobile Development Tools (Native Components)**: These tools represent a middle ground between native and hybrid development. They allow developers to write code in a single language, which is then translated into native code for each operating system. This means that they can use a single codebase, while still providing a near-native user experience. Examples of these tools are:
+- Apache Cordova (formerly PhoneGap)
+- Ionic
 
-    - React Native: Write in JavaScript, render native components
-    - Flutter: Write in Dart, render native components
-    - Xamarin: Write in C#, render native components
+### 3. Cross-Platform Mobile Development Tools (Native Components)
+ 
+These tools represent a middle ground between native and hybrid development. They allow developers to write code in a single language, which is then translated into native code for each operating system. This means that they can use a single codebase, while still providing a near-native user experience. Examples of these tools are:
+
+- React Native: Write in JavaScript, render native components
+- Flutter: Write in Dart, render native components
+- Xamarin: Write in C#, render native components
+
+### Summary 
 
 Each of these categories has its own strengths and weaknesses, and the best choice depends on factors such as the project requirements, the team's expertise, the desired user experience, and the budget.

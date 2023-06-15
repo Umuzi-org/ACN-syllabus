@@ -1,6 +1,7 @@
 ---
 title: Tech roles and careers
 content_type: topic
+ready: true
 ---
 
 As you have seen, the tech landscape os pretty vast and varied. This means that there are a lot of different roles to play and a lot of different careers that are suitable for different types of people.

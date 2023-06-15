@@ -6,6 +6,8 @@ protect_main_branch: false
 prerequisites:
   hard: 
     - tech-big-picture/different-roles
+
+ready: true
 ---
 
 Now you know quite a lot about how the software development world works. It's pretty big. It's very likely that some parts of this landscape were very exciting for you and some just were not. Maybe none of it is quite your cup of tea, and that's ok too.
@@ -28,14 +30,8 @@ Please answer the following questions:
 
 Reflecting on modern AI tools and their applications, what are some potential uses that intrigue you? What learning would you need to undertake to turn these ideas into reality?
 
-## Submission instructions 
+## How to submit your work
 
-Create a separate markdown file for each question. They should be named as follows:
+Please follow the following instructions to submit your work:
 
-```
-question_1.md
-question_2.md
-...
-```
-
-You can just upload these files into the main branch of your repo. There is no need to make pull requests or anything fancy like that.
+{{< contentlink path="project-submission-instructions/markdown-questions" >}}  
