@@ -25,8 +25,7 @@ Your directory structure should look like this.
 
 ```
 ├── src
-|   └── person.js
-└── package.json
+    └── person.js
 ```
 
 ### Python

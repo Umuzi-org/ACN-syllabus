@@ -4,10 +4,10 @@ blurb: Web dev is cool because you don't need to be a super expert in any part o
   it in order to start making stuff. In this section you'll learn just enough HTML
   that you can start writing basic websites with simple content
 content_type: topic
-title: What is HTML?
+title: The programming languages of the web
 ---
 
-To be a well rounded web developer you need to know a bit about 3 different languages: HTML, CSS and JavaScript.
+To understand web development, you need to understand a bit about 3 different languages: HTML, CSS and JavaScript.
 
 ## HTML
 

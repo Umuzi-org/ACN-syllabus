@@ -28,6 +28,8 @@ This course takes approximately 15 hours to complete. If you do 3 hours per day,
 ## Submission instruction
 
 When you have completed the course, take a screenshot of the completion message and upload it to your google drive. Once it has been uploaded, submit the link of the upload to your Tilde card.
+
 It's very *important* that you make sure your link is set to public so it can be accessible to everyone.
-It should look like this:
+
+Your link should look similar to this:
 https://drive.google.com/file/d/1n1RKfyuov9TNzTU56cwWAiCMs1X_C5sa/view?usp=sharing
