@@ -2,10 +2,11 @@
 title: Dev Team Collaboration
 prerequisites:
     hard:
-        - tech-big-picture/testing-and-qa
-        - tech-big-picture/security
-        - tech-big-picture/ethics
-        - tech-big-picture/dev-ops
+    - tech-big-picture/intro-to-version-control-github
+    - tech-big-picture/intro-to-ui-ux" >
+    - tech-big-picture/testing-and-qa
+    - tech-big-picture/security
+    - tech-big-picture/dev-ops-questions
 content_type: project
 submission_type: repo
 protect_main_branch: false
@@ -32,6 +33,8 @@ In this project you'll be thinking critically about a few different best-practic
 6. What are some best practices around "deep work".
 
 7. What is technical debt? When is it ok? And how can you manage technical debt?
+
+8. How can good use of version control act as a "safety net" when it comes to developing and deploying software?
 
 ## How to submit your work
 

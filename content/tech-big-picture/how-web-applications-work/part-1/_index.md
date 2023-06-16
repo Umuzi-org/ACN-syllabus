@@ -7,7 +7,7 @@ prerequisites:
 ready: True
 ---
 
-In this series of topics we'll be talking through all the moving parts that make up a web application work. We'll start off very simple and add layers of complexity over time so you can see the purpose of every piece of the puzzle.
+In this series of topics we'll be talking through all the moving parts that make a web application work. We'll start off very simple and add layers of complexity over time so you can see the purpose of every piece of the puzzle.
 
 ## Before we begin...
 

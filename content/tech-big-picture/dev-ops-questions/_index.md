@@ -2,7 +2,7 @@
 title: Dev-ops questions
 prerequisites:
     hard:
-        - tech-big-picture/dev-ops
+    - tech-big-picture/dev-ops
 content_type: project
 submission_type: repo
 protect_main_branch: false

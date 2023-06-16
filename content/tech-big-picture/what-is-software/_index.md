@@ -41,6 +41,16 @@ Here are a few articles you should read:
 - https://www.ibm.com/topics/software-development
 - https://www.youtube.com/watch?v=pquPUX1EihM
 
+## Optional
+
+If you are the type of person who likes to get your hands dirty then you can get a feel for this kind of thing by writing a little bit of code yourself.
+
+Sololearn offers many free and high-quality programming courses. Here are 2 options you can try out:
+
+- https://www.sololearn.com/learn/courses/python-introduction
+- https://www.sololearn.com/learn/courses/javascript-introduction
+
+
 ## So what is software
 
 At this point you should know what the following words mean:

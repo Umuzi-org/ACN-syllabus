@@ -2,6 +2,9 @@
 title: Security best practices for you
 content_type: topic
 ready: true
+prerequisites:
+    hard:
+    - tech-big-picture/security
 ---
 
 Here are some security best practices that individuals should follow:

@@ -14,7 +14,7 @@ In the last part of our story, you used the "search" function, and you were redi
 
 Now let's say you are looking at the listed toasters and you aren't quite finding the one you want. So you scroll to the bottom of the page and click on the "Load more" button.
 
-Now you don't get redirected to a nwe page. Instead what happens is:
+Now you don't get redirected to a new page. Instead what happens is:
 
 - the button turns into a loading spinner
 - then new toasters arrive on the bottom of the page, you can keep scrolling down
@@ -94,7 +94,7 @@ This technique is referred to as DOM manipulation.
 
 You have now seen how JavaScript fits into the picture, and you've been introduced to AJAX and DOM Manipulation.
 
-Next up, we're going to learn about authentication. 
+Next up, we're going to learn about authentication and authorization. 
 
 
 

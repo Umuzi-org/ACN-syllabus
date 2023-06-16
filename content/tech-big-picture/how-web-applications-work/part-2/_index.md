@@ -29,7 +29,7 @@ The thing to know here is that you can have extra information in a url. So when 
 
 If you look closely at the url you'll see it says `qsearch=toaster` right at the end. That's how the server will know that you are searching for a toaster. 
 
-Let's say you are a fancy pants and want a fancy toaster. If you search for `smeg toaster` then the url will include your search term.
+Let's say you want to search for something more specific such as a `smeg 4-slice toaster`. If you fill that into the search bar then click search then the URL will show your new search terms. 
 
 ## Infinite possibilities!
 
@@ -37,7 +37,7 @@ In part 1 we said that the client requests files, and the server responds with t
 
 Takealot can't predict whether you'll search for "red smeg 4-slice toaster", "orange juice" or "CBD oil". It needs to be able to look at what you are asking for and then generate an appropriate response. 
 
-So the Takealot server can't just store files on disk, it needs to be clever enough to create files. And it needs to "know" about all the available products so that it can figure out what to put in the response.
+So the Takealot server can't just store lots of HTML files on disk, it needs to be clever enough to create files on request. And it needs to "know" about all the available products so that it can figure out what to put in the response.
 
 ## Enter the Database
 
@@ -50,7 +50,7 @@ Here are some free options:
 - [Google Sheets](https://www.google.com/sheets/about/) - this is basically a free, cloud hosted version of Microsoft Excel
 - [Airtable](https://airtable.com/invite/r/svpGJ62f) - Airtable markets itself as a low‒code platform to build next‒gen apps.  It's effectively a database and an ecosystem of plugins. It's very handy
 
-So the Takealot server has access to a database full of product information. That database is not going to be a literal spreadsheet, but you can think of the data as being arranges in rows and columns.  If you want to learn how these kinds of databases work then [here](https://www.sololearn.com/learn/courses/sql-introduction) is a good introduction.
+So the Takealot server has access to a database full of product information. That database is not going to be a literal spreadsheet, but you can think of the data as being arranges in rows and columns.  If you want to learn how these kinds of databases really work then [here](https://www.sololearn.com/learn/courses/sql-introduction) is a good introduction.
 
 When a request for toasters arrives at the Takealot server, then the server takes that request and it turns it into a database query, it makes use of a special programming language that the database can understand. 
 

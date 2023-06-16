@@ -4,6 +4,7 @@ title: Anatomy of a web app - part 4 - Auth
 prerequisites:
     hard:
     - tech-big-picture/how-web-applications-work/part-3
+ready: True
 ---
 
 In the last part of this series, you loaded more toasters to learn about AJAX, pagination and DOM manipulation. 
@@ -50,19 +51,19 @@ You wont be able to see what is inside other people's shopping carts. And you wo
 
 This means that the Takealot server needs to be able to figure our who different HTTP requests are coming from and what those people are allowed to do. 
 
-Now, it's important to know that clients should not be trusted... 
+Now, it's important to know that **clients should not be trusted**... 
 
-HTTPS requests are sent from clients to servers when new pages are loaded and when a JavaScript function decides to sent the request. Anybody who can write Javascript can write code that sends requests from a browser. And they can put whatever they want into those requests.
+HTTPS requests are sent from clients to servers when new pages are loaded and when a JavaScript function decides to send the request. Anybody who can write Javascript can write code that sends requests from a browser. And they can put whatever they want into those requests.They can pretend to be someone they are not. 
 
-So a malicious person could write some code that sends some HTTPS requests to Takealot's servers to see what is inside people's shopping baskets. Takealot's servers need to be clever enough to figure out which requests are allowed and which are not.
+So a malicious person could write some code that sends some HTTPS requests to Takealot's servers to see what is inside other people's shopping baskets. Takealot's servers need to be clever enough to figure out which requests are allowed and which are not.
 
 ## Auth
 
 When Takealot's server receives an HTTPS request then it needs to do the following: 
 
 1. It needs to figure out who the HTTPS request came from. This is called Authentication
-2. It needs to check if the person who sent the request is allowed to do whatever they are trying to do. 
-3. Respond appropriately 
+2. It needs to check if the person who sent the request is allowed to do whatever they are trying to do. This is called Authorization
+3. It then needs to respond appropriately 
 
 ### Authentication 
 
@@ -88,7 +89,7 @@ Takealot will then be able to save some information in the database so it rememb
 
 Since the kettle search results are public, it'll just show you the results.
 
-If you add a kettle to your shopping cart then Takealot will check whose shopping cart you are trying to add it to. If it is your own cart then it'll let you do that.
+If you add a kettle to your shopping cart then Takealot will check whose shopping cart you are trying to add it to. If it is your own cart then it'll let you do that. 
 
 ## Security is HARD
 
@@ -101,9 +102,11 @@ Let's just take a moment to think about all the things that can go wrong in the 
 3. HTTPS is a secure version of HTTP, but if your computer is on a network that is controlled by someone malicious then they could perform what is called a man-in-the-middle attack and read and alter the requests you send to the Takealot servers
 4. If someone gets hold of your email address and password (your normal login credentials) then they can generate new cookies/tokens whenever they want to 
 
-And there's more. Online retailers such as Takealot have the responsibility to keep things secure and hire teams of security professionals to keep things safe. 
+And there's more. 
 
-This section isn't meant to scare you! It's just important for you to know that security is important, and it's not easy.
+Online retailers such as Takealot have the responsibility to keep things secure and hire teams of security professionals to keep things safe. 
+
+This section isn't meant to scare you! It's just important for you to know that security is important, and it's not easy. It's also the responsibility of the end-user. If you choose an easy-to-guess password and your privacy is compromised then that's your fault and nobody else's.
 
 
 

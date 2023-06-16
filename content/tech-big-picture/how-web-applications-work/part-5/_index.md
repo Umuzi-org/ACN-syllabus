@@ -4,6 +4,7 @@ title: Anatomy of a web app - part 5 - payment gateways
 prerequisites:
     hard:
     - tech-big-picture/how-web-applications-work/part-4
+ready: True
 ---
 
 In the last part of this series, you learned a bit about authentication and authorization, and you learned that security is HARD. 
@@ -28,7 +29,7 @@ Note: The payment process might be different for different people, it depends on
 
 So Takealot is communicating with your mobile phone somehow. And when you click an "approve" button on your mobile phone then your web browser somehow knows that the payment worked... Can you think of how this can all be achieved given what you know?
 
-Think about it a little bit before you scroll down...
+**Think about it a little bit before you scroll down...**
 
 ![](request-response.drawio.svg)
 

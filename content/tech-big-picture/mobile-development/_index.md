@@ -1,9 +1,7 @@
 ---
 title: Introduction to mobile development 
 content_type: topic
-preprequisites:
-    hard:
-        - tech-big-picture/how-web-applications-work/part-4
+ready: True
 ---
 
 Now that you know a bit more about web development, you can more easily understand mobile development.
