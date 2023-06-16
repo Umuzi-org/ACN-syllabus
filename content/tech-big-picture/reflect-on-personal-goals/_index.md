@@ -6,7 +6,6 @@ protect_main_branch: false
 prerequisites:
   hard: 
     - tech-big-picture/different-roles
-
 ready: true
 ---
 

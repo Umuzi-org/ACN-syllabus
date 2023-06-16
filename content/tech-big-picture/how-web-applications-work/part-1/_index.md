@@ -1,13 +1,19 @@
 ---
 content_type: topic
-title: How web applications work - part 1
+title: Anatomy of a web app - part 1 - Requests and responses
 prerequisites:
     hard:
-        - tech-big-picture/how-the-internet-works
+    - tech-big-picture/how-the-internet-works
 ready: True
 ---
 
 In this series of topics we'll be talking through all the moving parts that make up a web application work. We'll start off very simple and add layers of complexity over time so you can see the purpose of every piece of the puzzle.
+
+## Before we begin...
+
+Before we begin, it's worth noting that this is a oversimplification of how web apps work. We're keeping it simple so that we can teach specific lessons about how web applications work. 
+
+Take a look at [this](https://en.wikipedia.org/wiki/Lie-to-children). 
 
 ## Once upon a time...
 
@@ -74,6 +80,8 @@ HTML is a special language that is used for defining the contents of a website. 
 
 ![](request-response.drawio.svg)
 
+So your browser, the client, requests a file from the server. The server responds with the requested file.
+
 Your browser will then read the response and interpret the HTML. The HTML file will contain links to other resources such as image files (pictures), CSS files and JavaScript files. Your browser will just keep on requesting whatever it needs until it can draw the website.
 
 ## Terminology
@@ -84,6 +92,7 @@ We covered a lot of ground here. Let's wrap up by making sure all the terminolog
 - HTTP: Hyper Text Transfer Protocol. This is used for transferring files over the internet when browsing websites. It's used in some other situations too
 - HTTPS: Secure HTTP
 - Server: A computer on the Internet that "serves" files upon request. Sometimes people also use the word "server" to mean the software running on a computer that allows it to serve files. 
+- Client: An application that needs stuff from the server. The server serves the client. In this case, the client is your browser
 - HTML: Hyper Text Markup Language. This is a simple computer language that allows you to specify the layout of a web page. Eg you can use this to say you want your website to have a heading, then a paragraph, then a picture
 - CSS: Cascading Style Sheets. This is a language for adding style to HTML. With CSS you can specify the color of a heading, the size of an image and many other things
 - JavaScript: This is a general-purpose programming language that can run inside a browser. Browsers can interpret HTML, CSS and JavaScript

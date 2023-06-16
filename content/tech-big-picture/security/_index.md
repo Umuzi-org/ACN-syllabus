@@ -22,7 +22,6 @@ This involves designing the software in such a way that it's resilient to attack
 - **Implementing Secure Defaults**: This is like moving into a new house and changing all the locks. When you use a program for the first time, it often comes with some default settings. Implementing secure defaults means making sure these settings are as safe as possible to start with. For example, a social media site might have privacy settings that, by default, only let your friends see your posts. That's a secure default. The idea is to make sure that users are protected even if they don't change anything.
 - **Adhering to the Principle of Least Privilege**: This principle is like giving someone a key to your house, but the key only opens the rooms they need to get into. In terms of software, this means giving a user or a program only the access they need to do their job, and nothing more. For example, an email app on your phone doesn't need to know your phone's contacts, so according to the principle of least privilege, it wouldn't have permission to see them. This way, even if the email app is compromised, the attacker can't access any more of your information than necessary.
 
-
 ## 2. Secure Coding 
 
 This involves writing code that is free from vulnerabilities that could be exploited by an attacker. This includes avoiding common coding mistakes that lead to security vulnerabilities. Here are a few common mistakes and vulnerabilities:
