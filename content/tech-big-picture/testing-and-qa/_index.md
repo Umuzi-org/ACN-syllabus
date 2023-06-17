@@ -1,7 +1,8 @@
 ---
-title: Testing and Quality Assurance (QA)
-ready: true
+_db_id: 913
 content_type: topic
+ready: true
+title: Testing and Quality Assurance (QA)
 ---
 
 Testing and QA are essential components of the software development process, aimed at ensuring the quality and reliability of software products. They involve a wide range of activities designed to identify and fix defects, improve the usability of the product, and verify that the software meets the defined requirements and user expectations.
@@ -35,4 +36,3 @@ Ultimately, the goal of both testing and QA is to deliver a high-quality product
 ## Optional mini-course
 
 If you want a more in depth look at testing then check out [this introductory course](https://alison.com/course/introduction-to-software-testing-revised?utm_source=alison_user&utm_medium=affiliates&utm_campaign=31931242). It takes between 1.5 and 3 hours to complete
-

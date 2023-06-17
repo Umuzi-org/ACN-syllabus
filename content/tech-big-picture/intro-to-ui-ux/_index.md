@@ -1,7 +1,8 @@
 ---
+_db_id: 914
+content_type: topic
+ready: true
 title: Introduction to UI/UX
-content_type: topic 
-ready: True
 ---
 
 In the realm of digital product development, two terms that frequently come up are User Interface (UI) and User Experience (UX). While these terms are often used interchangeably, they represent different aspects of the product development process, each with its unique focus and purpose.

@@ -1,7 +1,8 @@
 ---
-title: A brief history of AI
+_db_id: 912
 content_type: topic
 ready: true
+title: A brief history of AI
 ---
 
 Artificial intelligence (AI) as a field of study officially began in 1956 at the Dartmouth Conference, where the term "artificial intelligence" was coined. The 1960s and 70s were marked by optimism in the AI community, but the high expectations were not met, leading to the "AI winter" in the 1980s, a period of reduced funding and interest in AI.
