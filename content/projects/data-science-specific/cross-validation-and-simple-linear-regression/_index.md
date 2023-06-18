@@ -50,14 +50,14 @@ title: Cross-validation & Simple Linear Regression
 
 ### Test/ training splits and cross-validation
 
-- [Test/Train Splits and Crossvalidation in Python Tutorial](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6)
+- [Test/Train Splits and Cross-validation in Python Tutorial](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6)
 - [Google ML Training and Test Sets Video](https://developers.google.com/machine-learning/crash-course/training-and-test-sets/video-lecture)
 
 ## Assignment
 
 We will predict employee salaries from different employee characteristics (or features).
 We are going to use a simple supervised learning technique: linear regression. We want to build a simple model to determine how well Years Worked predicts an employee’s salary.
-Import the data [salary.csv](salary.csv) to a Jupyter Notebook. A description of the variables is given in [Salary Metadata](Salary metadata.csv). You will need the packages `matplotlib`, `pandas` and `statsmodels`.
+Import the data [salary.csv](salary.csv) to a Jupyter Notebook. A description of the variables is given in [Salary Metadata](salary-metadata.csv). You will need the packages `matplotlib`, `pandas` and `statsmodels`.
 
 ### Steps and questions
 
@@ -93,4 +93,4 @@ Data is made up and inspired by Cohen, Cohen, West & Aiken. Applied Multiple Reg
 
 3. When fitting the model to the test data, make sure that a new model isn't being built. There should only be one model in the notebook.
 
-4. A common mistake is misinterpreting the condition for overfitting using the RMSE criterion. Pay attention to which is higher/lower and weather this has been interrupted correctly.
+4. A common mistake is misinterpreting the condition for overfitting using the RMSE criterion. Pay attention to which is higher/lower and whether this has been interrupted correctly.
