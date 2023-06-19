@@ -2,21 +2,21 @@
 _db_id: 184
 content_type: project
 flavours:
-- any_language
+  - any_language
 learning_outcomes:
-- code_assert_statements
-- code_error_messages
+  - code_assert_statements
+  - code_error_messages
 prerequisites:
   hard:
-  - topics/intro-to-assertive-programming
+    - topics/intro-to-assertive-programming
   soft: []
 ready: true
 story_points: 3
 submission_type: repo
 tags:
-- problem solving
-- data structures
-- defensive programming
+  - problem solving
+  - data structures
+  - defensive programming
 title: Morse code
 ---
 
@@ -59,7 +59,8 @@ Your directory structure should look like this:
 
 ## Instructions
 
-Create two functions:
+- Create an object of that contains morsecode. See resources below for examples. Make sure that you create only one object.
+- Create two functions:
 
 ```
 lettersToMorseCode
@@ -80,12 +81,10 @@ morseCodeToLetters(".... .. / - .... . .-. .");
 
 Make sure to cater for punctuation marks and all special characters.
 
-Include the following assertions in your code:
+- Include the following assertions in your code:
 
-- Assert that the output and input both have the same number of characters represented. Use the string `the number of input and output characters is not the same` when both input and output characters are not equal.
-- Assert that there are the right number of spaces represented in the output. Use the string `the number of input and output space characters is not the same` when both input and output space characters are not equal.
-
-Make sure that when you do this, your code remains clean and dry.
+  - Assert that the output and input both have the same number of characters represented. Use the string `the number of letter characters is not equal to the number of morse code characters` when both input and output characters are not equal.
+  - Assert that there are the right number of spaces represented in the output. Use the string `the number of letter space characters is not equal to the number of morse code space characters` when both input and output space characters are not equal.
 
 ## Resources
 
