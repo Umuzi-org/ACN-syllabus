@@ -36,7 +36,7 @@ This is a selection bootcamp. If you do well then you'll be invited to take part
 We've found that our learners do best when they are able to:
 
 - **hold themselves accountable** if we bring people onto the programme who aren't willing to do their homework without being pulled into disciplinary hearings then that's a giant waste of time. We are looking for adults who we can trust to get things done.
-- **pursue understanding** those people who copy random bits of code off the Internet don't go far in life. If you do not understand the work that you cover in the bootcamp then you wont pass. 
+- **pursue understanding** those people who copy random bits of code off the Internet don't go far in life. If you do not understand the work that you cover in the bootcamp then you won't pass. 
 
 The bootcamp is run using our own custom built learning platform. There will be a bit of a learning curve and you'll probably get confused, but there will be staff on hand to help you out if you get stuck. Please make sure you ask questions when you get stuck!
 
