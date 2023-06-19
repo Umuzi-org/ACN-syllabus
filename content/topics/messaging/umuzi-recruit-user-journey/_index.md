@@ -113,16 +113,6 @@ We'll work hard to get you placed in a job, and if your job doesn't last for wha
 
 Of course you need to be a "work ready" professional for us to do this.
 
-### 9. Alumni programme
-
-Once you have gone through our programme you are one of the family and we'll continue supporting your career. You will have ongoing access to our services and syllabus.
-
-As mentioned, if you are ever in need of a job you can let us know and we'll work hard to get you sorted out. Our recruitment ninjas are always happy to assist, and our network of employer organizations keeps growing.
-
-On top of that, we will support your continued learning by keeping our platform and syllabus open to you (so long as you keep contributing feedback to your peers). You'll be able to register for other courses that we run, some of those courses will be advanced specializations. When you complete these courses we'll be able to give you our stamp of approval.
-
-Our course offerings grow all the time. Maybe you are a web dev who wants to learn about cross-platform mobile development, we'll hook you up! Maybe you are a data-scientist and you want to learn about productionising your data pipelines, we got you!
-
 ## Check your understanding!
  
 - What is Umuzi's mission?
