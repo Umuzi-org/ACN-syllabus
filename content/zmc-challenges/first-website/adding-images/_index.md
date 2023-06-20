@@ -51,6 +51,8 @@ When you look at your Github repo then you should see your new `index.html` file
 
 Your website changes will be automatically deployed to Github pages. You wont need to reconfigure anything. Just go to your website and make sure it looks like what you were expecting. 
 
+**IMPORTANT** A lot of people fail this part of the project simply because they didn't check their own work. This is critical. Open up your github page website and look at it with your own eyes. Is your image showing up?
+
 ### 4. Submit 
 
 You'll submit the link to your github page. You'll need to wait a little while for feedback again.
