@@ -23,13 +23,15 @@ Please test your code using jasmine.
 
 Your directory structure should look like this.
 
+Make sure that the `node_modules` are in your `.gitignore` file.
+
 ```
-├── spec
-|   ├── support
+├── src/
+|   └── string _calculator.js
+├── spec/
+|   ├── support/
 |   |   └── jasmine.json
 |   └── string_calculator_spec.js
-├── src
-|   └── string_calculator.js
 └── package.json
 ```
 
@@ -223,6 +225,7 @@ add("//***\n***1***2***3***")
 ## Instructions for reviewers
 
 - Proper TDD to be followed. Mocks and Spies are not needed for this project.
-- Proper error handling to be used. no `print`/`console.log`. an exception is to be thrown when needed and a value returned when needed.
+- Proper error handling to be used. No `print`/`console.log`. an exception is to be thrown when needed and a value returned when needed.
 - Ensure that the add function takes a string as an argument.
+- The function that needs to be constantly updated is the `add()` function. It is even better if the `add()` function relies on other tiny functions.
 - An understanding of regular expressions should be demonstrated within the project.
