@@ -1,10 +1,11 @@
 ---
+_db_id: 938
 content_type: topic
-ready: true
-title: How the internet works
 prerequisites:
-    hard:
-        - tech-big-picture/what-is-software
+  hard:
+  - tech-big-picture/what-is-software
+ready: true
+title: What is the Internet?
 ---
 
 The Internet is huge and complicated. We wont be able to tell you absolutely everything about how it works. But we can tell you enough that you understand how to think about it.
@@ -44,5 +45,3 @@ Give these a read:
 
 - https://javascript.plainenglish.io/introduction-to-web-development-81c7d3696f94 
 - https://tutorial.djangogirls.org/en/how_the_internet_works/
-
-

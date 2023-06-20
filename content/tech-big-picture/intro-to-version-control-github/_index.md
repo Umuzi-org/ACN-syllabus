@@ -1,7 +1,8 @@
 ---
-title: Intro to version control
+_db_id: 917
 content_type: topic
 ready: true
+title: Intro to version control
 ---
 
 If you ever want to build a serious piece of software then version control is a must. 

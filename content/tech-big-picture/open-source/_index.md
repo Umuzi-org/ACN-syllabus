@@ -1,7 +1,8 @@
 ---
-title: Introduction to open source
+_db_id: 937
 content_type: topic
-ready: True
+ready: true
+title: Introduction to open source
 ---
 
 Open source software (OSS) is a key pillar in today's software development industry. It refers to software whose source code is available for anyone to look at, modify, and distribute. This openness is a fundamental shift from the traditional software development models where the source code is kept secret and users are only distributed the final, compiled product.

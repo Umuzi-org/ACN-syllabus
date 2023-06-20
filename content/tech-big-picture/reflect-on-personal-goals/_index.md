@@ -1,12 +1,15 @@
 ---
-title: Reflect on your personal goals
+_db_id: 922
 content_type: project
-submission_type: repo
-protect_main_branch: false
+flavours:
+- markdown
 prerequisites:
-  hard: 
-    - tech-big-picture/different-roles
+  hard:
+  - tech-big-picture/different-roles
+protect_main_branch: false
 ready: true
+submission_type: repo
+title: Reflect on your personal goals
 ---
 
 Now you know quite a lot about how the software development world works. It's pretty big. It's very likely that some parts of this landscape were very exciting for you and some just were not. Maybe none of it is quite your cup of tea, and that's ok too.
@@ -33,4 +36,4 @@ Reflecting on modern AI tools and their applications, what are some potential us
 
 Please follow the following instructions to submit your work:
 
-{{< contentlink path="project-submission-instructions/markdown-questions" >}}  
+{{< contentlink path="project-submission-instructions/markdown-questions" >}}

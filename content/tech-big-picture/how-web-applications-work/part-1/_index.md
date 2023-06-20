@@ -1,10 +1,11 @@
 ---
+_db_id: 934
 content_type: topic
-title: Anatomy of a web app - part 1 - Requests and responses
 prerequisites:
-    hard:
-    - tech-big-picture/how-the-internet-works
-ready: True
+  hard:
+  - tech-big-picture/how-the-internet-works
+ready: true
+title: Anatomy of a web app - part 1 - Requests and responses
 ---
 
 In this series of topics we'll be talking through all the moving parts that make a web application work. We'll start off very simple and add layers of complexity over time so you can see the purpose of every piece of the puzzle.
@@ -96,5 +97,3 @@ We covered a lot of ground here. Let's wrap up by making sure all the terminolog
 - HTML: Hyper Text Markup Language. This is a simple computer language that allows you to specify the layout of a web page. Eg you can use this to say you want your website to have a heading, then a paragraph, then a picture
 - CSS: Cascading Style Sheets. This is a language for adding style to HTML. With CSS you can specify the color of a heading, the size of an image and many other things
 - JavaScript: This is a general-purpose programming language that can run inside a browser. Browsers can interpret HTML, CSS and JavaScript
-
-

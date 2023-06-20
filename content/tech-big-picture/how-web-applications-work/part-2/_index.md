@@ -1,10 +1,11 @@
 ---
+_db_id: 935
 content_type: topic
-title: Anatomy of a web app - part 2 - Databases
 prerequisites:
-    hard:
-    - tech-big-picture/how-web-applications-work/part-1
-ready: True
+  hard:
+  - tech-big-picture/how-web-applications-work/part-1
+ready: true
+title: Anatomy of a web app - part 2 - Databases
 ---
 
 In the last part of our story, you successfully accessed the home page of an online store. You say how your browser requested as bunch of files from the server and then interpreted those files in order to draw a user interface.
@@ -59,4 +60,3 @@ The database then responds to the query with some information. The server then p
 The client then renders the response for the user.
 
 ![](request-response.drawio.svg)
-

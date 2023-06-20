@@ -1,7 +1,8 @@
 ---
-title: Introduction to mobile development 
+_db_id: 924
 content_type: topic
-ready: True
+ready: true
+title: Introduction to mobile development
 ---
 
 Now that you know a bit more about web development, you can more easily understand mobile development.

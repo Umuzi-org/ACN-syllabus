@@ -1,10 +1,11 @@
 ---
-title: Security best practices for you
+_db_id: 931
 content_type: topic
-ready: true
 prerequisites:
-    hard:
-    - tech-big-picture/security
+  hard:
+  - tech-big-picture/security
+ready: true
+title: Security best practices for you
 ---
 
 Here are some security best practices that individuals should follow:
