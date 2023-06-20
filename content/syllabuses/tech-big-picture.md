@@ -23,8 +23,8 @@ title: Big picture of tech
 - {{< contentlink path="tech-big-picture/security" >}}
 - {{< contentlink path="tech-big-picture/security-best-practices-for-you" >}}
 - {{< contentlink path="tech-big-picture/dev-ops" >}}
-- {{< contentlink path="tech-big-picture/dev-ops-questions" >}}
-- {{< contentlink path="tech-big-picture/dev-team-collaboration" >}}
+- {{< contentlink path="tech-big-picture/dev-ops-questions" flavour="markdown" >}}
+- {{< contentlink path="tech-big-picture/dev-team-collaboration" flavour="markdown" >}}
 
 ## Specific technologies
 
@@ -32,15 +32,15 @@ title: Big picture of tech
 - {{< contentlink path="tech-big-picture/cloud-computing" >}} 
 - {{< contentlink path="tech-big-picture/the-cloud-and-you" >}} 
 - {{< contentlink path="tech-big-picture/open-source" >}}  
-- {{< contentlink path="tech-big-picture/open-source-questions" >}}
+- {{< contentlink path="tech-big-picture/open-source-questions" flavour="markdown" >}}
 - {{< contentlink path="tech-big-picture/modern-ai" >}}
-- {{< contentlink path="tech-big-picture/modern-ai-questions" >}}
+- {{< contentlink path="tech-big-picture/modern-ai-questions" flavour="markdown" >}}
 
 ## Management and soft skills 
 
-- {{< contentlink path="tech-big-picture/software-processes-and-agile-practices" >}}
-- {{< contentlink path="tech-big-picture/why-software-projects-fail" >}} 
+- {{< contentlink path="tech-big-picture/software-processes-and-agile-practices" flavour="none" >}}
+- {{< contentlink path="tech-big-picture/why-software-projects-fail" flavour="markdown" >}} 
 - {{< contentlink path="tech-big-picture/ethics" >}} 
-- {{< contentlink path="tech-big-picture/ethics-questions" >}} 
+- {{< contentlink path="tech-big-picture/ethics-questions" flavour="markdown" >}} 
 - {{< contentlink path="tech-big-picture/different-roles" >}} 
-- {{< contentlink path="tech-big-picture/reflect-on-personal-goals" >}}
+- {{< contentlink path="tech-big-picture/reflect-on-personal-goals" flavour="markdown" >}}

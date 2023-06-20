@@ -1,17 +1,19 @@
 ---
-title: Dev Team Collaboration
-prerequisites:
-    hard:
-    - tech-big-picture/intro-to-version-control-github
-    - tech-big-picture/intro-to-ui-ux" >
-    - tech-big-picture/testing-and-qa
-    - tech-big-picture/security
-    - tech-big-picture/dev-ops-questions
+_db_id: 921
 content_type: project
-submission_type: repo
+flavours:
+- markdown
+prerequisites:
+  hard:
+  - tech-big-picture/intro-to-version-control-github
+  - tech-big-picture/intro-to-ui-ux
+  - tech-big-picture/testing-and-qa
+  - tech-big-picture/security
+  - tech-big-picture/dev-ops-questions
 protect_main_branch: false
 ready: true
-
+submission_type: repo
+title: Dev Team Collaboration
 ---
 
 Time to put on your research hat. One thing to know about software is that it tends to be built by teams and not individuals. 
@@ -40,4 +42,4 @@ In this project you'll be thinking critically about a few different best-practic
 
 Please follow the following instructions to submit your work:
 
-{{< contentlink path="project-submission-instructions/markdown-questions" >}}  
+{{< contentlink path="project-submission-instructions/markdown-questions" >}}

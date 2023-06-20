@@ -1,7 +1,8 @@
 ---
+_db_id: 929
+content_type: topic
+ready: true
 title: Ethics
-content_type: topic 
-ready: True 
 ---
 
 Software development isn't just about writing code. It's also about making decisions that can have far-reaching impacts. One of the important considerations in software development is ethics. Ethics in software development refers to the principles of right and wrong that guide developers as they design, implement, maintain, and dispose of software systems.

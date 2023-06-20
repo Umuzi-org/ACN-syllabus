@@ -1,10 +1,11 @@
 ---
+_db_id: 932
 content_type: topic
-title: Anatomy of a web app - part 4 - Auth
 prerequisites:
-    hard:
-    - tech-big-picture/how-web-applications-work/part-3
-ready: True
+  hard:
+  - tech-big-picture/how-web-applications-work/part-3
+ready: true
+title: Anatomy of a web app - part 4 - Auth
 ---
 
 In the last part of this series, you loaded more toasters to learn about AJAX, pagination and DOM manipulation. 
@@ -107,10 +108,3 @@ And there's more.
 Online retailers such as Takealot have the responsibility to keep things secure and hire teams of security professionals to keep things safe. 
 
 This section isn't meant to scare you! It's just important for you to know that security is important, and it's not easy. It's also the responsibility of the end-user. If you choose an easy-to-guess password and your privacy is compromised then that's your fault and nobody else's.
-
-
-
-
-
-
-

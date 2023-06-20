@@ -1,12 +1,15 @@
 ---
-title: Why software projects fail
+_db_id: 915
 content_type: project
-submission_type: repo
-protect_main_branch: false
+flavours:
+- markdown
 prerequisites:
-  hard: 
-    - tech-big-picture/software-processes-and-agile-practices
+  hard:
+  - tech-big-picture/software-processes-and-agile-practices
+protect_main_branch: false
 ready: true
+submission_type: repo
+title: Why software projects fail
 ---
 
 Have we mentioned that writing software is hard? An unfortunate thing is that bit software projects fail all the time. There are lots of reasons for this.
@@ -32,5 +35,4 @@ Each question should be answered in 300 - 500 words.
 
 Please follow the following instructions to submit your work:
 
-{{< contentlink path="project-submission-instructions/markdown-questions" >}}  
-
+{{< contentlink path="project-submission-instructions/markdown-questions" >}}

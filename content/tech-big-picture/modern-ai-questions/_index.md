@@ -1,12 +1,15 @@
 ---
-title: Explore AI
+_db_id: 923
 content_type: project
-submission_type: repo
-protect_main_branch: false
+flavours:
+- markdown
 prerequisites:
   hard:
-    - tech-big-picture/modern-ai
+  - tech-big-picture/modern-ai
+protect_main_branch: false
 ready: true
+submission_type: repo
+title: Explore AI
 ---
 
 Please do the following exercises and answer the questions:
@@ -21,4 +24,4 @@ Please do the following exercises and answer the questions:
 
 Please follow the following instructions to submit your work:
 
-{{< contentlink path="project-submission-instructions/markdown-questions" >}}  
+{{< contentlink path="project-submission-instructions/markdown-questions" >}}

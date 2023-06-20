@@ -1,7 +1,8 @@
 ---
+_db_id: 927
 content_type: topic
-title: "The big picture of tech - course introduction"
-ready: True
+ready: true
+title: The big picture of tech - course introduction
 ---
 
 This course aims to give quite a broad overview of tech. It is useful for anyone who is interested into getting into the software development industry in any way.

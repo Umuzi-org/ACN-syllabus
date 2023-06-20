@@ -1,11 +1,11 @@
 ---
+_db_id: 933
 content_type: topic
-title: Anatomy of a web app - part 3 - AJAX
-
 prerequisites:
-    hard:
-    - tech-big-picture/how-web-applications-work/part-2
-ready: True
+  hard:
+  - tech-big-picture/how-web-applications-work/part-2
+ready: true
+title: Anatomy of a web app - part 3 - AJAX
 ---
 
 In the last part of our story, you used the "search" function, and you were redirected to a new page containing your search results.
@@ -94,10 +94,4 @@ This technique is referred to as DOM manipulation.
 
 You have now seen how JavaScript fits into the picture, and you've been introduced to AJAX and DOM Manipulation.
 
-Next up, we're going to learn about authentication and authorization. 
-
-
-
-
-
-
+Next up, we're going to learn about authentication and authorization.
