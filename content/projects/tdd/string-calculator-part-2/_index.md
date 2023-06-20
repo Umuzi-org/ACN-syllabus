@@ -63,41 +63,19 @@ Hint: A valid string input follows these formats:
 
 If the string does not abide by any of these formats, it should be considered invalid. Square brackets (`[` or `]`) are used as identifiers, and will not be used as delimiters. Any string with these as delimiters should also be considered invalid.
 
-```
-add("//;\n1000;1;2;")
-// should throw 'invalid input'
+For example, each of the following function calls should raise/throw an error/exception with the message "invalid input":
 
-add("   //;\n1000,1;2")
-// should throw 'invalid input'
-
-add("//4\n14244")
-// should throw 'invalid input'
-
-add("//4\n414244")
-// should throw 'invalid input'
-
-add("//4\n4243")
-// should throw 'invalid input'
-
-add("//88\n18882")
-// should throw 'invalid input'
-
-add("//$\n1$#$2$3")
-// should throw 'invalid input'
-
-add("//$\n$1#2$3")
-// should throw 'invalid input'
-
-add("1,2,3//;\n1000,1;2")
-// should throw 'invalid input'
-
-add("//]\n90]11]20")
-// should throw 'invalid input'
-
-add("//[[][[][&&]\n1[2[3&&4")
-// should throw 'invalid input'
-
-```
+- `add("//;\n1000;1;2;")`
+- `add(" //;\n1000,1;2")`
+- `add("//4\n14244")`
+- `add("//4\n414244")`
+- `add("//4\n4243")`
+- `add("//88\n18882")`
+- `add("//$\n1$#$2$3")`
+- `add("//$\n$1#2$3")`
+- `add("1,2,3//;\n1000,1;2")`
+- `add("//]\n90]11]20")`
+- `add("//[[][][&&]\n1[2[3&&4")`
 
 ## Instructions for reviewers
 
