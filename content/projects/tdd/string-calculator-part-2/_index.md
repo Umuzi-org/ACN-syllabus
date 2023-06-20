@@ -65,17 +65,29 @@ If the string does not abide by any of these formats, it should be considered in
 
 For example, each of the following function calls should raise/throw an error/exception with the message "invalid input":
 
-- `add("//;\n1000;1;2;")`
-- `add(" //;\n1000,1;2")`
-- `add("//4\n14244")`
-- `add("//4\n414244")`
-- `add("//4\n4243")`
-- `add("//88\n18882")`
-- `add("//$\n1$#$2$3")`
-- `add("//$\n$1#2$3")`
-- `add("1,2,3//;\n1000,1;2")`
-- `add("//]\n90]11]20")`
-- `add("//[[][][&&]\n1[2[3&&4")`
+```
+ add("//;\n1000;1;2;")
+
+ add(" //;\n1000,1;2")
+
+ add("//4\n14244")
+
+ add("//4\n414244")
+
+ add("//4\n4243")
+
+ add("//88\n18882")
+
+ add("//$\n1$#$2$3")
+
+ add("//$\n$1#2$3")
+
+ add("1,2,3//;\n1000,1;2")
+
+ add("//]\n90]11]20")
+
+ add("//[[][][&&]\n1[2[3&&4")
+```
 
 ## Instructions for reviewers
 
