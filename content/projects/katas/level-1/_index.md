@@ -213,7 +213,7 @@ time
 
 Write a function `combine` that combines two lists by taking alternate elements and returns the result. You can assume the lists are of equal size.
 
-Your combine function should be able to work with lists/arrays of unequal size. 
+Your combine function should be able to work with lists/arrays of unequal size. Java and JavaScript folks, please use arrays.
 
 For exampe, `combine([11,22,33,45], [1,2,3])` should return:
 
