@@ -15,7 +15,7 @@ title: Shopping cart calculations
 
 ## Directory structure
 
-### Javascript
+### JavaScript
 
 Your directory structure should look like this:
 
@@ -25,13 +25,34 @@ Your directory structure should look like this:
     └── data.json
 ```
 
+### Java
+
+Your directory structure should look like this:
+
+```
+├── build.gradle
+├── gradle
+│   └── wrapper
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
+├── gradlew
+├── gradlew.bat
+├── settings.gradle
+└── src
+    └── main
+        ├── java
+        |    └── ShoppingCartCalculations.java <------ names are important
+        └── data
+             └── data.json 
+```
+
 ### Python
 
 Your directory structure should look like this:
 
 ```
 ├── data
-    └── data.json
+|   └── data.json
 └── src
     └── shopping_cart.py
 ```
@@ -246,4 +267,4 @@ get_customers_with_open_baskets(shopping_baskets) //python
 - There can be some global constants to help prevent typos. eg `const DELIVERED="DELIVERED"`.
 - Functions are supposed to return very specific things.
 - All the functions stated above should take in at least one argument, the data array, and should work with similar data.
-- **For those using Javascript:** Make sure all their functions functions are exported correctly. Otherwise, the marking bot won't be able to access their code
+- **For those using Javascript:** Make sure all the functions are exported correctly, otherwise, the marking bot won't be able to access the code.
