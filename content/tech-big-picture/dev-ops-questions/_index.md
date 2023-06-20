@@ -1,12 +1,15 @@
 ---
-title: Dev-ops questions
-prerequisites:
-    hard:
-    - tech-big-picture/dev-ops
+_db_id: 925
 content_type: project
-submission_type: repo
+flavours:
+- markdown
+prerequisites:
+  hard:
+  - tech-big-picture/dev-ops
 protect_main_branch: false
 ready: true
+submission_type: repo
+title: Dev-ops questions
 ---
 
 Please answer the following questions:
@@ -21,4 +24,4 @@ Please answer the following questions:
 
 Please follow the following instructions to submit your work:
 
-{{< contentlink path="project-submission-instructions/markdown-questions" >}}  
+{{< contentlink path="project-submission-instructions/markdown-questions" >}}

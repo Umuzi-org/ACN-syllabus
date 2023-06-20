@@ -1,7 +1,8 @@
 ---
-title: Introduction cloud computing
+_db_id: 930
 content_type: topic
-ready: True
+ready: true
+title: Introduction cloud computing
 ---
 
 Cloud computing is a rapidly growing field in the world of technology and plays a crucial role in many aspects of modern software development. It is the on-demand delivery of IT resources over the internet with a pay-as-you-go pricing model. Instead of owning and maintaining their own computing infrastructure or data centers, companies can access technology services, such as computing power, storage, and databases, on an as-needed basis from a cloud provider.

@@ -1,10 +1,11 @@
 ---
+_db_id: 936
 content_type: topic
-title: Anatomy of a web app - part 5 - payment gateways
 prerequisites:
-    hard:
-    - tech-big-picture/how-web-applications-work/part-4
-ready: True
+  hard:
+  - tech-big-picture/how-web-applications-work/part-4
+ready: true
+title: Anatomy of a web app - part 5 - payment gateways
 ---
 
 In the last part of this series, you learned a bit about authentication and authorization, and you learned that security is HARD. 
@@ -81,6 +82,3 @@ We left out a lot of details in the diagram above. It's worth thinking about a l
 That's the end of this story. We did cover quite a lot of ground and it might have seemed like a bit of a whirlwind tour to a lot of you.  It's a lot of new information.
 
 If it's confusing then go and read up on the parts that you weren't sure of and then come back and re-read this story. With enough time you will understand it.
-
-
-

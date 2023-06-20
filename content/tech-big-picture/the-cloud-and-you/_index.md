@@ -1,7 +1,8 @@
 ---
-title: The cloud and you
-content_type: topic 
+_db_id: 940
+content_type: topic
 ready: true
+title: The cloud and you
 ---
 
 Understanding cloud technologies is essential in our increasingly digital world. Here are some major concepts that are important for personal use of these technologies:

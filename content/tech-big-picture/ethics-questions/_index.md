@@ -1,9 +1,12 @@
 ---
+_db_id: 939
 content_type: project
-submission_type: repo
+flavours:
+- markdown
 protect_main_branch: false
-title: Ethics questions
 ready: true
+submission_type: repo
+title: Ethics questions
 ---
 
 Please answer the following questions:
@@ -22,5 +25,4 @@ Please answer the following questions:
 
 Please follow the following instructions to submit your work:
 
-{{< contentlink path="project-submission-instructions/markdown-questions" >}}  
-
+{{< contentlink path="project-submission-instructions/markdown-questions" >}}

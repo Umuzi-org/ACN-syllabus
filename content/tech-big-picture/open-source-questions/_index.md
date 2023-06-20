@@ -1,12 +1,15 @@
 ---
-title: Open source research
+_db_id: 919
 content_type: project
-submission_type: repo
-protect_main_branch: false
+flavours:
+- markdown
 prerequisites:
   hard:
-    - tech-big-picture/open-source
+  - tech-big-picture/open-source
+protect_main_branch: false
 ready: true
+submission_type: repo
+title: Open source research
 ---
 
 Time to put on your research hat! Please answer the following questions:
@@ -27,5 +30,4 @@ Time to put on your research hat! Please answer the following questions:
 
 Please follow the following instructions to submit your work:
 
-{{< contentlink path="project-submission-instructions/markdown-questions" >}}  
-
+{{< contentlink path="project-submission-instructions/markdown-questions" >}}

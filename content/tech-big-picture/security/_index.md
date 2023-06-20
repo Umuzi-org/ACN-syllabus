@@ -1,7 +1,8 @@
 ---
-title: Introduction to security
+_db_id: 920
 content_type: topic
 ready: true
+title: Introduction to security
 ---
 
 Software security is like a safety shield for the programs, apps, and systems that we use every day. Just like how a lock on a door helps keep our homes safe, software security helps keep our digital spaces safe.
@@ -65,4 +66,3 @@ In a way, it's everybody's job. Consider a large software project like an online
 ## Learning more
 
 If you want to become a security professional yourself, then [this course](https://alison.com/course/comptia-security-exam-sy0-501?utm_source=alison_user&utm_medium=affiliates&utm_campaign=31931242) is a good start.
-

@@ -1,7 +1,8 @@
 ---
-title: Tech roles and careers
+_db_id: 926
 content_type: topic
 ready: true
+title: Tech roles and careers
 ---
 
 As you have seen, the tech landscape os pretty vast and varied. This means that there are a lot of different roles to play and a lot of different careers that are suitable for different types of people.
@@ -73,10 +74,3 @@ A Business Analyst helps to bridge the gap between IT and business, using data a
 ### Project Manager
 
 Project managers oversee a software project from conception to implementation. They coordinate between different teams, manage resources, and ensure that the project is on track
-
-
-
-
-
-
-

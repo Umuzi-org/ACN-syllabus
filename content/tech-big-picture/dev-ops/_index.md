@@ -1,7 +1,8 @@
 ---
-title: Introduction to  DevOps
+_db_id: 918
 content_type: topic
 ready: true
+title: Introduction to  DevOps
 ---
 
 DevOps, a combination of "development" and "operations," is a set of practices that combines software development and IT operations. It aims to shorten the systems development life cycle and provide continuous delivery with high software quality. DevOps is closely associated with the Agile software development methodology and complements it in many ways.
