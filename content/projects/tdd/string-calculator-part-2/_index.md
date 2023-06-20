@@ -56,15 +56,10 @@ If the string passed in is invalid, your code should be able to detect this and 
 
 Hint: A valid string input follows these formats:
 
-```md
-- "integer,integer,integer" e.g "1,2" or "1,2,3,4"
-
-- "integer \n integer,integer e.g "1\n2,3"
-
-- "//delimiter \n integer delimiter integer" e.g "//;\n1;2"
-
-- "//[delimiter][delimiter]\n integer delimiter integer" e.g "//[\*][%]\n1\*2%3"
-```
+- `"integer,integer,integer"` e.g "1,2" or "1,2,3,4"
+- `"integer \n integer,integer"` e.g "1\n2,3"
+- `"//delimiter \n integer delimiter integer"` e.g "//;\n1;2"
+- `"//[delimiter][delimiter]\n integer delimiter integer"` e.g "//[\*][%]\n1\*2%3"
 
 If the string does not abide by any of these formats, it should be considered invalid. Square brackets (`[` or `]`) are used as identifiers, and will not be used as delimiters. Any string with these as delimiters should also be considered invalid.
 
