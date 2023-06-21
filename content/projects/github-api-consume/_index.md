@@ -2,24 +2,24 @@
 _db_id: 186
 content_type: project
 flavours:
-- any_language
+  - any_language
 learning_outcomes:
-- web_dev_http_requests
-- web_dev_api_call_tools
-- web_dev_restful_apis
-- web_dev_json_data_representation
-- web_dev_api_consumption
+  - web_dev_http_requests
+  - web_dev_api_call_tools
+  - web_dev_restful_apis
+  - web_dev_json_data_representation
+  - web_dev_api_consumption
 prerequisites:
   hard:
-  - topics/apis/basics/
+    - topics/apis/basics/
   soft: []
 ready: true
 story_points: 3
 submission_type: repo
 tags:
-- api
-- github
-- logical-operators
+  - api
+  - github
+  - logical-operators
 title: Consume Github API
 ---
 
@@ -57,7 +57,7 @@ Your directory structure should look like this:
 └── src
     └── main
         └── java
-            └── ConsumeGithubAPI.java       <-------- names are important 
+            └── ConsumeGithubAPI.java       <-------- names are important
 ```
 
 ## Instructions
@@ -77,8 +77,6 @@ The function should return a list or array of pull requests on the repo such tha
 
 For each PR include the `id`, `user` (who opened the PR), `title`, `state`, and when it was created.
 While for private repos a token will be required, the function should be able to work on public repos (eg. [ACN-syllabus](https://github.com/Umuzi-org/ACN-syllabus)) without needing a token.
-
-Use this url: `https://api.github.com/repos/{repoOwner}/{repoName}/pulls`. Learn more about it [here](https://docs.github.com/en/rest/pulls/pulls?apiVersion=2022-11-28#list-pull-requests)
 
 **For those using javaScript**, please use [the axios library](https://axios-http.com/) for making the API calls.
 
