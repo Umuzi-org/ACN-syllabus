@@ -5,26 +5,26 @@ prerequisites:
   hard:
   - tech-big-picture/how-the-internet-works
 ready: true
-title: Anatomy of a web app - part 1 - Requests and responses
+title: Anatomy of a web app - part 1 - Requests and Responses
 ---
 
-In this series of topics we'll be talking through all the moving parts that make a web application work. We'll start off very simple and add layers of complexity over time so you can see the purpose of every piece of the puzzle.
+In this series of topics, we'll be talking through all the moving parts that make a web application work. We'll start off very simple and add layers of complexity over time so you can see the purpose of every piece of the puzzle.
 
 ## Before we begin...
 
-Before we begin, it's worth noting that this is a oversimplification of how web apps work. We're keeping it simple so that we can teach specific lessons about how web applications work. 
+Before we begin, it's worth noting that this is an oversimplification of how web apps work. We're keeping it simple so that we can teach specific lessons about how web applications work. 
 
 Take a look at [this](https://en.wikipedia.org/wiki/Lie-to-children). 
 
 ## Once upon a time...
 
-Here is the scenario. You need a toaster so you decide to order one online. You open up your web browser (Chrome, Firefox, Safari or whatever you use) and you navigate to your favorite online retailer's store to begin your search.
+Here is the scenario. You need a toaster so you decide to order one online. You open up your web browser (Chrome, Firefox, Safari or whatever you use) and you navigate to your favourite online retailer's store to begin your search.
 
 You might end up looking at something a bit like this:
 
 ![](takealot_home.png)
 
-What you are looking at there is a screenshot of a web browser that is looking at the Takealot home page. Takealot is South Africa's everything store.
+What you are looking at here is a screenshot of a web browser that is looking at the Takealot home page. Takealot is South Africa's Everything store.
 
 ## The URL
 
@@ -34,15 +34,15 @@ A URL is made up of a few parts:
 
 1. A protocol: Web browsers sometimes hide this part of the URL. The full URL for the site above is: `https://takealot.com`. The protocol is the part before the `://`. So in this case the protocol is https.
 2. The domain name: The domain name can be thought of as something like a physical address. 
-3. Whatever comes after the domain name. In this case there isn't anything, but it's good to know that URLs can contain all sorts of extra information
+3. Whatever comes after the domain name. In this case, there isn't anything, but it's good to know that URLs can contain all sorts of extra information
 
 ### What's a protocol
 
 A web protocol is like a set of rules for how computers talk to each other over the internet. You can think of it as the language computers use to communicate with each other.
 
-Imagine writing a really formal letter to the fanciest person you know. The letter would have a few parts to it, and those parts would appear in specific places. 
+Imagine writing a formal letter to the fanciest person you know. The letter would have a few parts to it, and those parts would appear in specific places. 
 
-Some things that would appear on such a fancy-pants letter would be:
+Some things that would appear in such a fancy-pants letter would be:
 
 - the date
 - the sender's address
@@ -59,7 +59,7 @@ An HTTP message has a few parts to it, the main things we need to care about at 
 
 ### Didn't you say HTTPS?
 
-The Internet is a bit of a wild place - it's made up of a LOT of computers and other devices. When a message is sent over the Internet it doesn't go straight to it's destination. It gets sent from device to device until eventually it reaches it's destination.
+The Internet is a bit of a wild place - it's made up of a LOT of computers and other devices. When a message is sent over the Internet it doesn't go straight to its destination. It gets sent from device to device until eventually, it reaches its destination.
 
 Any device that handles a message can just read it whenever it wants to. 
 
@@ -69,7 +69,7 @@ You can tell if a website is running HTTPS by interacting with the URL bar of yo
 
 ## Displaying the web page 
 
-Once you type in a URL then the browser somehow figures out what to display. There are logos and colors and adverts and all sorts of interesting stuff. The browser needs to fetch that information from somewhere.
+Once you type in a URL then the browser somehow figures out what to display. There are logos and colours and adverts and all sorts of interesting stuff. The browser needs to fetch that information from somewhere.
 
 Remember when we said that a domain name is like a physical address? You can think of it as the address of a computer, that computer "serves" the website and is called a "server".
 
