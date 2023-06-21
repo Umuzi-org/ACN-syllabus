@@ -108,6 +108,8 @@ get_pull_requests("Umuzi-org", "ACN-syllabus", "2022-03-01", "2022-03-10")
 
 **Note:** the `state` and `title` properties may not be exactly the same because things change. The PR may have been closed and the title may have been updated for many reasons.
 
+**Note:** please use json.dumps to ensure that your output is well formatted and easy to read. 
+
 ### Pagination
 
 **Pagination** is a process that is used to divide a large dataset into smaller chunks (pages).
