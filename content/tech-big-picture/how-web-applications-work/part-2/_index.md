@@ -8,7 +8,7 @@ ready: true
 title: Anatomy of a web app - part 2 - Databases
 ---
 
-In the last part of our story, you successfully accessed the home page of an online store. You say how your browser requested as bunch of files from the server and then interpreted those files in order to draw a user interface.
+In the last part of our story, you successfully accessed the home page of an online store. You say how your browser requested a bunch of files from the server and then interpreted those files to draw a user interface.
 
 ## The story continues 
 
@@ -18,19 +18,19 @@ You get redirected to a new page. It looks pretty different.
 
 ![](toaster-search-results.png)
 
-### The url
+### The URL
 
 The first thing to notice is that the URL changed. 
 
 - The protocol is the same
 - the domain is the same
-- everything after the `.com` is totally new
+- everything after the `.com` is new
 
-The thing to know here is that you can have extra information in a url. So when the client (your browser) sends a request to the server it will include the entire url in the request.
+The thing to know here is that you can have extra information in a URL. So when the client (your browser) sends a request to the server it will include the entire URL in the request.
 
-If you look closely at the url you'll see it says `qsearch=toaster` right at the end. That's how the server will know that you are searching for a toaster. 
+If you look closely at the URL you'll see it says `qsearch=toaster` right at the end. That's how the server will know that you are searching for a toaster. 
 
-Let's say you want to search for something more specific such as a `smeg 4-slice toaster`. If you fill that into the search bar then click search then the URL will show your new search terms. 
+Let's say you want to search for something more specific such as a `smeg 4-slice toaster`. If you fill that into the search bar and then click search then the URL will show your new search terms. 
 
 ## Infinite possibilities!
 
@@ -48,10 +48,10 @@ If spreadsheets are unfamiliar to you then it would be good to play with them a 
 
 Here are some free options:
 
-- [Google Sheets](https://www.google.com/sheets/about/) - this is basically a free, cloud hosted version of Microsoft Excel
-- [Airtable](https://airtable.com/invite/r/svpGJ62f) - Airtable markets itself as a low‒code platform to build next‒gen apps.  It's effectively a database and an ecosystem of plugins. It's very handy
+- [Google Sheets](https://www.google.com/sheets/about/) - this is a free, cloud-hosted version of Microsoft Excel
+- [Airtable](https://airtable.com/invite/r/svpGJ62f) - Airtable markets itself as a low‒code platform to build next-gen apps.  It's effectively a database and an ecosystem of plugins. It's very handy
 
-So the Takealot server has access to a database full of product information. That database is not going to be a literal spreadsheet, but you can think of the data as being arranges in rows and columns.  If you want to learn how these kinds of databases really work then [here](https://www.sololearn.com/learn/courses/sql-introduction) is a good introduction.
+So the Takealot server has access to a database full of product information. That database is not going to be a literal spreadsheet, but you can think of the data as being arranged in rows and columns.  If you want to learn how these kinds of databases work then [here](https://www.sololearn.com/learn/courses/sql-introduction) is a good introduction.
 
 When a request for toasters arrives at the Takealot server, then the server takes that request and it turns it into a database query, it makes use of a special programming language that the database can understand. 
 
