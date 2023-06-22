@@ -13,7 +13,7 @@ submission_type: repo
 title: 'Coding aptitude assessment challenge: Task 7'
 ---
 
-Write a function that takes in a number representing the temperature in Celsius and returns the temperature in Fahrenheit.
+Write a function that takes in a number representing the temperature in Celsius and **return** the temperature in Fahrenheit.
 
 Example usage:
 
