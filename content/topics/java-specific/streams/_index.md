@@ -64,6 +64,6 @@ List number = Arrays.asList(2,3,4,5);
 int even = number.stream().filter(x->x%2==0).reduce(0,(ans,i)-> ans+i);
 ```
 
-### Resources
-1. [Stackify](https://stackify.com/streams-guide-java-8/)
-2. [GeeksForGeeks](https://www.geeksforgeeks.org/stream-in-java/)
+#### Resources
+- [Stackify](https://stackify.com/streams-guide-java-8/)
+- [GeeksForGeeks](https://www.geeksforgeeks.org/stream-in-java/)
