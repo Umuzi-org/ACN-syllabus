@@ -13,7 +13,7 @@ submission_type: repo
 title: 'Coding aptitude assessment challenge: Task 5'
 ---
 
-Write a function that takes in three numbers(integers) and returns the maximum number.
+Write a function that takes in three numbers(integers) and **returns** the maximum number.
 
 Do this without using any built-in methods. Write your own logic from scratch.
 
