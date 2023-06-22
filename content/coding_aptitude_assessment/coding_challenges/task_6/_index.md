@@ -13,11 +13,11 @@ submission_type: repo
 title: 'Coding aptitude assessment challenge: Task 6'
 ---
 
-Write a function that can take in any number of numbers. It should return the maximum number.
+Write a function that can take in any number of numbers(integers). It should return the maximum number from those numbers.
 
 Do this without using built-in methods. Write your own logic from scratch.
 
-Again, the function should expect a bunch of numbers as input, not an array or list.
+Again, the function should expect a bunch of numbers(integers) as input, not an array or list.
 
 ```
 task6([1,2,44,3])  // BAD
