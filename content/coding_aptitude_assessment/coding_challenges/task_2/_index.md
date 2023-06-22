@@ -21,8 +21,6 @@ Write a function that takes in a single *optional* parameter. It should work lik
 - `task2("Tshepo")` should print `Hello Tshepo!`
 - `task2()` should print `Hello Friend!`. Note that we are passing in no arguments here.
 
-If you aren't sure about anything related to what needs to be done here, please check the hard prerequisites above.
-
 ## Check your understanding! 
 
 - How do function arguments/parameters work? 
