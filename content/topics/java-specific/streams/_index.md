@@ -43,7 +43,7 @@ List result = names.stream().sorted().collect(Collectors.toList());
 
 These are operations that result in a final value that marks the stream as consumed and no further processing can be done.
 
-- **collect**: The `collect()` method is used to receive elements from steam and store them in a collection.
+- **collect**: The `collect()` method is used to receive elements from stream and store them in a collection.
 
 ```
 List number = Arrays.asList(2,3,4,5,3);
