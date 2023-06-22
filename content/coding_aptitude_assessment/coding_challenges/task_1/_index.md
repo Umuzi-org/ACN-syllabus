@@ -13,7 +13,7 @@ submission_type: repo
 title: 'Coding aptitude assessment challenge: Task 1'
 ---
 
-Write a function that simply prints the string "Hello World!".
+Write a function that simply **prints** the string "Hello World!".
 
 ## Javascript
 
