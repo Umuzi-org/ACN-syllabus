@@ -13,7 +13,7 @@ submission_type: repo
 title: 'Coding aptitude assessment challenge: Task 8'
 ---
 
-Make a function to convert a number representing minutes into hours and minutes. It should return a string showing the numbers of hours and minutes.
+Make a function to convert a number representing minutes into hours and minutes. It should **return** a string showing the number(s) of hours and minutes.
 
 Example usage:
 
