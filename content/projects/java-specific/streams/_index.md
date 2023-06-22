@@ -14,17 +14,13 @@ tags:
 title: Java Streams
 ---
 
-Remember your semitone challenge project ***(see prerequisites above)*** well for this project we are about to make that project more cooller.
+Remember your semitone challenge project? well, for this project we are about to make the semitone project a bit cooler by using other functions to process the very same data structures.
 
-The requirements here is that you should have already submitted your semitone project with basic algorith and now we are going to use other functions to process those data structures.
+## Instructions:
 
-#### Instructions:
-
-Pretty simple just use atleast three operators of streams to refactor your implementation of the semitone challenge, make sure you test your logic aspecially the paths that use streams.
-
+Pretty simple. You need to use at least three operators of streams to refactor your implementation of the semitone difference project. Make sure you test your logic, especially the paths that use streams.
 
 #### Instructions for reviewer
 
 - Ensure that 3 or more stream functions are used.
-
 - Ensure that tests exist, they should test the logic where streams are used.
