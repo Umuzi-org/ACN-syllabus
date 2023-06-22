@@ -33,7 +33,7 @@ So requests get sent to the server when you navigate to a new page. But they can
 
 If you think back to earlier in this course, you would have been introduced to the 3 languages of the web. HTML, CSS and JavaScript. 
 
-HTML describes the content of a web page, CSS describes the looks. Javascript describes the smarts - you can use JavaScript to implement algorithms.
+HTML describes the content of a web page, and CSS describes the looks. Javascript describes the smarts - you can use JavaScript to implement algorithms.
 
 When you click on the "Load More" button then some Javascript functionality is triggered. The algorithm looks like this:
 
@@ -45,17 +45,17 @@ Draw the new toasters onto the screen
 Change the Load More button so it no longer looks like a spinner
 ```
 
-AJAX sounds fancy, but it really just means: Sending HTTP(S) requests from a browser whenever you need to (instead of just on page load).
+AJAX sounds fancy, but it just means: Sending HTTP(S) requests from a browser whenever you need to (instead of just on page load).
 
 ## Some things to notice
 
-There are a few cool things happening here:
+A few cool things are happening here:
 
 ### Pagination
 
-Not all toasters were loaded when you accessed the search result page for the first time, you actually needed to load more. Most websites that need to display large listings of information do something similar. The technique is called paging or pagination. 
+Not all toasters were loaded when you accessed the search result page for the first time, you needed to load more. Most websites that need to display large listings of information do something similar. The technique is called paging or pagination. 
 
-This is useful because if you fetch absolutely all the toaster information on the first page visit then:
+This is useful because if you fetch all the toaster information on the first-page visit then:
 
 - you'd be fetching a lot of data, much of which would be irrelevant
 - the server and database would be doing extra work for nothing
@@ -84,7 +84,7 @@ Here is the algorithm again:
 
 Can you see how JavaScript was used to manipulate the HTML and CSS of the website?
 
-A possible point of confusion is that, even though HTML and CSS are being manipulated, Javascript isn't actually changing any of the original files. 
+A possible point of confusion is that, even though HTML and CSS are being manipulated, Javascript isn't changing any of the original files. 
 
 When a browser receives HTML and CSS files then it draws a picture called the DOM (Document Object Model). When you use Javascript to make changes to what is displayed then you are not changing the original files, you are editing the DOM.
 
