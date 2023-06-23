@@ -82,8 +82,10 @@ Make sure to cater for punctuation marks and all special characters.
 
 Include the following assertions in your code:
 
-- Assert that the output and input both have the same number of characters represented. Use the string `"input and output characters are not equal"` as the assertion error message.
-- Assert that there are the right number of spaces represented in the output. Use the string `"input and output space characters are not equal"` as the assertion error message.
+- Assert that the output and input both have the same number of characters represented.
+- Assert that there are the right number of spaces represented in the output.
+
+For your assertion messages, think about which error messages would be useful and use them appropriately.
 
 Make sure that when you do this, your code remains clean and dry.
 
