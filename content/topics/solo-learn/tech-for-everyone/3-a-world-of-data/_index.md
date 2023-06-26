@@ -12,4 +12,4 @@ title: Solo Learn - Tech for everyone - Module 3 - A World of Data
 
 Complete the above-mentioned module on Solo Learn.
 
-https://www.sololearn.com/learn/courses/tech-for-everyone
+[Tech for Everyone](https://www.sololearn.com/learn/courses/tech-for-everyone)
