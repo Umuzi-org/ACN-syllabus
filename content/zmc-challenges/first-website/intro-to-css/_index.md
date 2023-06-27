@@ -9,7 +9,7 @@ link_example: https://your-name.github.io/your-repo-name/
 link_message: Please make sure you are linking to your github page, not just your
   repo. If someone follows the link then they should see your website
 link_name: Github page url
-link_regex: https://.*\.github.io/.*/?$
+link_regex: https://.*\.github\.io/(?!.*\.html/?$).*
 submission_type: link
 title: Introducing CSS
 ---
@@ -26,8 +26,10 @@ Create a css file in your repo and reference it in each of your html files by ma
 
 ### 2. Add some styles 
 
-- set the background colour of your entire html page 
-- change the colour of the text 
+Here are the requirements: 
+
+- set the background colour of part of your web page. You can see the different ways to change a background [here](https://www.w3schools.com/css/css_background.asp). Make sure you use the appropriate property to change the background colour
+- change the colour of some text. Take a look [here](https://www.w3schools.com/css/css_text.asp) if you are not sure how 
 - change the style of h1 elements so that they stand out more. You might want to change their size or font, or something else
 
 Make sure that the css styles are being applied when you view your website.

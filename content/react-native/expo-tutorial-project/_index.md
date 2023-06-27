@@ -2,8 +2,8 @@
 _db_id: 785
 content_type: project
 flavours:
-  - javascript
-  - typescript
+- javascript
+- typescript
 ready: true
 submission_type: repo
 title: Expo tutorial project
