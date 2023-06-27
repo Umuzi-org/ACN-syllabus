@@ -57,7 +57,16 @@ In other words, there should be no directories. Only modules.
 
 If you are writing JS code then your files would follow a similar pattern. You would just have `.js` instead of `.py` files.
 
-## Note to Javascript developers:
+If you are using Java, your file names should be capitalized, like so:
+
+```
+├── Task1.java
+├── Task2.java
+└── Task3.java
+...
+```
+
+## Note to JavaScript developers:
 
 - Please don't submit any HTML or CSS. Please don't use `document.write`. We are interested in seeing how you implement these algorithms. Use `console.log` if you are asked to print things.
 - At the end of every one of your task files you need to export the function. You do this by including an export statement like this:
@@ -95,9 +104,9 @@ public class Task1 {
 
 Katas are pretty common in coding (and martial arts). Katas are about practicing and perfecting fundamental skills. There are a few different skills we need to see here.
 
-The first thing is git! It's seriously important so we want to see you developing good habits.
+The first thing is git! It's seriously important so we want to see you develop good habits.
 
-For every exercise in this project, you need to make a new pull request and a new branch on github.
+For every exercise in this project, you need to make a new pull request and a new branch on GitHub.
 
 So, if you are writing code for the first exercise then you should do this:
 
@@ -107,7 +116,7 @@ git pull
 git checkout -b task/1
 ```
 
-Now you have branch for your hello code to live in. Create a file for your hello function to live in. Commit, push then make a pull request. Make some noise about your PR so that we can take a look at it and give you feedback.
+Now you have a branch for your hello code to live in. Create a file for your hello function to live in. Commit, push then make a pull request. Make some noise about your PR so that we can take a look at it and give you feedback.
 
 While you wait for feedback, you can start the next exercise.
 
@@ -127,7 +136,7 @@ If you follow the simple instructions in the "what does success look like?" sect
 
 ## Super important!
 
-At this point you should be using git from the command line. If you drag and drop to upload your code, you are doing it wrong. Git is amazingly important and now is the time to get used to it!
+At this point, you should be using git from the command line. If you drag and drop to upload your code, you are doing it wrong. Git is amazingly important and now is the time to get used to it!
 
 **Name your files according to the tasks e.g task1.js and the functions according to the instructions**
 
@@ -209,7 +218,7 @@ For example, `triangle(-4)` should print:
 
 Write a function `longest` that takes in an array/list of strings and then prints out the longest one.
 
-For example, `longest(["the","quick","brown", "fox", "ate", "my", "chickens"])` should print:
+For example, `longest(["the", "quick", "brown", "fox", "ate", "my", "chickens"])` should print:
 
 ```
 chickens
@@ -229,7 +238,11 @@ time
 
 Write a function `combine` that combines two lists by taking alternate elements and returns the result. You can assume the lists are of equal size.
 
-Your combine function should be able to work with lists of unequal size.
+Your combine function should be able to work with lists/arrays of unequal size. 
+
+### Java specific instructions for this task:
+- Your function should be able to accept an array of integers as an input.
+- Your function should return an array of integers.
 
 For exampe, `combine([11,22,33,45], [1,2,3])` should return:
 
@@ -237,7 +250,7 @@ For exampe, `combine([11,22,33,45], [1,2,3])` should return:
 [11,1,22,2,33,3,45]
 ```
 
-Also, the output lists should maintain the list items in the original order in which they appeared in the input lists, so combine([12, 4, 2], [1, 5, 3]) should return:
+Note that the order of the final output matters. The integers in the final output must be in the same order as they were in the input. For example, combine([12, 4, 2], [1, 5, 3]) should return:
 
 ```
 [12,1,4,5,2,3]
