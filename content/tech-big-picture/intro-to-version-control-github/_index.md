@@ -11,7 +11,7 @@ Here are a few articles that explain what it is all about. These articles do go 
 
 At this point it's good to just focus on **why** version control is a good idea. 
 
-- https://www.atlassian.com/git/tutorials/what-is-version-control
+- [What is version control?](https://www.atlassian.com/git/tutorials/what-is-version-control)
 - https://medium.com/@lanceharvieruntime/version-control-why-do-we-need-it-1681f4888cec
 - https://servian.dev/importance-of-version-control-and-why-you-need-it-aae53dac208a
 
