@@ -27,7 +27,7 @@ UI/UX design has a direct impact on a product's success, influencing user satisf
 
 ## Resources
 
-- [Bootcamp ux design: Basic introduction to ux and ui design.](https://bootcamp.uxdesign.cc/basic-introduction-to-user-experience-and-user-interface-design-f0aae08a2b44)
-- [Future learn: Introduction to ux and ui](https://www.futurelearn.com/info/blog/introduction-to-ux-ui)
-- [Career foundry: What is ux design](https://careerfoundry.com/en/tutorials/ux-design-for-beginners/what-is-ux-design/)
+- [Bootcamp UX design: Basic introduction to UX and UI design.](https://bootcamp.uxdesign.cc/basic-introduction-to-user-experience-and-user-interface-design-f0aae08a2b44)
+- [Future learn: Introduction to UX and ui](https://www.futurelearn.com/info/blog/introduction-to-ux-ui)
+- [Career foundry: What is UX design](https://careerfoundry.com/en/tutorials/ux-design-for-beginners/what-is-ux-design/)
 - [Nailing UX Interviews and Creating a Viable UX Design Career](https://alison.com/course/nailing-ux-interviews-and-creating-a-viable-ux-design-career?utm_source=alison_user&utm_medium=affiliates&utm_campaign=31931242): This 1.5 - 3 hour mini-course will tell you a bit about how you can start a career in UI/UX.
