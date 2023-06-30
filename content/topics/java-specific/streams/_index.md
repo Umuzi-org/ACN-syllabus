@@ -8,9 +8,9 @@ Streams are one of the major features introduced in Java 8. Streams are a sequen
 
 ## The features of Java streams
 
-- A stream is not a data structure. Instead, a stream takes input from the `Collections`, `Arrays`, or `I/O channels`.
-- Streams don’t change the original data structure, they only provide the result as per the pipelined methods.
-- Each intermediate operation is lazily executed and returns a stream as a result, hence various intermediate operations can be pipelined. Terminal operations mark the end of the stream and return the result.
+A stream is not a data structure. Instead, a stream takes input from the `Collections`, `Arrays`, or `I/O channels`.
+Streams don’t change the original data structure, they only provide the result as per the pipelined methods.
+Each intermediate operation is lazily executed and returns a stream as a result, hence various intermediate operations can be pipelined. Terminal operations mark the end of the stream and return the result.
 
 ### We have two types of operations with streams
 
@@ -28,14 +28,14 @@ List square = number.stream().map(x->x*x).collect(Collectors.toList());
 - **filter**: The `filter()` method is used to select elements that match the *predicate* that is passed as an argument.
 
 ```
-List names = Arrays.asList("Reflection","Collection","Stream");
+List names = Arrays.asList("Reflection", "Collection", "Stream");
 List result = names.stream().filter(s->s.startsWith("S")).collect(Collectors.toList());
 ```
 
 - **sorted**: The `sorted()` method is used to sort the stream.
 
 ```
-List names = Arrays.asList("Reflection","Collection","Stream");
+List names = Arrays.asList("Reflection", "Collection", "Stream");
 List result = names.stream().sorted().collect(Collectors.toList());
 ```
 
@@ -43,7 +43,7 @@ List result = names.stream().sorted().collect(Collectors.toList());
 
 These are operations that result in a final value that marks the stream as consumed and no further processing can be done.
 
-- **collect**: The `collect()` method is used to receive elements from stream and store them in a collection.
+- **collect**: The `collect()` method is used to receive elements from a stream and store them in a collection.
 
 ```
 List number = Arrays.asList(2,3,4,5,3);
