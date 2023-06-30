@@ -13,16 +13,50 @@ tags:
 title: Shopping cart calculations
 ---
 
-## Directory structure
+## Language specific notes
 
 ### JavaScript
 
 Your directory structure should look like this:
 
 ```
-├── src
-    ├── shopping_cart.js
-    └── data.json
+└── src
+    └──shopping_cart.js
+```
+
+#### JavaScript Destructuring 
+
+In Javascript it is best practice to use destructuring when passing arguments to a function. You can learn about destructuring here: [destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment).
+
+Please make sure you use destructuring for all your functions.
+
+Let's say you have a function called getCustomerBaskets that takes an email address and data-structure containing all the shopping baskets as input. 
+
+```
+// DON'T DEFINE YOUR FUNCTION LIKE THIS
+function getCustomerBaskets(allShoppingBaskets, "sine@umuzi.org"){...} 
+
+// DON'T CALL YOUR FUNCTION LIKE THIS
+getCustomerBaskets("sine@umuzi.org", customerBaskets); 
+
+// The problem with the above code is that if you get the order of the parameters wrong, then things will break. Your functions should work like this instead:
+
+// DEFINE YOUR FUNCTION LIKE THIS
+function getCustomerBaskets({ allShoppingBaskets, email }) {...}
+
+// YOU CAN CALL IT LIKE THIS
+getCustomerBaskets({allShoppingBaskets, email}) //DO THIS
+```
+
+#### JavaScript Exports
+
+Make sure you export all your functions using the following format: 
+
+```
+module.exports = { 
+    YOUR_FIRST_FUNCTION_NAME, 
+    YOUR_SECOND_FUNCTION_NAME,... 
+    };
 ```
 
 ### Java
@@ -40,10 +74,9 @@ Your directory structure should look like this:
 ├── settings.gradle
 └── src
     └── main
-        ├── java
-        |    └── ShoppingCartCalculations.java <------ names are important
-        └── data
-             └── data.json 
+        └── java
+             └── ShoppingCartCalculations.java <------ names are important
+
 ```
 
 ### Python
@@ -51,8 +84,6 @@ Your directory structure should look like this:
 Your directory structure should look like this:
 
 ```
-├── data
-|   └── data.json
 └── src
     └── shopping_cart.py
 ```
@@ -83,11 +114,11 @@ Take a look at this to see how you can see Tilde's data structures:
 
 Ideally, you will be able to build stuff at least as complicated as that. But we're going to start with some simpler things.
 
-## Get started with the project by adding the data to your repo
+## Get started with the project by understanding the data format
 
-First of all, please **download the data in [this file](data.json) and add it to your repo**. All of your functions should take this data structure as an argument.
+First of all, please **download the data in [this file](data.json)**.  You can use it for testing out your functions. 
 
-If you look at the data you'll see that what we have is a list or array of elements. Each element represents a shopping basket.
+If you look at the data you'll see that what we have is a list or array of elements. Each element represents a single shopping basket.
 
 Each shopping basket has a few different pieces:
 
@@ -114,50 +145,33 @@ Then it means that the person is buying 2 hamsters at a price of R20 each. So th
 
 Please note that one person can have multiple baskets. If you look at the data, you'll see that tshepo@umuzi.org has 4 baskets. Two have been delivered, one has been paid for (so he's awaiting delivery) and one is open (so he's setting up his next order).
 
+## Working with json files 
+
+JSON is a lovely data format because it is easy for humans to read, and machines like it too. 
+
+If you are working in **Python** then you can turn the json file into a data structure in your code by making use of the [json package](https://docs.python.org/3/library/json.html).
+
+In JavaScript you can simply `require` a JSON file and then it'll get converted into the appropriate data-structure.
+
 ## Write some functionality
-
-### Important notes for Javascript solutions
-
-#### 1. Destructuring
-
-In Javascript it is best practice to use destructuring when passing arguments to a function. You can learn about destructuring here: [destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment).
-
-Please make sure you use destructuring for all your functions.
-
-```
-getCustomerBaskets(shoppingBaskets, "sine@umuzi.org"); // DON'T DO THIS
-getCustomerBaskets("sine@umuzi.org", customerBaskets); // DON'T DO THIS EITHER
-
-// The problem with the above code is that if you get the order of the parameters wrong, then things will break. Your functions should work like this instead:
-
-function getCustomerBaskets({ shoppingBaskets, email }) {...}
-
-getCustomerBaskets({shoppingBaskets, email}) //DO THIS
-```
-
-#### 2. Exports
-
-Export all your functions for the bot to be able access and mark your code. You do this by including an export statement like this.
-
-```
-module.exports = { 
-    YOUR_FIRST_FUNCTION_NAME, 
-    YOUR_SECOND_FUNCTION_NAME,... 
-    };
-```
 
 ### get baskets belonging to a single customer
 
-Write a function called `get customer baskets` that takes in the email address and the data array as arguments and returns a list/array of all the shopping baskets that belong to the customer with that email address.
+Write a function called `get customer baskets` that takes in two arguments:
+
+- the email address of a customer 
+- a list/array of all the shopping baskets
+
+The function must return a list/array of all the shopping baskets that belong to the customer with that email address.
 
 If the customer has no shopping baskets then return an empty list/array.
 
-e.g.
+Different languages have different requirements for datatypes
 
 ```
-getCustomerBaskets({ email, shoppingBaskets }); // javascript
-getCustomerBaskets(email, shoppingBaskets); // java
-get_customer_baskets(email, shopping_baskets) // python
+getCustomerBaskets({ email, allShoppingBaskets }); // javascript
+getCustomerBaskets(email, allShoppingBaskets); // java
+get_customer_baskets(email, all_shopping_baskets) // python
 ```
 
 This kind of data should be returned if `someone@umuzi.org` has only one basket.
@@ -183,9 +197,9 @@ Write a function called `get all customers`, the function should take the data a
 e.g.
 
 ```
-getAllCustomers({ shoppingBaskets }); //javascript
-getAllCustomers(shoppingBaskets); //java
-get_all_customers(shopping_baskets) // python
+getAllCustomers({ allShoppingBaskets }); //javascript
+getAllCustomers(allShoppingBaskets); //java
+get_all_customers(all_shopping_baskets) // python
 ```
 
 ### list all the items that have been paid for but not yet delivered
@@ -196,9 +210,9 @@ You need to return data in the correct format. Just include the names and quanti
 e.g.
 
 ```
-requiredStock({ shoppingBaskets }); //javascript
-requiredStock(shoppingBaskets); //java
-required_stock(shopping_baskets) //python
+requiredStock({ allShoppingBaskets }); //javascript
+requiredStock(allShoppingBaskets); //java
+required_stock(all_shopping_baskets) //python
 ```
 
 For example, if one customer paid for 2 hamsters and another customer paid for one hamster and a bag of sawdust then your function should return the following data structure:
@@ -212,30 +226,31 @@ For example, if one customer paid for 2 hamsters and another customer paid for o
 
 ### Get the total amount spent by a customer
 
-Write a function called `total spent` that takes an email address as an argument and the data array.
+Write a function called `get total spent` that takes an email address as an argument and the data array.
 The function must return the total amount that the customer has spent up until this time.
 
 e.g.
 
 ```
-totalSpent({ email, shoppingBaskets }); //javascript
-totalSpent(email, shoppingBaskets); //java
-total_spent(email, shopping_baskets) //python
+getTotalSpent({ email, allShoppingBaskets }); //javascript
+getTotalSpent(email, allShoppingBaskets); //java
+get_total_spent(email, all_shopping_baskets) //python
 ```
 
 Note that if a basket has been delivered then it has been paid for.
 
 ### Top customers
 
-Write a function called `top customers` that takes the data array as an argument and returns a list/array of all the customers. The result should be ordered according to the total amount spent.
+Write a function called `get top customers` that takes the data array as an argument and returns a list/array of all the customers. The result should be ordered according to the total amount spent.
+
 The returned data structure should be an array/list of dictionaries/objects showing the email addresses and the total amounts spent per customer.
 
 e.g.
 
 ```
-topCustomers({ shoppingBaskets }); // javascript
-topCustomers(shoppingBaskets); // java
-top_customers(shopping_baskets) //python
+getTopCustomers({ allShoppingBaskets }); // javascript
+getTopCustomers(allShoppingBaskets); // java
+get_top_customers(all_shopping_baskets) //python
 ```
 
 Make sure the returned value matches the following structure:
@@ -256,9 +271,9 @@ Write a function called `get customers with open baskets` that takes in the data
 e.g.
 
 ```
-getCustomersWithOpenBaskets({ shoppingBaskets }); //javascript
-getCustomersWithOpenBaskets(shoppingBaskets); //java
-get_customers_with_open_baskets(shopping_baskets) //python
+getCustomersWithOpenBaskets({ allShoppingBaskets }); //javascript
+getCustomersWithOpenBaskets(allShoppingBaskets); //java
+get_customers_with_open_baskets(all_shopping_baskets) //python
 ```
 
 ## Notes to reviewers
