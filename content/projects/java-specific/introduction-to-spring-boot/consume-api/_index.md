@@ -59,7 +59,7 @@ Project Setup and configuration:
 
 1. Peace of mind, dependency hell is a thing of nightmares
 2. wsimport comes out of the box in jdk 8, jdk > 9 removed wsimport and open sourced it
-3. avoid the famous ```Implementation of JAXB-API has not been found on module path or classpath``` error
+3. avoid the famous `Implementation of JAXB-API has not been found on module path or classpath` error
 
 #### Step 2
 
