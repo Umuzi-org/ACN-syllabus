@@ -5,11 +5,11 @@ ready: true
 title: Introduction cloud computing
 ---
 
-Cloud computing is a rapidly growing field in the world of technology and plays a crucial role in many aspects of modern software development. It is the on-demand delivery of IT resources over the internet with a pay-as-you-go pricing model. Instead of owning and maintaining their own computing infrastructure or data centers, companies can access technology services, such as computing power, storage, and databases, on an as-needed basis from a cloud provider.
+Cloud computing is a rapidly growing field in the world of technology and plays a crucial role in many aspects of modern software development. It is the on-demand delivery of IT resources over the Internet with a pay-as-you-go pricing model. Instead of owning and maintaining their own computing infrastructure or data centres, companies can access technology services, such as computing power, storage, and databases, on an as-needed basis from a cloud provider.
 
 There are three main types of cloud computing service models:
 
-1. **Infrastructure as a Service (IaaS)**: This is the most basic category of cloud computing services. With IaaS, you rent IT infrastructure - servers and virtual machines (VMs), storage, networks, operating systems - from a cloud provider.
+1. **Infrastructure as a Service (IaaS)**: This is the most basic category of cloud computing services. With IaaS, you rent IT infrastructure - servers and virtual machines (VMs), storage, networks, and operating systems - from a cloud provider.
 
 2. **Platform as a Service (PaaS)**: PaaS is a step up from IaaS and includes the infrastructure—servers, storage, and networks—but also middleware, development tools, business intelligence (BI) services, database management systems, and more. It's used to develop, test, and manage software applications.
 
@@ -19,10 +19,10 @@ There are three main types of cloud computing service models:
 
 Key benefits of cloud computing include:
 
-- **Cost Savings**: Cloud computing eliminates the capital expense of buying hardware and software and setting up and running on-site datacenters.
-- **Speed & Efficiency**: Most cloud computing services are provided self-service and on-demand, so vast amounts of computing resources can be provisioned in minutes.
-- **Global Scale**: Cloud computing services often include the ability to scale elastically. This means delivering the right amount of IT resources— for example, more or less computing power, storage, bandwidth—right when they're needed and from the right geographic location.
-- **Performance**: The biggest cloud computing services run on a worldwide network of secure datacenters, which are upgraded to the latest generation of fast and efficient computing hardware. This offers several benefits over a single corporate datacenter.
+- **Cost Savings**: Cloud computing eliminates the capital expense of buying hardware and software and setting up and running on-site data centres.
+- **Speed & Efficiency**: Most cloud computing services are self-service and on-demand, so vast amounts of computing resources can be provisioned in minutes.
+- **Global Scale**: Cloud computing services often include the ability to scale elastically. This means delivering the right amount of IT resources— for example, more or less computing power, storage, and bandwidth—right when they're needed and from the right geographic location.
+- **Performance**: The biggest cloud computing services run on a worldwide network of secure data centres, which are upgraded to the latest generation of fast and efficient computing hardware. This offers several benefits over a single corporate data centre.
 - **Reliability**: Cloud computing makes data backup, disaster recovery, and business continuity easier and less expensive because data can be mirrored at multiple redundant sites on the cloud provider's network.
 - **Security**: Many cloud providers offer a set of policies, technologies, and controls that strengthen your security posture overall, helping protect data, apps, and infrastructure from potential threats.
 
@@ -32,12 +32,12 @@ Cloud computing has become the default choice for many apps, whether they're con
 
 Give these a read:
 
-- https://www.knowledgehut.com/blog/cloud-computing/what-is-cloud-computing
-- https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/
-- https://www.digitalocean.com/community/tutorials/a-general-introduction-to-cloud-computing
+- [What is Cloud Computing? Its Types and Benefits](https://www.knowledgehut.com/blog/cloud-computing/what-is-cloud-computing)
+- [Everything you need to know about the cloud](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-about-the-cloud/)
+- [A General Introduction to Cloud Computing](https://www.digitalocean.com/community/tutorials/a-general-introduction-to-cloud-computing)
 
 
-## Cloud providers: The big 3 
+## Cloud providers: The Big 3 
 
 The major cloud computing providers are Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).  They all have their pros and cons. It can be very hard to choose between them so many people take a bit of a shortcut and choose the service provider that has the widest array of products. This is not a good way to choose. 
 
@@ -50,7 +50,7 @@ Here are some high-level factors you may want to consider:
 - **Scalability**: A significant advantage of cloud computing is the ability to scale resources up or down based on demand. However, the ease of scaling, cost implications, and performance at scale can vary between providers. For example, if you use serverless products to host your application then scaling up can be very expensive. 
 - **Security**: Security is paramount when it comes to cloud services. Review the security measures of each cloud provider, including their compliance certifications, data encryption methods, and security services available.
 - **Support and SLA**: Consider the support options and Service Level Agreements (SLAs) offered by each cloud provider. The level of support and the guaranteed uptime can make a significant difference in your overall experience.
-- **Data Center Locations**: The physical location of data centers can impact latency and data sovereignty. If your users are primarily located in a specific region, it might be beneficial to choose a cloud provider with data centers in or near that region.
+- **Data Center Locations**: The physical location of data centres can impact latency and data sovereignty. If your users are primarily located in a specific region, it might be beneficial to choose a cloud provider with data centres in or near that region.
 - **Community and Ecosystem**: A vibrant community and ecosystem can be very valuable. This includes available third-party integrations, community resources, and the overall size of the developer community.
 - **Lock-in**: Many cloud service providers have products that only they support. That means that if you wanted to move your application to another service provider you could struggle. If you want to maintain your ability to switch cloud service providers or even make use of multiple cloud service providers for one application then it is important to look at what you can and cannot move. 
 
