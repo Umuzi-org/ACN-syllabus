@@ -9,9 +9,9 @@ In the realm of digital product development, two terms that frequently come up a
 
 ## User Interface (UI) Design
 
-User Interface (UI) Design refers to the process of creating interfaces for software, apps, or machines, including looks, style, and function. It is focused on the visual aspects of a product, including color schemes, button styles, typography, and the arrangement of elements on screen.
+User Interface (UI) Design refers to the process of creating interfaces for software, apps, or machines, including looks, style, and function. It is focused on the visual aspects of a product, including color schemes, button styles, typography, and the arrangement of elements on the screen.
 
-A well-designed user interface should not only be aesthetically pleasing but also allow users to interact with the product easily and intuitively. That means buttons should be big enough to click, text should be easy to read, and there should be a logical flow from one step to the next.
+A well-designed user interface should not only be aesthetically pleasing but also allow users to interact with the product easily and intuitively. That means buttons should be big enough to click, the text should be easy to read, and there should be a logical flow from one step to the next.
 
 ## User Experience (UX) Design
 
@@ -27,7 +27,7 @@ UI/UX design has a direct impact on a product's success, influencing user satisf
 
 ## Resources
 
-- https://bootcamp.uxdesign.cc/basic-introduction-to-user-experience-and-user-interface-design-f0aae08a2b44
-- https://www.futurelearn.com/info/blog/introduction-to-ux-ui
-- https://careerfoundry.com/en/tutorials/ux-design-for-beginners/what-is-ux-design/
-- [Nailing UX Interviews and Creating a Viable UX Design Career](https://alison.com/course/nailing-ux-interviews-and-creating-a-viable-ux-design-career?utm_source=alison_user&utm_medium=affiliates&utm_campaign=31931242): This 1.5 - 3 hour mini course will tell you a bit about how you can start a career in UI/UX
+- [Bootcamp ux design: Basic introduction to ux and ui design.](https://bootcamp.uxdesign.cc/basic-introduction-to-user-experience-and-user-interface-design-f0aae08a2b44)
+- [Future learn: Introduction to ux and ui](https://www.futurelearn.com/info/blog/introduction-to-ux-ui)
+- [Career foundry: What is ux design](https://careerfoundry.com/en/tutorials/ux-design-for-beginners/what-is-ux-design/)
+- [Nailing UX Interviews and Creating a Viable UX Design Career](https://alison.com/course/nailing-ux-interviews-and-creating-a-viable-ux-design-career?utm_source=alison_user&utm_medium=affiliates&utm_campaign=31931242): This 1.5 - 3 hour mini-course will tell you a bit about how you can start a career in UI/UX.
