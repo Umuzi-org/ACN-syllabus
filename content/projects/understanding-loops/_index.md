@@ -153,6 +153,8 @@ If you are working in **Python** then you can turn the json file into a data str
 
 In JavaScript you can simply `require` a JSON file and then it'll get converted into the appropriate data-structure.
 
+In java you can turn the json file into data structure in your code by making use of [Json for java](https://github.com/FasterXML/jackson) here is a tutorial [how to use](https://www.baeldung.com/jackson-object-mapper-tutorial)
+
 ## Write some functionality
 
 ### get baskets belonging to a single customer
