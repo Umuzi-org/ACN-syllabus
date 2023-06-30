@@ -9,7 +9,7 @@ Artificial intelligence (AI) as a field of study officially began in 1956 at the
 
 The revival of interest in AI started in the 1990s, driven by the rise of machine learning, a subfield of AI where computer systems learn from data. This was also the era when AI started to become commercially viable, with companies such as Amazon and Google using AI algorithms for recommendations and search respectively.
 
-In the 2000s, AI began to impact various sectors, from healthcare to transportation. This era saw the development of autonomous vehicles and AI-driven diagnostic systems. The development and growth of AI during this period were driven by the availability of large amounts of data, advancements in computing power, and improvements in machine learning algorithms.
+In the 2000s, AI began to impact various sectors, from healthcare to transportation. This era saw the development of autonomous vehicles and AI-driven diagnostic systems. The development and growth of AI during this period was driven by the availability of large amounts of data, advancements in computing power, and improvements in machine learning algorithms.
 
 The 2010s were marked by the rise of deep learning, a subfield of machine learning that models high-level abstractions in data using architectures composed of multiple non-linear transformations. Deep learning has enabled advancements in many areas of AI, including computer vision, natural language processing, and speech recognition. It was also during this decade that AI systems began to outperform humans in specific tasks, such as AlphaGo defeating the world champion Go player in 2016.
 
