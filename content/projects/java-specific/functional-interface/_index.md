@@ -44,20 +44,19 @@ Create a class called `FunctionalInterfaceDemo` which implements methods called 
 
 3. `isPrime`: The lambda expression must return true if the number is Prime (3) or false if it is not a not Prime (4)
 
-Once the obove has been implemented, you must get a number from the standard input which will go through all three functions and return the correct strings
+Create a main method that gets a number from the standard input and then prints a message describing the value. 
 
-4. If the user enters 77 in the standard input then you should **Print** the following: 
+Once this message has been printed out then the user should be able to enter another number and then prints another descriptive message.
 
-```
- Number is: Odd, Palindrome and NotPrime
-```
+This should repeat until the user enters `q` to quit the program.
 
-The user should be able to to enter another number in the standard input. For example, if the user inputs 43 the second time around, then you should print the following:
+Here are some examples of descriptive messages for different numbers:
 
-```
- Number is: Odd, NotPalindrome and Prime
-```
-Remember to test all your functions.
+- if the user enters 77 then we print `Number is: Odd, Palindrome and NotPrime`
+- If the user enters 43 then we print `Number is: Odd, NotPalindrome and Prime`
+- if the user enters 44 then we print `Number is: Even, Palendrome and NotPrime`
+
+*Hint:* Think about how you could make use of the above examples in your unit tests. 
 
 ### Instructions for reviewers
 
