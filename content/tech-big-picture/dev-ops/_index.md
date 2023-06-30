@@ -19,5 +19,5 @@ By fostering a culture of collaboration and shared responsibility, DevOps practi
 
 ## Resources 
 
-- [Introduction to DevOps](https://www.nimblework.com/blog/introduction-to-devops/)
-- [Introduction to devops](https://www.geeksforgeeks.org/introduction-to-devops/)
+- [Nimblework: Introduction to DevOps](https://www.nimblework.com/blog/introduction-to-devops/)
+- [Geek for geeks: Introduction to DevOps](https://www.geeksforgeeks.org/introduction-to-devops/)
