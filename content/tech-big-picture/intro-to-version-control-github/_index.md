@@ -20,3 +20,4 @@ There are a lot of different version control tools out there, the one used most 
 One thing that is really cool about Git is that there are a lot of companies that work hard to make Git more user-friendly in different ways. One such example is [GitHub](https://github.com/).
 
 If you are not familiar with GitHub yet then now would be a good time to take it for a spin. [Here](https://docs.github.com/en/get-started/quickstart/hello-world) is a nice tutorial that will familiarize you with basic concepts.
+
