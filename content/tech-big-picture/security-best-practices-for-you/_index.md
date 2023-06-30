@@ -27,4 +27,4 @@ These practices are important because they significantly reduce the risk of a se
 ## Resources 
 
 - (How to protect your digital privacy)[https://www.nytimes.com/guides/privacy-project/how-to-protect-your-digital-privacy]
-- 9how to protect your privacy from hackers, spies, and the government)[https://www.zdnet.com/article/online-security-101-how-to-protect-your-privacy-from-hackers-spies-and-the-government/]
+- (How to protect your privacy from hackers, spies, and the government)[https://www.zdnet.com/article/online-security-101-how-to-protect-your-privacy-from-hackers-spies-and-the-government/]
