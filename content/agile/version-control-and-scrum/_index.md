@@ -89,7 +89,7 @@ Tickets moved to developing are being actively worked on by the person assigned 
 
 #### Git Action
 
-Before any coding occurs, pull down the latest version from "origin/master". Then, after coding is finished, create a new branch with a name corresponding to your ticket. Commit, push to origin, and create a pull request in Github.
+Before any coding occurs, pull down the latest version from "origin/main". Then, after coding is finished, create a new branch with a name corresponding to your ticket. Commit, push to origin, and create a pull request in Github.
 
 ### Code Review
 
@@ -97,14 +97,16 @@ Tickets in code review are having their associated code (or design) reviewed. A 
 
 #### Git Action
 
-If the code passes review, the pull request is approved and the branch is merged into master.
+If the code passes review, the pull request is approved and the branch is merged into main.
 
 ### Quality Assurance
 
 Tickets in quality assurance are being checked to make sure the user experiences what the ticket was set out to accomplish. If there's bugs or missing functionality, send it back to development.
-####Git Action
+
+#### Git Action
+
 Pull the merge commit from origin/master for testing.
 
-### Done:
+### Done
 
 Tickets here are done.

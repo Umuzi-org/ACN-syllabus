@@ -8,6 +8,7 @@ prerequisites:
 ready: true
 tags:
 - employability-sprint
+- github 
 title: Portfolio of work - tech guidelines
 ---
 

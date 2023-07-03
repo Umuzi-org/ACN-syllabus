@@ -18,7 +18,7 @@ title: Big picture of tech
 
 ## Technical best practices and considerations
 
-- {{< contentlink path="tech-big-picture/intro-to-version-control-github" >}}
+- {{< contentlink path="git/intro-to-version-control-github" >}}
 - {{< contentlink path="tech-big-picture/intro-to-ui-ux" >}}   
 - {{< contentlink path="tech-big-picture/testing-and-qa" >}}
 - {{< contentlink path="tech-big-picture/security" >}}

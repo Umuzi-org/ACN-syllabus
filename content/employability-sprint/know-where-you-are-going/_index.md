@@ -8,7 +8,7 @@ prerequisites:
 ready: true
 tags:
 - employability-sprint
-title: Know where you are going.
+title: Know where you are going
 ---
 
 With a job search – as with any kind of search – it’s pointless searching if you don’t know what you’re looking for! 

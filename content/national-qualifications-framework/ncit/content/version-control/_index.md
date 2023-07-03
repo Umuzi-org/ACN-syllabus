@@ -20,7 +20,9 @@ ncit_specific_outcomes:
 ncit_standards:
 - 115362
 prerequisites:
-  hard: []
+  hard: [
+    git/intro-to-version-control-github
+  ]
 ready: true
 tags:
 - git
@@ -115,12 +117,9 @@ To see an example of the file/folder naming conventions used in this course pela
 
 Within your main project folder, you should organise the rest of your files logically, you should group related things. 
 
-
 Different people have different preferences about how to organise project files. The main point to remember is to keep things organised, thoughtfully named, and easy to find. This will make it easy for you and your team to work together. Generally, you’ll be creating these files and folders directly in your text editor, like VSCode, so it will be easy to keep things organised.
 
-## 2. Version control with GIT
-
-### Version Control
+## 2. Version control systems (VCSs)
 
 One of the most important concepts for a coder to understand is version control. Knowing what version control is and how to use a version control tool will be invaluable to you.
 
@@ -128,23 +127,7 @@ Version control software keeps track of every modification to the code in a spec
 
 Version control is independent of the kind of project or technology you're working with:
 
-
 - It works just as well for an HTML website as it does for a design project or an Android app
 - It lets you work with any tool you like; it doesn't care what kind of text editor, graphics program, file manager or another tool you use
 
-### Using GIT in the terminal
-
-The version control system you will use for this project (and every other project you do on a coding team) is GIT. Don’t confuse this with GitHub. GIT is the version control software that you can use anywhere. GitHub is a website where you can store your code and keep track of changes (it is a “hub” for all the updates you make in GIT).
-
-To learn more about what GIT is and how to use it, you can watch the video below and follow the tutorials listed below.
-
-{{< youtube 0fKg7e37bQE >}}
-
-#### Install GIT
-
-First, you’ll need to install GIT. Full details are here: https://git-scm.com/downloads
-
-#### Learn basic commands
-This tutorial will outline how to create a repository (a new project), configure your account, and learn the basics of adding and updating files to the master branch.
-
-https://www.sitepoint.com/git-for-beginners/
+Git is the most popular VCS in the world so we focus on that one for our course. 

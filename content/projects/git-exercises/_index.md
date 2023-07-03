@@ -13,7 +13,7 @@ prerequisites:
   hard:
   - environment-setup/git
   - projects/beginning-bash
-  - topics/git
+  - git/git
   - topics/bootcamp/git-for-bootcamp
   - coding_aptitude_assessment/introduction_to_github
   soft: []

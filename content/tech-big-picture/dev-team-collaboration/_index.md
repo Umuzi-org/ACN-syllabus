@@ -5,7 +5,7 @@ flavours:
 - markdown
 prerequisites:
   hard:
-  - tech-big-picture/intro-to-version-control-github
+  - git/intro-to-version-control-github
   - tech-big-picture/intro-to-ui-ux
   - tech-big-picture/testing-and-qa
   - tech-big-picture/security

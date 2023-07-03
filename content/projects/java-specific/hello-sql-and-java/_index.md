@@ -5,8 +5,8 @@ flavours:
 - java
 prerequisites:
   hard:
-  - projects/java-specific/introduction-to-spring-boot/part-3
-  - topics/java-specific/jdbc-templates
+  - projects/Java-specific/introduction-to-spring-boot/part-3
+  - topics/Java-specific/jdbc-templates
   - sql/shop-project
   soft: null
 ready: true
@@ -18,25 +18,25 @@ tags:
 title: SQL Extended
 ---
 
-I hope at this point you should have already read up on JDBC templates, JPA and Hibernate from the topic resources. In this project we wil re-visit you SQl project. Instead of only using scripts to create and interact with your database you are doing to do this using java + scripts. You will be using dataSources to configured your connection to your database and query your tables.
+I hope at this point you should have already read up on JDBC templates, JPA and Hibernate. 
 
-## Part1
+In this project we wil re-visit you SQl project. Instead of only using scripts to create and interact with your database you are doing to do this using Java. You will be using dataSources to configured your connection to your database and query your tables.
+
+## Part 1
 
 1. Revise {{< contentlink path="sql/shop-project/" >}} and make sure all tables are created and populated
 
-2. Use vanilla java **(no Springboot)** connect to your database and perform the queries in part2 but only number [1-7]
+2. Use vanilla Java **(no Springboot)** connect to your database and perform the queries in part 2 but only number [1-7]
 
 3. Use Springboot JDBC templates to connect to your database and perform the queries in part2 but only number [1-9]
 
-**Added Bonus**
-
-4. Lastly I would like you to use Hibernate + JPA to connect to your database and perform the queries in part2 [1-17]
+4. Lastly I would like you to use Hibernate + JPA to connect to your database and perform the queries in part 2 [1-17]
 
 **Don't forget to test your application**
 
 ## Part 2: Querying a database (Reminder)
 
-Save all of your instructions in a script file - you will submit this file on Gnomio and github.
+Save all of your instructions in a script file. You will need to submit that file.
 
 1. SELECT ALL records from table Customers.
 

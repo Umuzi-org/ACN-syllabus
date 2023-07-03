@@ -5,7 +5,7 @@ ready: true
 title: Pull Requests
 ---
 
-If any professional software development team, code review is very very important. It's part of the day-to-day life of a coder. The way a team generally works is something like this:
+If any professional software development team, code review is very very important. It's part of the day-to-day life of a coder. The way a team generally works is something like this
 
 1. There are a bunch of coders and they each have a task to do
 2. Each coder makes a new git branch for their task
@@ -27,15 +27,13 @@ If you watch it from the beginning there might be some confusing things.
 
 Play around with it a little bit. Github doesn't bite.
 
-**A possible confusion**
-
 ## What does this mean for you?
 
 Since PRs are part of the day to day life of professional techies, we expect you to start practicing good habits now.
 
 If you follow these simple guidelines you'll be good to go:
 
-**1. if someone asks you fr a review, then review as soon as you can**
+**1. if someone asks you for a review, then review as soon as you can**
 
 - Dont leave people waiting and then they wont leave you waiting
 - If you think the code is good enough to be merged, then you need to click the "Approve" button. Github counts how many approvals a piece of code has, so this is a very important button to press.
