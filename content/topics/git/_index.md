@@ -5,6 +5,9 @@ ready: true
 tags:
 - git
 title: Git Basics
+prerequisites:
+  hard:
+  - projects/beginning-bash
 ---
 
 ## What's Git all about?
@@ -38,7 +41,7 @@ We use Github for keeping our code safe. [Here](https://guides.github.com/introd
 
 Also checkout {{< contentlink path="topics/bootcamp/git-for-bootcamp" >}}
 
-## For our data recruits
+## For our data learners
 
 https://www.datacamp.com/courses/introduction-to-git-for-data-science
 
