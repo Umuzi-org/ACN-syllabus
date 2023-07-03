@@ -109,16 +109,16 @@ This should output:
 Hello, my name is Ryan, my gender is male and I am 30 years old. My interests are being a hardarse, agile and SSD hard drives.
 ```
 
-### Different numbers of interests should result in different strings
+### Important notes on sentence structure
 
 The sentence describing the `Person`'s interests should have a different format depending on how many interests that person has.  Here are a few examples:
 
-- My interests are being a hardarse, agile and SSD hard drives.
-- My interests are tea and cake.
-- My interest is puppies.
-- I have no interests.
+- `My interests are being a hardarse, agile and SSD hard drives.`
+- `My interests are tea and cake.`
+- `My interest is puppies.`
+- `I have no interests.`
 
-Pay careful attention to the format of the strings above. Where are the commas? Which ones have an "and"? 
+Pay careful attention to the format of the strings above. Where are the commas? Which ones have an "and"? What other punctuation is there? Learn to pay attention to the fine details.
 
 Make sure that the `hello` function returns EXACTLY the correct string. The format should match the examples above.
 
