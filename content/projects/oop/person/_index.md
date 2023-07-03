@@ -24,8 +24,7 @@ title: Person
 Your directory structure should look like this.
 
 ```
-├── src
-    └── person.js
+person.js
 ```
 
 If you are writing JavaScript then it is important that you export your class correctly. Include the following line at the in of your `person.js` file
@@ -39,27 +38,13 @@ module.exports = { Person };
 Please name your files and folders like this:
 
 ```
-├── src   the package under test
-    └── person.py
+person.py
 ```
 
 ### Java
 
-Make use of Gradle to set up your project. It should look like this:
-
 ```
-├── build.gradle
-├── gradle
-│   └── wrapper
-│       ├── gradle-wrapper.jar
-│       └── gradle-wrapper.properties
-├── gradlew
-├── gradlew.bat
-├── settings.gradle
-└── src
-    ├── main
-        └── java
-            └── Person.java <-------- names are important
+Person.java
 ```
 
 ## Instructions
