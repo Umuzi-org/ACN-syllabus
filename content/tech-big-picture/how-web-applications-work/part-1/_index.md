@@ -10,6 +10,13 @@ title: Anatomy of a web app - part 1 - Requests and Responses
 
 In this series of topics, we'll be talking through all the moving parts that make a web application work. We'll start off very simple and add layers of complexity over time so you can see the purpose of every piece of the puzzle.
 
+## If you like videos
+
+Here is a recording of a live discussion of these concepts covered in this series. This video doesn't cover all the details so it's still important to go through the content here.
+
+{{< youtube yygDGGpnISo >}}
+
+
 ## Before we begin...
 
 Before we begin, it's worth noting that this is an oversimplification of how web apps work. We're keeping it simple so that we can teach specific lessons about how web applications work. 

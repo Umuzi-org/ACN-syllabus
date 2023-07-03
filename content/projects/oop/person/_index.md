@@ -47,6 +47,10 @@ person.py
 Person.java
 ```
 
+If you would like to add another class with a main function so you can test drive your work then please go ahead.
+
+Your `Person` class MUST NOT have a main function.
+
 ## Instructions
 
 Create a `class` called `Person`.

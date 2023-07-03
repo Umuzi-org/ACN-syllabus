@@ -82,3 +82,4 @@ We left out a lot of details in the diagram above. It's worth thinking about a l
 That's the end of this story. We did cover quite a lot of ground and it might have seemed like a bit of a whirlwind tour to a lot of you.  It's a lot of new information.
 
 If it's confusing then go and read up on the parts that you weren't sure of and then come back and re-read this story. With enough time you will understand it.
+

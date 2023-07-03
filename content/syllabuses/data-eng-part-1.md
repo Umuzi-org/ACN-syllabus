@@ -10,7 +10,7 @@ _db_id: 4
 - {{< contentlink path="topics/code-reviews/part-1-reviewers" >}}
 - {{< contentlink path="topics/how-to-ask-for-help-with-your-code" >}}
 - {{< contentlink path="topics/code-reviews/part-2-author" >}}
-- {{< contentlink path="topics/big-picture-web-dev" >}}
+- {{< contentlink path="tech-big-picture/how-web-applications-work/part-5" >}}
 - {{< contentlink path="topics/high-performance-dev-teams" >}}
 - {{< contentlink path="specific-skill-success-criteria/introduction-to-assessments" >}}
 - {{< contentlink path="specific-skill-success-criteria/functions-and-return" flavour="python" >}}

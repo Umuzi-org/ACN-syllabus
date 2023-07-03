@@ -22,7 +22,7 @@ ncit_standards:
 - 115391
 prerequisites:
   hard:
-  - topics/big-picture-web-dev
+  - tech-big-picture/how-web-applications-work/part-5
 ready: true
 tags:
 - ncit
