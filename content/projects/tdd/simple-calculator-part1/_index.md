@@ -30,6 +30,14 @@ The basic TDD approach is as follows:
 
 Remember to make sure your tests still pass after refactoring them.
 
+## TDD in industry
+
+Test driven development is pretty weird at first, but it's a very effective way to write bug-free and modular code.  
+
+We are introducing this now because it is important! If you practice then it'll become easy.
+
+**If you find yourself writing your functionality and then testing it afterwards: You are doing it wrong!**
+
 ## Set up environment
 
 ### JavaScript:
@@ -39,13 +47,6 @@ Use Jasmine to test your code. _Please do not use the SpecRunner html file_ to t
 - {{< contentlink path="topics/jasmine-unit-tests" >}} . Look under the heading: _Getting set up (like a boss)_ for instructions to set up.
 
 After setting up Jasmine on the terminal, please ensure that your directory has the following:
-
-- A src folder that has a file called:
-
-  - simple_calculator.js <---- this is where you will implement all your functionality.
-
-- A spec folder that has a file called:
-  - simple_calculator_spec.js <---- this is where you will put your tests.
 
 Your directory structure should look like this:
 
@@ -59,7 +60,7 @@ Your directory structure should look like this:
 └── package.json
 ```
 
-**Note**: Please export your two functions using the following syntax at the end of the code:
+**Note**: Please export your two functions using the following syntax.
 
 ```
 module.exports = {firstFunctionName, secondFunctionName}
@@ -82,41 +83,51 @@ Please take a look at this topic to see an explanation of the required directory
 
 {{< contentlink "topics/python-specific/automated-testing-with-pytest" >}}
 
+
+
 ### Java
 
-You'll be using IntelliJ, Gradle and JUnit to pull this off.
+Please make use of Gradle from the command line to set up your project directory. You can learn more about Gradle here:
 
-Create a class named `Calculator`. All your methods should be static methods that return integers. Eg:
+{{< contentlink "gradle/introduction" >}}
+
+
 
 ```
     public static int add(....
 ```
 
-Please make sure that you make proper use of gitignore. We don't want your junk files. The git repo you give us should have a file hierarchy that looks like this:
+Your directory structure should look like this:
+
 
 ```
-├── build.gradle
+├── app
+│   ├── build.gradle
+│   └── src
+│       ├── main
+│       │   ├── java
+│       │   │   └── calculator << This is the project name
+│       │   │       └── Calculator.java
+│       │   └── resources
+│       └── test
+│           ├── java
+│           │   └── calculator  
+│           │       └── CalculatorTest.java
+│           └── resources
 ├── gradle
-│   └── wrapper
-│       ├── gradle-wrapper.jar
-│       └── gradle-wrapper.properties
+│   └── wrapper
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
 ├── gradlew
 ├── gradlew.bat
-├── settings.gradle
-└── src
-    ├── main
-    │   └── java
-    │       └── Calculator.java       <-------- names are important
-    └── test
-        └── java
-            └── CalculatorTest.java   <-------- names are important
+└── settings.gradle
 ```
 
-Please refer to the following to find out more: {{< contentlink path="topics/java-specific/gradle-and-intellij-project-structure" >}}
+Create a class named `Calculator`. All your methods should be static methods that return integers. Eg:
 
 ## 1. Create an add function that can add two integers
 
-Create a function called `add` that works like this:
+Create some tests for a function called `add` that works like this:
 
 ```
 add(1,2)
@@ -125,23 +136,24 @@ add(-1,-1)
 // should return -2
 ```
 
+Then make the tests pass by implementing the function. 
+
 ## 2. Modify the add function so that it can add multiple integers.
 
-The `add` function should now behave like this:
+Update your tests so that the `add` function can accept any number of arguments:
 
 ```
-add(1,2,3,4,5)
-// should return 15
-add(1,2)
-// should still return 3
-add(-1,-1)
-// should still return -2
+add(1,2,3,4,5) // should return 15
+add(1,2)       // should still return 3
+add(-1,-1)     // should still return -2
+add()          // should return 0
 ```
 
 Please note that your function should _NOT_ expect an array or list of numbers, for example:
 
 ```
 add([1,2,3,4])
+add({1,2,3,4})
 ```
 
 This is NOT what we are looking for. If you have square brackets inside your round brackets, you are doing it wrong. The same will apply to the multiply function you will build in the next section.
@@ -151,10 +163,8 @@ This is NOT what we are looking for. If you have square brackets inside your rou
 Create a function called `multiply` that works like this:
 
 ```
-multiply(1,3)
-// should return 3
-multiply(-1,3)
-// should return -3
+multiply(1,3)  // should return 3
+multiply(-1,3) // should return -3
 ```
 
 ## 4. Modify the multiply function so that it can multiply multiple integers.
@@ -162,18 +172,14 @@ multiply(-1,3)
 The `multiply` function should now behave like this:
 
 ```
-mutilply(1,2,3,4,5)
-// should return 120
-multiply(1,3)
-// should still return 3
-multiply(-1,3)
-// should still return -3
+multiply(1,2,3,4,5) // should return 120
+multiply(1,3)       // should still return 3
+multiply(-1,3)      // should still return -3
 ```
 
 ## Instructions for reviewers
 
 - `__init__.py` is not needed if the repo is set up properly (python).
 - The point of tests in TDD isn't only to have tests but to have very specific tests. For a given input we don't just want to know that they pass or fail. So instead of one function that tests everything you want specific tests.
-- Do not use built-in function names as variables e.g. `sum`.
 - Tests should have descriptive names.
 - Built-in functions should not be used in this project.

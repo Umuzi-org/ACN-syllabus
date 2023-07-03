@@ -20,6 +20,10 @@ tags:
 title: Validate a South African ID number
 ---
 
+In this project, we'll be practising Test Driven Development while solving a validation problem.
+
+Please make sure that you commit your code often! At least every time you get one of your tests to pass. Also please make sure you make your git commit messages meaningful.
+
 ## Set up your environment
 
 ### Javascript
@@ -58,29 +62,37 @@ Your directory structure should look like this:
 
 ### Java
 
+Please make use of Gradle from the command line to set up your project directory. You can learn more about Gradle here:
+
+{{< contentlink "gradle/introduction" >}}
+
+
 Your directory structure should look like this:
 
 ```
-├── build.gradle
+├── app
+│   ├── build.gradle
+│   └── src
+│       ├── main
+│       │   ├── java
+│       │   │   └── validate_sa_id << This is the project name
+│       │   │       └── ValidateSaId.java
+│       │   └── resources
+│       └── test
+│           ├── java
+│           │   └── validate_sa_id  
+│           │       └── ValidateSaIdTest.java
+│           └── resources
 ├── gradle
 │   └── wrapper
 │       ├── gradle-wrapper.jar
 │       └── gradle-wrapper.properties
 ├── gradlew
 ├── gradlew.bat
-├── settings.gradle
-└── src
-    ├── main
-    │   └── java
-    │       └── ValidateSaId.java       <-------- names are important
-    └── test
-        └── java
-            └── ValidateSaIdTest.java   <-------- names are important
+└── settings.gradle
 ```
 
-In this project, we'll be practising Test Driven Development while solving a validation problem.
-
-Please make sure that you commit your code often! At least every time you get one of your tests to pass. Also please make sure you make your git commit messages meaningful.
+Create a class named ValidateSaId. Your `isIdNumberValid` function should be a static method and it should return a boolean value.
 
 ## Validation problems
 
