@@ -30,7 +30,7 @@ title: Java Threads
     │       └── ChickenFarm.java       <-------- names are important
     └── test
         └── java
-            └── FChickenFarmTest.java   <-------- names are important
+            └── ChickenFarmTest.java   <-------- names are important
 ```
 
 ## The Chicken and the Farmer
