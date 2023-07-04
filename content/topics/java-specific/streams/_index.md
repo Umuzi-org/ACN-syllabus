@@ -8,9 +8,8 @@ Streams are one of the major features introduced in Java 8. Streams are a sequen
 
 ## The features of Java streams
 
-A stream is not a data structure. Instead, a stream takes input from the `Collections`, `Arrays`, or `I/O channels`.
-Streams don’t change the original data structure, they only provide the result as per the pipelined methods.
-Each intermediate operation is lazily executed and returns a stream as a result, hence various intermediate operations can be pipelined. Terminal operations mark the end of the stream and return the result.
+- A stream is not a data structure. Instead, a stream takes input from the `Collections`, `Arrays`, or `I/O channels`.
+- Streams don’t change the original data structure, they only provide the result as per the pipelined methods.
 
 ### We have two types of operations with streams
 
@@ -38,6 +37,8 @@ List result = names.stream().filter(s->s.startsWith("S")).collect(Collectors.toL
 List names = Arrays.asList("Reflection", "Collection", "Stream");
 List result = names.stream().sorted().collect(Collectors.toList());
 ```
+
+Each intermediate operation is lazily executed and returns a stream as a result, hence various intermediate operations can be pipelined.
 
 #### 2. Terminal Operations
 
