@@ -23,7 +23,7 @@ This developer is responsible for the parts of the software that users interact 
 
 ### Back-End Developer 
 
-They handle the server side of applications. This includes managing databases and ensuring that the server, the application, and the database run smoothly together.
+They handle the server-side applications. This includes managing databases and ensuring that the server, the application, and the database run smoothly together.
 
 ### Full-Stack Developer
 
