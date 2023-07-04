@@ -23,6 +23,23 @@ In this project you are going to create two functions, one should be called `chi
 4. The chicken function cannot add to a full basket.
 5. The basket is considered full if it has 1 egg.
 
+### Directory structure
+
+```
+├── build.gradle
+├── gradle
+│   └── wrapper
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
+├── gradlew
+├── gradlew.bat
+├── settings.gradle
+└── src
+    └── main
+        └── java
+             └── ChickenFarm.java <------ names are important
+```
+
 We kept the instructions open-ended on purpose. This is meant to have a bit of room for interpretation, there is no one perfect solution to this. We are very interested to see how you structure your solution.
 
 Remember to test your work. Always.
