@@ -5,7 +5,7 @@ ready: true
 title: Tech roles and careers
 ---
 
-As you have seen, the tech landscape os pretty vast and varied. This means that there are a lot of different roles to play and a lot of different careers that are suitable for different types of people.
+As you have seen, the tech landscape is pretty vast and varied. This means that there are a lot of different roles to play and a lot of different careers that are suitable for different types of people.
 
 Take a look at these, can you see how they fit into the bigger picture given what you know? 
 
@@ -23,7 +23,7 @@ This developer is responsible for the parts of the software that users interact 
 
 ### Back-End Developer 
 
-They handle the server-side of applications. This includes managing databases and ensuring that the server, the application, and the database run smoothly together.
+They handle the server-side applications. This includes managing databases and ensuring that the server, the application, and the database run smoothly together.
 
 ### Full-Stack Developer
 
@@ -37,11 +37,11 @@ Data scientists use statistical methods and machine learning to interpret and an
 
 ### Data Engineer
 
-Data Engineers design, build, and maintain the systems and processes for collecting, processing, and storing data. They work closely with Data Scientists and are often responsible for creating the architectures that allow efficient data processing.
+Data Engineers design, build, and maintain the systems and processes for collecting, processing and storing data. They work closely with Data Scientists and are often responsible for creating the architectures that allow efficient data processing.
 
 ### Machine Learning Engineer 
 
-These engineers create data funnels and deliver software solutions. They typically have strong statistics and programming skills and use them to develop and implement machine learning models.
+These engineers create data funnels and deliver software solutions. They typically have strong statistics and programming skills and use them to develop and implement machine-learning models.
 
 ## Security Engineer
 

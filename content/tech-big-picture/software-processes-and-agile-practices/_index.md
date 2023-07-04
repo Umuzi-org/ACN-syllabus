@@ -10,9 +10,9 @@ title: Software processes and agile practices
 
 Please complete the following course: 
 
-https://www.coursera.org/learn/software-processes-and-agile-practices
+[Software processes and agile practices](https://www.coursera.org/learn/software-processes-and-agile-practices)
 
-It should take roughly 8 hours
+It should take roughly 8 hours.
 
 ## Submission instructions
 

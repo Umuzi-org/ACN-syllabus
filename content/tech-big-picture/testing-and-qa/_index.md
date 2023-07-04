@@ -31,8 +31,8 @@ Ultimately, the goal of both testing and QA is to deliver a high-quality product
 
 ## Resources 
 
-- https://www.ibm.com/topics/software-testing#:~:text=Software%20testing%20is%20the%20process,development%20costs%20and%20improving%20performance.
+- [How does software testing work](https://www.ibm.com/topics/software-testing#:~:text=Software%20testing%20is%20the%20process,development%20costs%20and%20improving%20performance.)
 
 ## Optional mini-course
 
-If you want a more in depth look at testing then check out [this introductory course](https://alison.com/course/introduction-to-software-testing-revised?utm_source=alison_user&utm_medium=affiliates&utm_campaign=31931242). It takes between 1.5 and 3 hours to complete
+If you want a more in-depth look at testing then check out [this introductory course](https://alison.com/course/introduction-to-software-testing-revised?utm_source=alison_user&utm_medium=affiliates&utm_campaign=31931242). It takes between 1.5 and 3 hours to complete.

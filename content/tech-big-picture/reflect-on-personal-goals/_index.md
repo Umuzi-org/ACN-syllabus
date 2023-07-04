@@ -26,7 +26,7 @@ Please answer the following questions:
 
 3. In what ways has this course changed your perspective on software development and technology? How might this influence your future learning paths?
 
-4. In thinking about the various roles in tech (like data scientist, data engineer, UI/UX designer, mobile developer, scrum master etc.), which ones are you most interested in exploring further? Why do those roles appeal to you?
+4. In thinking about the various roles in tech (like data scientist, data engineer, UI/UX designer, mobile developer, scrum master, etc.), which ones are you most interested in exploring further? Why do those roles appeal to you?
 
 5. Do you intend to try to pursue one of the roles you mentioned in the previous question? If yes, what are the next steps you want to take?
 
