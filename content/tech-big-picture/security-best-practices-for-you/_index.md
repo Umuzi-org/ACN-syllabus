@@ -7,10 +7,11 @@ prerequisites:
 ready: true
 title: Security best practices for you
 ---
+![best security practices](security.png)
 
 Here are some security best practices that individuals should follow:
 
-1. **Strong Passwords**: Use strong, unique passwords for each of your accounts. A strong password should be long (12 characters at a minimum) and include a combination of upper and lower case letters, numbers, and special characters. This makes it harder for attackers to guess or crack your password.
+1. **Strong Passwords**: Use strong, unique passwords for each of your accounts. A strong password should be long (12 characters at a minimum) and include a combination of upper and lower-case letters, numbers, and special characters. This makes it harder for attackers to guess or crack your password.
 2. **Password Managers**: It can be challenging to remember many complex passwords, so consider using a password manager. These tools generate and store strong, unique passwords for each of your accounts, so you only need to remember one master password.
 3. **Two-Factor Authentication (2FA)**: Enable 2FA whenever it's available. This adds an extra layer of security by requiring two types of identification: something you know (like a password), and something you have (like a code sent to your phone).
 4. **Software Updates**: Regularly update your software and devices. Updates often include patches for security vulnerabilities, so by not updating, you may be leaving yourself exposed to known threats.
@@ -25,5 +26,5 @@ These practices are important because they significantly reduce the risk of a se
 
 ## Resources 
 
-- https://www.nytimes.com/guides/privacy-project/how-to-protect-your-digital-privacy
-- https://www.zdnet.com/article/online-security-101-how-to-protect-your-privacy-from-hackers-spies-and-the-government/
+- (How to protect your digital privacy)[https://www.nytimes.com/guides/privacy-project/how-to-protect-your-digital-privacy]
+- (How to protect your privacy from hackers, spies, and the government)[https://www.zdnet.com/article/online-security-101-how-to-protect-your-privacy-from-hackers-spies-and-the-government/]
