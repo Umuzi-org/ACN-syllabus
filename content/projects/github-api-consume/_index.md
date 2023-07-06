@@ -93,6 +93,7 @@ The function should return a list or array of pull requests on the repo such tha
 
 For each PR include the `id`, `user` (who opened the PR), `title`, `state`, and when it was created.
 
+**If you are working in JavaScript** we should be able to call your function like this: `getPullRequests({ owner, repo, startDate, endDate})`. Take note of those curly brackets.
 
 ### Data structure
 
