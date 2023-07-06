@@ -159,7 +159,7 @@ Please fetch the maximum number of PRs per page(100) to avoid making too many ap
 
 ### Public and private repos
 
-Repos on Github can either be public or private. If you are trying to access a private repository then you'll need to authenticate using a token. 
+Repos on Github can either be public or private. If you are trying to access a private repository then you'll need to authenticate using a token. Kindly generate the **classic token** and not the **fine-grained token** for this project authentication.
 
 Upgrade your code so that It makes use of an environmental variable called `GITHUB_TOKEN`. 
 
