@@ -91,16 +91,14 @@ The function should take in the following arguments:
 
 The function should return a list or array of pull requests on the repo such that the PRs were created, updated, merged or closed between the given two dates.
 
-For each PR include the `id`, `user` (who opened the PR), `title`, `state`, and when it was created.
+Play around with [this public repo](https://github.com/Umuzi-org/ACN-syllabus) and see if you can make it work.
+
 
 **If you are working in JavaScript** we should be able to call your function like this: `getPullRequests({ owner, repo, startDate, endDate})`. Take note of those curly brackets.
 
-### Data structure
+### Returned data structure
 
-Play around with [this public repo](https://github.com/Umuzi-org/ACN-syllabus) and see if you can make it work.
-
-Here is an example of what the final data structure should look like. This isn't the exact data you should expect, just pay close attention to the structure:
-
+Here is an example of what the final data structure should look like if it was converted into JSON. This isn't the exact data you should expect, just pay close attention to the structure:
 
 ```bash
 # input
@@ -108,17 +106,23 @@ get_pull_requests("Umuzi-org", "ACN-syllabus", "2022-03-01", "2022-03-10")
 
 # output
 [
-  {"id":"876359209", "user":"FaithMo", "title":"added data sci and eng info", "state":"open", "created_at":"2022-03-10"},
-  {"id":"874927260", "user":"ry-oc", "title":"update sololearn python and all contentlinks etc", "state":"closed", "created_at": "2022-03-09"},
-  {"id":"872630389", "user":"Andy-Nkumane", "title":"added clarity on python error raising", "state":"open", "created_at":"2022-03-07"},
-  {"id":"872484561", "user":"Kate-bit-dev", "title":"Update _index.md", "state":"closed", "created_at":"2022-03-06"},
-  {"id":"872482562", "user":"Kate-bit-dev", "title":"Update _index.md", "state":"open", "created_at":"2022-03-06"},
-  {"id":"872481470", "user":"Kate-bit-dev", "title":"Update _index.md", "state":"closed", "created_at":"2022-03-06"},
-  {"id":"872480774", "user":"Kate-bit-dev", "title":"Update _index.md", "state":"closed", "created_at":"2022-03-06"},
-  {"id":"872480210", "user":"Kate-bit-dev", "title":"Update _index.md", "state":"closed", "created_at":"2022-03-06"},
+  {"id": 876359209, "user":"FaithMo", "title":"added data sci and eng info", "state":"open", "created_at":"2022-03-10"},
+  {"id": 874927260, "user":"ry-oc", "title":"update sololearn python and all contentlinks etc", "state":"closed", "created_at": "2022-03-09"},
+  {"id": 872630389, "user":"Andy-Nkumane", "title":"added clarity on python error raising", "state":"open", "created_at":"2022-03-07"},
+  {"id": 872484561, "user":"Kate-bit-dev", "title":"Update _index.md", "state":"closed", "created_at":"2022-03-06"},
+  {"id": 872482562, "user":"Kate-bit-dev", "title":"Update _index.md", "state":"open", "created_at":"2022-03-06"},
+  {"id": 872481470, "user":"Kate-bit-dev", "title":"Update _index.md", "state":"closed", "created_at":"2022-03-06"},
+  {"id": 872480774, "user":"Kate-bit-dev", "title":"Update _index.md", "state":"closed", "created_at":"2022-03-06"},
+  {"id": 872480210, "user":"Kate-bit-dev", "title":"Update _index.md", "state":"closed", "created_at":"2022-03-06"},
   ...
 ]
 ```
+
+Note that:
+
+- The id is an integer
+- the user is the person who created the pr
+
 
 ### Error messages 
 
