@@ -32,6 +32,16 @@ In this project, you'll make use of Github's awesome API. We chose Github for th
 
 ## Set up your environment
 
+### Python
+
+Your directory structure should look like this:
+
+```
+├── requirements.txt
+└── src
+    └── consume_github_api.py
+```
+
 ### JavaScript
 
 Your directory structure should look like this:
