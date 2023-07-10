@@ -79,6 +79,8 @@ Your directory structure should look like this:
 
 ```
 
+If the instructions tell you to return a list or array then the correct thing to return is a `List`.
+
 ### Python
 
 Your directory structure should look like this:
@@ -145,19 +147,19 @@ Then it means that the person is buying 2 hamsters at a price of R20 each. So th
 
 Please note that one person can have multiple baskets. If you look at the data, you'll see that tshepo@umuzi.org has 4 baskets. Two have been delivered, one has been paid for (so he's awaiting delivery) and one is open (so he's setting up his next order).
 
-## Working with json files 
+## Working with JSON files 
 
 JSON is a lovely data format because it is easy for humans to read, and machines like it too. 
 
-If you are working in **Python** then you can turn the json file into a data structure in your code by making use of the [json package](https://docs.python.org/3/library/json.html).
+If you are working in **Python** then you can turn the JSON file into a data structure in your code by making use of the [json package](https://docs.python.org/3/library/json.html).
 
 In JavaScript you can simply `require` a JSON file and then it'll get converted into the appropriate data-structure.
 
-In java you can turn the json file into data structure in your code by making use of [json for java](https://github.com/FasterXML/jackson), [here is a tutorial](https://www.baeldung.com/jackson-object-mapper-tutorial)
+In Java you can turn the JSON file into a data structure in your code by making use of [json for java](https://github.com/FasterXML/jackson), [here is a tutorial](https://www.baeldung.com/jackson-object-mapper-tutorial)
 
 ## Write some functionality
 
-### get baskets belonging to a single customer
+### Get baskets belonging to a single customer
 
 Write a function called `get customer baskets` that takes in two arguments:
 
@@ -168,12 +170,12 @@ The function must return a list/array of all the shopping baskets that belong to
 
 If the customer has no shopping baskets then return an empty list/array.
 
-Different languages have different requirements for datatypes
+Different languages have different requirements: 
 
 ```
-getCustomerBaskets({ email, allShoppingBaskets }); // javascript
-getCustomerBaskets(email, allShoppingBaskets); // java
-get_customer_baskets(email, all_shopping_baskets) // python
+getCustomerBaskets({ email, allShoppingBaskets }); // javascript. This should return an array
+getCustomerBaskets(email, allShoppingBaskets); // java. This should return a List
+get_customer_baskets(email, all_shopping_baskets) // python. This should return a list
 ```
 
 This kind of data should be returned if `someone@umuzi.org` has only one basket.
@@ -192,7 +194,7 @@ This kind of data should be returned if `someone@umuzi.org` has only one basket.
 ]
 ```
 
-### get a list of all the customer email addresses
+### Get a list of all the customer email addresses
 
 Write a function called `get all customers`, the function should take the data array as an argument and should return a list of sorted customer email addresses. The list must have no duplicates.
 
@@ -204,7 +206,7 @@ getAllCustomers(allShoppingBaskets); //java
 get_all_customers(all_shopping_baskets) // python
 ```
 
-### list all the items that have been paid for but not yet delivered
+### List all the items that have been paid for but not yet delivered
 
 Write a function called `required stock`, your function should take the data array as an argument and should return all the items that need to be sent out for delivery.
 You need to return data in the correct format. Just include the names and quantities of the items.
@@ -221,7 +223,7 @@ For example, if one customer paid for 2 hamsters and another customer paid for o
 
 ```
 [
-    {"name":"hamster", "quantity": 3},
+    {"name": "hamster", "quantity": 3},
     {"name": "bag of sawdust", "quantity": 1}
 ]
 ```
@@ -267,7 +269,7 @@ Make sure the returned value matches the following structure:
 
 Hint: You have already defined some functions that would be useful in finding this result. Call those functions.
 
-### customers who have OPEN baskets
+### Get customers who have OPEN baskets
 
 Write a function called `get customers with open baskets` that takes in the data array as an argument and returns a sorted list/array of email addresses for customers who have baskets that are open.
 e.g.
