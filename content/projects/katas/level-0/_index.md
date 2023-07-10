@@ -19,7 +19,7 @@ tags:
 - algorithms
 - clean-code
 - deprecated
-title: Level 0 coding challenges: Deprecated
+title: Level 0 coding challenges - Deprecated
 ---
 
 Complete these tasks in the correct language. If you are here to learn JavaScript, then do the tasks in JavaScript. If you have been told to use Python then use Python.
