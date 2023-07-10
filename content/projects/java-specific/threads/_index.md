@@ -13,7 +13,7 @@ submission_type: repo
 title: Java Threads
 ---
 
-### Directory structure
+## Directory structure
 
 ```
 ├── build.gradle
