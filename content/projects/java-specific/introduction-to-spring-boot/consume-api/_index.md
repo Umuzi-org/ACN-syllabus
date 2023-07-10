@@ -18,36 +18,32 @@ tags:
 title: Spring Boot - Consume REST API and SOAP Service
 ---
 
-In this project we will consume a REST API and a SOAP web service as a new project.
+In this project, we will consume a REST API and a SOAP web service as a new project.
 
 ## REST API
 
-#### Step 1
+### Step 1
 
-Create a java application and import 'org.springframework.boot:spring-boot-starter-web' into your build.gradle file to convert it to a Web Spring Boot application or use https://start.spring.io/
+Create a Java application and import 'org.springframework.boot:spring-boot-starter-web' into your build.gradle file to convert it to a Web Spring Boot application or use https://start.spring.io/
 
-Familiarize yourself with the git api found here https://developer.github.com/v3/ learn which endpoint to get your repo, commits maybe branches etc. Try it out on postman or curl on the terminal
+Familiarize yourself with the git API found here https://developer.github.com/v3/. Learn which endpoint to use to get your repo, commits, and branches. Try it out on Postman or curl on the terminal.
 
-#### Step 2
+### Step 2
 
-Now we are going to consume the api in our spring boot application using restTemplates as per topic work.
+Now we are going to consume the API in our spring boot application using restTemplates.
 
 We would like to see:
 
-1. v3 version of the api implemented
-
+1. v3 version of the API implemented
 2. A list of all your repos - output on the console
-
 3. A list of commits in 1 repo of your choice - output on the console
 
 ## SOAP WEB SERVICES
 
-#### Step 1
+### Step 1: Project setup and configuration:
 
-Project Setup and configuration:
-
-1. Make your machine run jdk version 8, the correct install is from this link https://www.oracle.com/za/java/technologies/javase/javase8-archive-downloads.html
-2. Set up your $JAVA_HOME to point to this jdk version
+1. Make your machine run JDK version 8, the correct install is from this link https://www.oracle.com/za/java/technologies/javase/javase8-archive-downloads.html
+2. Set up your `$JAVA_HOME` to point to this JDK version
 3. You will know that you have set this up correctly when you run
 
  ```
@@ -55,26 +51,27 @@ Project Setup and configuration:
  // output  jdk 1.8 or jdk 8
  ```
 
-**Why do you need to change your jdk version for this project**
+**Why do you need to change your JDK version for this project**
 
-1. Peace of mine, dependency hell is a thing of nightmares
+1. Peace of mind, dependency hell is a thing of nightmares
 2. wsimport comes out of the box in jdk 8, jdk > 9 removed wsimport and open sourced it
-3. avoid the famous ```Implementation of JAXB-API has not been found on module path or classpath``` error
+3. avoid the famous `Implementation of JAXB-API has not been found on module path or classpath` error
 
-#### Step 2
+### Step 2
 
-Clone the repo found here https://github.com/spring-guides/gs-producing-web-service and open the `complete` folder not the entire repo. Review it on a high level this will be the wsdl project we are going to use to learn how to consume a wsdl application. **DO NOT ADD THIS PROJECT AS PART OF YOUR SUBMISSION(this is so that you can generate the files)**
+Clone the repo found here: https://github.com/spring-guides/gs-producing-web-service.  Then open the `complete` folder in your IDE (do not open the entire repo, just the directory). Read through it on a high level and make sure you understand it, your goal here is to learn how to consume a wsdl application. 
 
-Change the application to run on port 9090 by adding this to the properties file
+**IMPORTANT:** DO NOT ADD THIS PROJECT AS PART OF YOUR SUBMISSION - this is so that you can generate the files.
 
-Run the application, if everything is set up properly you should be able to go to the url below,
+Change the application to run on port 9090 by adding this to the properties file.
+
+Run the application, if everything is set up properly you should be able to go to the URL below:
 
 ```
 http://localhost:9090/ws/countries.wsdl
-
 ```
 
-and see this
+You'll see something like this:
 
 ```
 <wsdl:definitions xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:sch="http://spring.io/guides/gs-producing-web-service" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="http://spring.io/guides/gs-producing-web-service" targetNamespace="http://spring.io/guides/gs-producing-web-service">
@@ -85,56 +82,48 @@ and see this
             <xs:sequence>
 
 // ....
-
 ```
 
-keep this project running in the background
+Keep this project running in the background, you'll need it later in your project.
 
-#### Step 3
+### Step 3
 
-In your terminal navigate to `[YourProjectName]/src/main/java` and run this command
+In your terminal navigate to `[YourProjectName]/src/main/java` and run this command:
 
 ```
 wsimport -keep -p [package].wsdl http://localhost:9090/ws/countries.wsdl
 
 // e.g wsimport -keep -p com.example.soap.wsdl http://localhost:9090/ws/countries.wsdl
-
 ```
 
-#### Step 4
+### Step 4
 
-To get the generated class to stop showing errors you would need these dependencies
+Add the following dependencies to get the generated class to stop showing errors:
 
 ```
-	implementation group: 'jakarta.xml.ws', name: 'jakarta.xml.ws-api', version: '2.3.3'
-	implementation group: 'org.glassfish.main.javaee-api', name: 'javax.jws', version: '3.1.2.2'
+implementation group: 'jakarta.xml.ws', name: 'jakarta.xml.ws-api', version: '2.3.3'
+implementation group: 'org.glassfish.main.javaee-api', name: 'javax.jws', version: '3.1.2.2'
 ```
 
-#### Step 5
+### Step 5. Expose an endpoint that will print the following in the browser
 
-Now we start to do the real work
+Now we start to do the real work :)
 
-**Expose an endpoint that will print the following in the browser**
-
-1 Get the currency for United Kingdom: Output
+1. Get the currency for the United Kingdom. The output should look like: 
 
 ```
 Currency: GBP
-
 ```
 
-2 Get the capital of United Kingdom: Output
+2. Get the capital of the United Kingdom.The output should look like: 
 
 ```
 Capital: London
-
 ```
 
-3 Get the population of United Kingdom: Output
+3. Get the population of the United Kingdom. The output should look like: 
 
 ```
 Population: 63705000
-
 ```
 
-### Happy Hacking!!!
