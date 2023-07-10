@@ -9,7 +9,8 @@ Data science is a profession that requires three basic skills encompassing Stati
 
 The main programming languages used in data science are Python and R. While Python is fairly new compared to R, and not only used in data science, but also in web development. 
 
-R:
+## R
+
 - created to handle statistical computing and popular for academic research and professionals in statistics-based industries
 - great for data manipulation
 - great for publication-quality graphs very easily
@@ -17,7 +18,8 @@ R:
 - not great for beginner programmers
 - ease of interaction with Github
 
-Python:
+## Python
+
 - very easy and intuitive to learn for beginners
 - large and diverse community in more disciplines
 - increased communication between open-source languages (including Github)

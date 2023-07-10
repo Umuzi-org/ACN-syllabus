@@ -4,7 +4,6 @@ content_type: project
 flavours:
 - markdown
 ready: true
-submission_type: link
 tags:
 - bash
 title: Beginning Bash

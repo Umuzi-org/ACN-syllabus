@@ -5,6 +5,7 @@ ready: true
 tags:
 - git
 - github
+- deprecated
 title: Say hello to Github - deprecated
 ---
 
