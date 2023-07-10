@@ -9,6 +9,9 @@ prerequisites:
 ready: true
 submission_type: link
 title: Coursera - IT Automation with Python - Course 3 - Introduction to Git and GitHub
+tags:
+- git 
+- github
 ---
 
 Complete the above mentioned course on coursera

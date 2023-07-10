@@ -10,7 +10,6 @@ tags:
 title: Beginning Bash
 protect_main_branch: false
 submission_type: repo
-
 ---
 
 It's important to understand a bit about the command-line if you want to be a professional coder. There are a few reasons for this:

@@ -8,10 +8,12 @@ prerequisites:
 ready: true
 tags:
 - employability-sprint
+- github
 title: Portfolio of work - tech guidelines
 ---
 
 ## GitHub Profile Best Practices
+
 To assess the quality of your work, the hiring manager needs to access your raw code, which makes a solid GitHub profile essential. It needs to show the meaningful and impressive work you’ve done. The code should work reliably, and it needs to be clean and readable.
 
 This article covers some of the basic requirements for your GitHub profile, as well as some really great advice on keeping your profile active: [5 tips to power up your github profile](https://www.jobsity.com/blog/5-tips-to-power-up-your-github-profile)
