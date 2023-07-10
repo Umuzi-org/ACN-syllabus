@@ -13,17 +13,9 @@ A thread is like a separate CPU executing your application. Thus, a multithreade
 
 A thread goes through a life-cycle which can be seen in the diagram below:
 
-...
-
-## What is Multithreading
-
-Multithreading means that you have multiple threads of execution inside the same application. A thread is like a separate CPU executing your application. Thus, a multithreaded application is like an application that has multiple CPUs executing different parts of the code at the same time. 
-
-***A thread goes through a life-cycle which can be seen in the diagram below***
-
 ![thread-life-cycle](Thread_Life_Cycle.jpg)
 
-### How to create a Thread
+## How to create a Thread
 
 Java can handle multiple threads, but you need to do a bit of work to set it up. This is because you, as the programmer, need to decide what each thread should be responsible for.
 
@@ -43,11 +35,11 @@ class Test {
 
 ```
 
-## What is Concurrency
+## What is concurrency?
 
-Concurrency actually means that multiple tasks can be executed in an overlapping time period. This means that one of the tasks can begin before the preceding one is completed; however, they won’t be running at the same time. The CPU will adjust time slices per task and appropriately switch contexts. That’s why this concept is quite complicated to implement and especially debug.
+Concurrency means that multiple tasks can be executed in an overlapping time period. This means that one of the tasks can begin before the preceding one is completed; however, they won’t be running at exactly the same time. The CPU will switch between threads and do a little bit of work on each one, one at a time. That’s why this concept is quite complicated to implement and especially debug.
 
-There are a lot of components/utilities in the concurrency package, one of the commonly used ones is `Executor`.
+There are a lot of components/utilities in the concurrency package, one of the commonly used ones is the `Executor` interface.
 
 The Executor interface represents an object that executes tasks. Depending on the implementation, the task can be run on either a new thread or the current thread. This `decoupling` of the task execution flow from the execution mechanism allows for greater flexibility and control.
 
@@ -57,7 +49,7 @@ public interface Executor {
 }
 ```
 
-Since Executor is an interface, we can't just create instances. We need to implement the Executor interface. We do this by creating an `Invoker` class like so:
+Since `Executor` is an `interface`, we can't just create instances. We need to implement the `Executor` interface. We do this by creating an `Invoker` class like so:
 
 ```
 public class Invoker implements Executor {
@@ -79,7 +71,7 @@ public void execute() {
 }
 ```
 
-Explore Java documentation and official Java tutorials provided by Oracle. The [Java Concurrency tutorial](https://docs.oracle.com/javase/tutorial/essential/concurrency/), in particular, covers the Executor framework and provides detailed explanations and examples.
+Explore Java documentation and official Java tutorials provided by Oracle. The [Java Concurrency tutorial](https://docs.oracle.com/javase/tutorial/essential/concurrency/), in particular, covers the `Executor` framework and provides detailed explanations and examples.
 
 ## What is Parallelism
 
@@ -87,7 +79,7 @@ Parallelism is the ability to execute independent tasks of a program in the same
 
 ![concurnecy-vs-parallelism](con-vs-par.webp)
 
-#### Extra Resources
+## Extra Resources
 
 - https://www.baeldung.com/cs/concurrency-vs-parallelism
 - https://www.geeksforgeeks.org/java-util-concurrent-package/
