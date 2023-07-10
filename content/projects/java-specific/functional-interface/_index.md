@@ -58,7 +58,7 @@ Here are some examples of descriptive messages for different numbers:
 
 *Hint:* Think about how you could make use of the above examples in your unit tests. 
 
-### Instructions for reviewers
+## Instructions for reviewers
 
 - Ensure that all three functions should return lambada expressions.
 - Ensure that every function is tested.
