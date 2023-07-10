@@ -16,16 +16,16 @@ Functional Interfaces are called Single Abstract Method (SAM) interfaces. They c
 
 By combining functional interfaces with lambda expressions, we can achieve smaller and cleaner code, eliminating the need for excessive boilerplate code.
 
-### Functional interface has four types
+### Functional interfaces have four types
 
 ![functional-interface](function-interface.png)
 
 Read more about them [here](https://www.geeksforgeeks.org/functional-interfaces-java/#:~:text=Java%20SE%208%20included%20four%20main%20kinds%20of%20functional%20interfaces%20which%20can%20be%20applied%20in)
 
-### Example of built-in functional interface:
+### Example of built-in functional interface
 
 ```
-//Create an anonymous inner-class object and start its execution
+// Create an anonymous inner-class object and start its execution
 new Thread(new Runnable() {
     @Override public void run() {
         System.out.println("New thread created");
@@ -61,7 +61,7 @@ new Thread(() -> {
   }
 ```
 
-#### Extra Recourses
+## Extra Recourses
 
 - https://www.geeksforgeeks.org/functional-interfaces-java/
 - https://www.javatpoint.com/java-8-functional-interfaces
