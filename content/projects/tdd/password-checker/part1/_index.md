@@ -2,18 +2,18 @@
 _db_id: 269
 content_type: project
 flavours:
-  - any_language
+- any_language
 prerequisites:
   hard:
-    - projects/tdd/simple-calculator-part1
-    - language-agnostic/validate-id-number
+  - projects/tdd/simple-calculator-part1
+  - language-agnostic/validate-id-number
   soft: []
 ready: true
 story_points: 3
 submission_type: repo
 tags:
-  - tdd
-  - error-checking
+- tdd
+- error-checking
 title: password-checker
 ---
 

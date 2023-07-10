@@ -3,7 +3,7 @@ _db_id: 36
 title: Web frontend foundations
 ---
 
-- {{< contentlink path="projects/bash-for-bootcamp" >}}
+- {{< contentlink path="projects/beginning-bash" >}}
 - {{< contentlink path="projects/git-exercises" >}}
 - {{< contentlink path="topics/bootcamp/git-for-bootcamp" >}}
 - {{< contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/1-basic-javascript" >}}
@@ -12,7 +12,7 @@ title: Web frontend foundations
 - {{< contentlink path="topics/how-to-ask-for-help-with-your-code" >}}
 - {{< contentlink path="projects/katas/level-2" flavour="javascript" >}}
 - {{< contentlink path="agile/agile-scrum" >}}
-- {{< contentlink path="topics/big-picture-web-dev" >}}
+- {{< contentlink path="tech-big-picture/how-web-applications-work/part-5" >}}
 - {{< contentlink path="topics/high-performance-dev-teams" >}}
 - {{< contentlink path="topics/js-and-node-specific/super-basic-intro-to-node" >}}
 - {{< contentlink path="topics/web-frontend/intro-to-web-design/" >}}

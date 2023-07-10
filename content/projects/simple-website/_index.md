@@ -2,20 +2,20 @@
 _db_id: 772
 content_type: project
 flavours:
-- none
+  - none
 learning_outcomes:
-- web_dev_hosting
+  - web_dev_hosting
 prerequisites:
   hard:
-  - topics/what-to-put-in-your-cv
-  - topics/free-code-camp/responsive-web-design/1-basic-html-and-html-5
-  - topics/free-code-camp/responsive-web-design/2-basic-css
+    - topics/what-to-put-in-your-cv
+    - topics/free-code-camp/responsive-web-design/1-basic-html-and-html-5
+    - topics/free-code-camp/responsive-web-design/2-basic-css
 ready: true
 story_points: 3
 submission_type: link
 tags:
-- html
-- css
+  - html
+  - css
 title: Simple Website - Build your first personal website
 ---
 
@@ -27,7 +27,7 @@ Create a personal website to showcase your talents and ambitions.
 
 The content and information you choose to display is up to you. There should be some information about your skills, interests, and previous experience, as well as information on how to get in touch with you. Think about the user experience when designing your layout and navigation.
 
-Your web page files and folders should be organized and named logically.
+A good practice is to organise and name web page files and folders logically.
 
 Learn more about [Github Pages](https://guides.github.com/features/pages/).
 
@@ -44,6 +44,7 @@ Make sure that you regularly push your code to GitHub. Once you have finished yo
 - Your portfolio can be a simple single page portfolio that contains the above-mentioned requirements.
 - Make sure that only the necessary information is presented.
 - Make sure your stuff is tidy. Use whitespace as needed. Make sure your pictures are not squashed or stretched.
+- Make sure there are no spelling or grammatical errors.
 
 ### Links
 

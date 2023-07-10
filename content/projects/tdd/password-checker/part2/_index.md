@@ -2,17 +2,17 @@
 _db_id: 270
 content_type: project
 flavours:
-  - any_language
+- any_language
 from_repo: projects/tdd/password-checker/part1
 prerequisites:
   hard:
-    - projects/tdd/password-checker/part1
+  - projects/tdd/password-checker/part1
   soft: []
 ready: true
 story_points: 3
 submission_type: continue_repo
 tags:
-  - logging
+- logging
 title: Add logging to password checker
 ---
 
@@ -22,7 +22,7 @@ title: Add logging to password checker
 
 Your directory structure should look like this:
 
-```js
+```
 ├── spec
 |   ├── support
 |   |   └── jasmine.json
@@ -38,6 +38,31 @@ Your directory structure should look like this:
 
 ```
 module.exports = { nameOfObject }
+```
+
+
+### Java:
+
+Your directory structure should look like this:
+
+```
+├── build.gradle
+├── gradle
+│   └── wrapper
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
+├── gradlew
+├── gradlew.bat
+├── settings.gradle
+└── src
+    ├── main
+    |   └── java
+    |       └── PasswordChecker.java <-------- names are important
+    |       └── logging/
+    |           └── Log4j2Configuration.java
+    └── test
+        └── java
+            └── PasswordCheckerTest.java             <-------- names are important
 ```
 
 ## General instructions

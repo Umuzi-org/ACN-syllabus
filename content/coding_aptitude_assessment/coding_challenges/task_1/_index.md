@@ -13,7 +13,7 @@ submission_type: repo
 title: 'Coding aptitude assessment challenge: Task 1'
 ---
 
-Write a function that simply prints the string "Hello World!".
+Write a function that simply **prints** the string "Hello World!".
 
 ## Javascript
 
@@ -27,12 +27,12 @@ console.log("something")
 
 ## Python
 
-If you are using Python then you should be using print to print the string.
+If you are using Python then you should be using `print` to print the string.
 
 ```
 print("something")   # so this kind of thing
 
-print "dont do this"  # if you are writing print statements like this
+print "don't do this"  # if you are writing print statements like this
                       # then you are using the wrong version of Python. Please
                       # make sure you have Python 3 installed.
 ```
@@ -56,7 +56,7 @@ Since this is your first code project we'll walk you through the process of gett
 
 {{< youtube  CEjqVnz4W4I >}}
 
-Some learners will be moving to alternate programmes following this, but as long as you are still in tech your understanding of Git and Github will be extremely important.
+Some learners will be moving to alternate programs following this, but as long as you are still in tech, your understanding of Git and Github will be extremely important.
 
 ### Part 2: Addressing review feedback
 

@@ -2,17 +2,27 @@
 _db_id: 394
 content_type: project
 flavours:
-- none
+- markdown
 ready: true
 submission_type: link
 tags:
 - bash
 title: Beginning Bash
+protect_main_branch: false
+submission_type: repo
+
 ---
 
-To interact properly with Git, you'll need to know a little bit about "the command line".
+It's important to understand a bit about the command-line if you want to be a professional coder. There are a few reasons for this:
+
+1. Professional coders usually use Git for version control. If you are not comfortable with the command line then there is a limit to what you can do
+2. A lot of command-line understanding is transferrable to other situations
+3. If you ever deploy your code onto the internet you're likely to need to use bash commands to interact with the devices running your code. 
+
+## Getting started 
 
 The first step is to open the command line or terminal on your device:
+
 - If you are running Android, then open your termux app
 - If you are running Windows, then:
   Open your Git shell OR
@@ -26,15 +36,8 @@ Now you'll need to learn a few basic commands to get by:
 http://korflab.ucdavis.edu/bootcamp.html
 
 Make sure you understand everything up to step 14. NB: Completing and understanding up to step 14 is essential for the successful completion of this project.
-#### Submission Instructions
 
-In this project, you will be submitting a link to a google document.
-
-Please copy and paste the questions below including the question number and the full question into your google doc and answer the question on a new line below, use additional new lines and spacing to make the submission easy to read and assess.
-
-Ensure you update the sharing permissions on your google doc to allow anyone with the link to view it.
-
-#### Questions
+## Questions
 
 1. What is the purpose of the `ls` command?
 2. What does the command `ls /` output?
@@ -49,3 +52,9 @@ Ensure you update the sharing permissions on your google doc to allow anyone wit
 11. Explain the usage of the `man` command?
 12. What command would you use to remove the directory *git-basic-exercises*? Assume that this directory is NOT empty. 
 13. Explain the use of *tab completion*?
+
+## How to submit your work
+
+Please follow the following instructions to submit your work:
+
+{{< contentlink path="project-submission-instructions/markdown-questions" >}}

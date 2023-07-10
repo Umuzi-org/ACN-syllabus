@@ -11,6 +11,7 @@ title: Java Systems Development - part 2
 - {{% contentlink path="topics/data-infrastructure/database-comparison/" %}}
 - {{% contentlink path="projects/java-specific/collections" flavour="java" %}}
 - {{% contentlink path="projects/java-specific/data-structures" flavour="java" %}}
+- {{< contentlink path="projects/java-specific/streams" flavour="java" >}}
 - {{% contentlink path="projects/java-specific/generics" flavour="java" %}}
 - {{% contentlink path="projects/java-specific/functional-interface" flavour="java" %}}
 - {{% contentlink path="projects/java-specific/java-fileio-logging-errors" flavour="java" %}}
@@ -22,3 +23,4 @@ title: Java Systems Development - part 2
 - {{% contentlink path="projects/java-specific/introduction-to-spring-boot/part-3" flavour="java" %}}
 - {{% contentlink path="projects/java-specific/introduction-to-spring-boot/consume-api" flavour="java" %}}
 - {{% contentlink path="projects/java-specific/introduction-to-spring-boot/view-template" flavour="java" %}}
+
