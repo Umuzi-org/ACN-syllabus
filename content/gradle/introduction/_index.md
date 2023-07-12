@@ -1,7 +1,8 @@
 ---
-content_type: topic 
-title: Introduction to Gradle
+_db_id: 945
+content_type: topic
 ready: true
+title: Introduction to Gradle
 ---
 
 If you work on simple projects then organising your code is pretty easy. But most projects aren't simple. Life gets tricky when you need to  wrangle multiple files and external dependencies.

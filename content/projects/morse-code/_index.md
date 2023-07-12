@@ -2,21 +2,21 @@
 _db_id: 184
 content_type: project
 flavours:
-  - any_language
+- any_language
 learning_outcomes:
-  - code_assert_statements
-  - code_error_messages
+- code_assert_statements
+- code_error_messages
 prerequisites:
   hard:
-    - topics/intro-to-assertive-programming
+  - topics/intro-to-assertive-programming
   soft: []
 ready: true
 story_points: 3
 submission_type: repo
 tags:
-  - problem solving
-  - data structures
-  - defensive programming
+- problem solving
+- data structures
+- defensive programming
 title: Morse code
 ---
 

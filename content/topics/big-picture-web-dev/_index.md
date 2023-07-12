@@ -5,9 +5,8 @@ ready: true
 tags:
 - internet
 - deprecated
-title: Big Picture of Web Dev 
+title: Big Picture of Web Dev
 ---
-
 
 Please read the following:
 

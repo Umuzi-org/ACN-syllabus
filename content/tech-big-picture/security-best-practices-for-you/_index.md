@@ -7,6 +7,7 @@ prerequisites:
 ready: true
 title: Security best practices for you
 ---
+
 ![best security practices](security.png)
 
 Here are some security best practices that individuals should follow:

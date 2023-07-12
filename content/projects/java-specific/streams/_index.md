@@ -1,7 +1,9 @@
 ---
+_db_id: 948
 content_type: project
 flavours:
 - java
+from_repo: projects/semitone-challenge/basic-algorithm
 prerequisites:
   hard:
   - projects/semitone-challenge/advanced-algorithm
@@ -13,8 +15,6 @@ tags:
 - data-structures
 - array-manipulation
 title: Java Streams
-from_repo: projects/semitone-challenge/basic-algorithm
-
 ---
 
 Remember your semitone challenge project? well, for this project we are about to make the semitone project a bit cooler by using other functions to process the very same data structures.

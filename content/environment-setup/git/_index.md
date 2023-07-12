@@ -2,9 +2,9 @@
 _db_id: 634
 content_type: topic
 ready: true
-title: Getting Git set up
 tags:
 - Git
+title: Getting Git set up
 ---
 
 Git is a critical tool for any kind of coder. We'll get git set up before you do anything else. You'll need to get comfortable using git from the command line.

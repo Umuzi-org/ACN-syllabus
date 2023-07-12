@@ -143,4 +143,3 @@ Try to answer the following questions for yourself:
 - When is a constructor called?
 - Can you construct multiple instances of the same class? 
 - What is the difference between a class and an object?
-

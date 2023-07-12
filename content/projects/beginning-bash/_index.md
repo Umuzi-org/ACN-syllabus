@@ -3,12 +3,12 @@ _db_id: 394
 content_type: project
 flavours:
 - markdown
+protect_main_branch: false
 ready: true
+submission_type: repo
 tags:
 - bash
 title: Beginning Bash
-protect_main_branch: false
-submission_type: repo
 ---
 
 It's important to understand a bit about the command-line if you want to be a professional coder. There are a few reasons for this:
