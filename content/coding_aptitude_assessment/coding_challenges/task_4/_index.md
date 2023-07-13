@@ -2,15 +2,15 @@
 _db_id: 759
 content_type: project
 flavours:
-  - any_language
+- any_language
 prerequisites:
   hard:
-    - coding_aptitude_assessment/coding_challenges/introduction
-    - coding_aptitude_assessment/coding_challenges/how_to_name_files
+  - coding_aptitude_assessment/coding_challenges/introduction
+  - coding_aptitude_assessment/coding_challenges/how_to_name_files
 protect_main_branch: false
 ready: true
 submission_type: repo
-title: "Coding aptitude assessment challenge: Task 4"
+title: 'Coding aptitude assessment challenge: Task 4'
 ---
 
 Write a function that takes in three numbers(integers). These numbers represent the lengths of the sides of a triangle. The function should **return** the area of a triangle as a whole number.
