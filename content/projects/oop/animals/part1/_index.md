@@ -1,4 +1,4 @@
-![image](https://github.com/Umuzi-org/ACN-syllabus/assets/37469171/ada6eb0c-7bca-4506-88e3-158a9778cc6d)---
+---
 _db_id: 224
 content_type: project
 flavours:
