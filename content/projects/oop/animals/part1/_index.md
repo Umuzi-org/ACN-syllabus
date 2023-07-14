@@ -1,4 +1,4 @@
----
+![image](https://github.com/Umuzi-org/ACN-syllabus/assets/37469171/ada6eb0c-7bca-4506-88e3-158a9778cc6d)---
 _db_id: 224
 content_type: project
 flavours:
@@ -40,6 +40,43 @@ Your directory structure should look like this:
 module.exports = {class1Name, class2Name, ...}
 
 ```
+
+### Python
+
+Your directory structure should look like this:
+
+```
+├── animals
+│   └── animals.py
+├── setup.py
+├── requirements.txt
+├── .gitignore
+```
+
+### Java
+
+Your directory structure should look like this:
+
+```
+├── build.gradle
+├── gradle
+│   └── wrapper
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
+├── gradlew
+├── gradlew.bat
+├── settings.gradle
+└── src
+    ├── main
+       └── java
+           ├── Animal.java       <-------- names are important
+           ├── Cat.java          <-------- names are important
+           ├── Dog.java          <-------- names are important
+           ├── Home.java         <-------- names are important
+           └── MainProgram.java  <-------- names are important
+```
+
+Please refer to the following to find out more: {{< contentlink path="topics/java-specific/project-submission-requirements" >}}
 
 ## Instructions
 
