@@ -17,14 +17,16 @@ tags:
 title: Person
 ---
 
-## Language specific setup
+## Project structure
 
 ### JavaScript
 
 Your directory structure should look like this.
 
 ```
-person.js
+├── src
+|   └── person.js
+└── package.json
 ```
 
 If you are writing JavaScript then it is important that you export your class correctly. Include the following line at the in of your `person.js` file
@@ -38,13 +40,29 @@ module.exports = { Person };
 Please name your files and folders like this:
 
 ```
-person.py
+├── person
+│   └── person.py
+├── setup.py
+├── requirements.txt
+├── .gitignore
 ```
 
 ### Java
 
 ```
-Person.java
+├── build.gradle
+├── gradle
+│   └── wrapper
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
+├── gradlew
+├── gradlew.bat
+├── settings.gradle
+└── src
+     └── main
+       └── java
+            └── Person.java <-------- names are important
+            └── Main.java   <-------- names are important
 ```
 
 If you would like to add another class with a main function so you can test drive your work then please go ahead.
