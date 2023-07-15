@@ -3,7 +3,7 @@ _db_id: 97
 title: Big picture of tech
 ---
 
-## How the web works
+## How the web works - common foundations
 
 - {{< contentlink path="tech-big-picture/intro" >}}
 - {{< contentlink path="tech-big-picture/what-is-software" >}}
