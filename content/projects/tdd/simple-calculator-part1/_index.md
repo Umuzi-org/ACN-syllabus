@@ -179,6 +179,7 @@ multiply(-1,3)
 ## Instructions for reviewers
 
 - `__init__.py` is not needed if the repo is set up properly (python).
-- The point of tests in TDD isn't only to have tests but to have very specific tests. For a given input we don't just want to know that the function executed without error, make sure it returns the right thing. So instead of one function that tests everything you want specific tests.
+- For a given input we don't just want to know that the function executed without error, the tests should make sure it returns the right thing. 
+- Separate tests should be in separate test functions, there should not be one mega-test function that contains all the test code.
 - Tests should have descriptive names.
 - Built-in functions should not be used in this project.
