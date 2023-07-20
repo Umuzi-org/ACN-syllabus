@@ -93,10 +93,8 @@ Add tests to your project. Make sure you test every method in every class.
 
 Please make sure you test absolutely every function that you wrote in part 1.  Make sure that the different functions do what they are meant to do in all different situations.
 
-Take a bit of time to find out about a concept called "test coverage". WQe want 100% coverage in this project.
+Take a bit of time to find out about a concept called "test coverage". We want 100% coverage in this project.
 
 ## Instructions for reviewers
 
-- There should be no global variables
-- If a variable is only used within a given method, then constantly referring to it as `self.variable`/`this.variable` isn't necessary.
-- Make sure that there are no redundant tests. For example if there is a test that checks that a dog says "Bark" then it is very pointless to check that the dog does not say "Meow"
+Make sure that there are no redundant tests. For example if there is a test that checks that a dog says "Bark" then it is very pointless to check that the dog does not say "Meow", "caterpillar" or "whatzit", because we already know that it says "Bark".

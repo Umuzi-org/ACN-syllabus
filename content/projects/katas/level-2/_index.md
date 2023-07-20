@@ -135,9 +135,9 @@ Well done for getting this far! These exercises demonstrated some really fundame
 
 Make sure you really understand all the code you wrote here. You should know what every single line does and why it is there. 
 
-Remember that you are here to become a professional! Professionals take ownership of their learning and skills, and professionals help the people around them become successful.
+Remember that you are here to become a professional! Professionals take ownership of their learning and skills. A professional doesn't just know a bit of syntax, a professional solves real problems with code. 
 
-A professional doesn't just know a bit of syntax, a professional solves real problems with code. So it's worth building up your problem solving skills over time. The only way to do that is through practice and curiosity.
+So it's worth putting time into building up your problem solving skills. The only way to do that is through practice and curiosity.
 
 Here are some resources you can use to continue this journey:
 

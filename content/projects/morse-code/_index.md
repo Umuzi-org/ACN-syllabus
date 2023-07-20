@@ -47,7 +47,7 @@ module.exports = { function1Name, function2Name };
 Your directory structure should look like this:
 
 ```
-MorseCode.java       <-------- names are important
+MorseCode.java       
 ```
 
 ## Instructions
