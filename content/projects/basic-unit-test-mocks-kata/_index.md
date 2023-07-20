@@ -5,6 +5,7 @@ flavours:
 - any_language
 prerequisites:
   hard:
+  - projects/github-api-consume/part2
   - topics/unit-testing-mocks-and-spies
   - topics/linux/os-environmental-variables
   soft: []
@@ -19,13 +20,13 @@ tags:
 title: Email random inspirational quote
 ---
 
-This basic project should demonstrate your understanding of mocks/spies.
+This project should demonstrate your understanding of mocks/spies.
 
 We'll be making an application that sends emails.
 
 ## Set up
 
-Step 1 is to sign up for [Brevo](https://www.brevo.com/). You can sign up for the free plan. Once you are logged in click on the drop down near the profile profile avatar at the top right of the page and click on SMTP & API. This is where you will find the SMTP settings. It'll look something like this:
+Step 1 is to sign up for [Brevo](https://www.brevo.com/). You can sign up for the free plan. Once you are logged in click on the drop down near the profile avatar at the top right of the page and click on SMTP & API. This is where you will find the SMTP settings. It'll look something like this:
 
 ```
 SMTP server: smtp-relay.sendinblue.com
@@ -92,7 +93,7 @@ console.log(SMTP_SERVER)
 # if you are running Java #
 ###########################
 
-java
+jshell
 
 String env = System.getenv("smtp") | System.getProperty("smtp")
 System.out.print(env)
@@ -106,8 +107,6 @@ When you open up a new terminal you are running bash (or some variation thereof)
 So when we call `source smtp_secrets.sh`, bash makes a few variables and makes sure that if you launch another application then those secrets are available.
 
 Cool eh?
-
-If you want some further reading check this out: {{< contentlink path="topics/linux/os-environmental-variables" >}}
 
 ## The actual project
 
@@ -192,12 +191,12 @@ then they are wrong.
 
 Please make sure that you understand what mocks and spies are for when writing your tests. These things do not exist to take up space, waste time or look fancy. They do have a purpose.
 
-If you do anything that looks like the following pseudocode then you are doing it wrong;
+If you do anything that looks like the following pseudocode then you are doing it wrong:
 
 ```
 spyOn(myFunction)
 myFunction()
-assert myFunction.wasCalleOnce
+assert myFunction.wasCalledOnce
 ```
 
 Here is a useful way to think about mocks and spies:
@@ -216,7 +215,6 @@ As another example, if you were developing a "forgot password" or "confirm email
 
 ## Instructions for a reviewer
 
-- Unit tests:
 - The learner should demonstrate that the email sends only once, with the correct arguments.
 - The learner should demonstrate an understanding of mocks and spies. Please see {{< contentlink path="topics/unit-testing-mocks-and-spies" >}} .
 - Sending emails to multiple recipients is not a requirement, but if the code is structured well enough, then doing so should be easy. The unit test should demonstrate that the code in not restricted to sending just one email.

@@ -11,7 +11,7 @@ title: Data Engineering - part 2
 - {{< contentlink path="topics/python-specific/exception-handling" >}}
 - {{< contentlink path="topics/python-specific/decorators-intro" >}}
 - {{< contentlink path="projects/basic-unit-test-mocks-kata" flavour="python" >}}
-- {{< contentlink path="projects/github-api-consume" flavour="python" >}}
+- {{< contentlink path="projects/github-api-consume/part2" flavour="python" >}}
 - {{< contentlink path="topics/python-specific/recursion" >}}
 - {{< contentlink path="sql/shop-project/" >}}
 - {{< contentlink path="topics/tech-terminology" >}}

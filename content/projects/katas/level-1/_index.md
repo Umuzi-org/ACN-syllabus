@@ -42,7 +42,9 @@ Please follow best practices when doing this work!
 
 Please follow standard naming conventions for the language you are using. For example if we say a function is named `isSixtyThree` then that is a totally valid name in Javascript. But in Python, a better name would be `is_sixty_three`. We always follow the naming conventions of the language we are writing in.
 
-## Naming your files
+## Language-specific notes
+
+### Python 
 
 If you are writing Python code your directory structure should look like:
 
@@ -55,7 +57,27 @@ If you are writing Python code your directory structure should look like:
 
 In other words, there should be no directories. Only modules.
 
+### JavaScript
+
 If you are writing JS code then your files would follow a similar pattern. You would just have `.js` instead of `.py` files.
+
+
+```
+├── task1.js
+├── task2.js
+├── task3.js
+...
+```
+
+Remember to export each of your functions in each of the files using the format:
+
+```js
+module.exports = { yourFunction };
+```
+
+Please don't submit any HTML or CSS. Please don't use `document.write`. We are interested in seeing how you implement these algorithms. Use `console.log` if you are asked to print things.
+
+### Java 
 
 If you are using Java, your file names should be capitalized, like so:
 
@@ -66,37 +88,18 @@ If you are using Java, your file names should be capitalized, like so:
 ...
 ```
 
-## Note to JavaScript developers:
-
-- Please don't submit any HTML or CSS. Please don't use `document.write`. We are interested in seeing how you implement these algorithms. Use `console.log` if you are asked to print things.
-- At the end of every one of your task files you need to export the function. You do this by including an export statement like this:
-
-```js
-module.exports = { YOUR_FUNCTION_NAME };
-```
-## Note to Java developers:
-
 Even though the instructions will specifically ask for a function, please don't submit only the function/method. Make sure that there is a wrapping public class for your function/method.
 
-E.g. If you have a file called `Task1.java` where you are required to write a function called `task1` which returns the sum of `num1` and `num2`;
-
-Then following code is incorrect:
+E.g. If you have a file called `Task99.java` where you are required to write a function called `add` then your file should look something like this:
 
 ```
-public static int task1(int num1, int num2) {
-    return num1 + num2;
-}
-```
-
-But the following code is correct:
-
-```
-public class Task1 {
+public class Task99 {
     
-    public static int task1(int num1, int num2) {
-        return num1 + num2;
+    public static int add(???) {
+        ???
     }
 
+    // you can include extra functions if you want to, for example a main function is ok. But you MUST write the requited function no matter what.
 }
 ```
 
@@ -144,19 +147,33 @@ At this point, you should be using git from the command line. If you drag and dr
 
 If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
 
-Write a function `multiples` without parameters that prints the sum of all the multiples of 3 or 5 below 1000.
+Write a function `multiples`, it should take in a single integer parameter. The function should print out the sum of the multiples as described above.
+
+eg:
+
+```
+multiples(10) // prints 23
+multiples(11) // prints 33
+```
 
 ## Task 2
 
-Write a function called `hasThree` or `has_three` that takes 2 numbers as input.
-If either of the numbers is 3 and the sum of the numbers contains a 3 then return true. Otherwise, return false.
+Write a function called `hasThree` or `has_three` that takes 2 positive integers as input.
+
+If either of the numbers is 3 and the sum of the numbers contains a 3 then return a **boolean** true. Otherwise, return false.
+
+Make sure you know what a boolean is, if you return a string then that would be incorrect.
 
 Remember to choose the best function name for the language you are working in.
 
 ## Task 3
 
 Write a function called `isSixtyFive` or `is_sixty_five` that takes 2 numbers as input.
-If either of the numbers is 65, or if the sum of the numbers is 65 then return true. Otherwise, return false.
+
+If either of the numbers is 65, or if the sum of the numbers is 65 then return a **boolean** true. Otherwise, return false.
+
+Make sure you know what a boolean is, if you return a string then that would be incorrect.
+
 
 ## Task 4
 
@@ -218,6 +235,8 @@ For example, `triangle(-4)` should print:
 
 Write a function `longest` that takes in an array/list of strings and then prints out the longest one.
 
+If you are doing this project in Java, your function should accept an Array of Strings.
+
 For example, `longest(["the", "quick", "brown", "fox", "ate", "my", "chickens"])` should print:
 
 ```
@@ -234,17 +253,17 @@ upon
 time
 ```
 
+Note that each word is printed on a new line and there are no blank lines in between the words.
+
 ## Task 7
 
-Write a function `combine` that combines two lists by taking alternate elements and returns the result. You can assume the lists are of equal size.
+Write a function `combine` that combines two lists/arrays by taking alternate elements and returns the result. 
 
 Your combine function should be able to work with lists/arrays of unequal size. 
 
-### Java specific instructions for this task:
-- Your function should be able to accept an array of integers as an input.
-- Your function should return an array of integers.
+If you are doing this project in Java then your function arguments should be Arrays of Integers, and your function should return an Array of Integers.
 
-For exampe, `combine([11,22,33,45], [1,2,3])` should return:
+For example, `combine([11,22,33,45], [1,2,3])` should return:
 
 ```
 [11,1,22,2,33,3,45]
@@ -256,26 +275,3 @@ Note that the order of the final output matters. The integers in the final outpu
 [12,1,4,5,2,3]
 ```
 
-## Instructions for Reviewers
-
-### Tasks
-
-**Task 1**
-
-- Ensure that the output is 233168.
-
-**Task 2 and Task 3**
-
-- Ensure that keywords(**not strings**) true or false are being returned.
-
-**Task 6**
-
-- If there are strings with the same length, they should each be printed on a new line
-
-**Task 7**
-
-- Ensure that the array which is being outputted consists of alternating values of the two arrays that are being inputted.
-
-### Exports
-
-- **For those using Javascript:** Make sure they export their functions correctly. Otherwise, the marking bot won't be able to access their functions.

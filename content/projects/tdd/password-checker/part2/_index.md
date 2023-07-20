@@ -40,7 +40,6 @@ Your directory structure should look like this:
 module.exports = { nameOfObject }
 ```
 
-
 ### Java:
 
 Your directory structure should look like this:
@@ -67,12 +66,14 @@ Your directory structure should look like this:
 
 ## General instructions
 
-In part one of this exercise you created two functions. Now you are going to upgrade that program by adding some logging capabilities.
+In part 1 of this exercise you created two functions. Now you are going to upgrade that program by adding some logging capabilities.
 You are expected to use the recommended logging library(or framework) for your programming language:
 
 - Javascript: Winston
 - Java: log4J-2
 - Python: logging
+
+
 
 1. Whenever `passwordIsValid` returns true, log the following message
 
@@ -87,6 +88,7 @@ User password is not valid
 ```
 
 The log level of these messages should be `debug`.
+
 Make sure that your messages get printed to the standard output / terminal / console.
 
 Take note, we aren't actually logging the user's password. In general you want to avoid logging sensitive information.

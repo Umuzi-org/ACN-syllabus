@@ -3,6 +3,7 @@ _db_id: 57
 title: Java Systems Development - part 2
 ---
 
+- {{< contentlink path="projects/oop/animals/part3" flavour="java" >}}
 - {{% contentlink path="workshops/general-coding-best-practices" %}}
 - {{% contentlink path="projects/oop/dice" flavour="java" %}}
 - {{% contentlink path="topics/data-ethics-and-privacy" %}}

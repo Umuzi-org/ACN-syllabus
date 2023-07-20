@@ -69,4 +69,9 @@ https://stackoverflow.com/questions/13832487/why-should-assertions-not-be-used-f
 
 ## Python resources
 
-- https://wiki.python.org/moin/UsingAssertionsEffectively
+- https://wiki.python.org/moin/UsingAssertionsEffectively 
+
+## General resources
+
+- [Pragmatic Paranoia](https://www.informit.com/articles/article.aspx?p=2982114&seqNum=3)
+- [Benefits of Assertive Programming](https://stackoverflow.com/questions/787643/benefits-of-assertive-programming)

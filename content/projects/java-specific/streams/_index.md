@@ -23,7 +23,7 @@ Remember your semitone challenge project? well, for this project we are about to
 
 Update your semitone project implementation so that it makes use of at least three stream operators. As always, make sure you test your code thoroughly.
 
-### Instructions for the reviewer
+## Instructions for the reviewer
 
 - Ensure that 3 or more stream functions are used.
 - Ensure that tests exist, they should test the logic where streams are used.

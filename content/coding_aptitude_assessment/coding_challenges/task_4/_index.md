@@ -13,7 +13,7 @@ submission_type: repo
 title: 'Coding aptitude assessment challenge: Task 4'
 ---
 
-Write a function that takes in three numbers(integers). These numbers represent the lengths of the sides of a triangle. The function should **return** the area of a triangle as a whole number.
+Write a function that takes in three integer numbers. These numbers represent the lengths of the sides of a triangle. The function should **return** the area of a triangle as a whole number.
 
 This article will explain how to [calculate the area of a triangle](https://www.wikihow.com/Calculate-the-Area-of-a-Triangle)
 

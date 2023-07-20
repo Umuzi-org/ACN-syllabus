@@ -22,14 +22,18 @@ title: Morse code
 
 ## Project structure
 
+### Python
+
+```
+morse_code.py
+```
+
 ### JavaScript
 
 Your directory structure should look like this:
 
 ```
-├── src
-|   └── morse_code.js
-└── package.json
+morse_code.js
 ```
 
 Remember to export both functions like this:
@@ -43,18 +47,7 @@ module.exports = { function1Name, function2Name };
 Your directory structure should look like this:
 
 ```
-├── build.gradle
-├── gradle
-│   └── wrapper
-│       ├── gradle-wrapper.jar
-│       └── gradle-wrapper.properties
-├── gradlew
-├── gradlew.bat
-├── settings.gradle
-└── src
-    └── main
-        └── java
-            └── MorseCode.java       <-------- names are important
+MorseCode.java       <-------- names are important
 ```
 
 ## Instructions

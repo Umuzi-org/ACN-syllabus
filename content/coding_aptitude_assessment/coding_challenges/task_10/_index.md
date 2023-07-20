@@ -28,8 +28,6 @@ Example usage:
 - `task10("Hi","there")` should print `h`
 - `task10("Foo","bar")` should print `no common letters`
 
-There should only be one call to `print`, `System.out.println`, or `console.log` in your whole function.
-
 ## Check your understanding
 
 - What should the output look like if there are only 2 common characters? How can you check that your code handles this condition?
