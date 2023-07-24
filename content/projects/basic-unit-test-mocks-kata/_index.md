@@ -30,7 +30,7 @@ We'll be making an application that sends emails.
 Step 1 is to sign up for [Brevo](https://www.brevo.com/). You can sign up for the free plan. Once you are logged in click on the drop down near the profile avatar at the top right of the page and click on SMTP & API. This is where you will find the SMTP settings. It'll look something like this:
 
 ```
-SMTP server: smtp-relay.sendinblue.com
+SMTP server: smtp-relay.brevo.com
 Port: 587
 Login: ???
 Password: ?????
@@ -43,7 +43,7 @@ Take these settings and save them in a shell script called `smtp_secrets.sh`. It
 ```
 #!/bin/sh
 
-export SMTP_SERVER=smtp-relay.sendinblue.com
+export SMTP_SERVER=smtp-relay.brevo.com
 export SMTP_PORT=587
 export SMTP_LOGIN=???
 export SMTP_PASSWORD=?????
