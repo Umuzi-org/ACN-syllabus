@@ -139,7 +139,7 @@ Note that:
 If the function is called with an "owner" that does not exist then the function should raise/throw and error. The error should include the following info:
 
 - the value of the `owner` argument
-- the fact that that owner was not found 
+- the fact that the owner was not found 
 
 For example "repository owner snoopdoggiedog not found".  
 
