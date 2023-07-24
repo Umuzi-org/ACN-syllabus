@@ -15,6 +15,9 @@ tags:
 - mocks
 - environmental variables
 - smtp
+- json
+- errors
+- command-line parameters
 title: Email random inspirational quote - part 1
 ---
 

@@ -15,9 +15,11 @@ submission_type: continue_repo
 from_repo: projects/email-inspirational-quote/part-1
 tags:
 - mocks
-- environmental variables
 - smtp
 - apis
+- json
+- command-line parameters
+- errors
 title: Email random inspirational quote - part 3
 ---
 

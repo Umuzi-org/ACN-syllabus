@@ -10,64 +10,31 @@ prerequisites:
   - projects/email-inspirational-quote/part-3
   soft: []
 ready: true
-story_points: 8
 submission_type: continue_repo
 from_repo: projects/email-inspirational-quote/part-1
 tags:
-- mocks
-- environmental variables
-- smtp
-- apis
-title: Email random inspirational quote - part 2
+- logging
+title: Email random inspirational quote - part 4
 ---
 
-Upgrade your project so that it can accept either an email address or a file path as a command line argument.
+Now you are going to upgrade your program by adding some logging capabilities.
 
-For example:
+You are expected to use the recommended logging library(or framework) for your programming language:
 
-```
-# if you are writing python:
-python send_inspiration.py ~/email_recipients.json
+- Javascript: Winston
+- Java: log4J-2
+- Python: logging
 
-# if you are writing javascript:
-npm run send_inspiration ~/email_recipients.json
+## Log errors
 
-# if you are writing Java 
-java SendInspiration ~/email_recipients.json
-```
+Whenever an exception/error is raised or thrown then it should be logged to a file called errors.log.
 
-The file path should point to a json file with the following format:
+Note that even network errors should be logged.
 
-```
-[
-    {
-        "email": "someone@email.com",
-        "name": "Tshepo"
-    },
-    {
-      "email": ...
-      "name": ...
-    },
-    {...},
-    ...
-]
-```
+## Log every sent email
 
-The script should send an email to each of the email addresses above. 
+Whenever an email is sent then it there should be an "info" message printed to the terminal. Just log who the email was sent to, don't log the entire emailed message.
 
-The email should include the name of the person who is receiving the email. For example:
+## Gitignore
 
-```
-Dear Tshepo,
-
-"It is good even for old men to learn wisdom." - Aeschylus
-```
-
-## The original functionality should still work
-
-Please make sure that your original functionality does not break. Ideally your unit tests for the original functionality will not need to change.
-
-## Tests
-
-As usual, test your work well. You will need to make sure that you are using mocks/spies to test this work.
-
+Make sure your log files are gitignored.

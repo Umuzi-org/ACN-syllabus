@@ -10,7 +10,7 @@ title: Data Engineering - part 2 (Old Mutual)
 - {{< contentlink path="projects/tdd/string-calculator-part-1" flavour="python" >}}
 - {{< contentlink path="topics/python-specific/exception-handling" >}}
 - {{< contentlink path="topics/python-specific/decorators-intro" >}}
-- {{< contentlink path="projects/basic-unit-test-mocks-kata" flavour="python" >}}
+- {{< contentlink path="projects/email-inspirational-quote/part-4" flavour="python" >}}
 - {{< contentlink path="projects/github-api-consume/part2" flavour="python" >}}
 - {{< contentlink path="projects/understanding-map-reduce" flavour="python" >}}
 - {{< contentlink path="topics/python-specific/recursion" >}}

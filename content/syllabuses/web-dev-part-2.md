@@ -18,7 +18,7 @@ title: Web Development - part 2
 - {{< contentlink path="topics/data-ethics-and-privacy" >}}
 - {{< contentlink path="projects/memory-game/part-1" flavour="javascript" >}}
 - {{< contentlink path="projects/oop/animals/part3" flavour="javascript" >}}
-- {{< contentlink path="projects/basic-unit-test-mocks-kata" flavour="javascript" >}}
+- {{< contentlink path="projects/email-inspirational-quote/part-4" flavour="javascript" >}}
 - {{< contentlink path="projects/memory-game/part-2" flavour="javascript" >}}
 - {{< contentlink path="projects/nodejs/sql" flavour="javascript" >}}
 - {{< contentlink path="topics/data-infrastructure/database-comparison/" >}}

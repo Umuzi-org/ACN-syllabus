@@ -17,6 +17,7 @@ tags:
 - environmental variables
 - smtp
 - apis
+- command-line parameters
 title: Email random inspirational quote - part 2
 ---
 
