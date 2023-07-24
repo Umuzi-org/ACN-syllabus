@@ -8,6 +8,11 @@ submission_type: repo
 tags:
 - oop
 title: Dice
+prerequisites:
+  hard:
+  - projects/tdd/simple-calculator-part1
+  - projects/oop/animals/part3
+  soft: []
 ---
 
 Please follow TDD when implementing this code.

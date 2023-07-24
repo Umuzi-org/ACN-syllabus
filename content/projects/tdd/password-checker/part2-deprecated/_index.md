@@ -13,7 +13,8 @@ story_points: 3
 submission_type: continue_repo
 tags:
 - logging
-title: Add logging to password checker
+- deprecated
+title: Add logging to password checker - deprecated
 ---
 
 ## Set up environment

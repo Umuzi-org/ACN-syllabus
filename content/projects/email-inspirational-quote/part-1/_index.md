@@ -167,6 +167,25 @@ Raise/throw an error/exception with an appropriate message if:
 - the email address argument was left out or blank
 - an invalid email address is passed into your application 
 
+Here are a few resources you might find helpful:
+
+#### JS errors resources
+
+- [JS Errors](https://www.w3schools.com/js/js_errors.asp)
+- [Errors and Jasmine](https://stackoverflow.com/questions/4144686/how-to-write-a-test-which-expects-an-error-to-be-thrown-in-jasmine)
+
+#### Python resources
+
+- [Python Errors](https://www.codementor.io/sheena/how-to-write-python-custom-exceptions-du107ufv9?referral=sheena-kvo1e6ewh)
+- [Exceptions and Pytest](https://stackoverflow.com/questions/23337471/how-to-properly-assert-that-an-exception-gets-raised-in-pytest)
+- [Types of errors](https://www.tutorialsteacher.com/python/error-types-in-python)
+
+#### Java resources
+
+- https://howtodoinjava.com/junit5/expected-exception-example/
+
+
+
 ### Test your work
 
 Your unit tests should not send actual emails, but should prove that the right emails get sent. To get this right, you will need to make use of mocks or spies.

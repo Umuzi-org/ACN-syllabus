@@ -20,7 +20,7 @@ title: Java Systems Development - part 2
 - {{% contentlink path="projects/java-specific/introduction-to-spring-boot/part-2" flavour="java" %}}
 - {{% contentlink path="projects/java-specific/hello-sql-and-java" flavour="java" %}}
 - {{% contentlink path="projects/email-inspirational-quote/part-4" flavour="java" %}}
-- {{% contentlink path="projects/tdd/password-checker/part2" flavour="java" %}}
+- {{% contentlink path="projects/tdd/password-checker/part1" flavour="java" %}}
 - {{% contentlink path="projects/java-specific/introduction-to-spring-boot/part-3" flavour="java" %}}
 - {{% contentlink path="projects/java-specific/introduction-to-spring-boot/consume-api" flavour="java" %}}
 - {{% contentlink path="projects/java-specific/introduction-to-spring-boot/view-template" flavour="java" %}}
