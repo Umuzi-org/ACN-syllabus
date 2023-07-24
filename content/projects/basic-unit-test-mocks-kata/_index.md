@@ -17,7 +17,8 @@ tags:
 - mocks
 - environmental variables
 - smtp
-title: Email random inspirational quote
+- deprecated
+title: Email random inspirational quote - deprecated
 ---
 
 This project should demonstrate your understanding of mocks/spies.
