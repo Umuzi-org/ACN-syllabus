@@ -94,6 +94,7 @@ def check_one_file_frontmatter(file_path):
         "topic_needs_review",
         "ncit_standards",
         "ncit_specific_outcomes",
+        "learning_outcomes",
     ]
 
     if "_db_id" in front:

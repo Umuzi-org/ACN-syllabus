@@ -4,7 +4,6 @@ title: NCIT - Java
 ---
 
 - {{< contentlink path="national-qualifications-framework/ncit/assessments/how-the-internet-works" >}}
-- {{< contentlink path="topics/java-specific/intro-to-gradle-with-intellij" >}}
 - {{< contentlink path="national-qualifications-framework/ncit/assessments/version-control" flavour="java" >}}
 - {{< contentlink path="national-qualifications-framework/ncit/assessments/pseudocode-and-documentation" >}}
 - {{< contentlink path="national-qualifications-framework/ncit/assessments/thinking-like-a-machine" flavour="java" >}}

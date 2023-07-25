@@ -13,17 +13,16 @@ submission_type: repo
 title: 'Coding aptitude assessment challenge: Task 4'
 ---
 
-Write a function that takes in three numbers. These numbers represent the lengths of the sides of a triangle. The function should return the area of a triangle.
+Write a function that takes in three numbers(integers). These numbers represent the lengths of the sides of a triangle. The function should **return** the area of a triangle as a whole number.
 
-This article will explain how to do it https://www.wikihow.com/Calculate-the-Area-of-a-Triangle
+This article will explain how to [calculate the area of a triangle](https://www.wikihow.com/Calculate-the-Area-of-a-Triangle)
 
-Make sure your function works with floating point inputs. Eg:
+Example usage:
 
-```
-task4(1.2, 2, 3.5)
-```
+- `task4(3, 4, 5)` should return `6`
+- `task4(7, 8, 10)` should return `27`
 
-## Check your understanding! 
+## Check your understanding!
 
 - how would you write a function that calculates the area of a square?
 - how would you write a function that calculates the area of a rectangle?

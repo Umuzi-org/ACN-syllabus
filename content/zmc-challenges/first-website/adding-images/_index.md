@@ -9,7 +9,7 @@ link_example: https://your-name.github.io/your-repo-name/
 link_message: Please make sure you are linking to your github page, not just your
   repo. If someone follows the link then they should see your website
 link_name: Github page url
-link_regex: https://.*\.github.io/.*/?$
+link_regex: https://.*\.github\.io/(?!.*\.html/?$).*
 submission_type: link
 title: Adding images to your website
 ---
@@ -50,6 +50,8 @@ When you look at your Github repo then you should see your new `index.html` file
 ### 3. Check your Github page 
 
 Your website changes will be automatically deployed to Github pages. You wont need to reconfigure anything. Just go to your website and make sure it looks like what you were expecting. 
+
+**IMPORTANT** A lot of people fail this part of the project simply because they didn't check their own work. This is critical. Open up your github page website and look at it with your own eyes. Is your image showing up?
 
 ### 4. Submit 
 

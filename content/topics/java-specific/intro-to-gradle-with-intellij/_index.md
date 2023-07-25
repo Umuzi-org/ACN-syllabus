@@ -5,27 +5,29 @@ ready: true
 tags:
 - gradle
 - java
-title: Introduction to Gradle
+title: Introduction to Gradle with IntelliJ
 ---
 
 ## What is gradle
+
 According to Gradle Inc, Gradle is an open-source build automation tool that is designed to be flexible enough to build almost any type of software.[Here](https://docs.gradle.org/current/userguide/what_is_gradle.html) are the five things you need to know about gradle.
 
 Gradle was chosen by Google as the official build tool for Android. [Find out why.](https://medium.com/jay-tillu/what-is-gradle-why-google-choose-it-as-official-build-tool-for-android-adafbff4034)
 
 ## Why we need a build tool
+
 Build tools are programs that automate the creation of executable applications from source code. Building incorporates compiling, linking and packaging the code into a usable or executable form. In small projects, developers will often manually invoke the build process. 
 
-
 ## Java Build Tools
+
 - Ant 
 - Gradle
 - Maven
 
 Read up on the major differences between the following Java Build Tools [Ant vs Gradle vs Maven](https://www.baeldung.com/ant-maven-gradle)
 
-
 ## Your first Gradle application
+
 1. Open Project Wizard, in the    left-hand pane select Gradle.
 2. In the right-hand pane,        IntelliJ IDEA automatically    adds a project SDK (JDK) and   a default option Java in the  Additional Libraries and       Frameworks area. Click next.
 3. On the next page of the wizard let's specify ArtifactId as test.project which basically is the name of our project. We can use the default information in the version field. Unless we plan to deploy our project in some Maven repository we don't need to specify a GroupId. Click next.

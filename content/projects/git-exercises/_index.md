@@ -12,7 +12,7 @@ learning_outcomes:
 prerequisites:
   hard:
   - environment-setup/git
-  - projects/bash-for-bootcamp
+  - projects/beginning-bash
   - topics/git
   - topics/bootcamp/git-for-bootcamp
   - coding_aptitude_assessment/introduction_to_github

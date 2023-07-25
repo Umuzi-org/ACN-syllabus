@@ -8,6 +8,9 @@ prerequisites:
   - coursera/it-automation/course-2-operating-system
 ready: true
 submission_type: link
+tags:
+- git
+- github
 title: Coursera - IT Automation with Python - Course 3 - Introduction to Git and GitHub
 ---
 

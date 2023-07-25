@@ -3,9 +3,10 @@ title: Java Systems Development - part 1
 _db_id: 7
 ---
 
+- {{< contentlink path="topics/java-specific/intro-to-gradle-with-intellij" >}}
 - {{< contentlink path="agile/agile-scrum" >}}
 - {{< contentlink path="topics/solo-learn/java/1-basic-concepts" >}}
-- {{< contentlink path="topics/big-picture-web-dev" >}}
+- {{< contentlink path="tech-big-picture/how-web-applications-work/part-5" >}}
 - {{< contentlink path="specific-skill-success-criteria/introduction-to-assessments" >}}
 - {{< contentlink path="specific-skill-success-criteria/functions-and-return" flavour="java" >}}
 - {{< contentlink path="topics/solo-learn/java/2-conditionals-and-loops" >}}
