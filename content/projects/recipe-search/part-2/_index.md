@@ -2,14 +2,9 @@
 _db_id: 533
 content_type: project
 flavours:
-<<<<<<< HEAD
   - javascript
   - typescript
   - react
-=======
-- javascript
-- typescript
->>>>>>> develop
 from_repo: projects/recipe-search/part-1
 prerequisites:
   hard:

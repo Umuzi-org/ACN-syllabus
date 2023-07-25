@@ -2,14 +2,9 @@
 _db_id: 532
 content_type: project
 flavours:
-<<<<<<< HEAD
   - javascript
   - typescript
   - react
-=======
-- javascript
-- typescript
->>>>>>> develop
 prerequisites:
   hard:
   - projects/redux-intro/part-1
