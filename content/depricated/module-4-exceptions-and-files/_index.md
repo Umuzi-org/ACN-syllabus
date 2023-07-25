@@ -8,7 +8,7 @@ prerequisites:
 ready: true
 tags:
 - python
-title: Solo Learn - Python - Module 4 - Exceptions and Files
+title: Solo Learn - Python - Module 4 - Exceptions and Files - Deprecated
 topic_needs_review: false
 ---
 

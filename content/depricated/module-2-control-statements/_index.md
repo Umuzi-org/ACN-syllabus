@@ -8,7 +8,7 @@ prerequisites:
 ready: true
 tags:
 - python
-title: Solo Learn - Python - Module 2 - Control Statements
+title: Solo Learn - Python - Module 2 - Control Statements - Deprecated
 topic_needs_review: false
 ---
 
