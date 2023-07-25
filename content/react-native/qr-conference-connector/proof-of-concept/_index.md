@@ -4,6 +4,7 @@ content_type: project
 flavours:
 - javascript
 - typescript
+- react
 prerequisites:
   hard:
   - react-native/harvard-cs-50-m/04-react-native

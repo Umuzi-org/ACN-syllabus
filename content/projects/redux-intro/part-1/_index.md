@@ -4,6 +4,7 @@ content_type: project
 flavours:
 - javascript
 - typescript
+- react
 prerequisites:
   hard:
   - topics/redux-intro

@@ -4,6 +4,7 @@ content_type: project
 flavours:
   - javascript
   - typescript
+  - react
 from_repo: projects/recipe-search/part-1
 prerequisites:
   hard:
