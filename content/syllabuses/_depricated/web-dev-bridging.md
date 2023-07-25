@@ -1,5 +1,5 @@
 ---
-title: DEPRICATED - Web development Bridging Course - depricated
+title: DEPRICATED - Web development Bridging Course
 _db_id: 25
 ---
 
