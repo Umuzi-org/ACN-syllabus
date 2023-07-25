@@ -4,7 +4,7 @@ flavours:
   - any_language
 prerequisites:
   hard:
-    - topics/code-comments
+    - code-commenting/introduction-to-code-commenting
 ready: true
 submission_type: link
 tags:

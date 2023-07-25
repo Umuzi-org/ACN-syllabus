@@ -1,7 +1,7 @@
 ---
 content_type: topic
 ready: true
-title: Code comments
+title: Intro to Code Commenting
 ---
 
 ## Understanding Effective Comments in Coding
