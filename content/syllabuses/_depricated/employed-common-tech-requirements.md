@@ -1,6 +1,6 @@
 ---
 _db_id: 74
-title: Employed common tech requirements
+title: DEPRICATED - Employed common tech requirements
 ---
 
 - {{< contentlink path="environment-setup/git" >}}

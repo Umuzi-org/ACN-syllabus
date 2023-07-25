@@ -1,6 +1,6 @@
 ---
 _db_id: 78
-title: DEPRECATED Foundations of java for employed learners
+title: DEPRICATED - Foundations of java for employed learners
 ---
 
 - {{< contentlink path="topics/messaging/bridging-course-intro" >}}

@@ -1,6 +1,6 @@
 ---
 _db_id: 44
-title: Alumni Data Engineering Bootcamp
+title: DEPRICATED - Alumni Data Engineering Bootcamp
 ---
 
 - {{< contentlink path="projects/katas/level-1-alternative" flavour="python" >}}

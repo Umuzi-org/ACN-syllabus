@@ -1,5 +1,5 @@
 ---
-title: Data Engineering boot camp
+title: DEPRICATED - Data Engineering boot camp
 _db_id: 35
 ---
 

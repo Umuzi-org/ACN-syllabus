@@ -1,5 +1,5 @@
 ---
-title: Web development boot camp
+title: DEPRICATED - Web development boot camp
 _db_id: 12
 ---
 

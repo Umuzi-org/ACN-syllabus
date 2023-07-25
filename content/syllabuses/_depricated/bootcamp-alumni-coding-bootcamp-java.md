@@ -1,6 +1,6 @@
 ---
 _db_id: 42
-title: Alumni Java Bootcamp
+title: DEPRICATED - Alumni Java Bootcamp
 ---
 
 - {{< contentlink path="projects/katas/level-1-alternative" flavour="java" >}}
