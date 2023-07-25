@@ -9,7 +9,7 @@ ready: true
 tags:
 - java
 - solo-learn
-title: Solo Learn - Java - Module 2 -Conditionals and Loops
+title: Solo Learn - Java - Module 2 -Conditionals and Loops - Deprecated
 topic_needs_review: false
 ---
 
