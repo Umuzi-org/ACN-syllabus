@@ -4,7 +4,7 @@ flavours:
   - any_language
 prerequisites:
   hard:
-    - code-commenting/introduction-to-code-commenting
+    - /code_comments/introduction-to-code-commenting
 ready: true
 submission_type: link
 tags:
@@ -30,18 +30,18 @@ def calculate_area(length, width):
 
 - Is it a good comment or a bad comment?
 
-2.Evaluate the comment: "Multiply length by width to get the area."
+  2.Evaluate the comment: "Multiply length by width to get the area."
 
 - Is it a good comment or a bad comment?
 
-3.In your own words, explain what makes a good comment.
+  3.In your own words, explain what makes a good comment.
 
-4.Describe one scenario where a bad comment could cause confusion or misunderstanding.
+  4.Describe one scenario where a bad comment could cause confusion or misunderstanding.
 
-5.Evaluate the comment: "This is a tricky part of the code, so be careful."
+  5.Evaluate the comment: "This is a tricky part of the code, so be careful."
 
 - Is it a good comment or a bad comment?
 
-6.In your own words, explain why maintaining up-to-date comments is important in code development.
+  6.In your own words, explain why maintaining up-to-date comments is important in code development.
 
 Please complete the Comment Evaluation project on a Google Doc. Once you have completed the project, ensure that the sharing permissions of the document allow anyone on the internet to view the file. Then, submit a link to the document by sharing it with us.

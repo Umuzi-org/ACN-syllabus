@@ -14,6 +14,8 @@ _db_id: 4
 - {{< contentlink path="topics/high-performance-dev-teams" >}}
 - {{< contentlink path="specific-skill-success-criteria/introduction-to-assessments" >}}
 - {{< contentlink path="specific-skill-success-criteria/functions-and-return" flavour="python" >}}
+- {{< contentlink path="code_comments/introduction-to-code-commenting" >}}
+- {{< contentlink path="code_comments/code-comments" >}}
 - {{< contentlink path="projects/katas/level-2" flavour="python" >}}
 - {{< contentlink path="projects/morse-code/" flavour="python" >}}
 - {{< contentlink path="language-agnostic/intro-to-hackerrank" flavour="python" >}}
