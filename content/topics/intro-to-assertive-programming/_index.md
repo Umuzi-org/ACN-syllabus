@@ -59,6 +59,11 @@ https://www.martinfowler.com/ieeeSoftware/failFast.pdf
 This discussion on Stackoverflow is about where assertions are inappropriate. It makes use of heavy words like `public methods` and stuff like that. Basically a shortcut to doing this right is thinking about who is going to see your error message and how the error message will be useful to them.
 https://stackoverflow.com/questions/13832487/why-should-assertions-not-be-used-for-argument-checking-in-public-methods
 
+And here area few more excellent resources:
+ 
+- [Pragmatic Paranoia](https://www.informit.com/articles/article.aspx?p=2982114&seqNum=3)
+- [Benefits of Assertive Programming](https://stackoverflow.com/questions/787643/benefits-of-assertive-programming)
+
 ## Java resources
 
 - https://www.geeksforgeeks.org/assertions-in-java/
@@ -71,7 +76,3 @@ https://stackoverflow.com/questions/13832487/why-should-assertions-not-be-used-f
 
 - https://wiki.python.org/moin/UsingAssertionsEffectively 
 
-## General resources
-
-- [Pragmatic Paranoia](https://www.informit.com/articles/article.aspx?p=2982114&seqNum=3)
-- [Benefits of Assertive Programming](https://stackoverflow.com/questions/787643/benefits-of-assertive-programming)

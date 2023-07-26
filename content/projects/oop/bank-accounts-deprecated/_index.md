@@ -14,7 +14,7 @@ As usual: TDD please
 
 A Bank Account has a balance, an interest rate and a monthly fee.
 
-For example if a person has an interest rate of 12% (which is totally unrealistic but make the numbers easier) and they have R1000 in their bank account then they will receive (R1000 x 12% / 12) after one month of saving. That means they earned R10 in interest. Now if their monthly fee on that account is R50 then their final balance after 1 month is R1000+R10-R50 = R960.
+For example if a bank has an interest rate of 12% (which is totally unrealistic but makes the numbers easier) and they have R1000 in their bank account then they will receive (R1000 x 12% / 12) after one month of saving. That means they earned R10 in interest. Now if their monthly fee on that account is R50 then their final balance after 1 month is R1000+R10-R50 = R960.
 
 - Create a class called `BankAccount`. it should be constructed with the necessary parameters described above.
 - add a function to your bank account class called `finishMonth`(js) or `finish_month`(python). This function should update the `balance` accordingly
