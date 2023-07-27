@@ -3,7 +3,7 @@ _db_id: 36
 title: Web frontend foundations
 ---
 
-- {{< contentlink path="projects/beginning-bash" >}}
+- {{< contentlink path="projects/beginning-bash" flavour="markdown" >}}
 - {{< contentlink path="projects/git-exercises" >}}
 - {{< contentlink path="topics/bootcamp/git-for-bootcamp" >}}
 - {{< contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/1-basic-javascript" >}}

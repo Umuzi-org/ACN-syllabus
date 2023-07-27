@@ -1,7 +1,9 @@
 ---
+_db_id: 955
 content_type: project
 flavours:
 - any_language
+from_repo: projects/email-inspirational-quote/part-1
 prerequisites:
   hard:
   - topics/unit-testing-mocks-and-spies
@@ -11,7 +13,6 @@ prerequisites:
 ready: true
 story_points: 8
 submission_type: continue_repo
-from_repo: projects/email-inspirational-quote/part-1
 tags:
 - mocks
 - environmental variables
@@ -27,4 +28,3 @@ https://github.com/lukePeavey/quotable
 ## Tests
 
 As usual, test your work well. You will need to make sure that you are using mocks/spies to test this work.
-

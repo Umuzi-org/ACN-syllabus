@@ -138,4 +138,3 @@ buddy.setCurrentNotes('A','A#')
 buddy.getCurrentNotes() # this will return A and A# 
 buddy.checkAnswer(1) # returns True 
 ```
-

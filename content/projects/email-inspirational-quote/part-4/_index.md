@@ -1,7 +1,9 @@
 ---
+_db_id: 953
 content_type: project
 flavours:
 - any_language
+from_repo: projects/email-inspirational-quote/part-1
 prerequisites:
   hard:
   - topics/unit-testing-mocks-and-spies
@@ -11,7 +13,6 @@ prerequisites:
   soft: []
 ready: true
 submission_type: continue_repo
-from_repo: projects/email-inspirational-quote/part-1
 tags:
 - logging
 title: Email random inspirational quote - part 4

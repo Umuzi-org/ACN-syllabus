@@ -1,15 +1,16 @@
 ---
-title: Consume Github API - add some tests
+_db_id: 957
 content_type: project
 flavours:
 - any_language
+from_repo: projects/github-api-consume/part1
 prerequisites:
   hard:
   - projects/github-api-consume/part1
   - topics/unit-testing-mocks-and-spies
 ready: true
 submission_type: continue_repo
-from_repo: projects/github-api-consume/part1
+title: Consume Github API - add some tests
 ---
 
 ## Set up your environment
@@ -104,5 +105,3 @@ You need to test that when you want to make an api call then:
 You don't want your unit tests to make api calls. You just want them to prove that the part of your machine that makes those calls is being used correctly.
 
 As another example, if you were developing a "forgot password" or "confirm email address" function for a website then you would test pretty much the same thing. You need to make sure that the correct functionality gets evoked, without actually sending any emails.
-
-

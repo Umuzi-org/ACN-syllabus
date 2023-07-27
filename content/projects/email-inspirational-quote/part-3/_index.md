@@ -1,7 +1,9 @@
 ---
+_db_id: 954
 content_type: project
 flavours:
 - any_language
+from_repo: projects/email-inspirational-quote/part-1
 prerequisites:
   hard:
   - topics/unit-testing-mocks-and-spies
@@ -12,7 +14,6 @@ prerequisites:
 ready: true
 story_points: 8
 submission_type: continue_repo
-from_repo: projects/email-inspirational-quote/part-1
 tags:
 - mocks
 - smtp
@@ -100,4 +101,3 @@ Please make sure that your original functionality does not break. Ideally your u
 ## Tests
 
 As usual, test your work well. You will need to make sure that you are using mocks/spies to test this work.
-

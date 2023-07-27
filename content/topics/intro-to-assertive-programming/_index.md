@@ -74,5 +74,4 @@ And here area few more excellent resources:
 
 ## Python resources
 
-- https://wiki.python.org/moin/UsingAssertionsEffectively 
-
+- https://wiki.python.org/moin/UsingAssertionsEffectively
