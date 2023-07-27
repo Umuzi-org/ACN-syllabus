@@ -9,12 +9,14 @@ ready: true
 submission_type: link
 tags:
   - comments
-title: Code comments
+title: Code comment evaluation
 ---
+
+## Introduction
 
 Understanding the difference between good comments and bad comments is essential for effective code communication and collaboration. Good comments provide purposeful explanations, relevant information, and clarity, while avoiding redundancy and outdated content. By following these principles, developers can create comments that enhance code comprehension, facilitate maintenance, and promote a positive coding environment.
 
-#### Comment Evaluation
+### Comment Evaluation
 
 Instructions: Read the following code snippets and evaluate the comments provided. Determine whether each comment is a good comment or a bad comment. Answer the questions below.
 
