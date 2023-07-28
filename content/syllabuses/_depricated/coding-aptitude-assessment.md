@@ -1,6 +1,6 @@
 ---
 _db_id: 80
-title: ACN Coding aptitude mini course and assessment - Python
+title: DEPRICATED - ACN Coding aptitude mini course and assessment - Python
 ---
 
 

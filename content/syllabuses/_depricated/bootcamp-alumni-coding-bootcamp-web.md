@@ -1,6 +1,6 @@
 ---
 _db_id: 43
-title: Alumni Web developement Bootcamp
+title: DEPRICATED - Alumni Web developement Bootcamp
 ---
 
 - {{< contentlink path="projects/katas/level-1-alternative" flavour="javascript" >}}

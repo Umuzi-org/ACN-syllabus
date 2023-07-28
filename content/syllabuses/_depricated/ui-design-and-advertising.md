@@ -1,5 +1,5 @@
 ---
-title: Ui Design and Advertising
+title: DEPRICATED - Ui Design and Advertising
 _db_id: 9
 ---
 

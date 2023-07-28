@@ -1,6 +1,6 @@
 ---
 _db_id: 73
-title: Employed Data Science skills test
+title: DEPRICATED - Employed Data Science skills test
 ---
 
 - {{< contentlink path="employed-skills-tests/how-to-submit-skills-test" >}}

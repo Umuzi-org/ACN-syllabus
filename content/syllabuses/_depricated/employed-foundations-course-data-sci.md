@@ -1,6 +1,6 @@
 ---
 _db_id: 77
-title: DEPRECATED Foundations of data sci for employed learners
+title: DEPRICATED - Foundations of data sci for employed learners
 ---
 
 - {{< contentlink path="topics/messaging/bridging-course-intro" >}}

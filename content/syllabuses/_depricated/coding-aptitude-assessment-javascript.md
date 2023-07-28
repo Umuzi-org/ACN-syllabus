@@ -1,6 +1,6 @@
 ---
 _db_id: 84
-title: ACN Coding aptitude mini course and assessment - javascript
+title: DEPRICATED - ACN Coding aptitude mini course and assessment - javascript
 ---
 
 - {{< contentlink path="environment-setup" >}}

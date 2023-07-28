@@ -1,6 +1,6 @@
 ---
 _db_id: 50
-title: IT Support and IT automation
+title: DEPRICATED - IT Support and IT automation
 ---
 
 ## IT Support

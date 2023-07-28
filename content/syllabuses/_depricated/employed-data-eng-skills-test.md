@@ -1,6 +1,6 @@
 ---
 _db_id: 70
-title: Employed Data Engineering skills test
+title: DEPRICATED - Employed Data Engineering skills test
 ---
 
 - {{< contentlink path="employed-skills-tests/how-to-submit-skills-test" >}}

@@ -1,6 +1,6 @@
 ---
 _db_id: 41
-title: Java boot camp
+title: DEPRICATED - Java boot camp
 ---
 
 - {{< contentlink path="topics/clean-code/java" >}}

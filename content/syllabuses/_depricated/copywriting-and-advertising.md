@@ -1,5 +1,5 @@
 ---
-title: Copywriting and Advertising
+title: DEPRICATED - Copywriting and Advertising
 _db_id: 11
 ---
 
