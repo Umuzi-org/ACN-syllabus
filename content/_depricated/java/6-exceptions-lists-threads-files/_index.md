@@ -12,7 +12,7 @@ submission_type: link
 tags:
 - java
 - solo-learn
-title: Solo Learn - Java - Module 6 - Exceptions, Lists, Threads & Files
+title: Solo Learn - Java - Module 6 - Exceptions, Lists, Threads & Files - Deprecated
 ---
 
 Complete the above mentioned module on Solo Learn

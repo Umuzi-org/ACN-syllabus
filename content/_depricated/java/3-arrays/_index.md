@@ -1,15 +1,15 @@
 ---
-_db_id: 453
+_db_id: 450
 content_type: topic
 prerequisites:
   hard:
-  - topics/solo-learn/java/1-basic-concepts
+  - topics/solo-learn/java/2-conditionals-and-loops
   soft: []
 ready: true
 tags:
 - java
 - solo-learn
-title: Solo Learn - Java - Module 2 -Conditionals and Loops
+title: Solo Learn - Java - Module 3 - Arrays - Deprecated
 topic_needs_review: false
 ---
 
