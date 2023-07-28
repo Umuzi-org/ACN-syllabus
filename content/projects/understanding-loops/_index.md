@@ -2,14 +2,14 @@
 _db_id: 705
 content_type: project
 flavours:
-- any_language
+  - any_language
 ready: true
 submission_type: repo
 tags:
-- loops
-- functions
-- foundations
-- data structures
+  - loops
+  - functions
+  - foundations
+  - data structures
 title: Shopping cart calculations
 ---
 
@@ -24,20 +24,20 @@ Your directory structure should look like this:
     └──shopping_cart.js
 ```
 
-#### JavaScript Destructuring 
+#### JavaScript Destructuring
 
 In Javascript it is best practice to use destructuring when passing arguments to a function. You can learn about destructuring here: [destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment).
 
 Please make sure you use destructuring for all your functions.
 
-Let's say you have a function called getCustomerBaskets that takes an email address and data-structure containing all the shopping baskets as input. 
+Let's say you have a function called getCustomerBaskets that takes an email address and data-structure containing all the shopping baskets as input.
 
 ```
 // DON'T DEFINE YOUR FUNCTION LIKE THIS
-function getCustomerBaskets(allShoppingBaskets, "sine@umuzi.org"){...} 
+function getCustomerBaskets(allShoppingBaskets, "sine@umuzi.org"){...}
 
 // DON'T CALL YOUR FUNCTION LIKE THIS
-getCustomerBaskets("sine@umuzi.org", customerBaskets); 
+getCustomerBaskets("sine@umuzi.org", customerBaskets);
 
 // The problem with the above code is that if you get the order of the parameters wrong, then things will break. Your functions should work like this instead:
 
@@ -50,12 +50,12 @@ getCustomerBaskets({allShoppingBaskets, email}) //DO THIS
 
 #### JavaScript Exports
 
-Make sure you export all your functions using the following format: 
+Make sure you export all your functions using the following format:
 
 ```
-module.exports = { 
-    YOUR_FIRST_FUNCTION_NAME, 
-    YOUR_SECOND_FUNCTION_NAME,... 
+module.exports = {
+    YOUR_FIRST_FUNCTION_NAME,
+    YOUR_SECOND_FUNCTION_NAME,...
     };
 ```
 
@@ -118,7 +118,7 @@ Ideally, you will be able to build stuff at least as complicated as that. But we
 
 ## Get started with the project by understanding the data format
 
-First of all, please **download the data in [this file](data.json)**.  You can use it for testing out your functions. 
+First of all, please **download the data in [this file](data.json)**. You can use it for testing out your functions.
 
 If you look at the data you'll see that what we have is a list or array of elements. Each element represents a single shopping basket.
 
@@ -147,9 +147,9 @@ Then it means that the person is buying 2 hamsters at a price of R20 each. So th
 
 Please note that one person can have multiple baskets. If you look at the data, you'll see that tshepo@umuzi.org has 4 baskets. Two have been delivered, one has been paid for (so he's awaiting delivery) and one is open (so he's setting up his next order).
 
-## Working with JSON files 
+## Working with JSON files
 
-JSON is a lovely data format because it is easy for humans to read, and machines like it too. 
+JSON is a lovely data format because it is easy for humans to read, and machines like it too.
 
 If you are working in **Python** then you can turn the JSON file into a data structure in your code by making use of the [json package](https://docs.python.org/3/library/json.html).
 
@@ -163,14 +163,14 @@ In Java you can turn the JSON file into a data structure in your code by making 
 
 Write a function called `get customer baskets` that takes in two arguments:
 
-- the email address of a customer 
+- the email address of a customer
 - a list/array of all the shopping baskets
 
 The function must return a list/array of all the shopping baskets that belong to the customer with that email address.
 
 If the customer has no shopping baskets then return an empty list/array.
 
-Different languages have different requirements: 
+Different languages have different requirements:
 
 ```
 getCustomerBaskets({ email, allShoppingBaskets }); // javascript. This should return an array
@@ -208,15 +208,15 @@ get_all_customers(all_shopping_baskets) // python
 
 ### List all the items that have been paid for but not yet delivered
 
-Write a function called `required stock`, your function should take the data array as an argument and should return all the items that need to be sent out for delivery.
+Write a function called `get required stock`, your function should take the data array as an argument and should return all the items that need to be sent out for delivery.
 You need to return data in the correct format. Just include the names and quantities of the items.
 
 e.g.
 
 ```
-requiredStock({ allShoppingBaskets }); //javascript
-requiredStock(allShoppingBaskets); //java
-required_stock(all_shopping_baskets) //python
+getRequiredStock({ allShoppingBaskets }); //javascript
+getRequiredStock(allShoppingBaskets); //java
+get_required_stock(all_shopping_baskets) //python
 ```
 
 For example, if one customer paid for 2 hamsters and another customer paid for one hamster and a bag of sawdust then your function should return the following data structure:
