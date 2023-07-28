@@ -17,11 +17,12 @@ tags:
 title: password-checker
 ---
 
+Please note that this is a unit testing project. Make sure you demonstrate a solid understanding of unit testing and test your code using the required framework.
+
 ## Set up your environment
 
 ### JavaScript
 
-Please note that this is a unit testing project. Make sure you demonstrate a solid understanding of unit testing and test your code using the required framework.
 
 Your directory structure should look like this.
 
@@ -36,7 +37,7 @@ Your directory structure should look like this.
 └── package.json
 ```
 
-**Note:** Remember to export the `passwordIsValid` and `passwordStrength` functions from their respective files. Use the following named export syntax:
+**Note:** It is important that you export all the functions we are asking you to write. Use the following named export syntax:
 
 ```
 module.exports = { firstFunctionName, secondFunctionName }
@@ -83,7 +84,7 @@ The code you push to git should have the following structure:
 
 Please refer to the following to find out more: {{< contentlink path="topics/java-specific/project-submission-requirements" >}}
 
-## Instructions
+## Implement a function for checking if a password is valid
 
 Implement the following function by following a TDD methodology:
 
@@ -102,7 +103,11 @@ passwordIsValid(password)
 password_is_valid(password)
 ```
 
-The `password is valid` function will check if the password meets a few different conditions. If all conditions are met return `true` . If one of the below conditions is not met, then the relevant error/exception should be thrown/raised. Python should raise a specific error type. [This resource](https://www.tutorialsteacher.com/python/error-types-in-python) shows the types of errors that we get in Python, and selects the appropriate one for this application. Your error/exception message should match one of the following conditions exactly (word-for-word).
+The `password is valid` function will check if the password meets a few different conditions. If all conditions are met then it must return `true` . If one of the below conditions is not met then it must raise/throw and Exception/Error.
+
+If you are working in Python then make use of a ValueError. You can refer to [this resource](https://www.tutorialsteacher.com/python/error-types-in-python) to learn a bit more about the different types of Exceptions in Python.
+
+Your error/exception message should match one of the following conditions exactly (word-for-word).
 
 1. password should exist
 2. password should be longer than 8 characters
@@ -114,24 +119,11 @@ The `password is valid` function will check if the password meets a few differen
 
 In the case of (6) above, a special character is a character that is on the keyboard but is not a number or letter. Eg: `{ % & * " '` etc.
 
+## Implement a function that calculates the strength of a password
+
 Next, implement a function called `password strength`:
 
-```
-// JavaScript:
-passwordStrength(password)
-```
-
-```
-// Java:
-passwordStrength(password)
-```
-
-```
-# Python:
-password_strength(password)
-```
-
-This function should count the number of conditions met and then return a string that describes the strength of the password. Valid strings are "invalid", "weak", "medium" and "strong".
+This function should count the number of conditions met and then return a string that describes the strength of the password. 
 
 - If number of conditions met >= 6: return "strong"
 - If number of conditions met >= 4: return "medium"

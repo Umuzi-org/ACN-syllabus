@@ -52,7 +52,7 @@ add("//[abc][777][:(]\n1abc27773:(1")
 
 ```
 
-### 3. Modify the add function so that it can handle invalid input
+### 3. Modify the add function so that it can detect invalid input
 
 If the string passed in is invalid, your code should be able to detect this and throw an error.
 
@@ -93,13 +93,9 @@ add("//[[][[][&&]\n1[2[3&&4")
 
 ```
 
-
 ## Instructions for reviewers
 
 - Proper TDD to be followed. Mocks and Spies are not needed for this project.
-
 - Proper error handling to be used. no `print`, an exception is to be thrown when needed and a value returned when needed.
-
 - All functionality from part 1 should still work.
-
 - An understanding of regular expression methods should be demonstrated within the project.

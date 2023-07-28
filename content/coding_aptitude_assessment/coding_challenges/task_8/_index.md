@@ -15,7 +15,7 @@ title: 'Coding aptitude assessment challenge: Task 8'
 
 Make a function to convert a number representing minutes into hours and minutes. It should **return** a string showing the number(s) of hours and minutes.
 
-Example usage:
+Pay very close attention to the format of the string that is returned:
 
 - `task8(71)` should return `1 hour, 11 minutes`
 - `task8(133)` should return `2 hours, 13 minutes`

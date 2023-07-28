@@ -3,7 +3,7 @@ _db_id: 36
 title: Web frontend foundations
 ---
 
-- {{< contentlink path="projects/beginning-bash" >}}
+- {{< contentlink path="projects/beginning-bash" flavour="markdown" >}}
 - {{< contentlink path="projects/git-exercises" >}}
 - {{< contentlink path="topics/bootcamp/git-for-bootcamp" >}}
 - {{< contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/1-basic-javascript" >}}
@@ -28,7 +28,7 @@ title: Web frontend foundations
 - {{< contentlink path="topics/free-code-camp/responsive-web-design/4-applied-accessibility" >}}
 - {{< contentlink path="topics/free-code-camp/responsive-web-design/5-responsive-web-design-principles" >}}
 - {{< contentlink path="projects/semitone-challenge/gui-part-2"  flavour="javascript,noframework" >}}
-- {{< contentlink path="projects/tdd/password-checker/part2" flavour="javascript" >}}
+- {{< contentlink path="projects/tdd/password-checker/part1" flavour="javascript" >}}
 - {{< contentlink path="topics/data-ethics-and-privacy" >}}
 - {{< contentlink path="topics/free-code-camp/responsive-web-design/7-css-grid" >}}
 - {{< contentlink path="projects/memory-game/part-1" flavour="javascript" >}}

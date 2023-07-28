@@ -39,7 +39,7 @@ title: Big picture of tech
 
 ## Management and soft skills 
 
-- {{< contentlink path="tech-big-picture/software-processes-and-agile-practices" flavour="none" >}}
+- {{< contentlink path="tech-big-picture/software-processes-and-agile-practices" flavour="markdown" >}}
 - {{< contentlink path="tech-big-picture/why-software-projects-fail" flavour="markdown" >}} 
 - {{< contentlink path="tech-big-picture/ethics" >}} 
 - {{< contentlink path="tech-big-picture/ethics-questions" flavour="markdown" >}} 

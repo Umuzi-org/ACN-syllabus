@@ -28,31 +28,19 @@ title: semitone difference - Make a simple GUI
 weight: 2
 ---
 
-Create a basic web site that a user can use to interact with the JamBuddy class.
+Create a basic web site that a user can use to interact with the JamBuddy class. 
 
-If you are required to do this in a web framework then do so, otherwise create a simple `index.html` page that a user can just open in their browser.
+If you are required to do this in a web framework then do so, otherwise create a simple `index.html` page that a user can just open in their browser. This file should be in the root directory of your repo.
 
-- Make a button with the text "Get random notes". If the user clicks on this button then the `selectNotes` function should be called and the notes should be displayed on the screen.
-- Make an input box where the user can enter their answer.
-- Create a button with the text "Submit answer". If the user clicks this button then the `checkAnswer` function should be called.
-  -If the answer is correct then display the message "You got it right .Well Done!"
-  - If the answer is incorrect then display the message "Wrong answer! Try again"
+## User experience 
 
-## Acceptance criteria
+- When the user opens the web page they should immediately see 2 random notes, they should be able to immediately start playing the game
+- There should be a button that lets the user randomize the notes. Clicking on this button will choose another 2 random notes and display them to the user
+- the user should be able to enter their answer. Make use of a form input and a button
+- if the user enters the correct answer then display a success message
+- if the user enters an incorrect answer then display a message. Let the user keep trying if they get the answer wrong, do not automatically randomize the notes
 
-### Directory structure
-
-Please put your html in a file called index.html in your root directory.
-
-### Unit tests
-
-TDD is a must. Yes, you need to even unit test your DOM manipulations.
-
-This is useful: https://github.com/jsdom/jsdom
-
-When testing your DOM, don't just check that your boring html exists. Make sure that when the "Get random notes" button is clicked then the right DOM elements get updated. Tests do not exist to take up space, they exist to make sure your code actually works.
-
-### Make it look reasonably good
+## UI
 
 We don't need you to win any design awards here, but put some effort into the looks. If you make anyone's eyes bleed that will be a problem.
 
@@ -66,3 +54,15 @@ You can also do your own styling from scratch.
 Also, think about the user! Imagine a musician using this thing in order to learn music. If your site is confusing then people won't use it, they'd just get annoyed and leave.
 
 **Bad UX is a bug!** Make sure your user knows how to use your application and make it really obvious.
+
+## Unit tests
+
+Make sure you unit test your website, even your DOM manipulations.
+
+This is useful: https://github.com/jsdom/jsdom
+
+When testing your DOM, don't just check that your boring html exists. Make sure that when the "Get random notes" button is clicked then the right DOM elements get updated. Tests do not exist to take up space, they exist to make sure your code actually works.
+
+## Take note
+
+- The JamBuddy class should still work correctly in the terminal and should not be mixed up with frontend DOM manipulation.

@@ -7,4 +7,3 @@ title: Password Checker
 ---
 
 - {{< contentlink path="projects/tdd/password-checker/part1" >}}
-- {{< contentlink path="projects/tdd/password-checker/part2" >}}

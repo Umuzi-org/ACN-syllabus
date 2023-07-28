@@ -26,4 +26,4 @@ Things after this point are not strictly part of the bootcamp. It's extra stuff 
 - {{< contentlink path="topics/solo-learn/java/5-more-on-classes" >}}
 - {{< contentlink path="projects/oop/animals/part1"  flavour="java" >}}
 - {{< contentlink path="projects/morse-code" flavour="java" >}}
-- {{< contentlink path="projects/tdd/password-checker/part2" flavour="java" >}}
+- {{< contentlink path="projects/tdd/password-checker/part1" flavour="java" >}}

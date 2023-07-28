@@ -28,5 +28,5 @@ _db_id: 7
 - {{< contentlink path="projects/tdd/password-checker/part1" flavour="java" >}}
 - {{< contentlink path="language-agnostic/validate-id-number" flavour="java" >}}
 - {{< contentlink path="sql/shop-project" flavour="" >}}
-- {{< contentlink path="projects/github-api-consume" flavour="java" >}}
+- {{< contentlink path="projects/github-api-consume/part2" flavour="java" >}}
 - {{< contentlink path="projects/understanding-loops" flavour="java" >}}

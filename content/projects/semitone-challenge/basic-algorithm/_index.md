@@ -2,8 +2,7 @@
 _db_id: 199
 content_type: project
 flavours:
-- typescript
-- javascript
+- any_language
 learning_outcomes:
 - web_dev_shuffling_elements
 - web_dev_indexing
@@ -22,25 +21,61 @@ weight: 1
 
 ## Set up your environment
 
+### Javascript 
+
 Your directory structure should look like this.
 
 ```
 ├── spec
 |   ├── support
 |   |   └── jasmine.json
-|   └── semitone_spec.js
+|   └── ???
 ├── src
-|   └── semitone.js
+|   └── jam_buddy.js
 └── package.json
 ```
-
-
 
 **Note**: Please export your class using the following syntax at the end of the code:
 
 ```
-module.exports = {className: className}
+module.exports = { className }
 ```
+
+### Java
+
+The code you push to git should have the following structure:
+
+```
+├── build.gradle
+├── gradle
+│   └── wrapper
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
+├── gradlew
+├── gradlew.bat
+├── settings.gradle
+└── src
+    ├── main
+    |   └── java
+    |       └── JamBuddy.java <-------- names are important
+    └── test
+        └── java
+            └── ???.java             <-------- names are important
+```
+
+### Python
+
+```
+├── jam_buddy   the package under test
+│   └── jam_buddy.py
+├── requirements.txt    installation requirements
+├── setup.py            installation script for the package under test
+└── tests               all package tests go in this directory
+    ├── ???
+
+```
+
+## Introduction
 
 This is the first step in a multi-step project designed to level up many different skills.
 
@@ -54,9 +89,11 @@ We want to see the following skills demonstrated in different parts of this proj
 - Operators
 - DOM manipulation
 
-This project should be completed in a TDD way.
+Make sure you test your work!
 
-Ok...so what is a semitone? I'm glad you asked. Take a look at these links:
+## Ok... so what is a semitone? 
+
+I'm glad you asked. Take a look at these links:
 
 - https://www.justinguitar.com/guitar-lessons/the-note-circle-bc-152
 - https://www.justinguitar.com/guitar-lessons/note-circle-with-a-jam-buddy-mt-106
@@ -67,70 +104,37 @@ In the second video, Justin talks about a game that you can play with a jam budd
 
 The final goal is to have a program that outputs two notes from the note circle and then allows the user to enter a number. The program needs to be able to tell the user if they chose the correct number or not.
 
-For those of you learning web dev, you will be expected to build a simple user interface for this thing using Vanilla js. For those of you learning Python you can make a command-line utility that does this.
-
-1. {{< contentlink path="projects/semitone-challenge/basic-algorithm" >}}
-2. {{< contentlink path="projects/semitone-challenge/gui-part-1" >}}
-3. {{< contentlink path="projects/semitone-challenge/advanced-algorithm" >}}
-4. {{< contentlink path="projects/semitone-challenge/gui-part-2" >}}
-
 ## Instructions
 
-Make a class called `JamBuddy`. It should have an attribute that keeps track of the currently selected notes and should be called `currentSelectedNotes`. JamBuddy class should work like this:
+Make a class called `JamBuddy`. A JamBuddy instance should be able to keep track of the currently selected notes. 
 
-JS:
+It should have the following functions:
 
-```
+- `set current notes`: This should take 2 notes as arguments. Each note is a string. If an incorrect note is passed in, for example `B#`, then raise/throw an Error/Exception with an appropriate error message
+- `get current notes`: This should return the currently selected notes 
+- `randomize current notes`: this will pick 2 notes at random and then store them in the JamBuddy instance. It should never select 2 of the same note
+- `check answer`: This should take in an integer and return a boolean true if the answer is correct and false if the answer is incorrect.  Note that since the note circle is a circle, there will always be 2 correct answers. For example, the distance between A and A# is 1 if you go clockwise, and 11 if you go anti-clockwise. Both answers are correct.
 
-let buddy = new JamBuddy()
-let notes = buddy.selectNotes()
-console.log(notes) # this will print an array of two notes
-console.log(currentSelectedNotes) # this will print the same array of two notes
-console.log(notes === currentSelectedNotes) # should print true notes and currentSelectedNotes should be the same
-correct = buddy.checkAnswer(1)
-console.log(correct) # this will print True if the `1` was the correct answer
+For now don't worry about "flat" notes. The game will only be played with the following notes:
 
 ```
-
-## Some finer points
-
-For now don't worry about "flat" notes. The notes we care about are:
-
-```
-
 A A# B C C# D D# E F F# G G#
-
 ```
 
-Here is an example usage:
+## Example usage
 
-JS:
-
-```
-
-let buddy = new JamBuddy()
-let notes = buddy.selectNotes()
-console.log(notes) # let's pretend that this outputs ['A', 'B']
-
-let correct = buddy.checkAnswer(1)
-console.log(correct) # false
-
-correct = buddy.checkAnswer(2)
-console.log(correct) # true because: A A# B
-
-# we should be able to play the game again without making another instance
-
-notes = buddy.selectNotes()
-console.log(notes) # let's pretend that this outputs ['G', 'B']
-
-correct = buddy.checkAnswer(4)
-console.log(correct) # true because: G G# A A# B - the note circle is a CIRCLE, remember that!
+Here is some pseudo code 
 
 ```
+buddy = new JamBuddy()
+buddy.randomizeCurrentNotes()
+buddy.getCurrentNotes() # let's say this returns C and D#
+buddy.checkAnswer(1) # This will return a boolean False
+buddy.checkAnswer(2) # False again
+buddy.checkAnswer(3) # This is correct, so it returns True
+buddy.checkAnswer(9) # This is also correct => True
 
-## Acceptance criteria
-
-- Make sure you do this in a TDD way, and that code sample from the top needs to run as is.
-- Please just supply a working class. The only place you should instantiate your class is inside your unit tests.
-- Please export your class in this manner `module.exports = { JamBuddy: JamBuddy }`. This will allow you to add more exports later if you need to.
+buddy.setCurrentNotes('A','A#')
+buddy.getCurrentNotes() # this will return A and A# 
+buddy.checkAnswer(1) # returns True 
 ```

@@ -15,7 +15,6 @@ prerequisites:
   - topics/linux/os-environmental-variables
   soft: []
 ready: true
-story_points: 3
 submission_type: repo
 tags:
 - api
@@ -132,7 +131,6 @@ Note that:
 
 - The id is an integer
 - the user is the person who created the pr
-
 
 ### Error messages 
 

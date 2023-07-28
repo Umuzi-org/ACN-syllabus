@@ -22,14 +22,18 @@ title: Morse code
 
 ## Project structure
 
+### Python
+
+```
+morse_code.py
+```
+
 ### JavaScript
 
 Your directory structure should look like this:
 
 ```
-├── src
-|   └── morse_code.js
-└── package.json
+morse_code.js
 ```
 
 Remember to export both functions like this:
@@ -43,18 +47,7 @@ module.exports = { function1Name, function2Name };
 Your directory structure should look like this:
 
 ```
-├── build.gradle
-├── gradle
-│   └── wrapper
-│       ├── gradle-wrapper.jar
-│       └── gradle-wrapper.properties
-├── gradlew
-├── gradlew.bat
-├── settings.gradle
-└── src
-    └── main
-        └── java
-            └── MorseCode.java       <-------- names are important
+MorseCode.java       
 ```
 
 ## Instructions
@@ -80,14 +73,23 @@ morseCodeToLetters(".... .. / - .... . .-. .");
 
 Make sure to cater for punctuation marks and all special characters.
 
+Make sure your functions can handle empty strings. For example, the following should behave in a predictable way:
+
+```
+lettersToMorseCode("") 
+morseCodeToLetters("") 
+```
+
 Include the following assertions in your code:
 
 - Assert that the output and input both have the same number of characters represented.
 - Assert that there are the right number of spaces represented in the output.
 
-For your assertion messages, think about which error messages would be useful and use them appropriately.
+## A note on error messages
 
-Make sure that when you do this, your code remains clean and dry.
+Errors are useful: They tell you exactly what is broken and where it is broken. It is always worth while to put care into crafting meaningful error messages.
+
+Make sure that if an assertion fails then there is an informative error message.
 
 ## Resources
 
@@ -100,25 +102,4 @@ Make sure that when you do this, your code remains clean and dry.
 
 Admittedly, this project is a little bit contrived. Assertions are great for adding runtime checks to values and adding documentation-as-code.
 
-For a problem like this one, unit tests are more appropriate.
-
-## Up for a challenge?
-
-This is optional.
-
-Add unit tests to your code. Leave the assertions in there, so that we can see you know how to hit the requirements we laid out. But if you have some passing tests as well, that would be sweet.
-
-## Instructions for reviewers
-
-- Ensure that the `lettersToMorseCode` function can convert numbers, special characters and letters of the alphabets to morse code. The `morseCodeToLetters` function can convert morse code to numbers, letters of the alphabets and special characters.
-- Make sure that both functions return the output. Neither function should print the output.
-- When using assertions make sure that the assert statements/functions are checking if:
-  - the input and output character lengths are the same
-  - input and output spaces are the same
-- If unit tests are used, make sure that there is a test that checks the input and output lengths and ensure that imports and exports were used correctly.
-- Make sure that the assertions do not print an error if empty strings are passed in both functions, for example:
-
-```
-lettersToMorseCode("") // shouldn't print an assertion failure
-morseCodeToLetters("") // shouldn't print an assertion failure
-```
+For a problem like this one, unit tests are more appropriate. We'll learn about those in a little while :)

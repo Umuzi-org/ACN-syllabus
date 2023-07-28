@@ -16,7 +16,7 @@ _db_id: 18
 - Project: Animal Part 1 (Prerequisite)
 - {{< contentlink path="projects/oop/animals/part2" flavour="typescript" >}}
 - Project : Password-Checker (Prerequisite)
-- {{< contentlink path="projects/tdd/password-checker/part2" flavour="typescript" >}}
+- {{< contentlink path="projects/tdd/password-checker/part1" flavour="typescript" >}}
 
 ## Part 3
 
