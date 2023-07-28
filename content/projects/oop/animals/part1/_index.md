@@ -57,7 +57,7 @@ Make use of Gradle from the command line to set up your project. You can learn m
 
 {{< contentlink "gradle/introduction" >}}
 
-When you use gradle to create your project, give your project the following name: `Animals`
+When you use gradle to create your project, give your project the following name: `animals`
 
 Your directory structure should look like this:
 
@@ -73,7 +73,7 @@ Your directory structure should look like this:
 └── src
     ├── main
         └── java
-            ├── Animals      <-------- this is your project
+            ├── animals      <-------- this is your project
                  ├── Animal.java       <-------- names are important
                  ├── Cat.java          <-------- names are important
                  ├── Dog.java          <-------- names are important
@@ -81,7 +81,7 @@ Your directory structure should look like this:
 ...
 ```
 
-Make sure that all of the classes you define are within the `Animals` package. Do this by including a package declaration at the top of each of your java files.
+Make sure that all of the classes you define are within the `animals` package. Do this by including a package declaration at the top of each of your java files.
 
 ## Instructions
 
