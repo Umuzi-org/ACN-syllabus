@@ -102,9 +102,9 @@ Person person = new Person(
     "male",
     new String[] {"being a hardarse", "agile", "SSD hard drives"}
     // note that interests is an array of strings
-)
-String greeting = person.hello()
-System.out.println(greeting)
+    );
+    String greeting = person.hello();
+    System.out.println(greeting);
 ```
 
 This should output:
