@@ -236,7 +236,7 @@ home.make_all_sounds
 # ["Bark", "Meow", "Bark"]
 ```
 
-Add some functionality to `adoptPet` so that the error/exception, `Cannot adopt the same pet twice!`, gets raised/thrown if you try to adopt the same pet twice.
+Add some functionality to `adoptPet` so that an error/exception, gets raised/thrown if you try to adopt the same pet twice. Make sure that the error has a useful message!
 
 For example,
 

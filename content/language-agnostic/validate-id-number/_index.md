@@ -34,7 +34,7 @@ Your directory structure should look like this:
 ├── spec
 |   ├── support
 |   |   └── jasmine.json
-|   └── validate_sa_id_spec.js
+|   └── ???
 ├── src
 |   └── validate_sa_id.js
 └── package.json
@@ -92,7 +92,7 @@ Your directory structure should look like this:
 └── settings.gradle
 ```
 
-Create a class named ValidateSaId. Your `isIdNumberValid` function should be a static method and it should return a boolean value.
+Create a class named `ValidateSaId`. Your `isIdNumberValid` function should be a `static` method and it should return a boolean value.
 
 ## Validation problems
 
@@ -139,9 +139,11 @@ function validate_phone_number(phone_number){
 
 ```
 
-## Your mission:
+## Your mission
 
 Write a function called `is id number valid` that validates South African ID numbers. Make sure the name of the function is according to the common naming conventions for the language you are using.
+
+The function should accept a string parameter, and return a boolean value.
 
 If the ID number is valid then return true, if it is not valid then return false.
 
@@ -190,7 +192,7 @@ function isIdNumberValid(id_number){
 
 Run your tests again. Everything is GREEN now.
 
-#### More steps:
+#### More steps
 
 1. Write a test that expects your validator to return False if you pass it a string that is too short.
 2. Make the test pass. Note that ALL your previous tests should still pass.

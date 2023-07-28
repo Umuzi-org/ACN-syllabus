@@ -48,9 +48,7 @@ Your directory structure should look like this:
     |       ├── Home.java         <-------- names are important
     └── test
         └── java
-            ├── CatTest.java   <-------- names are important
-            └── DogTest.java   <-------- names are important
-            ... other logical things
+            ├── ???
 ```
 
 You'll be using JUnit to test your code. Make sure you remember to put in the `@Test` tag for all your test methods.
@@ -63,7 +61,7 @@ Your directory structure should look like this:
 ├── spec
 |   ├── support
 |   |   └── jasmine.json
-|   └── animals_spec.js
+|   └── ???
 ├── src
 |   └── animals.js
 └── package.json
@@ -81,7 +79,7 @@ Your directory structure should look like this:
 ├── requirements.txt
 ├── .gitignore
 └── tests
-  └── test_animals.py
+  └── ???
 
 ```
 
