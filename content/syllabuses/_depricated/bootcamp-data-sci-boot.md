@@ -1,5 +1,5 @@
 ---
-title: Data Science boot camp
+title: DEPRICATED - Data Science boot camp
 _db_id: 28
 ---
 

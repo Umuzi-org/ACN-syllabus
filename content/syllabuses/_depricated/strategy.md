@@ -1,5 +1,5 @@
 ---
-title: Strategy
+title: DEPRICATED - Strategy
 _db_id: 1
 ---
 

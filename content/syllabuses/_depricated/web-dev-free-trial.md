@@ -1,5 +1,5 @@
 ---
-title: web-dev-foundations Free Trial
+title: DEPRICATED - web-dev-foundations Free Trial
 _db_id: 34
 ---
 
