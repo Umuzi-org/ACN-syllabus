@@ -2,10 +2,10 @@
 _db_id: 223
 content_type: project
 flavours:
-- any_language
+  - any_language
 learning_outcomes:
-- code_oop_encapsulation
-- code_oop_class_instantiation
+  - code_oop_encapsulation
+  - code_oop_class_instantiation
 prerequisites:
   hard: []
   soft: []
@@ -13,7 +13,7 @@ ready: true
 story_points: 2
 submission_type: repo
 tags:
-- oop
+  - oop
 title: Person
 ---
 
@@ -97,10 +97,10 @@ print(greeting)
 // Java
 
 Person person = new Person(
-    name="Ryan", 
-    age=30, 
-    gender="male",
-    interests=new String[] {"being a hardarse", "agile", "SSD hard drives"}
+    "Ryan",
+    30,
+    "male",
+    new String[] {"being a hardarse", "agile", "SSD hard drives"}
     // note that interests is an array of strings
 )
 String greeting = person.hello()
@@ -113,11 +113,11 @@ This should output:
 Hello, my name is Ryan, my gender is male and I am 30 years old. My interests are being a hardarse, agile and SSD hard drives.
 ```
 
-In other words, the `hello` function should return a string. 
+In other words, the `hello` function should return a string.
 
 ### Important notes on sentence structure
 
-The sentence describing the `Person`'s interests should have a different format depending on how many interests that person has.  Here are a few examples:
+The sentence describing the `Person`'s interests should have a different format depending on how many interests that person has. Here are a few examples:
 
 - `My interests are being a hardarse, agile and SSD hard drives.`
 - `My interests are tea and cake.`
@@ -132,10 +132,10 @@ Make sure that the `hello` function returns EXACTLY the correct string. The form
 
 Try to answer the following questions for yourself:
 
-- In OOP there is a concept called "Abstraction". Do you know how abstraction relates to this project? 
-- What is a constructor function? 
+- In OOP there is a concept called "Abstraction". Do you know how abstraction relates to this project?
+- What is a constructor function?
 - When is a constructor called?
-- Can you construct multiple instances of the same class? 
+- Can you construct multiple instances of the same class?
 - What is the difference between a class and an object?
 
 ## Instructions for reviewer
