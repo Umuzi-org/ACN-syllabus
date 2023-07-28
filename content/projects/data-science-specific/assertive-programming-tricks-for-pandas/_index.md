@@ -4,7 +4,7 @@ submission_type: repo
 title: Assertive programming helpers for Pandas
 prerequisites:
   hard: 
-  - content/topics/intro-to-assertive-programming
+  - topics/intro-to-assertive-programming
 ---
 
 Data-science is a bit of a funny thing because even though data scientists write a lot of code, they typically aren't expected to follow all the software engineering best practices other kinds of developers would need to follow. 

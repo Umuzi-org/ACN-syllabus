@@ -8,7 +8,9 @@ submission_type: repo
 title: Bank Accounts
 ---
 
-As usual: TDD please
+
+
+
 
 ## part 1: Bank Account
 
