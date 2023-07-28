@@ -12,7 +12,7 @@ submission_type: link
 tags:
 - java
 - solo-learn
-title: Solo Learn - Java - Module 4 - Classes and Objects - Depreecated
+title: Solo Learn - Java - Module 4 - Classes and Objects - Depricated
 topic_needs_review: false
 ---
 

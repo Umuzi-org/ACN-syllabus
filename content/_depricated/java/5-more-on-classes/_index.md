@@ -9,7 +9,7 @@ ready: true
 tags:
 - java
 - solo-learn
-title: Solo Learn - Java - Module 5 - More on Classes (includes encapsulation) - Deprecated
+title: Solo Learn - Java - Module 5 - More on Classes (includes encapsulation) - Depricated
 topic_needs_review: false
 ---
 
