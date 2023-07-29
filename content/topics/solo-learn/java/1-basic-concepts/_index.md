@@ -8,7 +8,7 @@ submission_type: link
 tags:
 - java
 - solo-learn
-title: Solo Learn - Java - Module 1 - Basic Concepts - Depricated
+title: Solo Learn - Java - Module 1 - Basic Concepts - Deprecated
 ---
 
 Complete the above mentioned module on Solo Learn
