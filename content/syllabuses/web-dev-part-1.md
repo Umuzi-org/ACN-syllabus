@@ -15,6 +15,7 @@ _db_id: 3
 - {{< contentlink path="topics/file-and-directory-naming/javascript" >}}
 - {{< contentlink path="topics/js-and-node-specific/super-basic-intro-to-node" >}}
 - {{< contentlink path="topics/how-to-ask-for-help-with-your-code" >}}
+- {{< contentlink path="topics/javascript-debugging-in-vscode" >}}
 - {{< contentlink path="specific-skill-success-criteria/for-loops" flavour="javascript" >}}
 - {{< contentlink path="projects/katas/level-2" flavour="javascript" >}}
 - {{< contentlink path="language-agnostic/intro-to-hackerrank" flavour="javascript" >}}
