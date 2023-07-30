@@ -27,7 +27,11 @@ If the user scans the same QR code twice then we only want one entry in the data
 
 Create another screen that displays a list of all the contacts that the user has scanned. This list should work as follows:
 
-For each contact, please display: - profile picture - name - status
+For each contact, please display:
+
+- profile picture
+- name
+- status
 
 Please make sure that the user can scroll through the list. There might be a lot of contacts.
 
