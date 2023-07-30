@@ -57,6 +57,8 @@ Make use of Gradle from the command line to set up your project. You can learn m
 
 {{< contentlink "gradle/introduction" >}}
 
+When you use gradle to create your project, give your project the following name: `animals`
+
 Your directory structure should look like this:
 
 ```
@@ -71,12 +73,15 @@ Your directory structure should look like this:
 └── src
     ├── main
         └── java
-            ├── Animal.java       <-------- names are important
-            ├── Cat.java          <-------- names are important
-            ├── Dog.java          <-------- names are important
-            ├── Home.java         <-------- names are important
+            ├── animals      <-------- this is your project
+                 ├── Animal.java       <-------- names are important
+                 ├── Cat.java          <-------- names are important
+                 ├── Dog.java          <-------- names are important
+                 ├── Home.java         <-------- names are important
 ...
 ```
+
+Make sure that all of the classes you define are within the `animals` package. Do this by including a package declaration at the top of each of your java files.
 
 ## Instructions
 
@@ -91,10 +96,10 @@ In this challenge, you will create 3 classes.
 ```
 // Java
 
-? dog1 = new Dog()
+? dog1 = new Dog()  
 ? dog2 = new Dog("Simba")
 
-dog1.eat()   // returns 'Rax eats'
+dog1.eat()   // public returns 'Rax eats'
 dog1.sound() // returns 'Bark'
 
 dog2.eat()   // returns 'Simba eats'
@@ -108,6 +113,8 @@ cat1.sound() // returns 'Meow'
 
 cat2.eat()   // returns 'Smokey eats'
 cat2.sound() // returns 'Meow'
+
+// Make sure all constructors, eat and sound are all public methods
 ```
 
 ```
@@ -167,21 +174,23 @@ Home home = new Home()
 ? dog2 = new Dog()
 ? cat = new Cat()
 
-home.makeAllSounds() // this doesn't return anything
+home.makeAllSounds() // this returns an empty ArrayList
 home.adoptPet(dog1) // 1
 home.makeAllSounds()
-// this returns:
+// this returns an ArrayList of Strings:
 // ["Bark"]
 
 home.adoptPet(cat) // 2
 home.makeAllSounds()
-// this returns:
+// this returns an ArrayList of Strings:
 // ["Bark", "Meow"]
 
 home.adoptPet(dog2) // 3
 home.makeAllSounds()
-// this returns:
+// this returns an ArrayList of Strings:
 // ["Bark", "Meow", "Bark"]
+
+// adoptPet and makeAllSounds must be public methods
 ```
 
 ```
@@ -193,7 +202,7 @@ let dog2 = new Dog();
 let cat = new Cat();
 
 
-home.makeAllSounds();// this doesn't return anything
+home.makeAllSounds();// this returns an empty array
 home.adoptPet(dog1); // 1
 home.makeAllSounds();
 // this returns:
@@ -218,7 +227,7 @@ dog1 = Dog()
 dog2 = Dog()
 cat = Cat()
 
-home.make_all_sounds() # this doesn't return anything
+home.make_all_sounds() // this returns an empty ArrListay
 home.adopt_pet(dog1) # 1
 home.make_all_sounds()
 # this returns:
@@ -236,7 +245,7 @@ home.make_all_sounds
 # ["Bark", "Meow", "Bark"]
 ```
 
-Add some functionality to `adoptPet` so that the error/exception, `Cannot adopt the same pet twice!`, gets raised/thrown if you try to adopt the same pet twice.
+Add some functionality to `adopt pet` so that an error/exception, gets raised/thrown if you try to adopt the same pet twice. Make sure that the error has a useful message!
 
 For example,
 
@@ -261,4 +270,4 @@ Consider the following OOP concepts. Can you see and explain how they are demons
 - The `makeAllSounds` method should return an array of the exact strings specified in the instructions. e.g "Bark", "Meow"
 - All the class methods should return the exact strings defined and not print them.
 - A house cannot adopt a specific instance of a pet more than once.
-- The correct error/exception, `Cannot adopt the same pet twice!`, should be raised/thrown.
+- Make sure any error messages are descriptive
