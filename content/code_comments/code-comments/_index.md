@@ -18,32 +18,58 @@ Understanding the difference between good comments and bad comments is essential
 
 ### Comment Evaluation
 
-Instructions: Read the following code snippets and evaluate the comments provided. Determine whether each comment is a good comment or a bad comment. Answer the questions below.
+1.Here are some code examples, please rewrite the code in a clearer way. Please make sure you only make use of comments that are actually useful. You are welcome to change function and variable names.
 
-```python
-# Function to calculate the area of a rectangle
-def calculate_area(length, width):
-    # Multiply length by width to get the area
-    return length * width
+Python:
+  
+  ```python
+  def area_of_rectangle(length, width):
+    area = length * width
+    return area
 
-```
 
-1.Evaluate the comment: "Function to calculate the area of a rectangle."
+  length = 5
+  width = 10
+  result = area_of_rectangle(length, width)
+  print("Area of the rectangle:", result)
+  ```
 
-- Is it a good comment or a bad comment?
+Java:
+  
+  ```java
+  public class Main {
+    public static void main(String[] args) {
+      int length = 5;
+      int width = 10;
+      int result = areaOfRectangle(length, width);
+      System.out.println("Area of the rectangle: " + result);
+    }
 
-  2.Evaluate the comment: "Multiply length by width to get the area."
+    public static int areaOfRectangle(int length, int width) {
+      int area = length * width;
+      return area;
+    }
+  }
+  ```
 
-- Is it a good comment or a bad comment?
+JavaScript:
+  
+  ```javascript
+  function areaOfRectangle(length, width) {
+    let area = length * width;
+    return area;
+  }
 
-  3.In your own words, explain what makes a good comment.
+  let length = 5;
+  let width = 10;
+  let result = areaOfRectangle(length, width);
+  console.log("Area of the rectangle:", result);
+  ```
 
-  4.Describe one scenario where a bad comment could cause confusion or misunderstanding.
+2.In your own words, explain what makes a good comment.
 
-  5.Evaluate the comment: "This is a tricky part of the code, so be careful."
+3.Describe one scenario where a bad comment could cause confusion or misunderstanding.
 
-- Is it a good comment or a bad comment?
-
-  6.In your own words, explain why maintaining up-to-date comments is important in code development.
+4.In your own words, explain why maintaining up-to-date comments is important in code development.
 
 Please complete the Comment Evaluation project on a Google Doc. Once you have completed the project, ensure that the sharing permissions of the document allow anyone on the internet to view the file. Then, submit a link to the document by sharing it with us.

@@ -86,6 +86,27 @@ In programming, comments play a crucial role in code documentation. They provide
 
   > In this example, the comment uses sarcasm and an unprofessional tone, which can create a negative work environment and undermine effective collaboration.
 
+### Self-Documenting Code
+
+ An essential aspect of effective code communication is self-documenting code. Good code makes its intentions clear through various means:
+
+- Clear Algorithms: Well-organized and logically structured algorithms help developers understand the flow and purpose of the code without relying heavily on comments.
+
+- Well-Chosen Names: Thoughtfully selected variable and function names that convey their purpose can significantly improve code readability. Meaningful names reduce the need for excessive comments by expressing the code's intent directly.
+
+A common problem is something like this:
+  
+  ```javascript
+  // Calculate the temperature in Fahrenheit given the temperature in Celsius
+  function calculate(temp) {
+      return .... 
+  }
+  ```
+
+  > In this example, the comment is redundant since the function name already conveys its purpose. A better approach would be to use a more descriptive function name, such as `calculateFahrenheitFromCelcius`.
+
+Comments as Needed: While striving for self-documenting code, there will still be instances where comments are necessary to provide critical context or explain intricate details that may not be immediately obvious.
+
 ### Common Problems Encountered by New Programmers
 
 - Paraphrasing Code in Comments: New programmers often fall into the trap of paraphrasing code in comments, leading to redundant and unhelpful comments. For instance: `sum = 0 // initialize the sum variable to 0`. Comments like these add no real value and clutter the codebase.
