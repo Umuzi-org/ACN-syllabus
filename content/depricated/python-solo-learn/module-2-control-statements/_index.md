@@ -3,7 +3,7 @@ _db_id: 530
 content_type: topic
 prerequisites:
   hard:
-  - topics/solo-learn/python/module-1-basic-concepts
+  - depricated/python-solo-learn/module-1-basic-concepts
   soft: []
 ready: true
 tags:

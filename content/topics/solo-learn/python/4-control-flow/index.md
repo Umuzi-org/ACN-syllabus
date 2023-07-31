@@ -1,5 +1,4 @@
 ---
-_db_id: 526
 content_type: topic
 prerequisites:
   hard:
@@ -8,10 +7,10 @@ prerequisites:
 ready: true
 tags:
 - python
-title: Solo Learn - Introduction to Python - Control Flow
+title: Solo Learn - Introduction to Python - 4. Control Flow
 topic_needs_review: false
 ---
 
-Complete the above mentioned module on Solo Learn
+Complete the above mentioned module on Solo Learn.
 
 https://www.sololearn.com/learn/courses/python-introduction

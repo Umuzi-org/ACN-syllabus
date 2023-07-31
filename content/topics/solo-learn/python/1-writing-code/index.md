@@ -1,5 +1,4 @@
 ---
-_db_id: 527
 content_type: project
 flavours:
 - none
@@ -7,7 +6,7 @@ ready: true
 submission_type: link
 tags:
 - python
-title: Solo Learn - Introduction to Python - Writing Code
+title: Solo Learn - Introduction to Python - 1. Writing Code
 ---
 
 Complete the above mentioned module on Solo Learn.

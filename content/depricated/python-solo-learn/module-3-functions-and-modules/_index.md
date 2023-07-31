@@ -5,7 +5,7 @@ flavours:
 - none
 prerequisites:
   hard:
-  - topics/solo-learn/python/module-2-control-statements
+  - depricated/python-solo-learn/module-2-control-statements
   soft: []
 ready: true
 submission_type: link

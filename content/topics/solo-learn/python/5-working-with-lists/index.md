@@ -1,5 +1,4 @@
 ---
-_db_id: 529
 content_type: project
 flavours:
 - none
@@ -10,8 +9,10 @@ prerequisites:
 ready: true
 tags:
 - python
-title: Solo Learn - Introduction to Python - Working with Lists
+title: Solo Learn - Introduction to Python - 5. Working with Lists
 topic_needs_review: false
 ---
 
 Complete the above mentioned module on Solo Learn
+
+https://www.sololearn.com/learn/courses/python-introduction

@@ -6,7 +6,6 @@ _db_id: 31
 - {{% contentlink path="topics/python-vs-js" %}}
 - {{% contentlink path="topics/django/why-learn-django" %}}
 - {{% contentlink path="topics/watch-this-space" %}}
-- {{% contentlink path="topics/solo-learn/python/module-5-more-types" %}}
 - {{% contentlink path="topics/python-specific/oop-for-python" %}}
 - {{% contentlink path="topics/python-specific/automated-testing-with-pytest"%}}
 - {{% contentlink path="topics/clean-code/python" %}}

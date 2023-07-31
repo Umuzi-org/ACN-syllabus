@@ -5,7 +5,7 @@ flavours:
 - none
 prerequisites:
   hard:
-  - topics/solo-learn/python/module-4-exceptions-and-files
+  - depricated/python-solo-learn/module-4-exceptions-and-files
   soft: []
 ready: true
 submission_type: link

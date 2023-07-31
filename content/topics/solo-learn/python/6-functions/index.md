@@ -1,14 +1,16 @@
 ---
-content_type: topic
+content_type: project
+flavours:
+- none
 prerequisites:
   hard:
-  - topics/solo-learn/python/1-writing-code
+  - topics/solo-learn/python/5-working-with-lists
   soft: []
 ready: true
+submission_type: link
 tags:
 - python
-title: Solo Learn - Solo Learn - Introduction to Python - 2. Going Deeper
-topic_needs_review: false
+title: Solo Learn - Introduction to Python - 6. Functions
 ---
 
 Complete the above mentioned module on Solo Learn.
