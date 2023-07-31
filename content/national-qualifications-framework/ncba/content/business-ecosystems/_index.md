@@ -261,7 +261,7 @@ The cultural environment represents the values and beliefs of society. These bel
 
 ***TECHNOLOGICAL ENVIRONMENT***
 
-Technology refers to the application of scientific and organized knowledge to organizational tasks. Basically, technology includes inventions and innovations regarding techniques of production. But it’s not the only production: technology can be used in the way in which we communicate and learner potential applicants. Technology is changing at a fast pace and the technological environment is dramatically affecting the business environment.
+Technology refers to the application of scientific and organized knowledge to organizational tasks. Basically, technology includes inventions and innovations regarding techniques of production. But it’s not the only production: technology can be used in the way in which we communicate and recruit potential applicants. Technology is changing at a fast pace and the technological environment is dramatically affecting the business environment.
 You’ll hear a lot of people talk about how technology can disrupt an industry. Basically what this means is technology has the ability to change the game as we know it. Think about Uber, for example. In the old days if you wanted a private taxi there were about 10 steps to getting them to pick you up. Now, your ride is just 1 click away, thanks to some clever use of technology. Basically, disruptive technology takes the rule book and chucked it in the fire.
 
 ***DEMOGRAPHIC ENVIRONMENT***

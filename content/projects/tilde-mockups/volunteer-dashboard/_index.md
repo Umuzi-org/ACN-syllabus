@@ -25,7 +25,7 @@ Volunteers need to be able to see learner project submissions for the projects t
 
 Volunteers need to see previous code reviews for the projects, they also need to be able to add their own reviews.
 
-Basically the reviewer will need to have access to relevent info and actions across a bunch of ccards that belong to different learners.
+Basically the reviewer will need to have access to relevent info and actions across a bunch of cards that belong to different learners.
 
 Volunteers will also need to reach out to learners to organise pair programming sessions (of course we can use RocketChat for that though) and they'll need to give us some feedback on how the sessions went and what was covered (and we can test this process with a simple google form). So this part initially needs no build.
 
@@ -35,7 +35,7 @@ Then we also need to be able to help the volunteers make good decisions about wh
 
 ### Getting people over the line
 
-If a project has been marked as competent by learner, but a staff member thinks it is not yet competent then that means:
+If a project has been marked as competent by learners, but a staff member thinks it is not yet competent then that means:
 
 - the learner has already put in good effort so the pairing session will be fun and smooth
 - there is a knowledge gap that needs to be filled, the learner in question and the reviewers all dont know what competent looks like and could use some support.
