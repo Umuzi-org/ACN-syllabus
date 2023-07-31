@@ -17,7 +17,7 @@ VS Code's debugging feature allows developers to set breakpoints in their code, 
 
 1. [VS Code Documentation - Debugging](https://code.visualstudio.com/docs/editor/debugging)
 2. [Debugging for JavaScript in VS Code](https://code.visualstudio.com/docs/nodejs/nodejs-debugging)
-3. [Python Debugging in VS Code](https://code.visualstudio.com/docs/python/python-debugging)
+3. [Python Debugging in VS Code](https://code.visualstudio.com/docs/python/debugging)
 4. [Java Debugging in VS Code](https://code.visualstudio.com/docs/java/java-debugging)
 
 These resources provide detailed information and tutorials on how to use the debugging features in VS Code for different programming languages, making it easier for developers to master the art of effective debugging.
