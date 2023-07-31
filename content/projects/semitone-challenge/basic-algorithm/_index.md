@@ -43,7 +43,10 @@ module.exports = { className }
 
 ### Java
 
-The code you push to git should have the following structure:
+When you use gradle to create your project, give your project the following name: `jam_buddy`
+
+Make sure that all of the classes you define are within the `jam_buddy` package. Do this by including a package declaration at the top of each of your java files.
+
 
 ```
 ├── build.gradle
@@ -57,7 +60,8 @@ The code you push to git should have the following structure:
 └── src
     ├── main
     |   └── java
-    |       └── JamBuddy.java <-------- names are important
+    |       └── jam_buddy
+    |            └──  JamBuddy.java <-------- names are important
     └── test
         └── java
             └── ???.java             <-------- names are important
