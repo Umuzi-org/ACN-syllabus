@@ -3,7 +3,7 @@ _db_id: 448
 content_type: topic
 prerequisites:
   hard:
-  - depricated/java-sololearn/4-classes-and-objects
+  - _depricated/java-sololearn/4-classes-and-objects
   soft: []
 ready: true
 tags:

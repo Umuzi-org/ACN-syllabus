@@ -3,7 +3,7 @@ _db_id: 453
 content_type: topic
 prerequisites:
   hard:
-  - depricated/java-sololearn/1-basic-concepts
+  - _depricated/java-sololearn/1-basic-concepts
   soft: []
 ready: true
 tags:

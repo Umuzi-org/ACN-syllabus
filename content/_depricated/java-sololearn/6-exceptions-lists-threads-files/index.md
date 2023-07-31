@@ -5,7 +5,7 @@ flavours:
 - none
 prerequisites:
   hard:
-  - depricated/java-sololearn/5-more-on-classes
+  - _depricated/java-sololearn/5-more-on-classes
   soft: []
 ready: true
 submission_type: link

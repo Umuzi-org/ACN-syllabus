@@ -5,7 +5,7 @@ flavours:
 - none
 prerequisites:
   hard:
-  - depricated/java-sololearn/3-arrays
+  - _depricated/java-sololearn/3-arrays
   soft: []
 ready: true
 submission_type: link

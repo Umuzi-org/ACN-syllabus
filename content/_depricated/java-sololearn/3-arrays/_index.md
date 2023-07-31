@@ -3,7 +3,7 @@ _db_id: 450
 content_type: topic
 prerequisites:
   hard:
-  - depricated/java-sololearn/2-conditionals-and-loops
+  - _depricated/java-sololearn/2-conditionals-and-loops
   soft: []
 ready: true
 tags:
