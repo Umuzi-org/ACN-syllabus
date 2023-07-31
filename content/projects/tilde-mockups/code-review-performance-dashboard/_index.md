@@ -15,11 +15,11 @@ Rapid feedback cycles lead to rapid learning and rapid adaptation. Effective cod
 
 But even though it is increadibly important and it should be a high priority for devs, code review is often left until the last possible moment.
 
-There are a few reasons for this. One reason is that recruits/students just dont know what "good" looks like. And even if they knew what good looked like, they dont get easy clear access to metrics about their own performance or the performance of their group. They don't know what we are even measuring or why.
+There are a few reasons for this. One reason is that learners/students just dont know what "good" looks like. And even if they knew what good looked like, they dont get easy clear access to metrics about their own performance or the performance of their group. They don't know what we are even measuring or why.
 
 So what we need is a dashboard. Colours, dials, graphs... all that good stuff.
 
-A recruit needs to be able to look at their code review dashboard and clearly see if they are doing well or badly, and they need to see how they are doing in comparison to their group.
+A learner needs to be able to look at their code review dashboard and clearly see if they are doing well or badly, and they need to see how they are doing in comparison to their group.
 
 ## The data
 
@@ -28,7 +28,7 @@ Basically we keep track of:
 1. Cards and their statusess. and who is assigned as a reviewer
 2. If a card is in the review column, we can see how long it has been chilling there by looking at when the review was requested
 3. We can see what reviews were done when and by who
-4. We also keep track of how many times a staff member disagrees with a review made by a recruit.
+4. We also keep track of how many times a staff member disagrees with a review made by a learner.
 
 ## And what does good look like?
 
@@ -54,7 +54,7 @@ Why do "disagreement"s happen? There are 2 main reasons:
 
 ## And the other side of the review coin
 
-If a recruit gets feedback on one of their projects, it's their job to react to it quickly and sort things out. A good coder works to get things finished! Responding to feedback as quickly as possible means that learnings can be better applied to future projects.
+If a learner gets feedback on one of their projects, it's their job to react to it quickly and sort things out. A good coder works to get things finished! Responding to feedback as quickly as possible means that learnings can be better applied to future projects.
 
 People who delay on learning from feedback tend to make the same mistakes over and over again and just end up annoying the reviewers.
 
@@ -67,5 +67,5 @@ So the things that are worth displaying here are:
 
 ## Your task
 
-1. Draw out what you would want to build before you build anything! Show it to at least 3 users (recruits) and get their feedack on your design.
+1. Draw out what you would want to build before you build anything! Show it to at least 3 users (learners) and get their feedack on your design.
 2. build your mockup in React

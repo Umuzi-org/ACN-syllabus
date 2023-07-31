@@ -7,7 +7,7 @@ title: SQL for strat
 
 Building query tables, Umuzi Strategists are able to merge various data sources that the organization collects. This data is used by the organization to find effective solutions.
 
-How recruits learn the tool:
+How learners learn the tool:
 
 They learn the tool through the following hands on course:
 

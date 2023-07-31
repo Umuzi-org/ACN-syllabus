@@ -71,7 +71,7 @@ Businesses like Umuzi are made up mostly of the common internal business environ
 
   - Product 
 
-While we have control over all these factors, a lot of effort is directed to our internal team at all times, from managers to existing recruits. We focus on our internal team to create a strong organizational culture, which is a critical business success factor.
+While we have control over all these factors, a lot of effort is directed to our internal team at all times, from managers to existing learners. We focus on our internal team to create a strong organizational culture, which is a critical business success factor.
 
 
 ***THE EXTERNAL BUSINESS ENVIRONMENT***
@@ -255,13 +255,13 @@ And a couple of points on the advantages and disadvantages of regulatory bodies.
 
 ***SOCIO-CULTURAL ENVIRONMENT***
 
-This represents the values, culture, beliefs, norms, and ethics of the society in which we operate. People are important to organizations both as human resources and customers. Their buying habits, buying capacities, tastes, preferences, and education affect what we offer and how we do business. We understand that our potential Recruits don’t have very high buying/spending capacities, that’s why we work really hard to not only offer free education but offer a stipend as well. This is a very different model for private institutions.  Many firms and businesses change their production and marketing plans according to consumer demand.
+This represents the values, culture, beliefs, norms, and ethics of the society in which we operate. People are important to organizations both as human resources and customers. Their buying habits, buying capacities, tastes, preferences, and education affect what we offer and how we do business. We understand that our potential learners don’t have very high buying/spending capacities, that’s why we work really hard to not only offer free education but offer a stipend as well. This is a very different model for private institutions.  Many firms and businesses change their production and marketing plans according to consumer demand.
 The social environment consists of the social values; concern for social problems like protection of the environment against pollution, providing employment opportunities, health care for the aged and old, etc.; consumerism, that is, indulging in fair trade practices to satisfy the market.
 The cultural environment represents the values and beliefs of society. These beliefs mold the attitudes of people and help business enterprises determine their need perception. The socio-cultural environment helps firms support the social and cultural values of society by encouraging fine arts projects, sports, communication media, donations to educational, religious, and charitable institutions, counseling centers, vocational and technical training centers, etc.
 
 ***TECHNOLOGICAL ENVIRONMENT***
 
-Technology refers to the application of scientific and organized knowledge to organizational tasks. Basically, technology includes inventions and innovations regarding techniques of production. But it’s not the only production: technology can be used in the way in which we communicate and recruit potential applicants. Technology is changing at a fast pace and the technological environment is dramatically affecting the business environment.
+Technology refers to the application of scientific and organized knowledge to organizational tasks. Basically, technology includes inventions and innovations regarding techniques of production. But it’s not the only production: technology can be used in the way in which we communicate and learner potential applicants. Technology is changing at a fast pace and the technological environment is dramatically affecting the business environment.
 You’ll hear a lot of people talk about how technology can disrupt an industry. Basically what this means is technology has the ability to change the game as we know it. Think about Uber, for example. In the old days if you wanted a private taxi there were about 10 steps to getting them to pick you up. Now, your ride is just 1 click away, thanks to some clever use of technology. Basically, disruptive technology takes the rule book and chucked it in the fire.
 
 ***DEMOGRAPHIC ENVIRONMENT***
@@ -492,7 +492,7 @@ An interesting video explaining cooperatives:
 
 Nonprofits are companies set up for public benefit, or for a purpose relating to cultural or social activities, or communal or group interests, such as religion, sciences, education, arts, charity, or recreation. Under the old Act, these were known as Section 21 companies. Umuzi falls under this type of business! 
 
-The income and property of a non-profit company are to be applied solely to the promotion of the non-profit company’s main objective and cannot be distributed to owners or shareholders. So basically, the money we make from learnerships goes back into the business to pay for things such as salaries, wellness sessions between recruits and counselors, pay for marketing for our recruitment campaigns and, of course, go back into funding more learnerships.
+The income and property of a non-profit company are to be applied solely to the promotion of the non-profit company’s main objective and cannot be distributed to owners or shareholders. So basically, the money we make from learnerships goes back into the business to pay for things such as salaries, wellness sessions between learners and counselors, pay for marketing for our recruitment campaigns and, of course, go back into funding more learnerships.
 
 Advantages of Non-Profits:
 
@@ -524,7 +524,7 @@ Watch this video to learn more about NGOs:
 
 ## THE BUSINESS OF DOING BUSINESS
 
-Why do we do business? Why does business exist and why does it do what it does? The obvious answer is money. One could argue that businesses simply exist to generate cash. But this is not entirely true (although this is certainly a part of the ‘why’). In Umuzi's case, we exist to bring more people into the talent pipeline and give access to high-value and innovative education so that our recruits can have access to high-value employment opportunities.
+Why do we do business? Why does business exist and why does it do what it does? The obvious answer is money. One could argue that businesses simply exist to generate cash. But this is not entirely true (although this is certainly a part of the ‘why’). In Umuzi's case, we exist to bring more people into the talent pipeline and give access to high-value and innovative education so that our learners can have access to high-value employment opportunities.
 
 This section deals with broad business objectives and then demonstrates a model called the Value Chain Model, for thinking about what needs to be done to achieve these objectives. At a high level, we are looking at why businesses exist and, at a generic level, how they add value.
 
@@ -674,7 +674,7 @@ Review each of the sub-activities and links that you've identified, and think ab
 
 A system is simply a view of a whole unit, organisation, team, problem etc. broken down into its components. These are ordered, viewed, and considered in line with a plan or strategy.
 
-Organisations use information systems to guide business decisions. They use information systems to collect data and process it according to the needs of the business. Businesses operate more efficiently by using varied information systems to interact with customers and partners, curtail costs and generate revenues. For Umuzi’s recruitment, it’s all about understanding who has applied to which department, is there enough space in the chosen department, and are there agencies and other companies out there looking for a recruit from that department. Info coming in from all angles!
+Organisations use information systems to guide business decisions. They use information systems to collect data and process it according to the needs of the business. Businesses operate more efficiently by using varied information systems to interact with customers and partners, curtail costs and generate revenues. For Umuzi’s recruitment, it’s all about understanding who has applied to which department, is there enough space in the chosen department, and are there agencies and other companies out there looking for a learner from that department. Info coming in from all angles!
 
 In Systems Theory, a system is defined in two ways:
 
@@ -686,7 +686,7 @@ This approach identifies organisational behavior by mapping the repeated cycles 
 
 A system has three components - inputs, processes and outputs.
 
-Systems receive input from the environment either as information or in the form of resources. The systems then process the input internally, which is called throughput, and release outputs into the environment in an attempt to restore equilibrium to the environment. So our clients give us the input of how many recruits they need to hire, we then recruit them, train them and then meet the needs of our clients. The system then seeks feedback to determine if the output was effective in restoring equilibrium. As can be seen, the systems approach focuses on the means used to maintain organizational survival and emphasize long-term goals rather than the short-term goals of the goal-attainment approach.
+Systems receive input from the environment either as information or in the form of resources. The systems then process the input internally, which is called throughput, and release outputs into the environment in an attempt to restore equilibrium to the environment. So our clients give us the input of how many learners they need to hire, we then recruit them, train them and then meet the needs of our clients. The system then seeks feedback to determine if the output was effective in restoring equilibrium. As can be seen, the systems approach focuses on the means used to maintain organizational survival and emphasize long-term goals rather than the short-term goals of the goal-attainment approach.
 Watch this video to summarize the learning on systems theory:
 
 [Systems Theory of Organizations](https://www.youtube.com/watch?v=1L1c-EKOY-w)
@@ -805,7 +805,7 @@ Management information systems are based on internal information flows and suppo
 
 ***Decision Support Systems***
 
-A Decision Support System can be seen as a knowledge-based system, used by senior managers, which facilitates the creation of knowledge and allows its integration into the organization. These systems are often used to analyze existing structured information and allow managers to project the potential effects of their decisions into the future. Such systems are usually interactive and are used to solve ill-structured problems. They offer access to databases, and analytical tools, allow "what if" simulations, and may support the exchange of information within the organisation. For us, this would refer to the system that tracks the number of recruits required to meet the needs of our external clients. This integrates with the management information systems but is mostly used to guide the overall outcome of recruitment.
+A Decision Support System can be seen as a knowledge-based system, used by senior managers, which facilitates the creation of knowledge and allows its integration into the organization. These systems are often used to analyze existing structured information and allow managers to project the potential effects of their decisions into the future. Such systems are usually interactive and are used to solve ill-structured problems. They offer access to databases, and analytical tools, allow "what if" simulations, and may support the exchange of information within the organisation. For us, this would refer to the system that tracks the number of learners required to meet the needs of our external clients. This integrates with the management information systems but is mostly used to guide the overall outcome of recruitment.
 Decision support systems support ill-structured or semi-structured decisions and usually have the analytical or modeling capability. Generally used at the senior managerial level, these systems are concerned with predicting the future.
 
 ***Executive Information Systems***
@@ -867,7 +867,7 @@ Human resources - Recruiting, training, payroll, benefits, diversity management,
 
   - Project management - Project planning, resource planning, project costing, work breakdown structure, billing, time and expense, performance units, and activity management. Knowing when to implement the next form of communication in the recruitment campaign, and why.
 
-  - Customer relationship management - Sales and marketing, commissions, service, customer contact, call center support - CRM systems are not always considered part of ERP systems but rather Business Support systems (BSS). Staying in touch with our potential recruits and keeping them up to date as to where they are in the recruitment process.
+  - Customer relationship management - Sales and marketing, commissions, service, customer contact, call center support - CRM systems are not always considered part of ERP systems but rather Business Support systems (BSS). Staying in touch with our potential learners and keeping them up to date as to where they are in the recruitment process.
 
   - Data services - Various "self–service" interfaces for customers, suppliers, and/or employees. We don’t need some IT geek (no disrespect to the coders) to help us use our system. It needs to be user-friendly and easy to adjust on the fly.
 
