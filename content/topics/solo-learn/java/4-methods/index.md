@@ -16,4 +16,4 @@ title: Solo Learn - Introduction to Java - 4. Control Flow
 
 Complete the above mentioned module on Solo Learn
 
-https://www.sololearn.com/Course/Java/
+https://www.sololearn.com/learn/courses/java-introduction

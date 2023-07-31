@@ -15,4 +15,4 @@ topic_needs_review: false
 
 Complete the above mentioned module on Solo Learn
 
-https://www.sololearn.com/Course/Java/
+https://www.sololearn.com/learn/courses/java-introduction
