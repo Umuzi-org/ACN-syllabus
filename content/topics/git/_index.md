@@ -38,7 +38,7 @@ We use Github for keeping our code safe. [Here](https://guides.github.com/introd
 
 Also checkout {{< contentlink path="topics/bootcamp/git-for-bootcamp" >}}
 
-## For our data recruits
+## For our data learners
 
 https://www.datacamp.com/courses/introduction-to-git-for-data-science
 

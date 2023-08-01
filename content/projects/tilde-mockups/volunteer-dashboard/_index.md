@@ -13,7 +13,7 @@ We have a growing number of volunteers getting involved with Umuzi in different 
 
 Right now there isn't a really easy way to co-ordinate our volunteers. Basically we have a staff member who acts as our offical volunteer wrangler. But it's a big job and it keeps getting bigger.
 
-We want to set up a system so that volunteers can connect directly to individal students/recruits and share technical support and knowledge, without needing staff members to be involved. We need a process that is smooth, fun and meaningful.
+We want to set up a system so that volunteers can connect directly to individal students/learners and share technical support and knowledge, without needing staff members to be involved. We need a process that is smooth, fun and meaningful.
 
 And we really really believe that pair programming adds a tonne of value to everyone.
 
@@ -21,13 +21,13 @@ And we really really believe that pair programming adds a tonne of value to ever
 
 Volunteers need to be able to say what projects and languages they are keen on. For example Frank might be keen to help people with the Python version of the password checker project. And Bearded Ryan might be keen to help with the Javascript version.
 
-Volunteers need to be able to see recruit project submissions for the projects that they are interested in.
+Volunteers need to be able to see learner project submissions for the projects that they are interested in.
 
 Volunteers need to see previous code reviews for the projects, they also need to be able to add their own reviews.
 
-Basically the reviewer will need to have access to relevent info and actions across a bunch of ccards that belong to different recruits.
+Basically the reviewer will need to have access to relevent info and actions across a bunch of cards that belong to different learners.
 
-Volunteers will also need to reach out to recruits to organise pair programming sessions (of course we can use RocketChat for that though) and they'll need to give us some feedback on how the sessions went and what was covered (and we can test this process with a simple google form). So this part initially needs no build.
+Volunteers will also need to reach out to learners to organise pair programming sessions (of course we can use RocketChat for that though) and they'll need to give us some feedback on how the sessions went and what was covered (and we can test this process with a simple google form). So this part initially needs no build.
 
 ## Prioritising pairing sessions
 
@@ -35,10 +35,10 @@ Then we also need to be able to help the volunteers make good decisions about wh
 
 ### Getting people over the line
 
-If a project has been marked as competent by recruits, but a staff member thinks it is not yet competent then that means:
+If a project has been marked as competent by learners, but a staff member thinks it is not yet competent then that means:
 
-- the recruit has already put in good effort so the pairing session will be fun and smooth
-- there is a knowledge gap that needs to be filled, the recruit in question and the reviewers all dont know what competent looks like and could use some support.
+- the learner has already put in good effort so the pairing session will be fun and smooth
+- there is a knowledge gap that needs to be filled, the learner in question and the reviewers all dont know what competent looks like and could use some support.
 
 In these cases it is good to have a pairing session where:
 
@@ -64,10 +64,10 @@ so basically if there is a list of tasks for a volunteer to do, tasks that help 
 
 ## Who sould be excluded from this
 
-For now if someone is getting RED FLAG reviews then we would rather keep them away from the technical volunteers. These recruits will rather be coached by our wellness team.
+For now if someone is getting RED FLAG reviews then we would rather keep them away from the technical volunteers. These learners will rather be coached by our wellness team.
 
 ## The procedure
 
-1. Draw some pictures of what you want to build. Nothing fancy. Show your ideas to a few other recruits so that they can help you improve your design
+1. Draw some pictures of what you want to build. Nothing fancy. Show your ideas to a few other learners so that they can help you improve your design
 2. Show your work to a staff member involved in mentorship and volunteering in order to get feeback and improve your work.
 3. Build it in React

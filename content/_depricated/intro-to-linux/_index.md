@@ -12,7 +12,7 @@ todo:
 - https://docs.google.com/presentation/d/1E5ef9FtcQExlMVeKIhXHsG59w78GMIz_Q3zdWBWUdac/edit#slide=id.p
 ---
 
-Linux Ubuntu or Mint will be demonstrated to the recruits. Demonstrate:
+Linux Ubuntu or Mint will be demonstrated to the learners. Demonstrate:
 
 - Command line navigation versus gui based navigation
 - basic command-line commands, man and --help
@@ -24,6 +24,6 @@ Linux Ubuntu or Mint will be demonstrated to the recruits. Demonstrate:
 
 ## Prerequisites for speaker
 
-Whoever is doing ths workshop should be familiar with the exercises given to recruits. Questions will come up, you should be able to answer them.
+Whoever is doing ths workshop should be familiar with the exercises given to learners. Questions will come up, you should be able to answer them.
 
 - {{< contentlink path="projects/linux" >}}
