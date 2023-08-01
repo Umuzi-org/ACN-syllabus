@@ -2,7 +2,7 @@
 content_type: project
 prerequisites:
   hard:
-  - test-driven-development
+  - topics/test-driven-development
   soft: []
 ready: true
 tags:
