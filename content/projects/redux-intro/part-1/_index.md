@@ -59,6 +59,10 @@ Make sure you can dispatch your actions in order to update the state.
 
 ## Some notes on git feature branching
 
-As a professional coder you will need to use your tools wisely. Git is one such tool.
+As a professional coder, you will need to use your tools wisely. Git is one such tool.
 
 Try to make multiple small PRs instead of one giant PR when you are doing your work. If you invite rapid feedback then you unlock rapid learning. How can you set up your code reviewers so that they can review your stuff quickly and easily?
+
+## If you are using React in your project...
+
+...you are doing it wrong. This is a pure Redux project. You don't have to use React just because you are using Redux.

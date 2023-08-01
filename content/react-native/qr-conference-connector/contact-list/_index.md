@@ -2,8 +2,9 @@
 _db_id: 796
 content_type: project
 flavours:
-  - javascript
-  - typescript
+- javascript
+- typescript
+- react
 from_repo: react-native/qr-conference-connector/proof-of-concept
 prerequisites:
   hard:

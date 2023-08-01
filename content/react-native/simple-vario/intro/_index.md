@@ -4,6 +4,7 @@ content_type: project
 flavours:
 - javascript
 - typescript
+- react
 ready: true
 submission_type: repo
 title: Simple variometer

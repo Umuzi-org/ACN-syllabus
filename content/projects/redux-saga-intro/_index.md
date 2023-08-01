@@ -3,6 +3,7 @@ _db_id: 538
 content_type: project
 flavours:
 - javascript
+- typescript
 ready: true
 submission_type: repo
 title: Redux Saga Intro

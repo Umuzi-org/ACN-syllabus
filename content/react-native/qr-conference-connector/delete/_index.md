@@ -4,6 +4,7 @@ content_type: project
 flavours:
 - javascript
 - typescript
+- react
 from_repo: react-native/qr-conference-connector/proof-of-concept
 prerequisites:
   hard:
