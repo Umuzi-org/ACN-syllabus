@@ -4,7 +4,6 @@ content_type: project
 flavours:
 - javascript
 - typescript
-- react
 from_repo: projects/redux-intro/part-1
 prerequisites:
   hard:
