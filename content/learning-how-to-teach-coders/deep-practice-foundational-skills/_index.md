@@ -78,7 +78,7 @@ Get a bit creative:
 - have multiple function calls
 - etc
 
-## List of common coding problems to get across to recruits
+## List of common coding problems to get across to learners
 
 1. return versus print
 2. for loops and 2d arrays

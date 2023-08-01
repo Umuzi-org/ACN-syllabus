@@ -34,7 +34,7 @@ You might end up looking at something a bit like this:
 What you are looking at here is a screenshot of a web browser that is looking at the Takealot home page. Takealot is South Africa's Everything store.
 
 ## The URL
-
+ 
 Every website has a thing called a URL. You can see it at the top left of the picture above. 
 
 A URL is made up of a few parts:

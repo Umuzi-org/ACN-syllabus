@@ -14,7 +14,6 @@ title: Data Science - part 1
 - {{< contentlink path="specific-skill-success-criteria/introduction-to-assessments" >}}
 - {{< contentlink path="specific-skill-success-criteria/functions-and-return" flavour="python" >}}
 - {{< contentlink path="specific-skill-success-criteria/for-loops" flavour="python" >}}
-- {{< contentlink path="projects/morse-code/" flavour="python" >}}
 - {{< contentlink path="language-agnostic/intro-to-hackerrank" flavour="python" >}}
 - {{< contentlink path="workshops/general-coding-best-practices" >}}
 - {{< contentlink path="topics/python-specific/oop-for-python" >}}

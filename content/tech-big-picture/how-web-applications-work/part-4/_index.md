@@ -68,7 +68,7 @@ When Takealot's server receives an HTTPS request then it needs to do the followi
 
 ### Authentication 
 
-The basic idea is that when Takealot's server sends an HTTPS response to a client, it can include a super-secret password as a part of the response. The password would look like a really long and crazy combination of letters and characters and it would be close to impossible to guess.
+The basic idea is that when Takealot's server sends an HTTPS response to a client, it can include a super-secret password as a part of the response. The password would look like a really long and crazy combination of letters and characters and it would be near impossible to guess.
 
 That crazy password then gets saved in the browser. The browser then includes that password in any requests it sends to Takealot's servers.
 

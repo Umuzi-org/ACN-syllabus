@@ -14,7 +14,6 @@ _db_id: 2
 - {{< contentlink path="specific-skill-success-criteria/introduction-to-assessments" >}}
 - {{< contentlink path="specific-skill-success-criteria/functions-and-return" flavour="python" >}}
 - {{< contentlink path="specific-skill-success-criteria/for-loops" flavour="python" >}}
-- {{< contentlink path="projects/morse-code/" flavour="python" >}}
 - {{< contentlink path="language-agnostic/intro-to-hackerrank" flavour="python" >}}
 - {{< contentlink path="workshops/general-coding-best-practices" >}}
 - {{< contentlink path="topics/high-performance-dev-teams" >}}
@@ -43,7 +42,7 @@ _db_id: 2
 - {{< contentlink path="specific-skill-success-criteria/classes-and-objects" flavour="python" >}}
 - {{< contentlink path="projects/data-science-specific/oop-for-data-science" flavour="python" >}}
 - {{< contentlink path="topics/solo-learn/python/10-pythonicness-and-packaging-project" >}}
-- {{< contentlink path="projects/github-api-consume" flavour="python" >}}
+- {{< contentlink path="projects/github-api-consume/part1" flavour="python" >}}
 - {{< contentlink path="projects/data-science-specific/dashboards/plotly_dashboards" flavour="python" >}}
 - {{< contentlink path="sql/shop-project/" >}}
 - {{< contentlink path="projects/data-science-specific/logistic-regression/breast-cancer"  flavour="python" >}}

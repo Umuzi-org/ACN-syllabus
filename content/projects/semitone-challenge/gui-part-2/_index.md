@@ -33,11 +33,10 @@ weight: 4
 
 Extend your simple gui with the following behavior:
 
-1. When the user loads the page for the first time then there should be two notes already displayed on the screen.
-2. Add a button with the text "Reveal answer". If the user clicks on this button then ALL the notes (A, A#, B,...) should be displayed in a div with the id "explanation". The currently selected notes should be highlighted and the final answer should be displayed on the screen.
-3. If the user clicks on the "Get random notes" button then the "explanation" div should be emptied.
-4. If the user submits the correct answer then the "explanation" div should be populated with the currently selected notes highlighted. The user should be congratulated.
-5. Keep track of how many correct answers the user gets in a row and display this answer on the screen. This is referred to as a streak. Have some pseudocode:
+1. Add a button that lets the user give up. If the user clicks on this button then ALL the notes (A, A#, B,...) should be displayed. The currently selected notes should be highlighted and the final answer should be displayed on the screen. The user should clearly see how the answer was calculated.
+2. The user should be able to restart the game and generate new notes. If the game restarts then of course the explanation from (1) should disappear.
+3. If the user submits the correct answer then the "explanation" should be populated with the currently selected notes highlighted. The user should be congratulated.
+4. Keep track of how many correct answers the user gets in a row and display this answer on the screen. This is referred to as a streak. Have some pseudocode:
 
 ```
 user accesses gui for first time
@@ -51,13 +50,3 @@ gui displays: "Streak: 3"
 user gets wrong answer
 gui displays: "Streak: 0"   <<< the streak is reset to zero because the user got the answer wrong
 ```
-
-## Instructions for Reviewer
-- Ensure that when multiple calls have been made to the selectNotes function only two notes are returned.
-- To check if the code contains a bug; call the function twice, have a print statement under it and check if two notes are returned.
-- Make sure the notes always get updated when the select notes button is clicked.
-- The JamBuddy class should still work correctly in the terminal and should not be mixed up with frontend DOM manipulation.
-- Ensure that the spec file contains tests that check the correct distance between the two notes.
-- Ensure that there are no unnecessary copying and pasting of variables. All variables used in different files should be exported and imported correctly.
-- Ensure that the specs also contain DOM manipulation test cases.
-- Ensure that the scorestreak gets incremented by 1 each time when a user gets the correct answer and when the answer is not correct the scorestreak gets reset to 0.

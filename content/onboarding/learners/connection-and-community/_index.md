@@ -23,7 +23,7 @@ This is the Learner Intranet to help you find the information and documents you 
 ![connectionladycouch](Connection_ladycouch.png) ![connectionscreenshot](Connection_Screenshot.png)
 
 Working remotely is intense and can be lovely and lonely all at the same time! That’s why we hold regular connection sessions for you as a cohort and as part of the bigger Umuzi community!
-The best way to meet different recruits and leaders in the organisation in the comfort & safety of your home! These sessions are filled with themed, deep and relevant conversations that will inspire you. 
+The best way to meet different learners and leaders in the organisation in the comfort & safety of your home! These sessions are filled with themed, deep and relevant conversations that will inspire you. 
 
 Let's not forget the fun and games that will get you coming out of your shell in no time!
 

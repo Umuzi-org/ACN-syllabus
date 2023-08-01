@@ -8,7 +8,7 @@ The focus of this session can be _refactoring_ or _debugging_. The leader guides
 
 ## Refactoring
 
-This will be most effective early in the program. Get a piece of working code that is not DRY. It should have a whole bunch of things we don't want recruits to do in it. The goal of the session should be to have the follower identify and fix as many of these issues as possible.
+This will be most effective early in the program. Get a piece of working code that is not DRY. It should have a whole bunch of things we don't want learners to do in it. The goal of the session should be to have the follower identify and fix as many of these issues as possible.
 
 Here is a simple example;
 
@@ -39,7 +39,7 @@ def is_even(integer):
         return False
 ```
 
-As recruits progress through the programme this second type of refactoring should be the main focus. You can cover things like what data structures to use for a given problem/operation, flat vs nested, etc.
+As learners progress through the programme this second type of refactoring should be the main focus. You can cover things like what data structures to use for a given problem/operation, flat vs nested, etc.
 
 ## Debugging
 
@@ -49,4 +49,4 @@ Once the follower clearly understands what the code is meant to do, get them to 
 - if there's an error explain what it means or better have the follower look it up
 - maybe some function is meant to do something with integers but it fails when they are negative, suggest test cases that show this
 
-Once recruits are familiar with TDD this session should basically follow the RGR process.
+Once learners are familiar with TDD this session should basically follow the RGR process.

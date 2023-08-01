@@ -1,5 +1,5 @@
 ---
-title: Copywriting
+title: DEPRICATED - Copywriting
 _db_id: 5
 ---
 

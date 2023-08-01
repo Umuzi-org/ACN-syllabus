@@ -15,6 +15,7 @@ _db_id: 3
 - {{< contentlink path="topics/file-and-directory-naming/javascript" >}}
 - {{< contentlink path="topics/js-and-node-specific/super-basic-intro-to-node" >}}
 - {{< contentlink path="topics/how-to-ask-for-help-with-your-code" >}}
+- {{< contentlink path="javascript-debugging-in-vscode" >}}
 - {{< contentlink path="specific-skill-success-criteria/for-loops" flavour="javascript" >}}
 - {{< contentlink path="projects/katas/level-2" flavour="javascript" >}}
 - {{< contentlink path="language-agnostic/intro-to-hackerrank" flavour="javascript" >}}
@@ -23,7 +24,6 @@ _db_id: 3
 - {{< contentlink path="topics/free-code-camp/responsive-web-design/3-applied-visual-design" >}}
 - {{< contentlink path="topics/intro-to-css-architecture" >}}
 - {{< contentlink path="projects/web-development-website" >}}
-- {{< contentlink path="projects/morse-code/" flavour="javascript" >}}
 - {{< contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/7-object-oriented-programming" >}}
 - {{< contentlink path="topics/jasmine-unit-tests" >}}
 - {{< contentlink path="projects/oop/animals/part2"  flavour="javascript" >}}
@@ -45,5 +45,5 @@ _db_id: 3
 - {{< contentlink path="language-agnostic/validate-id-number" flavour="javascript" >}}
 - {{< contentlink path="sql/shop-project" flavour="" >}}
 - {{< contentlink path="projects/nodejs/express-forms" flavour="javascript" >}}
-- {{< contentlink path="projects/github-api-consume" flavour="javascript" >}}
+- {{< contentlink path="projects/github-api-consume/part1" flavour="javascript" >}}
 - {{< contentlink path="projects/understanding-loops" flavour="javascript" >}}

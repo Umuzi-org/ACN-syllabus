@@ -8,7 +8,7 @@ title: The big picture of tech - course introduction
 This course aims to give quite a broad overview of tech. It is useful for anyone who is interested into getting into the software development industry in any way.
 
 - If you are interested in writing code then knowing how your code relates to the larger ecosystem is a big deal
-- If you want to get into any kind of software engineering management role, then you had better know what you are managing. There are also a lot of pitfalls you'll learn about here. And you had better learn how to communicate effectively with your team
+- If you want to get into any kind of software engineering management role, then you had better know what you are managing. There are also plenty of pitfalls you'll learn about here. And you had better learn how to communicate effectively with your team
 - If you want to get into user interface design then your designs will need to be implemented by someone. A lot of UI/UX designers have no idea what they are asking for when they come up with a design
 - If you have an idea for a world-changing app then it's worth knowing how things actually work 
 

@@ -2,7 +2,7 @@
 _db_id: 928
 content_type: project
 flavours:
-- none
+- markdown
 ready: true
 submission_type: link
 title: Software processes and agile practices

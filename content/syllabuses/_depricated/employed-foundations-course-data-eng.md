@@ -1,6 +1,6 @@
 ---
 _db_id: 76
-title: DEPRECATED Foundations of data eng for employed learners
+title: DEPRECATED - Foundations of data eng for employed learners
 ---
 
 - {{< contentlink path="topics/messaging/bridging-course-intro" >}}
