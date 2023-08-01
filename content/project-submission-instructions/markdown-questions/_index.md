@@ -17,6 +17,25 @@ You can just upload these files into the main branch of your repo. There is no n
 
 The questions should be in the root directory of your repository! If you make extra directories you will be asked to resubmit your work. 
 
+## Each file should have the following format
+
+Each file should look like this:
+
+```
+# The question goes here. Take note of the # symbol
+
+Your answer goes here
+```
+
+For example, if the question was "What are all the colors of the rainbow?"
+
+Then your file should look like this:
+
+```
+# What are all the colors of the rainbow?
+
+The colors of the rainbow are red, orange, yellow, green, blue, indigo and violet.
+```
 ## If you are new to Github and need some help submitting your work
 
 Follow [this  guide](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) to upload your files to your repo.
@@ -33,3 +52,10 @@ Once you have filled in the form you can save your changes by clicking on the "c
 ## If you are not new to github
 
 Please use Git from the command line. Commit early and often.
+
+## IMPORTANT
+
+It is critical that you use your own words when answering written assignments. If you copy-paste from the Internet or your peers then that means:
+
+- you will not absorb the lessons you ned to absorb
+- we will consider you unprofessional and that means your options will be limited and you will get less support

@@ -65,7 +65,7 @@ df.apply(get_percentage, axis = 1) #axis=1 applies the function to all columns
 
 ### Instructions
 
-This data contains [personality scores](personality_scores.csv) for recruits, plus the [department](departments.csv) they applied for.
+This data contains [personality scores](personality_scores.csv) for learners, plus the [department](departments.csv) they applied for.
 
 1. Import the dataset [personality_scores.csv](personality_scores.csv). Examine the data frame for duplicates (based on ID), and drop any duplicates that exist. Use an assert statement to check that the new data frame is the length of the unique entries of the original data frame.
 

@@ -4,6 +4,7 @@ content_type: project
 flavours:
 - javascript
 - typescript
+- react
 from_repo: react-native/simple-vario/intro
 prerequisites:
   hard:

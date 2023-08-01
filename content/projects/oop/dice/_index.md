@@ -3,6 +3,11 @@ _db_id: 227
 content_type: project
 flavours:
 - any_language
+prerequisites:
+  hard:
+  - projects/tdd/simple-calculator-part1
+  - projects/oop/animals/part3
+  soft: []
 ready: true
 submission_type: repo
 tags:

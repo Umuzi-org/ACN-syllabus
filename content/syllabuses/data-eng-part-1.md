@@ -17,7 +17,6 @@ _db_id: 4
 - {{< contentlink path="code_comments/introduction-to-code-commenting" >}}
 - {{< contentlink path="code_comments/code-comments" >}}
 - {{< contentlink path="projects/katas/level-2" flavour="python" >}}
-- {{< contentlink path="projects/morse-code/" flavour="python" >}}
 - {{< contentlink path="language-agnostic/intro-to-hackerrank" flavour="python" >}}
 - {{< contentlink path="workshops/general-coding-best-practices" >}}
 - {{< contentlink path="topics/python-specific/automated-testing-with-pytest" >}}

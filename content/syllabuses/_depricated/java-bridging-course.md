@@ -1,5 +1,5 @@
 ---
-title: DEPRICATED Java Bridging Course
+title: DEPRICATED - Java Bridging Course
 _db_id: 22
 ---
 

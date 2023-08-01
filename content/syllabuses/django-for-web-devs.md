@@ -10,7 +10,6 @@ _db_id: 31
 - {{< contentlink path="topics/python-specific/oop-for-python" >}}
 - {{< contentlink path="topics/python-specific/automated-testing-with-pytest" >}}
 - {{< contentlink path="topics/clean-code/python" >}}
-- {{< contentlink path="projects/basic-unit-test-mocks-kata" flavour="python" >}}
 - {{< contentlink path="projects/oop/animals/part2" flavour="python" >}}
 
 - {{< contentlink path="projects/django-airbnb-clone/users-can-crud-properties" flavour="django" >}}

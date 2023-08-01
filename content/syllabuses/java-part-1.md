@@ -17,7 +17,6 @@ _db_id: 7
 - {{< contentlink path="code_comments/introduction-to-code-commenting" >}}
 - {{< contentlink path="code_comments/code-comments" >}}
 - {{< contentlink path="projects/katas/level-2" flavour="java" >}}
-- {{< contentlink path="projects/morse-code/" flavour="java" >}}
 - {{< contentlink path="language-agnostic/intro-to-hackerrank" flavour="java" >}}
 - {{< contentlink path="topics/solo-learn/java/4-classes-and-objects" >}}
 - {{< contentlink path="specific-skill-success-criteria/classes-and-objects" flavour="java" >}}
@@ -30,5 +29,5 @@ _db_id: 7
 - {{< contentlink path="projects/tdd/password-checker/part1" flavour="java" >}}
 - {{< contentlink path="language-agnostic/validate-id-number" flavour="java" >}}
 - {{< contentlink path="sql/shop-project" flavour="" >}}
-- {{< contentlink path="projects/github-api-consume" flavour="java" >}}
+- {{< contentlink path="projects/github-api-consume/part2" flavour="java" >}}
 - {{< contentlink path="projects/understanding-loops" flavour="java" >}}

@@ -6,6 +6,8 @@ flavours:
 prerequisites:
   hard:
   - projects/tdd/simple-calculator-part1
+  - topics/data_validation_and_verification
+  - topics/regular-expressions
   soft: []
 ready: true
 submission_type: repo
@@ -31,11 +33,11 @@ Make sure that the `node_modules` are in your `.gitignore` file.
 ├── spec/
 |   ├── support/
 |   |   └── jasmine.json
-|   └── string_calculator_spec.js
+|   └── ???
 └── package.json
 ```
 
-**Note**: Please export your `add` function using the following syntax at the end of the code:
+**Note**: Please export your function using the following syntax at the end of the code:
 
 ```
 module.exports = {functionName}
@@ -43,7 +45,9 @@ module.exports = {functionName}
 
 ### Python
 
-Your project is expected to be completed using pytest. You are expected to follow industry best practices in all things. This means that you need to have a directory structure that is in good shape. Please name your files and folders like this:
+Your project is expected to be completed using pytest. 
+
+Please name your files and folders like this:
 
 ```py
 ├── string_calculator   # the package under test
@@ -51,7 +55,7 @@ Your project is expected to be completed using pytest. You are expected to follo
 ├── requirements.txt    # installation requirements
 ├── setup.py            # installation script for the package under test
 └── tests               # all package tests go in this directory
-    └── test_string_calculator.py
+    └── ???
 ```
 
 Please take a look at this topic to see an explanation of the required directory structure.
@@ -59,29 +63,37 @@ Please take a look at this topic to see an explanation of the required directory
 
 ### Java
 
-Please use junit to test your code https://www.guru99.com/junit-test-framework.html
+The code you push to git should have the following structure:
+
 
 ```
-├── src
-    └── main
-    |   └── java
-    |       └── StringCalculator
-    |       └── Main
+├── build.gradle
+├── gradle
+│   └── wrapper
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
+├── gradlew
+├── gradlew.bat
+├── settings.gradle
+└── src
+    ├── main
+    |   └── java
+    |       └── StringCalculator.java <-------- names are important
     └── test
         └── java
-           └── StringCalculatorTest
+            └── ???.java             <-------- names are important
 
 ```
 
 ## Instructions
 
-Before you commence, first read through {{< contentlink path="/topics/data_validation_and_verification/" >}}. Upon completion, read through {{< contentlink path="/topics/regular-expressions/" >}}.
-
 Please note that this project should be done in a TDD manner.
 
-#### 1. Create an add function that can handle up to two integers passed in as a string
+### 1. Create an add function that can handle up to two integers passed in as a string
 
-Create a function called `add` that takes in a string as a parameter and behaves in the following way:
+The `add` function should take in one string parameter and return an integer.
+
+**Note:** This is a TDD project. That means that you should write a test, then get that test to pass, then write the next test, etc. 
 
 ```
 add("")
@@ -98,9 +110,7 @@ add("1,1")
 
 ```
 
-**Note:** The output that the function returns should be an integer and not a string.
-
-#### 2. Modify the add function to handle multiple integers
+### 2. Modify the add function to handle multiple integers
 
 ```
 add("1,2,3,4")
@@ -121,14 +131,14 @@ add("1,1")
 
 As you keep adding more functionality to your code always make sure that the previous functionality you implemented still works flawlessly. Keep this in mind as you continue to modify your code.
 
-#### 3. Modify the add function so that it can handle newlines between integers
+### 3. Modify the add function so that it can handle newlines between integers
 
 ```
 add("1\n2,3" )
 // should return 6
 ```
 
-#### 4. Modify the add function so that it can handle custom delimiters
+### 4. Modify the add function so that it can handle custom delimiters
 
 Delimiters will be specified in the following manner:
 
@@ -175,7 +185,7 @@ add("//4\n4342434")
 
 They are considered invalid and more will be dealt with in part 2 of the project.
 
-#### 5. Modify the add function so that it can handle negative integers
+### 5. Modify the add function so that it can handle negative integers
 
 If a negative number is passed into the add function it should throw this error/exception:
 `negatives not allowed {comma separated list of negative integers found}`
@@ -192,7 +202,7 @@ add("-1,-2,3,4")
 
 **Python:** Raise an appropriate exception type. Using the base Exception isn't good practice. Here are [errors](https://www.tutorialsteacher.com/python/error-types-in-python) that can be raised.
 
-#### 6. Modify the add function so that it can support delimiters of any length
+### 6. Modify the add function so that it can support delimiters of any length
 
 As long as the string passed in satisfies this format, "//[delimiter]\n[integers...]", which was explained above. The add function should be able to handle it.
 For example:
@@ -217,15 +227,11 @@ add("//***\n1***2***3***")
 add("//***\n***1***2***3***")
 
 ```
-
-### Why is this important?
-
-- If you are wondering, "Why is this so important!?" take a look at {{< contentlink path="/topics/data_validation_and_verification/" >}}
-
 ## Instructions for reviewers
 
-- Proper TDD to be followed. Mocks and Spies are not needed for this project.
-- Proper error handling to be used. No `print`/`console.log`. an exception is to be thrown when needed and a value returned when needed.
+- Proper TDD to be followed
+- Mocks and Spies are not needed for this project.
+- Proper error handling to be used. No `print`/`console.log`. An exception is to be thrown when needed and a value returned when needed.
 - Ensure that the add function takes a string as an argument.
 - The function that needs to be constantly updated is the `add()` function. It is even better if the `add()` function relies on other tiny functions.
-- An understanding of regular expressions should be demonstrated within the project.
+- An understanding of regular expressions should be demonstrated within the project

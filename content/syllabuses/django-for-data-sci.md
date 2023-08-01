@@ -11,6 +11,5 @@ _db_id: 32
 - {{< contentlink path="projects/django-airbnb-clone/data-export-script" flavour="django" >}}
 - {{< contentlink path="projects/django-airbnb-clone/rest-endpoints" flavour="django" >}}
 - {{< contentlink path="projects/django-airbnb-clone/visualisations-with-plotly-js" flavour="django" >}}
-- {{< contentlink path="projects/basic-unit-test-mocks-kata" flavour="python" >}}
 - {{< contentlink path="projects/django-airbnb-clone/rest-endpoints" flavour="django" >}}
 - {{< contentlink path="projects/django-airbnb-clone/users-can-crud-properties" flavour="django" >}}

@@ -26,7 +26,7 @@ If a vowel appears twice in the input string then it should appear twice in the 
 
 - if you are using Python then your function should return a List 
 - if you are writing Javascript then your function should return an Array
-- if you are writing Java then your function should return an Array of Strings
+- if you are writing Java then your function should return an Array of Chars
 
 ## Example usage
 

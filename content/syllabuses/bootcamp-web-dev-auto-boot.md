@@ -26,5 +26,4 @@ Things after this point are not strictly part of the bootcamp. It's extra stuff 
 - {{< contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/7-object-oriented-programming"  >}}
 - {{< contentlink path="projects/oop/animals/part1"  flavour="javascript" >}}
 - {{< contentlink path="projects/simple-website" >}}
-- {{< contentlink path="projects/morse-code" flavour="javascript" >}}
-- {{< contentlink path="projects/tdd/password-checker/part2" flavour="javascript" >}}
+- {{< contentlink path="projects/tdd/password-checker/part1" flavour="javascript" >}}
