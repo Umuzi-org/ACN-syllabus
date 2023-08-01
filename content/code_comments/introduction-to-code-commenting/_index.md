@@ -34,7 +34,7 @@ In programming, comments play a crucial role in code documentation. They provide
   # - numbers: A list of integers
   # Returns:
   # - The sum of all integers in the list
-  function calculate_sum(numbers):
+  def calculate_sum(numbers):
       sum = 0
       for num in numbers:
           sum += num
