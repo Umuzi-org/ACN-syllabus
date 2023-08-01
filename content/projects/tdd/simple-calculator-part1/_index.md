@@ -10,6 +10,7 @@ learning_outcomes:
 pre: '<b>EASY: </b>'
 prerequisites:
   hard:
+  - topics/test-driven-development-questions
   - topics/test-driven-development
   soft: []
 ready: true

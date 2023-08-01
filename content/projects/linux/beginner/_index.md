@@ -45,10 +45,10 @@ Create an empty file named `exercise.md` and move this file to the `/tmp` di
 
 ### Task 3 : cat commands
 
-1. Create 3 files namely `umuzi.md`, `recruits.md` and `cohort.md`.
+1. Create 3 files namely `umuzi.md`, `learners.md` and `cohort.md`.
 2. Fill all 3 files with contents of your choice. Maybe some nice poems about you MUB experience.
-3. Write a script that concatenates the content of `umuzi.md`, `recruit.md`, `cohort.md` and displays the result on the screen.
-4. Write a script that takes the content of `umuzi.md`, `cohort.md` and `recruits.md` to print/store the output into a new file named `summary.md`.
+3. Write a script that concatenates the content of `umuzi.md`, `learners.md`, `cohort.md` and displays the result on the screen.
+4. Write a script that takes the content of `umuzi.md`, `cohort.md` and `learners.md` to print/store the output into a new file named `summary.md`.
 5. use the command line to append the words "The End" to `summary.md`. Be careful not to overwrite the exiting contend
 
 #### Resources

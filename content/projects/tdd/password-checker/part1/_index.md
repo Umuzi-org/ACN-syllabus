@@ -30,8 +30,7 @@ Your directory structure should look like this.
 ├── spec
 |   ├── support
 |   |   └── jasmine.json
-|   └── password_is_valid_spec.js
-|   └── password_strength_spec.js
+|   └── ???
 ├── src
 |   └── password_checker.js
 └── package.json
@@ -53,8 +52,8 @@ Your project is expected to be completed using `pytest`. You are expected to fol
 ├── requirements.txt    installation requirements
 ├── setup.py            installation script for the package under test
 └── tests               all package tests go in this directory
-    ├── test_password_is_valid.py
-    └── test_password_strength.py
+    ├── ???
+
 ```
 
 Please take a look at this topic to see an explanation of the required directory structure.
@@ -84,44 +83,19 @@ The code you push to git should have the following structure:
 
 Please refer to the following to find out more: {{< contentlink path="topics/java-specific/project-submission-requirements" >}}
 
-## Implement a function for checking if a password is valid
+## Implement a function that calculates the strength of a password
 
-Implement the following function by following a TDD methodology:
+Here are criteria that are used for judging the strength of a password:
 
-```
-// JavaScript:
-passwordIsValid(password)
-```
-
-```
-// Java:
-passwordIsValid(password)
-```
-
-```
-# Python:
-password_is_valid(password)
-```
-
-The `password is valid` function will check if the password meets a few different conditions. If all conditions are met then it must return `true` . If one of the below conditions is not met then it must raise/throw and Exception/Error.
-
-If you are working in Python then make use of a ValueError. You can refer to [this resource](https://www.tutorialsteacher.com/python/error-types-in-python) to learn a bit more about the different types of Exceptions in Python.
-
-Your error/exception message should match one of the following conditions exactly (word-for-word).
-
-1. password should exist
+1. password should not be blank
 2. password should be longer than 8 characters
 3. password should have at least one lowercase letter
 4. password should have at least one uppercase letter
 5. password should have at least one digit
-6. password should have at least one special character
+6. password should have at least one special character. a special character is a character that is on the keyboard but is not a number or letter. Eg: `{ % & * " '` etc.
 7. password should have at least one whitespace character
 
-In the case of (6) above, a special character is a character that is on the keyboard but is not a number or letter. Eg: `{ % & * " '` etc.
-
-## Implement a function that calculates the strength of a password
-
-Next, implement a function called `password strength`:
+Create a function called `password strength`
 
 This function should count the number of conditions met and then return a string that describes the strength of the password. 
 
@@ -130,25 +104,10 @@ This function should count the number of conditions met and then return a string
 - If number of conditions met == 3: return "weak"
 - If conditions 1 or 2 are not met: return "invalid"
 
-## Note on DRY code
 
-Please don't re-implement the same check in two different places. Good code is DRY. Every piece of knowledge should only be represented once in your code.
 
-## JS resources
 
-- [JS Errors](https://www.w3schools.com/js/js_errors.asp)
-- [Errors and Jasmine](https://stackoverflow.com/questions/4144686/how-to-write-a-test-which-expects-an-error-to-be-thrown-in-jasmine)
-
-## Python resources
-
-- [Python Errors](https://www.codementor.io/sheena/how-to-write-python-custom-exceptions-du107ufv9?referral=sheena-kvo1e6ewh)
-- [Exceptions and Pytest](https://stackoverflow.com/questions/23337471/how-to-properly-assert-that-an-exception-gets-raised-in-pytest)
-
-## Java resources
-
-- https://howtodoinjava.com/junit5/expected-exception-example/
 
 ## Instructions for reviewers
 
 - For password strength, make sure cases of invalid passwords are checked, for example these passwords are both invalid; `P@ssw 12`, `User1@`.
-- Actual passwords should never be printed to the terminal, for example, in assert messages or when raising exceptions.

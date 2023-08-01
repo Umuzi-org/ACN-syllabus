@@ -28,7 +28,7 @@ This is similar to how you would work with real databases later in life. You'll 
 
 ### Using your dev database:
 
-1. Write some sql alchemy models to describe a Recruit. A recruit has the following attributes:
+1. Write some sql alchemy models to describe a learner. A learner has the following attributes:
 
 - first name
 - surname
@@ -37,7 +37,7 @@ This is similar to how you would work with real databases later in life. You'll 
 - id number
 
 2. Create some migrations and run them against your dev database. Take a look inside the migration files - you won't necessarily ever need to write these things yourself, but it's good to be able to look at them and see what they mean.
-3. Write a small script called "create_recruits.py" that adds some new recruits to the database and run it against your dev database, just invent this information.
+3. Write a small script called "create_learners.py" that adds some new learners to the database and run it against your dev database, just invent this information.
 4. Add a new column to your sqlalchemy model for `personal_email_address`. Set it to be a required field, and must be unique.
 5. Make your migrations again and run them. This step won't go smoothly - you'll need to do it in a few steps.
 6. Look at your migration files, they should make sense.
@@ -45,7 +45,7 @@ This is similar to how you would work with real databases later in life. You'll 
 ### Using your production database
 
 1. Run all your migrations.
-2. Update your create_recruits script to add personal_email_address values, then run it against the prod database.
+2. Update your create_learners script to add personal_email_address values, then run it against the prod database.
 
 This should have been quite smooth
 
@@ -72,12 +72,12 @@ Using your dev db:
 3. Now create your migrations and look at the changes. Are there any changes? What will happen if you run your migrations?
 4. Now go to your models and add a required cohort column.
 5. Create your migrations and look at the changes. Did anything happen?
-6. Now make a new script called "create_c26_recruits.py". Use it to add 5 random C26 recruits to your database.
+6. Now make a new script called "create_c26_learners.py". Use it to add 5 random C26 learners to your database.
 7. Run your script on your development database.
 8. Now run your migrations against your prod database. What happened?
-9. Run create_c26_recruits against your prod database. What happened?
+9. Run create_c26_learners against your prod database. What happened?
 
-Do whatever it takes to get it to work... you might need to checkout an earlier commit. At the end, you'll have the C26 recruits in the prod database.
+Do whatever it takes to get it to work... you might need to checkout an earlier commit. At the end, you'll have the C26 learners in the prod database.
 
 Rules: Don't delete any data in your production database! But you can completely delete your dev database if you wanted to.
 
@@ -93,9 +93,9 @@ Using your dev db:
 6. Create a new script to create some C27s and run it against your dev db.
 7. Run your script on your development database.
 8. Now run your migrations against your prod database. What happened?
-9. Run create_c27_recruits against your prod database. What happened?
+9. Run create_c27_learners against your prod database. What happened?
 
-Do whatever it takes to get it to work... you might need to checkout an earlier commit. By the end you'll have the C27 recruits in the prod database.
+Do whatever it takes to get it to work... you might need to checkout an earlier commit. By the end you'll have the C27 learners in the prod database.
 
 Rules: Don't delete any data in your production database! But you can completely delete your dev database if you wanted to.
 
@@ -111,17 +111,17 @@ Using your dev db:
 6. Create a new script to create some C28s and run it against your dev db.
 7. Run your script on your development database.
 8. Now run your migrations against your prod database. What happened?
-9. Run create_c28_recruits against your prod database. What happened?
+9. Run create_c28_learners against your prod database. What happened?
 
-Do whatever it takes to get it to work... you might need to checkout an earlier commit. By the end you'll have the C28 recruits in the prod database.
+Do whatever it takes to get it to work... you might need to checkout an earlier commit. By the end you'll have the C28 learners in the prod database.
 
 Rules: Don't delete any data in your production database! But you can completely delete your dev database if you wanted to.
 
 ## Submission instructions
 
-For this project we will need you to commit your migrations to your feature branches. The migrations should get your database to a point where the recruit and cohort tables are both set up properly.
+For this project we will need you to commit your migrations to your feature branches. The migrations should get your database to a point where the learner and cohort tables are both set up properly.
 
-We'll also need you to give us a bunch of working scripts for creating recruits.
+We'll also need you to give us a bunch of working scripts for creating learners.
 
 ## How to migrate safely when it comes to real projects
 

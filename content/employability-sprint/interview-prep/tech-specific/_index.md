@@ -81,7 +81,7 @@ Lots of companies only do these after you’ve done “well enough” on an auto
 In this section, we’ll explore some of the softer skills and live-interview techniques that will make a difference during in-person technical interviews. 
 
 ### Talking About Your Experiences + Portfolio
-This is a very important part as it is a visual representation of the skills that a recruit/junior has.
+This is a very important part as it is a visual representation of the skills that a learner/junior has.
 
 Most companies ask, for example, for a link to the candidate’s repo to see their work.
 - Know your CV incredibly well. Chances are you will be asked to talk about the work you've done.

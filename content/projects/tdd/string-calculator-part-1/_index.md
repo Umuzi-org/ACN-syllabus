@@ -33,7 +33,7 @@ Make sure that the `node_modules` are in your `.gitignore` file.
 ├── spec/
 |   ├── support/
 |   |   └── jasmine.json
-|   └── string_calculator_spec.js
+|   └── ???
 └── package.json
 ```
 
@@ -55,7 +55,7 @@ Please name your files and folders like this:
 ├── requirements.txt    # installation requirements
 ├── setup.py            # installation script for the package under test
 └── tests               # all package tests go in this directory
-    └── test_string_calculator.py
+    └── ???
 ```
 
 Please take a look at this topic to see an explanation of the required directory structure.

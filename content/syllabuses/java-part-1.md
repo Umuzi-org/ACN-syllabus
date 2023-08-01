@@ -15,7 +15,6 @@ _db_id: 7
 - {{< contentlink path="topics/clean-code" >}}
 - {{< contentlink path="topics/how-to-ask-for-help-with-your-code" >}}
 - {{< contentlink path="projects/katas/level-2" flavour="java" >}}
-- {{< contentlink path="projects/morse-code/" flavour="java" >}}
 - {{< contentlink path="language-agnostic/intro-to-hackerrank" flavour="java" >}}
 - {{< contentlink path="topics/solo-learn/java/4-classes-and-objects" >}}
 - {{< contentlink path="specific-skill-success-criteria/classes-and-objects" flavour="java" >}}

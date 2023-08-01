@@ -86,7 +86,7 @@ If the instructions tell you to return a list or array then the correct thing to
 Your directory structure should look like this:
 
 ```
-└── src
+└── shopping_cart
     └── shopping_cart.py
 ```
 
