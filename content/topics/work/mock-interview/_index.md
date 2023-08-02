@@ -7,7 +7,7 @@ title: Mock Interviews
 
 DEPRICATED
 
-As a recruit mock interviews are done so to give you a glimpse of what you can expect from a real
+As a learner mock interviews are done so to give you a glimpse of what you can expect from a real
 life interview. This is a great way to prepare you of what is to come.
 
 The Mock Interview Process also invloves the following as we try to make it as realistic as possible.
@@ -64,7 +64,7 @@ Some examples of questions to help you prepare
 
 #### Talking about experiences and portfolio
 
-This is a very important part as it is a visual representation of the skills that a recruit/junior has.
+This is a very important part as it is a visual representation of the skills that a learner/junior has.
 Most companies ask for example for a link to the candidates repo to see their work.
 
 - Know your CV very well,chances are you will be asked to talk about the work you've done.

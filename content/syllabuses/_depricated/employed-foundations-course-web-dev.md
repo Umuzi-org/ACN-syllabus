@@ -1,6 +1,6 @@
 ---
 _db_id: 75
-title: Foundations of web dev for employed learners
+title: DEPRICATED - Foundations of web dev for employed learners
 ---
 
 - {{< contentlink path="topics/messaging/bridging-course-intro" >}}

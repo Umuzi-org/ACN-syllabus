@@ -7,4 +7,4 @@ title: Topics
 weight: 3
 ---
 
-A topic is a collection of learning materials that the recruit can go through on their own.
+A topic is a collection of learning materials that the learner can go through on their own.

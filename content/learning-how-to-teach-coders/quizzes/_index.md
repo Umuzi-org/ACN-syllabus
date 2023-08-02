@@ -28,9 +28,9 @@ Even if the follower correctly answers, you should still poke a bit.
 
 The leader should always take the opportunity to engage the follower. Ask follow ups, link it to a particular project, or give context around something. For example mutable vs immutable data structures; once you're sure someone understands the difference between them, you could give context as why certain structures are useful.
 
-Dont ask the follower simple yes and no questions, questions that will make them guess the answer, rather give them something that will make them think, understand and learn from their mistakes. Remember to help the recruit understand and learn, do not give them the answer straight away let them try and find it themselves, rather guide them and point them in the right direction.
+Dont ask the follower simple yes and no questions, questions that will make them guess the answer, rather give them something that will make them think, understand and learn from their mistakes. Remember to help the learner understand and learn, do not give them the answer straight away let them try and find it themselves, rather guide them and point them in the right direction.
 
-If recruits are struggling with some concepts and cannot think of solutions to breaking problems down take them back to the basic concepts and see if they understand everything, if they have a good understanding of the basics then the main focus for them should be to practice and learn problem solving techniques.
+If learners are struggling with some concepts and cannot think of solutions to breaking problems down take them back to the basic concepts and see if they understand everything, if they have a good understanding of the basics then the main focus for them should be to practice and learn problem solving techniques.
 
 ## Resources
 - [Python Quizzes](https://realpython.com/quizzes/)

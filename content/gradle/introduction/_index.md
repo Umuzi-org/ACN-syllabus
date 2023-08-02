@@ -35,4 +35,5 @@ First you'll be asked what type of project you'll want to generate. Generally `a
 
 You'll be asked a few more questions, you can just use the defaults for most things unless you are doing something unusual. 
 
+
 When it asks you for a "project name" then make sure you enter something sensible. If you have been asked to use Gradle in one of your syllabus projects then please read the project instructions to see what the "project name" should be.

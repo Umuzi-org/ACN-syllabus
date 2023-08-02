@@ -5,9 +5,9 @@ ready: true
 title: TDD Horrors
 ---
 
-These are all the most common TDD problems recruits tend to come across, read and make sure you didn't make any of these or any mistakes at all.
+These are all the most common TDD problems learners tend to come across, read and make sure you didn't make any of these or any mistakes at all.
 
-- **Write tests**. Recruits in the past have done the mistake of not writing tests for TDD assignments, make sure you avoid this weird mistake. Always write tests for your TDD projects.
+- **Write tests**. Learners in the past have done the mistake of not writing tests for TDD assignments, make sure you avoid this weird mistake. Always write tests for your TDD projects.
 - Please make sure you understand .gitignore, please don't add your node_modules to git.
 - Name your files according to what is inside them
 - Avoid making tests depend on each other. Making test dependent on each other is the perfect path to pain, expense, fragility, and complication.

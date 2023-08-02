@@ -1,5 +1,5 @@
 ---
-title: UI design
+title: DEPRICATED - UI design
 _db_id: 6
 ---
 
