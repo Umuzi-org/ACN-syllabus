@@ -11,7 +11,7 @@ tags:
 title: Solo Learn - Java - Module 1 - Basic Concepts -  Deprecated
 ---
 
-Complete the above mentioned module on Solo Learn
+Complete the above mentioned module on Solo Learn.
 
 https://www.sololearn.com/Course/Java/
 
