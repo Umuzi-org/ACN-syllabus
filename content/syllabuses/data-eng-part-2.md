@@ -8,6 +8,7 @@ title: Data Engineering - part 2
 - {{< contentlink path="projects/tdd/password-checker/part1" flavour="python" >}}
 - {{< contentlink path="docker/intro-to-docker/" >}}
 - {{< contentlink path="projects/tdd/string-calculator-part-1" flavour="python" >}}
+- {{< contentlink path="projects/oop/bank-accounts/part-1" flavour="javascript" >}}
 - {{< contentlink path="topics/python-specific/exception-handling" >}}
 - {{< contentlink path="topics/python-specific/decorators-intro" >}}
 - {{< contentlink path="projects/email-inspirational-quote/part-4" flavour="python" >}}
@@ -23,3 +24,4 @@ title: Data Engineering - part 2
 - {{< contentlink path="projects/dags-with-airflow" flavour="python" >}}
 - {{< contentlink path="topics/data-infrastructure/choosing-a-task-queue" >}}
 - {{< contentlink path="topics/optimizations-and-big-o/" >}}
+- {{< contentlink path="projects/oop/bank-accounts/part-2" flavour="python" >}}

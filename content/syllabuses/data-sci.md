@@ -40,6 +40,7 @@ _db_id: 2
 - {{< contentlink path="projects/data-science-specific/multivariate-linear-regression" flavour="python" >}}
 - {{< contentlink path="projects/oop/animals/part1"  flavour="python" >}}
 - {{< contentlink path="specific-skill-success-criteria/classes-and-objects" flavour="python" >}}
+- {{< contentlink path="projects/oop/bank-accounts/part-1" flavour="python" >}}
 - {{< contentlink path="projects/data-science-specific/oop-for-data-science" flavour="python" >}}
 - {{< contentlink path="topics/solo-learn/python/10-pythonicness-and-packaging-project" >}}
 - {{< contentlink path="projects/github-api-consume/part1" flavour="python" >}}
