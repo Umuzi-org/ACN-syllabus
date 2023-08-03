@@ -13,10 +13,20 @@ In programming, comments play a crucial role in code documentation. They provide
 - Purposeful Explanation: A good comment serves the purpose of explaining complex logic, algorithms, or business rules. It provides insights into the code's functionality and helps other developers understand the intentions behind certain decisions.
 
   ```python
-  # Function to calculate the factorial of a number using recursion
-  # This approach utilizes the mathematical definition of factorial
-  # and may cause a stack overflow for large input values.
   def factorial_recursive(n):
+      """
+      Calculate the factorial of a non-negative integer using recursion.
+
+      Args:
+          n (int): The non-negative integer for which to calculate the factorial.
+
+      Returns:
+          int: The factorial of the input integer 'n'.
+
+      Notes:
+          - This function uses recursion and follows the mathematical definition of factorial.
+          - Be cautious when using large input values, as it may cause a stack overflow.
+      """
       if n == 0:
           return 1
       else:
@@ -29,12 +39,25 @@ In programming, comments play a crucial role in code documentation. They provide
 - Clarity and Readability: A good comment is clear, concise, and easy to read. It uses proper grammar, punctuation, and formatting conventions. Well-structured comments make it easier for developers to follow the code and comprehend its meaning.
 
   ```python
-  # Function to calculate the sum of integers in a list
-  # Parameters:
-  # - numbers: A list of integers
-  # Returns:
-  # - The sum of all integers in the list
   def calculate_sum(numbers):
+      """
+      Calculate the sum of integers in a given list.
+
+      Parameters:
+          numbers (list of int): A list of integers.
+
+      Returns:
+          int: The sum of all integers in the list.
+
+      Example:
+          >>> numbers = [1, 2, 3, 4, 5]
+          >>> calculate_sum(numbers)
+          15
+
+      Notes:
+          - This function iterates through the list and adds each integer to the sum.
+          - The function returns 0 if the list is empty.
+      """
       sum = 0
       for num in numbers:
           sum += num
@@ -61,12 +84,11 @@ In programming, comments play a crucial role in code documentation. They provide
 
   > In this example, the comment explains the purpose of the code, which is to calculate the total price of items in a shopping cart and apply a discount if the total price exceeds the spending limit. It clarifies the logic behind the code and provides insight into the discount calculation, which might not be immediately obvious from the code itself. The comment adds relevant information that helps other developers understand the intention and behaviour of the code segment.
 
-- Updates with Code Changes: A good comment is maintained and updated alongside the code. If the code undergoes modifications, the corresponding comments should be reviewed and revised to ensure they accurately reflect the updated logic.
+- Updates with Code Changes: A good comment is maintained and updated alongside the code. If the code undergoes modifications, the corresponding comments should be reviewed and revised to ensure they accurately reflect the updated logic. If you add too many unnecessary comments then those comments would need to be maintained. So it's better to write self-documenting code as much as possible so that you need to maintain fewer comments.
 
   ```javascript
-  // Function to calculate the factorial of a number using recursion
-  // This approach utilizes the mathematical definition of factorial
-  // and may cause a stack overflow for large input values.
+  // Function to calculate the factorial of a number
+  // Negative numbers are not supported
   function factorialRecursive(n) {
     if (n === 0) {
       return 1;
@@ -75,9 +97,8 @@ In programming, comments play a crucial role in code documentation. They provide
     }
   }
 
-  // Updated version of the function to handle negative inputs as well
-  // This approach now includes a base case for negative numbers
-  // to prevent infinite recursion.
+  // Function to calculate the factorial of a number
+  // Negative numbers are supported
   function factorialRecursive(n) {
     if (n < 0) {
       throw new Error("Factorial is not defined for negative numbers.");
