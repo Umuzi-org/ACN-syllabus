@@ -33,23 +33,29 @@ charlie.save() # results in visitor_charley_sheen.json
 
 Notice that the full name used in the file is all lower-case and spaces are replaced by underscores.
 
-3. Create a method called `load` that takes in a name and then grabs a Visitor object from file. It should return the visitors instance.
+3. Create a method called `load` that takes in a name and then grabs a Visitor object from the file. It should return a Visitor instance.
 
 For example:
 
 ```
-Visitor.load("Alice Cooper")
-# returns all of Alice's goodies
+Visitor.load("Alice Cooper") 
+# returns a Visitor instance
 
 Visitor.load("Bob Marley")
-# Same deal for good ol Bob
+# Same deal for good ol' Bob
 ```
+
+Take note that the `load` function should be attached to the `Visitor` class, `load` is not a standalone function.
 
 ## Resources
 
-- [Working With Files in Python](https://realpython.com/working-with-files-in-python/)
 - [JSON](https://www.w3schools.com/js/js_json_intro.asp): Make sure you understand everything up to the end of "JSON Arrays"
+
+### Python 
+
+- [Working With Files in Python](https://realpython.com/working-with-files-in-python/)
 - [Python JSON package](https://www.w3schools.com/python/python_json.asp)
+
 
 ## Up for a challenge?
 
