@@ -5,7 +5,7 @@ flavours:
 - none
 prerequisites:
   hard:
-  - topics/solo-learn/python/10-pythonicness-and-packaging
+  - _depricated/python-sololearn/10-pythonicness-and-packaging
   soft: []
 ready: true
 submission_type: link

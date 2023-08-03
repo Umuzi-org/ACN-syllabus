@@ -5,7 +5,7 @@ flavours:
 - none
 prerequisites:
   hard:
-  - topics/solo-learn/python/3-control-structures
+  - _depricated/python-sololearn/3-control-structures
   soft: []
 ready: true
 tags:

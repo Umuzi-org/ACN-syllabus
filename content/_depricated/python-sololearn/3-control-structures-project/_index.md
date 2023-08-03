@@ -5,8 +5,8 @@ flavours:
 - none
 prerequisites:
   hard:
-  - topics/solo-learn/python/1-basic-concepts-project
-  - topics/solo-learn/python/3-control-structures
+  - _depricated/python-sololearn/1-basic-concepts-project
+  - _depricated/python-sololearn/3-control-structures
   soft: []
 ready: true
 submission_type: link

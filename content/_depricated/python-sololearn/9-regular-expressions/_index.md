@@ -5,7 +5,7 @@ flavours:
 - none
 prerequisites:
   hard:
-  - topics/solo-learn/python/8-oop
+  - _depricated/python-sololearn/8-oop
   soft: []
 ready: true
 tags:

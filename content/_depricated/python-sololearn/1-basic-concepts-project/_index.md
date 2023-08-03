@@ -5,7 +5,7 @@ flavours:
 - none
 prerequisites:
   hard:
-  - topics/solo-learn/python/1-basic-concepts
+  - _depricated/python-sololearn/1-basic-concepts
   soft: []
 ready: true
 submission_type: link

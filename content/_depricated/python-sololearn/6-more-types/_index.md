@@ -5,7 +5,7 @@ flavours:
 - none
 prerequisites:
   hard:
-  - topics/solo-learn/python/5-exceptions-and-files
+  - _depricated/python-sololearn/5-exceptions-and-files
   soft: []
 ready: true
 tags:

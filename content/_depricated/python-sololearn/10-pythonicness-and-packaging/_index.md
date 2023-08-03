@@ -3,7 +3,7 @@ _db_id: 776
 content_type: topic
 prerequisites:
   hard:
-  - topics/solo-learn/python/9-regular-expressions
+  - _depricated/python-sololearn/9-regular-expressions
   soft: []
 ready: true
 tags:

@@ -3,7 +3,7 @@ _db_id: 773
 content_type: topic
 prerequisites:
   hard:
-  - topics/solo-learn/python/6-more-types
+  - _depricated/python-sololearn/6-more-types
   soft: []
 ready: true
 tags:

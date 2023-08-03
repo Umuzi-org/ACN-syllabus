@@ -3,7 +3,7 @@ _db_id: 774
 content_type: topic
 prerequisites:
   hard:
-  - topics/solo-learn/python/4-functions-and-modules
+  - _depricated/python-sololearn/4-functions-and-modules
   soft: []
 ready: true
 tags:

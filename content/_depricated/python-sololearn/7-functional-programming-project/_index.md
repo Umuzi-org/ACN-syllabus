@@ -5,7 +5,7 @@ flavours:
 - none
 prerequisites:
   hard:
-  - topics/solo-learn/python/7-functional-programming
+  - _depricated/python-sololearn/7-functional-programming
   soft: []
 ready: true
 submission_type: link
