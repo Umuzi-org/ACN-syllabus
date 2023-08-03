@@ -3,7 +3,6 @@ title: Data Engineering - part 1
 _db_id: 4
 ---
 
-- {{< contentlink path="topics/solo-learn/python/6-more-types" >}}
 - {{< contentlink path="agile/agile-scrum" >}}
 - {{< contentlink path="topics/clean-code/python" >}}
 - {{< contentlink path="topics/file-and-directory-naming/python" >}}
@@ -22,7 +21,6 @@ _db_id: 4
 - {{< contentlink path="projects/tdd/password-checker/part1" flavour="python" >}}
 - {{< contentlink path="topics/python-specific/oop-for-python" >}}
 - {{< contentlink path="topics/python-specific/virtual-envs/" >}}
-- {{< contentlink path="topics/solo-learn/python/8-oop" >}}
 - {{< contentlink path="projects/oop/animals/part2" flavour="python" >}}
 - {{< contentlink path="specific-skill-success-criteria/classes-and-objects" flavour="python" >}}
 
@@ -30,4 +28,3 @@ _db_id: 4
 - {{< contentlink path="language-agnostic/validate-id-number" flavour="python" >}}
 - {{< contentlink path="sql/shop-project" flavour="" >}}
 - {{< contentlink path="projects/understanding-loops" flavour="python" >}}
-- {{< contentlink path="topics/solo-learn/python/10-pythonicness-and-packaging-project" >}}
