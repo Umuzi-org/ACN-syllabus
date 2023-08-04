@@ -1,5 +1,4 @@
 ---
-_db_id: 453
 content_type: topic
 prerequisites:
   hard:

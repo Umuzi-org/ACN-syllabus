@@ -1,5 +1,5 @@
 ---
-content_type: project
+content_type: topic
 flavours:
 - none
 ready: true
