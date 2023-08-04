@@ -76,7 +76,6 @@ In programming, comments play a crucial role in code documentation. They provide
       subtotal = item.price * item.quantity
       total_price += subtotal
 
-  # Apply a discount if the total price exceeds the spending_limit
   if total_price > spending_limit:
       discount = total_price * 0.1  # 10% discount for exceeding the spending_limit
       total_price -= discount
@@ -208,13 +207,11 @@ An essential aspect of effective code communication is self-documenting code. Go
 - Clear Algorithms: Well-organized and logically structured algorithms help developers understand the flow and purpose of the code without relying heavily on comments.
 
   ```javascript
-  // Function to check if a given number is prime
   function isPrime(number) {
     if (number <= 1) {
       return false;
     }
 
-    // A prime number must not have any divisors other than 1 and itself
     for (let i = 2; i <= Math.sqrt(number); i++) {
       if (number % i === 0) {
         return false;
