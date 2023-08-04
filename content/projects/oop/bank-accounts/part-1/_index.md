@@ -66,9 +66,9 @@ So if you just left your bank account alone for a while then here is how the bal
 
 - Month 0: $1000
 - Month 1: $1010
-- Month 2: 1020.1
-- Month 3: 1030.301
-- Month 4: 1040.60401
+- Month 2: $1020.1
+- Month 3: $1030.301
+- Month 4: $1040.60401
 
 Notice that we aren't just adding $10 every month. The interest is being calculated based on what is currently in the account at any point in time. This is called compounding interest. If you don't know about compounding interest it would be good to learn a bit about financial literacy. 
 
