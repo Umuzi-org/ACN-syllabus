@@ -50,6 +50,23 @@ Your directory structure should look like this:
 
 Please test your work using jasmine.
 
+### Java
+
+Update your directory struture to:
+
+```
+...
+
+├── src
+|   ├── main
+|   |   ├── java
+|   |   |    ├── banking
+|   |   |    |    └── BankAccount.java
+|   |   |    |    └── Bank.java <- new
+
+...
+```
+
 ## Instructions
 
 Create a class called `Bank`. 
