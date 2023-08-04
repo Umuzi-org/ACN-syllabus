@@ -52,7 +52,7 @@ Please test your work using jasmine.
 
 ### Java
 
-Update your directory struture to:
+Update your directory structure to:
 
 ```
 ...
@@ -62,7 +62,7 @@ Update your directory struture to:
 |   |   ├── java
 |   |   |    ├── banking
 |   |   |    |    └── BankAccount.java
-|   |   |    |    └── Bank.java <- new
+|   |   |    |    └── Bank.java <-- NEW
 
 ...
 ```
