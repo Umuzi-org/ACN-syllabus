@@ -8,11 +8,6 @@ title: DEPRICATED - ACN Coding aptitude mini course and assessment - Python
 - {{< contentlink path="environment-setup" >}}
 
 
-- {{< contentlink path="topics/solo-learn/python/1-basic-concepts" >}}
-- {{< contentlink path="topics/solo-learn/python/2-strings-and-variables" >}}
-- {{< contentlink path="topics/solo-learn/python/3-control-structures" >}}
-- {{< contentlink path="topics/solo-learn/python/4-functions-and-modules" >}}
-
 - {{< contentlink path="coding_aptitude_assessment/coding_challenges/introduction" >}}
 - {{< contentlink path="coding_aptitude_assessment/coding_challenges/how_to_name_files" >}}
 - {{< contentlink path="coding_aptitude_assessment/coding_challenges/task_1" flavour="python" >}}
