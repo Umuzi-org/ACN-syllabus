@@ -11,7 +11,7 @@ submission_type: link
 tags:
 - java
 - solo-learn
-title:  Solo Learn - Java Intermediate - 5. Classes and Objects
+title: Solo Learn - Java Intermediate - 5. Classes and Objects
 ---
 
 Complete the above mentioned module on Solo Learn
