@@ -7,6 +7,7 @@ title: Data Science - part 1
 - {{< contentlink path="agile/agile-scrum" >}}
 - {{< contentlink path="topics/clean-code/python" >}}
 - {{< contentlink path="topics/file-and-directory-naming/python" >}}
+- {{< contentlink path="syllabus-written-assignments/file-directory-naming" >}}
 - {{< contentlink path="topics/code-reviews/part-1-reviewers" >}}
 - {{< contentlink path="topics/how-to-ask-for-help-with-your-code" >}}
 - {{< contentlink path="topics/code-reviews/part-2-author" >}}

@@ -13,6 +13,7 @@ _db_id: 3
 - {{< contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/4-debugging" >}}
 - {{< contentlink path="topics/clean-code/java-script" >}}
 - {{< contentlink path="topics/file-and-directory-naming/javascript" >}}
+- {{< contentlink path="syllabus-written-assignments/file-directory-naming" >}}
 - {{< contentlink path="topics/js-and-node-specific/super-basic-intro-to-node" >}}
 - {{< contentlink path="topics/how-to-ask-for-help-with-your-code" >}}
 - {{< contentlink path="javascript-debugging-in-vscode" >}}
