@@ -17,11 +17,11 @@ This assessment is designed to not only assess your current knowledge but also p
 
 1. What naming convention is recommended for files and directories in the programming language you're learning?
 
-2. Why is it of importance to apply naming conventions when arranging files and directories?
+2. Why is it important to use the recommended naming convention?
 
-3. How do naming conventions help with locating, identifying, and retrieving information from a file system?
+3. How does using clear names make it easier to locate and recognize files and folders in a directory?
 
-4. Provide an example of a specific naming convention that you might use for categorizing different types of files.
+4. Can you give a simple example of how you would apply a naming convention to your files?
 
 ## How to submit your work
 
