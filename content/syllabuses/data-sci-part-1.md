@@ -24,6 +24,5 @@ title: Data Science - part 1
 - {{< contentlink path="specific-skill-success-criteria/basic-data-analysis/basic-data-analysis-part-1" >}}
 - {{< contentlink path="specific-skill-success-criteria/basic-data-analysis/basic-data-analysis-part-2" >}}
 - {{< contentlink path="projects/data-science-specific/data-wrangling" flavour="python" >}}
-- {{< contentlink path="projects/data-science-specific/assertive-programming-tricks-for-pandas" flavour="python" >}}
 - {{< contentlink path="projects/data-science-specific/statistical-thinking" flavour="python" >}}
 - {{< contentlink path="topics/khan-academy/statistics-and-probability/unit-3-advanced-statistics/" >}}
