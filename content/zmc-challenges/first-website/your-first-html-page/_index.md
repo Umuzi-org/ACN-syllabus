@@ -74,7 +74,20 @@ Please make sure that your code is clean and valid. Here are a few things to loo
 - any tag you open should get closed
 - your index.html file should meet ALL of the requirements described
 - you should be able to open your index.html file in a browser and it should behave sensibly
+- Make use of an online HTML validator to check your own work. Here is a validator: https://www.freeformatter.com/html-validator.html 
 
-### That's it 
+### Check yourself!
 
-Make sure your website works on your own device. In the next step we'll get it online!
+In the next step we'll be getting your website online. So at this point it's **VERY IMPORTANT** that your code is up to scratch. If you missed any steps and host a website that doesn't meet the requirements then you'll need to come back here and fix everything. 
+
+Here are some things to check:
+
+- Is your html file named correctly?
+- If you use an online html validator then are there any errors? There should be no errors, your html should be perfectly valid
+- Did you put a `title` element inside the `head`?
+- Did you put a `meta` element inside the `head`? And did you set the charset correctly?
+- Is there a `body` element? It should be outside the head
+- Is there ONE `h1` element inside the `body`?
+- Is there at least one `h2` element inside the `body`?
+- Is there any text that is sitting outside of a heading or paragraph element? There should not be.
+

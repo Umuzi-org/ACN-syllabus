@@ -24,6 +24,8 @@ Earlier on in this challenge we mentioned that CSS can be used to give your html
 
 Create a css file in your repo and reference it in each of your html files by making use of a `<link/>` element. [This page](https://www.w3schools.com/css/css_howto.asp) will tell you how.
 
+Your `link` element should be inside the `head` of your page. 
+
 ### 2. Add some styles 
 
 Here are the requirements: 
@@ -40,6 +42,7 @@ There are 2 different things you should do here:
 
 1. Go to this website and validate your CSS: https://jigsaw.w3.org/css-validator/validator.html.en#validate_by_input
 2. Upload your latest changes to Github and make sure your page looks how you expect it to look
+
 ### 4. Submit your work 
 
 Once you are happy with your work, upload your latest changes to Github and submit a link to your Github page in the usual way.

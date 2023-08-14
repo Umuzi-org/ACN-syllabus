@@ -14,7 +14,7 @@ submission_type: repo
 tags:
 - tdd
 - error-checking
-title: password-checker
+title: password strength checker
 ---
 
 Please note that this is a unit testing project. Make sure you demonstrate a solid understanding of unit testing and test your code using the required framework.
@@ -75,15 +75,18 @@ The code you push to git should have the following structure:
 └── src
     ├── main
     |   └── java
-    |       └── PasswordChecker.java <-------- names are important
+    |       └── password_checker
+    |           └── PasswordChecker.java <-------- names are important
     └── test
         └── java
             └── ???.java             <-------- names are important
 ```
 
-Please refer to the following to find out more: {{< contentlink path="topics/java-specific/project-submission-requirements" >}}
+Please name your project `password_checker` and put your work in the `password_checker` package.
 
 ## Implement a function that calculates the strength of a password
+
+Create a function called `password strength`. This function should take one parameter (the password) and it should return the strength of the password.
 
 Here are criteria that are used for judging the strength of a password:
 
@@ -95,18 +98,14 @@ Here are criteria that are used for judging the strength of a password:
 6. password should have at least one special character. a special character is a character that is on the keyboard but is not a number or letter. Eg: `{ % & * " '` etc.
 7. password should have at least one whitespace character
 
-Create a function called `password strength`
-
-This function should count the number of conditions met and then return a string that describes the strength of the password. 
+This is how the strength of the password is calculated 
 
 - If number of conditions met >= 6: return "strong"
 - If number of conditions met >= 4: return "medium"
 - If number of conditions met == 3: return "weak"
 - If conditions 1 or 2 are not met: return "invalid"
 
-
-
-
+**Java learners:** We should not need to instantiate your class in order to call this function. 
 
 ## Instructions for reviewers
 
