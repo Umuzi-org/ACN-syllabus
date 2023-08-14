@@ -1,5 +1,5 @@
 ---
-content_type: topic
+content_type: project
 flavours:
 - none
 ready: true
@@ -8,6 +8,7 @@ tags:
 - java
 - solo-learn
 title: Solo Learn - Introduction to Java - 1. Getting Started with Java
+topic_needs_review: true
 ---
 
 Complete the above mentioned module on Solo Learn

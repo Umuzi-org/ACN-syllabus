@@ -7,11 +7,11 @@ prerequisites:
 flavours:
 - none
 ready: true
-submission_type: link
 tags:
 - java
 - solo-learn
 title: Solo Learn - Java Intermediate  - 6. More on Classes
+topic_needs_review: false
 ---
 
 Complete the above mentioned module on Solo Learn
