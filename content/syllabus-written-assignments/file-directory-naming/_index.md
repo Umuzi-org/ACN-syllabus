@@ -15,11 +15,13 @@ This assessment is designed to not only assess your current knowledge but also p
 
 ## Questions
 
-1. What is the recommended naming convention for files and directories in the programming language you are learning? Why is it important to follow this convention?
+1. What naming convention is recommended for files and directories in the programming language you're learning?
 
-2. What are some of the common mistakes that beginners make when naming files and directories? How can you avoid these mistakes?
+2. Why is it of importance to apply naming conventions when arranging files and directories?
 
-3. Explain the importance of using naming conventions when organizing files and directories. How do naming conventions help with locating, identifying, and retrieving information from a file system? Provide an example of a specific naming convention that you might use for categorizing different types of files.
+3. How do naming conventions help with locating, identifying, and retrieving information from a file system?
+
+4. Provide an example of a specific naming convention that you might use for categorizing different types of files.
 
 ## How to submit your work
 
