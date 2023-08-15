@@ -2,24 +2,24 @@
 _db_id: 283
 content_type: project
 flavours:
-- javascript
+  - javascript
 from_repo: projects/nodejs/sql
 learning_outcomes:
-- wed_dev_client_side_testing
-- web_dev_crud_operations_and_data_presentation
-- web_dev_routes
+  - wed_dev_client_side_testing
+  - web_dev_crud_operations_and_data_presentation
+  - web_dev_routes
 prerequisites:
   hard:
-  - topics/intro-to-ajax
-  - projects/nodejs/sql
-  - projects/nodejs/api
+    - topics/intro-to-ajax
+    - projects/nodejs/sql
+    - projects/nodejs/api
   soft: []
 ready: true
 story_points: 8
 submission_type: continue_repo
 tags:
-- node
-- ajax
+  - node
+  - ajax
 title: Add a little Ajax
 ---
 
@@ -45,9 +45,13 @@ Also, make sure that if you create any new visitors then they are visible on the
 
 ## Add a visitor
 
-Add a button labelled "New Visitor". This button should redirect the user to the new visitor form that was created in an earlier step in this project. 
+Add a button labelled "New Visitor". This button should redirect the user to the new visitor form that was created in an earlier step in this project.
 
 Update the "thank you page" so that it only displays for 3 seconds and then redirects the user back to the visitors table. Of course the new visiter should be visible in the table.
+
+## Up for a challenge?
+
+So far, you've made use of only 2 API end points(`listAllVisitors` and `deleteVisitor`). Can you figure out how to make use the `updateVisitor` endpoint? The implementation here is completely up to you.
 
 ## Resources
 
