@@ -23,7 +23,7 @@ tags:
 title: Add a little Ajax
 ---
 
-In this project you'll be creating a more modern frontend for your application. You'll need to create a whole new page that allows a user to see a list of visitors and to delete visitors.
+In this project you'll be creating a more modern frontend for your application. You'll need to create a whole new page that allows a user to see a list of visitors and to delete visitors. The technology to use is entirely up to you.
 
 ## A new page
 
