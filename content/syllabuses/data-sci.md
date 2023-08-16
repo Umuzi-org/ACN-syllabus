@@ -9,6 +9,7 @@ _db_id: 2
 - {{< contentlink path="topics/code-reviews/part-1-reviewers" >}}
 - {{< contentlink path="topics/how-to-ask-for-help-with-your-code" >}}
 - {{< contentlink path="topics/code-reviews/part-2-author" >}}
+- {{< contentlink path="topics/solo-learn/python/python-intermediate/1-collection-types" >}}
 - {{< contentlink path="projects/katas/level-2" flavour="python" >}}
 - {{< contentlink path="specific-skill-success-criteria/introduction-to-assessments" >}}
 - {{< contentlink path="specific-skill-success-criteria/functions-and-return" flavour="python" >}}
@@ -40,6 +41,7 @@ _db_id: 2
 - {{< contentlink path="specific-skill-success-criteria/classes-and-objects" flavour="python" >}}
 - {{< contentlink path="projects/oop/bank-accounts/part-1" flavour="python" >}}
 - {{< contentlink path="projects/data-science-specific/oop-for-data-science" flavour="python" >}}
+- {{< contentlink path="topics/solo-learn/python/python-intermediate/5-working-with-files" >}}
 - {{< contentlink path="projects/github-api-consume/part1" flavour="python" >}}
 - {{< contentlink path="projects/data-science-specific/dashboards/plotly_dashboards" flavour="python" >}}
 - {{< contentlink path="sql/shop-project/" >}}

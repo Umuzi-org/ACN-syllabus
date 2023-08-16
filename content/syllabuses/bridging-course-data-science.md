@@ -15,6 +15,13 @@ title: Data science bridging course
 - {{< contentlink path="topics/tilde/understanding-the-review-column" >}}
 - {{< contentlink path="topics/messaging/honor-code" >}}
 
+## Quick wins
+
+- {{< contentlink path="topics/solo-learn/python/intro-to-python/1-getting-started-with-python" >}}
+- {{< contentlink path="topics/solo-learn/python/intro-to-python/2-going-deeper-with-python" >}}
+- {{< contentlink path="topics/solo-learn/python/intro-to-python/3-working-with-data" >}}
+- {{< contentlink path="topics/solo-learn/python/intro-to-python/4-control-flow" >}}
+
 ## Git and environment
 
 - {{< contentlink path="environment-setup/git" >}}

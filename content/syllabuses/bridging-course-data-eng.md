@@ -15,6 +15,12 @@ title: Data eng bridging course
 - {{< contentlink path="topics/tilde/understanding-the-review-column" >}}
 - {{< contentlink path="topics/messaging/honor-code" >}}
 
+## Quick wins
+
+- {{< contentlink path="topics/solo-learn/python/intro-to-python/1-getting-started-with-python" >}}
+- {{< contentlink path="topics/solo-learn/python/intro-to-python/2-going-deeper-with-python" >}}
+- {{< contentlink path="topics/solo-learn/python/intro-to-python/3-working-with-data" >}}
+- {{< contentlink path="topics/solo-learn/python/intro-to-python/4-control-flow" >}}
 
 ## Git and environment
 
@@ -25,6 +31,7 @@ title: Data eng bridging course
 - {{< contentlink path="environment-setup" >}}
 ## The real work
 
+- {{< contentlink path="topics/solo-learn/python/python-intermediate/1-collection-types" >}}
 - {{< contentlink path="soft-skills/learning-how-to-learn" >}}
 - {{< contentlink path="soft-skills/how-to-master-fundamentals" >}}
 - {{< contentlink path="topics/clean-code/python" >}}
@@ -43,6 +50,7 @@ title: Data eng bridging course
 - {{< contentlink path="projects/katas/level-1" flavour="python" >}}
 - {{< contentlink path="specific-skill-success-criteria/introduction-to-assessments" >}}
 - {{< contentlink path="specific-skill-success-criteria/functions-and-return" flavour="python" >}}
+- {{< contentlink path="topics/solo-learn/python/python-intermediate/3-oop" >}}
 - {{< contentlink path="specific-skill-success-criteria/for-loops" flavour="python" >}}
 - {{< contentlink path="projects/oop/animals/part1"  flavour="python" >}}
 - {{< contentlink path="specific-skill-success-criteria/classes-and-objects" flavour="python" >}}
