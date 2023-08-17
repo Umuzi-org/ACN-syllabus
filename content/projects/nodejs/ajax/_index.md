@@ -25,7 +25,7 @@ title: Add a little Ajax
 
 In this project you'll be creating a more modern frontend for your application. You'll need to create a whole new page that allows a user to see a list of visitors and to delete visitors.
 
-## What technology to use for sending AJAX requests
+## The technology to use for sending AJAX requests
 
 As a developer, it's important that you can think for yourself and read up on things. Tech changes all the time.
 Do some googling - read up on the current best practices. Find out the pros and cons for using a certain technology to make requests from the client-side applications. Then make a choice.
