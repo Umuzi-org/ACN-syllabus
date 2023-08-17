@@ -22,7 +22,11 @@ The questions should be in the root directory of your repository! If you make ex
 Each file should look like this:
 
 ```
-# The question goes here. Take note of the # symbol
+# Question
+
+The question goes here. Take note of the heading above.
+
+# Answer
 
 Your answer goes here
 ```
@@ -32,7 +36,11 @@ For example, if the question was "What are all the colors of the rainbow?"
 Then your file should look like this:
 
 ```
-# What are all the colors of the rainbow?
+# Question
+
+What are all the colors of the rainbow?
+
+# Answer 
 
 The colors of the rainbow are red, orange, yellow, green, blue, indigo and violet.
 ```

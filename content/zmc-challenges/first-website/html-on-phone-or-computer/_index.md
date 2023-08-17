@@ -44,7 +44,9 @@ If you aren't sure then just go with one of the recommended options above.
 
 ## Your first HTML file
 
-Before you move on to the next step in this challenge, it is important to make sure you can use your code editor effectively. Try to do the following:
+Before you move on to the next step in this challenge, it is important to make sure you can use your code editor effectively. 
+
+Try to do the following:
 
 1. Make a directory/folder. You can name it something like `website`
 2. create a text file called `index.html`, you'll need to save it inside your `website` directory

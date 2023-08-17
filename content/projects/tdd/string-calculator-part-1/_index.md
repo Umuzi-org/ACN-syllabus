@@ -65,6 +65,7 @@ Please take a look at this topic to see an explanation of the required directory
 
 The code you push to git should have the following structure:
 
+Your package name should be `string_calculator`
 
 ```
 ├── build.gradle
@@ -78,10 +79,11 @@ The code you push to git should have the following structure:
 └── src
     ├── main
     |   └── java
-    |       └── StringCalculator.java <-------- names are important
+    |       └── string_calculator
+    |           └── StringCalculator.java 
     └── test
         └── java
-            └── ???.java             <-------- names are important
+            └── ???.java        
 
 ```
 
@@ -94,6 +96,8 @@ Please note that this project should be done in a TDD manner.
 The `add` function should take in one string parameter and return an integer.
 
 **Note:** This is a TDD project. That means that you should write a test, then get that test to pass, then write the next test, etc. 
+
+**Java learners:** We should not need to instantiate your `StringCalculator` class in order to call `add`. 
 
 ```
 add("")
