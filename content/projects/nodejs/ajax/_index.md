@@ -23,7 +23,12 @@ tags:
 title: Add a little Ajax
 ---
 
-In this project you'll be creating a more modern frontend for your application. You'll need to create a whole new page that allows a user to see a list of visitors and to delete visitors. The technology to use is entirely up to you.
+In this project you'll be creating a more modern frontend for your application. You'll need to create a whole new page that allows a user to see a list of visitors and to delete visitors.
+
+## What technology to use for sending AJAX requests
+
+As a developer, it's important that you can think for yourself and read up on things. Tech changes all the time.
+Do some googling - read up on the current best practices. Find out the pros and cons for using a certain technology to make requests from the client-side applications. Then make a choice.
 
 ## A new page
 
@@ -33,7 +38,7 @@ Create a new static web page. Serve your new page from the following URL: `http:
 
 Create an HTML table on the same page (on your single-page app). Use an ajax call to populate the table. Your frontend should be retrieving data from an api endpoint you already created.
 
-## Delete visitors and update the table
+## Delete visitors
 
 Add a "delete" button to each line of the table. When the user clicks "delete" then
 
@@ -51,7 +56,7 @@ Update the "thank you page" so that it only displays for 3 seconds and then redi
 
 ## Up for a challenge?
 
-So far, you've made use of only 2 API end points(`listAllVisitors` and `deleteVisitor`). Can you figure out how to make use the `updateVisitor` endpoint? The implementation here is completely up to you.
+So far, you've made use of only 3 API end points(`POST`, `GET` and `DELETE`). Can you figure out how to make use the `PUT` endpoint? The implementation here is completely up to you.
 
 ## Resources
 
