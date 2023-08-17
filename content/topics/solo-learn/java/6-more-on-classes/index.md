@@ -2,7 +2,7 @@
 content_type: topic
 prerequisites:
   hard:
-  - topics/solo-learn/java/5-classess-and-objects
+  - topics/solo-learn/java/5-classes-and-objects
   soft: []
 flavours:
 - none
