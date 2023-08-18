@@ -52,11 +52,11 @@ Also, make sure that if you create any new visitors then they are visible on the
 
 Add a button labelled "New Visitor". This button should redirect the user to the new visitor form that was created in an earlier step in this project.
 
-Update the "thank you page" so that it only displays for 3 seconds and then redirects the user back to the visitors table. Of course the new visiter should be visible in the table.
+Update the "thank you page" so that it only displays for 3 seconds and then redirects the user back to the visitors table. Of course the new visitor should be visible in the table.
 
 ## Up for a challenge?
 
-So far, you've made use of only 3 API end points(`POST`, `GET` and `DELETE`). Can you figure out how to make use the `PUT` endpoint? The implementation here is completely up to you.
+So far, you've utilized only three API end points(`POST`, `GET` and `DELETE`). Can you figure out how to make use the `PUT` endpoint? The implementation here is completely up to you.
 
 ## Resources
 
