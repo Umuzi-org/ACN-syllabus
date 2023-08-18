@@ -20,7 +20,7 @@ _db_id: 7
 - {{< contentlink path="topics/solo-learn/java/5-classes-and-objects" >}}
 - {{< contentlink path="specific-skill-success-criteria/classes-and-objects" flavour="java" >}}
 - {{< contentlink path="topics/solo-learn/java/6-more-on-classes" >}}
-- {{< contentlink path="topics/solo-learn/java/7-exceptions-lists-threads-&-files" >}}
+- {{< contentlink path="topics/solo-learn/java/7-exceptions-lists-threads-and-files" >}}
 - {{< contentlink path="workshops/general-coding-best-practices" >}}
 - {{< contentlink path="projects/oop/person" flavour="java" >}}
 - {{< contentlink path="projects/oop/animals/part2" flavour="java" >}}
