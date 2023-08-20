@@ -20,9 +20,11 @@ Please answer the following questions in markdown files and submit following the
 
 1. Here are some directory names that follow different naming conventions: Foo_Bar, foo_bar, FooBar, main, fooBar. Which of the directory names follows the convention used in your language?
 
-2. Here are some file names that follow different naming conventions: MyFile my_file My_File. Which of the file names follows the convention used in your language?
+2. Here are some file names that follow different naming conventions: MyFile, my_file, My_File. Which of the file names follows the convention used in your language?
 
-3. Why is it important to use the recommended naming convention?
+3. Here are function names that follow different naming conventions: myFunction, my_function, MyFunction. Which of the function names follows the convention used in your language?
+
+4. Why is it important to use the recommended naming convention?
 
 ## How to submit your work
 
