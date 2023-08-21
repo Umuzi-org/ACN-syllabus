@@ -8,6 +8,7 @@ prerequisites:
   hard:
   - projects/data-science-specific/data-visualisation/linux-evolution
   - topics/jupyter-notebooks-best-practices
+  - projects/data-science-specific/assertive-programming-tricks-for-pandas
 ready: true
 story_points: 13
 submission_type: repo
