@@ -92,4 +92,3 @@ Here are some things to check:
 - Is there ONE `h1` element inside the `body`?
 - Is there at least one `h2` element inside the `body`?
 - Is there any text that is sitting outside of a heading or paragraph element? There should not be.
-

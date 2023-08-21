@@ -14,7 +14,7 @@ submission_type: repo
 tags:
 - tdd
 - error-checking
-title: password strength checker
+title: Password strength checker
 ---
 
 Please note that this is a unit testing project. Make sure you demonstrate a solid understanding of unit testing and test your code using the required framework.

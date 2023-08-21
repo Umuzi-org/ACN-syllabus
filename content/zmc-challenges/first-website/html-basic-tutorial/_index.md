@@ -1,5 +1,5 @@
 ---
-blurb: 'HTML is the first language a web developer needs to learn. It's time to get acquainted'
+blurb: HTML is the first language a web developer needs to learn. It's time to get acquainted
 content_type: topic
 title: Basic HTML tutorial
 ---

@@ -3,8 +3,8 @@ _db_id: 318
 content_type: topic
 ready: true
 tags:
-  - javascript
-  - free-code-camp
+- javascript
+- free-code-camp
 title: FreeCodeCamp - Functional Programming
 topic_needs_review: false
 ---

@@ -3,9 +3,9 @@ _db_id: 317
 content_type: topic
 ready: true
 tags:
-  - javascript
-  - es6
-  - free-code-camp
+- javascript
+- es6
+- free-code-camp
 title: FreeCodeCamp - ES6
 topic_needs_review: false
 ---
