@@ -6,6 +6,8 @@ prerequisites:
 content_type: project
 submission_type: continue_repo
 from_repo: projects/oop/bank-accounts/part-1
+flavours:
+- any_language
 ---
 
 In the last part of this project you created a BankAccount, now it is time to create a Bank.

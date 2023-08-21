@@ -6,6 +6,8 @@ prerequisites:
   - projects/oop/animals/part2
 content_type: project
 submission_type: repo
+flavours:
+- any_language
 ---
 
 You have just been hired by a fin-tech startup. Your mission is to build a bank. It's going to be a cute little bank, real banks are waaaay more complicated.
