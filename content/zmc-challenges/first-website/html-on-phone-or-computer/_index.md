@@ -9,7 +9,7 @@ title: How to get setup to author web code on your own device
 
 Before we start coding, you'll need to know where to type your code. There are a few different options, please choose the one that works best for you. 
 
-## Option 1: Just use a text Editor on your computer 
+## Option 1: Just use a text editor on your computer 
 
 If you are using a computer and want to get set up in the easiest possible way then you can just use the built-in text editor. 
 
@@ -46,24 +46,28 @@ If you aren't sure then just go with one of the recommended options above.
 
 Before you move on to the next step in this challenge, it is important to make sure you can use your code editor effectively. 
 
+Now, a lot of people find this step pretty scary at first - you're going to be writing actual code and making it work on your phone or computer! 
+
 Try to do the following:
 
 1. Make a directory/folder. You can name it something like `website`
 2. create a text file called `index.html`, you'll need to save it inside your `website` directory
-3. Put the following text inside your `index.html` file. Feel free to copy-paste. Make sure you save your changes:
+3. Put the following text inside your `index.html` file.
+
+Feel free to copy-paste. Make sure you save your changes:
 
 ```
 <!DOCTYPE html>
 <html>
 <body>
 
-<h1>My First Heading</h1>
-
-<p>My first paragraph.</p>
+<h1>My First Website</h1>
 
 </body>
 </html>
 ```
+
+**IMPORTANT** computers are pretty stupid. You have to be very precise when it comes to writing code otherwise they get all confused. So make sure you start off by typing in EXACTLY the right text. If you leave out a `>` or a `</` or anything like that then your web browser might not understand what you want.  
 
 4. Open your `index.html` file in a web browser. Do this by navigating to the file in your file browser and then opening the file.
 

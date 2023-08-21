@@ -24,9 +24,9 @@ Earlier on in this challenge we mentioned that CSS can be used to give your html
 
 Create a css file in your repo and reference it in each of your html files by making use of a `<link/>` element. [This page](https://www.w3schools.com/css/css_howto.asp) will tell you how.
 
-Your `link` element should be inside the `head` of your page. 
+- Your `link` element should be inside the `head` of your page. - Your css file name should not have any spaces in it. For example `my styles.css` is a bad name. `my_styles.css` is valid.
 
-### 2. Add some styles 
+### 2. Add some styles to your css file
 
 Here are the requirements: 
 

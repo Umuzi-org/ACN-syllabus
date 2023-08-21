@@ -36,7 +36,8 @@ your-project-directory/
     images/
     index.html
     new_page.html  < You can name this whatever you want
-                     Just make sure that it ends in .html
+                     Just make sure that it ends in .html.
+                     Also make sure that the name doesn't have any spaces in it. Use underscores or dashes to separate the words
 ```
 
 Your new file should have the following:
@@ -63,11 +64,11 @@ All 3 links should work perfectly.
 
 And, as usual, it's very important to make sure that all your HTML is valid!
 
-### 4. Update your repo 
+### 4. Update your repo (don't make another repo)
 
 Once everything seems to be working fine then upload your latest changes to Github. Make sure your GitHub page shows the latest version of your website. Make sure the links on your website work.
 
-All of your files should be in the same repo. 
+All of your files should be in the same repo! 
 
 Double check that everything is still working in your Github page.
 

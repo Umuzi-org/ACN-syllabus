@@ -6,9 +6,11 @@ content_type: topic
 title: Your first HTML page
 ---
 
-Here is a great tutorial all about HTML. Do all the sections up to the end of HTML Paragraphs.
+Here is a great tutorial all about HTML. Do all the sections up to the end of `HTML Paragraphs`.
 
 [W3Schools - HTML Tutorial](https://www.w3schools.com/html/html_intro.asp)
+
+While you are doing the tutorial, make sure that you make use of the `Try it yourself` button. If you want to learn to code then it's important to play with the code. 
 
 ## Check your understanding before moving forward
 

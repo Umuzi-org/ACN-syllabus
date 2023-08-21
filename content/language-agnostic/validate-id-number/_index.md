@@ -66,6 +66,7 @@ Please make use of Gradle from the command line to set up your project directory
 
 {{< contentlink "gradle/introduction" >}}
 
+When you use gradle to create your project, give your project the following name: `validate_sa_id`.
 
 Your directory structure should look like this:
 
