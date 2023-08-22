@@ -44,7 +44,8 @@ This dataset is the geospatial mapping of all cash outlets in Tanzania in 2012. 
 
 3. Create appropriate graphs to visually represent the relationship between financial services accessed (non-mobile, mobile, both) and age, gender, marital status, land ownership and type of income.
 
-4. What can you conclude about use of financial services in Tanzania so far? Which demographic are associated with mobile money use?
+4. What can you conclude about use of financial services in Tanzania so far? Which demographic are associated with mobile money use ?
+5. Test branch
 
 ## Variables
 
