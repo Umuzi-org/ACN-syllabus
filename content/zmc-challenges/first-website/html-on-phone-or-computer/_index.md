@@ -7,7 +7,7 @@ content_type: topic
 title: How to get setup to author web code on your own device
 ---
 
-Before we start coding, you'll need to know where to type your code. There are a few different options, please choose the one that works best for you. 
+Before we start coding, you'll need to know where to type your code. There are a few different options, please choose the one that works best for you. Please note that in this section, you’re going to be making a simple HTML file.  If you are not super sure what a file is then please read [this](https://www.howtogeek.com/757092/what-are-computer-files-and-folders/) before you continue. If you are still not sure, then please ask on the Discord channel.
 
 ## Option 1: Just use a text editor on your computer 
 
