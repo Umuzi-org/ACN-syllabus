@@ -13,7 +13,7 @@ Before we start coding, you'll need to know where to type your code. There are a
 
 If you are using a computer and want to get set up in the easiest possible way then you can just use the built-in text editor. 
 
-- If you are running Windows you can just use Notepad
+- If you are running Windows you can just use Notepad: [Video demonstration here](https://www.youtube.com/watch?v=0BA5Q4RS4xo)
 - If you are running a Mac then you can use TextEdit
 
 You can see more detailed instructions [here](https://www.w3schools.com/html/html_editors.asp)
@@ -26,7 +26,7 @@ ACode can be a little confusing. [Here](https://youtu.be/ivJ4FGKnGUE) is a littl
 
 ## Option 3: If you have a computer and want to be fancy about it
 
-Install [vscode](https://code.visualstudio.com/Download). It's a fancy text editor that is specially designed for coding.  You don't need it at this stage in your journey but it's cool. And we like to encourage cool things. 
+Install [vscode](https://code.visualstudio.com/Download). It's a fancy text editor that is specially designed for coding.  You don't need it at this stage in your journey but it's cool. And we like to encourage cool things. [Here](https://www.youtube.com/watch?v=ERYT4JRkx3s) is a video demonstration
 
 If you can't install it or if it's weird and confusing then don't worry :) You can just use a text editor.
 
