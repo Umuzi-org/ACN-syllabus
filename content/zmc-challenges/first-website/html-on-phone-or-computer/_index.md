@@ -4,17 +4,23 @@ blurb: 'Every profession has it''s tools: carpenters use hammers, mechanics use 
   painters use paintbrushes.  Coders have tools too. Here you''ll learn about one
   of the major tools of the trade.'
 content_type: topic
-title: How to get setup to author web code on your own device
+title: How to get set up to author web code on your own device
 ---
 
-Before we start coding, you'll need to know where to type your code. There are a few different options, please choose the one that works best for you. 
+In this step you'll be learning about how to write HTML files on your own computer or cellphone. As nice as the W3Schools Try It Yourself editor is, it's not a professional web development tool and you'll need something more powerful if you want to make a proper website. 
+
+Basically what we are going to do here is: Make use of a **text editor** to write **HTML files** that can be opened in a **web browser**. 
+
+If you are not super sure what a file is then please read [this](https://www.howtogeek.com/757092/what-are-computer-files-and-folders/) before you continue. If you are still not sure, then please ask on the Discord channel.
+
+The first thing you need to do here is choose a text editor to work with. There are a few different options, please choose the one that works best for you. 
 
 ## Option 1: Just use a text editor on your computer 
 
 If you are using a computer and want to get set up in the easiest possible way then you can just use the built-in text editor. 
 
-- If you are running Windows you can just use Notepad
-- If you are running a Mac then you can use TextEdit
+- If you are running Windows you can just use Notepad. [Here](https://www.youtube.com/watch?v=0BA5Q4RS4xo) is a video demonstration.
+- If you are running a Mac then you can use TextEdit.
 
 You can see more detailed instructions [here](https://www.w3schools.com/html/html_editors.asp)
 
@@ -26,7 +32,7 @@ ACode can be a little confusing. [Here](https://youtu.be/ivJ4FGKnGUE) is a littl
 
 ## Option 3: If you have a computer and want to be fancy about it
 
-Install [vscode](https://code.visualstudio.com/Download). It's a fancy text editor that is specially designed for coding.  You don't need it at this stage in your journey but it's cool. And we like to encourage cool things. 
+Install [vscode](https://code.visualstudio.com/Download). It's a fancy text editor that is specially designed for coding.  You don't need it at this stage in your journey but it's cool. And we like to encourage cool things. [Here](https://www.youtube.com/watch?v=ERYT4JRkx3s) is a video demonstration
 
 If you can't install it or if it's weird and confusing then don't worry :) You can just use a text editor.
 
@@ -67,7 +73,7 @@ Feel free to copy-paste. Make sure you save your changes:
 </html>
 ```
 
-**IMPORTANT** computers are pretty stupid. You have to be very precise when it comes to writing code otherwise they get all confused. So make sure you start off by typing in EXACTLY the right text. If you leave out a `>` or a `</` or anything like that then your web browser might not understand what you want.  
+**IMPORTANT** Computers are pretty stupid. You have to be very precise when it comes to writing code otherwise they get all confused. So make sure you start off by typing in EXACTLY the right text. If you leave out a `>` or a `</` or anything like that then your web browser might not understand what you want.  
 
 4. Open your `index.html` file in a web browser. Do this by navigating to the file in your file browser and then opening the file.
 
