@@ -13,8 +13,8 @@ Before we start coding, you'll need to know where to type your code. There are a
 
 If you are using a computer and want to get set up in the easiest possible way then you can just use the built-in text editor. 
 
-- If you are running Windows you can just use Notepad: [Video demonstration here](https://www.youtube.com/watch?v=0BA5Q4RS4xo)
-- If you are running a Mac then you can use TextEdit
+- If you are running Windows you can just use Notepad. [Here](https://www.youtube.com/watch?v=0BA5Q4RS4xo) is a video demonstration.
+- If you are running a Mac then you can use TextEdit.
 
 You can see more detailed instructions [here](https://www.w3schools.com/html/html_editors.asp)
 
