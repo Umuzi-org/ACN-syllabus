@@ -4,10 +4,16 @@ blurb: 'Every profession has it''s tools: carpenters use hammers, mechanics use 
   painters use paintbrushes.  Coders have tools too. Here you''ll learn about one
   of the major tools of the trade.'
 content_type: topic
-title: How to get setup to author web code on your own device
+title: How to get set up to author web code on your own device
 ---
 
-Before we start coding, you'll need to know where to type your code. There are a few different options, please choose the one that works best for you. Please note that in this section, you’re going to be making a simple HTML file.  If you are not super sure what a file is then please read [this](https://www.howtogeek.com/757092/what-are-computer-files-and-folders/) before you continue. If you are still not sure, then please ask on the Discord channel.
+In this step you'll be learning about how to write HTML files on your own computer or cellphone. As nice as the W3Schools Try It Yourself editor is, it's not a professional web development tool and you'll need something more powerful if you want to make a proper website. 
+
+Basically what we are going to do here is: Make use of a **text editor** to write **HTML files** that can be opened in a **web browser**. 
+
+If you are not super sure what a file is then please read [this](https://www.howtogeek.com/757092/what-are-computer-files-and-folders/) before you continue. If you are still not sure, then please ask on the Discord channel.
+
+The first thing you need to do here is choose a text editor to work with. There are a few different options, please choose the one that works best for you. 
 
 ## Option 1: Just use a text editor on your computer 
 
@@ -67,7 +73,7 @@ Feel free to copy-paste. Make sure you save your changes:
 </html>
 ```
 
-**IMPORTANT** computers are pretty stupid. You have to be very precise when it comes to writing code otherwise they get all confused. So make sure you start off by typing in EXACTLY the right text. If you leave out a `>` or a `</` or anything like that then your web browser might not understand what you want.  
+**IMPORTANT** Computers are pretty stupid. You have to be very precise when it comes to writing code otherwise they get all confused. So make sure you start off by typing in EXACTLY the right text. If you leave out a `>` or a `</` or anything like that then your web browser might not understand what you want.  
 
 4. Open your `index.html` file in a web browser. Do this by navigating to the file in your file browser and then opening the file.
 
