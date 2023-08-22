@@ -1,10 +1,11 @@
 ---
+_db_id: 962
 content_type: topic
 ready: true
 tags:
-  - vscode
-  - javascript
-  - debugging
+- vscode
+- javascript
+- debugging
 title: Javascript debugging in VSCode
 ---
 

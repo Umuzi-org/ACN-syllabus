@@ -1,5 +1,7 @@
 ---
-blurb: HTML is the first language a web developer needs to learn. It's time to get acquainted
+_db_id: 961
+blurb: HTML is the first language a web developer needs to learn. It's time to get
+  acquainted
 content_type: topic
 title: Basic HTML tutorial
 ---
@@ -30,5 +32,3 @@ The Try-it-yourself editor is a great playground and you can learn a lot from it
 But it is not the right tool for the job if you want to do any serious web development. By the end of this challenge you will have your own website. That means we need to use the right tools for the job.
 
 In the next section you'll learn to write code on your own device!
-
-

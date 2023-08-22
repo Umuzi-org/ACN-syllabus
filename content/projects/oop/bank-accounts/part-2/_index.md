@@ -1,13 +1,14 @@
 ---
-title: Bank accounts - part 2
-prerequisites:
-  hard: 
-  - projects/oop/bank-accounts/part-1
+_db_id: 960
 content_type: project
-submission_type: continue_repo
-from_repo: projects/oop/bank-accounts/part-1
 flavours:
 - any_language
+from_repo: projects/oop/bank-accounts/part-1
+prerequisites:
+  hard:
+  - projects/oop/bank-accounts/part-1
+submission_type: continue_repo
+title: Bank accounts - part 2
 ---
 
 In the last part of this project you created a BankAccount, now it is time to create a Bank.
@@ -121,5 +122,4 @@ Create the following functions:
 
 ## Tests
 
-Again, please take testing very seriously. Imagine working at an actual bank. How careful would you be if a bug in your code could cost someone their life-savings? 
-
+Again, please take testing very seriously. Imagine working at an actual bank. How careful would you be if a bug in your code could cost someone their life-savings?
