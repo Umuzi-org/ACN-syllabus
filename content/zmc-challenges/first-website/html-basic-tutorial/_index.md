@@ -14,16 +14,13 @@ For now it's ok if you just go over the section called "HTML Introduction". We'l
 
 ## Try it yourself
 
-When you see buttons like this one then you should click them:
-
-![Alt text](image.png)
-
-In order to learn to code, you need to learn to play with code. W3Schools is great because it gives you a way to play. 
+In order to learn to code, you need to learn to play with code. W3Schools is great because it gives you a way to play. Click the "Try it yourself" button and poke around a bit.
 
 You should be able to 
 - edit the code
 - run the code
 - see the result of your code edits 
+- have fun!
 
 ## Next up
 
