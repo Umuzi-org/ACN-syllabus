@@ -12,6 +12,6 @@ title: Solo Learn - Introduction to Java - 2. Control Flow
 topic_needs_review: false
 ---
 
-Complete the above mentioned module on Solo Learn
+Complete the above mentioned module on Solo Learn.
 
 https://www.sololearn.com/learn/courses/java-introduction

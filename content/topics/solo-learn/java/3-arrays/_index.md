@@ -4,6 +4,8 @@ prerequisites:
   hard:
   - topics/solo-learn/java/2-control-flow
   soft: []
+flavours:
+- none
 ready: true
 tags:
 - java
@@ -12,6 +14,6 @@ title: Solo Learn - Introduction to Java - 3. Arrays
 topic_needs_review: false
 ---
 
-Complete the above mentioned module on Solo Learn
+Complete the above mentioned module on Solo Learn.
 
 https://www.sololearn.com/learn/courses/java-introduction

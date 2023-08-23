@@ -1,5 +1,5 @@
 ---
-content_type: project
+content_type: topic
 prerequisites:
   hard:
   - topics/solo-learn/java/6-more-on-classes
@@ -7,16 +7,13 @@ prerequisites:
 flavours:
 - none
 ready: true
-submission_type: link
 tags:
 - java
 - solo-learn
 title: Solo Learn - Java Intermediate - 7. Exceptions, Lists, Threads and Files
-topic_needs_review: true
+topic_needs_review: false
 ---
 
-Complete the above mentioned module on Solo Learn
+Complete the above mentioned module on Solo Learn.
 
 https://www.sololearn.com/learn/courses/java-intermediate
-
-Please submit the link to your profile e.g https://www.sololearn.com/profile/21320495

@@ -1,5 +1,5 @@
 ---
-content_type: project 
+content_type: topic
 prerequisites:
   hard:
   - topics/solo-learn/java/3-arrays
@@ -7,14 +7,13 @@ prerequisites:
 flavours:
 - none
 ready: true
-submission_type: link
 tags:
 - java
 - solo-learn
 title: Solo Learn - Introduction to Java - 4. Methods
-topic_needs_review: true
+topic_needs_review: false
 ---
 
-Complete the above mentioned module on Solo Learn
+Complete the above mentioned module on Solo Learn.
 
 https://www.sololearn.com/learn/courses/java-introduction

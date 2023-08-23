@@ -1,5 +1,5 @@
 ---
-content_type: project
+content_type: topic
 prerequisites:
   hard:
   - topics/solo-learn/java/4-methods
@@ -7,14 +7,13 @@ prerequisites:
 flavours:
 - none
 ready: true
-submission_type: link
 tags:
 - java
 - solo-learn
 title: Solo Learn - Java Intermediate - 5. Classes and Objects
-topic_needs_review: true
+topic_needs_review: false
 ---
 
-Complete the above mentioned module on Solo Learn
+Complete the above mentioned module on Solo Learn.
 
 https://www.sololearn.com/learn/courses/java-intermediate
