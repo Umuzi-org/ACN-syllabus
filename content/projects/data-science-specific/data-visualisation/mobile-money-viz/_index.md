@@ -23,11 +23,11 @@ tags:
 title: Financial Services Use in Tanzania
 ---
 
-## Background
+## About DataSet
 
 The [training](training.csv) dataset contains demographic information and what financial services are used by approximately 10,000 individuals across Tanzania. This data was extracted from the FSDT Finscope 2017 survey and prepared specifically for this challenge.
 
-Each individual is classified into four mutually exclusive categories:
+### Each individual is classified into four mutually exclusive categories:
 
 - No_financial_services: Individuals who do not use mobile money, do not save, do not have credit, and do not have insurance
 - Other_only: Individuals who do not use mobile money, but do use at least one of the other financial services (savings, credit, insurance)
@@ -38,15 +38,16 @@ This dataset is the geospatial mapping of all cash outlets in Tanzania in 2012. 
 
 ## Instructions:
 
-1. Examine the dataset. Are there any missing observations or columns where the data do not seem valid?
+1. Import the required libraries and load the datadatset [training](training.csv).
+   
+2. Explore the dataset. Are there any missing observations or columns where the data do not seem valid?
 
-2. Get basic descriptive statistics for the dataset.
+3. Get basic descriptive statistics for the dataset.
 
-3. Create appropriate graphs to visually represent the relationship between financial services accessed (non-mobile, mobile, both) and age, gender, marital status, land ownership and type of income.
+4. Create appropriate graphs to visually represent the relationship between financial services accessed (non-mobile, mobile, both) and age, gender, marital status, land ownership and type of income. Provide interpretation of each graph.  
 
-4. What can you conclude about use of financial services in Tanzania so far? Which demographic are associated with mobile money use ?
-5. Test branch
-
+5. What can you conclude about use of financial services in Tanzania so far? Which demographic are associated with mobile money use ?
+   
 ## Variables
 
 The table below gives the variable names in the mobile money data file, with a description of the questions and a key to the answer values.
