@@ -4,7 +4,7 @@ flavours:
 - none
 prerequisites:
   hard:
-  - topics/solo-learn/python/python-intermediate/5-working-with-lists
+  - topics/solo-learn/python/python-intermediate/5-working-with-files
   soft: []
 ready: true
 submission_type: link

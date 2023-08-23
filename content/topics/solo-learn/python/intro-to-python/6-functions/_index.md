@@ -2,7 +2,7 @@
 content_type: topic
 prerequisites:
   hard:
-  - topics/solo-learn/intro-to-python/5-working-with-list
+  - topics/solo-learn/python/intro-to-python/5-working-with-lists
   soft: []
 ready: true
 tags:
