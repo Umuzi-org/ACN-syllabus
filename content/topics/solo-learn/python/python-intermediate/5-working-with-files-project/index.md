@@ -4,7 +4,7 @@ flavours:
 - none
 prerequisites:
   hard:
-  - topics/solo-learn/python/python-intermediate/4-exceptions
+  - topics/solo-learn/python/python-intermediate/5-working-with-lists
   soft: []
 ready: true
 submission_type: link
@@ -19,3 +19,7 @@ Complete the above-mentioned module on Solo Learn.
 Please submit the link to your SoloLearn profile, for example, https://www.sololearn.com/profile/21320495
 
 We just need to make sure everyone is keeping up 💚
+
+## Instructions for the reviewer
+
+Please check if the learner submitted a link that works.

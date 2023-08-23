@@ -21,3 +21,7 @@ N.B. When signing up for the course ensure that you sign up for [Python Intermed
 Please submit the link to your SoloLearn profile, for example, https://www.sololearn.com/profile/21320495
 
 We just need to make sure everyone is keeping up 💚
+
+## Instructions for the reviewer
+
+Please check if the learner submitted a link that works.
