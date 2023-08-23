@@ -22,5 +22,6 @@ We just need to make sure everyone is keeping up 💚
 
 ## Instructions for the reviewer
 
-Please check if the learner submitted a link that works.
+- Please ensure that the learner submitted a link to their Solo Learn Profile.
+- Please ensure that the Introduction to Python course is under "Certificates".
 
