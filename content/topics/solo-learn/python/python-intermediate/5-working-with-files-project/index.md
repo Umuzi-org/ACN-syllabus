@@ -4,19 +4,17 @@ flavours:
 - none
 prerequisites:
   hard:
-  - topics/solo-learn/python/intro-to-python/6-functions
+  - topics/solo-learn/python/python-intermediate/4-exceptions
   soft: []
 ready: true
 submission_type: link
 tags:
 - python
 - solo-learn
-title: Solo Learn - Python Intermediate - 1 Collection Types
+title: Solo Learn - Python Intermediate - 5 Working with Files - Profile check
 ---
 
 Complete the above-mentioned module on Solo Learn.
-
-N.B. When signing up for the course ensure that you sign up for [Python Intermediate](https://www.sololearn.com/learn/courses/python-intermediate).
 
 Please submit the link to your SoloLearn profile, for example, https://www.sololearn.com/profile/21320495
 

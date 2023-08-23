@@ -4,17 +4,19 @@ flavours:
 - none
 prerequisites:
   hard:
-  - topics/solo-learn/python/python-intermediate/4-exceptions
+  - topics/solo-learn/python/python-intermediate/1-collection-types
   soft: []
 ready: true
 submission_type: link
 tags:
 - python
 - solo-learn
-title: Solo Learn - Python Intermediate - 5 Working with Files
+title: Solo Learn - Python Intermediate - 1 Collection Types - Profile check
 ---
 
 Complete the above-mentioned module on Solo Learn.
+
+N.B. When signing up for the course ensure that you sign up for [Python Intermediate](https://www.sololearn.com/learn/courses/python-intermediate).
 
 Please submit the link to your SoloLearn profile, for example, https://www.sololearn.com/profile/21320495
 
