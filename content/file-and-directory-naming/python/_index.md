@@ -3,7 +3,7 @@ _db_id: 769
 content_type: topic
 prerequisites:
   hard:
-  - topics/file-and-directory-naming/general
+  - file-and-directory-naming/general
 ready: true
 tags:
 - File and directory naming
@@ -16,7 +16,7 @@ title: File and directory naming in Python
 When naming files and directories in Python, you should use small letters and underscores to separate your words.
 This type of naming convention is called snake_case and is also used in naming Python variable and function names.
 
-### Do you think you've got it? 
+### Do you think you've got it?
 
 #### Directories
 
@@ -46,6 +46,7 @@ See below for some tips in naming your directories.
   
   > nevernameyourdirectorylikethis
 ```
+
 #### Files
 
 Test yourself again - do any of the examples below follow the recommended Python naming guidelines?

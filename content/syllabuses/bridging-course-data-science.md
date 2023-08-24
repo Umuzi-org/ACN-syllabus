@@ -35,7 +35,7 @@ title: Data science bridging course
 - {{< contentlink path="soft-skills/learning-how-to-learn" >}}
 - {{< contentlink path="soft-skills/how-to-master-fundamentals" >}}
 - {{< contentlink path="topics/clean-code/python" >}}
-- {{< contentlink path="topics/file-and-directory-naming/python" >}}
+- {{< contentlink path="file-and-directory-naming/python" >}}
 - {{< contentlink path="coding_aptitude_assessment/coding_challenges/task_1" flavour="python" >}}
 - {{< contentlink path="coding_aptitude_assessment/coding_challenges/task_2" flavour="python" >}}
 - {{< contentlink path="coding_aptitude_assessment/coding_challenges/task_3" flavour="python" >}}

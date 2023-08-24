@@ -8,7 +8,7 @@ title: Web frontend foundations
 - {{< contentlink path="topics/bootcamp/git-for-bootcamp" >}}
 - {{< contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/1-basic-javascript" >}}
 - {{< contentlink path="topics/clean-code/java-script" >}}
-- {{< contentlink path="topics/file-and-directory-naming/javascript" >}}
+- {{< contentlink path="file-and-directory-naming/javascript" >}}
 - {{< contentlink path="topics/how-to-ask-for-help-with-your-code" >}}
 - {{< contentlink path="projects/katas/level-2" flavour="javascript" >}}
 - {{< contentlink path="agile/agile-scrum" >}}

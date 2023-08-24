@@ -11,11 +11,11 @@ You can organize your files and directories in a logical and consistent manner b
 
 ## What should I consider when naming files and directories
 
-New files and directories (including third-party frameworks) should adhere to the recommended naming conventions, but if a library already exists that 
+New files and directories (including third-party frameworks) should adhere to the recommended naming conventions, but if a library already exists that
 has a different style, internal consistency should take precedence.
 
-## Language specific naming conventions 
+## Language specific naming conventions
 
-- Python : {{< contentlink path="topics/file-and-directory-naming/python" >}}
-- JavaScript : {{< contentlink path="topics/file-and-directory-naming/javascript" >}}
-- Java : {{< contentlink path="topics/file-and-directory-naming/java" >}}
+- Python : {{< contentlink path="file-and-directory-naming/python" >}}
+- JavaScript : {{< contentlink path="file-and-directory-naming/javascript" >}}
+- Java : {{< contentlink path="file-and-directory-naming/java" >}}
