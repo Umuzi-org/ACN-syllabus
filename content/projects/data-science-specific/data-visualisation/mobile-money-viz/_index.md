@@ -36,19 +36,7 @@ The [training](training.csv) dataset contains demographic information and what f
 
 This dataset is the geospatial mapping of all cash outlets in Tanzania in 2012. Cash outlets in this case included commercial banks, community banks, ATMs, micro-finance institutions, mobile money agents, bus stations and post offices. This data was collected by FSDT.
 
-## Instructions:
-
-1. Import the required libraries and load the datadatset [training](training.csv).
-   
-2. Explore the dataset. Are there any missing observations or columns where the data do not seem valid?
-
-3. Get basic descriptive statistics for the dataset.
-
-4. Create appropriate graphs to visually represent the relationship between financial services accessed (non-mobile, mobile, both) and age, gender, marital status, land ownership and type of income. Provide an interpretation for each graph.  
-
-5. What can you conclude about use of financial services in Tanzania so far? Which demographic are associated with mobile money use ?
-   
-## Variables
+## Metadata Information
 
 The table below gives the variable names in the mobile money data file, with a description of the questions and a key to the answer values.
 
@@ -188,3 +176,22 @@ Mobile_money_classification |   | 0 no mobile money and no other financial servi
 |       |               | 1 no mobile money, but at least one other financial service
 |       |               | 2 mobile money only
 |       |               | 3 mobile money and at least one other financial service
+
+
+## Instructions:
+
+1. Import the required libraries and load the datadatset [training](training.csv).
+   
+2. Explore the dataset. Are there any missing observations or columns where the data do not seem valid?
+
+3. Get basic descriptive statistics for the dataset.
+
+4. Create appropriate graphs to visually represent the relationship between financial services accessed (non-mobile, mobile, both) and age, gender, marital status, land ownership and type of income. Provide an interpretation for each graph.  
+
+5. What can you conclude about use of financial services in Tanzania so far? Which demographic are associated with mobile money use ?
+
+## Supporting Material:
+
+1. [Data Visualization Techniques] (https://www.datacamp.com/blog/data-visualization-techniques)
+   
+   
