@@ -192,6 +192,6 @@ Mobile_money_classification |   | 0 no mobile money and no other financial servi
 
 ## Supporting Material:
 
-1. [Data Visualization Techniques]_(https://www.datacamp.com/blog/data-visualization-techniques)
+1. [Data Visualization Techniques](https://www.datacamp.com/blog/data-visualization-techniques)
    
    
