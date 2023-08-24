@@ -23,7 +23,7 @@ tags:
 title: Financial Services Use in Tanzania
 ---
 
-## About DataSet
+## About the DataSet
 
 The [training](training.csv) dataset contains demographic information and what financial services are used by approximately 10,000 individuals across Tanzania. This data was extracted from the FSDT Finscope 2017 survey and prepared specifically for this challenge.
 
@@ -44,12 +44,11 @@ This dataset is the geospatial mapping of all cash outlets in Tanzania in 2012. 
 
 3. Get basic descriptive statistics for the dataset.
 
-4. Create appropriate graphs to visually represent the relationship between financial services accessed (non-mobile, mobile, both) and age, gender, marital status, land ownership and type of income. Provide interpretation for each graph.  
+4. Create appropriate graphs to visually represent the relationship between financial services accessed (non-mobile, mobile, both) and age, gender, marital status, land ownership and type of income. Provide an interpretation for each graph.  
 
 5. What can you conclude about use of financial services in Tanzania so far? Which demographic are associated with mobile money use ?
    
-## Variables (metadata information)
-
+## Variables
 The table below gives the variable names in the mobile money data file, with a description of the questions and a key to the answer values.
 
 | Variable ID       | Question             | Values           |
