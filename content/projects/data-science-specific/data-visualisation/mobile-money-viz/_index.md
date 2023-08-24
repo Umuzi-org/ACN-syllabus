@@ -49,6 +49,7 @@ This dataset is the geospatial mapping of all cash outlets in Tanzania in 2012. 
 5. What can you conclude about use of financial services in Tanzania so far? Which demographic are associated with mobile money use ?
    
 ## Variables
+
 The table below gives the variable names in the mobile money data file, with a description of the questions and a key to the answer values.
 
 | Variable ID       | Question             | Values           |
