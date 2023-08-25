@@ -56,7 +56,7 @@ Update the "thank you page" so that it only displays for 3 seconds and then redi
 
 ## Up for a challenge?
 
-So far, you've utilized only three API end points(`POST`, `GET` and `DELETE`). Can you figure out how to make use the `PUT` endpoint? The implementation here is completely up to you.
+We can now add, list and delete visitor objects. Add a feature that lets the user update a Visitor's details. Pay close attention to usability - how can you make this feature easy and obvious to the user?
 
 ## Resources
 
