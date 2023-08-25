@@ -34,7 +34,7 @@ Read through the K-Means Tutorials at {{< contentlink path="topics/data-science-
 
 Goal: Clustering whisky distilleries according to tasting Profiles
 
-Download Data: [Whisky Tasting Profiles](whisky.csv)
+Download the dataset: [Whisky Tasting Profiles](whisky.csv)
 
 ## Instructions
 
