@@ -44,11 +44,11 @@ If you want to you can just edit the html file we made in the last step. So long
 
 Please note that `index.html` is NOT the same as `Index.html`. Capital letters matter a lot in code. Please be extra careful about naming your files with the right case!
 
-### 2. Let's make some content 
+### 2. Let's add some content 
 
 You'll be adding a bunch of content to your html file. Please make sure that you are meeting all the requirements below:
 
-### 2.1 Add a `<head>` element
+#### 2.1 Add a `<head>` element
 
 You might not know what a `head` tag does just yet. You can learn about it [here](https://www.w3schools.com/html/html_head.asp).
 
@@ -58,7 +58,7 @@ Write some HTML code that meets the following requirements:
 - There must be one `<title>` element inside the head. Experiment a bit and make sure you know what the title does. You can give your page whatever title text you want. Eg: `<title>First website</title>`. 
 - There must be one `<meta>` element that sets the charset to `UTF-8`. It should look like this `<meta charset="UTF-8">`. 
 
-#### 2.2 The `<body>`
+##### 2.2 The `<body>`
 
 Write some HTML code that meets the following requirements:
 
@@ -67,7 +67,7 @@ Write some HTML code that meets the following requirements:
 - It needs to have ONE OR MORE paragraphs
 - There should be no text that is sitting outside of a heading or paragraph element.
 
-#### 2.3 Clean and valid code
+##### 2.3 Clean and valid code
 
 Please make sure that your code is clean and valid. Here are a few things to look out for:
 
@@ -76,7 +76,7 @@ Please make sure that your code is clean and valid. Here are a few things to loo
 - Any tag you open should get closed
 - Your index.html file should meet ALL of the requirements described
 - You should be able to open your index.html file in a browser and it should behave sensibly
-- Make use of an online HTML validator to check your own work. Here is a validator: https://validator.w3.org/ and [here[(https://www.youtube.com/watch?v=XXecps3jEVw) is a video to show you how to make use of the validator.
+- Make use of an online HTML validator to check your own work. Here is a validator: https://validator.w3.org/ and [here](https://www.youtube.com/watch?v=XXecps3jEVw) is a video showing you how to use the validator.
 
 ### Check yourself!
 
