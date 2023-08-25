@@ -11,7 +11,7 @@ For the next couple of weeks you are expected to behave like this is your full-t
 
 You will be expected to read and understand a lot of different things.
 
-Be a professional. Do your reading.
+Be a professional. Do all your reading.
 
 This takes a bit of self-discipline and focus. 
 
