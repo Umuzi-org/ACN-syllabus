@@ -28,7 +28,7 @@ title: K-Means Clustering Assignment
 
 ## Pre-requisites
 
-Read through the K-Means Tutorials at [contentlink] (http://syllabus.africacode.net/topics/data-science-specific/clustering/) {{< contentlink path="topics/data-science-specific/clustering" >}} before starting this project.
+Read through the K-Means Tutorials at {{< contentlink path="http://syllabus.africacode.net/topics/data-science-specific/clustering/" >}} before starting this project.
 
 ## About the DataSet
 
