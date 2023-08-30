@@ -26,7 +26,7 @@ In this topic, you will learn how to connect to a PostgreSQL database using node
 
 ### Pool
 
-[Getting started with Node & SQL using Pool](https://node-postgres.com/api/pool)
+[Getting started with Node & SQL using Pool](https://node-postgres.com/apis/pool)
 
 ### Tutorial
 
