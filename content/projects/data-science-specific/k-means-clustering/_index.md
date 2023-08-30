@@ -43,3 +43,7 @@ Download the dataset: [Whisky Tasting Profiles](whisky.csv)
 2. To see how successful clustering was, report relevant metrics (e.g. silhouette, adjusted rand index, etc.) and create a plot showing the different distilleries, their classes according to the k-Means clustering, and the distance between points. You can use `sklearn.manifold` to get Euclidean distances between points.
 
 3. Describe the main differences between the cluster - what are the factors that differ between classes?
+
+## Supporting Material
+1. https://www.analyticsvidhya.com/blog/2016/11/an-introduction-to-clustering-and-different-methods-of-clustering/
+2. https://adithsreeram.medium.com/the-best-beginners-guide-on-k-means-clustering-f3001cd27c8
