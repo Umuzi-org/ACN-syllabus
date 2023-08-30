@@ -22,7 +22,7 @@ In this topic, you will learn how to connect to a PostgreSQL database using node
 
 ### Client
 
-[Getting started with Node & SQL using Client](https://node-postgres.com/api/client)
+[Getting started with Node & SQL using Client](https://node-postgres.com/apis/client)
 
 ### Pool
 
