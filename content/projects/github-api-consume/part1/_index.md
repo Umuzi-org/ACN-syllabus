@@ -2,24 +2,24 @@
 _db_id: 186
 content_type: project
 flavours:
-- any_language
+  - any_language
 learning_outcomes:
-- web_dev_http_requests
-- web_dev_api_call_tools
-- web_dev_restful_apis
-- web_dev_json_data_representation
-- web_dev_api_consumption
+  - web_dev_http_requests
+  - web_dev_api_call_tools
+  - web_dev_restful_apis
+  - web_dev_json_data_representation
+  - web_dev_api_consumption
 prerequisites:
   hard:
-  - topics/apis/basics/
-  - topics/linux/os-environmental-variables
+    - topics/apis/basics/
+    - topics/linux/os-environmental-variables
   soft: []
 ready: true
 submission_type: repo
 tags:
-- api
-- github
-- logical-operators
+  - api
+  - github
+  - logical-operators
 title: Consume Github API
 ---
 
@@ -102,7 +102,6 @@ The function should return a list or array of pull requests on the repo such tha
 
 Play around with [this public repo](https://github.com/Umuzi-org/ACN-syllabus) and see if you can make it work.
 
-
 **If you are working in JavaScript** we should be able to call your function like this: `getPullRequests({ owner, repo, startDate, endDate})`. Take note of those curly brackets.
 
 ### Returned data structure
@@ -111,7 +110,7 @@ Here is an example of what the final data structure should look like if it was c
 
 ```bash
 # input
-get_pull_requests("Umuzi-org", "ACN-syllabus", "2022-03-01", "2022-03-10")
+get_pull_requests({"Umuzi-org", "ACN-syllabus", "2022-03-01", "2022-03-10"})
 
 # output
 [
@@ -132,14 +131,14 @@ Note that:
 - The id is an integer
 - the user is the person who created the pr
 
-### Error messages 
+### Error messages
 
 If the function is called with an "owner" that does not exist then the function should raise/throw and error. The error should include the following info:
 
 - the value of the `owner` argument
-- the fact that the owner was not found 
+- the fact that the owner was not found
 
-For example "repository owner snoopdoggiedog not found".  
+For example "repository owner snoopdoggiedog not found".
 
 If the owner is found but the repo seems to not exist then raise or throw an appropriate error.
 
@@ -148,11 +147,11 @@ If the owner is found but the repo seems to not exist then raise or throw an app
 Errors have been implemented in every modern language (even [this one](https://esolangs.org/wiki/COW)) because they are really useful. An error/exception is great because it tells a programmer:
 
 1. Exactly what line of code caused the problem
-2. The details of the problem 
+2. The details of the problem
 
 A good error message tells a programmer exactly what is wrong and how to fix it.
 
-A good programmer doesn't just catch errors and squash them thoughtlessly.  And a good programmer puts effort into writing good error messages.
+A good programmer doesn't just catch errors and squash them thoughtlessly. And a good programmer puts effort into writing good error messages.
 
 ### Pagination
 
@@ -166,7 +165,7 @@ Please implement pagination. Your `get_pull_requests` function should return a l
 
 Please fetch the maximum number of PRs per page(100) to avoid making too many api calls.
 
-#### Pagination resources 
+#### Pagination resources
 
 [Traversing with pagination](https://docs.github.com/en/rest/guides/traversing-with-pagination#basics-of-pagination).
 
@@ -174,9 +173,9 @@ Please fetch the maximum number of PRs per page(100) to avoid making too many ap
 
 Repos on Github can either be public or private. If you are trying to access a private repository then you'll need to authenticate using a token. Kindly generate the **classic token** and not the **fine-grained token** for this project authentication.
 
-Upgrade your code so that It makes use of an environmental variable called `GITHUB_TOKEN`. 
+Upgrade your code so that It makes use of an environmental variable called `GITHUB_TOKEN`.
 
-If the token is provided then it should ALWAYS be included in the header of requests sent to Github. If it is not provided then it should not be included. 
+If the token is provided then it should ALWAYS be included in the header of requests sent to Github. If it is not provided then it should not be included.
 
 ## Instructions for reviewers
 
