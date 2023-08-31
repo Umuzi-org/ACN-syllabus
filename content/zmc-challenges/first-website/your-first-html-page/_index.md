@@ -58,7 +58,7 @@ Write some HTML code that meets the following requirements:
 - There must be one `<title>` element inside the head. Experiment a bit and make sure you know what the title does. You can give your page whatever title text you want. Eg: `<title>First website</title>`. 
 - There must be one `<meta>` element that sets the charset to `UTF-8`. It should look like this `<meta charset="UTF-8">`. 
 
-##### 2.2 The `<body>`
+#### 2.2 The `<body>`
 
 Write some HTML code that meets the following requirements:
 
@@ -67,7 +67,7 @@ Write some HTML code that meets the following requirements:
 - It needs to have ONE OR MORE paragraphs
 - There should be no text that is sitting outside of a heading or paragraph element.
 
-##### 2.3 Clean and valid code
+#### 2.3 Clean and valid code
 
 Please make sure that your code is clean and valid. Here are a few things to look out for:
 
