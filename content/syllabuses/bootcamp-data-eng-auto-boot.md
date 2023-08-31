@@ -22,6 +22,7 @@ Things after this point are not strictly part of the bootcamp. It's extra stuff 
 - {{< contentlink path="projects/tilde/repo-card-tutorial/part-2" >}}
 - {{< contentlink path="projects/katas/level-1" flavour="python" >}}
 - {{< contentlink path="topics/solo-learn/python/python-intermediate/1-collection-types" >}}
+- {{< contentlink path="topics/solo-learn/python/python-intermediate/1-collection-types-project" >}}
 - {{< contentlink path="projects/katas/level-2" flavour="python" >}}
 - {{< contentlink path="topics/python-specific/oop-for-python" >}}
 - {{< contentlink path="topics/solo-learn/python/python-intermediate/3-oop" >}}

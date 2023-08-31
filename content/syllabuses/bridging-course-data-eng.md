@@ -18,6 +18,7 @@ title: Data eng bridging course
 ## Quick wins
 
 - {{< contentlink path="topics/solo-learn/python/intro-to-python/1-getting-started-with-python" >}}
+- {{< contentlink path="topics/solo-learn/python/intro-to-python/1-getting-started-with-python-project" >}}
 - {{< contentlink path="topics/solo-learn/python/intro-to-python/2-going-deeper-with-python" >}}
 - {{< contentlink path="topics/solo-learn/python/intro-to-python/3-working-with-data" >}}
 - {{< contentlink path="topics/solo-learn/python/intro-to-python/4-control-flow" >}}
@@ -32,6 +33,7 @@ title: Data eng bridging course
 ## The real work
 
 - {{< contentlink path="topics/solo-learn/python/python-intermediate/1-collection-types" >}}
+- {{< contentlink path="topics/solo-learn/python/python-intermediate/1-collection-types-project" >}}
 - {{< contentlink path="soft-skills/learning-how-to-learn" >}}
 - {{< contentlink path="soft-skills/how-to-master-fundamentals" >}}
 - {{< contentlink path="topics/clean-code/python" >}}

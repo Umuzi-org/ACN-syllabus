@@ -31,3 +31,5 @@ _db_id: 4
 - {{< contentlink path="sql/shop-project" flavour="" >}}
 - {{< contentlink path="projects/understanding-loops" flavour="python" >}}
 - {{< contentlink path="topics/solo-learn/python/python-intermediate/5-working-with-files" >}}
+- {{< contentlink path="topics/solo-learn/python/python-intermediate/5-working-with-files-project" >}}
+

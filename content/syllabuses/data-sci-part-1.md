@@ -11,6 +11,7 @@ title: Data Science - part 1
 - {{< contentlink path="topics/how-to-ask-for-help-with-your-code" >}}
 - {{< contentlink path="topics/code-reviews/part-2-author" >}}
 - {{< contentlink path="topics/solo-learn/python/python-intermediate/1-collection-types" >}}
+- {{< contentlink path="topics/solo-learn/python/python-intermediate/1-collection-types-project" >}}
 - {{< contentlink path="projects/katas/level-2" flavour="python" >}}
 - {{< contentlink path="specific-skill-success-criteria/introduction-to-assessments" >}}
 - {{< contentlink path="specific-skill-success-criteria/functions-and-return" flavour="python" >}}
