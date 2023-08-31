@@ -76,7 +76,7 @@ Please make sure that your code is clean and valid. Here are a few things to loo
 - Any tag you open should get closed
 - Your index.html file should meet ALL of the requirements described
 - You should be able to open your index.html file in a browser and it should behave sensibly
-- Make use of an online HTML validator to check your own work. Here is a validator: https://validator.w3.org/ and [here](https://www.youtube.com/watch?v=XXecps3jEVw) is a video showing you how to use the validator.
+- Make use of an online HTML validator to check your own work. [Here](https://validator.w3.org/) is a recommended HTML validator, and [here](https://www.youtube.com/watch?v=XXecps3jEVw) is a video showing you how to use the validator.
 
 ### Check yourself!
 
