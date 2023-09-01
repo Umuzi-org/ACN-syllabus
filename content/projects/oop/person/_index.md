@@ -27,7 +27,7 @@ Your directory structure should look like this.
 person.js
 ```
 
-It is important that you export your class correctly. Include the following line at the in of your `person.js` file
+It is important that you export your class correctly. Include the following line at the end of your `person.js` file.
 
 ```
 module.exports = { Person };
