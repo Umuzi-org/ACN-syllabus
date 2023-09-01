@@ -27,7 +27,7 @@ tags:
 title: Natural language processing
 ---
 
-Test The contents of the State of the Nation Address (SONA) for every year dating back to 1990 is available on the [South African Government website](https://www.gov.za/state-nation-address). This gives us a great opportunity to look at the priorities and challenges have faced over time, and the focus points for the various presidents over this time.
+The contents of the State of the Nation Address (SONA) for every year dating back to 1990 is available on the [South African Government website](https://www.gov.za/state-nation-address). This gives us a great opportunity to look at the priorities and challenges have faced over time, and the focus points for the various presidents over this time.
 
 1. Create a corpus from the English-language text for the SONAs dating back to 2000. Save them with the speaker information and date for later analysis. Where there is more than one SONA per year, get both.
 
