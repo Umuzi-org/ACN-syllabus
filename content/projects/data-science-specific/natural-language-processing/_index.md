@@ -26,8 +26,10 @@ tags:
 - textblob
 title: Natural language processing
 ---
-
+## About the Dataset
 The contents of the State of the Nation Address (SONA) for every year dating back to 1990 is available on the [South African Government website](https://www.gov.za/state-nation-address). This gives us a great opportunity to look at the priorities and challenges have faced over time, and the focus points for the various presidents over this time.
+
+## Instructions
 
 1. Create a corpus from the English-language text for the SONAs dating back to 2000. Save them with the speaker information and date for later analysis. Where there is more than one SONA per year, get both.
 
@@ -47,3 +49,10 @@ The contents of the State of the Nation Address (SONA) for every year dating bac
 6. Use [spaCy-TextBlob](https://spacy.io/universe/project/spacy-textblob) to do sentiment analysis of the SONAs. Get the polarity and subjectivity for each SONA and visualise the changes in polarity and subjectivity over time. Also create a graph of the average polarity and subjectivity by president. Do you notice any patterns?
 
 7. How have focus areas and sentiment in the SONAs changed over the last twenty years in South Africa? Are there clear changes in focus areas between different presidents?
+
+## Supporting Material
+1. https://www.analyticsvidhya.com/blog/2021/06/nlp-application-named-entity-recognition-ner-in-python-with-spacy/
+   
+2. https://towardsdatascience.com/machine-learning-for-text-classification-using-spacy-in-python-b276b4051a49
+
+3. https://realpython.com/natural-language-processing-spacy-python/
