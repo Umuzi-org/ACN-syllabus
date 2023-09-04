@@ -2,10 +2,10 @@
 _db_id: 223
 content_type: project
 flavours:
-  - any_language
+- any_language
 learning_outcomes:
-  - code_oop_encapsulation
-  - code_oop_class_instantiation
+- code_oop_encapsulation
+- code_oop_class_instantiation
 prerequisites:
   hard: []
   soft: []
@@ -13,7 +13,7 @@ ready: true
 story_points: 2
 submission_type: repo
 tags:
-  - oop
+- oop
 title: Person
 ---
 

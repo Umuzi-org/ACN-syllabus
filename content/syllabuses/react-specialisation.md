@@ -14,4 +14,4 @@ _db_id: 30
 - {{< contentlink path="projects/recipe-search/part-2" flavour="react,javascript" >}}
 - {{< contentlink path="topics/web-frontend/browser-based-storage" >}}
 - {{< contentlink path="topics/redux-saga" >}}
-- {{< contentlink path="projects/redux-saga-intro" flavour="react,javascript" >}}
+- {{< contentlink path="projects/redux-saga-intro" flavour="javascript" >}}

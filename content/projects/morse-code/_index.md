@@ -69,4 +69,3 @@ morseCodeToLetters("")
 - https://morsecode.scphillips.com/translator.html
 - https://morsecode.world/international/morse2.html
 - https://www.electronics-notes.com/articles/ham_radio/morse_code/characters-table-chart.php
-
