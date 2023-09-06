@@ -16,6 +16,8 @@ title: Solo Learn - Intro to Python - 6 Functions - Profile check
 
 Complete the above-mentioned module on Solo Learn.
 
+Ensure you check your own profile to ensure that it shows that you have completed the [Introduction to Python](https://www.sololearn.com/learn/courses/python-introduction) course.
+
 Please submit the link to your SoloLearn profile, for example, https://www.sololearn.com/profile/21320495
 
 We just need to make sure everyone is keeping up 💚

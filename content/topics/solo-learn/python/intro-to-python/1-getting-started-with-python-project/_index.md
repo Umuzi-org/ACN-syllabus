@@ -18,6 +18,8 @@ Complete the above-mentioned module on Solo Learn.
 
 N.B. When signing up for the course ensure that you sign up for [Introduction to Python](https://www.sololearn.com/learn/courses/python-introduction).
 
+Ensure you check your own profile to ensure that it shows that you have started the [Introduction to Python](https://www.sololearn.com/learn/courses/python-introduction) course.
+
 Please submit the link to your SoloLearn profile, for example, https://www.sololearn.com/profile/21320495
 
 We just need to make sure everyone is keeping up 💚
