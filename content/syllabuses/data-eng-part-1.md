@@ -4,6 +4,7 @@ _db_id: 4
 ---
 
 - {{< contentlink path="topics/solo-learn/python/python-intermediate/1-collection-types" >}}
+- {{< contentlink path="topics/solo-learn/python/python-intermediate/1-collection-types-project" >}}
 - {{< contentlink path="agile/agile-scrum" >}}
 - {{< contentlink path="topics/clean-code/python" >}}
 - {{< contentlink path="topics/file-and-directory-naming/python" >}}
