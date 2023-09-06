@@ -8,3 +8,6 @@ title: Data Engineering boot camp - quick wins
 - {{< contentlink path="topics/solo-learn/python/intro-to-python/2-going-deeper-with-python" >}}
 - {{< contentlink path="topics/solo-learn/python/intro-to-python/3-working-with-data" >}}
 - {{< contentlink path="topics/solo-learn/python/intro-to-python/4-control-flow" >}}
+- {{< contentlink path="topics/solo-learn/python/intro-to-python/5-working-with-lists" >}}
+- {{< contentlink path="topics/solo-learn/python/intro-to-python/6-functions" >}}
+- {{< contentlink path="topics/solo-learn/python/intro-to-python/6-functions-project" >}}
