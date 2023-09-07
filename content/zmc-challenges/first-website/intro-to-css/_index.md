@@ -45,8 +45,8 @@ Make sure that the CSS styles are being applied when you view your website.
 
 There are 2 different things you should do here:
 
-1. Go to this website and validate your CSS: https://jigsaw.w3.org/css-validator/validator.html.en#validate_by_input
-2. Upload your latest changes to GitHub and make sure your page looks how you expect it to look
+1. Go to [this website](https://jigsaw.w3.org/css-validator/validator.html.en#validate_by_input) and validate your CSS.
+2. Upload your latest changes to GitHub and make sure your page looks how you expect it to look.
 
 ### 4. Submit your work 
 
