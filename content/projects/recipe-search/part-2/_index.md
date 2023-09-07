@@ -40,3 +40,5 @@ If you want to be marked as excellent then there are a few things you can do:
 
 - Add a "next" and "previous" button to add paging to your application. Or, better yet, automatically fetch the next page of results as the user scrolls to the end of the returned recipes list.
 - Make use of a [spinner widget](https://material-ui.com/components/progress/) to show that the search results are still loading.
+
+Please test your code, you will be expected to use a react testing library to test your components, here is the documentation {{< contentlink path="topics/web-frontend/react/unit-testing" >}}.

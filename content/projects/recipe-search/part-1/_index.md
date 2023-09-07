@@ -46,3 +46,5 @@ In real life applications it usually makes sense to use a combination of redux a
 ## Hints
 
 Take a look at the api. Be sure that you understand that the ingredients and the search query are two different things. The user should be made aware of this through an intuitive looking form.
+
+Please test your code, you will be expected to use a react testing library to test your components, here is the documentation {{< contentlink path="topics/web-frontend/react/unit-testing" >}}.
