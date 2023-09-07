@@ -42,10 +42,10 @@ getCustomerBaskets("sine@umuzi.org", customerBaskets);
 // The problem with the above code is that if you get the order of the parameters wrong, then things will break. Your functions should work like this instead:
 
 // DEFINE YOUR FUNCTION LIKE THIS
-function getCustomerBaskets({ allShoppingBaskets, email }) {...}
+function getCustomerBaskets({ email, allShoppingBaskets }) {...}
 
 // YOU CAN CALL IT LIKE THIS
-getCustomerBaskets({allShoppingBaskets, email}) //DO THIS
+getCustomerBaskets({ email: "sine@umuzi.org", allShoppingBaskets }) //DO THIS
 ```
 
 #### JavaScript Exports
