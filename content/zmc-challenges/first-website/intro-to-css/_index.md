@@ -16,7 +16,7 @@ title: Introducing CSS
 
 Earlier on in this challenge, we mentioned that CSS can be used to give your HTML style.
 
-[Here](https://www.w3schools.com/css/) is a great tutorial on CSS.  You won't need to know the whole thing right now. Just read up until the end of "How To"
+[Here](https://www.w3schools.com/css/) is a great tutorial on CSS.  You won't need to know the whole thing right now. Just read up until the end of "How To". We have also created a basic video walkthrough for you [here](https://www.youtube.com/watch?v=qa1Dku46jrY)
 
 ## Project instructions
 
