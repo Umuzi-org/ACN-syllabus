@@ -24,7 +24,7 @@ tags:
 - sentiment-analysis
 - nltk
 - textblob
-title: Natural language processing
+title: Natural language processing.
 ---
 
 The contents of the State of the Nation Address (SONA) for every year dating back to 1990 is available on the [South African Government website](https://www.gov.za/state-nation-address). This gives us a great opportunity to look at the priorities and challenges have faced over time, and the focus points for the various presidents over this time.
