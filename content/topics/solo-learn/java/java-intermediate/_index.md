@@ -13,8 +13,12 @@ submission_type: link
 tags:
 - java
 - solo-learn
-title: Java Intermediate 
+title: Java Intermediate - Profile Check
 project_needs_review: true
 ---
 
-Please submit the link to your profile e.g https://www.sololearn.com/profile/21320495
+Ensure you check your own profile to ensure that it shows that you have completed the [Java Intermediate](https://www.sololearn.com/learn/courses/java-intermediate) course.
+
+Please submit the link to your SoloLearn profile, for example, https://www.sololearn.com/profile/21320495
+
+We just need to make sure everyone is keeping up 💚
