@@ -22,6 +22,7 @@ story_points: 1
 submission_type: link
 tags:
 - git
+- ncit-project
 title: Git Basic Exercises
 ---
 
