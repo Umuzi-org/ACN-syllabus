@@ -44,7 +44,7 @@ The contents of the State of the Nation Address (SONA) for every year dating bac
 
 4. How do the speeches compare in terms of complexity and length? How many speeches are there per president? On average, which presidents use the most unique words and which presidents use the most words?
 
-5. Create word clouds to visualise the speeches for each president. What are the main issues that they talked about during their presidency?
+5. Create word clouds to visualize the speeches for each president. What are the main issues that they talked about during their presidency?
 
 6. Use [spaCy-TextBlob](https://spacy.io/universe/project/spacy-textblob) to do sentiment analysis of the SONAs. Get the polarity and subjectivity for each SONA and visualise the changes in polarity and subjectivity over time. Also create a graph of the average polarity and subjectivity by president. Do you notice any patterns?
 
