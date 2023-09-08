@@ -20,6 +20,7 @@ _db_id: 4
 - {{< contentlink path="workshops/general-coding-best-practices" >}}
 - {{< contentlink path="topics/python-specific/automated-testing-with-pytest" >}}
 - {{< contentlink path="specific-skill-success-criteria/for-loops" flavour="python" >}}
+- {{< contentlink path="topics/solo-learn/python/python-intermediate/2-functional-programming" >}}
 - {{< contentlink path="projects/tdd/password-checker/part1" flavour="python" >}}
 - {{< contentlink path="topics/python-specific/oop-for-python" >}}
 - {{< contentlink path="topics/python-specific/virtual-envs/" >}}
