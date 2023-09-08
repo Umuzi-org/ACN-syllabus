@@ -26,7 +26,7 @@ tags:
 - textblob
 title: Natural language processing.
 ---
-In order to help you develop your NLP skills, we have prepared two datasets for you to work with. These datasets are designed to improve your understanding of text processing, sentiment analysis, and text classification. You have the option to work on either one dataset or both datasets. Please follow the instructions below to get started:
+In order to help you develop your NLP skills, we have prepared two datasets for you to work with.These datasets are designed to improve your understanding of text processing, sentiment analysis, and text classification. You have the option to work on either one dataset or both datasets. Please follow the instructions below to get started:
 
 ## Dataset 1: [Movie Reviews Sentiment Analysis](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
