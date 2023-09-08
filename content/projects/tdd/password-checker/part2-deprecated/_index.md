@@ -27,7 +27,6 @@ Your directory structure should look like this:
 ├── spec
 |   ├── support
 |   |   └── jasmine.json
-|   └── password_is_valid_spec.js
 |   └── password_strength_spec.js
 ├── src
 |   └── password_checker.js
@@ -67,34 +66,14 @@ Your directory structure should look like this:
 
 ## General instructions
 
-In part 1 of this exercise you created two functions. Now you are going to upgrade that program by adding some logging capabilities.
+In part 1 of this exercise, you created a function called `password strength`. Now you are going to upgrade that program by adding some logging capabilities.
 You are expected to use the recommended logging library(or framework) for your programming language:
 
 - Javascript: Winston
 - Java: log4J-2
 - Python: logging
 
-
-
-1. Whenever `passwordIsValid` returns true, log the following message
-
-```
-User password is valid
-```
-
-Otherwise:
-
-```
-User password is not valid
-```
-
-The log level of these messages should be `debug`.
-
-Make sure that your messages get printed to the standard output / terminal / console.
-
-Take note, we aren't actually logging the user's password. In general you want to avoid logging sensitive information.
-
-2. Whenever an exception is raised by `passwordIsValid` then log the exact error message.
+Whenever a criteria is not met in the `password strength` function, then log the exact criteria message.
 
 - The log level should be `error`.
 - The log should be printed to the standard output / terminal / console.
@@ -107,7 +86,6 @@ Take note, we aren't actually logging the user's password. In general you want t
 ## Instructions for reviewer
 
 - Make sure that all the previous tests still pass.
-- Different errors should be logged at different levels `debug` vs `error`.
 - Are the log messages printed to the standard output / terminal / console?
 - Are the correct errors stored in `errors.log`? Only one type should be there.
 - User passwords should NEVER be logged.
