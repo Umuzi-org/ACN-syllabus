@@ -41,8 +41,10 @@ For more dataset information, please go through the following [link](http://ai.s
 4. Build and train a machine learning or deep learning model to classify movie reviews as either positive or negative.
 5. Evaluate the performance of your model using appropriate metrics (accuracy, precision, recall, F1-score).
 
-## Dataset 2:
-The contents of the State of the Nation Address (SONA) for every year dating back to 1990 is available on the [South African Government website](https://www.gov.za/state-nation-address). This gives us a great opportunity to look at the priorities and challenges have faced over time, and the focus points for the various presidents over this time.
+## Dataset 2: The contents of the State of the Nation Address (SONA) for every year dating back to 1990 is available on the [South African Government website](https://www.gov.za/state-nation-address).
+
+### Description:
+This gives us a great opportunity to look at the priorities and challenges have faced over time, and the focus points for the various presidents over this time.
 
 ## Instructions:
 1. Create a corpus from the English-language text for the SONAs dating back to 2000. Save them with the speaker information and date for later analysis. Where there is more than one SONA per year, get both.
