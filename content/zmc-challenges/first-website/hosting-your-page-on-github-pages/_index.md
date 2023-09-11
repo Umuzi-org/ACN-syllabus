@@ -93,6 +93,8 @@ Navigate to your website. Does it look the way you expected?
 
 **Note:** Sometimes it can take a few minutes for the website to go live. If it's not working then wait a few minutes and check again.
 
+**Note** If you are working on a computer/PC, we have compiled a video detailing how to do the steps outlined above. See the video demonstration [here](https://www.youtube.com/watch?v=auWR5JOiZt4) .
+
 ### 7. Submit your work 
 
 Once your website is up and running you can submit this project.
