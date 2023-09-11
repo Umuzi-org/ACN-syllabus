@@ -110,7 +110,12 @@ Here is an example of what the final data structure should look like if it was c
 
 ```bash
 # input
-get_pull_requests({"Umuzi-org", "ACN-syllabus", "2022-03-01", "2022-03-10"})
+get_pull_requests({
+  owner: "Umuzi-org",
+  repo: "ACN-syllabus",
+  startDate: "2022-03-01",
+  endDate:"2022-03-10"
+});
 
 # output
 [
