@@ -109,14 +109,44 @@ Play around with [this public repo](https://github.com/Umuzi-org/ACN-syllabus) a
 Here is an example of what the final data structure should look like if it was converted into JSON. This isn't the exact data you should expect, just pay close attention to the structure:
 
 ```bash
+// Javascript
+
 # input
-get_pull_requests({
+getPullRequests({
   owner: "Umuzi-org",
   repo: "ACN-syllabus",
   startDate: "2022-03-01",
   endDate:"2022-03-10"
 });
 
+```
+
+```bash
+# Python
+
+# input
+get_pull_requests({
+  owner="Umuzi-org",
+  repo="ACN-syllabus",
+  startDate="2022-03-01",
+  endDate=2022-03-10"
+})
+
+```
+
+```bash
+// Java
+
+# input
+getPullRequests(
+  owner,
+  repo,
+  startDate,
+  endDate
+)
+```
+
+```bash
 # output
 [
   {"id": 876359209, "user":"FaithMo", "title":"added data sci and eng info", "state":"open", "created_at":"2022-03-10"},
