@@ -12,6 +12,7 @@ tags:
 - data structures
 - algorithms
 - problem solving
+- ncit-project
 title: Get started with HackerRank
 ---
 

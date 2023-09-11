@@ -21,6 +21,7 @@ story_points: 3
 submission_type: repo
 tags:
 - sql
+- ncit-project
 title: Shop Database using sql
 ---
 
