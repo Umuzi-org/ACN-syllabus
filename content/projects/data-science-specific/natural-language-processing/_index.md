@@ -31,14 +31,14 @@ In order to help you develop your NLP skills, we have prepared two datasets for 
 ## Dataset 1: [Movie Reviews Sentiment Analysis](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
 ### Description: 
-This dataset contains a collection of movie reviews, each labeled with its corresponding sentiment (positive or negative). This is a dataset for binary sentiment classification containing substantially more data than previous benchmark datasets. We provide a set of 25,000 highly polar movie reviews for training and 25,000 for testing. So, predict the number of positive and negative reviews using either classification or deep learning algorithms.
+This dataset contains a collection of movie reviews, each labeled with its corresponding sentiment (positive or negative). This is a dataset for binary sentiment classification containing substantially more data than previous benchmark datasets. We provide a set of 25,000 highly polar movie reviews for training and 25,000 for testing. So, predict the number of positive and negative reviews using Logistic Regression or other classification algorithms.
 For more dataset information, please go through the following [link](http://ai.stanford.edu/~amaas/data/sentiment/)
 
 ## Instructions:
 1. Download the dataset file named "Movie Reviews Sentiment Analysis" from the provided link.
 2. Perform data preprocessing tasks such as tokenization, stopword removal, and lowercasing.
 3. Explore the dataset to gain insights into its distribution of sentiments.
-4. Build and train a machine learning or deep learning model to classify movie reviews as either positive or negative.
+4. Build and train a machine learning learning model to classify movie reviews as either positive or negative.
 5. Evaluate the performance of your model using appropriate metrics (accuracy, precision, recall, F1-score).
 
 ## Dataset 2: The contents of the State of the Nation Address (SONA) for every year dating back to 1990 is available on the [South African Government website](https://www.gov.za/state-nation-address).
