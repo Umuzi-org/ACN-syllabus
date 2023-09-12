@@ -75,7 +75,7 @@ We are going to use a simple supervised learning technique: linear regression. W
 
 10. How does your model compare when running it on the test set? - what is the difference in the Root Mean Square Error (RMSE) between the training and test sets? Is there any evidence of overfitting?
 
-11. We have only looked at the number of years an employee has worked. What other employee characteristics and Why do you think these characteristics might influence their salary?
+11. We have only looked at the number of years an employee has worked. What other employee characteristics and why do you think these characteristics might influence their salary?
 
 ## Instructions for reviewer
 
