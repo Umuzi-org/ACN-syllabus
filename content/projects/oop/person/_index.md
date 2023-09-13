@@ -14,7 +14,6 @@ story_points: 2
 submission_type: repo
 tags:
 - oop
-- ncit-project
 title: Person
 ---
 
