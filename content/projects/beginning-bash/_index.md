@@ -8,7 +8,6 @@ ready: true
 submission_type: repo
 tags:
 - bash
-- ncit-project
 title: Beginning Bash
 ---
 

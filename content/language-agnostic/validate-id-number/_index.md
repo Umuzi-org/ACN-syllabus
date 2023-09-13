@@ -17,7 +17,6 @@ tags:
 - tdd
 - problem-solving
 - validation
-- ncit-project
 title: Validate a South African ID number
 ---
 
