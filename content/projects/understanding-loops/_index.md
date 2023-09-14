@@ -45,7 +45,7 @@ getCustomerBaskets("sine@umuzi.org", shoppingBaskets);
 function getCustomerBaskets({ shoppingBaskets, email }) {...}
 
 // YOU CAN CALL IT LIKE THIS
-getCustomerBaskets({shoppingBaskets, email}) //DO THIS
+getCustomerBaskets({shoppingBaskets, email: "sine@umuzi.org"}) //DO THIS
 ```
 
 #### JavaScript Exports
