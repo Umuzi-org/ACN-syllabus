@@ -25,6 +25,7 @@ The game should have the following elements:
 4. A way to die or lose the game
 
 There are a few options for number 4. Here are some ideas:
+
 - maybe if a monster gets you then you die (or lose some health points)
 - maybe you die if you don't gather points quickly enough
 - maybe there is something shooting at you and you have to dodge
@@ -50,4 +51,4 @@ Please update your README file to include:
 
 You need to use React, redux and redux-saga. Your code needs to be clean and beautiful as always.
 
-Please test your code!
+Please test your code, you will be expected to use a react testing library to test your components, here is the documentation {{< contentlink path="topics/web-frontend/react/unit-testing" >}}.

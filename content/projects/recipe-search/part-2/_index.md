@@ -33,6 +33,7 @@ Add a Button labelled "Search" to your web application. When the user clicks on 
 1. Access the api using a thunk.
 2. Once the results arrive, display each recipe's name, ingredients and picture in a nice and neat way.
 3. Make sure that the user can easily do another search without having to refresh the page or anything weird like that.
+4. Please test your code, you will be expected to use a react testing library to test your components, here is the documentation {{< contentlink path="topics/web-frontend/react/unit-testing" >}}.
 
 ## Getting to Excellent
 
