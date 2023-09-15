@@ -17,6 +17,8 @@ _db_id: 3
 - {{< contentlink path="topics/how-to-ask-for-help-with-your-code" >}}
 - {{< contentlink path="javascript-debugging-in-vscode" >}}
 - {{< contentlink path="specific-skill-success-criteria/for-loops" flavour="javascript" >}}
+- {{< contentlink path="code_comments/introduction-to-code-commenting" >}}
+- {{< contentlink path="code_comments/code-comments" >}}
 - {{< contentlink path="projects/katas/level-2" flavour="javascript" >}}
 - {{< contentlink path="language-agnostic/intro-to-hackerrank" flavour="javascript" >}}
 - {{< contentlink path="topics/free-code-camp/responsive-web-design/1-basic-html-and-html-5" >}}
