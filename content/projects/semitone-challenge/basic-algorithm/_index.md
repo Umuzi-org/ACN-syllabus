@@ -113,19 +113,13 @@ Make a class called `JamBuddy`. A JamBuddy instance should be able to keep track
 
 It should have the following functions:
 
-### JavaScript and Python
-
-- `set current notes`: This should take an array/list of 2 notes as an argument. Each note is a string. If an incorrect note is passed in, for example `B#`, then raise/throw an Error/Exception with an appropriate error message.
+- `set current notes`: This should take an array is you are using Java or JavaScript and a list if you are using Python of 2 notes as an argument. Each note is a string. If an incorrect note is passed in, for example `B#`, then raise/throw an Error/Exception with an appropriate error message.
 - `get current notes`: This should return an array/list of the currently selected notes
+
+Note: If you are using Java, please use an Array of Strings for the above functions
+
 - `randomize current notes`: This will pick 2 notes at random and then store them in the JamBuddy instance. It should never select 2 of the same note
 - `check answer`: This should take in an integer and return a boolean true if the answer is correct and false if the answer is incorrect. Note that since the note circle is a circle, there will always be 2 correct answers. For example, the distance between A and A# is 1 if you go clockwise, and 11 if you go anti-clockwise. Both answers are correct.
-
-### Java
-- `set current notes`: This should take an array of 2 notes as an argument. Each note is a string. If an incorrect note is passed in, for example `B#`, then raise/throw an Error/Exception with an appropriate error message.
-- `get current notes`: This should return a String array of the currently selected notes
-- `randomize current notes`: This will pick 2 notes at random and then store them in the JamBuddy instance. It should never select 2 of the same note
-- `check answer`: This should take in an integer and return a boolean true if the answer is correct and false if the answer is incorrect. Note that since the note circle is a circle, there will always be 2 correct answers. For example, the distance between A and A# is 1 if you go clockwise, and 11 if you go anti-clockwise. Both answers are correct.
-
 
 For now don't worry about "flat" notes. The game will only be played with the following notes:
 
