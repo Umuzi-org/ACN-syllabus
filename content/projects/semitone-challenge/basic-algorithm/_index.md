@@ -113,7 +113,7 @@ Make a class called `JamBuddy`. A JamBuddy instance should be able to keep track
 
 It should have the following functions:
 
-- `set current notes`: This should take an array is you are using Java or JavaScript and a list if you are using Python of 2 notes as an argument. Each note is a string. If an incorrect note is passed in, for example `B#`, then raise/throw an Error/Exception with an appropriate error message.
+- `set current notes`: This should take an array/list of 2 notes as an argument. Each note is a string. If an incorrect note is passed in, for example `B#`, then raise/throw an Error/Exception with an appropriate error message.
 - `get current notes`: This should return an array/list of the currently selected notes
 
 Note: If you are using Java, please use an Array of Strings for the above functions
