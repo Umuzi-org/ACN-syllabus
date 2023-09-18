@@ -13,6 +13,7 @@ tags:
 - scrum
 - scrum-master
 - psm
+- close_on_peer_reviews
 title: Scrum and Product Owner practice quizzes
 ---
 
@@ -20,7 +21,7 @@ Well done on your progress so far. There has been a lot covered but also a lot o
 
 Before you are ready to write the actual exam you will be doing a number of practice tests.
 
-Write both the Product Owner and the Scrum Master Practice Tests from [ScrumQuiz.org](http://scrumquiz.org/#/) keep rewriting until you can consistently get over 90%. Ensure that you are understanding the answers and the reasoning behind them not just memorizing the questions and answers.
+Write both the Product Owner and the Scrum Master Practice Tests from [ScrumQuiz.org](http://scrumquiz.org/#/) keep rewriting until you can consistently get 90% or above. Ensure that you are understanding the answers and the reasoning behind them not just memorizing the questions and answers.
 
 Take a screenshot of your successful test, put both the successful tests on one doc, upload it to your Google Drive and submit.
 

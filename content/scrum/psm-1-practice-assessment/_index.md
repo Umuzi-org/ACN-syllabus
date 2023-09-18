@@ -13,6 +13,7 @@ tags:
 - scrum
 - scrum-master
 - psm
+- close_on_peer_reviews
 title: PSM 1 Practice Assessment
 ---
 
