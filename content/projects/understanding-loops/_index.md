@@ -34,18 +34,18 @@ Let's say you have a function called getCustomerBaskets that takes an email addr
 
 ```
 // DON'T DEFINE YOUR FUNCTION LIKE THIS
-function getCustomerBaskets(allShoppingBaskets, "sine@umuzi.org"){...}
+function getCustomerBaskets(shoppingBaskets, "sine@umuzi.org"){...}
 
 // DON'T CALL YOUR FUNCTION LIKE THIS
-getCustomerBaskets("sine@umuzi.org", customerBaskets);
+getCustomerBaskets("sine@umuzi.org", shoppingBaskets);
 
 // The problem with the above code is that if you get the order of the parameters wrong, then things will break. Your functions should work like this instead:
 
 // DEFINE YOUR FUNCTION LIKE THIS
-function getCustomerBaskets({ allShoppingBaskets, email }) {...}
+function getCustomerBaskets({ shoppingBaskets, email }) {...}
 
 // YOU CAN CALL IT LIKE THIS
-getCustomerBaskets({allShoppingBaskets, email}) //DO THIS
+getCustomerBaskets({shoppingBaskets, email: "sine@umuzi.org"}) //DO THIS
 ```
 
 #### JavaScript Exports
@@ -173,9 +173,9 @@ If the customer has no shopping baskets then return an empty list/array.
 Different languages have different requirements:
 
 ```
-getCustomerBaskets({ email, allShoppingBaskets }); // javascript. This should return an array
-getCustomerBaskets(email, allShoppingBaskets); // java. This should return a List
-get_customer_baskets(email, all_shopping_baskets) // python. This should return a list
+getCustomerBaskets({ email, shoppingBaskets }); // javascript. This should return an array
+getCustomerBaskets(email, shoppingBaskets); // java. This should return a List
+get_customer_baskets(email, shopping_baskets) // python. This should return a list
 ```
 
 This kind of data should be returned if `someone@umuzi.org` has only one basket.
@@ -201,9 +201,9 @@ Write a function called `get all customers`, the function should take the data a
 e.g.
 
 ```
-getAllCustomers({ allShoppingBaskets }); //javascript
-getAllCustomers(allShoppingBaskets); //java
-get_all_customers(all_shopping_baskets) // python
+getAllCustomers({ shoppingBaskets }); //javascript
+getAllCustomers(shoppingBaskets); //java
+get_all_customers(shopping_baskets) // python
 ```
 
 ### List all the items that have been paid for but not yet delivered
@@ -214,9 +214,9 @@ You need to return data in the correct format. Just include the names and quanti
 e.g.
 
 ```
-getRequiredStock({ allShoppingBaskets }); //javascript
-getRequiredStock(allShoppingBaskets); //java
-get_required_stock(all_shopping_baskets) //python
+getRequiredStock({ shoppingBaskets }); //javascript
+getRequiredStock(shoppingBaskets); //java
+get_required_stock(shopping_baskets) //python
 ```
 
 For example, if one customer paid for 2 hamsters and another customer paid for one hamster and a bag of sawdust then your function should return the following data structure:
@@ -236,9 +236,9 @@ The function must return the total amount that the customer has spent up until t
 e.g.
 
 ```
-getTotalSpent({ email, allShoppingBaskets }); //javascript
-getTotalSpent(email, allShoppingBaskets); //java
-get_total_spent(email, all_shopping_baskets) //python
+getTotalSpent({ email, shoppingBaskets }); //javascript
+getTotalSpent(email, shoppingBaskets); //java
+get_total_spent(email, shopping_baskets) //python
 ```
 
 Note that if a basket has been delivered then it has been paid for.
@@ -252,9 +252,9 @@ The returned data structure should be an array/list of dictionaries/objects show
 e.g.
 
 ```
-getTopCustomers({ allShoppingBaskets }); // javascript
-getTopCustomers(allShoppingBaskets); // java
-get_top_customers(all_shopping_baskets) //python
+getTopCustomers({ shoppingBaskets }); // javascript
+getTopCustomers(shoppingBaskets); // java
+get_top_customers(shopping_baskets) //python
 ```
 
 Make sure the returned value matches the following structure:
@@ -275,9 +275,9 @@ Write a function called `get customers with open baskets` that takes in the data
 e.g.
 
 ```
-getCustomersWithOpenBaskets({ allShoppingBaskets }); //javascript
-getCustomersWithOpenBaskets(allShoppingBaskets); //java
-get_customers_with_open_baskets(all_shopping_baskets) //python
+getCustomersWithOpenBaskets({ shoppingBaskets }); //javascript
+getCustomersWithOpenBaskets(shoppingBaskets); //java
+get_customers_with_open_baskets(shopping_baskets) //python
 ```
 
 ## Notes to reviewers
