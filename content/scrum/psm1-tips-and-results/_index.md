@@ -16,14 +16,13 @@ tags:
 title: PSM 1 Test and Results
 ---
 
-Well done on getting through all that content and the practice assessments. You should now be ready to pass your PSM 1 assessment.
-
 ## Final preparation and some tips.
 
+Well done on getting through all that content and the practice assessments. You should now be ready to pass your PSM 1 assessment.
 ### Before the exam
 
  - Ensure that you get enough sleep the night before you are writing.
- - Read through the [The Scrum Guide](https://scrumguides.org/scrum-guide.html) and your notes one last time.
+ - Read through [The Scrum Guide](https://scrumguides.org/scrum-guide.html) and your notes one last time.
 
 ### Writing the exam
 
