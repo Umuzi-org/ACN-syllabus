@@ -2,18 +2,18 @@
 _db_id: 266
 content_type: project
 flavours:
-- any_language
+  - any_language
 prerequisites:
   hard:
-  - projects/tdd/simple-calculator-part1
-  - topics/data_validation_and_verification
-  - topics/regular-expressions
+    - projects/tdd/simple-calculator-part1
+    - topics/data_validation_and_verification
+    - topics/regular-expressions
   soft: []
 ready: true
 submission_type: repo
 tags:
-- tdd
-- regular-expressions
+  - tdd
+  - regular-expressions
 title: string-calculator part 1
 ---
 
@@ -29,7 +29,7 @@ Make sure that the `node_modules` are in your `.gitignore` file.
 
 ```
 ├── src/
-|   └── string _calculator.js
+|   └── string_calculator.js
 ├── spec/
 |   ├── support/
 |   |   └── jasmine.json
@@ -45,7 +45,7 @@ module.exports = {functionName}
 
 ### Python
 
-Your project is expected to be completed using pytest. 
+Your project is expected to be completed using pytest.
 
 Please name your files and folders like this:
 
@@ -80,10 +80,10 @@ Your package name should be `string_calculator`
     ├── main
     |   └── java
     |       └── string_calculator
-    |           └── StringCalculator.java 
+    |           └── StringCalculator.java
     └── test
         └── java
-            └── ???.java        
+            └── ???.java
 
 ```
 
@@ -95,9 +95,9 @@ Please note that this project should be done in a TDD manner.
 
 The `add` function should take in one string parameter and return an integer.
 
-**Note:** This is a TDD project. That means that you should write a test, then get that test to pass, then write the next test, etc. 
+**Note:** This is a TDD project. That means that you should write a test, then get that test to pass, then write the next test, etc.
 
-**Java learners:** We should not need to instantiate your `StringCalculator` class in order to call `add`. 
+**Java learners:** We should not need to instantiate your `StringCalculator` class in order to call `add`.
 
 ```
 add("")
@@ -231,6 +231,7 @@ add("//***\n1***2***3***")
 add("//***\n***1***2***3***")
 
 ```
+
 ## Instructions for reviewers
 
 - Proper TDD to be followed
