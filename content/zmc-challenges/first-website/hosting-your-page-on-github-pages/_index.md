@@ -41,6 +41,8 @@ Go to [the Github website](https://github.com/) and create an account.
 
 **Important:** When choosing a Github username be sure you choose something nice and memorable. You can use your real name or something playful, it doesn't matter too much. 
 
+[here](https://www.youtube.com/watch?v=mW5pfqGUJto) is a video demonstration of how to create a GitHub account.
+
 ### 2. Create a repo 
 
 Repo is short for repository. You can think of it as a folder or directory. 
