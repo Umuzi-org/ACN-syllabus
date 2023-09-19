@@ -50,7 +50,7 @@ assertEquals(warningColor,"orange");
 assertNotEquals(warningColor,"blue");
 ```
 
-Only one of the assertions/expectations is useful and the other one adds no value. Please say which line should be removed and explain why.
+For each languages, only one of the assertions/expectations is useful and the other one adds no value. Please say which line should be removed and explain why.
 
 ## How to submit your work
 
