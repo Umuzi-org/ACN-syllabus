@@ -40,7 +40,7 @@ assert warning_colour != "blue"
 // javascript
 
 expect(warningColour).toBe("orange")
-expect(warningColour).not.toBe("blue)
+expect(warningColour).not.toBe("blue")
 ```
 
 ```java
