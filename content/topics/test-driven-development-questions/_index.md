@@ -19,7 +19,7 @@ Please answer the following questions:
 
 1. Define test-driven development
 
-2. If you are following test-driven-development then can you ever skip the "RED" step of the process?
+2. If you are following test-driven-development, can you ever skip the "RED" step of the process?
 
 3. List at least 3 benefits of TDD. Each benefit should be explained in a short paragraph.
 
@@ -27,7 +27,7 @@ Please answer the following questions:
 
 5. How does unit testing help make a dev team more effective?
 
-6. Take a look at the following code:
+6. Take a look at the following code snippets:
 
 ```python
 # python
