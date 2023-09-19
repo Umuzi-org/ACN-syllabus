@@ -1,14 +1,19 @@
 ---
-_db_id: 449
+_db_id: 451
 content_type: project
 flavours:
 - none
+prerequisites:
+  hard:
+  - _depricated/java-sololearn/3-arrays
+  soft: []
 ready: true
 submission_type: link
 tags:
 - java
 - solo-learn
-title: Solo Learn - Java - Module 1 - Basic Concepts
+title: Solo Learn - Java - Module 4 - Classes and Objects - Deprecated
+topic_needs_review: false
 ---
 
 Complete the above mentioned module on Solo Learn

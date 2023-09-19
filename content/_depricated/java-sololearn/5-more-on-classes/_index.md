@@ -1,15 +1,15 @@
 ---
-_db_id: 453
+_db_id: 448
 content_type: topic
 prerequisites:
   hard:
-  - topics/solo-learn/java/1-basic-concepts
+  - _depricated/java-sololearn/4-classes-and-objects
   soft: []
 ready: true
 tags:
 - java
 - solo-learn
-title: Solo Learn - Java - Module 2 -Conditionals and Loops
+title: Solo Learn - Java - Module 5 - More on Classes (includes encapsulation) - Deprecated
 topic_needs_review: false
 ---
 
