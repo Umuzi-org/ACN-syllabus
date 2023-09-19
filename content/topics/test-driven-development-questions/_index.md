@@ -29,23 +29,24 @@ Please answer the following questions:
 
 6. Take a look at the following code:
 
-```
+```python
 # python
 
 assert warning_colour == "orange"
-
 assert warning_colour != "blue"
+```
 
+```javascript
 // javascript
 
 expect(warningColour).toBe("orange")
-
 expect(warningColour).toNotBe("blue)
+```
 
+```java
 // java
 
 assertEquals(warningColor,"orange");
-
 assertNotEquals(warningColor,"blue");
 ```
 
