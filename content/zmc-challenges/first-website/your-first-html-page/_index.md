@@ -34,25 +34,25 @@ You can also experiment a bit by writing HTML code and seeing what it does. Expe
 
 Your mission is to make a website of your very own. It will just be one page for now. 
 
-It's very important that you follow the instructions exactly, in the next step you will be deploying your website to the web.  It will need to do exactly the right thing!
+It's essential that you follow the instructions exactly, in the next step you will be deploying your website to the web.  It will need to do exactly the right thing!
 
-### 1. Create a new html file called `index.html`
+### 1. Create a new HTML file called `index.html`
 
-It is important to name the file exactly right! We'll be putting it on the internet in the next step. 
+It is important to name the file exactly right! We'll be putting it on the Internet in the next step. 
 
 If you want to you can just edit the html file we made in the last step. So long as the file name is correct then we are good. 
 
 Please note that `index.html` is NOT the same as `Index.html`. Capital letters matter a lot in code. Please be extra careful about naming your files with the right case!
 
-### 2. Let's make some content 
+### 2. Let's add some content 
 
-You'll be adding a bunch of content to your html file. Please make very sure that you are meeting all the requirements below:
+You'll be adding a bunch of content to your html file. Please make sure that you are meeting all the requirements below:
 
-### 2.1 Add a `<head>` element
+#### 2.1 Add a `<head>` element
 
 You might not know what a `head` tag does just yet. You can learn about it [here](https://www.w3schools.com/html/html_head.asp).
 
-Write some html code that meets the following requirements:
+Write some HTML code that meets the following requirements:
 
 - Your page must make use of a `<head>` element 
 - There must be one `<title>` element inside the head. Experiment a bit and make sure you know what the title does. You can give your page whatever title text you want. Eg: `<title>First website</title>`. 
@@ -60,32 +60,32 @@ Write some html code that meets the following requirements:
 
 #### 2.2 The `<body>`
 
-Write some html code that meets the following requirements:
+Write some HTML code that meets the following requirements:
 
 - it needs to have ONLY ONE `<h1>` heading 
 - it needs to have ONE OR MORE `<h2>` headings
-- it needs to have ONE OR MORE paragraphs
-- there should be no text that is sitting outside of a heading or paragraph element.
+- It needs to have ONE OR MORE paragraphs
+- There should be no text that is sitting outside of a heading or paragraph element.
 
 #### 2.3 Clean and valid code
 
 Please make sure that your code is clean and valid. Here are a few things to look out for:
 
-- the document type declaration must be correct. The document type declaration is the very first line in your html file
-- you should be making use of valid tags - pay attention to case (all tags are lowercase)
-- any tag you open should get closed
-- your index.html file should meet ALL of the requirements described
-- you should be able to open your index.html file in a browser and it should behave sensibly
-- Make use of an online HTML validator to check your own work. Here is a validator: https://www.freeformatter.com/html-validator.html 
+- The document type declaration must be correct. The document type declaration is the very first line in your html file
+- You should be making use of valid tags - pay attention to case (all tags are lowercase)
+- Any tag you open should get closed
+- Your index.html file should meet ALL of the requirements described
+- You should be able to open your index.html file in a browser and it should behave sensibly
+- Make use of an online HTML validator to check your own work. [Here](https://validator.w3.org/) is a recommended HTML validator, and [here](https://www.youtube.com/watch?v=XXecps3jEVw) is a video showing you how to use the validator.
 
 ### Check yourself!
 
-In the next step we'll be getting your website online. So at this point it's **VERY IMPORTANT** that your code is up to scratch. If you missed any steps and host a website that doesn't meet the requirements then you'll need to come back here and fix everything. 
+In the next step, we'll be getting your website online. So at this point, it's **VERY IMPORTANT** that your code is up to scratch. If you missed any steps and host a website that doesn't meet the requirements then you'll need to come back here and fix everything. 
 
 Here are some things to check:
 
-- Is your html file named correctly?
-- If you use an online html validator then are there any errors? There should be no errors, your html should be perfectly valid
+- Is your HTML file named correctly?
+- If you use an online html validator then are there any errors? There should be no errors, your HTML should be perfectly valid
 - Did you put a `title` element inside the `head`?
 - Did you put a `meta` element inside the `head`? And did you set the charset correctly?
 - Is there a `body` element? It should be outside the head
