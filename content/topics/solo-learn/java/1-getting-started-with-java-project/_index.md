@@ -1,4 +1,5 @@
 ---
+_db_id: 976
 content_type: project
 flavours:
 - none
@@ -11,7 +12,8 @@ submission_type: link
 tags:
 - java
 - solo-learn
-title: Solo Learn - Introduction to Java - 1. Getting Started with Java - Profile check
+title: Solo Learn - Introduction to Java - 1. Getting Started with Java - Profile
+  check
 ---
 
 Complete the above-mentioned module on Solo Learn.
@@ -28,5 +30,3 @@ We just need to make sure everyone is keeping up 💚
 
 - Please ensure that the learner submitted a link to their Solo Learn Profile.
 - Please ensure that the Introduction to Java course is "In Progress".
-
-

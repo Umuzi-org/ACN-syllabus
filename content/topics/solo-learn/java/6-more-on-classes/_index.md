@@ -1,11 +1,12 @@
 ---
+_db_id: 974
 content_type: topic
+flavours:
+- none
 prerequisites:
   hard:
   - topics/solo-learn/java/5-classes-and-objects
   soft: []
-flavours:
-- none
 ready: true
 tags:
 - java

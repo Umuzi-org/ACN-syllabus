@@ -1,10 +1,13 @@
 ---
+_db_id: 966
 content_type: project
+flavours:
+- none
 prerequisites:
-  hard: 
+  hard:
   - scrum/scrum-master-pathway
   - scrum/product-owner-pathway
-  soft: 
+  soft:
   - scrum/product-owner-open-assessment
   - scrum/scrum-open-assessment
 ready: true
@@ -26,5 +29,3 @@ Write both the Product Owner and the Scrum Master Practice Tests from [ScrumQuiz
 Take a screenshot of your successful test, put both the successful tests on one doc, upload it to your Google Drive and submit.
 
 Please make sure that the link works. If your work is private then we won't be able to review it. You can double-check this by opening your own link in an incognito browser.
-
-

@@ -1,11 +1,12 @@
 ---
+_db_id: 972
 content_type: topic
+flavours:
+- none
 prerequisites:
   hard:
   - topics/solo-learn/java/2-control-flow
   soft: []
-flavours:
-- none
 ready: true
 tags:
 - java

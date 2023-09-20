@@ -1,11 +1,12 @@
 ---
+_db_id: 970
 content_type: topic
+flavours:
+- none
 prerequisites:
   hard:
   - topics/solo-learn/java/4-methods
   soft: []
-flavours:
-- none
 ready: true
 tags:
 - java

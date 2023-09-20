@@ -1,5 +1,8 @@
 ---
+_db_id: 964
 content_type: project
+flavours:
+- none
 prerequisites:
   hard:
   - scrum/scrum-master-pathway

@@ -2,24 +2,24 @@
 _db_id: 283
 content_type: project
 flavours:
-  - javascript
+- javascript
 from_repo: projects/nodejs/sql
 learning_outcomes:
-  - wed_dev_client_side_testing
-  - web_dev_crud_operations_and_data_presentation
-  - web_dev_routes
+- wed_dev_client_side_testing
+- web_dev_crud_operations_and_data_presentation
+- web_dev_routes
 prerequisites:
   hard:
-    - topics/intro-to-ajax
-    - projects/nodejs/sql
-    - projects/nodejs/api
+  - topics/intro-to-ajax
+  - projects/nodejs/sql
+  - projects/nodejs/api
   soft: []
 ready: true
 story_points: 8
 submission_type: continue_repo
 tags:
-  - node
-  - ajax
+- node
+- ajax
 title: Add a little Ajax
 ---
 

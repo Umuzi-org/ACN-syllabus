@@ -1,11 +1,12 @@
 ---
+_db_id: 973
 content_type: topic
+flavours:
+- none
 prerequisites:
   hard:
   - topics/solo-learn/java/6-more-on-classes
   soft: []
-flavours:
-- none
 ready: true
 tags:
 - java

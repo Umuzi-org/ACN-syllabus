@@ -2,18 +2,18 @@
 _db_id: 266
 content_type: project
 flavours:
-  - any_language
+- any_language
 prerequisites:
   hard:
-    - projects/tdd/simple-calculator-part1
-    - topics/data_validation_and_verification
-    - topics/regular-expressions
+  - projects/tdd/simple-calculator-part1
+  - topics/data_validation_and_verification
+  - topics/regular-expressions
   soft: []
 ready: true
 submission_type: repo
 tags:
-  - tdd
-  - regular-expressions
+- tdd
+- regular-expressions
 title: string-calculator part 1
 ---
 

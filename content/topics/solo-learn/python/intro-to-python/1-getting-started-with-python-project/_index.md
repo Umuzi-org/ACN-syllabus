@@ -1,4 +1,5 @@
 ---
+_db_id: 983
 content_type: project
 flavours:
 - none
@@ -28,5 +29,3 @@ We just need to make sure everyone is keeping up 💚
 
 - Please ensure that the learner submitted a link to their Solo Learn Profile.
 - Please ensure that the Introduction to Python course is "In Progress".
-
-

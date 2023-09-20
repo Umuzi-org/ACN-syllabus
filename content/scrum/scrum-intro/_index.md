@@ -19,4 +19,3 @@ While going through all the resources below be sure to focus on the concepts cov
 - [The Scrum Guide](https://scrumguides.org/scrum-guide.html) - The official Scrum Guide is your primary resource. Read it thoroughly and understand the core principles of Scrum. 
 - [What is scrum](https://www.scrum.org/resources/what-is-scrum) covers and explains the scrum guide and will help you understand and recall the scrum guide.
 - [An Introductory Video Series to Scrum](https://www.scrum.org/resources/introductory-video-series-scrum) by a professional scrum trainer will walk you through the scrum framework piece by piece explaining each are and providing insight into how Scrum is used.
-

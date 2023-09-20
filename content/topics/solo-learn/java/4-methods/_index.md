@@ -1,11 +1,12 @@
 ---
+_db_id: 968
 content_type: topic
+flavours:
+- none
 prerequisites:
   hard:
   - topics/solo-learn/java/3-arrays
   soft: []
-flavours:
-- none
 ready: true
 tags:
 - java

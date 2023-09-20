@@ -2,19 +2,19 @@
 _db_id: 199
 content_type: project
 flavours:
-  - any_language
+- any_language
 learning_outcomes:
-  - web_dev_shuffling_elements
-  - web_dev_indexing
+- web_dev_shuffling_elements
+- web_dev_indexing
 pre: <b>1. </b>
 prerequisites:
   hard:
-    - projects/tdd/simple-calculator-part1
+  - projects/tdd/simple-calculator-part1
   soft: []
 ready: true
 submission_type: repo
 tags:
-  - problem solving
+- problem solving
 title: semitone difference - basic algorithm
 weight: 1
 ---

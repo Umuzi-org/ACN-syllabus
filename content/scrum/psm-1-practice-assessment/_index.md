@@ -1,10 +1,13 @@
 ---
+_db_id: 967
 content_type: project
+flavours:
+- none
 prerequisites:
-  hard: 
+  hard:
   - scrum/scrum-master-pathway
   - scrum/product-owner-pathway
-  soft: 
+  soft:
   - scrum/product-owner-open-assessment
   - scrum/scrum-open-assessment
 ready: true
