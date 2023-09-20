@@ -21,12 +21,11 @@ Students are expected to be on the same page when it comes to naming their files
 #### Example of what is expected
 
 ```
-    >node_modules    <---- make sure this is in your .gitignore
-    >spec
-        > support
-            - jasmine.json
-        - simple_calculator_spec.js
-    >src
-        - simple_calculator.js
-    - package.json
+├── spec
+|   ├── support
+|   |   └── jasmine.json
+|   └── simple_calculator_spec.js
+├── src
+|   └── simple_calculator.js
+└── package.json
 ```

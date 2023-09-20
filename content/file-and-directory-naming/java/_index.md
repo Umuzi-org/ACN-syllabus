@@ -13,11 +13,11 @@ title: File and directory naming in Java
 
 ## How should I name my Java files and directories?
 
-When you think about how to name files and directories in Java, you should know that different Java programmers can have different styles and approaches to the way they program. When naming stuff you must use Java standard conventions that are readable and meaningful to yourself and other programmers.
+
 
 ### Directories
 
-Directory names in Java should be in lower case which means that you only use small letters. Eg `src` or `main`
+Directory names in Java should consistently use lowercase letters to maintain uniformity and adhere to Java conventions. This practice ensures that your project's directory structure is clean and easy to work with. Additionally, when using tools like Gradle or Maven to set up your project, it's advisable to follow the conventions they establish for directory structure, as they are designed to simplify project management and align with best practices.
 
 See below for examples of naming your directories.
 
@@ -29,9 +29,9 @@ See below for examples of naming your directories.
  
 ```
 
-### File names
+### Class names
 
-File names should be in CamelCase (also known as Upper CamelCase), this is where each new word begins with a capital letter. Eg `SimpleCalculator`
+Java class names should be written in CamelCase, starting with an uppercase letter. Use meaningful and descriptive names that indicate the purpose of the class. For example: `CarRentalSystem`, `EmployeeManager`, `StudentRecord`.
 
 See below for some tips in naming your files.
 
