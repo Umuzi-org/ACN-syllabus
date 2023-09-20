@@ -4,15 +4,11 @@ content_type: project
 flavours:
 - any_language
 ready: true
-tags: 
-- deprecated
 submission_type: repo
+tags:
+- deprecated
 title: Bank Accounts
 ---
-
-
-
-
 
 ## part 1: Bank Account
 

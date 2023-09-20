@@ -23,6 +23,6 @@ Things after this point are not strictly part of the bootcamp. It's extra stuff 
 - {{< contentlink path="projects/katas/level-1" flavour="java" >}}
 - {{< contentlink path="projects/katas/level-2" flavour="java" >}}
 - {{< contentlink path="topics/java-specific/oop-basics" >}}
-- {{< contentlink path="topics/solo-learn/java/5-more-on-classes" >}}
+- {{< contentlink path="topics/solo-learn/java/6-more-on-classes" >}}
 - {{< contentlink path="projects/oop/animals/part1"  flavour="java" >}}
 - {{< contentlink path="projects/tdd/password-checker/part1" flavour="java" >}}

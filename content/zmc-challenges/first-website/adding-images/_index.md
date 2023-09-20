@@ -37,19 +37,35 @@ your-project-directory/
 
 Add at least one picture to your images directory. You can choose a picture from the Internet, or you can use a photo you already have. Whatever you want.
 
-Now update your `index.html` so that the picture shows up. Make use of an `img` tag. Make sure you fill in the `src` and `alt` attributes.
+Now update your `index.html` so that the picture shows up. Make use of an `img` tag. 
 
-Make sure that the picture shows up on your webpage.
+**IMPORTANT** Make sure you fill in the `src` and `alt` attributes on your `img` tag.
 
-### 2. Update your Github page
+Your img tag should look something like this:
 
-Once you are satisfied that your picture is showing up, you'll need to upload your latest work to Github. You can upload your `index.html` file and your `images` directory in the usual way.
+```
+<img src="images/YOUR_FILE_NAME" alt="YOUR ALT TEXT HERE" />
+```
+
+Make sure that the picture shows up when you look at your website on your own device.
+
+### 2. Check that your HTML is still valid
+
+Make use of an online HTML validator to make sure your HTML is not broken in any way.
+
+Here is a validator: https://www.freeformatter.com/html-validator.html 
+
+### 3. Update your Github page
+
+Once you are satisfied that your picture is showing up and your HTML is valid, you'll need to upload your latest work to Github. You can upload your `index.html` file and your `images` directory in the usual way.
 
 When you look at your Github repo then you should see your new `index.html` file as well as the `images` directory. 
 
-### 3. Check your Github page 
+Do not make a new repo for this. Just upload your files to the same place.
 
-Your website changes will be automatically deployed to Github pages. You wont need to reconfigure anything. Just go to your website and make sure it looks like what you were expecting. 
+### 3. Check your Github page!
+
+Your website changes will be automatically deployed to Github pages once you have uploaded your files. You wont need to reconfigure anything. Just go to your website and make sure it looks like what you were expecting. 
 
 **IMPORTANT** A lot of people fail this part of the project simply because they didn't check their own work. This is critical. Open up your github page website and look at it with your own eyes. Is your image showing up?
 

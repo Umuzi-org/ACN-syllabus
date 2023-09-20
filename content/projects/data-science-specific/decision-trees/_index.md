@@ -30,27 +30,13 @@ title: Decision Trees
 
 - Walk through the [machine learning Kaggle tutorial](https://www.kaggle.com/learn/intro-to-machine-learning)
 - Complete the DataCamp tutorial on [Tree-Based Models](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
-
-## Assignment
-
-Use a decision tree model to predict whether mushrooms are poisonous or edible.
-
-1. Split your data into train and test sets.
-2. Get basic descriptive statistics for the training data and check for missing and incorrect or extreme values. Get scatterplots or heatmaps showing the relationship between the variables.
-3. What are the factors that predict whether a mushroom is poisonous?
-4. Report the accuracy of your model on the training set and on the test set. How successful is the model - what is its precision and recall?
-5. What is the prevalence of poisonous mushrooms in the dataset? How might prevalence affect the positive and negative predictive values of a test/model?
-
-Find the data [here](agaricus-lepiota.data).
-
-## More information on decision trees
-
-[Coursera: Decision Trees](https://www.coursera.org/lecture/python-machine-learning/decision-trees-Zj96A)
-
-## Description of the dataset
-
+  
+## About the Dataset
 This dataset includes descriptions of 23 species of gilled mushrooms in the Agaricus and
 Lepiota Family. Each species is identified as either edible or poisonous.
+
+## Metadata Information
+The table below gives the variable names in the mushrooms data file.
 
 | Variable                 | Description                                                                                                  |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------ |
@@ -77,3 +63,32 @@ Lepiota Family. Each species is identified as either edible or poisonous.
 | spore-print-color        | black=k, brown=n, buff=b, chocolate=h, green=r, orange=o, purple=u, white=w, yellow=y                        |
 | population               | abundant=a, clustered=c, numerous=n, scattered=s, several=v, solitary=y                                      |
 | habitat                  | grasses=g, leaves=l, meadows=m, paths=p, urban=u, waste=w, woods=d                                           |
+## Instructions:
+
+Use a decision tree model to predict whether mushrooms are poisonous or edible.
+
+1. Your repo should contain everything needed to replicate your work. It's good practice to structure your files well, so we'll expect you to have a separate directory for "data" and "notebook", so that your final file structure looks something like this: 
+
+```
+├──data
+│  └── agaricus-lepiota.data
+├──notebook
+│  └── mushrooms_prediction.ipynb
+├──README.md
+├──requirements.txt
+└──.gitignore 
+```
+
+2. Import the required libraries and load the dataset [here](agaricus-lepiota.data).
+3. Split your data into train and test sets.
+4. Get basic descriptive statistics for the training data and check for missing and incorrect or extreme values. Get scatterplots or heatmaps showing the relationship between the variables.
+5. What are the factors(variables) that predict whether a mushroom is poisonous?
+6. Build a decision tree model to predict whether mushrooms are poisonous or edible.
+7. Report the accuracy of your model on the training set and on the test set. How successful is the model - what is its precision and recall?
+8. What is the prevalence of poisonous mushrooms in the dataset? How might prevalence affect the positive and negative predictive values of a test/model?
+
+
+
+## Supporting Material on decision trees
+
+[Coursera: Decision Trees](https://www.coursera.org/lecture/python-machine-learning/decision-trees-Zj96A)

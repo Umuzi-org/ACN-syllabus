@@ -2,9 +2,9 @@
 _db_id: 532
 content_type: project
 flavours:
-  - javascript
-  - typescript
-  - react
+- javascript
+- typescript
+- react
 prerequisites:
   hard:
   - projects/redux-intro/part-1
@@ -29,6 +29,7 @@ Create a search page that has the following functionality:
 
 - It needs a search box where the user can enter keywords, for example "omelette" or "mexican" or whatever else they are keen on.
 - It also needs a mechanism for adding ingredients to the search. And removing ingredients if they made a mistake.
+- Please test your code, you will be expected to use a react testing library to test your components, here is the documentation {{< contentlink path="topics/web-frontend/react/unit-testing" >}}.
 
 Here is a valid user journey:
 

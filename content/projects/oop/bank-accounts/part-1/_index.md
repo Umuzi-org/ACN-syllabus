@@ -1,11 +1,14 @@
 ---
-title: Bank accounts - part 1
+_db_id: 959
+content_type: project
+flavours:
+- any_language
 prerequisites:
-  hard: 
+  hard:
   - topics/intro-to-assertive-programming
   - projects/oop/animals/part2
-content_type: project
 submission_type: repo
+title: Bank accounts - part 1
 ---
 
 You have just been hired by a fin-tech startup. Your mission is to build a bank. It's going to be a cute little bank, real banks are waaaay more complicated.
@@ -130,4 +133,4 @@ Also, please make use of assertions within your code to make sure that errors ar
 - withdraw a negative amount
 - deposit a negative amount
 - withdraw more money than you have
-- set a negative interest rate 
+- set a negative interest rate

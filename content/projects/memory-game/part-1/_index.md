@@ -45,6 +45,7 @@ Tests are very important. Please follow the following best practices:
 
 - Tdd!!!
 - If you are using plain ol js, then your tests need to make use of mocks and spies to check that the frontend is being updated as it should be.
+- When you are on the react part of the course, you will be expected to use a react testing library to test your components, here is the documentation {{< contentlink path="topics/web-frontend/react/unit-testing" >}}.
 
 ## Instructions for the reviewer
 

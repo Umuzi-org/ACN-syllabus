@@ -14,7 +14,7 @@ title: Dev-ops questions
 
 Please answer the following questions:
 
-1. How can DevOps be considered a natural extension of Agile practices
+1. How can DevOps be considered a natural extension of Agile practices?
 2. What are some of the technical aspects of DevOps?
 3. What are some of the cultural aspects of DevOps?
 4. What are some common misconceptions about DevOps?

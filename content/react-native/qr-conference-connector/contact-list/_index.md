@@ -8,9 +8,9 @@ flavours:
 from_repo: react-native/qr-conference-connector/proof-of-concept
 prerequisites:
   hard:
-    - topics/clean-code/sql
-    - react-native/harvard-cs-50-m/08-data
-    - react-native/qr-conference-connector/proof-of-concept
+  - topics/clean-code/sql
+  - react-native/harvard-cs-50-m/08-data
+  - react-native/qr-conference-connector/proof-of-concept
 ready: true
 submission_type: continue_repo
 title: QR conference connector - Contact list

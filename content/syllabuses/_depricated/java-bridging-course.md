@@ -20,7 +20,6 @@ You’ll notice that the content below is divided up into 2 major sections. Soft
 
 ## Bring on the Java
 
-- {{< contentlink path="topics/solo-learn/java/6-exceptions-lists-threads-files" >}}
 - {{< contentlink path="topics/java-specific/oop-basics" >}}
 - {{< contentlink path="topics/code-wars/java/java-training" >}}
 - {{< contentlink path="topics/bridging-course-hard-skills/advanced-oop-design-patterns" >}}

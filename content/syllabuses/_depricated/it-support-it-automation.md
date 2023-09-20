@@ -8,5 +8,4 @@ title: DEPRICATED - IT Support and IT automation
 - {{< contentlink path="coursera/it-support/course-5-it-security" >}}
 
 ## IT Automation with Python
-- {{< contentlink path="topics/solo-learn/python/10-pythonicness-and-packaging" >}}
 - {{< contentlink path="coursera/it-automation/course-6-automating-real-world-tasks" >}}

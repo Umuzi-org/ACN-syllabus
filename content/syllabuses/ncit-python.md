@@ -2,15 +2,17 @@
 _db_id: 51
 title: NCIT - Python
 ---
-
+- {{< contentlink path="topics/solo-learn/python/intro-to-python/6-functions-project" >}}
 - {{< contentlink path="national-qualifications-framework/ncit/assessments/how-the-internet-works" >}}
 - {{< contentlink path="topics/python-specific/automated-testing-with-pytest" >}}
 - {{< contentlink path="national-qualifications-framework/ncit/assessments/version-control" flavour="python" >}}
 - {{< contentlink path="national-qualifications-framework/ncit/assessments/pseudocode-and-documentation" >}}
+- {{< contentlink path="topics/solo-learn/python/python-intermediate/2-functional-programming" >}}
 - {{< contentlink path="national-qualifications-framework/ncit/assessments/thinking-like-a-machine" flavour="python" >}}
 - {{< contentlink path="national-qualifications-framework/ncit/assessments/test-driven-development" flavour="python" >}}
 - {{< contentlink path="national-qualifications-framework/ncit/assessments/constructive-feedback" >}}
 - {{< contentlink path="topics/python-specific/oop-for-python" >}}
+- {{< contentlink path="topics/solo-learn/python/python-intermediate/3-oop" >}}
 - {{< contentlink path="national-qualifications-framework/ncit/assessments/object-oriented-programming" flavour="python" >}}
 - {{< contentlink path="national-qualifications-framework/ncit/assessments/conducting-research-and-user-interviews" >}}
 - {{< contentlink path="national-qualifications-framework/ncit/assessments/research-documnet" >}}

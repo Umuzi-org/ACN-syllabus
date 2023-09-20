@@ -1,18 +1,20 @@
 ---
-_db_id: 450
+_db_id: 972
 content_type: topic
+flavours:
+- none
 prerequisites:
   hard:
-  - topics/solo-learn/java/2-conditionals-and-loops
+  - topics/solo-learn/java/2-control-flow
   soft: []
 ready: true
 tags:
 - java
 - solo-learn
-title: Solo Learn - Java - Module 3 - Arrays
+title: Solo Learn - Introduction to Java - 3. Arrays
 topic_needs_review: false
 ---
 
-Complete the above mentioned module on Solo Learn
+Complete the above mentioned module on Solo Learn.
 
-https://www.sololearn.com/Course/Java/
+https://www.sololearn.com/learn/courses/java-introduction
