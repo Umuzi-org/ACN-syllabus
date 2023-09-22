@@ -28,5 +28,5 @@ title: DEPRICATED - Foundations of data sci for employed learners
 - {{< contentlink path="projects/data-science-specific/statistical-thinking" flavour="python" >}}
 - {{< contentlink path="topics/khan-academy/statistics-and-probability/unit-1-introduction-to-statistics" >}}
 - {{< contentlink path="topics/khan-academy/statistics-and-probability/unit-2-intermediate-statistics" >}}
-- {{< contentlink path="specific-skill-success-criteria/basic-data-analysis/basic-data-analysis-part-1" >}}
-- {{< contentlink path="specific-skill-success-criteria/basic-data-analysis/basic-data-analysis-part-2" >}}
+- {{< contentlink path="specific-skill-success-criteria/basic-data-analysis/part-1" >}}
+- {{< contentlink path="specific-skill-success-criteria/basic-data-analysis/part-2" >}}
