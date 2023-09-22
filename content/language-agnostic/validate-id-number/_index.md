@@ -17,7 +17,6 @@ tags:
 - tdd
 - problem-solving
 - validation
-- ncit-project
 title: Validate a South African ID number
 ---
 
@@ -65,7 +64,7 @@ Your directory structure should look like this:
 
 Please make use of Gradle from the command line to set up your project directory. You can learn more about Gradle here:
 
-{{< contentlink "gradle/introduction" >}}
+{{< contentlink path="gradle/introduction" >}}
 
 When you use gradle to create your project, give your project the following name: `validate_sa_id`.
 
@@ -82,7 +81,7 @@ Your directory structure should look like this:
 │       │   └── resources
 │       └── test
 │           ├── java
-│           │   └── validate_sa_id  
+│           │   └── validate_sa_id
 │           │       └── ValidateSaIdTest.java
 │           └── resources
 ├── gradle
@@ -129,7 +128,7 @@ Your function would look a bit like this (pseudocode):
 
 ```
 function validate_phone_number(phone_number){
-    if the phone number doesnt start with +27:
+    if the phone number doesn't start with +27:
         throw an error
     if the phone number is not the right length:
         throw an error

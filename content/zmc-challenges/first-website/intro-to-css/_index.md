@@ -16,7 +16,7 @@ title: Introducing CSS
 
 Earlier on in this challenge, we mentioned that CSS can be used to give your HTML style.
 
-[Here](https://www.w3schools.com/css/) is a great tutorial on CSS.  You won't need to know the whole thing right now. Just read up until the end of "How To"
+[Here](https://www.w3schools.com/css/) is a great tutorial on CSS.  You won't need to know the whole thing right now. Just read up until the end of "How To". We have also created a basic video walkthrough for you [here](https://www.youtube.com/watch?v=qa1Dku46jrY)
 
 ## Project instructions
 
@@ -45,8 +45,8 @@ Make sure that the CSS styles are being applied when you view your website.
 
 There are 2 different things you should do here:
 
-1. Go to this website and validate your CSS: https://jigsaw.w3.org/css-validator/validator.html.en#validate_by_input
-2. Upload your latest changes to GitHub and make sure your page looks how you expect it to look
+1. Go to [this website](https://jigsaw.w3.org/css-validator/validator.html.en#validate_by_input) and validate your CSS.
+2. Upload your latest changes to GitHub and make sure your page looks how you expect it to look.
 
 ### 4. Submit your work 
 

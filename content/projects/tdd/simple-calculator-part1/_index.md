@@ -18,7 +18,6 @@ story_points: 2
 submission_type: repo
 tags:
 - tdd
-- ncit-project
 title: simple-calculator part 1
 ---
 

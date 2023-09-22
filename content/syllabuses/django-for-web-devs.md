@@ -6,7 +6,8 @@ _db_id: 31
 - {{< contentlink path="topics/python-vs-js" >}}
 - {{< contentlink path="topics/django/why-learn-django" >}}
 - {{< contentlink path="topics/watch-this-space" >}}
-- {{< contentlink path="topics/solo-learn/python/10-pythonicness-and-packaging" >}}
+- {{< contentlink path="topics/solo-learn/python/python-intermediate/5-working-with-files" >}}
+- {{< contentlink path="topics/solo-learn/python/python-intermediate/5-working-with-files-project" >}}
 - {{< contentlink path="topics/python-specific/oop-for-python" >}}
 - {{< contentlink path="topics/python-specific/automated-testing-with-pytest" >}}
 - {{< contentlink path="topics/clean-code/python" >}}

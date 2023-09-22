@@ -25,6 +25,11 @@ title: Add a little Ajax
 
 In this project you'll be creating a more modern frontend for your application. You'll need to create a whole new page that allows a user to see a list of visitors and to delete visitors.
 
+## The technology to use for sending AJAX requests
+
+As a developer, it's important that you can think for yourself and read up on things. Tech changes all the time.
+Do some googling - read up on the current best practices. Find out the pros and cons for using a certain technology to make requests from the client-side applications. Then make a choice.
+
 ## A new page
 
 Create a new static web page. Serve your new page from the following URL: `http://localhost:[YOUR_PORT]/app`
@@ -33,7 +38,7 @@ Create a new static web page. Serve your new page from the following URL: `http:
 
 Create an HTML table on the same page (on your single-page app). Use an ajax call to populate the table. Your frontend should be retrieving data from an api endpoint you already created.
 
-## Delete visitors and update the table
+## Delete visitors
 
 Add a "delete" button to each line of the table. When the user clicks "delete" then
 
@@ -45,9 +50,13 @@ Also, make sure that if you create any new visitors then they are visible on the
 
 ## Add a visitor
 
-Add a button labelled "New Visitor". This button should redirect the user to the new visitor form that was created in an earlier step in this project. 
+Add a button labelled "New Visitor". This button should redirect the user to the new visitor form that was created in an earlier step in this project.
 
-Update the "thank you page" so that it only displays for 3 seconds and then redirects the user back to the visitors table. Of course the new visiter should be visible in the table.
+Update the "thank you page" so that it only displays for 3 seconds and then redirects the user back to the visitors table. Of course the new visitor should be visible in the table.
+
+## Up for a challenge?
+
+We can now add, list and delete visitor objects. Add a feature that lets the user update a Visitor's details. Pay close attention to usability - how can you make this feature easy and obvious to the user?
 
 ## Resources
 
