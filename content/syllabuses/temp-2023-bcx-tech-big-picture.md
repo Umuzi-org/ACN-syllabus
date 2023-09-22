@@ -1,6 +1,5 @@
 ---
-_db_id: 97
-title: Big picture of tech
+title: Big picture of tech BCX
 ---
 
 ## How the web works 
