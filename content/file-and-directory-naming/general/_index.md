@@ -16,7 +16,7 @@ has a different style, internal consistency should take precedence.
 
 ## A common pitfall to avoid
 
-Many times, people start by writing code that's messy and not very organized. They only try to make it look neater after it works. But this can cause problems because it might make mistakes, and they might miss important things. It's better to start with good coding habits from the beginning, even if it seems a bit slower at first. Once you get used to it, you'll end up being better and faster at it.
+Many times, people start by writing code that's messy and not very organized. They only try to make it look neater after it works. But this can cause problems because they might make mistakes, and they might miss important things. It's better to start with good coding habits from the beginning, even if it seems a bit slower at first. Once you get used to it, you'll end up being better and faster at it.
 
 ## Language specific naming conventions
 
