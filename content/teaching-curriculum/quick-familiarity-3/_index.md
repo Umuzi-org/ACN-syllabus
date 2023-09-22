@@ -21,7 +21,7 @@ To keep the projects bite-sized, we'll look at just 3 chapters at a time and do 
 
 ## Your Mission Objectives
 
-- Read through the first 5 pages of the summary pdf (up to the end of chapter 3).
+- Read through the summary of Chapters 7, 8 and 9.
 - For each of the 3 chapters:
 
 1. Describe which of the techniques you already apply pretty well when you teach and describe how you apply the technique.
