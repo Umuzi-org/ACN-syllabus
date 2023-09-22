@@ -99,7 +99,7 @@ Navigate to your website. Does it look the way you expected?
 We have also created some video demos to walk you through some of the steps above:
 
 - [PC/Computer demo](https://www.youtube.com/watch?v=auWR5JOiZt4)
-- [Android phone demo](https://drive.google.com/file/d/1yBKPaq0yjMIqZxEgPSTgNdlkGTsswjqh/view?usp=sharing)
+- [Android phone demo](https://www.youtube.com/watch?v=Mlr7tn6xqhQ)
 
 ### 7. Submit your work
 
