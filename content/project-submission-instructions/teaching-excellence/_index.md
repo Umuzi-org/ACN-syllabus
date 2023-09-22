@@ -6,13 +6,14 @@ title: How to submit your teach like a champion files
 You will be making use of a Google doc to answer your questions. You will need to include the question and then provide the answer.
 
 The file names should follow this convention:
+
 ```
 quick familarity - part [number]
 ```
 
 Here is an example of how we expect your work to look:
 
-\_image
+![quick familarity](quick-familarity.png)
 
 Make sure that the sharing permisions allow anyone on the internet to view the file.
 
