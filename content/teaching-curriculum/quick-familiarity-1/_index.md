@@ -27,9 +27,9 @@ To keep the projects bite-sized, we'll look at 3 chapters at a time and do some 
   
 1. Describe which of the techniques you already apply pretty well when you teach
         
-  > 1.1. Describe how you apply the technique.
+> 1.1. Describe how you apply the technique.
   
-  > 1.2. Explain how you know that the technique works.
+> 1.2. Explain how you know that the technique works.
          
 2. Which technique do you think has the greatest potential to improve your teaching abilities(choose 1)? Be sure to motivate your choice with some sound reasoning.  
 
