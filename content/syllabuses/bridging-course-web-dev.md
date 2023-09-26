@@ -32,7 +32,7 @@ title: Web dev bridging course
 - {{< contentlink path="soft-skills/learning-how-to-learn" >}}
 - {{< contentlink path="soft-skills/how-to-master-fundamentals" >}}
 - {{< contentlink path="topics/clean-code/java-script" >}}
-- {{< contentlink path="topics/file-and-directory-naming/javascript" >}}
+- {{< contentlink path="file-and-directory-naming/javascript" >}}
 - {{< contentlink path="coding_aptitude_assessment/coding_challenges/task_1" flavour="javascript" >}}
 - {{< contentlink path="coding_aptitude_assessment/coding_challenges/task_2" flavour="javascript" >}}
 - {{< contentlink path="coding_aptitude_assessment/coding_challenges/task_3" flavour="javascript" >}}

@@ -30,6 +30,7 @@ title: Data eng bridging course
 - {{< contentlink path="projects/git-exercises" >}}
 - {{< contentlink path="topics/bootcamp/git-for-bootcamp" >}}
 - {{< contentlink path="environment-setup" >}}
+  
 ## The real work
 
 - {{< contentlink path="topics/solo-learn/python/python-intermediate/1-collection-types" >}}
@@ -37,7 +38,7 @@ title: Data eng bridging course
 - {{< contentlink path="soft-skills/learning-how-to-learn" >}}
 - {{< contentlink path="soft-skills/how-to-master-fundamentals" >}}
 - {{< contentlink path="topics/clean-code/python" >}}
-- {{< contentlink path="topics/file-and-directory-naming/python" >}}
+- {{< contentlink path="file-and-directory-naming/python" >}}
 - {{< contentlink path="coding_aptitude_assessment/coding_challenges/task_1" flavour="python" >}}
 - {{< contentlink path="coding_aptitude_assessment/coding_challenges/task_2" flavour="python" >}}
 - {{< contentlink path="coding_aptitude_assessment/coding_challenges/task_3" flavour="python" >}}
