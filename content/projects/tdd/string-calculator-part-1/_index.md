@@ -166,13 +166,13 @@ In the first case, the default delimiter is: ";".
 
 In the second case, the default delimiter is: "4".
 
-**Note:** you are not expected to handle integer delimiters where the delimiter and the digit you are adding are identical and next to each other. Example:
+**Note:** You are not expected to handle integer delimiters where the single digit at the start and/or end of the delimiter and the preceding or subsequent integer you are adding are identical. Example:
 
 ```
 add("//88\n18882")
 ```
 
-**Note:** You are also not expected to handle integer delimiters where the delimiter is at the start and or end of the list of integers. Example:
+**Note:** You are also not expected to handle integer delimiters where the delimiter is at the start and/or end of the list of integers. Example:
 
 ```
 // These input are invalid
@@ -216,7 +216,7 @@ add("//***\n1***2***3")
 // should return 6
 ```
 
-**Note:** You are not expected to handle delimiters where the delimiter is at the start and or end of the list of integers. Example:
+**Note:** You are not expected to handle delimiters where the delimiter is at the start and/or end of the list of integers. Example:
 
 ```
 // These are considered invalid
