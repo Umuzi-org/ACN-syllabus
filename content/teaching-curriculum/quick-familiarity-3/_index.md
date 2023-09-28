@@ -6,7 +6,6 @@ flavours:
 prerequisites:
   hard:
     - teaching-curriculum/introducing-teach-like-a-champion
-    - file-and-directory-naming/general
 protect_main_branch: false
 ready: true
 submission_type: repo
