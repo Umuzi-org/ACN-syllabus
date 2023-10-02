@@ -13,6 +13,8 @@ _db_id: 7
 - {{< contentlink path="specific-skill-success-criteria/for-loops" flavour="java" >}}
 - {{< contentlink path="topics/solo-learn/java/3-arrays" >}}
 - {{< contentlink path="topics/clean-code" >}}
+- {{< contentlink path="error-handling/java-error-handling" flavour="java" >}}
+- {{< contentlink path="error-handling/error-handling-assignment" >}}
 - {{< contentlink path="topics/how-to-ask-for-help-with-your-code" >}}
 - {{< contentlink path="file-and-directory-naming/java" >}}
 - {{< contentlink path="file-and-directory-naming/file-directory-naming-assignment" >}}
