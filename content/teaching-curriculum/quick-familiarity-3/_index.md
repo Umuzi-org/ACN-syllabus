@@ -25,11 +25,11 @@ To keep the projects bite-sized, we'll look at just 3 chapters at a time and do 
 - Read through the summary of Chapters 7, 8 and 9.
 - For each of the 3 chapters:
 
-1. In 300 words or less, describe which of the techniques you already apply pretty well when you teach and describe how you apply the technique.
-
-   1.1. Explain how you know that the technique works.
+1. Describe which of the techniques you already apply pretty well when you teach and describe how you apply the technique. Also explain how you know that the technique works.
 
 2. Which technique do you think has the greatest potential to improve your teaching abilities(choose 1)? Be sure to motivate your choice with some sound reasoning.
+
+- Use 300 words or less to answer each question above.
 
 ## How to submit your work:
 
