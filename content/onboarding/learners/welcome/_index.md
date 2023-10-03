@@ -2,7 +2,7 @@
 _db_id: 879
 content_type: topic
 ready: true
-title: Welcome to your learnership
+title: Welcome to your learning journey
 ---
 
 ![congratulations pic](Congratulations_pic.png)
