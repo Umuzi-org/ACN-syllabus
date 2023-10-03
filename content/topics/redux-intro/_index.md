@@ -106,11 +106,11 @@ function theReducer(state = initialState, action){
         case ADD_TODO:
             return {
                 ...state,  // we copy all the things using some ES6 syntax
-                todos: [...state.todos, {title: action.title, done:false }]
+                todos: [...state.todos, {title: action.title, done: false }]
             }
 
             // {
-            //    todos : [1,2,3,{type: ADD_TODO, title: "buy hats"}],
+            //    todos : [1,2,3,{title: "buy hats", done: false}],
             //    stuff : "things"
             //}
 
@@ -168,7 +168,7 @@ Ok, what does that mean?
 
 A nested data structure is something with many levels.
 
-Let's say we have an application that manages...agile cards one a board. Tose cards can be associated with other data structures such as repositories and reviews.
+Let's say we have an application that manages...agile cards on a board. Those cards can be associated with other data structures such as repositories and reviews.
 
 Say we store a list of cards that look like this:
 
@@ -184,3 +184,4 @@ cards: [
     }
 ]}
 ```
+This is a nested data structure because there are objects and arrays inside other objects and arrays.
