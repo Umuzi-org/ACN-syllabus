@@ -76,13 +76,13 @@ Please name your files and folders like this:
 
 Please take a look at this topic to see an explanation of the required directory structure.
 
-{{< contentlink "topics/python-specific/automated-testing-with-pytest" >}}
+{{< contentlink path="topics/python-specific/automated-testing-with-pytest" >}}
 
 ### Java
 
 Make use of Gradle from the command line to set up your project. You can learn more about Gradle here:
 
-{{< contentlink "gradle/introduction" >}}
+{{< contentlink path="gradle/introduction" >}}
 
 Your directory structure should look like this:
 
