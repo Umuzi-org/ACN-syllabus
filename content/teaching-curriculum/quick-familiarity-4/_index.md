@@ -31,6 +31,6 @@ To keep the projects bite-sized, we'll look at just 3 chapters at a time and do 
 
 - Use 300 words or less to answer each question above.
 
-## How to submit your work:
+## Please follow the following instructions to submit your work:
 
 {{< contentlink path="project-submission-instructions/markdown-questions" >}}

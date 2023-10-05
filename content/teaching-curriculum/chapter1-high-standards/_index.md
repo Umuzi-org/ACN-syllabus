@@ -36,6 +36,6 @@ These are the 5 techniques covered in the chapter:
 
 - Use 300 words or less to answer each question above.
 
-## How to submit your work:
+## Please follow the following instructions to submit your work:
 
 {{< contentlink path="project-submission-instructions/markdown-questions" >}}
