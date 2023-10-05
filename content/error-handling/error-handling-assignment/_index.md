@@ -7,8 +7,7 @@ flavours:
   - python
 prerequisites:
   hard:
-    - error-handling/javascript-error-handling
-    - error-handling/python-error-handling
+    - error-handling
 protect_main_branch: false
 ready: true
 submission_type: repo
@@ -19,10 +18,95 @@ Please answer the following questions in markdown files and submit following the
 
 ## Questions
 
-1. In your programming  language, what is the fundamental purpose of error handling, and why is it crucial in software development?
+1. What is the fundamental purpose of error handling?
 
-2. In your programming language, what are some poor practices in error handling that developers should avoid? Provide examples if possible.
+2. What are some poor practices in error handling that developers should avoid? Provide 1 example.
 
-3. In your programming language, when should developers catch and handle errors, and what factors should influence this decision?
+3. When should developers catch and handle errors?
 
-4. In your programming language, demonstrate how to raise a custom error with a specific error message. Write a code snippet that showcases this, and explain why it's essential to include clear error messages in custom exceptions.
+4. Take a look at the following code snippets:
+
+```java
+// java
+try {
+  // Code...
+} catch (Exception error) {
+  System.out.println(error);
+}
+
+try {
+  // Code...
+} catch (Exception error) {
+  System.out.println("Error: " + error);
+}
+
+try {
+  // Code...
+} catch (Exception error) {
+  return error;
+}
+
+try {
+  // Code...
+} catch (IllegalArgumentException error) {
+  throw error;
+}
+```
+
+```python
+# python
+try:
+  # Code...
+except Exception as error:
+  print(error)
+
+try:
+  # Code...
+except Exception as error:
+  print(f"Error: {error}")
+
+try:
+  # Code...
+except Exception as error:
+  return error
+
+try:
+  # Code...
+except ValueError as error:
+  raise error
+```
+
+```javascript
+// javascript
+try {
+  // Code...
+} catch (error) {
+  console.error(error);
+}
+
+try {
+  // Code...
+} catch (error) {
+  console.log(`Error: ${error}`);
+}
+
+try {
+  // Code...
+} catch (error) {
+  return error;
+}
+
+try {
+  // Code...
+} catch (error) {
+  throw error;
+}
+```
+
+please select and write one snippet that is a good example of error handling.
+
+## How to submit your work
+
+Please follow the following instructions to submit your work:
+
+{{< contentlink path="project-submission-instructions/markdown-questions" >}}

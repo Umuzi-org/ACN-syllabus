@@ -71,20 +71,7 @@ It's important to understand when to catch errors. You should only catch errors 
 
 In Python, you can create custom exceptions when you precisely understand what went wrong or when you want to provide more context to an existing exception.
 
-There are different ways to raise custom exceptions:
-
-Just raising a caught exception or any object as an exception
-
-```python
-# AVOID - It's not clear where the exception occurred; you can raise almost anything as an exception
-raise error
-
-raise "Some error"
-
-raise {}
-```
-
-Using the Exception class:
+By using the Exception class:
 
 ```python
 # PREFERRED - It indicates the location of the exception, and the constructor accepts a message for clarity
