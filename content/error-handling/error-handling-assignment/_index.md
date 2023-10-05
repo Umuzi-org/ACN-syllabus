@@ -7,7 +7,9 @@ flavours:
   - python
 prerequisites:
   hard:
-    - error-handling
+    - error-handling/java-error-handling
+    - error-handling/python-error-handling
+    - error-handling/javascript-error-handling
 protect_main_branch: false
 ready: true
 submission_type: repo
