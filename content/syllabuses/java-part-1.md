@@ -3,6 +3,26 @@ title: Java Systems Development - part 1
 _db_id: 7
 ---
 
+## Java Part 1 & Part 2 Software Requirements
+- Ensure the ability to install:
+  - Java Development Kit (JDK)
+  - Spring Boot
+  - Git
+  - Gradle
+  - Maven
+  - JUnit
+  - PostgreSQL
+  - Docker
+  - Docker-compose
+  - IntelliJ IDEA (preferred) / VSCode
+  - JDBC Templates
+  - JPA Hibernate
+  - Log4J-2
+  - Spring Boot (and any dependencies that Spring Boot requires) 
+  - Thymeleaf
+
+## Content & Projects
+
 - {{< contentlink path="topics/java-specific/intro-to-gradle-with-intellij" >}}
 - {{< contentlink path="agile/agile-scrum" >}}
 - {{< contentlink path="topics/solo-learn/java/1-getting-started-with-java" >}}
