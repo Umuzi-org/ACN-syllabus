@@ -2,16 +2,16 @@
 _db_id: 963
 content_type: project
 flavours:
-  - none
+- none
 prerequisites:
   hard:
-    - topics/test-driven-development
+  - topics/test-driven-development
   soft: []
 protect_main_branch: false
 ready: true
 submission_type: repo
 tags:
-  - tdd
+- tdd
 title: Test Driven Development - Questions
 ---
 

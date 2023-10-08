@@ -1,13 +1,13 @@
 ---
+_db_id: 994
 content_type: project
 flavours:
-  - java
-  - javascript
-  - markdown
-  - python
+- java
+- javascript
+- python
 prerequisites:
   hard:
-    - file-and-directory-naming/general
+  - file-and-directory-naming/general
 protect_main_branch: false
 ready: true
 submission_type: repo

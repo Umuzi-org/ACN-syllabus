@@ -3,11 +3,11 @@ _db_id: 769
 content_type: topic
 prerequisites:
   hard:
-    - file-and-directory-naming/general
+  - file-and-directory-naming/general
 ready: true
 tags:
-  - File and directory naming
-  - python
+- File and directory naming
+- python
 title: File and directory naming in Python
 ---
 

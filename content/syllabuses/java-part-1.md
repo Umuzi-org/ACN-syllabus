@@ -35,7 +35,7 @@ _db_id: 7
 - {{< contentlink path="topics/clean-code" >}}
 - {{< contentlink path="topics/how-to-ask-for-help-with-your-code" >}}
 - {{< contentlink path="file-and-directory-naming/java" >}}
-- {{< contentlink path="file-and-directory-naming/file-directory-naming-assignment" >}}
+- {{< contentlink path="file-and-directory-naming/file-directory-naming-assignment" flavour="java" >}}
 - {{< contentlink path="projects/katas/level-2" flavour="java" >}}
 - {{< contentlink path="topics/solo-learn/java/4-methods" >}}
 - {{< contentlink path="topics/solo-learn/java/4-methods-project" >}}
