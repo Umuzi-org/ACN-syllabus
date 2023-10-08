@@ -26,9 +26,6 @@ none:
 any_fullstack_web_framework:
   - django
 
-any_plain_text:
-  - markdown
-
 misc:
   - redux
 

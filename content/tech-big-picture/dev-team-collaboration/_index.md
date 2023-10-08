@@ -2,7 +2,7 @@
 _db_id: 921
 content_type: project
 flavours:
-- markdown
+- none
 prerequisites:
   hard:
   - tech-big-picture/intro-to-version-control-github

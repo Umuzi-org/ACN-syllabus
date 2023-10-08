@@ -2,7 +2,7 @@
 _db_id: 394
 content_type: project
 flavours:
-- markdown
+- none
 protect_main_branch: false
 ready: true
 submission_type: repo

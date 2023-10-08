@@ -24,8 +24,8 @@ _db_id: 100
 - {{< contentlink path="tech-big-picture/security" >}}
 - {{< contentlink path="tech-big-picture/security-best-practices-for-you" >}}
 - {{< contentlink path="tech-big-picture/dev-ops" >}}
-- {{< contentlink path="tech-big-picture/dev-ops-questions" flavour="markdown" >}}
-- {{< contentlink path="tech-big-picture/dev-team-collaboration" flavour="markdown" >}}
+- {{< contentlink path="tech-big-picture/dev-ops-questions" flavour="" >}}
+- {{< contentlink path="tech-big-picture/dev-team-collaboration" flavour="" >}}
 
 ## Specific technologies
 
@@ -33,6 +33,6 @@ _db_id: 100
 - {{< contentlink path="tech-big-picture/cloud-computing" >}} 
 - {{< contentlink path="tech-big-picture/the-cloud-and-you" >}} 
 - {{< contentlink path="tech-big-picture/open-source" >}}  
-- {{< contentlink path="tech-big-picture/open-source-questions" flavour="markdown" >}}
+- {{< contentlink path="tech-big-picture/open-source-questions" flavour="" >}}
 - {{< contentlink path="tech-big-picture/modern-ai" >}}
-- {{< contentlink path="tech-big-picture/modern-ai-questions" flavour="markdown" >}}
+- {{< contentlink path="tech-big-picture/modern-ai-questions" flavour="" >}}

@@ -2,7 +2,7 @@
 _db_id: 915
 content_type: project
 flavours:
-- markdown
+- none
 prerequisites:
   hard:
   - tech-big-picture/software-processes-and-agile-practices

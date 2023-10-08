@@ -2,7 +2,7 @@
 _db_id: 963
 content_type: project
 flavours:
-  - markdown
+  - none
 prerequisites:
   hard:
     - topics/test-driven-development

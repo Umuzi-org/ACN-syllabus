@@ -3,7 +3,7 @@ _db_id: 81
 title: Web development boot camp (with automarked katas)
 ---
 
-- {{< contentlink path="projects/writing-assignment" flavour="markdown" >}}
+- {{< contentlink path="projects/writing-assignment" flavour="" >}}
 - {{< contentlink path="coding_aptitude_assessment/coding_challenges/task_1" flavour="javascript" >}}
 - {{< contentlink path="coding_aptitude_assessment/coding_challenges/task_2" flavour="javascript" >}}
 - {{< contentlink path="coding_aptitude_assessment/coding_challenges/task_3" flavour="javascript" >}}

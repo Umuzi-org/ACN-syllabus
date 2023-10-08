@@ -2,7 +2,7 @@
 _db_id: 919
 content_type: project
 flavours:
-- markdown
+- none
 prerequisites:
   hard:
   - tech-big-picture/open-source

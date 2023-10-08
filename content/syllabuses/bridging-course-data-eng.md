@@ -26,7 +26,7 @@ title: Data eng bridging course
 ## Git and environment
 
 - {{< contentlink path="environment-setup/git" >}}
-- {{< contentlink path="projects/beginning-bash" flavour="markdown" >}}
+- {{< contentlink path="projects/beginning-bash" flavour="" >}}
 - {{< contentlink path="projects/git-exercises" >}}
 - {{< contentlink path="topics/bootcamp/git-for-bootcamp" >}}
 - {{< contentlink path="environment-setup" >}}

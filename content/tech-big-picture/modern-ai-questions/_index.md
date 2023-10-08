@@ -2,7 +2,7 @@
 _db_id: 923
 content_type: project
 flavours:
-- markdown
+- none
 prerequisites:
   hard:
   - tech-big-picture/modern-ai

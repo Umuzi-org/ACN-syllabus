@@ -2,7 +2,7 @@
 _db_id: 922
 content_type: project
 flavours:
-- markdown
+- none
 prerequisites:
   hard:
   - tech-big-picture/different-roles
