@@ -15,6 +15,7 @@ _db_id: 4
 - {{< contentlink path="tech-big-picture/how-web-applications-work/part-5" >}}
 - {{< contentlink path="topics/high-performance-dev-teams" >}}
 - {{< contentlink path="specific-skill-success-criteria/introduction-to-assessments" >}}
+- {{< contentlink path="error-handling/python-error-handling" flavour="python" >}}
 - {{< contentlink path="specific-skill-success-criteria/functions-and-return" flavour="python" >}}
 - {{< contentlink path="projects/katas/level-2" flavour="python" >}}
 - {{< contentlink path="language-agnostic/intro-to-hackerrank" flavour="python" >}}

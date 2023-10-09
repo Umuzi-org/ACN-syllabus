@@ -39,6 +39,7 @@ _db_id: 7
 - {{< contentlink path="projects/katas/level-2" flavour="java" >}}
 - {{< contentlink path="topics/solo-learn/java/4-methods" >}}
 - {{< contentlink path="topics/solo-learn/java/4-methods-project" >}}
+- {{< contentlink path="error-handling/java-error-handling" flavour="java" >}}
 - {{< contentlink path="language-agnostic/intro-to-hackerrank" flavour="java" >}}
 - {{< contentlink path="topics/solo-learn/java/5-classes-and-objects" >}}
 - {{< contentlink path="specific-skill-success-criteria/classes-and-objects" flavour="java" >}}
