@@ -2,7 +2,7 @@
 _db_id: 846
 content_type: project
 flavours:
-  - markdown
+  - none
 prerequisites:
   hard:
     - teaching-curriculum/quick-familiarity-1
