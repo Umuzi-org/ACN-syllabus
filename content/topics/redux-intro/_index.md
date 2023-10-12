@@ -1,9 +1,6 @@
 ---
 _db_id: 18
 content_type: topic
-flavours:
-- javascript
-- typescript
 ready: true
 title: Basic introduction to Redux
 ---
