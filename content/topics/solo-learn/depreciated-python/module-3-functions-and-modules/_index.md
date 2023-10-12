@@ -12,7 +12,7 @@ tags:
 - python
 - solo-learn
 title: Solo Learn - Python - Module 3 - Functions & Modules - Depricated
-topic_needs_review: false
+
 ---
 
 Complete the above-mentioned module on Solo Learn.

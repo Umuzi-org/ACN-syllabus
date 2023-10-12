@@ -12,7 +12,7 @@ tags:
 - python
 - solo-learn
 title: Solo Learn - Intro to Python - 2 Going Deeper with Python
-topic_needs_review: false
+
 ---
 
 Complete the above-mentioned module on Solo Learn.

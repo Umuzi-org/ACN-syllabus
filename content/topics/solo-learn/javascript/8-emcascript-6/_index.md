@@ -10,7 +10,7 @@ tags:
 - javascript
 - solo-learn
 title: Solo Learn - JavaScript - Module 8 - ECMAScript 6
-topic_needs_review: false
+
 ---
 
 Complete the above mentioned module on Solo Learn

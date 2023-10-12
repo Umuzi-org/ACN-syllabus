@@ -12,7 +12,7 @@ tags:
 - java
 - solo-learn
 title: Solo Learn - Java Intermediate - 5. Classes and Objects
-topic_needs_review: false
+
 ---
 
 Complete the above mentioned module on Solo Learn.

@@ -12,7 +12,7 @@ tags:
 - javascript
 - solo-learn
 title: Solo Learn - JavaScript - Module 1 - Overview
-topic_needs_review: false
+
 ---
 
 Complete the above mentioned module on Solo Learn

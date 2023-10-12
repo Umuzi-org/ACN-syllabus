@@ -10,7 +10,7 @@ tags:
 - java
 - solo-learn
 title: Solo Learn - Introduction to Java - 2. Control Flow
-topic_needs_review: false
+
 ---
 
 Complete the above mentioned module on Solo Learn.

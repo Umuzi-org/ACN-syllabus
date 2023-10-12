@@ -8,7 +8,7 @@ tags:
 - java
 - solo-learn
 title: Solo Learn - Introduction to Java - 1. Getting Started with Java
-topic_needs_review: false
+
 ---
 
 Complete the above mentioned module on Solo Learn.

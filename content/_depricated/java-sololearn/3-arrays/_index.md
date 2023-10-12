@@ -10,7 +10,7 @@ tags:
 - java
 - solo-learn
 title: Solo Learn - Java - Module 3 - Arrays - Deprecated
-topic_needs_review: false
+
 ---
 
 Complete the above mentioned module on Solo Learn

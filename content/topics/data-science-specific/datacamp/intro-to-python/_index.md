@@ -8,7 +8,6 @@ submission_type: link
 tags:
 - close_on_peer_reviews
 title: DataCamp Intro to Python
-topic_needs_review: true
 ---
 
 Please complete the below course on DataCamp. 

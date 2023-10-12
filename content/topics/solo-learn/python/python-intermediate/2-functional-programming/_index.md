@@ -12,7 +12,7 @@ tags:
 - python
 - solo-learn
 title: Solo Learn - Python Intermediate - 2 Functional Programming
-topic_needs_review: false
+
 ---
 
 Complete the above-mentioned module on Solo Learn.

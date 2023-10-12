@@ -12,7 +12,7 @@ tags:
 - java
 - solo-learn
 title: Solo Learn - Introduction to Java - 3. Arrays
-topic_needs_review: false
+
 ---
 
 Complete the above mentioned module on Solo Learn.

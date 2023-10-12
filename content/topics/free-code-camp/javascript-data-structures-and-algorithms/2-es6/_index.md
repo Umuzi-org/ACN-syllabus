@@ -7,7 +7,7 @@ tags:
 - es6
 - free-code-camp
 title: FreeCodeCamp - ES6
-topic_needs_review: false
+
 ---
 
 Make an account here if you haven't already: https://www.freecodecamp.org/learn

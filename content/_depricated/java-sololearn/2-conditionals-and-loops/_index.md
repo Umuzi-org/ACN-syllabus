@@ -10,7 +10,6 @@ tags:
 - java
 - solo-learn
 title: Solo Learn - Java - Module 2 -Conditionals and Loops - Deprecated
-topic_needs_review: false
 ---
 
 Complete the above mentioned module on Solo Learn

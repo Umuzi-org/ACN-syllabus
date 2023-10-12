@@ -12,7 +12,7 @@ tags:
 - java
 - solo-learn
 title: Solo Learn - Java Intermediate - 7. Exceptions, Lists, Threads and Files
-topic_needs_review: false
+
 ---
 
 Complete the above mentioned module on Solo Learn.

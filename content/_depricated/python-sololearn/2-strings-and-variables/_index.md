@@ -12,7 +12,7 @@ tags:
 - python
 - solo-learn
 title: Solo Learn - Python Core - Module 2 - Strings & Variables
-topic_needs_review: false
+
 ---
 
 Complete the above-mentioned module on Solo Learn.

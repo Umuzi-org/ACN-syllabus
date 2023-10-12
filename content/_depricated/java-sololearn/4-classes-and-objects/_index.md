@@ -13,7 +13,7 @@ tags:
 - java
 - solo-learn
 title: Solo Learn - Java - Module 4 - Classes and Objects - Deprecated
-topic_needs_review: false
+
 ---
 
 Complete the above mentioned module on Solo Learn
