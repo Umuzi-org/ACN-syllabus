@@ -12,7 +12,6 @@ tags:
 - python
 - solo-learn
 title: Solo Learn - Intro to Python - 4 Control Flow
-
 ---
 
 Complete the above-mentioned module on Solo Learn.

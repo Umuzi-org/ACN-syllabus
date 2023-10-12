@@ -10,7 +10,6 @@ tags:
 - javascript
 - solo-learn
 title: Solo Learn - JavaScript - Module 5 - Objects
-
 ---
 
 Complete the above mentioned module on Solo Learn

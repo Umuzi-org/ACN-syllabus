@@ -12,7 +12,6 @@ tags:
 - javascript
 - solo-learn
 title: Solo Learn - JavaScript - Module 1 - Overview
-
 ---
 
 Complete the above mentioned module on Solo Learn

@@ -12,7 +12,6 @@ tags:
 - java
 - solo-learn
 title: Solo Learn - Introduction to Java - 4. Methods
-
 ---
 
 Complete the above mentioned module on Solo Learn.

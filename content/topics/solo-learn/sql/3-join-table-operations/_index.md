@@ -9,7 +9,6 @@ tags:
 - sql
 - solo-learn
 title: Solo Learn - SQL - Module 3 - JOIN, Table Operations
-
 ---
 
 Complete the above mentioned module on Solo Learn

@@ -12,7 +12,6 @@ tags:
 - python
 - solo-learn
 title: Solo Learn - Intro to Python - 5 Working with Lists
-
 ---
 
 Complete the above-mentioned module on Solo Learn.

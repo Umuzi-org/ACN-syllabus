@@ -12,7 +12,6 @@ tags:
 - python
 - solo-learn
 title: Solo Learn - Python Core - Module 2 - Strings & Variables
-
 ---
 
 Complete the above-mentioned module on Solo Learn.

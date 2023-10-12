@@ -12,7 +12,6 @@ tags:
 - java
 - solo-learn
 title: Solo Learn - Java Intermediate  - 6. More on Classes
-
 ---
 
 Complete the above mentioned module on Solo Learn.

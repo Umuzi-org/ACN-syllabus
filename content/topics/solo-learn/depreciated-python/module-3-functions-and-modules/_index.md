@@ -12,7 +12,6 @@ tags:
 - python
 - solo-learn
 title: Solo Learn - Python - Module 3 - Functions & Modules - Depricated
-
 ---
 
 Complete the above-mentioned module on Solo Learn.

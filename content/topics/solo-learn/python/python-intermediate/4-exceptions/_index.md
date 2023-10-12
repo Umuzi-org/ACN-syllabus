@@ -12,7 +12,6 @@ tags:
 - python
 - solo-learn
 title: Solo Learn - Python Intermediate - 4 Exceptions
-
 ---
 
 Complete the above-mentioned module on Solo Learn.

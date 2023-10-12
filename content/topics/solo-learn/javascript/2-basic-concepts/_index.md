@@ -10,7 +10,6 @@ tags:
 - javascript
 - solo-learn
 title: Solo Learn - JavaScript - Module 2 - Basic Concepts
-
 ---
 
 Complete the above mentioned module on Solo Learn

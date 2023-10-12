@@ -6,7 +6,6 @@ tags:
 - javascript
 - free-code-camp
 title: FreeCodeCamp - Functional Programming
-
 ---
 
 Make an account here if you haven't already: https://www.freecodecamp.org/learn

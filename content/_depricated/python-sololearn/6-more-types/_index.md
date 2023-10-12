@@ -12,7 +12,6 @@ tags:
 - python
 - solo-learn
 title: Solo Learn - Python Core - Module 6 - More Types
-
 ---
 
 Complete the above-mentioned module on Solo Learn.

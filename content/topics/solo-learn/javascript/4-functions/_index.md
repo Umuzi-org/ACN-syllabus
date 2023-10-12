@@ -10,7 +10,6 @@ tags:
 - javascript
 - solo-learn
 title: Solo Learn - JavaScript - Module 4 - Functions
-
 ---
 
 Complete the above mentioned module on Solo Learn

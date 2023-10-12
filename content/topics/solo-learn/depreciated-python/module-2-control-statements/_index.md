@@ -9,7 +9,6 @@ tags:
 - python
 - solo-learn
 title: Solo Learn - Python - Module 2 - Control Statements - Depricated
-
 ---
 
 Complete the above mentioned module on Solo Learn
