@@ -90,7 +90,7 @@ Create a function called `password strength`. This function should take one para
 
 Here are criteria that are used for judging the strength of a password:
 
-1. password should not be blank
+1. password should not be empty
 2. password should be longer than 8 characters
 3. password should have at least one lowercase letter
 4. password should have at least one uppercase letter
