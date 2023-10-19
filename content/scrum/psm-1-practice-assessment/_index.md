@@ -20,7 +20,7 @@ tags:
 title: PSM 1 Practice Assessment
 ---
 
-This is the final practice test before you write your exam.
+[The Free Scrum Master I (PSM I) Practice Assessment](https://www.thescrummaster.co.uk/quizzes/professional-scrum-master-i-psm-i-practice-assessment/) is the final practice test before you write your exam.
 
 Once again you will be rewriting this test until you can get 90% or above. Ensure that you are understanding the answers and the reasoning behind them not just memorizing the questions and answers.
 
