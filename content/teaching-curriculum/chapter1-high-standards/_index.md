@@ -26,16 +26,14 @@ These are the 5 techniques covered in the chapter:
 4. Format matters
 5. Without apology
 
-## Your Mission Objectives:
+## Your Mission Objectives
 
-1. For each of these 5 techniques, reflect on your experiences as a learner (before Umuzi), and describe a teacher you can remember who applied the technique well or poorly in your classroom.
+Answer the following questions in 300 words or less:
 
-2. Now reflect on your time at Umuzi, both as a learner and a teacher. For each of these 5 techniques, describe how/where you've seen it applied really well. In a separate paragraph, describe how/where you've seen it done really poorly.
+1. For each of these 5 techniques, reflect on your experiences as a learner and describe a teacher you can remember who applied the technique well or poorly in your classroom.
 
-3. What 1 system/change do you think Umuzi should put in place to improve how we uphold high academic standards? Describe your suggested system/change in at least 3 paragraphs.
+2. Suggest 1 system change that you think should be put in place to improve and uphold high academic standards? Describe your suggested system change in at least 3 paragraphs.
 
-- Use 300 words or less to answer each question above.
-
-## Please follow the following instructions to submit your work:
+## Please follow the following instructions to submit your work
 
 {{< contentlink path="project-submission-instructions/markdown-questions" >}}

@@ -2,7 +2,7 @@
 _db_id: 847
 content_type: project
 flavours:
-  - mardown
+  - none
 prerequisites:
   hard:
     - teaching-curriculum/introducing-teach-like-a-champion
@@ -20,17 +20,14 @@ As mentioned in the introductory topic of the course, the point of the quick fam
 
 To keep the projects bite-sized, we'll look at 3 chapters at a time and do some light reflection and planning.
 
-## Your Mission Objectives:
+## Your Mission Objectives
 
-- Read through the the summary of **chapters 1, 2 and 3**.
-- For each of the 3 chapters:
+Read through the the summary of **chapters 1, 2 and 3** and then answer the following questions. Each question should be answered in 300 words or less.
 
 1. Describe which of the techniques you already apply pretty well when you teach, and describe how you apply the technique. Also explain how you know that the technique works.
 
 2. Which technique do you think has the greatest potential to improve your teaching abilities(choose 1)? Be sure to motivate your choice with some sound reasoning.
 
-- Use 300 words or less to answer each question above.
-
-## Please follow the following instructions to submit your work:
+## Please follow the following instructions to submit your work
 
 {{< contentlink path="project-submission-instructions/markdown-questions" >}}
