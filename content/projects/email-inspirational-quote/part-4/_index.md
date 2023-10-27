@@ -6,9 +6,6 @@ flavours:
 from_repo: projects/email-inspirational-quote/part-1
 prerequisites:
   hard:
-  - topics/unit-testing-mocks-and-spies
-  - topics/linux/os-environmental-variables
-  - projects/email-inspirational-quote/part-1
   - projects/email-inspirational-quote/part-3
   soft: []
 ready: true
