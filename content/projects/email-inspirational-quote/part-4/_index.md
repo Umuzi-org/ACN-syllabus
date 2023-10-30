@@ -6,6 +6,8 @@ flavours:
 from_repo: projects/email-inspirational-quote/part-1
 prerequisites:
   hard:
+  - projects/email-inspirational-quote/part-1
+  - projects/email-inspirational-quote/part-2
   - projects/email-inspirational-quote/part-3
   soft: []
 ready: true
