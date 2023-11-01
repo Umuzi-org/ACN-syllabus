@@ -29,7 +29,7 @@ You can see more detailed instructions [here](https://www.w3schools.com/html/htm
 
 - If you have an Android then you can make use of the [ACode](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree&hl=en_ZA) code editor. ACode can be a little confusing. [Here](https://youtu.be/ivJ4FGKnGUE) is a little demonstration video that might help you.
 
-- For an iOS device like an iPhone or iPad, you can use the [Koder](https://apps.apple.com/za/app/koder-code-editor/id1447489375) code editor. To learn how to use it, watch this [video](https://www.youtube.com/watch?v=U8obGsKFRCE)
+- For an iOS device like an iPhone or iPad, you can use the [Koder](https://apps.apple.com/za/app/koder-code-editor/id1447489375) code editor. To learn how to use it, watch this [video](https://www.youtube.com/watch?v=kmYwIDS3sA0)
 
 ## Option 3: If you have a computer and want to be fancy about it
 
