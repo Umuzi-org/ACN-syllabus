@@ -26,6 +26,7 @@ tags:
 - git
 - ncit
 - clean code
+- skill/git
 title: Version Control
 ---
 

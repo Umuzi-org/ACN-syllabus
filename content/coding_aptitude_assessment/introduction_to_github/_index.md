@@ -2,6 +2,9 @@
 _db_id: 766
 content_type: topic
 ready: true
+tags:
+- skill/git
+- skill/github
 title: Basic introduction to Github - Helloworld
 ---
 

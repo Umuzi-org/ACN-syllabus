@@ -2,6 +2,8 @@
 _db_id: 393
 content_type: topic
 ready: true
+tags:
+- skill/git
 title: Useful Git commands
 ---
 
