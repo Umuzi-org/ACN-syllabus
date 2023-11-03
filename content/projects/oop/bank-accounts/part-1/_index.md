@@ -132,6 +132,6 @@ Also, please make use of assertions within your code to make sure that errors ar
 - withdraw more money than you have
 - set a negative interest rate
 
-### Javascript
+**NB: Javascript assertions**
 
-Please make use of [nodejs assert()](https://www.w3schools.com/nodejs/met_assert.asp) because [console.assert()](<https://developer.mozilla.org/en-US/docs/Web/API/console/assert#:~:text=The%20console.assert()%20method%20writes%20an%20error%20message%20to%20the%20console%20if%20the%20assertion%20is%20false.%20If%20the%20assertion%20is%20true%2C%20nothing%20happens.>) does not throw an error.
+Please make use of [nodejs assert()](https://www.w3schools.com/nodejs/met_assert.asp) because [console.assert()](<https://developer.mozilla.org/en-US/docs/Web/API/console/assert#:~:text=The%20console.assert()%20method%20writes%20an%20error%20message%20to%20the%20console%20if%20the%20assertion%20is%20false.%20If%20the%20assertion%20is%20true%2C%20nothing%20happens.>) does not throw errors.
