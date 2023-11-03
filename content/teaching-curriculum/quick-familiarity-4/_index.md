@@ -26,7 +26,7 @@ Read through the the summary of **chapters 10, 11 and 12** and then answer the f
 
 1. Describe which of the techniques you already apply pretty well when you teach and describe how you apply the technique. Also explain how you know that the technique works.
 
-2. Which technique do you think has the greatest potential to improve your teaching abilities(choose 1)? Be sure to motivate your choice with some sound reasoning.
+2. Which technique do you think has the greatest potential to improve your teaching abilities? (choose 1). Be sure to motivate your choice with some sound reasoning.
 
 ## Please follow the following instructions to submit your work
 
