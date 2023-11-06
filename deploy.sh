@@ -1,4 +1,4 @@
 #!/bin/sh
 
 hugo
-gsutil rsync -R public gs://syllabus.africacode.net
+gsutil rsync -R public gs://content.africacode.net
