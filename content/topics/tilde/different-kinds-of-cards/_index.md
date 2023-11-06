@@ -5,8 +5,6 @@ prerequisites:
   hard:
   - topics/tilde/intro-to-tilde
 ready: true
-tags:
-- skill/section/tilde
 title: 'Tilde tutorial: How cards work'
 ---
 

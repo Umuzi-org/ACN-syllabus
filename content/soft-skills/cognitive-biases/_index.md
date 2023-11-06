@@ -5,7 +5,6 @@ ready: true
 tags:
 - soft-skills
 - rational thinking
-- skill/section/professional_skills
 title: Cognitive Biases
 ---
 

@@ -8,7 +8,6 @@ submission_type: link
 tags:
 - soft-skills
 - meta-cognition
-- skill/section/learning_learning
 title: Learning How To Learn
 ---
 

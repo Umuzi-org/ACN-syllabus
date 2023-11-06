@@ -2,8 +2,6 @@
 _db_id: 501
 content_type: topic
 ready: true
-tags:
-- skill/section/starting_umuzi_basics
 title: 'SUPER IMPORTANT STUFF: How to not fail'
 ---
 

@@ -1,8 +1,6 @@
 ---
 _db_id: 714
 content_type: topic
-tags:
-- skill/section/developer_skills
 title: Why and how to review code
 ---
 

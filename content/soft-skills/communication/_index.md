@@ -5,7 +5,6 @@ ready: true
 tags:
 - soft-skills
 - communication
-- skill/section/professional_skills
 title: Communication
 ---
 

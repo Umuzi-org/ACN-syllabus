@@ -2,8 +2,6 @@
 _db_id: 399
 content_type: topic
 ready: true
-tags:
-- skill/section/tilde
 title: Introduction to Tilde
 ---
 

@@ -2,8 +2,6 @@
 _db_id: 881
 content_type: topic
 ready: true
-tags:
-- skill/section/starting_umuzi_basics
 title: Meet the Umuzi team
 ---
 

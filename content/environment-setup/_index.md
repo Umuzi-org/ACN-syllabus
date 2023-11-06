@@ -2,8 +2,6 @@
 _db_id: 396
 content_type: topic
 ready: true
-tags:
-- skill/section/starting_umuzi_basics
 title: Getting set up to write code on your device
 ---
 

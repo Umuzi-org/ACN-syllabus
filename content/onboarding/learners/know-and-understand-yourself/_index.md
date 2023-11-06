@@ -2,8 +2,6 @@
 _db_id: 883
 content_type: topic
 ready: true
-tags:
-- skill/section/professional_skills
 title: Know and understand yourself
 ---
 
