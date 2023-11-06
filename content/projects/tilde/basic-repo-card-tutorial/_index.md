@@ -12,6 +12,7 @@ ready: true
 submission_type: repo
 tags:
 - close_on_peer_reviews
+- skill/section/tilde
 title: 'Tilde project tutorial: Simple repository projects'
 ---
 

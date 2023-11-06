@@ -5,6 +5,7 @@ ready: true
 tags:
 - skill/git
 - skill/github
+- skill/section/github_basics
 title: Basic introduction to Github - Helloworld
 ---
 

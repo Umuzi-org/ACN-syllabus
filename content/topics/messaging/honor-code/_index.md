@@ -5,6 +5,7 @@ ready: true
 tags:
 - professionalism
 - ethics
+- skill/section/starting_umuzi_basics
 title: Honor Code
 ---
 

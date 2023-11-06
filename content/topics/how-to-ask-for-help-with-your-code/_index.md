@@ -5,6 +5,7 @@ ready: true
 tags:
 - soft-skills
 - communication
+- skill/section/developer_skills
 title: How to ask for help with your code
 ---
 

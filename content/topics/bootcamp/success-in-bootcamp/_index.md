@@ -2,6 +2,8 @@
 _db_id: 392
 content_type: topic
 ready: true
+tags:
+- skill/section/starting_umuzi_basics
 title: How to succeed in this course
 ---
 

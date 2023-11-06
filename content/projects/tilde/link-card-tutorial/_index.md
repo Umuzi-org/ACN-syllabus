@@ -7,6 +7,7 @@ ready: true
 submission_type: link
 tags:
 - close_on_peer_reviews
+- skill/section/starting_umuzi_basics
 title: 'Tilde project tutorial: How to submit a link'
 ---
 
