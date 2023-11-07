@@ -104,50 +104,45 @@ Play around with [this public repo](https://github.com/Umuzi-org/ACN-syllabus) a
 
 **If you are working in JavaScript** we should be able to call your function like this: `getPullRequests({ owner, repo, startDate, endDate})`. Take note of those curly brackets.
 
-### Returned data structure
+Example usage:
 
-Here is an example of what the final data structure should look like if it was converted into JSON. This isn't the exact data you should expect, just pay close attention to the structure:
-
-```bash
+```js
 // Javascript
 
-# input
 getPullRequests({
   owner: "Umuzi-org",
   repo: "ACN-syllabus",
   startDate: "2022-03-01",
-  endDate:"2022-03-10"
+  endDate: "2022-03-10",
 });
-
 ```
 
-```bash
+```py
 # Python
 
-# input
-get_pull_requests({
+get_pull_requests(
   owner="Umuzi-org",
   repo="ACN-syllabus",
   startDate="2022-03-01",
-  endDate=2022-03-10"
-})
+  endDate="2022-03-10"
+)
 
 ```
 
-```bash
+```java
 // Java
 
-# input
 getPullRequests(
-  owner,
-  repo,
-  startDate,
-  endDate
-)
+  "Umuzi-org",
+  "ACN-syllabus",
+  "2022-03-01",
+  "2022-03-10"
+);
 ```
 
+Here is an example of what the final data structure should look like if it was converted into JSON. This isn't the exact data you should expect, just pay close attention to the structure:
+
 ```bash
-# output
 [
   {"id": 876359209, "user":"FaithMo", "title":"added data sci and eng info", "state":"open", "created_at":"2022-03-10"},
   {"id": 874927260, "user":"ry-oc", "title":"update sololearn python and all contentlinks etc", "state":"closed", "created_at": "2022-03-09"},
