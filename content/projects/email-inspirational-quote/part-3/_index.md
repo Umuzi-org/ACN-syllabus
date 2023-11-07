@@ -79,7 +79,7 @@ The following will result in each recipient getting the exact same quote:
 python send_inspiration.py ~/email_recipients.json --same
 
 # if you are writing javascript:
-npm run send_inspiration ~/email_recipients.json --same
+npm run send_inspiration ~/email_recipients.json -- --same
 
 # if you are writing Java
 java SendInspiration ~/email_recipients.json --same
