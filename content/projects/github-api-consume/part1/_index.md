@@ -102,9 +102,9 @@ The function should return a list or array of pull requests on the repo such tha
 
 Play around with [this public repo](https://github.com/Umuzi-org/ACN-syllabus) and see if you can make it work.
 
-**If you are working in JavaScript** we should be able to call your function like this: `getPullRequests({ owner, repo, startDate, endDate})`. Take note of those curly brackets.
-
 Example usage:
+
+**If you are working in JavaScript** we should be able to call your function like this: `getPullRequests({ owner, repo, startDate, endDate})`. Take note of those curly brackets.
 
 ```js
 // Javascript
