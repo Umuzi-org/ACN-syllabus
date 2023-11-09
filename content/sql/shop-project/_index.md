@@ -164,7 +164,7 @@ NB! Be sure to label you answers by putting the question above the code that ans
 
 - The following files should be present:
   - YAML/yml file with container setup.
-  - `src` directory with 4 SQL script files(a script to a database, create tables, populate tables and one to query the database).
+  - `src` directory with 4 SQL script files(a script to create a database, create tables, populate tables, and one to query the database).
   - A new `.md` file needs to be present in the repo where the learner has documented what information is in which table and how the tables and which keys link the records between tables. They should not edit the `README.md` file because they didn't create it and it serves it's own purpose.
 
     - topics/clean-code/sql
