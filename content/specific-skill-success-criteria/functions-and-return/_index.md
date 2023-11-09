@@ -2,12 +2,12 @@
 _db_id: 709
 content_type: project
 flavours:
-- any_language
+  - any_language
 ready: true
 submission_type: link
 tags:
-- technical-assessment
-title: 'Assessment: Functions, return statements and printing to the terminal'
+  - technical-assessment
+title: "Assessment: Functions, return statements and printing to the terminal"
 ---
 
 Students should 100% understand the following concepts. Note that simply memorizing this stuff will be insufficient. In the final test, the different concepts will be combined in complex ways.
@@ -24,7 +24,7 @@ A lot of people get this wrong because they learn to code using a REPL. Java fol
 
 Here are some basic code examples. It is in Python but easy to translate to other languages.
 
-```
+```python
 def foo():
     print("hi")
 
@@ -34,11 +34,23 @@ print(f"x = {x}")
 
 Many think that the code will print `x = hi`. It does not.
 
+## Hoisting (JavaScript)
+
+```javascript
+foo();
+
+function foo() {
+  console.log("hello");
+}
+```
+
+Many people assume that the code above will raise an error. It does not.
+
 ## Multiple different return statements inside a single function
 
 For example:
 
-```
+```python
 def foo(colour):
     if colour == "blue":
         return 1
@@ -47,7 +59,7 @@ def foo(colour):
 
 ## Multiple function calls
 
-```
+```python
 x = foo("blue")
 x = foo("red")
 print(f"x = {x}")
@@ -57,7 +69,7 @@ Many people think that the final print statement gets executed multiple times bu
 
 ## Return statements inside for loops
 
-```
+```python
 def foo():
     for i in range(10):
         return i
@@ -65,3 +77,15 @@ def foo():
 x = foo()
 print(f"x = {x}")
 ```
+
+## Function arguments/parameters
+
+```python
+def foo(*args):
+    return args
+
+x = foo()
+print(f"x is {x}")
+```
+
+Many people think that the above will print `x = None`. It will not.
