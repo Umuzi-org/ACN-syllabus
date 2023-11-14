@@ -132,6 +132,7 @@ Also, please make use of assertions within your code to make sure that errors ar
 - withdraw more money than you have
 - set a negative interest rate
 
-**NB: Javascript assertions**
+### Javascript assertions
 
-Please make use of [nodejs assert()](https://www.w3schools.com/nodejs/met_assert.asp) because [console.assert()](<https://developer.mozilla.org/en-US/docs/Web/API/console/assert#:~:text=The%20console.assert()%20method%20writes%20an%20error%20message%20to%20the%20console%20if%20the%20assertion%20is%20false.%20If%20the%20assertion%20is%20true%2C%20nothing%20happens.>) does not throw errors.
+- Please make use of [`nodejs assert()`](https://www.w3schools.com/nodejs/met_assert.asp) because it **throws** an error when the assertion is false. This means something is wrong and the program will stop.
+- [`console.assert()`](<https://developer.mozilla.org/en-US/docs/Web/API/console/assert#:~:text=The%20console.assert()%20method%20writes%20an%20error%20message%20to%20the%20console%20if%20the%20assertion%20is%20false.%20If%20the%20assertion%20is%20true%2C%20nothing%20happens.>) on the other hand, only **prints** if the assertion is false. If you use it, you would still have to include certain checks to make sure the code after the assertion is safe to execute. This does not show that anything bad happened, which is not ideal since it could cause problems further down. The code will also be redundant because we would be checking the same thing twice.
