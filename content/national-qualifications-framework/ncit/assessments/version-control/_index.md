@@ -16,6 +16,7 @@ tags:
 - git
 - ncit
 - clean code
+- skill/git
 title: 'NCIT assessment: Version Control - 115362'
 ---
 

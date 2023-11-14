@@ -4,6 +4,7 @@ content_type: topic
 ready: true
 tags:
 - Git
+- skill/git
 title: Getting Git set up
 ---
 

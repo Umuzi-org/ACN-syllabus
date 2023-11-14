@@ -4,6 +4,7 @@ content_type: topic
 ready: true
 tags:
 - git
+- skill/git
 title: Git Basics
 ---
 
