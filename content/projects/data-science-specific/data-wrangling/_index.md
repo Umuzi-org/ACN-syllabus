@@ -99,7 +99,7 @@ The new data frame will look something like this and it should be named `persona
 
 5. Wrangle a new DataFrame with a count of the number of low and high-risk applicants within each department. Let each department be a separate column. This new DataFrame should be named `risk_status_summary_df`. Make sure that if there are no learners in one of the categories, it should be represented by zero and not a null entry in the `risk_status_summary_df`. In other words, the DataFrame should look something like this:
 
-| Risk      | Multimedia | Coding | Data |
-| --------- | ---------- | ------ | ---- |
-| Low risk  | 150        | 123    | 0  |
-| High risk | 40         | 0     | 22   |
+| Risk Status  | Copywriting | Design | Data | Strategy  |  Web Dev |
+| ------------ | ----------  | ------ | ---- | --------  | -------- |
+| Low risk     | 150         | 123    | 0    | 4         | 6        |
+| High risk    | 40          | 0      | 22   | 67        | 9        |
