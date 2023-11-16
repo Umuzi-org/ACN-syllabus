@@ -34,18 +34,6 @@ print(f"x = {x}")
 
 Many think that the code will print `x = hi`. It does not.
 
-## Hoisting (JavaScript)
-
-```javascript
-foo();
-
-function foo() {
-  console.log("hello");
-}
-```
-
-Many people assume that the code above will raise an error. It does not.
-
 ## Multiple different return statements inside a single function
 
 For example:
@@ -85,7 +73,21 @@ def foo(*args):
     return args
 
 x = foo()
-print(f"x is {x}")
+print(f"x = {x}")
 ```
 
 Many people think that the above will print `x = None`. It will not.
+
+## JavaScript specific concepts
+
+### Hoisting
+
+```javascript
+foo();
+
+function foo() {
+  console.log("hello");
+}
+```
+
+Many people assume that the code above will raise an error. It does not.
