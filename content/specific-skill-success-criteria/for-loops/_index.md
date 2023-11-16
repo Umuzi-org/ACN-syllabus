@@ -7,6 +7,7 @@ ready: true
 submission_type: link
 tags:
 - technical-assessment
+- skill/for_loops
 title: 'Assessment: For loops'
 ---
 

@@ -70,6 +70,7 @@ ready: true
 tags:
 - agile
 - ncit
+- skill/agile
 title: Managing the Software Development Process
 ---
 

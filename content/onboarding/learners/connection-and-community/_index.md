@@ -2,6 +2,8 @@
 _db_id: 880
 content_type: topic
 ready: true
+tags:
+- skill/professional_skills
 title: Connection and community
 ---
 

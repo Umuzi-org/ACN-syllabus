@@ -36,6 +36,7 @@ ready: false
 tags:
 - ncit
 - communication
+- skill/research
 title: Presenting your findings
 ---
 

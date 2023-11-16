@@ -14,6 +14,7 @@ tags:
 - agile
 - scrum
 - ncit
+- skill/agile
 title: 'NCIT assessment: Agile Project Management - 114059'
 ---
 

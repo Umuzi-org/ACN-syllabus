@@ -5,6 +5,8 @@ prerequisites:
   hard:
   - tech-big-picture/what-is-software
 ready: true
+tags:
+- skill/web_intro
 title: What is the Internet?
 ---
 

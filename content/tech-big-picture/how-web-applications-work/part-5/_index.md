@@ -5,6 +5,8 @@ prerequisites:
   hard:
   - tech-big-picture/how-web-applications-work/part-4
 ready: true
+tags:
+- skill/web_intro
 title: Anatomy of a web app - part 5 - payment gateways
 ---
 

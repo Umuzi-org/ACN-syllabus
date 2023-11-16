@@ -2,6 +2,8 @@
 _db_id: 755
 content_type: topic
 ready: true
+tags:
+- skill/developer_skills
 title: IMPORTANT!! Naming your files and functions
 ---
 

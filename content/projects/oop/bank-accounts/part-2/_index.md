@@ -8,6 +8,8 @@ prerequisites:
   hard:
   - projects/oop/bank-accounts/part-1
 submission_type: continue_repo
+tags:
+- skill/combined_concept_projects
 title: Bank accounts - part 2
 ---
 

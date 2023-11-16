@@ -10,6 +10,8 @@ prerequisites:
 protect_main_branch: false
 ready: true
 submission_type: repo
+tags:
+- skill/problem_solving
 title: 'Coding aptitude assessment challenge: Task 9'
 ---
 

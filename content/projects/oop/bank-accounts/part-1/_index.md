@@ -8,6 +8,8 @@ prerequisites:
   - topics/intro-to-assertive-programming
   - projects/oop/animals/part2
 submission_type: repo
+tags:
+- skill/combined_concept_projects
 title: Bank accounts - part 1
 ---
 

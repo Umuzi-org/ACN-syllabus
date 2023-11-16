@@ -76,6 +76,7 @@ ready: false
 tags:
 - research
 - ncit
+- skill/research
 title: Conducting Research and User Interviews
 ---
 

@@ -25,6 +25,7 @@ tags:
 - ncit
 - business
 - web design
+- skill/web_dev_basics
 title: Web Design for Business
 ---
 

@@ -15,6 +15,7 @@ tags:
 - ncit
 - business
 - web design
+- skill/web_dev_basics
 title: 'NCIT assessment: Web Design for Business - 115374'
 ---
 

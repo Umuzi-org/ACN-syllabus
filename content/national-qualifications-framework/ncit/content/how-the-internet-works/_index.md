@@ -27,6 +27,7 @@ ready: true
 tags:
 - ncit
 - internet
+- skill/web_intro
 title: How the internet works
 ---
 

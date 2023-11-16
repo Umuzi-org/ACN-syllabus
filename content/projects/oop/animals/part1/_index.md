@@ -18,6 +18,7 @@ story_points: 3
 submission_type: repo
 tags:
 - oop
+- skill/oop
 title: Animals Part 1. OOP basics
 ---
 

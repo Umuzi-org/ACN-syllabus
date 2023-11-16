@@ -14,6 +14,7 @@ submission_type: link
 tags:
 - ncit
 - oop
+- skill/oop
 title: 'NCIT assessment: Object-Oriented Programming - 115378'
 ---
 

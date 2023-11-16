@@ -12,6 +12,7 @@ ready: true
 submission_type: repo
 tags:
 - oop
+- skill/combined_concept_projects
 title: Dice
 ---
 

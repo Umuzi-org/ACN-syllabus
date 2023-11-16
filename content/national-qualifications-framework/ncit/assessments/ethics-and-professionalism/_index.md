@@ -13,6 +13,7 @@ submission_type: link
 tags:
 - ncit
 - ethics
+- skill/ethics
 title: 'NCIT assessment: Ethics and Professionalism - 114055'
 ---
 

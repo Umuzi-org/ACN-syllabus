@@ -13,6 +13,7 @@ submission_type: link
 tags:
 - ncit
 - internet
+- skill/web_intro
 title: 'NCIT assessment: How the internet works - 115391'
 ---
 

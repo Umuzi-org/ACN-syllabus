@@ -5,6 +5,7 @@ ready: true
 tags:
 - problem solving
 - big-O
+- skill/algorithms
 title: optimizations and big-O
 ---
 

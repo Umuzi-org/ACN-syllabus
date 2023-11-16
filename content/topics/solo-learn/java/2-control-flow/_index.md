@@ -9,6 +9,7 @@ ready: true
 tags:
 - java
 - solo-learn
+- skill/java_basics
 title: Solo Learn - Introduction to Java - 2. Control Flow
 ---
 

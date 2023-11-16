@@ -5,6 +5,7 @@ ready: true
 tags:
 - getting a job
 - professionalism
+- skill/professional_skills
 title: What to put in your CV
 ---
 

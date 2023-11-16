@@ -2,6 +2,8 @@
 _db_id: 879
 content_type: topic
 ready: true
+tags:
+- skill/starting_umuzi_basics
 title: Welcome to your learning journey
 ---
 

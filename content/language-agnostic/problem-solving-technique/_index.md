@@ -4,6 +4,7 @@ content_type: topic
 ready: true
 tags:
 - problem solving
+- skill/problem_solving
 title: Problem solving techniques
 ---
 

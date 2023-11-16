@@ -17,6 +17,7 @@ submission_type: repo
 tags:
 - data-structures
 - array-manipulation
+- skill/java_intermediate
 title: Java collections
 ---
 

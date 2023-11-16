@@ -13,6 +13,7 @@ submission_type: link
 tags:
 - ncit
 - communication
+- skill/research
 title: 'NCIT assessment: Presenting your findings - 13925'
 ---
 

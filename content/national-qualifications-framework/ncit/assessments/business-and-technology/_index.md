@@ -13,6 +13,7 @@ submission_type: link
 tags:
 - ncit
 - business
+- skill/business_technology
 title: 'NCIT assessment: Business and Technology - 114050'
 ---
 

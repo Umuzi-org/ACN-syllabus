@@ -5,6 +5,7 @@ ready: true
 tags:
 - bash
 - linux
+- skill/scripting
 title: Introduction to Bash and the terminal
 ---
 

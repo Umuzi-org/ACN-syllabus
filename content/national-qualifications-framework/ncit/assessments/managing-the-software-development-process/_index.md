@@ -13,6 +13,7 @@ submission_type: link
 tags:
 - ncit
 - agile
+- skill/agile
 title: 'NCIT assessment: Managing the Software Development Process - 115392'
 ---
 

@@ -4,6 +4,7 @@ content_type: topic
 ready: true
 tags:
 - soft-skills
+- skill/developer_skills
 title: developer-habits
 ---
 

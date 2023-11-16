@@ -2,6 +2,8 @@
 _db_id: 884
 content_type: topic
 ready: true
+tags:
+- skill/starting_umuzi_basics
 title: Umuzi Policies
 ---
 

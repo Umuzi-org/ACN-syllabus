@@ -29,6 +29,7 @@ ready: true
 tags:
 - ncit
 - ethics
+- skill/ethics
 title: Ethics and Professionalism
 ---
 

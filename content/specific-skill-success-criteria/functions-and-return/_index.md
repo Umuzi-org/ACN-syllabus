@@ -7,6 +7,7 @@ ready: true
 submission_type: link
 tags:
 - technical-assessment
+- skill/return_and_print
 title: 'Assessment: Functions, return statements and printing to the terminal'
 ---
 

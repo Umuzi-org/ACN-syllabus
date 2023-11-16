@@ -28,6 +28,7 @@ ready: false
 tags:
 - ncit
 - business
+- skill/business_technology
 title: Business and Technology
 ---
 

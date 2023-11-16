@@ -9,6 +9,7 @@ ready: true
 tags:
 - bash
 - environmental variables
+- skill/scripting
 title: Environmental Variables
 ---
 

@@ -39,6 +39,7 @@ ready: true
 tags:
 - ncit
 - business
+- skill/web_dev_basics
 title: Building an online business
 ---
 

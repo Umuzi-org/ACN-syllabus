@@ -15,6 +15,7 @@ submission_type: continue_repo
 tags:
 - unit-testing
 - oop
+- skill/combined_concept_projects
 title: Animals Part 3. Adding more functionality
 ---
 

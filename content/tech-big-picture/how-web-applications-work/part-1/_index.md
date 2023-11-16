@@ -5,6 +5,8 @@ prerequisites:
   hard:
   - tech-big-picture/how-the-internet-works
 ready: true
+tags:
+- skill/web_intro
 title: Anatomy of a web app - part 1 - Requests and Responses
 ---
 

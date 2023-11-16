@@ -9,6 +9,7 @@ ready: false
 submission_type: link
 tags:
 - ncit
+- skill/ncit_summative_assessments
 title: 'NCIT Summative Assessment: 1'
 ---
 
