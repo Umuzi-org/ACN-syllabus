@@ -8,6 +8,7 @@ prerequisites:
 ready: true
 tags:
 - tdd
+- skill/tdd
 title: Test Driven Development
 ---
 

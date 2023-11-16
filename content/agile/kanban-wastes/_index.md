@@ -6,6 +6,7 @@ tags:
 - agile
 - kanban
 - prioritisation
+- skill/professional_skills
 title: Kanban wastes
 ---
 

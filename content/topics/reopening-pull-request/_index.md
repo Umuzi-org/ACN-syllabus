@@ -2,6 +2,8 @@
 _db_id: 788
 content_type: topic
 ready: true
+tags:
+- skill/github_basics
 title: Reopening a Pull request
 ---
 

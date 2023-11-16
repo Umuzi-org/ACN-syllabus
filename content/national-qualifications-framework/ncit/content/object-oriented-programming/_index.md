@@ -45,6 +45,7 @@ ready: true
 tags:
 - oop
 - ncit
+- skill/oop
 title: Object-Oriented Programming
 ---
 

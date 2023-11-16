@@ -14,6 +14,7 @@ submission_type: continue_repo
 tags:
 - unit-testing
 - oop
+- skill/oop
 title: Animals Part 2. Adding Tests
 ---
 

@@ -8,6 +8,7 @@ ready: true
 submission_type: repo
 tags:
 - bash
+- skill/scripting
 title: Beginning Bash
 ---
 

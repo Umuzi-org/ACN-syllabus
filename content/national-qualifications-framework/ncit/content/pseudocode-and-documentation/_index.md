@@ -35,6 +35,7 @@ ready: false
 tags:
 - ncit
 - documentation
+- skill/pseudocode
 title: Pseudocode and documentation
 ---
 

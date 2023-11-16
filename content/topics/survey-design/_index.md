@@ -4,6 +4,7 @@ content_type: topic
 ready: true
 tags:
 - surveys
+- skill/research
 title: Survey design
 weight: 15
 ---

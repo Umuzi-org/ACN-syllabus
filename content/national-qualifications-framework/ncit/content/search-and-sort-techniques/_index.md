@@ -31,6 +31,7 @@ tags:
 - ncit
 - big-O
 - algorithms
+- skill/algorithms
 title: Search and Sort Techniques
 ---
 

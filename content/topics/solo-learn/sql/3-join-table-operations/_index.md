@@ -8,6 +8,7 @@ ready: true
 tags:
 - sql
 - solo-learn
+- skill/databases
 title: Solo Learn - SQL - Module 3 - JOIN, Table Operations
 ---
 

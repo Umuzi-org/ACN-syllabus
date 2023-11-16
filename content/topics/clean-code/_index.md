@@ -5,6 +5,7 @@ ready: true
 tags:
 - clean-code
 - xml
+- skill/pseudocode
 title: Clean Code
 ---
 

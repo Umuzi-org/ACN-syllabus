@@ -42,6 +42,7 @@ ready: false
 tags:
 - ncit
 - communication
+- skill/research
 title: Write a report
 ---
 

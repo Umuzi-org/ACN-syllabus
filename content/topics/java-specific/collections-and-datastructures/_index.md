@@ -6,6 +6,7 @@ tags:
 - java
 - collections
 - data-structures
+- skill/java_intermediate
 title: Java collections and data structures
 ---
 

@@ -5,6 +5,8 @@ prerequisites:
   hard:
   - coding_aptitude_assessment/introduction_to_github
 ready: true
+tags:
+- skill/problem_solving
 title: Introduction to coding challenges
 ---
 

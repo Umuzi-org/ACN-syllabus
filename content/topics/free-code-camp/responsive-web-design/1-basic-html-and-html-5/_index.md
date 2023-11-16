@@ -10,6 +10,7 @@ tags:
 - html5
 - responsive web design
 - free-code-camp
+- skill/web_dev_basics
 title: FreeCodeCamp - Basic HTML and HTML5
 ---
 

@@ -5,6 +5,7 @@ ready: true
 tags:
 - gradle
 - java
+- skill/java_intermediate
 title: Introduction to Gradle with IntelliJ
 ---
 

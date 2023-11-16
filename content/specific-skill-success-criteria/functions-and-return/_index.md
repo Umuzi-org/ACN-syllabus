@@ -6,8 +6,9 @@ flavours:
 ready: true
 submission_type: link
 tags:
-  - technical-assessment
-title: "Assessment: Functions, return statements and printing to the terminal"
+- technical-assessment
+- skill/return_and_print
+title: 'Assessment: Functions, return statements and printing to the terminal'
 ---
 
 Students should 100% understand the following concepts. Note that simply memorizing this stuff will be insufficient. In the final test, the different concepts will be combined in complex ways.

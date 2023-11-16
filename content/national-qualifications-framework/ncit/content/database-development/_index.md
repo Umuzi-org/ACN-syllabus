@@ -87,6 +87,7 @@ ready: true
 tags:
 - sql
 - ncit
+- skill/databases
 title: Database Development
 ---
 

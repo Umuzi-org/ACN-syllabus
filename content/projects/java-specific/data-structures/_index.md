@@ -14,6 +14,7 @@ tags:
 - problem-solving
 - array-manipulation
 - tdd
+- skill/java_intermediate
 title: Java data structures
 ---
 

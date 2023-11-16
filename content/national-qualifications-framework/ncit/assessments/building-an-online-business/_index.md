@@ -14,6 +14,7 @@ submission_type: link
 tags:
 - ncit
 - business
+- skill/web_dev_basics
 title: 'NCIT assessment: Building an online business - 115385'
 ---
 

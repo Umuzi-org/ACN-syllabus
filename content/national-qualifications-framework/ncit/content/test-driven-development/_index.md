@@ -54,6 +54,7 @@ ready: true
 tags:
 - tdd
 - ncit
+- skill/tdd
 title: Test-driven development
 ---
 

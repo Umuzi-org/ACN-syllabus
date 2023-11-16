@@ -10,6 +10,7 @@ ready: true
 submission_type: link
 tags:
 - close_on_peer_reviews
+- skill/starting_umuzi_basics
 title: Policy Questionaire
 ---
 

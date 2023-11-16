@@ -12,6 +12,7 @@ tags:
 - data structures
 - algorithms
 - problem solving
+- skill/problem_solving
 title: Get started with HackerRank
 ---
 

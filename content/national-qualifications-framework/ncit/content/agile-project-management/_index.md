@@ -38,6 +38,7 @@ tags:
 - agile
 - scrum
 - ncit
+- skill/agile
 title: Agile Project Management
 ---
 

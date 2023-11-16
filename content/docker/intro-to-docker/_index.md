@@ -9,6 +9,7 @@ ready: true
 tags:
 - docker-compose
 - postgres
+- skill/dev_env
 title: Intro to Docker and Docker-compose
 ---
 

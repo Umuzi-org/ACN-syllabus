@@ -5,6 +5,7 @@ ready: true
 tags:
 - soft-skills
 - emotional intelligence
+- skill/professional_skills
 title: Emotional Intelligence
 ---
 

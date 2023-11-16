@@ -12,6 +12,7 @@ tags:
 - css
 - responsive web design
 - free-code-camp
+- skill/web_dev_basics
 title: FreeCodeCamp - Basic CSS
 ---
 

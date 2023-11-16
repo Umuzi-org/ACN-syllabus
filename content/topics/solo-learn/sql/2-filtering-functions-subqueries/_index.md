@@ -8,6 +8,7 @@ ready: true
 tags:
 - sql
 - solo-learn
+- skill/databases
 title: Solo Learn - SQL - Module 2 - Filtering, Functions, Subqueries
 ---
 

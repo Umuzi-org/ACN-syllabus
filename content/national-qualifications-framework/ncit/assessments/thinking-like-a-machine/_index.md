@@ -26,6 +26,7 @@ tags:
 - ncit
 - problem-solving
 - binary-arithmetic
+- skill/problem_solving
 title: 'NCIT assessment: Thinking like a machine - 115367'
 ---
 

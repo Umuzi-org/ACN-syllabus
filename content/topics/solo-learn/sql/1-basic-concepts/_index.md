@@ -8,6 +8,7 @@ submission_type: link
 tags:
 - sql
 - solo-learn
+- skill/databases
 title: Solo Learn - SQL - Module 1 - Basic Concepts
 ---
 

@@ -14,6 +14,7 @@ tags:
 - ncit
 - big-O
 - algorithms
+- skill/algorithms
 title: 'NCIT assessment: Search and Sort Techniques - 115373'
 ---
 

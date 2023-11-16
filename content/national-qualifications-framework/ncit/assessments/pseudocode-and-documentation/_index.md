@@ -13,6 +13,7 @@ submission_type: link
 tags:
 - ncit
 - documentation
+- skill/pseudocode
 title: 'NCIT assessment: Pseudocode and Documentation - 115388'
 ---
 

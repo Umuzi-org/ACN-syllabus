@@ -7,6 +7,7 @@ ready: true
 submission_type: link
 tags:
 - technical-assessment
+- skill/classes_and_objects
 title: 'Assessment: Classes and objects'
 ---
 

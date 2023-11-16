@@ -11,6 +11,7 @@ ready: true
 tags:
 - java
 - solo-learn
+- skill/java_basics
 title: Solo Learn - Java Intermediate - 5. Classes and Objects
 ---
 

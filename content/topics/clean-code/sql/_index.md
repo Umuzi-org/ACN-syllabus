@@ -5,6 +5,7 @@ ready: true
 tags:
 - clean-code
 - sql
+- skill/databases
 title: Clean Code for SQL
 ---
 

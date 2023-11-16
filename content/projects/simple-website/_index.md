@@ -16,6 +16,7 @@ submission_type: link
 tags:
 - html
 - css
+- skill/web_dev_basics
 title: Simple Website - Build your first personal website
 ---
 

@@ -46,6 +46,7 @@ tags:
 - ncit
 - problem-solving
 - binary-arithmetic
+- skill/problem_solving
 title: Thinking like a machine
 ---
 

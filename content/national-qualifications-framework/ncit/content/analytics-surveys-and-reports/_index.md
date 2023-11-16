@@ -34,6 +34,7 @@ tags:
 - analytics
 - surveys
 - reports
+- skill/research
 title: Analytics, Surveys, and Reports
 ---
 

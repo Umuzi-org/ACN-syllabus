@@ -5,6 +5,8 @@ prerequisites:
   hard:
   - tech-big-picture/how-web-applications-work/part-2
 ready: true
+tags:
+- skill/web_intro
 title: Anatomy of a web app - part 3 - AJAX
 ---
 

@@ -5,6 +5,8 @@ prerequisites:
   hard:
   - tech-big-picture/how-web-applications-work/part-1
 ready: true
+tags:
+- skill/web_intro
 title: Anatomy of a web app - part 2 - Databases
 ---
 

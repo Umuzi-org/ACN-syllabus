@@ -15,6 +15,7 @@ submission_type: link
 tags:
 - ncit
 - sql
+- skill/databases
 title: 'NCIT assessment: Database Development - 114048 & 114049'
 ---
 

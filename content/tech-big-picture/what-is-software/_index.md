@@ -2,6 +2,8 @@
 _db_id: 916
 content_type: topic
 ready: true
+tags:
+- skill/web_intro
 title: What is software?
 ---
 

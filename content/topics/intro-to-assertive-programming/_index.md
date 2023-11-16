@@ -4,6 +4,7 @@ content_type: topic
 ready: true
 tags:
 - defensive-programming
+- skill/combined_concept_projects
 title: Introduction to assertive programming
 ---
 

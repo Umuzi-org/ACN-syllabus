@@ -12,6 +12,7 @@ ready: true
 submission_type: repo
 tags:
 - tdd
+- skill/tdd
 title: Test Driven Development - Questions
 ---
 
