@@ -9,7 +9,7 @@ prerequisites:
     - projects/oop/animals/part2
 submission_type: repo
 tags:
-- skill/combined_concept_projects
+  - skill/combined_concept_projects
 title: Bank accounts - part 1
 ---
 
@@ -89,16 +89,32 @@ Add the following functions:
 - `withdraw` - This function should take in a single positive number. That number should be subtracted from the BankAccount's balance
 - `compound_interest` - this will calculate the interest for the month and add it to the balance.
 
-Here is some pseudocode:
+Example usage:
 
+```js
+// JavaScript:
+
+const account = new BankAccount({ interestRate: 12 }); // when a bank account is constructed, you must set the interest rate. Take note of the curly brackets
+console.log(account.balance); // this will print 0.00
+account.deposit({ amount: 1500 });
+console.log(account.balance); // this will print 1500.00
+account.withdraw({ amount: 500 });
+console.log(account.balance); // this will print 1000.00
+account.compoundInterest();
+console.log(account.balance); // this will print 1010.00
 ```
-account = new BankAccount(interest_rate=12) # when a bank account is constructed, you must set the interest rate
-account.deposit(1500)
-print(account.balance) # this will print 1500
-account.withdraw(500)
-print(account.balance) # this will print 1000
+
+```py
+# Python:
+
+account = new BankAccount(interest_rate=12) # // when a bank account is constructed, you must set the interest rate. Take note of the curly brackets
+print(account.balance) # this will print 0.00
+account.deposit(amount=1500)
+print(account.balance) # this will print 1500.00
+account.withdraw(amount=500)
+print(account.balance) # this will print 1000.00
 account.compound_interest()
-print(account.balance) # this will print 1010
+print(account.balance) # this will print 1010.00
 ```
 
 ## Decimals
