@@ -117,6 +117,19 @@ account.compound_interest()
 print(account.balance) # this will print 1010.00
 ```
 
+```java
+// Java:
+
+BankAccount account = new BankAccount(0,12); // when a bank account is constructed, you must set the interest rate. Take note of the curly brackets
+System.out.println(account.balance); // this will print 0.00
+account.deposit(1500);
+System.out.println(account.balance) ; // this will print 1500.00
+account.withdraw(500);
+System.out.println(account.balance); // this will print 1000.00
+account.compoundInterest();
+System.out.println(account.balance); // this will print 1010.00
+```
+
 ## Decimals
 
 Computers are good at a lot of things. But things can get a little bit weird when it comes to floating point numbers.
