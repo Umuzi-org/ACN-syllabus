@@ -107,20 +107,22 @@ console.log(account.balance); // this will print 1010.00
 ```py
 # Python:
 
-account = new BankAccount(interest_rate=12) # // when a bank account is constructed, you must set the interest rate. Take note of the curly brackets
-print(account.balance) # this will print 0.00
+account = BankAccount(
+    interest_rate=12
+)  # when a bank account is constructed, you must set the interest rate
+print(account.balance)  # this will print 0.00
 account.deposit(amount=1500)
-print(account.balance) # this will print 1500.00
+print(account.balance)  # this will print 1500.00
 account.withdraw(amount=500)
-print(account.balance) # this will print 1000.00
+print(account.balance)  # this will print 1000.00
 account.compound_interest()
-print(account.balance) # this will print 1010.00
+print(account.balance)  # this will print 1010.00
 ```
 
 ```java
 // Java:
 
-BankAccount account = new BankAccount(0,12); // when a bank account is constructed, you must set the interest rate. Take note of the curly brackets
+BankAccount account = new BankAccount(12); // when a bank account is constructed, you must set the interest rate
 System.out.println(account.balance); // this will print 0.00
 account.deposit(1500);
 System.out.println(account.balance) ; // this will print 1500.00
