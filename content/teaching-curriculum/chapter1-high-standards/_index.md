@@ -2,15 +2,15 @@
 _db_id: 846
 content_type: project
 flavours:
-  - none
+- none
 prerequisites:
   hard:
-    - teaching-curriculum/quick-familiarity-1
+  - teaching-curriculum/quick-familiarity-1
 protect_main_branch: false
 ready: true
 submission_type: repo
 tags:
-  - teaching
+- teaching
 title: Chapter 1 - High Standards
 ---
 

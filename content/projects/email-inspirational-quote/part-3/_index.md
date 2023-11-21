@@ -2,7 +2,7 @@
 _db_id: 954
 content_type: project
 flavours:
-  - any_language
+- any_language
 from_repo: projects/email-inspirational-quote/part-1
 prerequisites:
   hard:
@@ -13,12 +13,12 @@ ready: true
 story_points: 8
 submission_type: continue_repo
 tags:
-  - mocks
-  - smtp
-  - apis
-  - json
-  - command-line parameters
-  - errors
+- mocks
+- smtp
+- apis
+- json
+- command-line parameters
+- errors
 title: Email random inspirational quote - part 3
 ---
 

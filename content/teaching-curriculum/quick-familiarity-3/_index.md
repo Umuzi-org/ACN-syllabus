@@ -2,15 +2,15 @@
 _db_id: 845
 content_type: project
 flavours:
-  - none
+- none
 prerequisites:
   hard:
-    - teaching-curriculum/introducing-teach-like-a-champion
+  - teaching-curriculum/introducing-teach-like-a-champion
 protect_main_branch: false
 ready: true
 submission_type: repo
 tags:
-  - teaching
+- teaching
 title: Quick Familiarity - Part 3
 ---
 
