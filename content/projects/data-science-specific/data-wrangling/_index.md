@@ -80,12 +80,18 @@ df.apply(get_percentage, axis = 1) #axis=1 applies the function to all columns
 ├──requirements.txt
 └──.gitignore 
 ```
-2. Import the dataset [personality_scores.csv](personality_scores.csv) and load it into a DataFrame. Examine the DataFrame for duplicates (based on ID), and drop any duplicates that exist. Let's imagine that the data is ordered chronologically, and we'd like to keep the data related to the most recent time an applicant did the test. From your recent project on [assertive programing tricks](projects/data-science-specific/assertive-programming-tricks-for-pandas/_index.md) use the methods you practiced to check that the updated DataFrame has the dimensions you expect it to have. Perform some final cleaning steps by removing empty columns and cleaning up column names. Store this updated version of the DataFrame in a variable called: `personality_score_df`.
+2. Load the dataset [personality_scores.csv](personality_scores.csv) into a DataFrame. 
+
+- Examine the DataFrame for duplicates (based on ID), and drop any duplicates that exist. The data is ordered chronologically, please keep the most recent data entry. 
+- From this recent project: {{< contentlink path="projects/data-science-specific/assertive-programming-tricks-for-pandas" >}}, use the methods you practiced to assert that the updated DataFrame has the dimensions you expect it to have. 
+- Perform some final cleaning steps by removing empty columns and cleaning up column names like this: `Section 5 of 6 [I am always prepared.]` becomes `I am always prepared`. Store this updated version of the DataFrame in a variable called: `personality_score_df`.
 
 
-3. Creat a function (or functions) to support creating new columns containing the total score of each of the personality test subscales. The new columns should be named as per the **big five personality traits** laid out in [scoring](scoring.txt). In other words, for the **conscientiousness** total score, all items marked as belonging to 'conscientiousness' should be summed.
+3. Create new columns containing the total score of each of the personality test subscales. 
 
-The new data frame will look something like this and it should be named `personality_score_totals_df`:
+- Write a function (or functions) to calculate the total score for each subscale as defined in [scoring](scoring.txt). The new columns should be named `Conscientiousness`, `Emotional stability`, `Openness to experience`, `Agreeableness`, `Extraversion`. In other words, for the **Conscientiousness** total score, all items marked as belonging to that subscale should be summed.
+
+- The new data frame will look something like this and it should be named `personality_score_totals_df`:
 
 | I am always prepared | I am easily disturbed | I am exacting (demanding) in my work | ... | Conscientiousness | Neuroticism |
 | -------------------- | --------------------- | ------------------------------------ | --- | ----------------- | ------------------- |
@@ -93,9 +99,14 @@ The new data frame will look something like this and it should be named `persona
 | (3, 5)               | (4, 1)                | (3, 1)                               | ... | 6                 | 1                   |
 | (3, 5)               | (4, 3)                | (3, 3)                               | ... | 8                 | 3                   |
 
-4. Import the data in [departments.csv](departments.csv) and store it in a DataFrame. Merge this DataFrame with the personality score totals DataFrame. Again, use assertion techniques from [assertive programing tricks](projects/data-science-specific/assertive-programming-tricks-for-pandas/_index.md) to check that the newly created merged DataFrame has the expected number of rows and columns. The merged DataFrame should be named `merged_personality_department_df`
+4. Load the data from [departments.csv](departments.csv) into a DataFrame. 
 
-5. Filter the merged DataFrame so that you only see the applicants who scored less than 30 on emotional stability, conscientiousness AND agreeableness. Next, assign these applicants the tag "High risk" in a new column called `Risk Status`. All other applicants get the tag "Low risk". The DataFrame here should be named `risk_status_df`.
+- Merge this DataFrame with the personality score totals DataFrame. 
+- Again, use assertion techniques from {{< contentlink path="projects/data-science-specific/assertive-programming-tricks-for-pandas" >}} to check that the newly created merged DataFrame has the expected number of rows and columns. 
+- The merged DataFrame should be named `merged_personality_department_df`
+
+5. Filter the merged DataFrame so that you only see the applicants who scored less than 30 on emotional stability, conscientiousness AND agreeableness. 
+Next, assign these applicants the tag "Low risk" in a new column called `Risk Status`. All other applicants get the tag "High risk". The DataFrame here should be named `risk_status_df`.
 
 6. Wrangle a new DataFrame with a count of the number of low and high risk applicants within each department. Let each department be a separate column. This new DataFrame should be named `risk_status_summary_df`. If there are no learners in one of the categories, it should be represented by zero and not a null entry. The DataFrame should look something like this:
 
