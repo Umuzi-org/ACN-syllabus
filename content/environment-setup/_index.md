@@ -3,7 +3,7 @@ _db_id: 396
 content_type: topic
 ready: true
 tags:
-- skill/starting_umuzi_basics
+  - skill/starting_umuzi_basics
 title: Getting set up to write code on your device
 ---
 
@@ -38,7 +38,7 @@ Using ACode: https://www.youtube.com/watch?v=XZAc-imlq88 This video focuses on J
 
 ## If you have an iPhone
 
-Eish, we haven't managed to find anything good here. If you have any suggestions please bring them up. You can even submit a PR, we'll all be very impressed.
+For an iOS device like an iPhone or iPad, you can use the [Koder](https://apps.apple.com/za/app/koder-code-editor/id1447489375) code editor. To learn how to use it, watch this [video](https://www.youtube.com/watch?v=kmYwIDS3sA0)
 
 ## If you don't have the gear you need
 
