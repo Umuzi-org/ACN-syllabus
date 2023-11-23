@@ -91,7 +91,7 @@ df.apply(get_percentage, axis = 1) #axis=1 applies the function to all columns
 
 - Write a function (or functions) to calculate the total score for each subscale as defined in [scoring](scoring.txt). The new columns should be named `Conscientiousness`, `Emotional stability`, `Openness to experience`, `Agreeableness`, `Extraversion`. In other words, for the **Conscientiousness** total score, all items marked as belonging to that subscale should be summed.
 
-- The new data frame will look something like this and it should be named `personality_score_totals_df`:
+- The new data frame should be named `personality_score_totals_df` and will look something like this:
 
 | I am always prepared | I am easily disturbed | I am exacting (demanding) in my work | ... | Conscientiousness | Neuroticism |
 | -------------------- | --------------------- | ------------------------------------ | --- | ----------------- | ------------------- |
@@ -101,7 +101,7 @@ df.apply(get_percentage, axis = 1) #axis=1 applies the function to all columns
 
 4. Load the data from [departments.csv](departments.csv) into a DataFrame. 
 
-- Merge this DataFrame with the personality score totals DataFrame. 
+- Merge this DataFrame with `personality_score_totals_df`. 
 - Again, use assertion techniques from {{< contentlink path="projects/data-science-specific/assertive-programming-tricks-for-pandas" >}} to check that the newly created merged DataFrame has the expected number of rows and columns. 
 - The merged DataFrame should be named `merged_personality_department_df`
 
