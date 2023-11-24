@@ -13,6 +13,7 @@ prerequisites:
   - topics/data-validation-and-quality-control
   - topics/jupyter-notebooks-best-practices
   - topics/data-ethics-and-privacy
+  - projects/data-science-specific/assertive-programming-tricks-for-pandas
 ready: true
 story_points: 5
 submission_type: repo
@@ -79,25 +80,35 @@ df.apply(get_percentage, axis = 1) #axis=1 applies the function to all columns
 ├──requirements.txt
 └──.gitignore 
 ```
-2. Import the dataset [personality_scores.csv](personality_scores.csv). This data should be named `personality_df` Examine the DataFrame for duplicates (based on ID), and drop any duplicates that exist. Use an assert statement to check that the DataFrame is the length of the unique entries of the original data frame. This new DataFrame should be named `personality_score_df`. If there are empty columns, please ensure you remove them.
+2. Load the dataset [personality_scores.csv](personality_scores.csv) into a DataFrame. 
 
-Tip: An example assert statement is `assert 2*20=40` and it's a great way to check that your modification of the data was successful.
+- Examine the DataFrame for duplicates (based on ID), and drop any duplicates that exist. The data is ordered chronologically, please keep the most recent data entry. 
+- From this recent project: {{< contentlink path="projects/data-science-specific/assertive-programming-tricks-for-pandas" >}}, use the methods you practiced to assert that the updated DataFrame has the dimensions you expect it to have. 
+- Perform some final cleaning steps by removing empty columns and cleaning up column names like this: `Section 5 of 6 [I am always prepared.]` becomes `I am always prepared`. Store this updated version of the DataFrame in a variable called: `personality_score_df`.
 
-2. Create new columns containing the total score of each of the personality test subscales. The new columns should be named - `Conscientiousness`, `Emotional_Stability`, `Openness`, `Agreeable`, `Extraversion`. To do this, write a function (or functions) that will calculate the total score for each of the subscales (conscientiousness, emotional stability, openness to new experience, agreeableness, extraversion), as set out in [scoring](scoring.txt). In other words, for the conscientiousness total score, all items marked as belonging to 'conscientiousness' should be summed. You should also clean up the column names like this `Section 5 of 6 [I am always prepared.]` to something like this `I am always prepared`.
 
-The new data frame will look something like this and it should be named `personality_score_df`:
+3. Create new columns containing the total score of each of the personality test subscales. 
 
-| I am always prepared | I am easily disturbed | I am exacting (demanding) in my work | ... | Conscientiousness | Emotional_Stability |
+- Write a function (or functions) to calculate the total score for each subscale as defined in [scoring](scoring.txt). The new columns should be named `Conscientiousness`, `Emotional stability`, `Openness to experience`, `Agreeableness`, `Extraversion`. In other words, for the **Conscientiousness** total score, all items marked as belonging to that subscale should be summed.
+
+- The new data frame should be named `personality_score_totals_df` and will look something like this:
+
+| I am always prepared | I am easily disturbed | I am exacting (demanding) in my work | ... | Conscientiousness | Neuroticism |
 | -------------------- | --------------------- | ------------------------------------ | --- | ----------------- | ------------------- |
 | (3, 5)               | (4, 5)                | (3, 5)                               | ... | 10                | 5                   |
 | (3, 5)               | (4, 1)                | (3, 1)                               | ... | 6                 | 1                   |
 | (3, 5)               | (4, 3)                | (3, 3)                               | ... | 8                 | 3                   |
 
-3. Import the data in [departments.csv](departments.csv). This DataFrame should be named `department_df` Merge this DataFrame with the personality score DataFrame, keeping all applicants within the department DataFrame. Use an assert statement to check that the newly created merged DataFrame has the same amount of rows as the department DataFrame and the expected number of columns. The merged DataFrame should be named `merged_personality_department_df`
+4. Load the data from [departments.csv](departments.csv) into a DataFrame. 
 
-4. Filter the merged DataFrame so that you get only the applicants who scored less than 30 on emotional stability, conscientiousness AND agreeableness. Print the ID numbers and departments of these applicants to the screen, and also assign these applicants the tag "high_risk" in a new column. All other applicants get the tag "low_risk". The DataFrame here should be named `risk_status_df`.
+- Merge this DataFrame with `personality_score_totals_df`. 
+- Again, use assertion techniques from {{< contentlink path="projects/data-science-specific/assertive-programming-tricks-for-pandas" >}} to check that the newly created merged DataFrame has the expected number of rows and columns. 
+- The merged DataFrame should be named `merged_personality_department_df`
 
-5. Wrangle a new DataFrame with a count of the number of low and high-risk applicants within each department. Let each department be a separate column. This new DataFrame should be named `risk_status_summary_df`. Make sure that if there are no learners in one of the categories, it should be represented by zero and not a null entry in the `risk_status_summary_df`. In other words, the DataFrame should look something like this:
+5. Filter the merged DataFrame so that you only see the applicants who scored less than 30 on emotional stability, conscientiousness AND agreeableness. 
+Next, assign these applicants the tag "Low risk" in a new column called `Risk Status`. All other applicants get the tag "High risk". The DataFrame here should be named `risk_status_df`.
+
+6. Wrangle a new DataFrame with a count of the number of low and high risk applicants within each department. Let each department be a separate column. This new DataFrame should be named `risk_status_summary_df`. If there are no learners in one of the categories, it should be represented by zero and not a null entry. The DataFrame should look something like this:
 
 | Risk Status  | Copywriting | Data | Design | Strategy  |  Web Dev |
 | ------------ | ----------  | ---- | ------ | -------   | -------- |
