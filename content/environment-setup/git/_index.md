@@ -22,7 +22,7 @@ Git is a critical tool for any kind of coder. We'll get git set up before you do
 
 ## If you have an Android device
 
-Start by installing Termux: https://play.google.com/store/apps/details?id=com.termux&hl=en_ZA
+Start by installing Termux: [https://play.google.com/store/apps/details?id=com.termux&hl=en_ZA](https://play.google.com/store/apps/details?id=com.termux&hl=en_ZA)
 
 Note: Since November 2022, the Google Playstore has refused to accept updates from Termux, so downloading Termux from there won't work. You can download the latest version of Termux from [https://f-droid.org/en/packages/com.termux/](https://f-droid.org/en/packages/com.termux/).
 
@@ -32,7 +32,7 @@ Now you need to set Git up on Termux:
 
 Type in the following commands:
 
-```
+```bash
 pkg update
 pkg upgrade
 pkg install git
@@ -43,7 +43,7 @@ cd storage/shared
 # now you can cd into your folders and interact with git
 ```
 
-This video walks you through the process: https://www.youtube.com/watch?v=DG3l9sxFVnY
+This [video](https://www.youtube.com/watch?v=DG3l9sxFVnY) walks you through the process.
 
 Note:
 
@@ -55,7 +55,7 @@ Note:
 
 ## If you have an iPhone
 
-You can use [iSH](https://ish.app/). It's a terminal emulator for iOS. You can use it to run bash commands. You can install it from the App Store : https://apps.apple.com/za/app/ish-shell/id1436902243
+You can use [iSH](https://ish.app/). It's a terminal emulator for iOS. You can use it to run bash commands. You can install it from the App Store : on this [link](https://apps.apple.com/za/app/ish-shell/id1436902243)
 
 Once you have it installed, you can follow these instructions to get git set up:
 
@@ -68,7 +68,7 @@ git config --global user.name "your name"
 # now you can cd into your folders and interact with git
 ```
 
-Here is a video that walks you through the process: https://www.youtube.com/watch?v=-8HDJYEIAdQ
+Here is a [video](https://www.youtube.com/watch?v=-8HDJYEIAdQ) that walks you through the process.
 
 Note:
 
