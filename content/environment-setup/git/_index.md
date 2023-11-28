@@ -22,9 +22,9 @@ Git is a critical tool for any kind of coder. We'll get git set up before you do
 
 ## If you have an Android device
 
-Start by installing Termux: [https://play.google.com/store/apps/details?id=com.termux&hl=en_ZA](https://play.google.com/store/apps/details?id=com.termux&hl=en_ZA)
+Start by installing [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=en_ZA)
 
-Note: Since November 2022, the Google Playstore has refused to accept updates from Termux, so downloading Termux from there won't work. You can download the latest version of Termux from [https://f-droid.org/en/packages/com.termux/](https://f-droid.org/en/packages/com.termux/).
+Note: Since November 2022, the Google Playstore has refused to accept updates from Termux, so downloading Termux from there won't work. You can download the latest version of Termux from [f-droid](https://f-droid.org/en/packages/com.termux/).
 
 It's a terminal application that lets you execute bash commands.
 
@@ -53,7 +53,7 @@ Note:
 
 - you can use the tab key for autocompletion, and the up arrow to get the previous command. This should speed you up a little bit.
 
-## If you have an iPhone
+## If you have an iOS device
 
 You can use [iSH](https://ish.app/). It's a terminal emulator for iOS. You can use it to run bash commands. You can install it from the App Store : on this [link](https://apps.apple.com/za/app/ish-shell/id1436902243)
 

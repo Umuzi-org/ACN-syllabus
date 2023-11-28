@@ -36,12 +36,12 @@ Using ACode: This [video]( https://www.youtube.com/watch?v=XZAc-imlq88) focuses 
 - {{< contentlink path="environment-setup/java-extras-on-android" >}}
 - {{< contentlink path="environment-setup/datascience-extras-on-android" >}}
 
-## If you have an iPhone
+## If you have an iOS device
 
 For an iOS device like an iPhone or iPad, you can use the [Koder](https://apps.apple.com/za/app/koder-code-editor/id1447489375) code editor. To learn how to use it, watch this [video](https://www.youtube.com/watch?v=kmYwIDS3sA0)
 
-- {{< contentlink path="environment-setup/python-extras-on-iphone" >}}
-- {{< contentlink path="environment-setup/javascript-on-iphone" >}}
+- {{< contentlink path="environment-setup/python-extras-on-ios" >}}
+- {{< contentlink path="environment-setup/javascript-on-ios" >}}
 
 ## If you don't have the gear you need
 
