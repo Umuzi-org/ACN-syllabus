@@ -45,19 +45,21 @@ It's good practice to structure your files well, so we'll expect you to have a s
 
 The [data set](data.csv) consists of health and demographic data for the period 2014-2015, obtained from [Global Health Observatory Data Repository](http://apps.who.int/gho/data/node.main). Here is some [metadata](data-info.txt) that may be useful.
 
-1. Are there any missing values in the data set? You can deal with missing values by either dropping them or filling them with some value (in a variety of ways) or ignoring them. What do you think is best in this case? And why? Here is a resource for dealing with missing values : https://www.analyticsvidhya.com/blog/2021/10/a-complete-guide-to-dealing-with-missing-values-in-python/
+1. Load the dataset into a pandas DataFrame. Are there any missing values in the dataset? You can deal with missing values by either dropping them or filling them with some value (in a variety of ways depending on the kind of data). Later in this program you'll be using learning how to train machine learning models using various kinds of data. When doing so, missing values simply cannot be ignored. Further, when it comes to datasets with many columns (or features), it will also not do to drop an entire row for a few missing values. 
 
-2. Are there any other problems with the data? If so, fix them.
+- Given the kind of data we have in this dataset, as well as based on the regional analysis you are being asked to perform below, what is the best approach in this case for dealing with missing values? And why? Here is a resource for dealing with missing values : https://www.analyticsvidhya.com/blog/2021/10/a-complete-guide-to-dealing-with-missing-values-in-python/
 
-3. Identify the country with the lowest % of their population under 15 and the one with the highest.
+2. Are there any other problems with the data? If so, fix them. At this stage ensure that your dataset is in a DataFrame named: `health_and_demographics_df`
 
-4. Which region has the highest % of their population over 60?
+3. Identify the country with the lowest % of their population under 15 and the one with the highest and save each country name as a string in the variables `country_with_lowest_population_percentage_under_15` and `country_with_highest_population_percentage_under_15` respectively.
+
+4. Which region has the highest % of their population over 60? Save this region in the the variable `region_with_highest_population_percentage_over_60`
 
 5. Does fertility decrease as income increases? Are there any countries that don't seem to follow this relation?
 
-6. Which regions have the lowest literacy rates?
+6. Which regions have the lowest literacy rates? Create a dataframe called `regional_literacy_df` with columns `region` and `literacy_rate` and order the data from lowest to highest. 
 
-7. Which regions have the lowest child mortality rates?
+7. Which regions have the lowest child mortality rates? Create a dataframe called `regional_child_mortality_df` with columns `region` and `child_mortality_rate` and order the data from lowest to highest. 
 
 8. What is the life expectancy across different regions? Create a box-and-whisker plot to investigate this. What can we conclude about life expectancy across different regions?
 
