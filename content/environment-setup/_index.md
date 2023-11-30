@@ -3,7 +3,7 @@ _db_id: 396
 content_type: topic
 ready: true
 tags:
-- skill/starting_umuzi_basics
+  - skill/starting_umuzi_basics
 title: Getting set up to write code on your device
 ---
 
@@ -28,17 +28,20 @@ Please follow the instructions below based on the language you are going to be u
 
 If you don't have a computer you can use then you can use your phone. Here's how to get set up on an Android.
 
-You'll need to install Acode: This is where you will edit your code: https://play.google.com/store/apps/details?id=com.foxdebug.acodefree&hl=en_ZA
+You'll need to install [Acode](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree&hl=en_ZA) this is where you will edit your code.
 
-Using ACode: https://www.youtube.com/watch?v=XZAc-imlq88 This video focuses on JavaScript, but don't panic if you are doing something else. The editor can be used to write all sorts of things.
+Using ACode: This [video]( https://www.youtube.com/watch?v=XZAc-imlq88) focuses on JavaScript, but don't panic if you are doing something else. The editor can be used to write all sorts of things.
 
 - {{< contentlink path="environment-setup/python-extras-on-android" >}}
 - {{< contentlink path="environment-setup/java-extras-on-android" >}}
 - {{< contentlink path="environment-setup/datascience-extras-on-android" >}}
 
-## If you have an iPhone
+## If you have an iOS device
 
-Eish, we haven't managed to find anything good here. If you have any suggestions please bring them up. You can even submit a PR, we'll all be very impressed.
+For an iOS device like an iPhone or iPad, you can use the [Koder](https://apps.apple.com/za/app/koder-code-editor/id1447489375) code editor. To learn how to use it, watch this [video](https://www.youtube.com/watch?v=kmYwIDS3sA0)
+
+- {{< contentlink path="environment-setup/python-extras-on-ios" >}}
+- {{< contentlink path="environment-setup/javascript-on-ios" >}}
 
 ## If you don't have the gear you need
 
