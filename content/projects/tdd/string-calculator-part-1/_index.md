@@ -65,10 +65,9 @@ Please take a look at this topic to see an explanation of the required directory
 
 The code you push to git should have the following structure:
 
-Your package name should be `string_calculator`
+When you use gradle to create your project, give your project the following name: `string_calculator`
 
 ```
-├── build.gradle
 ├── gradle
 │   └── wrapper
 │       ├── gradle-wrapper.jar
@@ -76,14 +75,16 @@ Your package name should be `string_calculator`
 ├── gradlew
 ├── gradlew.bat
 ├── settings.gradle
-└── src
-    ├── main
-    |   └── java
-    |       └── string_calculator
-    |           └── StringCalculator.java
-    └── test
-        └── java
-            └── ???.java
+└── app
+    ├── build.gradle
+    └── src
+        ├── main
+        |   └── java
+        |       └── string_calculator
+        |           └── StringCalculator.java
+        └── test
+            └── java
+                └── ???.java
 
 ```
 

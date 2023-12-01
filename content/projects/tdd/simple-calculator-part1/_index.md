@@ -89,7 +89,6 @@ Your directory structure should look like this:
 
 
 ```
-├── build.gradle
 ├── gradle
 │   └── wrapper
 │       ├── gradle-wrapper.jar
@@ -97,13 +96,15 @@ Your directory structure should look like this:
 ├── gradlew
 ├── gradlew.bat
 ├── settings.gradle
-└── src
-    ├── main
-    │   └── java
-    │       └── Calculator.java       <-------- names are important
-    └── test
-        └── java
-            └── CalculatorTest.java   <-------- names are important
+└── app
+    ├── build.gradle
+    └── src
+        ├── main
+        │   └── java
+        │       └── Calculator.java       <-------- names are important
+        └── test
+            └── java
+                └── CalculatorTest.java   <-------- names are important
 ```
 
 Create a class named `Calculator`. All your methods should be static methods that have integer arguments and return integers. Eg:

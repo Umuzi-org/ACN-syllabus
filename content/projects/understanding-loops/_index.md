@@ -64,7 +64,6 @@ module.exports = {
 Your directory structure should look like this:
 
 ```
-├── build.gradle
 ├── gradle
 │   └── wrapper
 │       ├── gradle-wrapper.jar
@@ -72,10 +71,12 @@ Your directory structure should look like this:
 ├── gradlew
 ├── gradlew.bat
 ├── settings.gradle
-└── src
-    └── main
-        └── java
-             └── ShoppingCartCalculations.java <------ names are important
+└── app
+    ├── build.gradle
+    └── src
+        └── main
+            └── java
+                └── ShoppingCartCalculations.java <------ names are important
 
 ```
 

@@ -48,7 +48,6 @@ When you use gradle to create your project, give your project the following name
 Make sure that all of the classes you define are within the `jam_buddy` package. Do this by including a package declaration at the top of each of your java files.
 
 ```
-├── build.gradle
 ├── gradle
 │   └── wrapper
 │       ├── gradle-wrapper.jar
@@ -56,14 +55,16 @@ Make sure that all of the classes you define are within the `jam_buddy` package.
 ├── gradlew
 ├── gradlew.bat
 ├── settings.gradle
-└── src
-    ├── main
-    |   └── java
-    |       └── jam_buddy
-    |            └──  JamBuddy.java <-------- names are important
-    └── test
-        └── java
-            └── ???.java             <-------- names are important
+└── app
+  ├── build.gradle
+  └── src
+      ├── main
+      |   └── java
+      |       └── jam_buddy
+      |            └──  JamBuddy.java <-------- names are important
+      └── test
+          └── java
+              └── ???.java             <-------- names are important
 ```
 
 ### Python
