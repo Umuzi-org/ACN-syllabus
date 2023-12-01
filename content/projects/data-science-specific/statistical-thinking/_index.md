@@ -44,12 +44,11 @@ Complete the DataCamp courses [Statistical Thinking in Python Part 1](https://ww
 
 The Millennium Development Goals were a set of 8 goals for 2015 that were defined by the United Nations to help improve living conditions and the conditions of our planet. Key indicators were defined for each of these goals, to see whether they were being met. We will have a look at some of the key indicators from _Goal 7: Ensure environmental sustainability_, namely carbon dioxide (CO2) emissions, protected land and sea areas, and forests. The full dataset can be found at http://mdgs.un.org/.
 
-Import the [MDG data](MDG_Export_20191227.csv) to a Jupyter Notebook. You will need the packages `matplotlib`, `numpy`, `seaborn`, `pandas` and `scipy`.
-
 ### Questions
 
-1. How many different countries are represented? How many missing values are there by country, year and series?
-2. Who are the top and bottom 5 countries in terms of CO2 emissions in 1990 and what are their emissions? How has this changed by 2011?
+1. Load the [MDG data](MDG_Export_20191227.csv) into a pandas DataFrame. You will need the packages `matplotlib`, `numpy`, `seaborn`, `pandas` and `scipy`.
+2. How many different countries are represented? How many missing values are there by country, year and series?
+3. Who are the top and bottom 5 countries in terms of CO2 emissions in 1990 and what are their emissions? How has this changed by 2011?
 
   - Do you spot any problems with the data? If so, fix it.
 
