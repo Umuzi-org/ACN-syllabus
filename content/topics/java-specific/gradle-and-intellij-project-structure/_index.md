@@ -29,7 +29,6 @@ tree  # you might need to: `sudo apt install tree`
 This should output something neat and tidy. Eg from one of our many calculator projects you would see something that looks like this:
 
 ```
-├── build.gradle
 ├── gradle
 │   └── wrapper
 │       ├── gradle-wrapper.jar
@@ -37,13 +36,15 @@ This should output something neat and tidy. Eg from one of our many calculator p
 ├── gradlew
 ├── gradlew.bat
 ├── settings.gradle
-└── src
-    ├── main
-    │   └── java
-    │       └── Calculator.java
-    └── test
-        └── java
-            └── CalculatorTest.java
+└── app
+    ├── build.gradle
+    └── src
+        ├── main
+        │   └── java
+        │       └── Calculator.java
+        └── test
+            └── java
+                └── CalculatorTest.java
 ```
 
 Now you can run these commands and they should work:
