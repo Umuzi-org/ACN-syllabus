@@ -53,7 +53,7 @@ The Millennium Development Goals were a set of 8 goals for 2015 that were define
 5. Do you spot any problems with the data? If so, fix them. At this stage ensure that your dataset is in a DataFrame named: `mdg_df`
 6. Calculate the mean and median CO2 emissions for 1990. Why do you think these values differ? Save each calculation in the variables `mean_co2_emmisions` and `median_co2_emmisions` respectively.
 7. Calculate the minimum, maximum and interquartile range of the CO2 emissions for 1990. Using this information, and the mean and median, what does this tell you about the distribution of CO2 emissions? Save each calculation in the variables `minimum_co2_emmisions`, `maximum_co2_emmisions` and `iqr_co2_emissions`respectively.
-8. Create a histogram of the CO2 emissions for 1990. Is this what you expected from your answers in questions 3 and 4? The DataFrame used to create the histogram should be called
+8. Create a histogram of the CO2 emissions for 1990. Is this what you expected from your answers in questions 3 and 4? 
 9. Calculate the standard deviation and standard error of the mean for CO2 emissions in 1990. How is the standard error different from the standard deviation? Save each calculation in the variables `std_co2_emmisions` and `stderr_co2_emmisions` respectively.
 10. Create a line graph to show CO2 emissions in Brazil, Russia, China, India, the USA and South Africa over time. What does the graph tell you about the difference and change in C02 emissions in these countries?
 11. What is the mean and standard deviation for land area covered by forest in 1990? Why do you think the standard deviation is so large? Save each calculation in the variables `mean_land_area_covered_forest` and `std_land_area_covered_forest` respectively.
