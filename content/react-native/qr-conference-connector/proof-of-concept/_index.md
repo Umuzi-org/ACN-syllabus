@@ -53,7 +53,9 @@ You might need to do some research here.
 
 ## Component library
 
-Please use [NativeBase](https://nativebase.io/) to make your app beautiful. NativeBase is a component library with a really nice feature set and good documentation. It's also fairly straightforward to set up. 
+Please use [NativeBase](https://nativebase.io/) to make your app beautiful. NativeBase is a component library with a really nice feature set and good documentation. It's also fairly straightforward to set up.
+
+Note: NativeBase is no longer maintained. Please use [gluestack-ui](https://gluestack.io/) (a complete rebuild of Nativebase).
 
 ## Extra instructions
 
