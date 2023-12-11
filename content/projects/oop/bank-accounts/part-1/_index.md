@@ -53,10 +53,37 @@ Please test your work using jasmine.
 
 ### Java
 
-Please make use of Gradle to set up your project structure.
+Please make use of Gradle from the command line to set up your project. You can learn more about Gradle here:
+
+{{< contentlink "gradle/introduction" >}}
+
 Your project name should be `banking`.
 
 Make sure that all of the classes you define are within the `banking` package. Do this by including a package declaration at the top of each of your java files.
+
+Your directory structure should look like this:
+
+```
+└── app
+|   ├── build.gradle
+|   └── src
+|       ├── main
+|       |   └── java
+|       |       └── banking
+|       |           ├── BankAccount.java   <-------- names are important
+|       |
+|       └──test
+|          └── java
+|               └── banking
+|                   └── ???.java    <-------- names are important
+├── gradle
+│   └── wrapper
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
+├── gradlew
+├── gradlew.bat
+└── settings.gradle
+```
 
 ## How interest works
 

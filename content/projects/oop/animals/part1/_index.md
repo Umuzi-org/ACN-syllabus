@@ -54,7 +54,7 @@ Your directory structure should look like this:
 
 ### Java 
 
-Make use of Gradle from the command line to set up your project. You can learn more about Gradle here:
+Please make use of Gradle from the command line to set up your project. You can learn more about Gradle here:
 
 {{< contentlink "gradle/introduction" >}}
 
@@ -63,22 +63,23 @@ When you use gradle to create your project, give your project the following name
 Your directory structure should look like this:
 
 ```
-├── build.gradle
+├── app
+|   ├── build.gradle
+|   └── src
+|       ├── main
+|           └── java
+|               └── animals
+|                   └── Animals.java <-------- names are important
+|                   └── Cat.java <-------- names are important
+|                   └── Dog.java <-------- names are important
+|                   ├── Home.java <-------- names are important
 ├── gradle
-│   └── wrapper
-│       ├── gradle-wrapper.jar
-│       └── gradle-wrapper.properties
+│   └── wrapper
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
 ├── gradlew
 ├── gradlew.bat
-├── settings.gradle
-└── src
-    ├── main
-        └── java
-            ├── animals      <-------- this is your project
-                 ├── Animal.java       <-------- names are important
-                 ├── Cat.java          <-------- names are important
-                 ├── Dog.java          <-------- names are important
-                 ├── Home.java         <-------- names are important
+└── settings.gradle
 ...
 ```
 

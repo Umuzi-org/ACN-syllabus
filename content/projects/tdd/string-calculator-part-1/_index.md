@@ -63,6 +63,10 @@ Please take a look at this topic to see an explanation of the required directory
 
 ### Java
 
+Please make use of Gradle from the command line to set up your project. You can learn more about Gradle here:
+
+{{< contentlink path="gradle/introduction" >}}
+
 The code you push to git should have the following structure:
 
 When you use gradle to create your project, give your project the following name: `string_calculator`
@@ -81,7 +85,7 @@ When you use gradle to create your project, give your project the following name
         ├── main
         |   └── java
         |       └── string_calculator
-        |           └── StringCalculator.java
+        |           └── StringCalculator.java       <-------- names are important
         └── test
             └── java
                 └── ???.java
