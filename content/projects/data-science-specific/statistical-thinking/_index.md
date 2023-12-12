@@ -50,9 +50,9 @@ The Millennium Development Goals were a set of 8 goals for 2015 that were define
 2. How many different countries are represented? Save this number in a variable `number_of_countries`. 
 3. How many missing values do we have by country, year and series? You need to create 3 DataFrames:
 
-- `missing_values_by_country_df` with column names `country` and `missing_values_count`
-- `missing_values_by_year_df` with column names `year` and `missing_values_count` 
-- `missing_values_by_series_df` with column names `series` and `missing_values_count`
+  - `missing_values_by_country_df` with column names `country` and `missing_values_count`
+  - `missing_values_by_year_df` with column names `year` and `missing_values_count` 
+  - `missing_values_by_series_df` with column names `series` and `missing_values_count`
 
 4. Who are the top and bottom 5 countries in terms of CO2 emissions in 1990 and what are their emissions? Create DataFrames called `top_countries_co2_emmissions_df` and  `bottom_countries_co2_emmissions_df` with columns `Country` and `co2_emissions` and order the data from highest to lowest for `top_countries_co2_emmissions_df` and from lowest to highest for `bottom_countries_co2_emmissions_df`. How have these emissions changed by 2011?
 5. Check and correct any problems with the data. At this stage ensure that your dataset is in a DataFrame named: `mdg_df`
