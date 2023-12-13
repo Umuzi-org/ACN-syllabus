@@ -42,7 +42,17 @@ Complete the DataCamp courses [Statistical Thinking in Python Part 1](https://ww
 
 ### Instructions
 
-The Millennium Development Goals were a set of 8 goals for 2015 that were defined by the United Nations to help improve living conditions and the conditions of our planet. Key indicators were defined for each of these goals, to see whether they were being met. We will have a look at some of the key indicators from _Goal 7: Ensure environmental sustainability_, namely carbon dioxide (CO2) emissions, protected land and sea areas, and forests. The full dataset can be found at http://mdgs.un.org/.
+The Millennium Development Goals were a set of 8 goals for 2015 that were defined by the United Nations to help improve living conditions and the conditions of our planet. Key indicators were defined for each of these goals, to see whether they were being met. We will have a look at some of the key indicators from _Goal 7: Ensure environmental sustainability_, namely carbon dioxide (CO2) emissions, protected land and sea areas, and forests. The full dataset can be found at http://mdgs.un.org/.Your repo should contain everything needed to replicate your work. It's good practice to structure your files well, so we'll expect you to have a separate directory for "data" and "notebook", so that your final file structure looks something like this: 
+
+```
+├──data
+│   └──MDG_Export_20191227.csv
+├──notebook
+│  └──statistical_thinking.ipynb
+├──README.md
+├──requirements.txt
+└──.gitignore 
+```
 
 ### Questions
 
