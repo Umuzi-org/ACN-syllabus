@@ -49,29 +49,29 @@ Later in this program you'll be learning how to train machine learning models us
 Here is a resource for dealing with missing values : https://www.analyticsvidhya.com/blog/2021/10/a-complete-guide-to-dealing-with-missing-values-in-python/
 
 
-## Questions
+## Instructions
 
 The [data set](data.csv) consists of health and demographic data for the period 2014-2015, obtained from [Global Health Observatory Data Repository](http://apps.who.int/gho/data/node.main). Here is some [metadata](data-info.txt) that may be useful.
 
-1. Load the dataset into a pandas DataFrame called `health_and_demographics_df`,  display the first 10 rows and determine how many missing values there are per feature. 
+1. Load the dataset into a pandas DataFrame and determine how many missing values there are per feature. 
 
-2. Address any missing values in the dataset. Given the kind of data we have in this dataset, as well as the *regional* analysis you will be tasked with performing below, it should not simply be replacing a missing value with the mean/median of the whole column. 
+2. Address any missing values in the dataset and lay out your reasoning for your chosen method. Given the kind of data we have in this dataset, as well as the *regional* analysis you will be tasked with performing below, it should not simply be replacing a missing value with the mean/median of the whole column. 
 
-3. Are there any other problems with the data? If so, fix them. At this stage ensure that your dataset is in a DataFrame named: `health_and_demographics_df_cleaned`
+3. Are there any other problems with the data? If so, fix them. At this stage ensure that your dataset is in a DataFrame named: `health_and_demographics_df`
 
 4. Identify the country with the lowest % of their population under 15 and the one with the highest and save each country name as a string in the variables `country_with_lowest_population_percentage_under_15` and `country_with_highest_population_percentage_under_15` respectively.
 
 5. Which region has the highest % of their population over 60? Save this region in the the variable `region_with_highest_population_percentage_over_60`
 
-6. Does fertility decrease as income increases? Are there any countries that don't seem to follow this relation?
+6. Does fertility decrease as income increases? Create a suitable plot to visualise the relationship. Are there any countries that don't seem to follow this relation?
 
-7. Which regions have the lowest literacy rates? Create a dataframe called `regional_literacy_df` with columns `region` and `literacy_rate` and order the data from lowest to highest. 
+7. Which regions have the lowest literacy rates? Create a list of region names, order it from lowest to highest in terms of literacy rate and name the list variable: `regional_literacy_ascending_order`.
 
-8. Which regions have the lowest child mortality rates? Create a dataframe called `regional_child_mortality_df` with columns `region` and `child_mortality_rate` and order the data from lowest to highest. 
+8. Which regions have the lowest child mortality rates? Create a list of region names, order it from lowest to highest in terms of child mortality rate and name the list variable: `regional_child_mortality_ascending_order`.
 
 9. What is the life expectancy across different regions? Create a box-and-whisker plot to investigate this. What can we conclude about life expectancy across different regions?
 
-10. How is life expectancy related to wealth across different regions? How is wealth related to fertility across different regions? Do these relationships hold for African countries?
+10. How is life expectancy related to wealth across different regions? How is wealth related to fertility across different regions? Create suitable graphs to demonstrate this. Do these relationships hold for African countries?
 
 11. Create appropriate graphs to visually represent the relationship between literacy and life expectancy by region, and then for African countries. What can be concluded from the graphs? How confident can we be in the relationships represented here?
 
