@@ -64,7 +64,7 @@ Make sure that all of the classes you define are within the `banking` package. D
 Your directory structure should look like this:
 
 ```
-└── app
+├── app
 |   ├── build.gradle
 |   └── src
 |       ├── main

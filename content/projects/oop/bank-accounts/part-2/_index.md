@@ -62,14 +62,26 @@ Update your directory structure to:
 ```
 ...
 
-└── app
-    ├── build.gradle
-    └── src
-        ├── main
-        |   └── java
-        |       └── banking
-        |           ├── BankAccount.java
-        |           └── Bank.java  <---NEW
+├── app
+|   ├── build.gradle
+|   └── src
+|       ├── main
+|       |   └── java
+|       |       └── banking
+|       |           ├── BankAccount.java
+|       |           └── Bank.java  <---NEW
+|       └──test
+|          └── java
+|               └── banking
+|                   ├── ???.java    <-------- names are important
+|                   └── ???.java    <-------- names are important
+├── gradle
+│   └── wrapper
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
+├── gradlew
+├── gradlew.bat
+└── settings.gradle
 ...
 ```
 
