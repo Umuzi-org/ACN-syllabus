@@ -64,8 +64,8 @@ The Millennium Development Goals were a set of 8 goals for 2015 that were define
   - `missing_values_by_year_df` with column names `Year` and `missing_values_count` 
   - `missing_values_by_series_df` with column names `Series` and `missing_values_count`
 
-4. Who are the top and bottom 5 countries in terms of CO2 emissions in 1990 and what are their emissions? Create DataFrames called `top_countries_co2_emmissions_df_1990` and  `bottom_countries_co2_emmissions_df_1990` with columns `Country` and `co2_emissions` and order the data from highest to lowest for `top_countries_co2_emmissions_df_1990` and from lowest to highest for `bottom_countries_co2_emmissions_df_1990`. How have these emissions changed by 2011?
-5. Check and correct any problems with the data. At this stage ensure that your dataset is in a DataFrame named: `mdg_df`
+4. Check and correct any problems with the data. At this stage ensure that your dataset is in a DataFrame named: `mdg_df`. 
+5. Who are the top and bottom 5 countries in terms of CO2 emissions in 1990 and what are their emissions? Create DataFrames called `top_countries_co2_emmissions_df_1990` and  `bottom_countries_co2_emmissions_df_1990` with columns `Country` and `co2_emissions` and order the data from highest to lowest for `top_countries_co2_emmissions_df_1990` and from lowest to highest for `bottom_countries_co2_emmissions_df_1990`. Create similarly named data frames for the emissions in 2011. How have these emissions changed compared with 1990?
 6. Calculate the mean and median CO2 emissions for 1990. Save each answer in the variables `mean_co2_emmisions_1990` and `median_co2_emmisions_1990` respectively. Why do you think these values differ? 
 7. Calculate the minimum, maximum and interquartile range of the CO2 emissions for 1990. Please store these as variables named: `minimum_co2_emmisions_1990`, `maximum_co2_emmisions_1990` and `iqr_co2_emissions_1990` respectively. Using this information, as well as the mean and median calculated previously for this year, explain what this tells us about the distribution of CO2 emissions?
 8. Create a histogram of the CO2 emissions for 1990. Is this the distribution you expected based on your answers from questions 6 and 7? 
@@ -81,12 +81,12 @@ The Millennium Development Goals were a set of 8 goals for 2015 that were define
 
 14. Since neither forested land area nor protected area is normally distributed, we will need to log transform these variables in order to calculate a correlation coefficient. Log transform the variables and show the transformed distributions in a histogram.
 
-15. Using the `pearsonr` function from the `scipy.stats` module, calculate the Pearson correlation coefficient (and its corresponding p value) to determine the nature of the relationship between proportion of land area covered by forest and the percentage of area protected (as measured in 1990 and log transformed). Save this answer in a variable called `pearson_correlation_coefficient_1990`. See `help(pearsonr)` for help on this function.
+15. We'd like to determine the nature of the relationship between proportion of land area covered by forest and the percentage of area protected (as measured in 1990 and log transformed). Start with stating the "null" and "alternative" hypothesis for this inquiry. Using the `pearsonr` function from the `scipy.stats` module, calculate the Pearson correlation coefficient (and its corresponding p value) to determine the nature of this relationship. Save this answer in a variable called `pearson_correlation_coefficient_1990`. The p value here should be saved in a variable called `pearson_p_value_1990`. See `help(pearsonr)` for help on this function.
 
   - Interpret the size and direction of the correlation statistic.
   - Is the relationship statistically significant? Report the appropriate statistic(s) to support your answer.
 
-16. Calculate the Spearman Rank-Order Correlation Coefficient. This test only looks at the _order_ of the categories, not the _values_. Save this answer in a variable called `spearman_correlation_coefficient_1990`. The Spearman Rank-Order Coefficient is therefore not influenced by non-normality of variables or outliers. How do the results of this test compare the results of the Pearson's correlation?
+16. Calculate the Spearman Rank-Order Correlation Coefficient. This test only looks at the _order_ of the categories, not the _values_. Save this answer in a variable called `spearman_correlation_coefficient_1990`. The p value here should be saved in a variable called `spearman_p_value_1990`. The Spearman Rank-Order Coefficient is therefore not influenced by non-normality of variables or outliers. How do the results of this test compare the results of the Pearson's correlation?
 
 ## Instructions for reviewer
 
