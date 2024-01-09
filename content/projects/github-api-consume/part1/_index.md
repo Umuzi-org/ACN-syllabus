@@ -62,18 +62,19 @@ module.exports = { YOUR_FUNCTION_NAME };
 Please make use of IntelliJ and Gradle to create your project. The directory structure should look like this:
 
 ```
-├── build.gradle
 ├── gradle
-│   └── wrapper
-│       ├── gradle-wrapper.jar
-│       └── gradle-wrapper.properties
+│   └── wrapper
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
 ├── gradlew
 ├── gradlew.bat
 ├── settings.gradle
-└── src
-    └── main
-        └── java
-            └── ConsumeGithubAPI.java       <-------- names are important
+└── app
+    ├── build.gradle
+    └── src
+        └── main
+            └── java
+                └── ConsumeGithubAPI.java       <-------- names are important
 ```
 
 ## Start by exploring the api
