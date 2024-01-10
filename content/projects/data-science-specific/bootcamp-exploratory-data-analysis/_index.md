@@ -55,9 +55,10 @@ The [data set](data.csv) consists of health and demographic data for the period 
 
 1. Load the dataset into a pandas DataFrame and determine how many missing values there are per feature. 
 
-2. Address any missing values in the dataset and lay out your reasoning for your chosen method. Given the kind of data we have in this dataset, as well as the *regional* analysis you will be tasked with performing below, it should not simply be replacing a missing value with the mean/median of the whole column. 
+2. Address any missing values in the dataset and lay out your reasoning for your chosen method. 
+- Given the kind of data we have in this dataset, as well as the *regional* analysis you will be tasked with performing below, it should not simply be the case of replacing a missing value with a metric calculated for the *whole* column. 
 
-3. Are there any other problems with the data? If so, fix them. At this stage ensure that your dataset is in a DataFrame named: `health_and_demographics_df`
+3. Are there any other problems with the data? If so, fix them. Store the final version of the DataFrame in a variable named: `health_and_demographics_df`. Verify that there are no missing values remaining.
 
 4. Identify the country with the lowest % of their population under 15 and the one with the highest and save each country name as a string in the variables `country_with_lowest_population_percentage_under_15` and `country_with_highest_population_percentage_under_15` respectively.
 
