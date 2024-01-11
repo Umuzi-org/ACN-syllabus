@@ -79,7 +79,7 @@ The Millennium Development Goals were a set of 8 goals for 2015 that were define
   - Describe any patterns in the scatterplot.
   - Do you notice any unusual/extreme values that do not fit the general trend? If you see any unusual values, briefly describe them (Who are they? In what way are they different?).
 
-14. Since neither forested land area nor protected area is normally distributed, we will need to log transform these variables in order to calculate a correlation coefficient. Log transform the variables and show the transformed distributions in a histogram. Save the result of this in a pandas dataframes called `log_transformed_land_area_covered_2000_df` and `log_transformed_protected_area_2000_df`.
+14. Since neither forested land area nor protected area is normally distributed, we will need to log transform these variables in order to calculate a correlation coefficient. Log transform the variables and show the transformed distributions in a histogram. Save the result of these in pandas dataframes called `log_transformed_land_area_covered_2000_df` and `log_transformed_protected_area_2000_df` respectively.
 
 15. We'd like to determine the nature of the relationship between proportion of land area covered by forest and the percentage of area protected (as measured in 1990 and log transformed). Start with stating the "null" and "alternative" hypothesis for this enquiry. Using the `pearsonr` function from the `scipy.stats` module, calculate the Pearson correlation coefficient and its corresponding p value. Save this answer in a variable called `pearson_correlation_coefficient_1990`. The p value here should be saved in a variable called `pearson_p_value_1990`. See `help(pearsonr)` for help on this function.
 
