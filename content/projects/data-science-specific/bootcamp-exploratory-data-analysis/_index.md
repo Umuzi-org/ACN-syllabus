@@ -40,30 +40,41 @@ It's good practice to structure your files well, so we'll expect you to have a s
 └──.gitignore 
 ```
 
+## Dealing with missing values in a dataset
 
-## Questions
+Before we dive into the tasks of this project, let's talk a bit about missing values. For a variety of reasons, the data we work with could have missing or invalid data. Depending on the kind of data we are working with and the extent of the data missing, we typically deal with missing data either by dropping it (for example in the case of entirely/nearly entirely missing columns or rows) or by replacing them with a suitable values.
+
+Later in this program you'll be learning how to train machine learning models using various kinds of data. When doing so, missing values cannot simply be ignored. Further, when it comes to datasets with many columns (also known as features), it is bad practice to drop an entire row for a few missing values. 
+
+Here is a resource for dealing with missing values : https://www.analyticsvidhya.com/blog/2021/10/a-complete-guide-to-dealing-with-missing-values-in-python/
+
+
+## Instructions
 
 The [data set](data.csv) consists of health and demographic data for the period 2014-2015, obtained from [Global Health Observatory Data Repository](http://apps.who.int/gho/data/node.main). Here is some [metadata](data-info.txt) that may be useful.
 
-1. Are there any missing values in the data set? You can deal with missing values by either dropping them or filling them with some value (in a variety of ways) or ignoring them. What do you think is best in this case? And why? Here is a resource for dealing with missing values : https://www.analyticsvidhya.com/blog/2021/10/a-complete-guide-to-dealing-with-missing-values-in-python/
+1. Load the dataset into a pandas DataFrame and determine how many missing values there are per feature. 
 
-2. Are there any other problems with the data? If so, fix them.
+2. Address any missing values in the dataset and lay out your reasoning for your chosen method. 
+- Given the kind of data we have in this dataset, as well as the *regional* analysis you will be tasked with performing below, it should not simply be the case of replacing a missing value with a metric calculated for the *whole* column. 
 
-3. Identify the country with the lowest % of their population under 15 and the one with the highest.
+3. Are there any other problems with the data? If so, fix them. Store the final version of the DataFrame in a variable named: `health_and_demographics_df`. Verify that there are no missing values remaining.
 
-4. Which region has the highest % of their population over 60?
+4. Identify the country with the lowest % of their population under 15 and the one with the highest and save each country name as a string in the variables `country_with_lowest_population_percentage_under_15` and `country_with_highest_population_percentage_under_15` respectively.
 
-5. Does fertility decrease as income increases? Are there any countries that don't seem to follow this relation?
+5. Which region has the highest % of their population over 60? Save this region in the the variable `region_with_highest_population_percentage_over_60`
 
-6. Which regions have the lowest literacy rates?
+6. Does fertility decrease as income increases? Create a suitable plot to visualise the relationship. Are there any countries that don't seem to follow this relation?
 
-7. Which regions have the lowest child mortality rates?
+7. Which regions have the lowest literacy rates? Create a list of region names, order it from lowest to highest in terms of literacy rate and name the list variable: `regional_literacy_ascending_order`.
 
-8. What is the life expectancy across different regions? Create a box-and-whisker plot to investigate this. What can we conclude about life expectancy across different regions?
+8. Which regions have the lowest child mortality rates? Create a list of region names, order it from lowest to highest in terms of child mortality rate and name the list variable: `regional_child_mortality_ascending_order`.
 
-9. How is life expectancy related to wealth across different regions? How is wealth related to fertility across different regions? Do these relationships hold for African countries?
+9. What is the life expectancy across different regions? Create a box-and-whisker plot to investigate this. What can we conclude about life expectancy across different regions?
 
-10. Create appropriate graphs to visually represent the relationship between literacy and life expectancy by region, and then for African countries. What can be concluded from the graphs? How confident can we be in the relationships represented here?
+10. How is life expectancy related to wealth across different regions? How is wealth related to fertility across different regions? Create suitable graphs to demonstrate this. Do these relationships hold for African countries?
+
+11. Create appropriate graphs to visually represent the relationship between literacy and life expectancy by region, and then for African countries. What can be concluded from the graphs? How confident can we be in the relationships represented here?
 
 
 ### Instructions for reviewers
