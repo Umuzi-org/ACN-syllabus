@@ -49,7 +49,11 @@ module.exports = { YOUR_FUNCTION_NAME };
 
 ### Java
 
-Please make use of IntelliJ and Gradle to create your project. The directory structure should look like this:
+Please make use of Gradle from the command line to set up your project. You can learn more about Gradle here:
+
+{{< contentlink "gradle/introduction" >}}
+
+The directory structure should look like this:
 
 ```
 ├── gradle

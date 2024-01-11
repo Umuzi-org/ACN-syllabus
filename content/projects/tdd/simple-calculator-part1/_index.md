@@ -81,7 +81,7 @@ Please take a look at this topic to see an explanation of the required directory
 
 ### Java
 
-Make use of Gradle from the command line to set up your project. You can learn more about Gradle here:
+Please make use of Gradle from the command line to set up your project. You can learn more about Gradle here:
 
 {{< contentlink path="gradle/introduction" >}}
 

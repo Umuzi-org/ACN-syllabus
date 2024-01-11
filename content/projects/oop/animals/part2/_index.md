@@ -32,20 +32,27 @@ Your directory structure should look like this:
 
 
 ```
-└── app
-    ├── build.gradle
-    └── src
-        ├── main
-        |   └── java
-        |       └── animals
-        |           └── Animals.java <-------- names are important
-        |           └── Cat.java <-------- names are important
-        |           └── Dog.java <-------- names are important
-        |           ├── Home.java <-------- names are important
-        └── test
-            └── java
-                └── animals
-                    ├── ???.java             
+├── app
+│   ├── build.gradle
+│   └── src
+│       ├── main
+│       |   └── java
+│       |       └── animals
+│       |           └── Animals.java <-------- names are important
+│       |           └── Cat.java <-------- names are important
+│       |           └── Dog.java <-------- names are important
+│       |           ├── Home.java <-------- names are important
+│       └── test
+│           └── java
+│               └── animals
+│                   ├── ???.java
+├── gradle
+│   └── wrapper
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
+├── gradlew
+├── gradlew.bat
+└── settings.gradle             
 ```
 
 You'll be using JUnit to test your code. Make sure you remember to put in the `@Test` tag for all your test methods.

@@ -61,6 +61,10 @@ module.exports = {
 
 ### Java
 
+Please make use of Gradle from the command line to set up your project. You can learn more about Gradle here:
+
+{{< contentlink "gradle/introduction" >}}
+
 Your directory structure should look like this:
 
 ```
