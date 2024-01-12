@@ -86,7 +86,8 @@ The code you push to git should have the following structure:
         |           └── PasswordChecker.java <-------- names are important
         └── test
             └── java
-                └── ???.java             <-------- names are important
+                └── password_checker
+                    └── ???.java             <-------- names are important
 ```
 
 Please name your project `password_checker` and put your work in the `password_checker` package.

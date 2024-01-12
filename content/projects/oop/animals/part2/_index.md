@@ -24,9 +24,6 @@ In this project you'll be testing some of your previous work.
 
 ### Java
 
-Make use of Gradle from the command line to set up your project. You can learn more about Gradle here:
-
-{{< contentlink "gradle/introduction" >}}
 
 Your directory structure should look like this:
 
@@ -41,11 +38,11 @@ Your directory structure should look like this:
 │       |           └── Animals.java <-------- names are important
 │       |           └── Cat.java <-------- names are important
 │       |           └── Dog.java <-------- names are important
-│       |           ├── Home.java <-------- names are important
+│       |           └── Home.java <-------- names are important
 │       └── test
 │           └── java
 │               └── animals
-│                   ├── ???.java
+│                   └── ???.java
 ├── gradle
 │   └── wrapper
 │       ├── gradle-wrapper.jar

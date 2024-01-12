@@ -65,10 +65,10 @@ Make sure that all of the classes you define are within the `jam_buddy` package.
         ├── main
         |   └── java
         |       └── jam_buddy
-        |            └──  JamBuddy.java <-------- names are important
+        |           └──  JamBuddy.java <-------- names are important
         └── test
             └── java
-                └── ???.java             <-------- names are important
+                └── ???.java           <-------- names are important
 ```
 
 ### Python

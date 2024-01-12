@@ -88,7 +88,8 @@ When you use gradle to create your project, give your project the following name
         |           └── StringCalculator.java       <-------- names are important
         └── test
             └── java
-                └── ???.java
+                └── string_calculator
+                    └── ???.java
                 
 ```
 

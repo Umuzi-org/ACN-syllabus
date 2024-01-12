@@ -49,10 +49,6 @@ module.exports = { YOUR_FUNCTION_NAME };
 
 ### Java
 
-Please make use of Gradle from the command line to set up your project. You can learn more about Gradle here:
-
-{{< contentlink "gradle/introduction" >}}
-
 The directory structure should look like this:
 
 ```
@@ -68,10 +64,12 @@ The directory structure should look like this:
     └── src
         ├── main
         │   └── java
-        │       └── ConsumeGithubAPI.java       <-------- names are important
+        │       └── consume_github_api
+        │           └── ConsumeGithubAPI.java       <-------- names are important
         └── test
             └── java
-                └── ???.java             <-------- names are important
+                └── consume_github_api
+                    └── ???.java             <-------- names are important
 ```
 
 ## Instructions 

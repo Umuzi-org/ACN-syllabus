@@ -66,13 +66,13 @@ Your directory structure should look like this:
 ├── app
 |   ├── build.gradle
 |   └── src
-|       ├── main
+|       └── main
 |           └── java
 |               └── animals
 |                   └── Animals.java <-------- names are important
 |                   └── Cat.java <-------- names are important
 |                   └── Dog.java <-------- names are important
-|                   ├── Home.java <-------- names are important
+|                   └── Home.java <-------- names are important
 ├── gradle
 │   └── wrapper
 │       ├── gradle-wrapper.jar

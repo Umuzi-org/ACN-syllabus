@@ -70,7 +70,7 @@ Your directory structure should look like this:
 |       ├── main
 |       |   └── java
 |       |       └── banking
-|       |           ├── BankAccount.java   <-------- names are important
+|       |           └── BankAccount.java   <-------- names are important
 |       |
 |       └──test
 |          └── java
