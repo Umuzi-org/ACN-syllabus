@@ -60,6 +60,11 @@ Please take a look at this topic to see an explanation of the required directory
 {{< contentlink path="topics/python-specific/automated-testing-with-pytest" >}}
 
 ### Java
+
+Please make use of Gradle from the command line to set up your project. You can learn more about Gradle here:
+
+{{< contentlink "gradle/introduction" >}}
+
 When you use gradle to create your project, give your project the following name: `password_checker`
 
 The code you push to git should have the following structure:
@@ -81,7 +86,8 @@ The code you push to git should have the following structure:
         |           └── PasswordChecker.java <-------- names are important
         └── test
             └── java
-                └── ???.java             <-------- names are important
+                └── password_checker
+                    └── ???.java             <-------- names are important
 ```
 
 Please name your project `password_checker` and put your work in the `password_checker` package.

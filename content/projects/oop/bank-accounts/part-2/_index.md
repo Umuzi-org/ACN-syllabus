@@ -62,19 +62,32 @@ Update your directory structure to:
 ```
 ...
 
-├── src
-|   ├── main
-|   |   ├── java
-|   |   |    ├── banking
-|   |   |    |    └── BankAccount.java
-|   |   |    |    └── Bank.java <-- NEW
-
+├── app
+|   ├── build.gradle
+|   └── src
+|       ├── main
+|       |   └── java
+|       |       └── banking
+|       |           ├── BankAccount.java
+|       |           └── Bank.java  <---NEW
+|       └──test
+|          └── java
+|               └── banking
+|                   ├── ???.java    <-------- names are important
+|                   └── ???.java    <-------- names are important
+├── gradle
+│   └── wrapper
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
+├── gradlew
+├── gradlew.bat
+└── settings.gradle
 ...
 ```
 
 ## Instructions
 
-Create a class called `Bank`. 
+Create a class called `Bank`.
 
 If you have ever opened an account at a bank then you will know that there is a set menu of different types of accounts you can open. You can't just choose your interest rate when you feel like it.
 
@@ -107,7 +120,7 @@ savings_account_number = bank.open_bank_account("Saving")
 current_account_number = bank.open_bank_account("Current")
 ```
 
-The bank will need to keep track of which bank account is associated with with bank account number. 
+The bank will need to keep track of which bank account is associated with with bank account number.
 
 ### Interacting with bank accounts
 
@@ -117,7 +130,7 @@ Create the following functions:
 
 - `deposit(bank_account_number, amount)` This will find the BankAccount with the matching bank account number and then deposit the money
 - `withdraw(bank_account_number, amount)` This will find the BankAccount with the matching bank account number and then withdraw the money
-- `transfer(from_account_number,to_account_number, amount)` This will find the two matching accounts, withdraw some money from one of them, and deposit the money into the other one. Please try to keep your code DRY 
+- `transfer(from_account_number,to_account_number, amount)` This will find the two matching accounts, withdraw some money from one of them, and deposit the money into the other one. Please try to keep your code DRY.
 - `compound_interest()`: This should compound the interest on all the `Bank Accounts` that the `Bank` controls
 - `get_balance(from_account_number)`: This should return the balance of the matching account
 - `get_interest_rate(from_account_number)`: This should return the interest rate of the matching account
