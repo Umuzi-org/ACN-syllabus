@@ -5,21 +5,14 @@ tags:
 - kubernetes
 prerequisites:
   hard:
-  - k8s/bare-bones-deployment/setup-ec2
+  - k8s/bare-bones-deployment/install-docker-and-docker-compose
 flavours:
 - none
 ready: true
 ---
 
-Nowadays, one prerequisite to run a web application is the Transport Layer Security, or TLS, a security protocol which ensures that the data exchanged between the user and server is encrypted. A web application running with TLS becomes a more secure application: HTTP + TLS = HTTPS.
 
-The basis of TLS lies on the TLS certificate, also known as SSL certificate, which is issued by a certificate authority who can guarantee that the person or organization running the application is who they claim to be.
-
-In this chapter we will be using a tool called [certbot](https://certbot.eff.org/) to generate the TLS certificates with the [Let's Encrypt](https://letsencrypt.org) certificate authority and use them in our web application.
-
-You can read more about TLS [here](https://www.cloudflare.com/learning/ssl/transport-layer-security-tls/).
-
-Let's install certbot and run in `certonly` mode to generate the certificates. Take note of the paths it spits out where it stores the certificate, it should something like:
+To be able to get a TLS certificate for HTTPS we will install certbot and run in certonly mode where it will generate the certificates. Take note of the paths it spits out where it stores the certificate, it should something like:
 
 ```
 Successfully received certificate.

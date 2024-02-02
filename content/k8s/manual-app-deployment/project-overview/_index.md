@@ -1,11 +1,12 @@
 ---
-title: Project Overview
+title: Bare Bones Deployment Project Overview
 content_type: topic
 tags: 
 - kubernetes
+flavours:
+- none
 prerequisites:
-  hard:
-  - k8s/introduction
+  hard: []
   soft: []
 ready: true
 ---
