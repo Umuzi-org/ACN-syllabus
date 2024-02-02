@@ -4,7 +4,8 @@ content_type: topic
 tags: 
 - kubernetes
 prerequisites:
-  hard: []
+  hard:
+  - k8s/introduction
   soft: []
 ready: true
 ---
@@ -17,3 +18,7 @@ The project involves setting up a secure web infrastructure by implementing thes
 4. Set up a reverse proxy within Nginx pointing to your Flask app, ensuring smooth communication.
 
 By integrating these components, your project will offer secure client access, host a Python (Flask) API, and maintain stable performance in various environments.
+
+**The deliverable of each module will be the URL from your live deployment**.
+
+**We will also be checking the Git commits from the GitHub repositories**.
