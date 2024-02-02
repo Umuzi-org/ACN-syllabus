@@ -6,7 +6,7 @@ tags:
 prerequisites:
   hard:
   - k8s/bare-bones-deployment/setup-ec2
-ready;: true
+ready: true
 ---
 
 To be able to get a TLS certificate for HTTPS we will install certbot and run in certonly mode where it will generate the certificates. Take note of the paths it spits out where it stores the certificate, it should something like:

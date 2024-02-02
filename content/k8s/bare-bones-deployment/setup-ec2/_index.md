@@ -6,7 +6,7 @@ tags:
 prerequisites:
   hard:
   - k8s/bare-bones-deployment/project-overview
-ready;: false
+ready: false
 ---
 
 TODO: Content to be reviewed if we automate the EC2 instance creation.
