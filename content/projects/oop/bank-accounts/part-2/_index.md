@@ -145,9 +145,7 @@ bank.addAccountType({ accountType: "Current", interestRate: 2.5 });
 
 // openBankAccount
 const savingsAccountNumber = bank.openBankAccount({ accountType: "Savings" }); // should return a 10 digit account number string
-console.log(savingsAccountNumber);
 const currentAccountNumber = bank.openBankAccount({ accountType: "Current" }); // - - - 10 digit account number string
-console.log(currentAccountNumber);
 
 // deposit
 bank.deposit({ accountNumber: savingsAccountNumber, amount: 1500 });
