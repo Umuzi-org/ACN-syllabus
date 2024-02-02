@@ -24,32 +24,32 @@ In this project you'll be testing some of your previous work.
 
 ### Java
 
-Make use of Gradle from the command line to set up your project. You can learn more about Gradle here:
-
-{{< contentlink "gradle/introduction" >}}
 
 Your directory structure should look like this:
 
 
 ```
-├── build.gradle
+├── app
+│   ├── build.gradle
+│   └── src
+│       ├── main
+│       |   └── java
+│       |       └── animals
+│       |           └── Animals.java <-------- names are important
+│       |           └── Cat.java <-------- names are important
+│       |           └── Dog.java <-------- names are important
+│       |           └── Home.java <-------- names are important
+│       └── test
+│           └── java
+│               └── animals
+│                   └── ???.java
 ├── gradle
-│   └── wrapper
-│       ├── gradle-wrapper.jar
-│       └── gradle-wrapper.properties
+│   └── wrapper
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
 ├── gradlew
 ├── gradlew.bat
-├── settings.gradle
-└── src
-    ├── main
-    |   └── java
-    |       ├── Animal.java       <-------- names are important
-    |       ├── Cat.java          <-------- names are important
-    |       ├── Dog.java          <-------- names are important
-    |       ├── Home.java         <-------- names are important
-    └── test
-        └── java
-            ├── ???
+└── settings.gradle             
 ```
 
 You'll be using JUnit to test your code. Make sure you remember to put in the `@Test` tag for all your test methods.

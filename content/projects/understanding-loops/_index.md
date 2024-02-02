@@ -61,6 +61,12 @@ module.exports = {
 
 ### Java
 
+Please make use of Gradle from the command line to set up your project. You can learn more about Gradle here:
+
+{{< contentlink "gradle/introduction" >}}
+
+When you use gradle to create your project, give your project the following name: `shopping_cart`
+
 Your directory structure should look like this:
 
 ```
@@ -76,7 +82,8 @@ Your directory structure should look like this:
     └── src
         └── main
             └── java
-                └── ShoppingCartCalculations.java <------ names are important
+                └── shopping_cart
+                    └── ShoppingCartCalculations.java <------ names are important
 
 ```
 

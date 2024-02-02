@@ -59,21 +59,29 @@ module.exports = { YOUR_FUNCTION_NAME };
 
 ### Java
 
-Please make use of IntelliJ and Gradle to create your project. The directory structure should look like this:
+Please make use of Gradle from the command line to set up your project. You can learn more about Gradle here:
+
+{{< contentlink "gradle/introduction" >}}
+
+When you use gradle to create your project, give your project the following name: `consume_github_api`.
+
+The directory structure should look like this:
 
 ```
-├── build.gradle
 ├── gradle
-│   └── wrapper
-│       ├── gradle-wrapper.jar
-│       └── gradle-wrapper.properties
+│   └── wrapper
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
 ├── gradlew
 ├── gradlew.bat
 ├── settings.gradle
-└── src
-    └── main
-        └── java
-            └── ConsumeGithubAPI.java       <-------- names are important
+└── app
+    ├── build.gradle
+    └── src
+        └── main
+            └── java
+                └── consume_github_api
+                    └── ConsumeGithubAPI.java       <-------- names are important
 ```
 
 ## Start by exploring the api

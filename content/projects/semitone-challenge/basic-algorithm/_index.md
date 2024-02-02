@@ -43,6 +43,10 @@ module.exports = { className }
 
 ### Java
 
+Please make use of Gradle from the command line to set up your project. You can learn more about Gradle here:
+
+{{< contentlink "gradle/introduction" >}}
+
 When you use gradle to create your project, give your project the following name: `jam_buddy`
 
 Make sure that all of the classes you define are within the `jam_buddy` package. Do this by including a package declaration at the top of each of your java files.
@@ -56,15 +60,15 @@ Make sure that all of the classes you define are within the `jam_buddy` package.
 ├── gradlew.bat
 ├── settings.gradle
 └── app
-  ├── build.gradle
-  └── src
-      ├── main
-      |   └── java
-      |       └── jam_buddy
-      |            └──  JamBuddy.java <-------- names are important
-      └── test
-          └── java
-              └── ???.java             <-------- names are important
+    ├── build.gradle
+    └── src
+        ├── main
+        |   └── java
+        |       └── jam_buddy
+        |           └──  JamBuddy.java <-------- names are important
+        └── test
+            └── java
+                └── ???.java           <-------- names are important
 ```
 
 ### Python
