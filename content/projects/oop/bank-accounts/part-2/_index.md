@@ -105,7 +105,7 @@ savings_account_number = bank.open_bank_account("Saving")
 current_account_number = bank.open_bank_account("Current")
 ```
 
-The bank will need to keep track of which bank account is associated with with bank account number.
+The bank will need to keep track of which bank account is associated with bank account number.
 
 ### Interacting with bank accounts
 
@@ -123,6 +123,8 @@ Create the following functions:
 ## Usage Examples
 
 ```js
+// javascript
+
 const bank = new Bank();
 // addAccountType
 bank.addAccountType({ accountType: "Savings", interestRate: 5 });
