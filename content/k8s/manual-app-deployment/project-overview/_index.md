@@ -1,8 +1,11 @@
 ---
-title: 1.0 Project Overview
+title: Project Overview
 content_type: topic
 tags: 
 - kubernetes
+prerequisites:
+  hard: []
+  soft: []
 ready: true
 ---
 

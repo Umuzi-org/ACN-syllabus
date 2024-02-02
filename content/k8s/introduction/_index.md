@@ -1,5 +1,5 @@
 ---
-title: 0. Introduction
+title: Introduction to Kubernetes
 content_type: topic
 ---
 
