@@ -12,8 +12,6 @@ prerequisites:
 ready: true
 ---
 
-# Deploy the Backend
-
 Let's deploy our Python app!
 
 First, let's create our Python Docker container.
@@ -22,7 +20,6 @@ Copy the `python/Dockerfile` and `python/requirements.txt` file into a new folde
 
 Let's add a new version of our Python app with the file `k8s/python/app.py`:
 
-`k8s/python/app.py`
 ```
 from flask import Flask, jsonify
 import psycopg2
@@ -131,7 +128,6 @@ if __name__ == '__main__':
 
 Let's use another Kubernetes Service to expose the Python app to the cluster. Add the following content into the `k8s/python/service.yaml` file:
 
-`k8s/python/service.yaml`
 ```
 apiVersion: v1
 kind: Service
@@ -145,7 +141,6 @@ spec:
       port: 5000
       targetPort: 5000
 ```
-{% endcode %}
 
 To finish the YAML files, let's create a `deployment.yaml` under `k8s/python`.
 
@@ -237,7 +232,6 @@ The frontend is trying to access `https://<your-domain>/api` but we never told t
 
 On the `k8s/nginx/ingress.yaml` file add a new rule:
 
-`k8s/nginx/ingress.yaml`
 ```
       # old path here, just to remember where we are
       - path: /
