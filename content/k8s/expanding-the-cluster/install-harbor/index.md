@@ -22,7 +22,7 @@ For simplicity, we are writing the Harbor admin password to the GitHub repositor
 
 For the Harbor external URL, we will be using a subdomain named `harbor.<your-domain>`. Remember to override the field in the file below.
 
-{% code title="k8s/harbor/values.yaml" %}
+`k8s/harbor/values.yaml`
 ```
 harborAdminPassword: "harbor12345"
 externalURL: https://harbor.<your-domain>
@@ -45,7 +45,6 @@ expose:
       nginx.ingress.kubernetes.io/ssl-redirect: "true"
       cert-manager.io/cluster-issuer: "letsencrypt-prod"
 ```
-{% endcode %}
 
 Let's add the Harbor Helm repository and update Helm's index:
 

@@ -47,7 +47,7 @@ Remember the `umuzi-k8s` GitHub repository? Let's start using it again to keep t
 
 Create a file under `k8s/cert-manager/` name `issuer.yaml`. Here we will define `ClusterIssuer` resource, which will communicate with Let's Encrypt when we request a certificate later own.
 
-{% code title="k8s/cert-manager/issuer.yaml" %}
+`k8s/cert-manager/issuer.yaml`
 ```
 apiVersion: cert-manager.io/v1
 kind: ClusterIssuer
@@ -68,7 +68,7 @@ spec:
           ingress:
             ingressClassName: nginx
 ```
-{% endcode %}
+
 
 On the EC2 instance, pull the changes from the repository and apply the file:
 

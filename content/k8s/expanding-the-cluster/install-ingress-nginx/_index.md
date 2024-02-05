@@ -24,7 +24,7 @@ On the GitHub repository, under the `k8s/ingress-nginx` create a file named `use
 
 Change `<ip-address>` to the IP address given to you by Umuzi. Remember surround it with double quotes.
 
-{% code title="k8s/ingress-nginx/userSuppliedValues.yaml" %}
+`k8s/ingress-nginx/userSuppliedValues.yaml`
 ```
 controller:
   admissionWebhooks:
@@ -33,13 +33,13 @@ controller:
   service:
     externalIPs: ["<ip-address>"]
 ```
-{% endcode %}
+
 
 Commit the file and push the changes.
 
 Let's install the ingress-nginx.
 
-{% code overflow="wrap" %}
+
 ```
 # adds the nginx-ingress repository
 helm repo add ingress-nginx https://kubernetes.github.io/ingress-nginx
@@ -47,18 +47,18 @@ helm repo add ingress-nginx https://kubernetes.github.io/ingress-nginx
 # updates the Helm index
 helm repo update
 ```
-{% endcode %}
+
 
 Now install the Ingress with your own values`.yaml` file.
 
-{% code overflow="wrap" %}
+
 ```
 helm install ingress ingress-nginx/ingress-nginx \
     --namespace ingress \
     --create-namespace \
     -f k8s/ingress-nginx/values.yaml
 ```
-{% endcode %}
+
 
 Now that we have the Ingress Controller installed, let's check if the Pod is healthy and confirm the public IP address.
 
