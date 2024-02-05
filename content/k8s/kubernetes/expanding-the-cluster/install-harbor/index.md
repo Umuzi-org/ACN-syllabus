@@ -12,8 +12,6 @@ prerequisites:
 ready: true
 ---
 
-# Install Harbor
-
 We will Harbor to push our application Docker containers to be used by the Cluster. On AWS you will likely end up using an external service like ECR but they serve the same function.
 
 On the repository, create a file named `values.yaml` under `k8s/harbor` .
