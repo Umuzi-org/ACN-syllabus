@@ -18,7 +18,7 @@ Our Nginx service will run only on HTTP now, since the TLS termination will happ
 
 First, let's create a `nginx.conf` file under `k8s/nginx/` with the following content:
 
-```properties
+```nginx
 server {
     listen 80;
     
