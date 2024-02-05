@@ -12,10 +12,6 @@ prerequisites:
 ready: true
 ---
 
-# Install ingress-nginx
-
-
-
 Let's install ingress-nginx using a Helm chart. It will manage the ingress for us (instead of the default Traefik supplied by K3s, which we disable when creating the cluster). The Ingress will be used to allow external access to internal applications managed by Kubernetes.
 
 Instead of injecting values from the command line using the `--set` flag like twe did for `cert-manager`, we will use a values file to overwrite the default configuration given by the Helm chart.
