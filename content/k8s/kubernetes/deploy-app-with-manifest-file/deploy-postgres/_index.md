@@ -12,8 +12,6 @@ prerequisites:
 ready: true
 ---
 
-# Install PostgreSQL
-
 Now let's start deploying our application stack with the PostgreSQL database.
 
 Let's install PostgreSQL using the Bitnami's Helm chart.
