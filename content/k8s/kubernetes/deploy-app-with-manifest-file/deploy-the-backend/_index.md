@@ -7,7 +7,7 @@ flavours:
 - none
 prerequisites:
   hard: 
-  - k8s/kubernetes/deploy-app-with-manifest-file/deploy-the-front-end
+  - k8s/kubernetes/deploy-app-with-manifest-file/deploy-the-frontend
   soft: []
 ready: true
 ---
