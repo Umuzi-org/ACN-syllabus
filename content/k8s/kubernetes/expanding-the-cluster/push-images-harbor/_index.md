@@ -1,5 +1,5 @@
 ---
-title: Push docker images to harbor
+title: Push Docker images to Harbor
 content_type: topic
 tags: 
 - kubernetes
@@ -12,9 +12,7 @@ prerequisites:
 ready: true
 ---
 
-# Push docker images to harbor
-
-First, let's install Docker on this instance. Refer to the 2.2.1 chapter for the instructions.
+First, let's install Docker on this instance. Refer to the {{< contentlink path="k8s/containers-with-docker/install-docker-and-docker-compose" >}} chapter for the instructions.
 
 In your browser navigate to `https://harbor.<your-domain>` and login using the username `admin` and password you created in the `values.yaml` file.
 
