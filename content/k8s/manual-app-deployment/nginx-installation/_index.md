@@ -5,7 +5,8 @@ tags:
 - kubernetes
 - nginx
 prerequisites:
-  hard: []
+  hard: 
+  - k8s/manual-app-deployment/certbot
   soft: []
 ready: true
 ---

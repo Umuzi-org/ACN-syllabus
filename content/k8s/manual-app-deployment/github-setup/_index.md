@@ -5,7 +5,8 @@ tags:
 - kubernetes
 - github
 prerequisites:
-  hard: []
+  hard:
+  - k8s/manual-app-deployment/setup-ec2
   soft: []
 ready: true
 ---

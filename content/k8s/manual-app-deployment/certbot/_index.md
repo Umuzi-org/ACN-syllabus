@@ -5,7 +5,7 @@ tags:
 - kubernetes
 prerequisites:
   hard:
-  - k8s/bare-bones-deployment/setup-ec2
+  - k8s/manual-app-deployment/github-setup
 flavours:
 - none
 ready: true

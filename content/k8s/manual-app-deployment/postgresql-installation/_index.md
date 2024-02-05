@@ -5,7 +5,8 @@ tags:
 - kubernetes
 - postgresql
 prerequisites:
-  hard: []
+  hard: 
+  - k8s/manual-app-deployment/nginx-installation
   soft: []
 ready: true
 ---
