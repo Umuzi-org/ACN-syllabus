@@ -72,7 +72,7 @@ Install the Helm chart and take a look at what it created:
 
 ```
 # installs the chart
-helm install harbor harbor/harbor \ 
+helm install harbor harbor/harbor \
   --namespace harbor \
   --create-namespace \
   -f k8s/harbor/values.yaml
