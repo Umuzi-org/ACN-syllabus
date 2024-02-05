@@ -1,7 +1,6 @@
 ---
-title: Kubernetes
+title: k3s 
 content_type: topic
 tags: 
-- Manual app deployment
-- k3s quickstart
+- kubernetes
 ---
