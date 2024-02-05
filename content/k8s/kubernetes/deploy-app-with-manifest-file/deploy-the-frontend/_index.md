@@ -12,15 +12,12 @@ prerequisites:
 ready: true
 ---
 
-# Deploy the Frontend
-
 Let's get our frontend (Nginx with the `index.html` file up and running).
 
 Our Nginx service will run only on HTTP now, since the TLS termination will happen at the Ingress, making it way simpler.
 
 First, let's create a `nginx.conf` file under `k8s/nginx/` with the following content:
 
-`k8s/nginx/nginx.conf`
 ```properties
 server {
     listen 80;
@@ -32,10 +29,8 @@ server {
 }
 ```
 
-
 Now copy the `nginx/Dockerfile` from the `nginx/` to the `k8s/nginx/` folder and edit the its first `COPY` line to refer to the file we just created:
 
-`nginx/Dockerfile`
 ```
 # change this:
 COPY https-nginx.conf /etc/nginx/conf.d
@@ -104,7 +99,6 @@ Let's finish the frontend app by adding its network components.
 
 First, let's create a `Service` to expose the Nginx port to the cluster. Add the following content under `k8s/nginx/` in a file named `service.yaml`:
 
-`k8s/nginx/service.yaml`
 ```
 apiVersion: v1
 kind: Service
@@ -123,7 +117,6 @@ And lastly, let's create an Ingress to expose the Nginx externally. The Ingress 
 
 Create a file named `ingress.yaml` under `k8s/nginx` with the content below:
 
-{% code title="k8s/nginx/ingress.yaml" %}
 ```
 apiVersion: networking.k8s.io/v1
 kind: Ingress
@@ -157,7 +150,6 @@ spec:
             port:
               number: 80
 ```
-{% endcode %}
 
 That's a lot of files, but we are good to go! Commit everything, push the changes to GitHub and pull them back on your EC2 instance. Once there, let's apply everything:
 
