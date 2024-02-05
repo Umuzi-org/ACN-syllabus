@@ -7,7 +7,7 @@ flavours:
 - none
 prerequisites:
   hard: 
-  - k8s/kubernetes-quickstart/k3s-quickstart
+  - k8s/kubernetes/quickstart/k3s-quickstart
   soft: []
 ready: true
 ---
