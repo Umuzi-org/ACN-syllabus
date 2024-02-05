@@ -6,7 +6,8 @@ tags:
 flavours:
 - none
 prerequisites:
-  hard: []
+  hard: 
+  - k8s/containers-with-docker/python-app
   soft: []
 ready: true
 ---

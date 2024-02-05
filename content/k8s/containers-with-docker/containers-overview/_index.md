@@ -5,7 +5,7 @@ tags:
 - kubernetes
 prerequisites:
   hard:
-  - k8s/bare-bones-deployment/ @todo
+  - k8s/manual-app-deployment/python-app-setup
 flavours:
 - none
 ready: true

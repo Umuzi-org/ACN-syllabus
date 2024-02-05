@@ -5,7 +5,7 @@ tags:
 - kubernetes
 prerequisites:
   hard:
-  - k8s/bare-bones-deployment/install-docker-and-docker-compose
+  - k8s/containers-with-docker/containers-overview
 flavours:
 - none
 ready: true
