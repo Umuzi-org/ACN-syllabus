@@ -12,8 +12,6 @@ prerequisites:
 ready: true
 ---
 
-# Install cert-manager
-
 cert-manager is a Kubernetes Controller used to manage certificates. It will substitute the `certbot` we used on the previous chapters.
 
 Let's install it using Helm:
@@ -35,7 +33,7 @@ helm install \
   --set prometheus.enabled=false
 ```
 
-You will notice that the `--set` flags inject values into the Helm chart, customizing it. You can also run the `template` sub command to see what the manifest file looks like.&#x20;
+You will notice that the `--set` flags inject values into the Helm chart, customizing it. You can also run the `template` sub command to see what the manifest file looks like.
 
 ```
 # gets the Helm chart full YAML content
