@@ -1,6 +1,6 @@
 ---
 title: Nginx Installation
-content_type: topic
+content_type: project
 tags:
 - kubernetes
 - nginx
@@ -9,6 +9,8 @@ prerequisites:
   - k8s/manual-app-deployment/certbot
   soft: []
 ready: true
+submission_type: continue_repo
+from_repo: k8s/manual-app-deployment/certbot
 ---
 
 Nginx is arguably the world's leading web server, load balancer, and proxy server. Known for its exceptional performance, scalability, and low resource usage, Nginx serves static content efficiently and acts as a reverse proxy to distribute incoming traffic across multiple servers. Its capabilities extend to caching, SSL/TLS termination, and robust security features. Widely used in high-traffic websites, Nginx is a versatile solution for enhancing the speed and reliability of web services.

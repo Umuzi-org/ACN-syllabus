@@ -1,6 +1,6 @@
 ---
 title: GitHub Setup
-content_type: topic
+content_type: project
 tags:
 - kubernetes
 - github
@@ -9,6 +9,8 @@ prerequisites:
   - k8s/manual-app-deployment/setup-ec2
   soft: []
 ready: true
+submission_type: continue_repo
+from_repo: k8s/manual-app-deployment/setup-ec2
 ---
 
 We will be using GitHub to create and store the files we need through out the course (and use GitHub Actions to automate the deployment later).

@@ -1,14 +1,17 @@
 ---
 title: Setup EC2
-content_type: topic
+content_type: project
 tags:
 - kubernetes
 prerequisites:
-  hard: []
+  hard:
+  - k8s/manual-app-deployment/project-overview
   soft: []
 flavours:
 - none
 ready: true
+submission_type: continue_repo
+from_repo: k8s/manual-app-deployment/project-overview
 ---
 
 # Setup EC2
