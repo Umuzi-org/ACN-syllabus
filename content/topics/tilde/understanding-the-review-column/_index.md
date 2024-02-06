@@ -1,9 +1,11 @@
 ---
 _db_id: 585
-content_type: topic
+content_type: project
+flavours:
+  - any_language
 ready: true
+submission_type: link
 title: Understanding the review column
-topic_needs_review: true
 ---
 
 The review column causes a lot of confusion for a lot of people. A lot of students do weird things and end up getting bad reviews.
@@ -72,7 +74,7 @@ We wouldn't ask you to review other people's work if it wasn't good for you :)
 
 ## Leave complete feedback
 
-If there are 5 things wrong with a project submission then explain all 5. Make sure you give your peer enough information so that they can sort out everything as qickly as possible.
+If there are 5 things wrong with a project submission then explain all 5. Make sure you give your peer enough information so that they can sort out everything as quickly as possible.
 
 Set your peers up for success and efficiency!
 
@@ -114,7 +116,7 @@ By reviewing code and stating your opinion you will constantly test and upgrade 
 
 ## Instructions:
 
- You need to demonstrate your understanding of how the review column works before putting this topic card into the review column.
+ You need to demonstrate your understanding of how the review column works before putting this project card into the review column.
  
 **FIRST** the below project card should be marked competent:
 
@@ -124,12 +126,15 @@ By reviewing code and stating your opinion you will constantly test and upgrade 
 
 **Tilde project tutorial: How Repo projects work** 
 
-If the relevant project card(s) aren't complete, you will be red-flagged for this topic card if you move it to the review column. Instructions must be followed.
+If the relevant project card(s) aren't complete, you will be red-flagged for this project card if you move it to the review column. Instructions must be followed.
+
+## Note about submission format
+
+On Tilde you will notice that this card is asking for a link submission. **Please don't worry about submitting a link**
 
 ## Check your understanding!
 
 - If you are learning to code, when should you put your repo card into the review column?
-- What are the requirements for link projects to be moved to the review column?
 - What is the priority of a student who owes reviews to their peers?
 - Why is it important to have high standards when reviewing other people's work?
 - What should you do if there are multiple issues with a project submission?
