@@ -1,15 +1,17 @@
 ---
-title: Push Docker images to Harbor
-content_type: topic
-tags: 
-- kubernetes
+content_type: project
 flavours:
 - none
+from_repo: k8s/manual-app-deployment/project-overview
 prerequisites:
-  hard: 
-  - k8s/expanding-the-cluster/install-harbor
+  hard:
+  - k8s/kubernetes/expanding-the-cluster/install-harbor
   soft: []
 ready: true
+submission_type: continue_repo
+tags:
+- kubernetes
+title: Push Docker images to Harbor
 ---
 
 First, let's install Docker on this instance. Refer to the {{< contentlink path="k8s/containers-with-docker/install-docker-and-docker-compose" >}} chapter for the instructions.
@@ -38,6 +40,3 @@ Let's do the same from the Python app using a oneliner:
 cd /home/ubuntu/umuzi-k8s/python
 docker build . -t harbor.<your-domain>/application/python:v1 --push
 ```
-
-
-

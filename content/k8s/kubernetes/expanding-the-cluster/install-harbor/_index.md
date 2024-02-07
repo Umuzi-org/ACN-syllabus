@@ -1,15 +1,17 @@
 ---
-title: Install Harbor
 content_type: topic
-tags: 
-- kubernetes
 flavours:
 - none
+from_repo: k8s/manual-app-deployment/project-overview
 prerequisites:
-  hard: 
-  - k8s/expanding-the-cluster/install-ingress-nginx
+  hard:
+  - k8s/kubernetes/expanding-the-cluster/install-ingress-nginx
   soft: []
 ready: true
+submission_type: continue_repo
+tags:
+- kubernetes
+title: Install Harbor
 ---
 
 We will Harbor to push our application Docker containers to be used by the Cluster. On AWS you will likely end up using an external service like ECR but they serve the same function.

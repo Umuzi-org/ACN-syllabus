@@ -1,16 +1,19 @@
 ---
-title: Python App Setup
 content_type: project
-tags:
-- kubernetes
-- python
+flavours:
+- none
+from_repo: k8s/manual-app-deployment/project-overview
 prerequisites:
   hard:
   - k8s/manual-app-deployment/postgresql-installation
+  - k8s/manual-app-deployment/nginx-tls
   soft: []
 ready: true
 submission_type: continue_repo
-from_repo: k8s/manual-app-deployment/project-overview
+tags:
+- kubernetes
+- python
+title: Python App Setup
 ---
 
 Let's setup the Python app on your instance.

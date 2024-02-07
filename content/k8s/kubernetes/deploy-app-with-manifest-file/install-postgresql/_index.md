@@ -1,15 +1,17 @@
 ---
-title: Install PostgreSQL
-content_type: topic
-tags: 
-- kubernetes
+content_type: project
 flavours:
 - none
+from_repo: k8s/manual-app-deployment/project-overview
 prerequisites:
-  hard: 
-  - k8s/expanding-the-cluster/push-images-harbor
+  hard:
+  - k8s/kubernetes/expanding-the-cluster/push-images-harbor
   soft: []
 ready: true
+submission_type: continue_repo
+tags:
+- kubernetes
+title: Install PostgreSQL
 ---
 
 Now let's start deploying our application stack with the PostgreSQL database.
@@ -52,4 +54,3 @@ postgresql:5432
 # to access the database from any namespace
 postgresql.default.svc.cluster.local:5432
 ```
-

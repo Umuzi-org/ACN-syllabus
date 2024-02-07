@@ -1,6 +1,6 @@
 ---
-title: k3s 
 content_type: topic
-tags: 
+tags:
 - kubernetes
+title: k3s
 ---

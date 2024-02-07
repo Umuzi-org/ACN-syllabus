@@ -1,15 +1,16 @@
 ---
-title: Running the app
-content_type: topic
-tags: 
-- kubernetes
+content_type: project
 flavours:
 - none
 prerequisites:
-  hard: 
+  hard:
   - k8s/containers-with-docker/python-app
   soft: []
 ready: true
+submission_type: link
+tags:
+- kubernetes
+title: Running the App
 ---
 
 Let's run our Docker Compose production environment!

@@ -1,6 +1,6 @@
 ---
-title: Expanding the cluster
 content_type: topic
-tags: 
+tags:
 - kubernetes
+title: Expanding the cluster
 ---

@@ -1,15 +1,17 @@
 ---
-title: Install cert-manager
-content_type: topic
-tags: 
-- kubernetes
+content_type: project
 flavours:
 - none
+from_repo: k8s/manual-app-deployment/project-overview
 prerequisites:
-  hard: 
-  - k8s/expanding-the-cluster/start-cluster-and-install-helm-cli
+  hard:
+  - k8s/kubernetes/expanding-the-cluster/start-cluster-and-install-helm
   soft: []
 ready: true
+submission_type: continue_repo
+tags:
+- kubernetes
+title: Install cert-manager
 ---
 
 cert-manager is a Kubernetes Controller used to manage certificates. It will substitute the `certbot` we used on the previous chapters.
@@ -95,4 +97,3 @@ kubectl -n cert-manager get pods
 # gets the pods under the `kube-system` namespace
 kubectl -n kube-system get pods
 ```
-

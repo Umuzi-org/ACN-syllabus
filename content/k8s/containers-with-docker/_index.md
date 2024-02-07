@@ -1,6 +1,6 @@
 ---
-title: Containers with Docker and Docker Compose
 content_type: topic
-tags: 
+tags:
 - kubernetes
+title: Containers with Docker and Docker Compose
 ---

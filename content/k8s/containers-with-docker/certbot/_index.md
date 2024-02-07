@@ -1,16 +1,17 @@
 ---
-title: Certbot
-content_type: topic
-tags:
-- kubernetes
+content_type: project
+flavours:
+- none
+from_repo: k8s/manual-app-deployment/project-overview
 prerequisites:
   hard:
   - k8s/containers-with-docker/containers-overview
-flavours:
-- none
 ready: true
+submission_type: continue_repo
+tags:
+- kubernetes
+title: Certbot
 ---
-
 
 To be able to get a TLS certificate for HTTPS we will install certbot and run in certonly mode where it will generate the certificates. Take note of the paths it spits out where it stores the certificate, it should something like:
 

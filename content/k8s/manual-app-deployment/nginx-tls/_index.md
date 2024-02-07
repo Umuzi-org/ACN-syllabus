@@ -1,17 +1,20 @@
 ---
-title: Nginx TLS Setup
 content_type: project
-tags:
-- kubernetes
-- nginx
+flavours:
+- none
+from_repo: k8s/manual-app-deployment/project-overview
 prerequisites:
   hard:
   - k8s/manual-app-deployment/certbot
   - k8s/manual-app-deployment/nginx-installation
+  - k8s/manual-app-deployment/postgresql-installation
   soft: []
 ready: true
 submission_type: continue_repo
-from_repo: k8s/manual-app-deployment/project-overview
+tags:
+- kubernetes
+- nginx
+title: Nginx TLS Setup
 ---
 
 Let's setup TLS on our hello world Nginx server.

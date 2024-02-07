@@ -1,14 +1,14 @@
 ---
-title: Install Docker and Docker Compose
 content_type: topic
-tags:
-- kubernetes
+flavours:
+- none
 prerequisites:
   hard:
   - k8s/containers-with-docker/containers-overview
-flavours:
-- none
 ready: true
+tags:
+- kubernetes
+title: Install Docker and Docker Compose
 ---
 
 To setup Docker and Docker Compose on your EC2 instance, run the following commands:

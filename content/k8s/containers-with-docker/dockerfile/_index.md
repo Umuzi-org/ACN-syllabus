@@ -1,15 +1,17 @@
 ---
-title: Dockerfile
-content_type: topic
-tags: 
-- kubernetes
+content_type: project
 flavours:
 - none
+from_repo: k8s/manual-app-deployment/project-overview
 prerequisites:
-  hard: 
+  hard:
   - k8s/containers-with-docker/certbot
   soft: []
 ready: true
+submission_type: continue_repo
+tags:
+- kubernetes
+title: Dockerfile
 ---
 
 A Dockerfile is a recipe to deploy your code in a light weight virtual machine (container) while using the libraries from the host machine.
@@ -24,7 +26,6 @@ Let's create a couple of new files on the GitHub repository and commit the chang
 
 First, create the Dockerfile for Nginx as `nginx/Dockerfile.`
 
-{% code title="nginx/Dockerfile" %}
 ```
 FROM nginx:latest
 
@@ -37,11 +38,9 @@ EXPOSE 80
 
 CMD ["nginx", "-g", "daemon off;"]
 ```
-{% endcode %}
 
 Create the `nginx/DockerfileDev` file.
 
-{% code title="nginx/DockerfileDev" %}
 ```
 FROM nginx:latest
 
@@ -54,11 +53,9 @@ EXPOSE 80
 
 CMD ["nginx", "-g", "daemon off;"]
 ```
-{% endcode %}
 
 Create the `python/Dockerfile` to build our Python app.
 
-{% code title="python/Dockerfile" %}
 ```
 FROM python:latest
 
@@ -73,15 +70,12 @@ EXPOSE 5000
 
 CMD ["python", "app.py"]
 ```
-{% endcode %}
 
 And create a file stating the Python app dependencies, under `python/requirements.txt` .
 
-{% code title="python/requirements.txt" %}
 ```
 flask
 psycopg2
 ```
-{% endcode %}
 
 Save the files, commit and push the changes to the GitHub repository.

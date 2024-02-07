@@ -1,6 +1,6 @@
 ---
-title: Kubernetes
 content_type: topic
-tags: 
+tags:
 - kubernetes
+title: Kubernetes
 ---

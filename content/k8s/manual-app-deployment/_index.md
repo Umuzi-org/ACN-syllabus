@@ -1,6 +1,6 @@
 ---
-title: Manual App Deployment
 content_type: topic
-tags: 
+tags:
 - kubernetes
+title: Manual App Deployment
 ---

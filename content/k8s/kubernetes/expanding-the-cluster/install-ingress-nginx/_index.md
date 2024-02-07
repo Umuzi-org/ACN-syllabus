@@ -1,15 +1,17 @@
 ---
-title: Install ingress-nginx
-content_type: topic
-tags: 
-- kubernetes
+content_type: project
 flavours:
 - none
+from_repo: k8s/manual-app-deployment/project-overview
 prerequisites:
-  hard: 
-  - k8s/expanding-the-cluster/install-cert-manager
+  hard:
+  - k8s/kubernetes/expanding-the-cluster/install-cert-manager
   soft: []
 ready: true
+submission_type: continue_repo
+tags:
+- kubernetes
+title: Install ingress-nginx
 ---
 
 Let's install ingress-nginx using a Helm chart. It will manage the ingress for us (instead of the default Traefik supplied by K3s, which we disable when creating the cluster). The Ingress will be used to allow external access to internal applications managed by Kubernetes.

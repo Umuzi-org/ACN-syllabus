@@ -1,16 +1,17 @@
 ---
-title: Certbot
 content_type: project
-tags:
-- kubernetes
+flavours:
+- none
+from_repo: k8s/manual-app-deployment/project-overview
 prerequisites:
   hard:
   - k8s/manual-app-deployment/github-setup
-flavours:
-- none
 ready: true
 submission_type: continue_repo
-from_repo: k8s/manual-app-deployment/project-overview
+tags:
+- kubernetes
+- certbot
+title: Install Certbot
 ---
 
 Nowadays, one prerequisite to run a web application is the Transport Layer Security, or TLS, a security protocol which ensures that the data exchanged between the user and server is encrypted. A web application running with TLS becomes a more secure application: HTTP + TLS = HTTPS.

@@ -1,6 +1,6 @@
 ---
-title: Deploy app with manifest file
 content_type: topic
-tags: 
+tags:
 - kubernetes
+title: Deploy app with manifest file
 ---
