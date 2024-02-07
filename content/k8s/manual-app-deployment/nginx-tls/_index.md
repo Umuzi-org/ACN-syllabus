@@ -11,7 +11,7 @@ prerequisites:
   soft: []
 ready: true
 submission_type: continue_repo
-from_repo: k8s/manual-app-deployment/github-setup
+from_repo: k8s/manual-app-deployment/project-overview
 ---
 
 Let's setup TLS on our hello world Nginx server.

@@ -10,7 +10,7 @@ prerequisites:
   soft: []
 ready: true
 submission_type: continue_repo
-from_repo: k8s/manual-app-deployment/setup-ec2
+from_repo: k8s/manual-app-deployment/project-overview
 ---
 
 We will be using GitHub to create and store the files we need through out the course (and use GitHub Actions to automate the deployment later).

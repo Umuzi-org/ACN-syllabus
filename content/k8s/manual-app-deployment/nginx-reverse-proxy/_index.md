@@ -11,7 +11,7 @@ prerequisites:
   soft: []
 ready: true
 submission_type: continue_repo
-from_repo: k8s/manual-app-deployment/python-app-setup
+from_repo: k8s/manual-app-deployment/project-overview
 ---
 
 We will now connect the Nginx and the Python application by configuring Nginx as a reverse proxy, pointing the `/api` route to the Python app local address. With that, we will be able to access the Python app externally at `https://your-domain/api`.

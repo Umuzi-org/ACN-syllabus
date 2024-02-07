@@ -10,7 +10,7 @@ prerequisites:
   soft: []
 ready: true
 submission_type: continue_repo
-from_repo: k8s/manual-app-deployment/nginx-tls
+from_repo: k8s/manual-app-deployment/project-overview
 ---
 
 Let's setup the Python app on your instance.
