@@ -1,6 +1,7 @@
 ---
 content_type: topic
 title: Introduction to Kubernetes
+ready: true
 ---
 
 ## What is Kubernetes?
