@@ -6,6 +6,7 @@ from_repo: k8s/manual-app-deployment/project-overview
 prerequisites:
   hard:
   - k8s/containers-with-docker/certbot
+  - k8s/manual-app-deployment/project-overview
   soft: []
 ready: true
 submission_type: continue_repo

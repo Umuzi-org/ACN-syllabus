@@ -6,6 +6,7 @@ from_repo: k8s/manual-app-deployment/project-overview
 prerequisites:
   hard:
   - k8s/kubernetes/expanding-the-cluster/install-cert-manager
+  - k8s/manual-app-deployment/project-overview
   soft: []
 ready: true
 submission_type: continue_repo

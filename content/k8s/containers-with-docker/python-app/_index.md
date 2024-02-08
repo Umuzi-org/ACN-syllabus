@@ -6,6 +6,7 @@ from_repo: k8s/manual-app-deployment/project-overview
 prerequisites:
   hard:
   - k8s/containers-with-docker/nginx
+  - k8s/manual-app-deployment/project-overview
 ready: true
 submission_type: continue_repo
 tags:
