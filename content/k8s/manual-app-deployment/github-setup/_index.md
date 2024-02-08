@@ -5,7 +5,7 @@ flavours:
 from_repo: k8s/manual-app-deployment/project-overview
 prerequisites:
   hard:
-  - k8s/manual-app-deployment/ec2-setup
+  - k8s/manual-app-deployment/ec2-access
   - k8s/manual-app-deployment/project-overview
   soft: []
 ready: true
