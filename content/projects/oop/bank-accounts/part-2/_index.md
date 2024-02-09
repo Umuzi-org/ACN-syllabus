@@ -2,14 +2,14 @@
 _db_id: 960
 content_type: project
 flavours:
-  - any_language
+- any_language
 from_repo: projects/oop/bank-accounts/part-1
 prerequisites:
   hard:
-    - projects/oop/bank-accounts/part-1
+  - projects/oop/bank-accounts/part-1
 submission_type: continue_repo
 tags:
-  - skill/combined_concept_projects
+- skill/combined_concept_projects
 title: Bank accounts - part 2
 ---
 

@@ -1,11 +1,12 @@
 ---
+_db_id: 104
 title: Kubernetes (A.K.A K8s)
 ---
 
 - {{< contentlink path="k8s/introduction" >}}
 
 - {{< contentlink path="k8s/manual-app-deployment/project-overview" >}}
-- {{< contentlink path="k8s/manual-app-deployment/ec2-setup" >}}
+- {{< contentlink path="k8s/manual-app-deployment/ec2-access" >}}
 - {{< contentlink path="k8s/manual-app-deployment/github-setup" >}}
 - {{< contentlink path="k8s/manual-app-deployment/certbot" >}}
 - {{< contentlink path="k8s/manual-app-deployment/nginx-installation" >}}

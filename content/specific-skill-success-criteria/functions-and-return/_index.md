@@ -2,7 +2,7 @@
 _db_id: 709
 content_type: project
 flavours:
-  - any_language
+- any_language
 ready: true
 submission_type: link
 tags:
