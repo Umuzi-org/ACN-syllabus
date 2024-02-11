@@ -2,9 +2,14 @@
 _db_id: 585
 content_type: project
 flavours:
-  - any_language
+ - none
+protect_main_branch: false
 ready: true
-submission_type: link
+submission_type: repo
+tags:
+ - close_on_peer_reviews
+ - skill/tilde
+ready: true
 title: Understanding the review column
 ---
 
@@ -132,13 +137,19 @@ If the relevant project card(s) aren't complete, you will be red-flagged for thi
 
 On Tilde you will notice that this card is asking for a link submission. **Please don't worry about submitting a link**
 
-## Check your understanding!
+## Please answer the following questions:
 
-- If you are learning to code, when should you put your repo card into the review column?
-- What is the priority of a student who owes reviews to their peers?
-- Why is it important to have high standards when reviewing other people's work?
-- What should you do if there are multiple issues with a project submission?
-- What are the benefits of participating in the review process?
-- What should you do if a staff member disagrees with your review?
-- What are the consequences of marking something as competent and a staff member marking it as not yet competent?
-- How should you prioritize which cards to review first?
+1.  If you are learning to code, when should you put your repo card into the review column?
+2.  What is the priority of a student who owes reviews to their peers?
+3.  Why is it important to have high standards when reviewing other people's work?
+4.  What should you do if there are multiple issues with a project submission?
+5.  What are the benefits of participating in the review process?
+6.  What should you do if a staff member disagrees with your review?
+7.  What are the consequences of marking something as competent and a staff member marking it as not yet competent?
+8.  How should you prioritize which cards to review first?
+
+## How to submit your work
+
+Please follow the following instructions to submit your work:
+
+{{< contentlink path="project-submission-instructions/markdown-questions" >}}
