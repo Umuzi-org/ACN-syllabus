@@ -18,6 +18,7 @@ title: Data engineering boot camp (with automarked katas)
 
 Things after this point are not strictly part of the bootcamp. It's extra stuff people can work on if they are ahead of the curve.
 
+- {{< contentlink path="topics/reopening-pull-request" >}}
 - {{< contentlink path="topics/clean-code/python" >}}
 - {{< contentlink path="projects/tilde/repo-card-tutorial/part-2" >}}
 - {{< contentlink path="projects/katas/level-1" flavour="python" >}}
