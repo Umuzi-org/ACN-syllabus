@@ -2,14 +2,13 @@
 _db_id: 585
 content_type: project
 flavours:
- - none
+- none
 protect_main_branch: false
 ready: true
 submission_type: repo
 tags:
- - close_on_peer_reviews
- - skill/tilde
-ready: true
+- close_on_peer_reviews
+- skill/tilde
 title: Understanding the review column
 ---
 
