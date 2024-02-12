@@ -191,12 +191,6 @@ Some projects can be done in js or typescript. Some projects can be done in any 
 
 The available flavours are specified in `flavours`.
 
-#### <a name="topic"></a> Topic specific stuff
-
-Generally Topics turn into Tilde cards that the student can just move to complete on their own. But sometimes we want a staff member to check on the student and make sure that they did the work to a high enough quality.
-
-`topic_needs_review: true` can be added to a topic's frontmatter to signify this.
-
 #### <a name="goodies"></a> Project specific goodies
 
 The `submission_type` says what form the project should take and describes how the Tilde cards should behave. It can have the following values:
