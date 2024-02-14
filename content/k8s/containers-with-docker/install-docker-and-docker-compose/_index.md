@@ -1,20 +1,26 @@
 ---
 _db_id: 1010
-content_type: topic
+content_type: project
+from_repo: k8s/manual-app-deployment/project-overview
+submission_type: continue_repo
 flavours:
 - none
 prerequisites:
   hard:
+  - k8s/manual-app-deployment/project-overview
   - k8s/containers-with-docker/containers-overview
+  soft: []
 ready: true
 tags:
 - kubernetes
+- docker
 title: Install Docker and Docker Compose
 ---
 
 To setup Docker and Docker Compose on your EC2 instance, run the following commands:
 
-<pre><code># updates the packages index
+```
+# updates the packages index
 sudo apt update
 
 # installs necessary dependencies
@@ -31,8 +37,8 @@ sudo apt install docker-ce -y
 sudo systemctl status docker    
 
 # installs docker compose
-<strong>sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
-</strong>sudo chmod +x /usr/local/bin/docker-compose
+sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+sudo chmod +x /usr/local/bin/docker-compose
 
 # checks the docker compose installation
 docker-compose --version
@@ -44,8 +50,8 @@ sudo gpasswd -a ubuntu docker
 # let's log out from the session and then SSH again into the server
 # to refresh the user's permissions
 logout
-ssh -i &#x3C;key-file> ubuntu@&#x3C;your-domain>
-</code></pre>
+ssh -i <key-file> ubuntu@<your-domain>
+```
 
 Some useful commands to use with Docker:
 
