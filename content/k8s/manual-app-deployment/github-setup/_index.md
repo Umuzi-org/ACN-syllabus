@@ -8,7 +8,6 @@ prerequisites:
   - k8s/manual-app-deployment/project-overview
   soft:
   - k8s/manual-app-deployment/ec2-access
-  - k8s/manual-app-deployment/project-overview
 ready: true
 submission_type: continue_repo
 tags:

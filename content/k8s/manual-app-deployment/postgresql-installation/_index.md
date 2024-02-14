@@ -8,7 +8,6 @@ prerequisites:
   - k8s/manual-app-deployment/project-overview
   soft:
   - k8s/manual-app-deployment/nginx-installation
-  - k8s/manual-app-deployment/project-overview
 ready: true
 submission_type: continue_repo
 tags:

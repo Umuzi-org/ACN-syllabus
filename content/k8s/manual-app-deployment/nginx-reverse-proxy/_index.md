@@ -9,7 +9,6 @@ prerequisites:
   soft:
   - k8s/manual-app-deployment/nginx-tls
   - k8s/manual-app-deployment/python-app-setup
-  - k8s/manual-app-deployment/project-overview
 ready: true
 submission_type: link
 tags:
