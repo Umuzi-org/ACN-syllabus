@@ -4,10 +4,10 @@ flavours:
 - none
 from_repo: k8s/manual-app-deployment/project-overview
 prerequisites:
-  hard:
+  hard: []
+  soft:
   - k8s/manual-app-deployment/ec2-access
   - k8s/manual-app-deployment/project-overview
-  soft: []
 ready: true
 submission_type: continue_repo
 tags:

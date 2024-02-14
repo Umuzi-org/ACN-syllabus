@@ -3,9 +3,9 @@ content_type: project
 flavours:
 - none
 prerequisites:
-  hard:
+  hard: []
+  soft:
   - k8s/containers-with-docker/python-app
-  soft: []
 ready: true
 submission_type: link
 tags:

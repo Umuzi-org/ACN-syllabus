@@ -4,11 +4,11 @@ flavours:
 - none
 from_repo: k8s/manual-app-deployment/project-overview
 prerequisites:
-  hard:
+  hard: []
+  soft:
   - k8s/manual-app-deployment/nginx-tls
   - k8s/manual-app-deployment/python-app-setup
   - k8s/manual-app-deployment/project-overview
-  soft: []
 ready: true
 submission_type: link
 tags:

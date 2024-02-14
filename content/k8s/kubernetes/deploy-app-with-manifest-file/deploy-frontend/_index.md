@@ -5,9 +5,9 @@ flavours:
 from_repo: k8s/manual-app-deployment/project-overview
 prerequisites:
   hard:
-  - k8s/kubernetes/deploy-app-with-manifest-file/install-postgresql
   - k8s/manual-app-deployment/project-overview
-  soft: []
+  soft:
+  - k8s/kubernetes/deploy-app-with-manifest-file/install-postgresql
 ready: true
 submission_type: continue_repo
 tags:

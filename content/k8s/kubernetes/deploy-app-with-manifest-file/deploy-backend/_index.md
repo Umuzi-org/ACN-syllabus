@@ -3,9 +3,9 @@ content_type: project
 flavours:
 - none
 prerequisites:
-  hard:
+  hard: []
+  soft:
   - k8s/kubernetes/deploy-app-with-manifest-file/deploy-frontend
-  soft: []
 ready: true
 submission_type: link
 tags:
