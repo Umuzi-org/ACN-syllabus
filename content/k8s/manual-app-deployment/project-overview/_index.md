@@ -3,7 +3,8 @@ content_type: project
 flavours:
 - none
 prerequisites:
-  hard: []
+  hard:
+  - k8s/manual-app-deployment/project-overview
   soft:
   - k8s/introduction
 ready: true
