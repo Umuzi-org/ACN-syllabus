@@ -6,8 +6,9 @@ flavours:
 from_repo: k8s/manual-app-deployment/project-overview
 prerequisites:
   hard:
-  - k8s/containers-with-docker/docker-compose
   - k8s/manual-app-deployment/project-overview
+  soft:
+  - k8s/containers-with-docker/docker-compose
 ready: true
 submission_type: continue_repo
 tags:

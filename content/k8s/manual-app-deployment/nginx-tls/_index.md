@@ -6,11 +6,11 @@ flavours:
 from_repo: k8s/manual-app-deployment/project-overview
 prerequisites:
   hard:
+  - k8s/manual-app-deployment/project-overview
+  soft:
   - k8s/manual-app-deployment/certbot
   - k8s/manual-app-deployment/nginx-installation
   - k8s/manual-app-deployment/postgresql-installation
-  - k8s/manual-app-deployment/project-overview
-  soft: []
 ready: true
 submission_type: continue_repo
 tags:

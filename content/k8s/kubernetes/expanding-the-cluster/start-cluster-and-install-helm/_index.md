@@ -6,9 +6,9 @@ flavours:
 from_repo: k8s/manual-app-deployment/project-overview
 prerequisites:
   hard:
-  - k8s/kubernetes/k3s-quickstart
   - k8s/manual-app-deployment/project-overview
-  soft: []
+  soft:
+  - k8s/kubernetes/k3s-quickstart
 ready: true
 submission_type: continue_repo
 tags:

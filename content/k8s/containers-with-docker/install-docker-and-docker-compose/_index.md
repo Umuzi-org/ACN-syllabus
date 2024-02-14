@@ -5,6 +5,8 @@ flavours:
 - none
 prerequisites:
   hard:
+  - k8s/manual-app-deployment/project-overview
+  soft:
   - k8s/containers-with-docker/containers-overview
 ready: true
 tags:
