@@ -1,5 +1,4 @@
 ---
-title: Helm Chart
 content_type: project
 flavours:
 - none
@@ -14,6 +13,7 @@ submission_type: continue_repo
 tags:
 - kubernetes
 - helm
+title: Helm Chart
 ---
 
 The first step to create our Helm chart is the folder structure and basic template files. We will call our application `buttons`.

@@ -1,6 +1,6 @@
 ---
-title: Helm Deployment
 content_type: topic
-tags: 
+tags:
 - kubernetes
+title: Helm Deployment
 ---

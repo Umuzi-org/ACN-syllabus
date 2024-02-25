@@ -1,5 +1,4 @@
 ---
-title: Deploy the Frontend
 content_type: project
 flavours:
 - none
@@ -14,6 +13,7 @@ submission_type: continue_repo
 tags:
 - kubernetes
 - helm
+title: Deploy the Frontend with Helm
 ---
 
 To deploy the frontend with Helm, we need 3 things:

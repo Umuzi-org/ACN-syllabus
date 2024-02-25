@@ -1,5 +1,4 @@
 ---
-title: Deploy the Backend
 content_type: project
 flavours:
 - none
@@ -14,6 +13,7 @@ submission_type: continue_repo
 tags:
 - kubernetes
 - helm
+title: Deploy the Backend with Helm
 ---
 
 Let's finish up by deploying our backend. First, update the `python` key under the `helm/buttons/values.yaml` file with the following content:

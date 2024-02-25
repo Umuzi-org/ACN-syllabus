@@ -1,5 +1,4 @@
 ---
-title: Creating the Ingress
 content_type: project
 flavours:
 - none
@@ -14,6 +13,7 @@ submission_type: continue_repo
 tags:
 - kubernetes
 - helm
+title: Creating the Ingress
 ---
 
 Now let's create our Ingress for the frontend and backend, as we did previously.

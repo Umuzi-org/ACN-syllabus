@@ -1,5 +1,4 @@
 ---
-title: Creating the Services
 content_type: project
 flavours:
 - none
@@ -14,6 +13,7 @@ submission_type: continue_repo
 tags:
 - kubernetes
 - helm
+title: Creating the Services
 ---
 
 Let's add the Kubernetes Services to connect the Ingress we just created and the Deployments we will create, as we did in previous chapters.
