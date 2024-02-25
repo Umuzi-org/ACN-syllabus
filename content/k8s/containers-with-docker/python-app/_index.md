@@ -1,20 +1,23 @@
 ---
-title: Python app
-content_type: topic
-tags:
-- kubernetes
-prerequisites:
-  hard:
-  - k8s/containers-with-docker/nginx
+_db_id: 1008
+content_type: project
 flavours:
 - none
+from_repo: k8s/manual-app-deployment/project-overview
+prerequisites:
+  hard:
+  - k8s/manual-app-deployment/project-overview
+  soft:
+  - k8s/containers-with-docker/nginx
 ready: true
+submission_type: continue_repo
+tags:
+- kubernetes
+title: Python App
 ---
-
 
 Replace the `python/app.py` file with the content below. Now, the PostgreSQL credentials will be read from the environment variables.
 
-{% code title="python/app.py" %}
 ```
 from flask import Flask, jsonify
 import psycopg2
@@ -108,6 +111,5 @@ if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)  # Replace with your preferred host and port
 
 ```
-{% endcode %}
 
 Save the files, commit and push the changes to the GitHub repository.

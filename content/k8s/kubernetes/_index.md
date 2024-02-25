@@ -1,6 +1,7 @@
 ---
-title: k3s 
+_db_id: 1026
 content_type: topic
-tags: 
+tags:
 - kubernetes
+title: k3s
 ---

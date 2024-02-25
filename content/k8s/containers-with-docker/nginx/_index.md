@@ -1,21 +1,25 @@
 ---
-title: Nginx
-content_type: topic
-tags:
-- kubernetes
-prerequisites:
-  hard:
-  - k8s/containers-with-docker/docker-compose
+_db_id: 1013
+content_type: project
 flavours:
 - none
+from_repo: k8s/manual-app-deployment/project-overview
+prerequisites:
+  hard:
+  - k8s/manual-app-deployment/project-overview
+  soft:
+  - k8s/containers-with-docker/docker-compose
 ready: true
+submission_type: continue_repo
+tags:
+- kubernetes
+title: Nginx
 ---
 
 Now you need two `nginx.conf` files, one using HTTP for the `dev` environment and using HTTPS for production.
 
 Create `nginx/http-nginx.conf` file:
 
-{% code title="nginx/http-nginx.conf" %}
 ```
 server {
     listen 80;
@@ -30,11 +34,9 @@ server {
     }
 }
 ```
-{% endcode %}
 
 And `nginx/https-nginx.conf`. Change `<your-domain>` with the domain given to you by Umuzi.
 
-{% code title="nginx/https-nginx.conf" %}
 ```
 server {
     listen 80;
@@ -69,6 +71,5 @@ server {
     ssl_dhparam /etc/ssl/certs/dhparam.pem;
 }
 ```
-{% endcode %}
 
 Save the files, commit and push the changes to the GitHub repository.

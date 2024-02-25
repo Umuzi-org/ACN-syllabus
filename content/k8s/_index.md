@@ -1,6 +1,7 @@
 ---
-title: Kubernetes
+_db_id: 1027
 content_type: topic
-tags: 
+tags:
 - kubernetes
+title: Kubernetes
 ---

@@ -3,8 +3,8 @@ _db_id: 634
 content_type: topic
 ready: true
 tags:
-  - Git
-  - skill/git
+- Git
+- skill/git
 title: Getting Git set up
 ---
 

@@ -91,7 +91,6 @@ def check_one_file_frontmatter(file_path):
         "tags",
         "story_points",
         "flavours",
-        "topic_needs_review",
         "ncit_standards",
         "ncit_specific_outcomes",
         "learning_outcomes",

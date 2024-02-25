@@ -1,6 +1,8 @@
 ---
-title: Introduction to Kubernetes
+_db_id: 1005
 content_type: topic
+ready: true
+title: Introduction to Kubernetes
 ---
 
 ## What is Kubernetes?

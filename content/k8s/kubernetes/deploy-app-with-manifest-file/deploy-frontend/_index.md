@@ -1,15 +1,19 @@
 ---
-title: Deploy the Frontend
-content_type: topic
-tags: 
-- kubernetes
+_db_id: 1023
+content_type: project
 flavours:
 - none
+from_repo: k8s/manual-app-deployment/project-overview
 prerequisites:
-  hard: 
-  - k8s/kubernetes/deploy-app-with-manifest-file/deploy-postgres
-  soft: []
+  hard:
+  - k8s/manual-app-deployment/project-overview
+  soft:
+  - k8s/kubernetes/deploy-app-with-manifest-file/install-postgresql
 ready: true
+submission_type: continue_repo
+tags:
+- kubernetes
+title: Deploy the Frontend
 ---
 
 Let's get our frontend (Nginx with the `index.html` file up and running).

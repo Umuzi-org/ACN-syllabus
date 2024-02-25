@@ -1,16 +1,21 @@
 ---
-title: Nginx Reverse Proxy
+_db_id: 999
 content_type: project
+flavours:
+- none
+from_repo: k8s/manual-app-deployment/project-overview
+prerequisites:
+  hard:
+  - k8s/manual-app-deployment/project-overview
+  soft:
+  - k8s/manual-app-deployment/nginx-tls
+  - k8s/manual-app-deployment/python-app-setup
+ready: true
+submission_type: link
 tags:
 - kubernetes
 - nginx
-prerequisites:
-  hard:
-  - k8s/manual-app-deployment/nginx-tls
-  - k8s/manual-app-deployment/python-app-setup
-  soft: []
-ready: true
-submission_type: link
+title: Nginx Reverse Proxy
 ---
 
 We will now connect the Nginx and the Python application by configuring Nginx as a reverse proxy, pointing the `/api` route to the Python app local address. With that, we will be able to access the Python app externally at `https://your-domain/api`.

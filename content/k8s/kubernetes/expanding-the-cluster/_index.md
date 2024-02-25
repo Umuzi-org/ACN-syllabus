@@ -1,6 +1,7 @@
 ---
-title: Expanding the cluster
+_db_id: 1020
 content_type: topic
-tags: 
+tags:
 - kubernetes
+title: Expanding the cluster
 ---

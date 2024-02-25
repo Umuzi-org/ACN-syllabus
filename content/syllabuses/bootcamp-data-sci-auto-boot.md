@@ -20,6 +20,8 @@ Things after this point are not strictly part of the bootcamp. It's extra stuff 
 - {{< contentlink path="coding_aptitude_assessment/coding_challenges/task_8" flavour="python" >}}
 - {{< contentlink path="coding_aptitude_assessment/coding_challenges/task_9" flavour="python" >}}
 - {{< contentlink path="coding_aptitude_assessment/coding_challenges/task_10" flavour="python" >}}
+- {{< contentlink path="topics/reopening-pull-request" >}}
+- {{< contentlink path="projects/tilde/repo-card-tutorial/part-2" >}}
 - {{< contentlink path="projects/katas/level-1" flavour="python" >}}
 - {{< contentlink path="projects/katas/level-2" flavour="python" >}}
 - {{< contentlink path="projects/data-science-specific/statistical-thinking" flavour="python" >}}

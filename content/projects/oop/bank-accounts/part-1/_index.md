@@ -2,14 +2,14 @@
 _db_id: 959
 content_type: project
 flavours:
-  - any_language
+- any_language
 prerequisites:
   hard:
-    - topics/intro-to-assertive-programming
-    - projects/oop/animals/part2
+  - topics/intro-to-assertive-programming
+  - projects/oop/animals/part2
 submission_type: repo
 tags:
-  - skill/combined_concept_projects
+- skill/combined_concept_projects
 title: Bank accounts - part 1
 ---
 

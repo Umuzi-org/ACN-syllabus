@@ -1,15 +1,17 @@
 ---
-title: Deploy the Backend
-content_type: topic
-tags: 
-- kubernetes
+_db_id: 1022
+content_type: project
 flavours:
 - none
 prerequisites:
-  hard: 
-  - k8s/kubernetes/deploy-app-with-manifest-file/deploy-the-frontend
-  soft: []
+  hard: []
+  soft:
+  - k8s/kubernetes/deploy-app-with-manifest-file/deploy-frontend
 ready: true
+submission_type: link
+tags:
+- kubernetes
+title: Deploy the Backend
 ---
 
 Let's deploy our Python app!

@@ -1,15 +1,19 @@
 ---
-title: Start cluster & install Helm CLI
-content_type: topic
-tags: 
-- kubernetes
+_db_id: 1019
+content_type: project
 flavours:
 - none
+from_repo: k8s/manual-app-deployment/project-overview
 prerequisites:
-  hard: 
-  - k8s/kubernetes/quickstart/k3s-quickstart
-  soft: []
+  hard:
+  - k8s/manual-app-deployment/project-overview
+  soft:
+  - k8s/kubernetes/k3s-quickstart
 ready: true
+submission_type: continue_repo
+tags:
+- kubernetes
+title: Start the Cluster & Install Helm
 ---
 
 Let's use a fresh EC2 instance and install K3s and Helm.

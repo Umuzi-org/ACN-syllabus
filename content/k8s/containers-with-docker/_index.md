@@ -1,6 +1,7 @@
 ---
-title: Containers with Docker and Docker Compose
+_db_id: 1011
 content_type: topic
-tags: 
+tags:
 - kubernetes
+title: Containers with Docker and Docker Compose
 ---

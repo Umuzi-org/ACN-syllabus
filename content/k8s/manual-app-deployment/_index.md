@@ -1,6 +1,7 @@
 ---
-title: Manual App Deployment
+_db_id: 1003
 content_type: topic
-tags: 
+tags:
 - kubernetes
+title: Manual App Deployment
 ---

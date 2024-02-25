@@ -1,15 +1,19 @@
 ---
-title: Docker Compose
-content_type: topic
-tags: 
-- kubernetes
+_db_id: 1012
+content_type: project
 flavours:
 - none
+from_repo: k8s/manual-app-deployment/project-overview
 prerequisites:
-  hard: 
+  hard:
+  - k8s/manual-app-deployment/project-overview
+  soft:
   - k8s/containers-with-docker/dockerfile
-  soft: []
 ready: true
+submission_type: continue_repo
+tags:
+- kubernetes
+title: Docker Compose
 ---
 
 Docker Compose helps us orchestrate Docker containers.
@@ -18,7 +22,6 @@ In this project will have 3 containers running: Nginx, Python, PostgreSQL.
 
 Create the `docker-composeDev.yaml` in root of the repository.
 
-{% code title="docker-composeDev.yaml" %}
 ```
 services:
   flask-app:
@@ -51,7 +54,6 @@ services:
       POSTGRES_USER: dbuser
       POSTGRES_PASSWORD: dbpassword
 ```
-{% endcode %}
 
 Create the `docker-compose.yaml` in root of the repository.
 

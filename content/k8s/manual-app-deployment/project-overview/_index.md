@@ -1,14 +1,18 @@
 ---
-title: Bare Bones Deployment Project Overview
-content_type: topic
-tags: 
-- kubernetes
+_db_id: 995
+content_type: project
 flavours:
 - none
 prerequisites:
-  hard: []
-  soft: []
+  hard:
+  - k8s/manual-app-deployment/project-overview
+  soft:
+  - k8s/introduction
 ready: true
+submission_type: repo
+tags:
+- kubernetes
+title: Manual App Deployment – Project Overview
 ---
 
 The project involves setting up a secure web infrastructure by implementing these key components:

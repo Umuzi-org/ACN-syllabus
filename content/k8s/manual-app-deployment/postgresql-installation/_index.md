@@ -1,14 +1,20 @@
 ---
-title: PostgreSQL Installation
-content_type: topic
+_db_id: 1000
+content_type: project
+flavours:
+- none
+from_repo: k8s/manual-app-deployment/project-overview
+prerequisites:
+  hard:
+  - k8s/manual-app-deployment/project-overview
+  soft:
+  - k8s/manual-app-deployment/nginx-installation
+ready: true
+submission_type: continue_repo
 tags:
 - kubernetes
 - postgresql
-prerequisites:
-  hard: 
-  - k8s/manual-app-deployment/nginx-installation
-  soft: []
-ready: true
+title: PostgreSQL Installation
 ---
 
 Let's install PostgreSQL.
