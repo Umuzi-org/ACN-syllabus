@@ -1,6 +1,19 @@
 ---
 title: Creating the Services
-content_type: topic
+content_type: project
+flavours:
+- none
+from_repo: k8s/manual-app-deployment/project-overview
+prerequisites:
+  hard:
+  - k8s/manual-app-deployment/project-overview
+  soft:
+  - k8s/helm-deployment/ingress
+ready: true
+submission_type: continue_repo
+tags:
+- kubernetes
+- helm
 ---
 
 Let's add the Kubernetes Services to connect the Ingress we just created and the Deployments we will create, as we did in previous chapters.

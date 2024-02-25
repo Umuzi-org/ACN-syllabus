@@ -1,6 +1,19 @@
 ---
 title: Creating the Ingress
-content_type: topic
+content_type: project
+flavours:
+- none
+from_repo: k8s/manual-app-deployment/project-overview
+prerequisites:
+  hard:
+  - k8s/manual-app-deployment/project-overview
+  soft:
+  - k8s/helm-deployment/chart
+ready: true
+submission_type: continue_repo
+tags:
+- kubernetes
+- helm
 ---
 
 Now let's create our Ingress for the frontend and backend, as we did previously.

@@ -1,6 +1,19 @@
 ---
 title: Helm Chart
-content_type: topic
+content_type: project
+flavours:
+- none
+from_repo: k8s/manual-app-deployment/project-overview
+prerequisites:
+  hard:
+  - k8s/manual-app-deployment/project-overview
+  soft:
+  - k8s/helm-deployment
+ready: true
+submission_type: continue_repo
+tags:
+- kubernetes
+- helm
 ---
 
 The first step to create our Helm chart is the folder structure and basic template files. We will call our application `buttons`.
