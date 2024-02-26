@@ -22,24 +22,24 @@ In the `helm/buttons/values.yaml` file, add the following below. Remember to sub
 
 ```yaml
 ingress:
-  enabled: true
-  className: nginx
+  enabled: # make true to enable
+  className: # run kubectl get ingressclass and use the value form there
   annotations: 
      nginx.ingress.kubernetes.io/force-ssl-redirect: "true"
-     cert-manager.io/cluster-issuer: letsencrypt-prod
+     cert-manager.io/cluster-issuer: # use the value from kubectl get clusterissuer
   hosts:
-    - host: <your-domain>
+    - host: # this one you'll know by now
       paths:
         - path: /
           pathType: Prefix
           service:
             name: nginx
             port: 80
-        - path: /api
+        - path: # add your prefix here for the backend
           pathType: Prefix
           service:
-            name: python
-            port: 5000
+            name: # your backend service name
+            port: # what port do you want to forward traffic on your backend?
   tls: 
    - secretName: nginx-tls-secret
      hosts:
@@ -96,13 +96,3 @@ Commit your changes, go to your EC2 instance and let's upgrade our Helm installa
 ```
 cd /home/ubuntu/umuzi-k8s/helm
 git pull
-
-# generates the template for visualization, now with the ingress
-helm template buttons buttons
-
-# upgrades the helm installation, since we already installed it in the last chapter
-helm upgrade buttons buttons
-
-# checks if the ingress was created
-kubectl get ingress
-```
