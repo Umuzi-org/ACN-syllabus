@@ -45,60 +45,8 @@ python:
 And create the `helm/buttons/templates/python-deployment.yaml` file with the content below. A few things to notice:
 - We are using the environment variables to connect to the PostgreSQL database
 - Reusing the resource limits from the `nginx` values
-- Checking our application health with the `liveness` and `readiness` probes
-
-```yaml
-apiVersion: apps/v1
-kind: Deployment
-metadata:
-  name: {{ .Values.python.name }}
-  labels:
-    {{- include "button.labels" . | nindent 4 }}
-spec:
-  replicas: {{ .Values.python.replicaCount }}
-  selector:
-    matchLabels:
-      {{- include "button.selectorLabels" . | nindent 6 }}
-      app: {{ .Values.python.name }}
-  template:
-    metadata:
-      {{- with .Values.podAnnotations }}
-      annotations:
-        {{- toYaml . | nindent 8 }}
-      {{- end }}
-      labels:
-        {{- include "button.selectorLabels" . | nindent 8 }}
-        app: {{ .Values.python.name }}
-    spec:
-      {{- with .Values.imagePullSecrets }}
-      imagePullSecrets:
-        {{- toYaml . | nindent 8 }}
-      {{- end }}
-      securityContext:
-        {{- toYaml .Values.podSecurityContext | nindent 8 }}
-      containers:
-        - name: {{ .Chart.Name }}
-          securityContext:
-            {{- toYaml .Values.securityContext | nindent 12 }}
-          image: "{{ .Values.python.image.repository }}:{{ .Values.python.image.tag | default .Chart.AppVersion }}"
-          imagePullPolicy: {{ .Values.python.image.pullPolicy }}
-          ports:
-            - name: http
-              containerPort: {{ .Values.python.service.port }}
-              protocol: TCP
-          livenessProbe:
-            httpGet:
-              path: /health
-              port: http
-          readinessProbe:
-            httpGet:
-              path: /health
-              port: http
-          env:
-            {{- toYaml .Values.python.envs | nindent 12 }}
-          resources:
-            {{- toYaml .Values.resources | nindent 12 }}
-```
+- Checking our application health with the `liveness` and `readiness` probes this time it's on `/health`
+- Remember to add the selector matchLabels so that your service can route
 
 Commit your changes, go to your EC2 instance and let's upgrade our Helm installation with the new resources.
 
