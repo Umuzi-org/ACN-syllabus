@@ -96,3 +96,13 @@ Commit your changes, go to your EC2 instance and let's upgrade our Helm installa
 ```
 cd /home/ubuntu/umuzi-k8s/helm
 git pull
+
+# generates the template for visualization, now with the ingress
+helm template buttons buttons
+
+# upgrades the helm installation, since we already installed it in the last chapter
+helm upgrade buttons buttons
+
+# checks if the ingress was created
+kubectl get ingress
+```
