@@ -6,9 +6,9 @@ flavours:
 from_repo: k8s/manual-app-deployment/project-overview
 prerequisites:
   hard:
-  - k8s/kubernetes/expanding-the-cluster/push-images-harbor
   - k8s/manual-app-deployment/project-overview
-  soft: []
+  soft:
+  - k8s/kubernetes/expanding-the-cluster/push-images-harbor
 ready: true
 submission_type: continue_repo
 tags:

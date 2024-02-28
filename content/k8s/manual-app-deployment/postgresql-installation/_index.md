@@ -6,9 +6,9 @@ flavours:
 from_repo: k8s/manual-app-deployment/project-overview
 prerequisites:
   hard:
-  - k8s/manual-app-deployment/nginx-installation
   - k8s/manual-app-deployment/project-overview
-  soft: []
+  soft:
+  - k8s/manual-app-deployment/nginx-installation
 ready: true
 submission_type: continue_repo
 tags:

@@ -8,8 +8,8 @@ flavours:
 prerequisites:
   hard:
   - k8s/manual-app-deployment/project-overview
+  soft:
   - k8s/containers-with-docker/containers-overview
-  soft: []
 ready: true
 tags:
 - kubernetes

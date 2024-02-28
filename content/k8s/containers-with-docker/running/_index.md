@@ -5,8 +5,9 @@ flavours:
 - none
 prerequisites:
   hard:
+  - k8s/manual-app-deployment/project-overview
+  soft:
   - k8s/containers-with-docker/python-app
-  soft: []
 ready: true
 submission_type: link
 tags:
