@@ -42,23 +42,13 @@ python:
     port: 5000
 ```
 
-And create the `helm/buttons/templates/python-deployment.yaml` file with the content below. A few things to notice:
-- We are using the environment variables to connect to the PostgreSQL database
-- Reusing the resource limits from the `nginx` values
-- Checking our application health with the `liveness` and `readiness` probes this time it's on `/health`
-- Remember to add the selector matchLabels so that your service can route
+## Now a challenge!
+Create the `helm/buttons/templates/python-deployment.yaml` file by yourself. A few things to take into consideration:
+- Use environment variables to connect to the PostgreSQL database
+- Reuse the resource limits from the `nginx` values
+- Check the application health with the `liveness` and `readiness` probes, using the `/health` endpoint
+- Remember to add the `spec.selector.matchLabels` to connect the Deployment to the Service
 
 Commit your changes, go to your EC2 instance and let's upgrade our Helm installation with the new resources.
-
-```
-cd /home/ubuntu/umuzi-k8s/helm
-git pull
-
-# upgrades the helm installation, since we already installed it in the last chapter
-helm upgrade buttons buttons
-
-# checks the created deployment 
-kubectl get deployment
-```
 
 On your browser, go to `https://<your-domain>` and try out the Buttons app, now deployed fully with Helm!

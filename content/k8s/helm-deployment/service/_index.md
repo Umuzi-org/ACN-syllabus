@@ -50,17 +50,7 @@ nginx:
     port: 80
 ```
 
-> Now a challenge! Create yourself the `python-service.yaml` template and change the `values.yaml` file accordingly.
+## Now a challenge!
+Create yourself the `python-service.yaml` template and change the `values.yaml` file accordingly.
 
-Commit your changes, go to your EC2 instance and let's upgrade our Helm installation with the new Services.
-
-```
-cd /home/ubuntu/umuzi-k8s/helm
-git pull
-
-# upgrades the helm installation, since we already installed it in the last chapter
-helm upgrade buttons buttons
-
-# checks if the services were created
-kubectl get service
-```
+Commit your changes, go to your EC2 instance and upgrade the Helm installation with the new Services. If you don't remember the commands, check the {{< contentlink path="k8s/helm-deployment/ingress" >}} for tips!

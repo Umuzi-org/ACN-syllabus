@@ -18,15 +18,15 @@ title: Creating the Ingress
 
 Now let's create our Ingress for the frontend and backend, as we did previously.
 
-In the `helm/buttons/values.yaml` file, add the following below. Remember to substitute `<your-domain>` for the domain given to you by Umuzi.
+In the `helm/buttons/values.yaml` file, add the following below **and complete the missing parts!**
 
 ```yaml
 ingress:
   enabled: # make true to enable
-  className: # run kubectl get ingressclass and use the value form there
+  className: # run `kubectl get ingressclass` and use the value form there
   annotations: 
      nginx.ingress.kubernetes.io/force-ssl-redirect: "true"
-     cert-manager.io/cluster-issuer: # use the value from kubectl get clusterissuer
+     cert-manager.io/cluster-issuer: # use the value from `kubectl get clusterissuer`
   hosts:
     - host: # this one you'll know by now
       paths:
@@ -43,7 +43,7 @@ ingress:
   tls: 
    - secretName: nginx-tls-secret
      hosts:
-       - <your-domain>
+       - # what is the domain you should use here?
 ```
 
 Now create a new file, `helm/buttons/templates/ingress.yaml` and add the following YAML content:

@@ -82,7 +82,7 @@ spec:
 
 Next, let's create a Kubernetes ConfigMap. They are usually used to store a configuration file which is then mounted into the Pod. This is useful if different Pods share the same configuration file or if different environments demand different configuration values.
 
-Let's create the ConfigMap template under `helm/buttons/templates/configmap`:
+Let's create the ConfigMap template under `helm/buttons/templates/configmap.yaml`:
 
 ```yaml
 apiVersion: v1
@@ -130,16 +130,10 @@ resources:
     memory: 128Mi
 ```
 
-Commit your changes, go to your EC2 instance and let's upgrade our Helm installation with the new resources.
+Commit your changes, go to your EC2 instance and upgrade our Helm installation with the new resources. You should know this by now :)
 
+To check your newly created resources:
 ```
-cd /home/ubuntu/umuzi-k8s/helm
-git pull
-
-# upgrades the helm installation, since we already installed it in the last chapter
-helm upgrade buttons buttons
-
-# checks the deployment and configmap created
 kubectl get deployment,configmap
 ```
 
