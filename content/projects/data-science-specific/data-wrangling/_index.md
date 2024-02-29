@@ -104,11 +104,10 @@ df.apply(get_percentage, axis = 1) #axis=1 applies the function to all columns
 - Merge this DataFrame with `personality_score_totals_df`. 
 - Again, use assertion techniques from {{< contentlink path="projects/data-science-specific/assertive-programming-tricks-for-pandas" >}} to check that the newly created merged DataFrame has the expected number of rows and columns. 
 - The merged DataFrame should be named `merged_personality_department_df`
+ 
+5. Filter the merged DataFrame so that you only see the applicants who scored less than 30 on emotional stability, conscientiousness AND agreeableness. Next, assign these applicants the tag "High risk" in a new column called `Risk Status`. All other applicants get the tag "Low risk". The DataFrame here should be named `risk_status_df`.
 
-5. Filter the merged DataFrame so that you only see the applicants who scored less than 30 on emotional stability, conscientiousness AND agreeableness. 
-Next, assign these applicants the tag "Low risk" in a new column called `Risk Status`. All other applicants get the tag "High risk". The DataFrame here should be named `risk_status_df`.
-
-6. Wrangle a new DataFrame with a count of the number of low and high risk applicants within each department. Let each department be a separate column. This new DataFrame should be named `risk_status_summary_df`. If there are no learners in one of the categories, it should be represented by zero and not a null entry. The DataFrame should look something like this:
+7. Wrangle a new DataFrame with a count of the number of low and high risk applicants within each department. Let each department be a separate column. This new DataFrame should be named `risk_status_summary_df`. If there are no learners in one of the categories, it should be represented by zero and not a null entry. The DataFrame should look something like this:
 
 | Risk Status  | Copywriting | Data | Design | Strategy  |  Web Dev |
 | ------------ | ----------  | ---- | ------ | -------   | -------- |
