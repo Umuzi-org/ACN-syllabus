@@ -34,3 +34,10 @@ title: Kubernetes (A.K.A K8s)
 - {{< contentlink path="k8s/kubernetes/deploy-app-with-manifest-file/install-postgresql" >}}
 - {{< contentlink path="k8s/kubernetes/deploy-app-with-manifest-file/deploy-frontend" >}}
 - {{< contentlink path="k8s/kubernetes/deploy-app-with-manifest-file/deploy-backend" >}}
+
+- {{< contentlink path="k8s/helm-deployment" >}}
+- {{< contentlink path="k8s/helm-deployment/chart" >}}
+- {{< contentlink path="k8s/helm-deployment/ingress" >}}
+- {{< contentlink path="k8s/helm-deployment/service" >}}
+- {{< contentlink path="k8s/helm-deployment/deploy-frontend" >}}
+- {{< contentlink path="k8s/helm-deployment/deploy-backend" >}}
