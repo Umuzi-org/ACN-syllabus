@@ -1,6 +1,6 @@
 ---
 _db_id: 1018
-content_type: topic
+content_type: project
 flavours:
 - none
 from_repo: k8s/manual-app-deployment/project-overview
