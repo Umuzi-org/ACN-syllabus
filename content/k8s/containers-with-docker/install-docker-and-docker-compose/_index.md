@@ -1,16 +1,16 @@
 ---
 _db_id: 1010
 content_type: project
-from_repo: k8s/manual-app-deployment/project-overview
-submission_type: continue_repo
 flavours:
 - none
+from_repo: k8s/manual-app-deployment/project-overview
 prerequisites:
   hard:
   - k8s/manual-app-deployment/project-overview
   soft:
   - k8s/containers-with-docker/containers-overview
 ready: true
+submission_type: continue_repo
 tags:
 - kubernetes
 - docker
