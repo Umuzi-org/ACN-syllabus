@@ -1,4 +1,23 @@
-# 4.1.3 Helmrepository source
+---
+content_type: project
+flavours:
+- none
+from_repo: k8s/manual-app-deployment/project-overview
+prerequisites:
+  hard:
+  - k8s/manual-app-deployment/project-overview
+  soft:
+  - k8s/fluxcd/helmrepository-source
+ready: true
+submission_type: continue_repo
+tags:
+- kubernetes
+- fluxcd
+title:Buttons helmrepository source
+---
+
+
+# Buttons helmrepository source
 
 We want to pull from our own helmrepository source so let's add that to our sources
 
@@ -24,7 +43,11 @@ metadata:
   namespace: flux-system
 stringData:
   username: admin
-  password: Harbor54321
+  password: ******
 ```
 
-Yes I know plain text password in the github but we aren't doing SOPS encryption or vault in this course&#x20;
+Yes I know plain text password in the github but we aren't doing SOPS encryption or vault in this course
+
+Make sure your helmrepository shows 
+
+`kubectl -n flux-system get helmrpository'
