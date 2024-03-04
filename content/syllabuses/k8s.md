@@ -41,3 +41,23 @@ title: Kubernetes (A.K.A K8s)
 - {{< contentlink path="k8s/helm-deployment/service" >}}
 - {{< contentlink path="k8s/helm-deployment/deploy-frontend" >}}
 - {{< contentlink path="k8s/helm-deployment/deploy-backend" >}}
+
+- {{< contentlink path="k8s/fluxcd/uninstall-k3s" >}}
+- {{< contentlink path="k8s/fluxcd/setup-postgresql-backend" >}}
+- {{< contentlink path="k8s/fluxcd/start-k3s" >}}
+- {{< contentlink path="k8s/fluxcd/bootstrap-fluxcd" >}}
+- {{< contentlink path="k8s/fluxcd/kustomization" >}}
+- {{< contentlink path="k8s/fluxcd/helmrepository" >}}
+- {{< contentlink path="k8s/fluxcd/cert-manager-helmrepository" >}}
+- {{< contentlink path="k8s/fluxcd/ingress-nginx-helmrepository" >}}
+- {{< contentlink path="k8s/fluxcd/harbor-helmrepository" >}}
+- {{< contentlink path="k8s/fluxcd/cert-manager-helmrelease" >}}
+- {{< contentlink path="k8s/fluxcd/ingress-nginx-helmrelease" >}}
+- {{< contentlink path="k8s/fluxcd/harbor-helmrelease" >}}
+- {{< contentlink path="k8s/fluxcd/create-folder-structure" >}}
+- {{< contentlink path="k8s/fluxcd/apps-kustomization" >}}
+- {{< contentlink path="k8s/fluxcd/helmrepository-source" >}}
+- {{< contentlink path="k8s/fluxcd/apps-kusomtization-again" >}}
+- {{< contentlink path="k8s/fluxcd/buttons-helmrelease" >}}
+- {{< contentlink path="k8s/fluxcd/postgres-helmrelease" >}}
+- {{< contentlink path="k8s/fluxcd/automation" >}}
