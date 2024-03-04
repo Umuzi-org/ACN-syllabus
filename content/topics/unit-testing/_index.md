@@ -10,7 +10,7 @@ title: Unit testing (language agnostic concepts)
 
 The following videos use JavaScript to demonstrate and explain some key concepts around unit testing. Even if JS is not your vibe these are worth watching.
 
-When it comes to foundational coding, a lot of the concepts are the same across different languages. A function is a function is a function. Even though these videos are in JS, they cover things that are very foundational.
+When it comes to foundational coding, a lot of the concepts are the same across different languages. A function is a function. Even though these videos are in JS, they cover things that are very foundational.
 
 The hard part of learning to unit test is learning what makes a good test and learning about what tests are really for. That knowledge translates to all languages.
 
