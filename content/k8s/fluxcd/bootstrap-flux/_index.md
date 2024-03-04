@@ -1,7 +1,22 @@
-# bootstrap-flux
-This is the content of bootstrap-flux.
+---
+content_type: project
+flavours:
+- none
+from_repo: k8s/manual-app-deployment/project-overview
+prerequisites:
+  hard:
+  - k8s/manual-app-deployment/project-overview
+  soft:
+  - k8s/fluxcd/start-k3s
+ready: true
+submission_type: continue_repo
+tags:
+- kubernetes
+- fluxcd
+title: Bootstrap flux
 
-# 4.1.4 Bootstrap flux
+---
+# Bootstrap flux
 
 first we install the fluxcd cli
 
