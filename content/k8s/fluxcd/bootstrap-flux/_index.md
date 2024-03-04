@@ -16,7 +16,7 @@ tags:
 title: Bootstrap flux
 
 ---
-# Bootstrap flux
+## Bootstrap flux
 
 first we install the fluxcd cli
 
@@ -26,7 +26,7 @@ curl -s https://fluxcd.io/install.sh | sudo bash
 
 next create a github personal access token&#x20;
 
-{% embed url="https://docs.github.com/en/enterprise-server@3.9/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens" %}
+ url="https://docs.github.com/en/enterprise-server@3.9/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens" 
 
 ```
 export GITHUB_TOKEN=<gh-token>

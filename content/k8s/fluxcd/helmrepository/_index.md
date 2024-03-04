@@ -16,7 +16,7 @@ tags:
 title: Helmrepository
 ---
 
-# Helmrepository
+## Helmrepository
 
 For flux we need a collection of helmrepositories that pull down helm charts to be available to deploy
 

@@ -17,7 +17,7 @@ title: root kustomization apps
 
 ---
 
-# root kustomization apps 
+## root kustomization apps 
 
 ```
 # apps/kustomization.yaml

@@ -7,17 +7,16 @@ prerequisites:
   hard:
   - k8s/manual-app-deployment/project-overview
   soft:
-  - k8s/fluxcd/helmrepository-source
+  - k8s/fluxcd/root-kustomization-apps
 ready: true
 submission_type: continue_repo
 tags:
 - kubernetes
 - fluxcd
-title:Buttons helmrepository source
+title: Buttons helmrepository source
 ---
 
 
-# Buttons helmrepository source
 
 We want to pull from our own helmrepository source so let's add that to our sources
 

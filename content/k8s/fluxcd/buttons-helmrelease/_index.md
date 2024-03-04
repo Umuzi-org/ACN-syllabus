@@ -1,4 +1,22 @@
-# 4.1.5 buttons helmrelease
+---
+content_type: project
+flavours:
+- none
+from_repo: k8s/manual-app-deployment/project-overview
+prerequisites:
+  hard:
+  - k8s/manual-app-deployment/project-overview
+  soft:
+  - k8s/helm-deployment
+ready: true
+submission_type: continue_repo
+tags:
+- kubernetes
+- helm
+title: buttons helmrelease
+---
+
+ buttons helmrelease
 
 ```
 # apps/buttons/kustomization.yaml
@@ -113,7 +131,7 @@ ingress:
        - chart-example.local
 ```
 
-remember to add you pullsecret to the cluster&#x20;
+remember to add you pullsecret to the cluster
 
 ```
 kubectl -n buttons create secret docker-registry your-regcred --docker-server=https://your.domain.com --docker-username=admin --docker-password=******* --docker-email=your-email@example.com

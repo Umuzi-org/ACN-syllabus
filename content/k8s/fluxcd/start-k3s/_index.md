@@ -17,7 +17,7 @@ title: Start k3s
 
 ---
 
-#  Start k3s
+##  Start k3s
 
 This time around we are starting the k3s cluster without trafik and using the postgres that is running locally, in production likely your postgresdb will be outisde of the cluster and maintained seperately
 

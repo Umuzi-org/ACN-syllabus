@@ -7,7 +7,7 @@ prerequisites:
   hard:
   - k8s/manual-app-deployment/project-overview
   soft:
-  - k8s/fluxcd/bootstrap flux
+  - k8s/fluxcd/bootstrap-flux
 ready: true
 submission_type: continue_repo
 tags:
@@ -16,7 +16,7 @@ tags:
 title: Kustomization
 ---
 
-# Kustomization
+## Kustomization
 
 ```
 kubectl -n flux-system get kustomization

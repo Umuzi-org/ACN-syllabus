@@ -16,13 +16,13 @@ tags:
 title: Helmrelease
 ---
 
----
-description: >-
-  To load a helmchart from a helmrepository using fluxcd's helmcontroller we
-  issue a helmrelease.
----
 
-# Helmrelease cert-manager
+ 
+
+## Helmrelease cert-manager
+
+To load a helmchart from a helmrepository using fluxcd's helmcontroller we
+issue a helmrelease.
 
 To start let's create folders and files for each release
 

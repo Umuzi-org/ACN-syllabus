@@ -16,7 +16,7 @@ tags:
 title: Create folder structure
 ---
 
-# Create folder structure
+## Create folder structure
 
 Finally we are in a position to release our own application
 
@@ -36,3 +36,6 @@ first up create the following files and folders
 |   |-- my-cluster
 |   |   |-- apps.yaml
 ```
+
+
+
