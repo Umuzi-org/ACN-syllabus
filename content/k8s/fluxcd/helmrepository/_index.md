@@ -15,6 +15,7 @@ tags:
 - fluxcd
 title: Helmrepository
 ---
+
 # Helmrepository
 
 For flux we need a collection of helmrepositories that pull down helm charts to be available to deploy
@@ -59,3 +60,27 @@ Wait for the kustomization to apply and check if you can see the helmrepository
 ```
 kubectl -n flux-system get helmrepository
 ```
+
+Now create the files
+```
+# infrastructure/sources/ingress.nginx.yaml
+# infrastructure/sources/harbor.yaml
+```
+Use these links and add the helmrepositories to the cluster
+- ingress-nginx `url: https://kubernetes.github.io/ingress-nginx`
+- harbor `url: https://helm.goharbor.io`
+
+``` 
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
+namespace: flux-system
+resources:
+  - jetstack.yaml
+  - ingress-nginx.yaml
+  - harbor.yaml
+```
+
+You should see 3 items when you run 
+`kubectl -n flux-system get helmrepository` 
+If not try `kubectl -n flux-system get kustomization` and use describe kustomization/helmrepository to debug
+

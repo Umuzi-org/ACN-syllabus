@@ -48,9 +48,7 @@ title: Kubernetes (A.K.A K8s)
 - {{< contentlink path="k8s/fluxcd/bootstrap-fluxcd" >}}
 - {{< contentlink path="k8s/fluxcd/kustomization" >}}
 - {{< contentlink path="k8s/fluxcd/helmrepository" >}}
-- {{< contentlink path="k8s/fluxcd/cert-manager-helmrepository" >}}
-- {{< contentlink path="k8s/fluxcd/ingress-nginx-helmrepository" >}}
-- {{< contentlink path="k8s/fluxcd/harbor-helmrepository" >}}
+- {{< contentlink path="k8s/fluxcd/helmrepository" >}}
 - {{< contentlink path="k8s/fluxcd/cert-manager-helmrelease" >}}
 - {{< contentlink path="k8s/fluxcd/ingress-nginx-helmrelease" >}}
 - {{< contentlink path="k8s/fluxcd/harbor-helmrelease" >}}
