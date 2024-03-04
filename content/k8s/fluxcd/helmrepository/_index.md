@@ -1,7 +1,21 @@
-# helmrepository
-This is the content of helmrepository.
-
-# 4.1.6 Helmrepository
+---
+content_type: project
+flavours:
+- none
+from_repo: k8s/manual-app-deployment/project-overview
+prerequisites:
+  hard:
+  - k8s/manual-app-deployment/project-overview
+  soft:
+  - k8s/fluxcd/kustomization
+ready: true
+submission_type: continue_repo
+tags:
+- kubernetes
+- fluxcd
+title: Helmrepository
+---
+# Helmrepository
 
 For flux we need a collection of helmrepositories that pull down helm charts to be available to deploy
 
@@ -40,7 +54,7 @@ resources:
   - sources
 ```
 
-Wait for the kustomization to apply and check if you can see the helmrepository&#x20;
+Wait for the kustomization to apply and check if you can see the helmrepository
 
 ```
 kubectl -n flux-system get helmrepository
