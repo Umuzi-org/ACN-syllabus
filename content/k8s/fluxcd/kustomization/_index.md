@@ -61,7 +61,11 @@ Here are some useful commands to help with debugging.
 kubectl -n flux-system get kustomization --watch
 ```
 
-You'll need to wait a minute or so and you'll notice the new kustomization rolling out, if you run it with 'kubectl -n flux-system describe kustomization' it tells you that it's missing a file let's add it now
+You'll need to wait a minute or so and you'll notice the new kustomization rolling out, if you run it with `kubectl -n flux-system describe kustomization` it tells you that it's missing a file let's add it now
+
+```
+infrastructure   60s   False     kustomize build failed: kustomization.yaml is empty 
+```
 
 ```
 # infrastructure/kustomization.yaml
