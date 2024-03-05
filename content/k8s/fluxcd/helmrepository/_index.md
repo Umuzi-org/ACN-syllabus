@@ -18,9 +18,9 @@ title: Helmrepository
 
 ## Helmrepository
 
-For flux we need a collection of helmrepositories that pull down helm charts to be available to deploy
+For flux we need a collection of helmrepositories that pull down helm charts to be available to deploy.
 
-create the folder infrastructure/sources along with its kustomization.yaml file
+Create the folder `infrastructure/sources` along with its kustomization.yaml file
 
 ```
 # infrastructure/sources/kustomization.yaml
@@ -33,7 +33,7 @@ resources:
 ```
 
 ```
-# infrastructure/sources/jet-stack.yaml
+# infrastructure/sources/jetstack.yaml
 ---
 apiVersion: source.toolkit.fluxcd.io/v1beta1
 kind: HelmRepository
@@ -44,7 +44,7 @@ spec:
   url: https://charts.jetstack.io
 ```
 
-And finally add the sources fodler to the infrastructure/kustomization.yaml file so that it's not empty and push to main branch again
+And finally add the sources fodler to the `infrastructure/kustomization.yaml` file so that it's not empty and push to main branch again
 
 ```
 # infrastructure/kustomization.yaml
@@ -82,5 +82,5 @@ resources:
 
 You should see 3 items when you run 
 `kubectl -n flux-system get helmrepository` 
-If not try `kubectl -n flux-system get kustomization` and use describe kustomization/helmrepository to debug
+If not try `kubectl -n flux-system get kustomization` and use `describe kustomization/helmrepository etc` to debug
 
