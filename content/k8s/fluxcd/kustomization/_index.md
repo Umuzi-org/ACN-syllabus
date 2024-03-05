@@ -28,7 +28,7 @@ Now we need to add a new kustomization for our base infrastructure
 In the infrastructure directory create the following files
 
 ```
-# clusters/my-cluster/kustomization.yaml
+# clusters/my-cluster/infrastructure.yaml
 ---
 apiVersion: kustomize.toolkit.fluxcd.io/v1
 kind: Kustomization
