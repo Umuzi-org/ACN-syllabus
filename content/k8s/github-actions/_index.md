@@ -5,6 +5,7 @@ tags:
 - github
 - ci-cd
 title: GitHub Actions
+ready: true
 ---
 
 Although in production you would normally operate on multiple repos for this exercise we will use a monorepo structure with folders for code, Helm Charts, and, later, FluxCD. 
