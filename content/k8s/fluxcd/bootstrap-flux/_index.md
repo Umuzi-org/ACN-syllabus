@@ -24,7 +24,7 @@ first we install the fluxCD cli
 curl -s https://fluxcd.io/install.sh | sudo bash
 ```
 
-next create a github personal access token
+next create a github personal access token (We will use the classic token for this course)
 
  url="https://docs.github.com/en/enterprise-server@3.9/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens" 
 
