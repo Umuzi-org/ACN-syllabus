@@ -66,7 +66,8 @@ Now create the files
 # infrastructure/sources/ingress.nginx.yaml
 # infrastructure/sources/harbor.yaml
 ```
-Use these links and add the helmrepositories to the cluster
+
+Within these files, create a HelmRepository resource (like we did in jetstack.yaml) using the following URLs, respectively.
 - ingress-nginx `url: https://kubernetes.github.io/ingress-nginx`
 - harbor `url: https://helm.goharbor.io`
 
