@@ -44,6 +44,8 @@ spec:
   prune: true
 ```
 
+You can use Helm and Kustomize together by embedding Kustomize overlays within a Helm chart. This enables you to benefit from Helm's packaging and release management alongside Kustomize's declarative configuration customization for Kubernetes applications. The combination allows for a more modular and adaptable approach to managing Kubernetes configurations.
+
 You'll notice kustomize tells flux to go and look inside the ./infrastructure folder for further instructions and then it will again look for the kustomization file and follow instructions
 
 Commit to github you can push straight to main branch
