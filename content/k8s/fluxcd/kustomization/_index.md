@@ -50,6 +50,13 @@ You'll notice kustomize tells flux to go and look inside the ./infrastructure fo
 
 Commit to github you can push straight to main branch
 
+Here are some useful commands to help with debugging.
+
+`kubectl -n flux-system describe kustomiztion`
+`kubectl -n flux-system describe helmrepository`
+`kubectl -n flux-system describe helmchart`
+`kubectl -n flux-system describe helmrelease`
+
 ```
 kubectl -n flux-system get kustomization --watch
 ```
