@@ -83,5 +83,5 @@ resources:
 
 You should see 3 items when you run 
 `kubectl -n flux-system get helmrepository` 
-If not try `kubectl -n flux-system get kustomization` and use `describe kustomization/helmrepository etc` to debug
+If not try `kubectl -n flux-system get kustomization` and use `describe kustomization/helmrepository` etc to debug
 

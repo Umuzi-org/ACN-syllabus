@@ -102,6 +102,11 @@ metadata:
   name: cert-manager
 ```
 
+Push this to github first and make sure theat cert-manager is running 
+as you can't load the ClusterIssuer before you have loaded the CRD's 
+
+Now you can add the `issuer.yaml`
+
 ```
 # infrastructure/cert-manager/issuer.yaml
 ---
@@ -113,7 +118,7 @@ metadata:
 spec:
   acme:
     server: https://acme-v02.api.letsencrypt.org/directory
-    email: my@email.com
+    email: `my@email.com`
     privateKeySecretRef:
       name: letsencrypt-prod
     solvers:
@@ -141,7 +146,7 @@ kubectl -n cert-manager get pods
 kubectl -n flux-system get helmchart
 ```
 
-and before we forget we haven't adde the issuer.yaml yet
+and before we forget we haven't added the issuer.yaml yet
 
 ```
 # infrastructure/cert-manager/kustomization.yaml
