@@ -46,6 +46,7 @@ namespace: cert-manager
 resources:
   - namespace.yaml
   - release.yaml
+# - issuer.yaml 
 configMapGenerator:
   - name: values
     files:
@@ -137,6 +138,16 @@ kind: Kustomization
 resources:
   - sources
   - cert-manager
+```
+
+And last but not least we need to add the values.yaml
+```
+# infrastructure/cert-manager/values.yaml
+
+installCRDs: true
+ingressShim:
+  defaultIssuerName: letsencrypt-prod       
+  ingressShim.defaultIssuerKind: ClusterIssuer
 ```
 
 git push to your main branch and you should notice the containers rollout in cert-manager namespace
