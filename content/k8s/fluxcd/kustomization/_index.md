@@ -19,6 +19,15 @@ title: Kustomization
 ## Kustomization
 
 ```
+|-- infrastructure
+|   |-- my-cluster
+|   |   |-- kustomization.yaml
+|-- infrastructure
+|   |-- kustomization.yaml
+```
+
+
+```
 kubectl -n flux-system get kustomization
 kubectl -n flux-system describe kustomization
 ```
