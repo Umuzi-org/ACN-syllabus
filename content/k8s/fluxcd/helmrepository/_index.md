@@ -63,7 +63,7 @@ kubectl -n flux-system get helmrepository
 
 Now create the files
 ```
-# infrastructure/sources/ingress.nginx.yaml
+# infrastructure/sources/ingress-nginx.yaml
 # infrastructure/sources/harbor.yaml
 ```
 
