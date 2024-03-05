@@ -11,12 +11,12 @@ submission_type: continue_repo
 tags:
 - kubernetes
 - fluxcd
-title: Unistall k3s
+title: Unistall K3s
 
 ---
 
 
-## Unistall k3s
+## Unistall K3s
 
   Let's start by nuking the cluster as we have no idea what the true state is
   and we can start fresh

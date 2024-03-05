@@ -20,7 +20,7 @@ title: Setup postgresql backend
 
 ## Setup postgresql backend
 
-When no flags are used when starting k3s it uses a sqlite backend that's not very stable and quickly fails. To give us a more sturdy backend let's use postgressql instead.
+When no flags are used when starting K3s it uses a sqlite backend that's not very stable and quickly fails. To give us a more sturdy backend let's use postgressql instead.
 
 ```
 # logs in as the `postgres` user

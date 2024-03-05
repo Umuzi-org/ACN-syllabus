@@ -13,10 +13,10 @@ submission_type: continue_repo
 tags:
 - kubernetes
 - fluxcd
-title: postgresql buttons
+title: PostgreSQL buttons
 ---
 
-# postgresql buttons
+# PostgreSQL buttons
 
 You'll notice your front end starts and your backend can't start because it can't find the postgres secret and that is likely because you don't have postgressql helm chart installed
 
