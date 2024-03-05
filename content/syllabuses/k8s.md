@@ -41,3 +41,9 @@ title: Kubernetes (A.K.A K8s)
 - {{< contentlink path="k8s/helm-deployment/service" >}}
 - {{< contentlink path="k8s/helm-deployment/deploy-frontend" >}}
 - {{< contentlink path="k8s/helm-deployment/deploy-backend" >}}
+
+- {{< contentlink path="k8s/github-actions" >}}
+- {{< contentlink path="k8s/github-actions/github-configuration" >}}
+- {{< contentlink path="k8s/github-actions/frontend" >}}
+- {{< contentlink path="k8s/github-actions/backend" >}}
+- {{< contentlink path="k8s/github-actions/helm" >}}
