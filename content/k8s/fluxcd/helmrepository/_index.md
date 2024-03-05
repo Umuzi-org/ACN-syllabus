@@ -44,7 +44,7 @@ spec:
   url: https://charts.jetstack.io
 ```
 
-And finally add the sources fodler to the `infrastructure/kustomization.yaml` file so that it's not empty and push to main branch again
+And finally add the sources folder to the `infrastructure/kustomization.yaml` file so that it's not empty and push to main branch again
 
 ```
 # infrastructure/kustomization.yaml
