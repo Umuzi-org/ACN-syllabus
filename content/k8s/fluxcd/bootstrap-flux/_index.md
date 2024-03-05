@@ -49,3 +49,8 @@ A few things are happening here
 * Fluxcd does a git clone and applies the kustomization along with the helm charts specified
 * This is the deployment step from now on everything will be done inside the repo that way we can always keep track of the cluster state and it will always be easy to rebuild in case of disaster recovery needed
 
+```
+# remember to pull the commit that flux made before continuing
+git pull 
+```
+
