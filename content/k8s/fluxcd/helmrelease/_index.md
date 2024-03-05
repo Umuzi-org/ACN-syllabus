@@ -55,6 +55,8 @@ configurations:
   - kustomizeconfig.yaml
 ```
 
+`Note that you leave out the issuer.yaml until after cert-manager is started then apply later`
+
 ```
 # infrastructure/cert-manager/kuztomizeconfig.yaml
 ---
@@ -106,7 +108,7 @@ metadata:
 Push this to github first and make sure theat cert-manager is running 
 as you can't load the ClusterIssuer before you have loaded the CRD's 
 
-Now you can add the `issuer.yaml`
+Now you can add the `issuer.yaml` and change your email
 
 ```
 # infrastructure/cert-manager/issuer.yaml
