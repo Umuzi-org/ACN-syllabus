@@ -42,7 +42,7 @@ scores = [80, 60, 78, 79, 48, 95, 90, 87, 100, 89]
 - Ensure that the notebook has an introduction at the beginning, explanations for every answered question, and a conclusion at the end.
 - The learner should not use external libraries like the statistics or numpy module for their calculations. Their calculations should be done using python
 
-External Resources:
+## External Resources:
 Please review below link to take deep dive inside it:
 
 https://statisticsbyjim.com/basics/measures-central-tendency-mean-median-mode/
