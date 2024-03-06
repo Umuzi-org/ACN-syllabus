@@ -18,7 +18,7 @@ title: Apps kustomization
 
 # Apps kustomization
 
-The reason we split your workload from the infrastructure is we can reuse a base template infrastructure to fire up aditional clusters, think staging, UAT, QA, pre-prod, production, we can use kustomize to fine tune any environment specific needs like use this base except change the NLB annotations etc.
+The reason we split your workload from the infrastructure is we can reuse a base template infrastructure to fire up additional clusters, think staging, UAT, QA, pre-prod, production, we can use kustomize to fine tune any environment specific needs like use this base except change the NLB annotations etc.
 
 ````
 # clusters/my-cluster/apps.yaml

@@ -22,7 +22,7 @@ title: Setup postgresql backend
 
 When no flags are used when starting K3s it uses a sqlite backend that's not very stable and quickly fails. To give us a more sturdy backend let's use PostgreSQL instead.
 
-It may thrown an error if you don't have PostgreSQL installed, go find the card from an earlier excorcise and install postgres on the host machine.
+It may have thrown an error if you don't have PostgreSQL installed, go find the card from an earlier exercise and install postgres on the host machine.
 
 ```
 # logs in as the `postgres` user
@@ -31,7 +31,7 @@ sudo -i -u postgres
 # opens the PostgreSQL shell
 psql
 
-# creates the databse
+# creates the database
 CREATE DATABASE kubernetes;
 
 # creates the user/password

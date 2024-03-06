@@ -18,7 +18,7 @@ title: PostgreSQL buttons
 
 # PostgreSQL buttons
 
-You'll notice your front end starts and your backend can't start because it can't find the postgres secret and that is likely because you don't have postgressql helm chart installed
+You'll notice your front end starts and your backend can't start because it can't find the PostgreSQL secret and that is likely because you don't have postgressql helm chart installed
 
 So let's start by adding the source for bitnami
 
@@ -34,7 +34,7 @@ spec:
   url: https://charts.bitnami.com/bitnami
 ```
 
-Remeber the kustomization.yaml
+Remember the kustomization.yaml
 
 ```
 # infrastructure/sources/kustomization.yaml
@@ -79,5 +79,5 @@ spec:
         auth:
           database: dbname
 
-# notice the different way of refrencing the values file
+# notice the different way of referencing the values file
 ```

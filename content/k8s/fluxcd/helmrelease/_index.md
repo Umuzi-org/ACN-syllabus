@@ -105,7 +105,7 @@ metadata:
   name: cert-manager
 ```
 
-Push this to github first and make sure theat cert-manager is running 
+Push this to github first and make sure that cert-manager is running 
 as you can't load the ClusterIssuer before you have loaded the CRD's 
 
 Now you can add the `issuer.yaml` and change your email

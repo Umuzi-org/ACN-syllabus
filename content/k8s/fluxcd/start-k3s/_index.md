@@ -19,7 +19,7 @@ title: Start K3s
 
 ##  Start K3s
 
-This time around we are starting the K3s cluster without Traefik and using the PostgreSQL that is running locally, in production likely your postgresdb will be outisde of the cluster and maintained seperately
+This time around we are starting the K3s cluster without Traefik and using the PostgreSQL that is running locally, in production likely your postgres database will be outside of the cluster and maintained separately
 
 ```
 sudo curl -sfL https://get.k3s.io | INSTALL_K3S_EXEC="server --disable=traefik --datastore-endpoint=postgres://k3s:yourpassword@localhost:5432/kubernetes" sh -
