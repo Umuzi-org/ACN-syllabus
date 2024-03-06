@@ -18,6 +18,6 @@ Statistics is a foundational discipline that plays a pivotal role in the field o
 - **Data Visualization**: Statistics is intricately linked to data visualization, where graphical representations aid in comprehending complex datasets. Visualizations, including histograms, box plots, and scatter plots, contribute to a clearer understanding of data distribution and patterns.
 
 ## Learning Objectives 💪
-Acquire a foundational understanding of statistics and familiarize yourself with key statistical concepts. 
-Equip yourself with fundamental conceptual knowledge before engaging in the practical application of statistics. 
-Recognize that statistics is both a science and an art, encompassing both theoretical principles and practical skills. 
+- Acquire a foundational understanding of statistics and familiarize yourself with key statistical concepts. 
+- Equip yourself with fundamental conceptual knowledge before engaging in the practical application of statistics. 
+- Recognize that statistics is both a science and an art, encompassing both theoretical principles and practical skills. 
