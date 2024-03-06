@@ -18,6 +18,9 @@ title: Kustomization
 
 ## Kustomization
 
+
+Kustomize, a configuration management tool native to Kubernetes, streamlines the customization and management of Kubernetes manifests. Its overlays prove invaluable when configuring multiple clusters using the same kustomization files. With Kustomize, users can efficiently tailor Kubernetes configurations without directly altering original YAML files. This approach enhances modularity and eases maintenance by separating desired changes into overlay files, making it ideal for consistent deployment across diverse clusters. In essence, Kustomize is a powerful tool that significantly improves the flexibility and scalability of Kubernetes configurations, facilitating smoother operations in multi-cluster environments.
+
 ```
 |-- infrastructure
 |   |-- my-cluster
