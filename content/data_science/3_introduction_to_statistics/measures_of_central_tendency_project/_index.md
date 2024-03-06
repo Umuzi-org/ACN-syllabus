@@ -20,12 +20,13 @@ We will not only be assessing your code but also how you structure and present y
 
 Your repo should contain everything needed to replicate your work. It's good practice to structure your files well, so we'll expect you to have a separate directory for "notebook", so that your final file structure looks something like this:
 
+```
 ├──notebook
-│  └── central_tendency_notebook.ipynb
+│  └──central_tendency_notebook.ipynb
 ├──README.md
 ├──requirements.txt
 └──.gitignore 
-
+```
 ## Instructions
 Imagine you have a dataset representing the scores of students in a class. The assignment is to calculate and present key measures of central tendency. 
 
