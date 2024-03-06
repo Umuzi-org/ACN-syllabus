@@ -47,6 +47,7 @@ title: Kubernetes (A.K.A K8s)
 - {{< contentlink path="k8s/github-actions/frontend" >}}
 - {{< contentlink path="k8s/github-actions/backend" >}}
 - {{< contentlink path="k8s/github-actions/helm" >}}
+
 - {{< contentlink path="k8s/fluxcd/uninstall-k3s" >}}
 - {{< contentlink path="k8s/fluxcd/setup-postgresql-backend" >}}
 - {{< contentlink path="k8s/fluxcd/start-k3s" >}}
