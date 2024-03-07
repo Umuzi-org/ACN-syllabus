@@ -13,11 +13,11 @@ submission_type: continue_repo
 tags:
 - kubernetes
 - fluxcd
-title: root kustomization apps
+title: Root kustomization apps
 
 ---
 
-## root kustomization apps 
+## Root kustomization apps 
 
 ```
 # apps/kustomization.yaml
