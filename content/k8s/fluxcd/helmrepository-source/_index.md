@@ -30,7 +30,7 @@ metadata:
   namespace: flux-system
 spec:
   interval: 5m0s
-  url: oci://<myUrl.com>/application
+  url: oci://<myUrl.com>/application # Remember to update to your Harbor url
   type: "oci"
   secretRef:
     name: oci-creds
