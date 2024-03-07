@@ -104,7 +104,7 @@ python:
   name: python
   envs:
     - name: DB_HOST
-      value: "postgresql.default.svc.cluster.local" 
+      value: "postgres-postgresql.buttons.svc.cluster.local" 
     - name: DB_NAME
       value: dbname
     - name: DB_USER
