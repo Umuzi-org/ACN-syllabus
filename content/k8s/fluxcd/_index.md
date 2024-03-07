@@ -2,6 +2,7 @@
 content_type: topic
 tags:
 - kubernetes
+ready: true
 title: Continues deployment using fluxcd
 ---
 
