@@ -124,12 +124,12 @@ ingress:
     - host: <your-domain>
       paths:
         - path: /
-          pathType: ImplementationSpecific
+          pathType: Prefix
           service:
             name: "nginx"
             port: 80
         - path: /api
-          pathType: ImplementationSpecific
+          pathType: Prefix
           service:
             name: "python"
             port: 5000
