@@ -143,3 +143,6 @@ remember to add you pullsecret to the cluster
 ```
 kubectl -n buttons create secret docker-registry your-regcred --docker-server=https://your.domain.com --docker-username=admin --docker-password=******* --docker-email=your-email@example.com
 ```
+
+As we nuked the cluster at the beggining of this project you will need to set up the "application" project in harbor again as well as re-run your GitHub Actions to get the images in to the new cluster.
+
