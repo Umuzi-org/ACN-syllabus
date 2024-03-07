@@ -112,7 +112,7 @@ python:
     - name: DB_PASSWORD
       valueFrom:
         secretKeyRef:
-          name: postgresql
+          name: postgres-postgresql
           key: postgres-password
 
 ingress:
