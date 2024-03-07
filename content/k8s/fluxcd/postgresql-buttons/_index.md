@@ -51,7 +51,7 @@ resources:
   - bitnami.yaml
 ```
 
-you can push that up so long and then we can add the release
+You can push that up so long and then we can add the release.
 
 ```
 # apps/buttons/postgres.yaml
