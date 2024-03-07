@@ -19,6 +19,8 @@ title: Root kustomization apps
 
 ## Root kustomization apps 
 
+Before your application will load you'll need to add the kustomization file in the root of apps/ directory.
+
 ```
 # apps/kustomization.yaml
 ---
