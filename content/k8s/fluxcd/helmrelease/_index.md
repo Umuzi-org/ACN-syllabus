@@ -112,13 +112,13 @@ as you can't load the ClusterIssuer before you have loaded the CRD's
 Now remember to add the folder in the infrastructure kustomization
 
 ```
-# infrastructure/kustomization.yaml
----
-apiVersion: kustomize.config.k8s.io/v1beta1
-kind: Kustomization
-resources:
-  - sources
-  - cert-manager
+  # infrastructure/kustomization.yaml
+  ---
+  apiVersion: kustomize.config.k8s.io/v1beta1
+  kind: Kustomization
+  resources:
+    - sources
+    - cert-manager
 ```
 
 And last but not least we need to add the values.yaml
@@ -185,7 +185,7 @@ And finally confirm it deployed
 kubectl -n cert-manager get clusterissuer
 ```
 
-Now add helmreleases for nginx and harbor by yourself. 
+## Now add helmreleases for nginx and harbor by yourself. 
 
 
 ** ps. remember to add folders in the root kustomization so that flux can pick it up
