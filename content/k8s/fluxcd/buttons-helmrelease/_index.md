@@ -85,7 +85,7 @@ spec:
       name: values
 ```
 
-The values file we take the values.yaml from the helm chart and overwrite with our own user supplied values
+The values file we take the values.yaml from the helm chart and overwrite with our own user supplied values.
 
 ```
 # apps/buttons/values.yaml
