@@ -13,10 +13,10 @@ submission_type: continue_repo
 tags:
 - kubernetes
 - helm
-title: buttons helmrelease
+title: Buttons helmrelease
 ---
 
- buttons helmrelease
+## Buttons helmrelease
 
 ```
 # apps/buttons/kustomization.yaml
