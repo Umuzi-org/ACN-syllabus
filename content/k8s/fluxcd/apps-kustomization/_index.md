@@ -23,7 +23,7 @@ The reason we split your workload from the infrastructure is we can reuse a base
 I want exactly these helm charts but replace dev.k8s-course.co.za with staging.k8s-course.co.za 
 
 
-````
+```
 # clusters/my-cluster/apps.yaml
 ---
 apiVersion: kustomize.toolkit.fluxcd.io/v1
