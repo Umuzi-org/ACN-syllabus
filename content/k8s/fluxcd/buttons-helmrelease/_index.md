@@ -7,7 +7,7 @@ prerequisites:
   hard:
   - k8s/manual-app-deployment/project-overview
   soft:
-  - k8s/helm-deployment
+  - k8s/fluxcd/root-kustomization-apps
 ready: true
 submission_type: continue_repo
 tags:
