@@ -45,8 +45,10 @@ stringData:
   password: harbor12345
 ```
 
+Remember to add buttons.yaml to your `infrastructure/sources/kustomization.yaml` file
+
 Yes I know plain text password in the GitHub but we aren't doing Mozilla SOPS encryption or Hashicorp Vault in this course.
 
 Make sure your helmrepository shows 
 
-`kubectl -n flux-system get helmrpository'
+`kubectl -n flux-system get helmrepository'
