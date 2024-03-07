@@ -90,6 +90,8 @@ The values file we take the values.yaml from the helm chart and overwrite with o
 ```
 # apps/buttons/values.yaml
 ---
+imagePullSecrets:
+  - name: your-regcred
 nginx:
   image:
     repository: harbor.<your-domain>/application/nginx
@@ -138,7 +140,7 @@ ingress:
        - <your-domain>
 ```
 
-remember to add you pullsecret to the cluster
+remember to add your `imagePullSecrets` to the cluster to pull images from the Harbor registry.
 
 ```
 kubectl -n buttons create secret docker-registry your-regcred --docker-server=https://your.domain.com --docker-username=admin --docker-password=******* --docker-email=your-email@example.com
