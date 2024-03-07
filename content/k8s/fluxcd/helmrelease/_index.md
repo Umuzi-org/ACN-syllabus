@@ -187,7 +187,11 @@ kubectl -n cert-manager get clusterissuer
 
 Now add helmreleases for nginx and harbor by yourself. 
 
+
 ** ps. remember to add folders in the root kustomization so that flux can pick it up
+
+Running 'flux events' is great for debugging
+
 ```
 # infrastructure/kustomization.yaml
   - sources
