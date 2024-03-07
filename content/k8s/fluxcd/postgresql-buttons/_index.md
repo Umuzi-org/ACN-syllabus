@@ -83,4 +83,6 @@ spec:
 # notice the different way of referencing the values file
 ```
 
+PS. Remember to add the folder to your kustomization.yaml
+
 After PostgreSQL starts up your backend should have a database to log in to so if you delete the pod one more time hopefully it will start up and if you ingress is configured correctly your counter will start working.
