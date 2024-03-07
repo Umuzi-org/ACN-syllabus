@@ -18,7 +18,7 @@ title: Buttons helmrepository source
 
 
 
-We want to pull from our own helmrepository source so let's add that to our sources
+We want to pull from our own helmrepository source so let's add that to our sources.
 
 ```
 # infrastructure/sources/buttons.yaml
