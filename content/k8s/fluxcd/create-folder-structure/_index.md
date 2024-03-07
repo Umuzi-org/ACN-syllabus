@@ -32,7 +32,7 @@ first up create the following files and folders.
 |   |   |-- values.yaml
 |   |   |-- namespace.yaml
 |   |   |-- issuer.yaml
-|-- clusters/my-cluster/apps.yaml
+|-- clusters
 |   |-- my-cluster
 |   |   |-- apps.yaml
 ```
