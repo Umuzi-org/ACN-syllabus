@@ -20,7 +20,8 @@ title: PostgreSQL buttons
 
 You'll notice your front end starts and your backend can't start because it can't find the PostgreSQL secret and that is likely because you don't have postgressql helm chart installed
 
-So let's start by adding the source for bitnami
+Many of the awesome helm charts you'll use was developed by Bitnami so let's start by loading the source helmRepository.
+
 
 ```
 # infrastructucture/sources/bitnami.yaml
