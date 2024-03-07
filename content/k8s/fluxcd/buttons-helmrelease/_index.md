@@ -93,11 +93,11 @@ The values file we take the values.yaml from the helm chart and overwrite with o
 nginx:
   image:
     repository: your_domain.com/application/nginx
-    tag: {myLatestTag}
+    tag: {myLatestTag} # this is the latest tag from Harbor
 python:
   image:
     repository: ross-docker.whatever.beer/application/python
-    tag: {myLatestTag}
+    tag: {myLatestTag} # this is the latest tag from Harbor
   name: nginx
   name: python
   envs:
