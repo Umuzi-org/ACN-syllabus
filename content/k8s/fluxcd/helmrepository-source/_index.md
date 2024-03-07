@@ -45,7 +45,7 @@ stringData:
   password: harbor12345
 ```
 
-Yes I know plain text password in the github but we aren't doing SOPS encryption or vault in this course
+Yes I know plain text password in the GitHub but we aren't doing Mozilla SOPS encryption or Hashicorp Vault in this course.
 
 Make sure your helmrepository shows 
 
