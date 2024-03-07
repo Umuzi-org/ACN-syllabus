@@ -120,7 +120,7 @@ ingress:
      nginx.ingress.kubernetes.io/force-ssl-redirect: "true"
      cert-manager.io/cluster-issuer: letsencrypt-prod
   hosts:
-    - host: chart-example.local
+    - host: <your-domain>
       paths:
         - path: /
           pathType: ImplementationSpecific
@@ -135,7 +135,7 @@ ingress:
   tls: 
    - secretName: chart-example-tls
      hosts:
-       - chart-example.local
+       - <your-domain>
 ```
 
 remember to add you pullsecret to the cluster
