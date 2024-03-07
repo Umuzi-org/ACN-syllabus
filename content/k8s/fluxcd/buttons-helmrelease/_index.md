@@ -125,6 +125,11 @@ ingress:
           service:
             name: "nginx"
             port: 80
+        - path: /api
+          pathType: ImplementationSpecific
+          service:
+            name: "python"
+            port: 5000
   tls: 
    - secretName: chart-example-tls
      hosts:
