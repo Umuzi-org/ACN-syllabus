@@ -42,7 +42,7 @@ metadata:
   namespace: flux-system
 stringData:
   username: admin
-  password: ******
+  password: harbor12345
 ```
 
 Yes I know plain text password in the github but we aren't doing SOPS encryption or vault in this course
