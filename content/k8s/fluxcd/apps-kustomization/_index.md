@@ -32,7 +32,7 @@ metadata:
   name: apps
   namespace: flux-system
 spec:
-  interval: 10m0s
+  interval: 30s
   sourceRef:
     kind: GitRepository
     name: flux-system
