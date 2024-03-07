@@ -51,4 +51,4 @@ Yes I know plain text password in the GitHub but we aren't doing Mozilla SOPS en
 
 Make sure your helmrepository shows 
 
-`kubectl -n flux-system get helmrepository'
+`kubectl -n flux-system get helmrepository`
