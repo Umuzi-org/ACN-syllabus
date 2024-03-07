@@ -93,6 +93,7 @@ The values file we take the values.yaml from the helm chart and overwrite with o
 imagePullSecrets:
   - name: your-regcred
 nginx:
+  name: nginx
   image:
     repository: harbor.<your-domain>/application/nginx
     tag: {myLatestTag} # this is the latest tag from Harbor
@@ -100,7 +101,6 @@ python:
   image:
     repository: harbor.<your-domain>/application/python
     tag: {myLatestTag} # this is the latest tag from Harbor
-  name: nginx
   name: python
   envs:
     - name: DB_HOST
