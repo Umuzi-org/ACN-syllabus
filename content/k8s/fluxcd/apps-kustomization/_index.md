@@ -39,4 +39,3 @@ spec:
   path: ./apps
   prune: true
 ```
-````
