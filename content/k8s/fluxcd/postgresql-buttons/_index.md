@@ -7,7 +7,7 @@ prerequisites:
   hard:
   - k8s/manual-app-deployment/project-overview
   soft:
-  - k8s/fluxcd/root-apps-kustomization
+  - k8s/fluxcd/buttons-helmrelease
 ready: true
 submission_type: continue_repo
 tags:
