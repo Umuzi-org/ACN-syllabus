@@ -108,27 +108,6 @@ metadata:
 Push this to github first and make sure that cert-manager is running 
 as you can't load the ClusterIssuer before you have loaded the CRD's 
 
-Now you can add the `issuer.yaml` and change your email
-
-```
-# infrastructure/cert-manager/issuer.yaml
----
-apiVersion: cert-manager.io/v1
-kind: ClusterIssuer
-metadata:
-  name: letsencrypt-prod
-  namespace: cert-manager
-spec:
-  acme:
-    server: https://acme-v02.api.letsencrypt.org/directory
-    email: `my@email.com`
-    privateKeySecretRef:
-      name: letsencrypt-prod
-    solvers:
-      - http01:
-          ingress:
-            ingressClassName: nginx
-```
 
 Now remember to add the folder in the infrastructure kustomization
 
@@ -159,7 +138,28 @@ kubectl -n cert-manager get pods
 kubectl -n flux-system get helmchart
 ```
 
-and before we forget we haven't added the issuer.yaml yet
+Now you can add the `issuer.yaml` and change your email
+
+```
+# infrastructure/cert-manager/issuer.yaml
+---
+apiVersion: cert-manager.io/v1
+kind: ClusterIssuer
+metadata:
+  name: letsencrypt-prod
+  namespace: cert-manager
+spec:
+  acme:
+    server: https://acme-v02.api.letsencrypt.org/directory
+    email: `my@email.com`
+    privateKeySecretRef:
+      name: letsencrypt-prod
+    solvers:
+      - http01:
+          ingress:
+            ingressClassName: nginx
+```
+Then add the file to your kusotmization so that it can get included in the build
 
 ```
 # infrastructure/cert-manager/kustomization.yaml
