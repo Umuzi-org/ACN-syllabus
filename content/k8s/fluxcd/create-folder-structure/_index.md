@@ -18,9 +18,9 @@ title: Create folder structure
 
 ## Create folder structure
 
-Finally we are in a position to release our own application
+Finally we are in a position to release our own application,
 
-first up create the following files and folders
+first up create the following files and folders.
 
 ```
 |-- apps
