@@ -13,7 +13,7 @@ submission_type: continue_repo
 tags:
 - kubernetes
 - fluxcd
-title: Automation
+-- title: Automation
 
 # Automation
 
