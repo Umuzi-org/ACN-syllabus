@@ -35,6 +35,8 @@ kubectl get secret your-regcred -n buttons -o yaml | sed 's/namespace: buttons/n
 
 Create the file and append each section in the same file.
 
+Remember to add the - automation.yaml to your `apps/kustomization.yaml` file.
+
 ```
 # apps/automation.yaml
 ---
