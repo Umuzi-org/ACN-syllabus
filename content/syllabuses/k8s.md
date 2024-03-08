@@ -47,3 +47,19 @@ title: Kubernetes (A.K.A K8s)
 - {{< contentlink path="k8s/github-actions/frontend" >}}
 - {{< contentlink path="k8s/github-actions/backend" >}}
 - {{< contentlink path="k8s/github-actions/helm" >}}
+
+- {{< contentlink path="k8s/fluxcd/uninstall-k3s" >}}
+- {{< contentlink path="k8s/fluxcd/setup-postgresql-backend" >}}
+- {{< contentlink path="k8s/fluxcd/start-k3s" >}}
+- {{< contentlink path="k8s/fluxcd/bootstrap-flux" >}}
+- {{< contentlink path="k8s/fluxcd/kustomization" >}}
+- {{< contentlink path="k8s/fluxcd/helmrepository" >}}
+- {{< contentlink path="k8s/fluxcd/helmrelease" >}}
+- {{< contentlink path="k8s/fluxcd/create-folder-structure" >}}
+- {{< contentlink path="k8s/fluxcd/apps-kustomization" >}}
+- {{< contentlink path="k8s/fluxcd/helmrepository-source" >}}
+- {{< contentlink path="k8s/fluxcd/root-kustomization-apps" >}}
+- {{< contentlink path="k8s/fluxcd/buttons-helmrelease" >}}
+- {{< contentlink path="k8s/fluxcd/postgresql-buttons" >}}
+- {{< contentlink path="k8s/fluxcd/automation" >}}
+
