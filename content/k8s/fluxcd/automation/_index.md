@@ -33,7 +33,7 @@ Copy the secret from buttons namespace to flux-system so that it can log in to i
 kubectl get secret your-regcred -n buttons -o yaml | sed 's/namespace: buttons/namespace: flux-system/' | kubectl apply -n flux-system -f -
 ```
 
-Create the file.
+Create the file and append each section in the same file.
 
 ```
 # apps/automation.yaml
