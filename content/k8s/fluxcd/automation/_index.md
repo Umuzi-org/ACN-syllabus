@@ -79,7 +79,7 @@ apiVersion: image.toolkit.fluxcd.io/v1beta2
 kind: ImagePolicy
 metadata:
   name: nginx
-  namespace: buttons
+  namespace: flux-system
 spec:
   imageRepositoryRef:
     name: nginx
