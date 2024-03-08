@@ -6,7 +6,6 @@ flavours:
 prerequisites:
   hard:
   - topics/intro-to-assertive-programming
-  - projects/data-science-specific/data-wrangling
 submission_type: repo
 title: Assertive programming helpers for Pandas
 ---
