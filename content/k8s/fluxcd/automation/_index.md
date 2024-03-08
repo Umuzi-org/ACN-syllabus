@@ -141,11 +141,11 @@ And the last piece to this puzzle is the refrence inside the values.yaml file.
 ---
 nginx:
   image:
-    repository: ross-docker.whatever.beer/application/nginx
+    repository: harbor.<myDomain>/application/nginx
     tag: main-3e54d47-1706726487 `# {"$imagepolicy": "flux-system:nginx:tag"}`
 python:
   image:
-    repository: ross-docker.whatever.beer/application/python
+    repository: harbor.<myDomain>/application/python
     tag: main-a6c715b-1706875745 `# {"$imagepolicy": "flux-system:python:tag"}`
 ```
 
