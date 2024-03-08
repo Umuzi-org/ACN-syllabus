@@ -91,6 +91,8 @@ spec:
       order: asc
 ```
 
+This pattern: '^*-[a-fA-F0-9]+-(?P<ts>.*)' is regex, what you are doing is taking all the tags and filtering out the timestamps and then using the latest tag. You can also filter per branch  '^staging-[a-fA-F0-9]+-(?P<ts>.*)' so that you only accept images from the staging branch.
+
 You can do the same for python
 
 Lastly we want to tell flux where to go make the commit once it receives an image it wants to update,
