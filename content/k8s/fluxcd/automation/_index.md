@@ -56,7 +56,7 @@ spec:
 Now check if the imagerepository is loaded
 
 ```
-kubectl -n buttons get ImageRepository
+kubectl -n flux-system get ImageRepository
 ```
 
 ```
