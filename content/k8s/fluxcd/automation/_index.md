@@ -17,24 +17,23 @@ title: Bootstrap flux
 
 # Automation
 
-Although we are now mostly automated we still need to push code then edit the values file to reflect the new docker tag to rollout new code, how about we automate this step
+Although we are now mostly automated we still need to push code then edit the values file to reflect the new docker tag to rollout new code, how about we automate this step.
 
-Let's get flux to start staring at the docker-registry by using a imagerepository
+Let's get flux to start staring at the docker-registry by using a imagerepository.
 
 There are 4 things that make the automations work:
-- ImageRepository: this is used to watch your harbor registry for new tags
-- ImagePolicy: The decision when a new tag is discovered whether to roll them out
-- ImageUpdateAutomation: The action of where to make the update in your gitrepository for the tag it discovered
+- ImageRepository: This is used to watch your harbor registry for new tags.
+- ImagePolicy: The decision when a new tag is discovered whether to roll them out.
+- ImageUpdateAutomation: The action of where to make the update in your gitrepository for the tag it discovered.
 - # {"$imagepolicy": "flux-system:nginx:tag"} : in the *.yaml file where you want to update the tag you need to tell flux where to make the commit.
-
-
-create the file
 
 Copy the secret from buttons namespace to flux-system so that it can log in to image registry
 
 ```
 kubectl get secret your-regcred -n buttons -o yaml | sed 's/namespace: buttons/namespace: flux-system/' | kubectl apply -n flux-system -f -
 ```
+
+Create the file.
 
 ```
 # apps/automation.yaml
