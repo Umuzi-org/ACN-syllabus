@@ -26,7 +26,7 @@ There are 4 things that make the automations work:
 - ImageRepository: This is used to watch your harbor registry for new tags.
 - ImagePolicy: The decision when a new tag is discovered whether to roll them out.
 - ImageUpdateAutomation: The action of where to make the update in your gitrepository for the tag it discovered.
-- # {"$imagepolicy": "flux-system:nginx:tag"} : in the *.yaml file where you want to update the tag you need to tell flux where to make the commit.
+- `# {"$imagepolicy": "flux-system:nginx:tag"}` : in the *.yaml file where you want to update the tag you need to tell flux where to make the commit.
 
 Copy the secret from buttons namespace to flux-system so that it can log in to image registry
 
