@@ -16,6 +16,6 @@ title: measures of dispersion
 
 Let's calculate measures of dispersion (Range, Variance and Standard Deviation) using a student scores dataset:
 
-(Click here to see the complete notebook)[https://drive.google.com/file/d/1vc5CgXZ1i0XUDuvgO09_waOZb0vOR37O/view?usp=drive_link]
+[Click here to see the complete notebook](https://drive.google.com/file/d/1vc5CgXZ1i0XUDuvgO09_waOZb0vOR37O/view?usp=drive_link)
 
 
