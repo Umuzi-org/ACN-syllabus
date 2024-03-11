@@ -14,5 +14,8 @@ title: measures of dispersion
 
 - **Standard Deviation**: The square root of the variance, providing a more interpretable measure of dispersion. For Example: Using the same set of daily temperatures, the standard deviation provides a measure of the average deviation of each temperature from the mean.
 
+Let's calculate measures of dispersion (Range, Variance and Standard Deviation) using a student scores dataset:
+
+(Click here to see the complete notebook)[https://drive.google.com/file/d/1vc5CgXZ1i0XUDuvgO09_waOZb0vOR37O/view?usp=drive_link]
 
 
