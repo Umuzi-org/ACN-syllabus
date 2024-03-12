@@ -1,9 +1,9 @@
 ---
-_db_id: 106
+content_type: topic
 title: introduction to statistics
 ---
 
-# Introduction to Statistics
+## Introduction to Statistics
 
 Statistics is a foundational discipline that plays a pivotal role in the field of data science. At its core, data science is about extracting meaningful insights and knowledge from vast amounts of data, and statistics provides the tools and methods necessary to make sense of this information. Here's an overview of the key roles that statistics plays in data science:
 
@@ -13,7 +13,7 @@ Statistics is a foundational discipline that plays a pivotal role in the field o
 
 - **Experimental Design**: In experimental scenarios, statistics guides the planning and analysis of experiments. It assists in determining sample sizes, randomization procedures, and evaluating the statistical significance of observed outcomes.
 
-- **Validation and Evaluation**:Statistics provides methodologies for validating and assessing the performance of models. This encompasses metrics like accuracy, precision, recall, and F1 score in the context of classification problems.
+- **Validation and Evaluation**: Statistics provides methodologies for validating and assessing the performance of models. This encompasses metrics like accuracy, precision, recall, and F1 score in the context of classification problems.
 
 - **Data Visualization**: Statistics is intricately linked to data visualization, where graphical representations aid in comprehending complex datasets. Visualizations, including histograms, box plots, and scatter plots, contribute to a clearer understanding of data distribution and patterns.
 
