@@ -10,10 +10,10 @@ title: Datascience short course 1
 - {{< contentlink path="data_science/introduction_to_statistics/descriptive_statistics" >}}
 - {{< contentlink path="data_science/introduction_to_statistics/measures_of_central_tendency" >}}
 - {{< contentlink path="data_science/introduction_to_statistics/measures_of_central_tendency_questions" >}}
-- {{< contentlink path="data_science/introduction_to_statistics/measures_of_central_tendency_project" >}}
+- {{< contentlink path="data_science/introduction_to_statistics/measures_of_central_tendency_project" flavour="python" >}}
 - {{< contentlink path="data_science/introduction_to_statistics/measures_of_dispersion" >}}
 - {{< contentlink path="data_science/introduction_to_statistics/measures_of_dispersion_questions" >}}
-- {{< contentlink path="data_science/introduction_to_statistics/measures_of_dispersion_project" >}}
+- {{< contentlink path="data_science/introduction_to_statistics/measures_of_dispersion_project" flavour="python" >}}
 - {{< contentlink path="data_science/introduction_to_statistics/frequency_distribution" >}}
 - {{< contentlink path="data_science/introduction_to_statistics/frequency_distribution_questions" >}}
 - {{< contentlink path="data_science/introduction_to_statistics/positional_measures" >}}
@@ -27,21 +27,21 @@ title: Datascience short course 1
 - {{< contentlink path="data_science/data_science_and_its_applications/data_science_method" >}}
 - {{< contentlink path="data_science/data_science_and_its_applications/data_science_method_questions" >}}
 - {{< contentlink path="data_science/data_science_and_its_applications/problem_identification" >}}
-- {{< contentlink path="data_science/data_science_and_its_applications/case_study_status_quo_project" >}}
+- {{< contentlink path="data_science/data_science_and_its_applications/case_study_status_quo_project" flavour="python" >}}
 - {{< contentlink path="data_science/data_wrangling_part_1/the_power_of_pandas" >}}
-- {{< contentlink path="data_science/data_wrangling_part_1/data_manipulation_project" >}}
+- {{< contentlink path="data_science/data_wrangling_part_1/data_manipulation_project" flavour="python" >}}
 - {{< contentlink path="data_science/data_wrangling_part_2/data_wrangling" >}}
 - {{< contentlink path="data_science/data_wrangling_part_2/data_collection" >}}
 - {{< contentlink path="data_science/data_wrangling_part_2/data_cleaning" >}}
-- {{< contentlink path="data_science/data_wrangling_part_2/data_cleaning_project" >}}
-- {{< contentlink path="projects/data-science-specific/data-wrangling/" >}}
+- {{< contentlink path="data_science/data_wrangling_part_2/data_cleaning_project" flavour="python" >}}
+- {{< contentlink path="projects/data-science-specific/data-wrangling/" flavour="python" >}}
 - {{< contentlink path="data_science/exploratory-data-analysis/data_visualization" >}}
 - {{< contentlink path="data_science/exploratory-data-analysis/visualizing_the_distribution" >}}
-- {{< contentlink path="data_science/exploratory-data-analysis/eda_project" >}}
+- {{< contentlink path="data_science/exploratory-data-analysis/eda_project" flavour="python" >}}
 - {{< contentlink path="data_science/exploratory-data-analysis_part_2/univariate_bivariate_multivariate_data_visualisation" >}}
 - {{< contentlink path="data_science/exploratory-data-analysis_part_2/data_visualization_using_python" >}}
-- {{< contentlink path="projects/data-science-specific/data-visualisation/linux-evolution" >}}
-- {{< contentlink path="projects/data-science-specific/data-visualisation/mobile-money-viz" >}}
+- {{< contentlink path="projects/data-science-specific/data-visualisation/linux-evolution" flavour="python" >}}
+- {{< contentlink path="projects/data-science-specific/data-visualisation/mobile-money-viz" flavour="python" >}}
 - {{< contentlink path="data_science/introduction_to_sql/introduction_to_sql_basics" >}}
 - {{< contentlink path="data_science/introduction_to_sql/sql_basics_project" >}}
 
