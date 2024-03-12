@@ -1,9 +1,9 @@
 ---
-_db_id: 107
+content_type: topic
 title: data and data types
 ---
 
-# What is Data and Its types
+## What is Data and Its types
 Data is broadly categorized into four major types:
 1. Categorical/Qualitative Data
     - Nominal data
