@@ -101,7 +101,8 @@ Code is read more often than it is written. Get into the habit of writing clean 
 
 ### SUPER IMPORTANT: Do Not copy code from the Internet or from each other
 
-It's dumb. And we will find out. Then we will have to reject your application and you will be sad.
+Unless you specifically want to not learn while you are here with us.
+
 
 ## Task 0.1
 
