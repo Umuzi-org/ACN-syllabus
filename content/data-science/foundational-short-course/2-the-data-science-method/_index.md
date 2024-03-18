@@ -29,5 +29,3 @@ The DSM is not a silver bullet. It will not solve all your problems. Being able 
 It is critical that each step in this process is not thought of as a standalone bot to check.
 
 Understanding gleaned in the "Problem Definition" phase should come into play during "Data Collection and Preparation", and the output of the EDA phase should inform the process of modelling.
-
-One of the biggest misuses of this framework is that some data-scientists 

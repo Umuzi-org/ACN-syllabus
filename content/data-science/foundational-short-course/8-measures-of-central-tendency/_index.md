@@ -1,12 +1,10 @@
 ---
-title: Descriptive statistics
+title: Measures of Central Tendency
 content_type: topic
 ---
 
 
-## Measures of Central Tendency:
-
-### Mean
+## Mean
 
 The average of a set of values, calculated by summing all values and dividing by the number of observations. Or The mean, also known as the arithmetic average, is likely the measure of central tendency you are most acquainted with. Computing the mean is straightforward – you sum up all the values and then divide by the total number of observations in your dataset. Formula for calculating mean is: 
 
@@ -26,7 +24,7 @@ As shown above in the graph, In a distribution that is symmetric, the mean accur
 
 In a [skewed distribution](https://www.statisticshowto.com/probability-and-statistics/skewed-distribution/), the mean may deviate from accuracy. As evident in the provided histogram, it begins to shift outside the central region. This discrepancy arises due to the significant influence of outliers on the mean as a measure of central tendency. [Outliers](https://www.statisticshowto.com/statistics-basics/find-outliers/), particularly those in an elongated tail, exert a notable pull on the mean, causing it to shift away from the center. As the distribution exhibits more skewness, the mean becomes further displaced from the central position. Consequently, opting for the mean as a measure of central tendency is most advisable when dealing with a symmetric distribution. Further insights into this matter will be explored in the discussion comparing mean versus median. **When do we use mean,Use mean for symmetric and continuous data.**
 
-### Median
+## Median
 
 The middle value in a dataset when it is ordered, separating the higher half from the lower half. This is not affected by the extreme or outliers in the dataset. 
 
@@ -41,13 +39,13 @@ In instances where there is an even number of values, you count inward to the tw
 
 **Note:** The impact of outliers and skewed data on the median is less pronounced compared to the mean as measures of central tendency.	
 
-#### When to use median : Skewed distributions, Continuous data, Ordinal data
+### When to use median : Skewed distributions, Continuous data, Ordinal data
 
 Read the below article if you want to take a deep dive when you should use means median.
 
 [Use of mean vs median](https://www.statology.org/when-to-use-mean-vs-median/)
 
-### Mode
+## Mode
 
 The most frequently occurring value in a dataset. Or The mode, unlike the mean or median, is the value that appears most frequently in your dataset. To determine the mode, arrange your dataset in ascending order for numeric values or by categories, and then identify the value with the highest frequency.
 
@@ -60,3 +58,20 @@ For ordinal data, the median or mode is generally the preferable choice. In the 
 Read the below article to take a deep dive when you should use mean vs median.
 
 [Use of mean vs median](https://www.statology.org/when-to-use-mean-vs-median/)
+
+## Symmetrical and asymmetrical measures
+
+In the presence of a symmetrical distribution in continuous data, the mean, median, and mode coincide. Analysts commonly prefer using the mean in such scenarios as it incorporates all data in the calculations. Conversely, in the case of a skewed distribution, the median often serves as the most appropriate measure of central tendency.
+When dealing with ordinal data, the median or mode is typically the optimal choice. For categorical data, the mode must be employed.
+
+## Develop your intuition 
+
+Stats can feel a bit dry sometimes. Like it's just a bunch of facts and formulae.
+
+A good data-scientist works to make this stuff intuitive. It's important to explore the same concepts from different angles and perspectives so you really get it.
+
+This is an excellent resource. Please read it.
+
+[Mean, Median, and Mode: Measures of Central Tendency
+By Jim Frost ](https://statisticsbyjim.com/basics/measures-central-tendency-mean-median-mode/)
+

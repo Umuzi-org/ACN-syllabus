@@ -75,18 +75,22 @@ Hotseat
 
 - {{< contentlink path="data-science/foundational-short-course/5-statistics-role-in-datascience"  >}}
 - {{< contentlink path="data-science/foundational-short-course/6-data-types"  >}}
-- {{< contentlink path="data-science/foundational-short-course/7-descriptive-statistics"  >}}
 
+7-descriptive-statistics
+8-measures-of-central-tendency
+9-measures-of-central-tendency-in-python
+10-measures-of-central-tendency-questions
 
-### Level 2: 
+### Level 2
+
+11-measures-of-central-tendency-project
+- {{< contentlink path="environment-setup/datascience-extras-on-computer" flavour="python" >}}
 
 
 
 - {{< contentlink path="topics/khan-academy/statistics-and-probability/unit-1-introduction-to-statistics" >}}
 
-- {{< contentlink path="data-science/foundational-short-course/4-statistics-intro-questions"  >}}
 
-- {{< contentlink path="environment-setup/datascience-extras-on-computer" flavour="python" >}}
 
 
 
