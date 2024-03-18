@@ -73,16 +73,20 @@ Hotseat
 
 ### Level 1: Conversational fluency 
 
+- {{< contentlink path="data-science/foundational-short-course/5-statistics-role-in-datascience"  >}}
+- {{< contentlink path="data-science/foundational-short-course/6-data-categories"  >}}
+- {{< contentlink path="data-science/foundational-short-course/7-descriptive-statistics"  >}}
 
 
 ### Level 2: 
 
 
 
-- {{< contentlink path="environment-setup/datascience-extras-on-computer" flavour="python" >}}
-- {{< contentlink path="data-science/foundational-short-course/4-statistics-intro" flavour="python" >}}
 - {{< contentlink path="topics/khan-academy/statistics-and-probability/unit-1-introduction-to-statistics" >}}
-- {{< contentlink path="data-science/foundational-short-course/4-statistics-intro-questions" flavour="python" >}}
+
+- {{< contentlink path="data-science/foundational-short-course/4-statistics-intro-questions"  >}}
+
+- {{< contentlink path="environment-setup/datascience-extras-on-computer" flavour="python" >}}
 
 
 

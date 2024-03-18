@@ -1,5 +1,7 @@
 ---
 title: Introduction to the data science method
+ready: True
+content_type: topic
 ---
 
 The Data Science Method (DSM) is a structured approach to tackling data-driven problems and projects, encapsulating the essence of what makes data science such a transformative discipline. It outlines a systematic process for extracting insights and building predictive models from data, ensuring that every step—from understanding the problem to deploying solutions—is executed with precision and purpose. This methodology not only serves as a roadmap for data science projects but also emphasizes the iterative and exploratory nature of working with data.
