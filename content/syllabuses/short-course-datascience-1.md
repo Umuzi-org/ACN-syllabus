@@ -74,7 +74,7 @@ Hotseat
 ### Level 1: Conversational fluency 
 
 - {{< contentlink path="data-science/foundational-short-course/5-statistics-role-in-datascience"  >}}
-- {{< contentlink path="data-science/foundational-short-course/6-data-categories"  >}}
+- {{< contentlink path="data-science/foundational-short-course/6-data-types"  >}}
 - {{< contentlink path="data-science/foundational-short-course/7-descriptive-statistics"  >}}
 
 

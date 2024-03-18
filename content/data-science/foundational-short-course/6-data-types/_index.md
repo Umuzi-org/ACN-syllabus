@@ -1,5 +1,5 @@
 ---
-title: "Different categories/types of data"
+title: "Different types of data"
 content_type: topic
 ready: True
 ---
@@ -23,6 +23,9 @@ Data is broadly categorized into four major types:
     2.2. Continuous data
 
 We will discuss each type in turn.
+
+![Data Types](foundational_ds_course_data_types.png)
+
 
 ## 1 Categorical / Qualitative Data 
 
