@@ -12,13 +12,13 @@ Learners doing this course should first do the "Intro to Tilde for tech bootcamp
 
 ### Level 1: Conversational fluency 
 
-- {{< contentlink path="data-science/foundational-short-course/0-how-this-course-works" >}}
+- {{< contentlink path="medium-touch-course-common/0-how-this-course-works" >}}
 - {{< contentlink path="data-science/foundational-short-course/1-what-is-data-science" >}}
 - {{< contentlink path="data-science/foundational-short-course/2-the-data-science-method" >}}
 - {{< contentlink path="data-science/foundational-short-course/3-why-python-and-git" >}}
 - {{< contentlink path="coding_aptitude_assessment/introduction_to_github" >}}
 - {{< contentlink path="projects/tilde/basic-repo-card-tutorial" flavour="" >}}
-- {{< contentlink path="data-science/foundational-short-course/1-what-is-data-science-questions" >}}
+- {{< contentlink path="data-science/foundational-short-course/4-what-is-data-science-questions" >}}
 
 ### Group sessions 
 

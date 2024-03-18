@@ -22,7 +22,7 @@ The Data Science Method (DSM) is a structured approach to tackling data-driven p
 
 ## It's all connected
 
-The DSM is not a silver bullet. It will not solve all your problems. BEing able to do each step in the process will not make you a good data-scientist. This is not a sequence of boxes to check.
+The DSM is not a silver bullet. It will not solve all your problems. Being able to do each step in the process will not make you a good data-scientist. This is not a sequence of boxes to check.
 
 It is critical that each step in this process is not thought of as a standalone bot to check.
 

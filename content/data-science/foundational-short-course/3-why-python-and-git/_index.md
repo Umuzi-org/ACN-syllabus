@@ -36,4 +36,4 @@ Git also facilitates collaboration among data scientists and other stakeholders 
 
 Git and Python are going to feel a little strange at first. Maybe a lot strange. And that's ok.
 
-We teach these tools in this course because they are critical to the success of a professional data-scientist.
+We teach these tools in this course because they are critical to the success of a professional data-scientist. And we are about building professional skills.
