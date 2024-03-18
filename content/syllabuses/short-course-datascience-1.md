@@ -5,7 +5,7 @@ title: Datascience short course 1
 
 This course is to be completed in 8 weeks at maximum 10 hours per week. 
 
-Learners doing this course should first do the "Intro to Tilde for tech bootcamps" course.
+Learners doing this course should first do the "Intro to Tilde for non-coder bootcampers" course.
 
 
 ## Week 1: Introduction to Data Science. The big picture
@@ -28,7 +28,9 @@ The first group session should be an ice-breaker. The learners should be introdu
 
 #### Session 2
 
-Conceptual session: This should be based on previous conceptual questions. 
+Conceptual session: This should be based on previous conceptual questions covered in:
+
+- {{< contentlink path="data-science/foundational-short-course/4-what-is-data-science-questions" >}}
 
 If the learners are struggling with finishing the questions on time then this can be a hot-seat session focused on helping the learners overcome any technical difficulties people are struggling with.
 
@@ -36,27 +38,23 @@ If the learners are struggling with finishing the questions on time then this ca
 
 ### Level 1: Conversational fluency 
 
-TODO: pick one. Maybe do half the sololearn and then give people an extra resource about functions
-
-https://app.datacamp.com/learn/courses/intro-to-python-for-data-science
+Learners will need to know about the basics of Python, lists, loops, iterating, if statements, and functions to be able to apply these skills in even the most basic data-wrangling projects. The entire solo-learn basic course will be useful.
 
 - {{< contentlink path="topics/solo-learn/python/intro-to-python/6-functions-project" >}}
 
-### Level 2: 
+### Level 2: Practical exposure
 
 - {{< contentlink path="environment-setup/python-on-computer" >}}
-
-
 - {{< contentlink path="coding_aptitude_assessment/coding_challenges/task_1" flavour="python" >}}
-- {{< contentlink path="coding_aptitude_assessment/coding_challenges/task_5" flavour="python" >}}
-- {{< contentlink path="coding_aptitude_assessment/coding_challenges/task_7" flavour="python" >}}
 
-### Level 3:
+### Level 3: Beginner level practical skills
 
 - {{< contentlink path="coding_aptitude_assessment/coding_challenges/task_2" flavour="python" optional="1" >}}
 - {{< contentlink path="coding_aptitude_assessment/coding_challenges/task_3" flavour="python" optional="1" >}}
 - {{< contentlink path="coding_aptitude_assessment/coding_challenges/task_4" flavour="python" optional="1" >}}
+- {{< contentlink path="coding_aptitude_assessment/coding_challenges/task_5" flavour="python" >}}
 - {{< contentlink path="coding_aptitude_assessment/coding_challenges/task_6" flavour="python" optional="1" >}}
+- {{< contentlink path="coding_aptitude_assessment/coding_challenges/task_7" flavour="python" >}}
 - {{< contentlink path="coding_aptitude_assessment/coding_challenges/task_8" flavour="python" optional="1" >}}
 - {{< contentlink path="coding_aptitude_assessment/coding_challenges/task_9" flavour="python" optional="1" >}}
 - {{< contentlink path="coding_aptitude_assessment/coding_challenges/task_10" flavour="python" optional="1" >}}
@@ -113,11 +111,7 @@ Intro to Pandas
 
 
 
-## Week 4: Breather 
 
-People will still be working on their previous projects. Give people a chance to catch up. Faster learners can move ahead with enrichment content 
-
-If learners are keeping up, move forward
 
 ## Week 5: EDA 1 
 
