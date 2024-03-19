@@ -1,4 +1,5 @@
 ---
+_db_id: 1045
 content_type: project
 flavours:
 - none
@@ -36,6 +37,3 @@ First up create the following files and folders.
 |   |-- my-cluster
 |   |   |-- apps.yaml
 ```
-
-
-

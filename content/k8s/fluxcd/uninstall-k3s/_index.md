@@ -1,4 +1,5 @@
 ---
+_db_id: 1043
 content_type: project
 flavours:
 - none
@@ -12,9 +13,7 @@ tags:
 - kubernetes
 - fluxcd
 title: Unistall K3s
-
 ---
-
 
 ## Uninstall K3s
 

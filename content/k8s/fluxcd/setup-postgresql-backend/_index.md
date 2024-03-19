@@ -1,5 +1,5 @@
-
 ---
+_db_id: 1047
 content_type: project
 flavours:
 - none
@@ -15,7 +15,6 @@ tags:
 - kubernetes
 - fluxcd
 title: Setup postgresql backend
-
 ---
 
 ## Setup postgresql backend

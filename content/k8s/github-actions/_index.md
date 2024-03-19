@@ -1,11 +1,12 @@
 ---
+_db_id: 1040
 content_type: topic
+ready: true
 tags:
 - kubernetes
 - github
 - ci-cd
 title: GitHub Actions
-ready: true
 ---
 
 Although in production you would normally operate on multiple repos for this exercise we will use a monorepo structure with folders for code, Helm Charts, and, later, FluxCD. 

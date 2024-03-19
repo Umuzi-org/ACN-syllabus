@@ -1,4 +1,5 @@
 ---
+_db_id: 1051
 content_type: project
 flavours:
 - none
@@ -15,6 +16,7 @@ tags:
 - helm
 title: Buttons helmrelease
 ---
+
 ## Buttons helmrelease
 
 Let's get ready to finally get our own buttons helm chart hosted for that you'll need the following, it should start feelign familiar by now.
@@ -146,4 +148,3 @@ kubectl -n buttons create secret docker-registry your-regcred --docker-server=ht
 ```
 
 As we nuked the cluster at the beggining of this project you will need to set up the "application" project in harbor again as well as re-run your GitHub Actions to get the images in to the new cluster.
-

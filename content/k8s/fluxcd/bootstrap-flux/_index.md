@@ -1,4 +1,5 @@
 ---
+_db_id: 1042
 content_type: project
 flavours:
 - none
@@ -14,8 +15,8 @@ tags:
 - kubernetes
 - fluxcd
 title: Bootstrap flux
-
 ---
+
 ## Bootstrap flux
 
 first we install the fluxCD cli
@@ -53,4 +54,3 @@ A few things are happening here
 # remember to pull the commit that flux made before continuing
 git pull 
 ```
-

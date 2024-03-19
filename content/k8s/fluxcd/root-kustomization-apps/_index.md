@@ -1,4 +1,5 @@
 ---
+_db_id: 1055
 content_type: project
 flavours:
 - none
@@ -14,7 +15,6 @@ tags:
 - kubernetes
 - fluxcd
 title: Root kustomization apps
-
 ---
 
 ## Root kustomization apps 

@@ -1,11 +1,11 @@
 ---
+_db_id: 1054
 content_type: topic
+ready: true
 tags:
 - kubernetes
-ready: true
 title: Continues deployment using fluxcd
 ---
-
 
 Flux empowers seamless application deployment (CD) and progressive delivery (PD) with automated reconciliation, complemented by Flagger. This dynamic tool extends its capabilities to automatically push updates, including image scanning and patching, back to Git.
 
