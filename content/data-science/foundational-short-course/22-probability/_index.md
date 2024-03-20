@@ -1,5 +1,7 @@
 ---
 title: Probability
+content_type: topic
+ready: true
 ---
 
 Probability is a measure that quantifies the likelihood or chance of an event occurring. In the field of statistics and probability theory, it provides a way to express uncertainty and quantify the likelihood of various outcomes in a given situation. Probability is usually expressed as a number between 0 and 1, where 0 indicates impossibility (the event will not occur), and 1 indicates certainty (the event will occur). For example :

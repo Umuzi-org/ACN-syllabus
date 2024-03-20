@@ -1,5 +1,4 @@
 ---
-title: Measures of Central Tendency project
 content_type: project
 flavours:
 - python

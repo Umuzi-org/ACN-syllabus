@@ -1,5 +1,7 @@
 ---
 title: Skewness and Kurtosis
+content_type: topic
+ready: true
 ---
 
 Please read through the following:

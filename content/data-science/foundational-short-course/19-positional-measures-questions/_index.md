@@ -1,6 +1,22 @@
 ---
 title: positional measures - questions
+content_type: project
+
+protect_main_branch: false
+ready: true
+submission_type: repo
+flavours:
+- none
+
 ---
+
+## How to submit your work
+
+Please follow the following instructions to submit your work:
+
+{{< contentlink path="project-submission-instructions/markdown-questions" >}}
+
+## Questions
 
 1. What are quartiles, and how are they calculated in a dataset? Provide an example using a dataset of weekly sales figures.
 

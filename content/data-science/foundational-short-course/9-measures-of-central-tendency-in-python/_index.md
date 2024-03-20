@@ -1,5 +1,7 @@
 ---
 title: Descriptive statistics in Python
+content_type: topic 
+ready: true
 ---
 
 Python has a bit of functionality built in that you can use when calculating different measures of central tendency. 

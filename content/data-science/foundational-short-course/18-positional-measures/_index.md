@@ -1,5 +1,7 @@
 ---
 title: Positional measures
+content_type: topic
+ready: true
 ---
 
 Please read the following articles:

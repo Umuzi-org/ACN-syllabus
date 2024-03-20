@@ -1,7 +1,22 @@
 ---
-title: MEasures of Dispersion - questions
+title: Measures of Dispersion - questions
+content_type: project
+ready: true
+
+protect_main_branch: false
+ready: true
+submission_type: repo
+flavours:
+- none
 ---
 
+## How to submit your work
+
+Please follow the following instructions to submit your work:
+
+{{< contentlink path="project-submission-instructions/markdown-questions" >}}
+
+## Questions
 
 1. How does the range of a dataset change if the highest value increases but the lowest value remains the same? Provide an example illustrating this change.
 

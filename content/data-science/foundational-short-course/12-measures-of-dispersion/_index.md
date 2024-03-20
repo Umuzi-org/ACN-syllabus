@@ -1,5 +1,7 @@
 ---
 title: Measures of Dispersion
+content_type: topic
+ready: true
 ---
 
 Please read through the following article:

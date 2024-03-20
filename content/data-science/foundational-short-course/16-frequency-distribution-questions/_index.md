@@ -1,6 +1,7 @@
 ---
 title: Frequency distribution questions 
-
+content_type: topic
+ready: true
 ---
 
 1. What are the steps in creating a frequency distribution for a dataset? Describe the process using a dataset of daily temperatures over a month.

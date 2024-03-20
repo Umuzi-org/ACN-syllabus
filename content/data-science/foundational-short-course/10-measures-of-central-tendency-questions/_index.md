@@ -1,6 +1,21 @@
 ---
 title: "Statistics - conceptual questions"
+content_type: project
+protect_main_branch: false
+ready: true
+submission_type: repo
+content_type: project
+flavours:
+- none
 ---
+
+## How to submit your work
+
+Please follow the following instructions to submit your work:
+
+{{< contentlink path="project-submission-instructions/markdown-questions" >}}
+
+## Questions
 
 1. Consider the stages of the Data Science Method. How can a strong statistics skills be helpful in the different stages? Are statistics always useful? Or only some of the time? 
 

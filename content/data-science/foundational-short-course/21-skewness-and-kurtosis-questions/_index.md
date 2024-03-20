@@ -1,3 +1,23 @@
+---
+content_type: project
+title: "Skewness and Kurtosis - Questions"
+
+protect_main_branch: false
+ready: true
+submission_type: repo
+content_type: project
+flavours:
+- none
+---
+
+## How to submit your work
+
+Please follow the following instructions to submit your work:
+
+{{< contentlink path="project-submission-instructions/markdown-questions" >}}
+
+## Questions
+
 1. Define skewness. What does it mean if a dataset is positively skewed versus negatively skewed? Provide an example of each.
 
 2. How is skewness calculated, and what do the resulting values indicate about the distribution of a dataset?

@@ -1,8 +1,11 @@
 ---
 title: Measures of Central Tendency
 content_type: topic
+ready: true
 ---
 
+
+Central tendency, a cornerstone concept in statistics, refers to the measure that identifies the center of a dataset, the point around which all other data points cluster. This fundamental trio—mean, median, and mode—serves as the first step in data analysis, offering insights into the general trend or average of a dataset. The mean provides the arithmetic average, the median denotes the middle value when data is sorted, and the mode represents the most frequently occurring value. Understanding these measures is crucial, as they succinctly summarize complex data into understandable figures, guiding further analysis and decision-making by highlighting where the bulk of data values lie.
 
 ## Mean
 

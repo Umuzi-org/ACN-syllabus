@@ -1,3 +1,22 @@
+---
+content_type: project
+title: "Probability - questions"
+protect_main_branch: false
+ready: true
+submission_type: repo
+content_type: project
+flavours:
+- none
+---
+
+## How to submit your work
+
+Please follow the following instructions to submit your work:
+
+{{< contentlink path="project-submission-instructions/markdown-questions" >}}
+
+## Questions
+
 For each of the following, please explain your working.
 
 1. If you have one 6 sided die (1D6) what are the chances of rolling a 3?
