@@ -73,22 +73,31 @@ Hotseat
 
 ### Level 1: Conversational fluency 
 
-- {{< contentlink path="data-science/foundational-short-course/5-statistics-role-in-datascience"  >}}
-- {{< contentlink path="data-science/foundational-short-course/6-data-types"  >}}
+- {{< contentlink path="data-science/foundational-short-course/5-statistics-role-in-datascience" >}}
+- {{< contentlink path="data-science/foundational-short-course/6-data-types" >}}
+- {{< contentlink path="data-science/foundational-short-course/7-decriptive-statistics" >}}
+- {{< contentlink path="data-science/foundational-short-course/8-measures-of-central-tendency" >}}
+- {{< contentlink path="data-science/foundational-short-course/9-measures-of-central-tendency-in-python" >}}
+- {{< contentlink path="data-science/foundational-short-course/10-measures-of-central-tendency-questions" >}}
+- {{< contentlink path="data-science/foundational-short-course/11-measures-of-central-tendancy-project" >}}
+- {{< contentlink path="data-science/foundational-short-course/12-measures-of-dispersion" >}}
+- {{< contentlink path="data-science/foundational-short-course/13-measures-of-dispersion-questions" >}}
+- {{< contentlink path="data-science/foundational-short-course/14-measures-of-dispersion-project" >}}
+- {{< contentlink path="data-science/foundational-short-course/15-frequency-distribution" >}}
+- {{< contentlink path="data-science/foundational-short-course/16-frequency-distribution-questions" >}}
+- {{< contentlink path="data-science/foundational-short-course/17-intro-to-numpy" >}}
+- {{< contentlink path="data-science/foundational-short-course/18-positional-measures" >}}
+- {{< contentlink path="data-science/foundational-short-course/19-positional-measures-questions" >}}
+- {{< contentlink path="data-science/foundational-short-course/1-what-is-data-science" >}}
+- {{< contentlink path="data-science/foundational-short-course/20-skewness-and-kurtosis" >}}
+- {{< contentlink path="data-science/foundational-short-course/21-skewness-and-kurtosis-questions" >}}
+- {{< contentlink path="data-science/foundational-short-course/22-probability" >}}
+- {{< contentlink path="data-science/foundational-short-course/23-probability-questions" >}}
 
-7-descriptive-statistics
-8-measures-of-central-tendency
-9-measures-of-central-tendency-in-python
-10-measures-of-central-tendency-questions
 
 ### Level 2
 
-11-measures-of-central-tendency-project
-- {{< contentlink path="environment-setup/datascience-extras-on-computer" flavour="python" >}}
 
-
-
-- {{< contentlink path="topics/khan-academy/statistics-and-probability/unit-1-introduction-to-statistics" >}}
 
 
 
