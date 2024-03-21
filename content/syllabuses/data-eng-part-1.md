@@ -14,6 +14,8 @@ _db_id: 4
 - {{< contentlink path="topics/code-reviews/part-2-author" >}}
 - {{< contentlink path="tech-big-picture/how-web-applications-work/part-5" >}}
 - {{< contentlink path="topics/high-performance-dev-teams" >}}
+- {{< contentlink path="error-handling/python-error-handling" flavour="python" >}}
+- {{< contentlink path="error-handling/error-handling-assignment" >}}
 - {{< contentlink path="specific-skill-success-criteria/introduction-to-assessments" >}}
 - {{< contentlink path="specific-skill-success-criteria/functions-and-return" flavour="python" >}}
 - {{< contentlink path="projects/katas/level-2" flavour="python" >}}
@@ -35,4 +37,3 @@ _db_id: 4
 - {{< contentlink path="projects/understanding-loops" flavour="python" >}}
 - {{< contentlink path="topics/solo-learn/python/python-intermediate/5-working-with-files" >}}
 - {{< contentlink path="topics/solo-learn/python/python-intermediate/5-working-with-files-project" >}}
-
