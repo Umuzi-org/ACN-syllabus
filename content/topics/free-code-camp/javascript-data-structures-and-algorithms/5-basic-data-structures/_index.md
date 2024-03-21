@@ -13,7 +13,7 @@ title: FreeCodeCamp - Basic Data Structures
 
 Make an account here if you haven't already: https://www.freecodecamp.org/learn
 
-Under "JavaScript Algorithms and Data Structures", do the section titled "Basic Data Structures ".
+Under "Legacy JavaScript Algorithms and Data Structures", do the section titled "Basic Data Structures ".
 
 Try not to ask for too many hints and do your best to understand everything.
 
