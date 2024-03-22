@@ -1,5 +1,5 @@
 ---
-title: Measures of Dispersion project
+title: Measures of Dispersion - Project
 content_type: project
 flavours:
 - python
