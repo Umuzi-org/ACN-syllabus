@@ -94,7 +94,6 @@ Hotseat
 - {{< contentlink path="data-science/foundational-short-course/22-probability" >}}
 - {{< contentlink path="data-science/foundational-short-course/23-probability-questions" >}}
 
-
 ### Level 2
 
 
@@ -131,6 +130,14 @@ Intro to Pandas
 
 
 ## Week 5: EDA 1 
+
+### Level 1: Conversational fluency
+
+- {{< contentlink path="data-science/foundational-short-course/24-exploratory-data-analysis" >}}
+- {{< contentlink path="data-science/foundational-short-course/25-visualizing-distribution" >}}
+- {{< contentlink path="data-science/foundational-short-course/26-visualization-of-two-features" >}}
+- {{< contentlink path="data-science/foundational-short-course/27-data-visualization-using-python" >}}
+
 
 - Load and display data in different ways
 - no real wrangling required at this point, focus on drawing stuff and knowing what graphs are useful
