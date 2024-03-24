@@ -75,7 +75,7 @@ Hotseat
 
 - {{< contentlink path="data-science/foundational-short-course/5-statistics-role-in-datascience" >}}
 - {{< contentlink path="data-science/foundational-short-course/6-data-types" >}}
-- {{< contentlink path="data-science/foundational-short-course/7-decriptive-statistics" >}}
+- {{< contentlink path="data-science/foundational-short-course/7-descriptive-statistics" >}}
 - {{< contentlink path="data-science/foundational-short-course/8-measures-of-central-tendency" >}}
 - {{< contentlink path="data-science/foundational-short-course/9-measures-of-central-tendency-in-python" >}}
 - {{< contentlink path="data-science/foundational-short-course/10-measures-of-central-tendency-questions" >}}
