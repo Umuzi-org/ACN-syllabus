@@ -67,13 +67,11 @@ Read the below article to take a deep dive when you should use mean vs median.
 In the presence of a symmetrical distribution in continuous data, the mean, median, and mode coincide. Analysts commonly prefer using the mean in such scenarios as it incorporates all data in the calculations. Conversely, in the case of a skewed distribution, the median often serves as the most appropriate measure of central tendency.
 When dealing with ordinal data, the median or mode is typically the optimal choice. For categorical data, the mode must be employed.
 
-## Develop your intuition 
+## Develop your analytical intuition 
 
-Stats can feel a bit dry sometimes. Like it's just a bunch of facts and formulae.
-
-A good data-scientist works to make this stuff intuitive. It's important to explore the same concepts from different angles and perspectives so you really get it.
-
-This is an excellent resource. Please read it.
+At times, statistics might appear somewhat tedious, filled with endless facts and formulas. 
+However, an effective data scientist aims to bring these numbers to life, fostering an intuitive grasp of the underlying principles.
+To truly comprehend these concepts, it's vital to approach them from multiple angles, enriching your understanding. We highly recommend this resource as a key to unlocking a deeper, more intuitive connection with statistical data. Please make sure to explore it in detail.
 
 [Mean, Median, and Mode: Measures of Central Tendency
 By Jim Frost ](https://statisticsbyjim.com/basics/measures-central-tendency-mean-median-mode/)

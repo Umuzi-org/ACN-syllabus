@@ -4,7 +4,7 @@ ready: True
 content_type: topic
 ---
 
-The Data Science Method (DSM) is a structured approach to tackling data-driven problems and projects, encapsulating the essence of what makes data science such a transformative discipline. It outlines a systematic process for extracting insights and building predictive models from data, ensuring that every step—from understanding the problem to deploying solutions—is executed with precision and purpose. This methodology not only serves as a roadmap for data science projects but also emphasizes the iterative and exploratory nature of working with data.
+The Data Science Method (DSM) is a structured approach to tackling data-driven problems and projects, encapsulating the essence of what makes data science such a transformative discipline. It outlines a systematic process for extracting insights and building predictive models from data, ensuring that every step—from understanding the problem to deploying solutions—is executed with precision and purpose. This methodology not only serves as a roadmap for data science projects but also emphasises the iterative and exploratory nature of working with data.
 
 ## Key Stages of the Data Science Method
 
@@ -12,7 +12,7 @@ The Data Science Method (DSM) is a structured approach to tackling data-driven p
 
 **Data Collection and Preparation**: This stage involves gathering the necessary data from various sources and preparing it for analysis. Data collection can range from extracting information from databases and APIs to scraping web pages. Once collected, the data often requires cleaning and preprocessing to handle missing values, outliers, and other inconsistencies that could skew the analysis.
 
-**Exploratory Data Analysis (EDA)**: Before diving into complex modeling, it's essential to perform an exploratory analysis to understand the data's characteristics. EDA involves visualizing the data, summarizing its main attributes, and identifying patterns or anomalies. This step is crucial for generating hypotheses and deciding on the appropriate analytical techniques.
+**Exploratory Data Analysis (EDA)**: Before diving into complex modeling, it's essential to perform an exploratory analysis to understand the data's characteristics. EDA involves visualizing the data, summarising its main attributes, and identifying patterns or anomalies. This step is crucial for generating hypotheses and deciding on the appropriate analytical techniques.
 
 **Modeling**: With insights from EDA, the next step is to develop predictive models or algorithms that address the defined problem. This involves selecting the right modeling techniques (e.g., regression, classification, clustering) and tuning parameters to improve performance. Modeling is an iterative process, often requiring multiple rounds of experimentation to find the most effective solution.
 

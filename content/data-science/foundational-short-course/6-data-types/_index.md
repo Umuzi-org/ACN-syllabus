@@ -4,7 +4,7 @@ content_type: topic
 ready: True
 ---
 
-The word "data type" can be misleading in data-science because we make use of different data-types while writing code.
+The word "data type" can be misleading in data science because we make use of different data-types while writing code.
 
 This content refers to a different type of data type. 
 

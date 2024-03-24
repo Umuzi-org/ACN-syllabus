@@ -17,7 +17,7 @@ Statistics is a foundational discipline that plays a pivotal role in the field o
 
 **Data Visualization**: Statistics is intricately linked to data visualization, where graphical representations aid in comprehending complex datasets. Visualizations, including histograms, box plots, and scatter plots, contribute to a clearer understanding of data distribution and patterns.
 
-## Don't believe me, ask the Internet
+## Additional Resources
 
 Take a look at these resources to get a picture of why statistics matter:
 
