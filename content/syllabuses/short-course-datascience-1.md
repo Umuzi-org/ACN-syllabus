@@ -129,7 +129,7 @@ Intro to Pandas
 
 
 
-## Week 5: EDA 1 
+## Week 4: EDA 1 
 
 ### Level 1: Conversational fluency
 
@@ -144,15 +144,15 @@ Intro to Pandas
 
 - simple graph projects. Maybe a datacamp thing
 
-## Week 6: Data Wrangling 1
+## Week 5: Data Wrangling 1
 
 Something that uses data wrangling and visuals. Do we have such a thing?  
 
 - {{< contentlink path="projects/data-science-specific/data-wrangling" flavour="python" >}}
 
-## Week 7: Final project time
+## Week 6: Final project time
 
-## Week 8: Final project time 
+## Week 7: Final project time 
 
 ## Extra
 
