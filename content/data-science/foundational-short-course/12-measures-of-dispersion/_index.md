@@ -14,7 +14,7 @@ Make sure you are able to understand what the following terms mean:
 - Variance 
 - Standard deviation
 
-## Check your self
+## Self Assess
 
 Can you answer the following questions?
 
@@ -41,4 +41,10 @@ print(f"Variance of Scores: {variance_score}")
 print(f"Standard Deviation of Scores: {std_dev_score}")
 ```
 
-Remember that you need to import the statistics package for this code do work. Do you remember how?
+For this code to function, you must import the statistics package. 
+Can you recall how to do this?
+
+
+
+
+

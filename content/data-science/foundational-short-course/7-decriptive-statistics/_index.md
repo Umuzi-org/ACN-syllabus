@@ -4,8 +4,11 @@ content_type: topic
 ready: true
 ---
 
-Descriptive statistics, a field within statistics, encompasses the gathering, analysis, interpretation, and presentation of data with the aim of summarising and delineating its primary characteristics.Its primary purpose is to provide a concise and meaningful representation of a dataset, offering insights into its central tendencies, variability, and distribution. Here are key concepts within descriptive statistics:
+Descriptive statistics is a part of statistics focused on collecting, analysing, interpreting, and presenting data to summarise its key features. 
 
+It aims to offer a clear and useful overview of a dataset, highlighting its main trends, range of variation, and overall distribution. 
+
+Here are key concepts within descriptive statistics:
 - Measures of Central Tendency
 - Measures of Dispersion
 - Frequency Distribution

@@ -4,11 +4,13 @@ content_type: topic
 ready: True
 ---
 
-The word "data type" can be misleading in data science because we make use of different data-types while writing code.
+The term "data type" is commonly used across data science and software development disciplines. 
 
-This content refers to a different type of data type. 
+Software development emphasises how data is formatted. For example: strings, integers, or decimals.
 
-Data is broadly categorized into four major types:
+This content focuses on the data science and statistical interpretation of data types. For example: nominal and ordinal.
+
+Data is broadly categorised into four major types:
 
 1. Categorical / Qualitative Data
 
@@ -22,15 +24,17 @@ Data is broadly categorized into four major types:
 
     2.2. Continuous data
 
-We will discuss each type in turn.
 
 ![Data Types](foundational_ds_course_data_types.png)
 
 
-## 1 Categorical / Qualitative Data 
+## 1. Categorical / Qualitative Data 
 
-Qualitative data, alternatively referred to as categorical data, characterizes information that falls into distinct categories. Unlike numerical data, qualitative data is non-numeric and pertains to categorical variables describing features such as an individual's gender or hometown. Categorical measures are articulated through natural language descriptions rather than numerical values. Categorical data is further divided into two types. Nominmal and Ordinal data.
+Qualitative data, also known as categorical data, describes information that fits into specific categories. 
+This type of data is not numeric; instead, it deals with descriptions of characteristics such as someone's gender or where they're from. Unlike numbers, we use words to describe categorical data. 
 
+It can be split into two main types: Nominal and Ordinal data. 
+Nominal data includes categories without any order (like types of fruit), while Ordinal data involves categories that do follow an order (like small, medium, large).
 ### 1.1 Nominal data
 
 Nominal data, a form of qualitative information, involves labeling variables without assigning numerical values. Also referred to as the nominal scale, this type of data lacks order and measurement. However, in certain cases, it may exhibit both qualitative and quantitative characteristics. For Example: Nominal data include type, degree and gender.
@@ -66,11 +70,12 @@ Please take a moment to review the article below to gain a deeper understanding 
 
 Quantitative data, synonymous with numerical data, denotes values expressed in numerical terms, providing information about quantity—answering questions like "how much," "how often," or "how many." Numerical data pertains to the measurement of specific quantities, including examples such as height, length, size, weight, and more. 
 
-Quantitative data can be categorized into two types based on data sets: Discrete Data and Continuous data.
+Quantitative data can be categorised into two types based on data sets: Discrete Data and Continuous data.
 
 ### 2.1 Discrete data 
 
-Discrete data is restricted to specific, distinct values and encompasses only a finite number of possibilities. These values cannot be further subdivided meaningfully and are typically counted in whole numbers. For example : Number of students in the class, dice result.
+Discrete data is restricted to specific, distinct values and encompasses only a finite number of possibilities. These values cannot be further subdivided meaningfully and are typically counted in whole numbers. 
+For example: Number of students in the class or dice results.
 
 ### 2.2 Continuous data
 
@@ -89,6 +94,6 @@ For each of the examples below, is the data nominal, ordinal, discrete or contin
 - the different types of turtles found on the beach
 - the difficulty of a problem (easy, medium, hard)
 
-Can you think of any more examples in your own life?
+Try to think of more examples in your own life and test your understanding.
 
 

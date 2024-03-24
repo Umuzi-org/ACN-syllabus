@@ -38,7 +38,7 @@ Compute and present the Range, Variance, and Standard Deviation of the provided 
 
 ## Submission Guidelines
 
-- Organize your code into well-commented Jupyter notebook cells 
+- Organise your code into well commented Jupyter notebook cells 
 - Include Markdown cells for explanations, analysis, and reflections.
 - After completing this project, Push your changes to another branch other than main and open a pull request on github.
 

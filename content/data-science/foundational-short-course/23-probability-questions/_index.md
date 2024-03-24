@@ -4,7 +4,6 @@ title: "Probability - questions"
 protect_main_branch: false
 ready: true
 submission_type: repo
-content_type: project
 flavours:
 - none
 ---

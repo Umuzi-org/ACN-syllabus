@@ -5,12 +5,15 @@ ready: true
 ---
 
 
-Central tendency, a cornerstone concept in statistics, refers to the measure that identifies the center of a dataset, the point around which all other data points cluster. This fundamental trio—mean, median, and mode—serves as the first step in data analysis, offering insights into the general trend or average of a dataset. The mean provides the arithmetic average, the median denotes the middle value when data is sorted, and the mode represents the most frequently occurring value. Understanding these measures is crucial, as they succinctly summarize complex data into understandable figures, guiding further analysis and decision-making by highlighting where the bulk of data values lie.
+Central tendency is a key concept in statistics that helps identify the centre of a dataset, essentially the point around which all other data points gather. 
+
+This important trio - mean, median, and mode - is the starting point for analysing data, giving a clear view of the dataset's overall trend or average. The mean calculates the arithmetic average, the median shows the middle value in an ordered list of data, and the mode indicates the most common value. 
+
+These measures are vital for simplifying complex data into clear figures, aiding further analysis and decision-making by showing where most data values are concentrated.
 
 ## Mean
 
-The average of a set of values, calculated by summing all values and dividing by the number of observations. Or The mean, also known as the arithmetic average, is likely the measure of central tendency you are most acquainted with. Computing the mean is straightforward – you sum up all the values and then divide by the total number of observations in your dataset. Formula for calculating mean is: 
-
+The mean, or arithmetic average, is a basic statistical concept you're probably familiar with. It's calculated simply by adding all the values in a dataset and then dividing by the total number of values. This gives you a single figure that represents the average of your data. The formula to calculate the mean is:
 ```
 x1+x2+x3…+xn / n 
 ```
@@ -19,20 +22,25 @@ x1 to xn represent individual values, and n denotes the total number of values i
 
 ![Mean](mean_symmetric.png)
 
-The computation of the mean involves the consideration of all values within the dataset. Altering any value leads to a change in the mean. However, it's important to note that the mean may not consistently pinpoint the precise center of the data. The histograms below illustrate instances where we showcase the mean within the distributions, emphasizing its potential limitations in accurately representing the central tendency.
+When you calculate the mean, every value in the dataset matters, so any change can impact the mean. However, it's important to remember that the mean doesn't always show the true center of your data accurately. 
 
-As shown above in the graph, In a distribution that is symmetric, the mean accurately identifies the central point.
+This is often seen in histograms, where the mean may not fully capture the data's central tendency, especially with uneven distributions or outliers. This shows why it's key not just to rely on the mean for summarizing data but to also use other statistics for a fuller picture.
+
+As shown above in the graph, in a distribution that is symmetric, the mean accurately identifies the central point.
 
 ![Distributions](distribution_central_tendency.png)
 
-In a [skewed distribution](https://www.statisticshowto.com/probability-and-statistics/skewed-distribution/), the mean may deviate from accuracy. As evident in the provided histogram, it begins to shift outside the central region. This discrepancy arises due to the significant influence of outliers on the mean as a measure of central tendency. [Outliers](https://www.statisticshowto.com/statistics-basics/find-outliers/), particularly those in an elongated tail, exert a notable pull on the mean, causing it to shift away from the center. As the distribution exhibits more skewness, the mean becomes further displaced from the central position. Consequently, opting for the mean as a measure of central tendency is most advisable when dealing with a symmetric distribution. Further insights into this matter will be explored in the discussion comparing mean versus median. **When do we use mean,Use mean for symmetric and continuous data.**
+In a [skewed distribution](https://www.statisticshowto.com/probability-and-statistics/skewed-distribution/), the mean might not be accurate and can move away from the center. This happens because [outliers](https://www.statisticshowto.com/statistics-basics/find-outliers/) – especially those far out in the tail of the distribution – have a strong impact on the mean, pulling it towards them. As the skewness increases, the mean moves further from the middle. Therefore, using the mean as a central measure is best suited for symmetric distributions. We will delve deeper into this, comparing mean and median, in upcoming discussions. 
+
+**Generally, use the mean for data that is symmetric and continuous.** 
 
 ## Median
 
-The middle value in a dataset when it is ordered, separating the higher half from the lower half. This is not affected by the extreme or outliers in the dataset. 
+The median is the value that sits in the middle of a dataset when it is arranged in order, effectively dividing it into two equal halves. Unlike the mean, the median is not influenced by extremely high or low values, or outliers, in the dataset.
 
-To determine the median, arrange your data in ascending order, and identify the data point that possesses an equal count of values both above and below it. The approach for pinpointing the median differs slightly based on whether your dataset contains an even or odd number of values. I will guide you through finding the median for both scenarios. While I utilize whole numbers in the examples below for simplicity, it's important to note that your dataset may include decimal places.
-In the dataset featuring an odd number of observations, observe how the number 11 stands in the middle, with six values left and right of it. Consequently, 11 serves as the median for this dataset.
+To find the median, first, sort your data in ascending order. Then, look for the data point that has an equal number of values above and below it. The method to identify the median varies if your dataset has an even number of values compared to an odd number.
+
+For a dataset with an odd number of observations, the median is simply the middle number. For example, if there are 13 values, the seventh value, when sorted, is the median because it has six values on either side.
 
 1,10,13,5,8,7,**11**,9,10,12,13,8,3
 
@@ -40,37 +48,28 @@ In instances where there is an even number of values, you count inward to the tw
 
 1,10,13,5,8,7,   **11, 13**,  9,10,12,13,8,3
 
-**Note:** The impact of outliers and skewed data on the median is less pronounced compared to the mean as measures of central tendency.	
+Your data might include decimal points, but the process to find the median remains the same.
 
-### When to use median : Skewed distributions, Continuous data, Ordinal data
-
-Read the below article if you want to take a deep dive when you should use means median.
-
-[Use of mean vs median](https://www.statology.org/when-to-use-mean-vs-median/)
+**Note:** The impact of outliers and skewed data on the median is less pronounced compared to the mean as measures of central tendency.
 
 ## Mode
 
-The most frequently occurring value in a dataset. Or The mode, unlike the mean or median, is the value that appears most frequently in your dataset. To determine the mode, arrange your dataset in ascending order for numeric values or by categories, and then identify the value with the highest frequency.
+The most frequently occurring value in a dataset. The mode, unlike the mean or median, is the value that appears most frequently in your dataset. To determine the mode, arrange your dataset in ascending order for numeric values or by categories, and then identify the value with the highest frequency.
 
 ## Which Central Tendency Measure — Mean, Median, or Mode — Is the Most Suitable?
 
-In the presence of a symmetrical distribution in continuous data, the mean, median, and mode coincide. Analysts typically prefer using the mean in such scenarios as it considers all data points in its calculations. Conversely, in a skewed distribution, the median often emerges as the most suitable measure of central tendency.
+In continuous data with a symmetrical distribution, the mean, median, and mode all align. In these cases, analysts usually opt for the mean because it takes into account every data point. However, when the distribution is skewed, the median is often a better indicator of central tendency.
 
-For ordinal data, the median or mode is generally the preferable choice. In the case of categorical data, the mode is the mandatory selection.
+For ordinal data, which involves rankings or order, the median or mode is usually more appropriate. With categorical data, such as types or categories, the mode is the go-to choice since it identifies the most common category.
 
-Read the below article to take a deep dive when you should use mean vs median.
-
+To gain a deeper understanding of when to use the mean versus the median, please refer to the following article:
 [Use of mean vs median](https://www.statology.org/when-to-use-mean-vs-median/)
-
-## Symmetrical and asymmetrical measures
-
-In the presence of a symmetrical distribution in continuous data, the mean, median, and mode coincide. Analysts commonly prefer using the mean in such scenarios as it incorporates all data in the calculations. Conversely, in the case of a skewed distribution, the median often serves as the most appropriate measure of central tendency.
-When dealing with ordinal data, the median or mode is typically the optimal choice. For categorical data, the mode must be employed.
 
 ## Develop your analytical intuition 
 
 At times, statistics might appear somewhat tedious, filled with endless facts and formulas. 
 However, an effective data scientist aims to bring these numbers to life, fostering an intuitive grasp of the underlying principles.
+
 To truly comprehend these concepts, it's vital to approach them from multiple angles, enriching your understanding. We highly recommend this resource as a key to unlocking a deeper, more intuitive connection with statistical data. Please make sure to explore it in detail.
 
 [Mean, Median, and Mode: Measures of Central Tendency

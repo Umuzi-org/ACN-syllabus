@@ -4,11 +4,12 @@ content_type: topic
 ready: true
 ---
 
-Python has a bit of functionality built in that you can use when calculating different measures of central tendency. 
+Python comes equipped with built-in capabilities that are useful for calculating various measures of central tendency.
 
-Open up a Python shell or a Notebook and try this out for yourself:
+To explore this yourself, open a Python shell or a Jupyter Notebook.
 
-First, import the statistics library so you can make use if it's functionality. 
+Start by importing the statistics library to access its features.
+
 
 ```
 import statistics
@@ -36,10 +37,10 @@ except statistics.StatisticsError:
     print("Mode: No unique mode in the dataset.")
 ```
 
-Try to play around with this a little bit. 
+Experiment with this a bit:
 
-- if you change the numbers in `data` then does `mean_value` change? Or do you need to do something to get it to calculate again?
-- can you tell if the list of numbers is skew or not? How can you tell?
-- does the data have a mode? Can you come up with a dataset that has a mode? And one that does not?
+- If you alter the numbers in `data` then does `mean_value` change? Or do you need to take additional steps to recalculate it?
+- Can you determine if your dataset is skewed or not? What clues indicate skewness?
+- Does your data have a mode? Try to create a dataset that has a mode and another that doesn't. How do you identify if a mode exists?
 
 
