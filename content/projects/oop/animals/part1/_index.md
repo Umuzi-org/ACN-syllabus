@@ -229,7 +229,7 @@ dog1 = Dog()
 dog2 = Dog()
 cat = Cat()
 
-home.make_all_sounds() // this returns an empty ArrListay
+home.make_all_sounds() # this returns an empty ArrListay
 home.adopt_pet(dog1) # 1
 home.make_all_sounds()
 # this returns:
@@ -242,7 +242,7 @@ home.make_all_sounds()
 # ["Bark", "Meow"]
 
 home.adopt_pet(dog2) # 3
-home.make_all_sounds
+home.make_all_sounds()
 # this returns:
 # ["Bark", "Meow", "Bark"]
 ```
