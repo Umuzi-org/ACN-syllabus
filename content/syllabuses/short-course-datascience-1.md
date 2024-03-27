@@ -75,7 +75,7 @@ Hotseat
 
 - {{< contentlink path="data-science/foundational-short-course/5-statistics-role-in-datascience" >}}
 - {{< contentlink path="data-science/foundational-short-course/6-data-types" >}}
-- {{< contentlink path="data-science/foundational-short-course/7-decriptive-statistics" >}}
+- {{< contentlink path="data-science/foundational-short-course/7-descriptive-statistics" >}}
 - {{< contentlink path="data-science/foundational-short-course/8-measures-of-central-tendency" >}}
 - {{< contentlink path="data-science/foundational-short-course/9-measures-of-central-tendency-in-python" >}}
 - {{< contentlink path="data-science/foundational-short-course/10-measures-of-central-tendency-questions" >}}
@@ -93,7 +93,6 @@ Hotseat
 - {{< contentlink path="data-science/foundational-short-course/21-skewness-and-kurtosis-questions" >}}
 - {{< contentlink path="data-science/foundational-short-course/22-probability" >}}
 - {{< contentlink path="data-science/foundational-short-course/23-probability-questions" >}}
-
 
 ### Level 2
 
@@ -130,22 +129,30 @@ Intro to Pandas
 
 
 
-## Week 5: EDA 1 
+## Week 4: EDA 1 
+
+### Level 1: Conversational fluency
+
+- {{< contentlink path="data-science/foundational-short-course/24-exploratory-data-analysis" >}}
+- {{< contentlink path="data-science/foundational-short-course/25-visualizing-distribution" >}}
+- {{< contentlink path="data-science/foundational-short-course/26-visualization-of-two-features" >}}
+- {{< contentlink path="data-science/foundational-short-course/27-data-visualization-using-python" >}}
+
 
 - Load and display data in different ways
 - no real wrangling required at this point, focus on drawing stuff and knowing what graphs are useful
 
 - simple graph projects. Maybe a datacamp thing
 
-## Week 6: Data Wrangling 1
+## Week 5: Data Wrangling 1
 
 Something that uses data wrangling and visuals. Do we have such a thing?  
 
 - {{< contentlink path="projects/data-science-specific/data-wrangling" flavour="python" >}}
 
-## Week 7: Final project time
+## Week 6: Final project time
 
-## Week 8: Final project time 
+## Week 7: Final project time 
 
 ## Extra
 
