@@ -46,8 +46,8 @@ Welcome to Umuzi session.
 ### Week 1: Intro to DevOps
 - {{< contentlink path="devops/foundational-short-course/1-what-is-devops" >}}
 - {{< contentlink path="devops/foundational-short-course/2-why-is-devops-important" >}}
-- {{< contentlink path="devops/foundational-short-course/3-devops-questions-1" >}}
-- {{< contentlink path="devops/foundational-short-course/4-devops-practices" >}}
+- {{< contentlink path="devops/foundational-short-course/3-devops-practices" >}}
+- {{< contentlink path="devops/foundational-short-course/4-devops-questions-1" >}}
 - {{< contentlink path="devops/foundational-short-course/5-devops-teams" >}}
 - {{< contentlink path="devops/foundational-short-course/6-platform-engineering" >}}
 - {{< contentlink path="devops/foundational-short-course/7-devops-tooling" >}}
