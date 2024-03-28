@@ -5,8 +5,13 @@ _db_id: 2
 
 - {{< contentlink path="data-science/foundational-short-course/1-what-is-data-science" >}}
 - {{< contentlink path="data-science/foundational-short-course/2-the-data-science-method" >}}
+- {{< contentlink path="topics/git/git-summary">}}
+- {{< contentlink path="content/topics/git/setting-up-git" >}}
+- {{< contentlink path="content/topics/git/git-introduction" >}}
+- {{< contentlink path="topics/git/git-conclusion" >}}
 - {{< contentlink path="data-science/foundational-short-course/3-why-python-and-git" >}}
 - {{< contentlink path="data-science/foundational-short-course/4-what-is-data-science-questions" >}}
+- {{< contentlink path="topics/data-science-specific/intro-to-python-data-camp" >}}
 - {{< contentlink path="data-science/foundational-short-course/5-statistics-role-in-datascience" >}}
 - {{< contentlink path="data-science/foundational-short-course/6-data-types" >}}
 - {{< contentlink path="data-science/foundational-short-course/7-decriptive-statistics" >}}
@@ -26,6 +31,3 @@ _db_id: 2
 - {{< contentlink path="data-science/foundational-short-course/21-skewness-and-kurtosis-questions" >}}
 - {{< contentlink path="data-science/foundational-short-course/22-probability" >}}
 - {{< contentlink path="data-science/foundational-short-course/23-probability-questions" >}}
-- {{< contentlink path="data-science/foundational-short-course/setting-up-git" >}}
-- {{< contentlink path="data-science/foundational-short-course/git-introduction" >}}
-- {{< contentlink path="data-science/foundational-short-course/git-conclusion" >}}
