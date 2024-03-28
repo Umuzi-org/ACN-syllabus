@@ -58,9 +58,23 @@ Welcome to Umuzi session.
 
 The first session will have introductions between learners and facilitators, how the course is structured, calendar etc.
 
-Then we will chat a about DevOps and create groups to analyse some case studies from {{< contentlink path="devops/foundational-short-course/3-devops-questions-1" >}}.
+Then we will chat a about DevOps and create groups to analyse some case studies from {{< contentlink path="devops/foundational-short-course/4-devops-questions-1" >}}.
 
 #### Session #2
 Let's review the case studies analyses from last session, chat about DevOps practices, teams, tooling and Platform Engineering.
 
 After that, we will breakdown the group and work through the DevOps scenarios from {{< contentlink path="devops/foundational-short-course/8-devops-questions-2" >}}.
+
+### Week 2: Infrastructure Components
+- {{< contentlink path="devops/foundational-short-course/9-from-server-to-the-cloud" >}}
+- {{< contentlink path="devops/foundational-short-course/10-cloud" >}}
+- {{< contentlink path="devops/foundational-short-course/11-infrastructure-models" >}}
+- {{< contentlink path="devops/foundational-short-course/12-devops-questions-3" >}}
+
+#### Session #1
+> ❗ **Read through the whole content before session #1!**
+
+We will chat a about IT components, date centers and the cloud.
+
+#### Session #2
+Let's chat about infrastructure models.
