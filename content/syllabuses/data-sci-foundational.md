@@ -8,7 +8,6 @@ _db_id: 2
 - {{< contentlink path="topics/git/git-summary">}}
 - {{< contentlink path="content/topics/git/setting-up-git" >}}
 - {{< contentlink path="content/topics/git/git-introduction" >}}
-- {{< contentlink path="topics/git/git-conclusion" >}}
 - {{< contentlink path="data-science/foundational-short-course/3-why-python-and-git" >}}
 - {{< contentlink path="data-science/foundational-short-course/4-what-is-data-science-questions" >}}
 - {{< contentlink path="topics/data-science-specific/intro-to-python-data-camp" >}}
