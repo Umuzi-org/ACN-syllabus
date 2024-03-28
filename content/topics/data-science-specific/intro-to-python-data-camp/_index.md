@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Python Data Camps"
+title: "Introduction to Data Camp"
 _db_id: 2
 ---
 

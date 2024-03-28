@@ -117,7 +117,6 @@ Hotseat
 
 
 
-Make use of Khan academy or similar. Set a cap on what is expected of learners 
 
 Projects:
 - implement statistical functions in Python from scratch. Eg calculate the mean etc 

@@ -15,7 +15,7 @@ At the heart of Umuzi is our energy, our commitment and passion to reduce social
 
 Through our energy we create connection with individuals that enables a shift to occur, causing a ripple effect, creating communities. This ripple effect has an impact on the people we meet, we work with, partner with, and then their families and friends, not just in the present, but in the future too. 
 
-The young people (YOU) that move through our programmes are at the heart of what we do at Umuzi. It is their journeys and stories that drive us to continue on this mission.
+The people that move through our programmes are at the heart of what we do at Umuzi. It is their journeys and stories that drive us to continue on this mission.
 
 Join us in being part of this movement!
 
