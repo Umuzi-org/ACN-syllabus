@@ -8,7 +8,7 @@ title: What is DevOps?
 
 DevOps is a methodology (processes, culture and tools) used to increase the level of communication and collaboration between **development teams** and **operation teams** to speed up the design, development, testing and delivery of high quality software aiming for frequent updates, uninterrupted availability, transparency and rapid feedback.
 
-It also expands to other teams within an organization, like designers, product managers, quality assurance (QA), security and even end-users.
+It also expands to other teams within an organisation, like designers, product managers, quality assurance (QA), security and even end-users.
 
 DevOps builds on top of Agile (breaking large software development projects into smaller tasks, leading to faster build, test and feedback cycles) to consolidate historical siloed teams – developers and operations.
 

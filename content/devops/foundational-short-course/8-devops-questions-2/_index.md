@@ -12,7 +12,7 @@ title: 'DevOps Questions #2'
 2. In your team, what software development processes could be streamlined in an Internal Developer Platform?
 3. List any tools you heard about today in the workshop that you’ve never heard before. Which ones would be useful in your day-to-day work?
 
-Analyze, discuss and propose possible DevOps solutions for the scenarios below:
+Analyse, discuss and propose possible DevOps solutions for the scenarios below:
 
 1. Development and operations teams have conflicting priorities and communication breakdowns, leading to delays in feature delivery and deployment.
 2. A security vulnerability is discovered in a critical component of the application, posing a significant risk to data integrity and customer privacy.

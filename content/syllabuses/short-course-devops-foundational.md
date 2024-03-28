@@ -58,9 +58,9 @@ Welcome to Umuzi session.
 
 The first session will have introductions between learners and facilitators, how the course is structured, calendar etc.
 
-Then we will chat a about DevOps and create groups to analise some case studies from {{< contentlink path="devops/foundational-short-course/3-devops-questions-1" >}}.
+Then we will chat a about DevOps and create groups to analyse some case studies from {{< contentlink path="devops/foundational-short-course/3-devops-questions-1" >}}.
 
 #### Session #2
-Let's review the case studies analises from last session, chat about DevOps practices, teams, tooling and Platform Engineering.
+Let's review the case studies analyses from last session, chat about DevOps practices, teams, tooling and Platform Engineering.
 
 After that, we will breakdown the group and work through the DevOps scenarios from {{< contentlink path="devops/foundational-short-course/8-devops-questions-2" >}}.
