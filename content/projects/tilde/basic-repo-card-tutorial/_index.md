@@ -40,11 +40,6 @@ If you don't accept the invitation then you don't get access to the repository.
 
 ### Why can't I just give you a link to my work?
 
-I'm going to tell you a little secret. Working with junior developers is annoying. Generally, when a junior developer gets their first job and has to interact with a serious code base and a team of mid and senior developers, they just bump their heads on Git for weeks. Even if they know how to write code, they don't know how to write code on a team of professionals. They don't know how to be useful.
-
-We aim to create useful junior developers. We make professionals. When you get your first job, we want you to keep it. If you get fired because you can't use git then that would be pretty sad.
-
-Generally, when you work on a serious project with a serious team, you'll need to incorporate your code into their repository. So we want you to start practising now.
 
 I admit it might feel a little weird at first, but you'll get the hang of it :)
 
