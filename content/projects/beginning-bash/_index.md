@@ -32,7 +32,7 @@ If this is the first time you've ever opened such a program, DON'T PANIC! You'll
 
 Now you'll need to learn a few basic commands to get by:
 
-http://korflab.ucdavis.edu/bootcamp.html
+http://web.archive.org/web/20231103104737/http://korflab.ucdavis.edu/bootcamp.html
 
 Make sure you understand everything up to step 14. NB: Completing and understanding up to step 14 is essential for the successful completion of this project.
 
