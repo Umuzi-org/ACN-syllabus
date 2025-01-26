@@ -1,0 +1,7 @@
+## Tell us about your personal history. Who are you? Where do you come from? Feel free to include some interesting facts.
+
+I am a graduate of Tshwane University of Technology (TUT) with a degree in Information Technology, specializing in communication networks. I grew up in small village called Tshitavha in Limpopo, where I developed a passion for technology and problem-solving.
+During my studies, I completed a 12-month work-integrated learning program as an IT Technician at the University of Venda, where I gained hands-on experience in troubleshooting, networking, and IT support. This experience helped me develop a strong interest in web development, system administration, and cybersecurity.
+One interesting fact about me is that I enjoy learning new skills and working on practical projects. For example, I recently worked on a public WiFi project, testing outdoor access points for speed, coverage, and security.
+In addition to my technical background, I am a family-oriented person with a 3-year-old daughter who inspires me to work hard and create a stable future. I also enjoy watching funny videos to relax and stay positive.
+I am passionate about building a successful career in web development, combining my creativity and technical skills to create websites and applications that make a difference. My journey so far has taught me the value of hard work, continuous learning, and staying curious.
