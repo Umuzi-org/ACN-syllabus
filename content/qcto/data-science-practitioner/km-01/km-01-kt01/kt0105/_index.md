@@ -1,5 +1,7 @@
 ---
+_db_id:
 content_type: topic
+ready: true
 title:  Global Trends and Big Data
 ---
 
