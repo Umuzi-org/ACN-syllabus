@@ -7,7 +7,7 @@ title: What is data science?
 
 ## KM-01-KT01: What is Data Science?
 
-### Learning Outcome
+### Learning Outcomes
 
 - **KT0101**: Concept
 - **KT0102**: Definition
@@ -51,7 +51,7 @@ Data analysis not only enables predictions but also supports tools that can supp
 
 Visualization and operationalization often go hand-in-hand, as data analysis is communicated through visual representations, making complex data understandable to stakeholders. Operationalization ensures that the insights or predictions derived from data science efforts are actionable and integrated into business decisions.
 
-- **Data Visualization**:  This involves presenting the results of data analysis in a visual format that is intuitive and accessible, considering the context and the users’ needs.
+- **Data Visualization**: This involves presenting the results of data analysis in a visual format that is intuitive and accessible, considering the context and the users’ needs.
 - **Data Operationalization**: The application of insights into real-world decisions. This may include human-driven actions (e.g., adjusting resources based on insights) or automated actions (e.g., AI-based diagnostics).
 
 Successful data science projects not only provide insights but also ensure those insights lead to meaningful actions that drive business outcomes.
@@ -109,13 +109,13 @@ This outline shows that while data science and BI have different focuses, they a
 
 ##### Difference Between Data Science with BI (Business Intelligence)
 
-| Parameters    | Business Intelligence              | Data Science                                  |
-|---------------|-------------------------------------|-----------------------------------------------|
-| Perception    | Looking Backward                    | Looking Forward                               |
-| Data Sources  | Structured Data. Mostly SQL, but some time Data Warehouse) | Structured and Unstructured data. Like logs, SQL, NoSQL, or text |
-| Approach      | Statistics & Visualization          | Statistics, Machine Learning, and Graph       |
-| Emphasis      | Past & Present                      | Analysis & Neuro-linguistic Programming       |
-| Tools         | Pentaho. Microsoft BI, QlikView,    | R, TensorFlow                                 |
+| Parameters   | Business Intelligence                                     | Data Science                                                     |
+| ------------ | --------------------------------------------------------- | ---------------------------------------------------------------- |
+| Perception   | Looking Backward                                          | Looking Forward                                                  |
+| Data Sources | Structured Data. Mostly SQL, but some time Data Warehouse | Structured and Unstructured data. Like logs, SQL, NoSQL, or text |
+| Approach     | Statistics & Visualization                                | Statistics, Machine Learning, and Graph                          |
+| Emphasis     | Past & Present                                            | Analysis & Neuro-linguistic Programming                          |
+| Tools        | Pentaho. Microsoft BI, QlikView,                          | R, TensorFlow                                                    |
 
 ### KT0105: Global Trends and Big Data
 
