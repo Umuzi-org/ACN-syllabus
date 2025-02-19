@@ -2,10 +2,12 @@
 _db_id:
 content_type: topic
 ready: true
-title: How did data science bring change to the world?
+title: Applications of Data Science
 ---
 
-# KT0501: How Did Data Science Bring Change to the World?
+# Applications of Data Science
+
+## How Did Data Science Bring Change to the World?
 
 Data science has revolutionized various fields, driving both societal improvements and advancements in technology. Here are the key ways it is changing the world:
 
@@ -26,3 +28,20 @@ Data science has revolutionized various fields, driving both societal improvemen
    - Platforms like Kaggle host competitions where data scientists work on issues such as identifying households in need of welfare assistance.
 
 As technology evolves, data science is expected to play an even larger role in solving some of the planet's most pressing problems.
+
+## Decision Making in Business
+
+Data science is pivotal for improving decision-making within businesses. Here's how it influences key business areas:
+
+1. **Role of Data Science in Decision Making:**
+   - Data science can significantly enhance decision-making by identifying and analyzing causal relationships in the data, not just by using standard machine learning tools.
+   - The key to improving decisions lies in understanding how certain actions will impact outcomes and using this information to make informed choices.
+
+2. **How Data Science Can Be Used in Business:**
+   - Data scientists analyze raw data to provide actionable insights, which help businesses forecast the success of their strategies.
+   - By turning raw data into useful information ("cooked data"), businesses can better understand their performance, monitor product health, and improve business operations.
+
+3. **Business Intelligence and Strategy:**
+   - Data science provides business intelligence, which is essential for developing strategies that offer the best risk-return trade-off.
+   - Businesses today generate a massive amount of data daily, which is used to gain insights into customer behavior, market trends, and other key business factors.
+   - The insights derived from this data can be used to optimize business practices, enhance consumer experiences, and maintain a competitive advantage.
