@@ -1,5 +1,5 @@
 ---
-_db_id: (leave blank)
+_db_id:
 content_type: topic
 ready: true
 title: What is data science?
