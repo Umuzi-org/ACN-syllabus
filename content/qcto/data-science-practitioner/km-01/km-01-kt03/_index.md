@@ -5,8 +5,6 @@ ready: true
 title: Sources of Data
 ---
 
-## KM-01-KT03: Sources of Data
-
 ### Learning Outcomes
 
 - **KT0301**: Sources and Collection Systems

@@ -5,8 +5,6 @@ ready: true
 title: What is data science?
 ---
 
-## KM-01-KT01: What is Data Science?
-
 ### Learning Outcomes
 
 - **KT0101**: Concept

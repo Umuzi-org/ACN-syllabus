@@ -5,8 +5,6 @@ ready: true
 title: Why Data Science?
 ---
 
-## KM-01-KT02: Why Data Science?
-
 ### Learning Outcomes
 
 - **KT0201**: Benefits to the economy
