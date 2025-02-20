@@ -105,7 +105,7 @@ Here's a summary of the key points from the content provided on data science, da
 
 This outline shows that while data science and BI have different focuses, they are complementary. Data engineering, on the other hand, is essential for enabling effective data science through robust infrastructure.
 
-##### Difference Between Data Science with BI (Business Intelligence)
+#### Difference Between Data Science with BI (Business Intelligence)
 
 | Parameters   | Business Intelligence                                     | Data Science                                                     |
 | ------------ | --------------------------------------------------------- | ---------------------------------------------------------------- |
