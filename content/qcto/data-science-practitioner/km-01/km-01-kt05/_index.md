@@ -5,7 +5,11 @@ ready: true
 title: Applications of Data Science
 ---
 
-## How Did Data Science Bring Change to the World?
+## Learning Outcomes
+- **KT0501**: How did data science bring change to the world?
+- **KT0502**: Decision making in business, including competitive advantage, optimizing business practices, enhancing consumer experience, and healthcare applications.
+
+## KT0501: How did data science bring change to the world?
 
 Data science has revolutionized various fields, driving both societal improvements and advancements in technology. Here are the key ways it is changing the world:
 
@@ -27,7 +31,7 @@ Data science has revolutionized various fields, driving both societal improvemen
 
 As technology evolves, data science is expected to play an even larger role in solving some of the planet's most pressing problems.
 
-## Decision Making in Business
+## KT0502: Decision Making in Business
 
 Data science is pivotal for improving decision-making within businesses. Here's how it influences key business areas:
 

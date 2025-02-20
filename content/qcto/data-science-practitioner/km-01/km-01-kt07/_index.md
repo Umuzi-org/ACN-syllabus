@@ -5,7 +5,13 @@ ready: true
 title: Big Data
 ---
 
-## Volume, Velocity, Variety, and Veracity (The Four Vs of Big Data)
+## Learning Outcome
+- **KT0701**: Volume, Velocity, Variety, and Veracity
+- **KT0702**: Sources
+- **KT0703**: Applications
+- **KT0704**: Benefits
+
+## KT0701: Volume, Velocity, Variety, and Veracity (The Four Vs of Big Data)
 
 ### Volume
 - **Definition:** The sheer amount of data that needs processing.
@@ -27,7 +33,7 @@ title: Big Data
 - **Characteristics:** Big data is often messy, inconsistent, and incomplete, making it challenging to assess its accuracy.
 - **Examples:** Ensuring accurate analysis despite data discrepancies.
 
-## Sources of Big Data
+## KT0702: Sources of Big Data
 
 ### Social Data
 - **Examples:** Likes, tweets, comments, video uploads, and other social media interactions.
@@ -44,7 +50,7 @@ title: Big Data
 ### Unlocking Real Value
 Combining social, machine, and transactional data helps generate actionable insights that drive business decisions. CloudMoyo assists companies with analytics strategies to unlock this value.
 
-## Applications of Big Data
+## KT0703: Applications of Big Data
 
 ### Integration
 - **Definition:** Bringing together data from different sources and ensuring it's formatted for analysis.
@@ -58,7 +64,7 @@ Combining social, machine, and transactional data helps generate actionable insi
 - **Definition:** Analyzing the data to uncover patterns, correlations, and predictions using tools like machine learning and AI.
 - **Best Practices:** Ensure business goals drive the use of big data and employ proper governance and standards. 
 
-## Benefits of Big Data
+## KT0704: Benefits of Big Data
 
 1. **Cost Reduction:** Big data tools can help identify inefficiencies and reduce operational costs. 
 

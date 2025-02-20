@@ -5,7 +5,15 @@ ready: true
 title: Attributes of a Data Science Practitioner
 ---
 
-## Data Science Jobs, Roles, and Career Path Progression
+## Learning Outcomes
+- **KT0601**: Data science jobs, roles, and career path progression
+- **KT0602**: Attributes of a data science practitioner
+- **KT0603**: Oral and written communication skills
+- **KT0604**: Attention to detail
+- **KT0605**: Analytical thinking
+
+
+## KT0601: Data Science Jobs, Roles, and Career Path Progression
 
 **What Jobs Do Data Scientists Do?** A career as a data scientist involves turning data into value. Responsibilities include retrieving and analyzing data to improve business performance and building AI tools to automate tasks.
 
@@ -47,7 +55,7 @@ title: Attributes of a Data Science Practitioner
    - Create blueprints for data management and ensure integration, security, and scalability.
    - Expertise in data warehousing and ETL processes.
 
-## Attributes of a Data Science Practitioner
+## KT0602: Attributes of a Data Science Practitioner
 
 ### Types of Attributes in Data Science:
 
@@ -67,11 +75,11 @@ title: Attributes of a Data Science Practitioner
 
 - **Nominal, Binary, Ordinal, and Numeric Attributes**  help in categorizing and analyzing data efficiently in machine learning, statistics, and data analytics.
 
-## Oral and Written Communication Skills
+## KT0603: Oral and Written Communication Skills
 
 Verbal and written communication involve articulating thoughts effectively through speech and writing. It also includes non-verbal communication skills like body language and active listening, which are vital for clear expression and understanding.
 
-## Attention to Detail
+## KT0604: Attention to Detail
 
 **Definition:** Attention to detail refers to the ability to complete tasks thoroughly, ensuring that every part of the task is done with precision, regardless of its size.
 
@@ -87,7 +95,7 @@ Verbal and written communication involve articulating thoughts effectively throu
 5. **Practice Focus-Enhancing Games** Engage in activities that strengthen concentration.
 6. **Learn to Meditate** Improve mental clarity and attention through meditation.
 
-## Analytical Thinking
+## KT0605: Analytical Thinking
 
 **Definition:** Analytical thinking involves breaking down complex information, identifying patterns, and checking whether statements logically follow based on the facts.
 
