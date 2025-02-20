@@ -6,22 +6,14 @@ title: Ensuring Access to Accurate Data
 ---
 
 
-
-### Learning Outcomes
-
-1. **KT0401**: Electronically identifying and classifying documents
-2. **KT0402**: Capturing data from documents
-3. **KT0403**: Ensuring users only see the information they need
-4. **KT0404**: Indexing data for ease of search and retrieval
-
-#### KT0401: Electronically Identifying and Classifying Documents
+#### Electronically Identifying and Classifying Documents
 
 - **What is Electronic Identity Verification**? Electronic identity verification matches data like name, date of birth, address, and SSN against databases to confirm identity. Electronic IDs (eID) serve as digital proofs for identity verification, enabling access to government benefits, bank services, and mobile payments.
   EIV helps in combating financial crimes like money laundering and fraud by verifying customer identity, enhancing the Know Your Customer (KYC) process. This includes both basic information (name, ID, address, etc.) and more complex data (social media, financial information) that enriches customer risk profiles.
 
 - **Real-time Identity Verification**: Real-time identity verification builds upon EIV and provides updated, immediate information across platforms. It enhances financial institutions' abilities to detect suspicious activities and comply with regulatory requirements.
 
-#### KT0402: Capturing Data from Documents
+#### Capturing Data from Documents
 
 - **What is Data Capturing**? Data capture involves extracting relevant information from documents (e.g., scanned images, PDFs, or handwritten notes) to streamline processes such as inventory management in hospitals.
 
@@ -36,7 +28,7 @@ title: Ensuring Access to Accurate Data
 
 - **Solutions for Capturing Data**: Tools like Brainware and Athento utilize these technologies to automate data extraction, validation, and categorization, reducing manual errors and increasing efficiency.
 
-#### KT0403: Ensuring Users Only See the Information They Need
+#### Ensuring Users Only See the Information They Need
 
 - **The Six Steps to Optimal Data Capture**:
 
@@ -47,7 +39,7 @@ title: Ensuring Access to Accurate Data
   5. **QA and Reconciliation**: Verifying the accuracy of the captured data through manual checks.
   6. **Upload and Output**: Uploading data into relevant systems or repositories for further use.
 
-#### KT0404: Indexing Data for Ease of Search and Retrieval
+#### Indexing Data for Ease of Search and Retrieval
 
 - **What is Indexing Data**? Indexing is a method used to optimize database performance by reducing disk accesses needed for querying data. It creates a sorted structure (index) to quickly locate and retrieve information in a database.
 

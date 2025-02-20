@@ -5,14 +5,8 @@ ready: true
 title: Sources of Data
 ---
 
-### Learning Outcomes
 
-- **KT0301**: Sources and Collection Systems
-- **KT0302**: Data Capturing Systems and Processes
-- **KT0303**: Parameters for Data Capturing Systems and Processes
-- **KT0304**: Maintenance of Data Capturing Systems and Processes
-
-### KT0301: Sources and Collection Systems
+### Sources and Collection Systems
 
 #### What are the main sources of data?
 
@@ -30,7 +24,7 @@ title: Sources of Data
 
 2. **External Sources**: Data collected from outside the organization, such as government reports, industry studies, or data from partner companies.
 
-### KT0302: Data Capturing Systems and Processes
+### Data Capturing Systems and Processes
 
 #### What is a Data Capture System?
 
@@ -48,7 +42,7 @@ A data capture system is a method used to collect, store, and manage data electr
 
 - **Barcode Technology**: Data is captured through barcodes, reducing manual entry.
 
-### KT0303: Parameters for Data Capturing Systems and Processes
+### Parameters for Data Capturing Systems and Processes
 
 #### What is Data Capture?
 
@@ -68,7 +62,7 @@ Data capture is the process of collecting and converting structured or unstructu
 
 - **Automated Data Capture**: Uses technologies like OCR, ICR, and AI to automate the extraction of data from documents and forms.
 
-### KT0304: Maintenance of Data Capturing Systems and Processes
+### Maintenance of Data Capturing Systems and Processes
 
 #### How Can Data Capturing Be Improved?
 
@@ -81,4 +75,3 @@ Data capture is the process of collecting and converting structured or unstructu
 4. **Introduce Smart Automation Tools**: Use tools like Machine Learning to automate and enhance data collection.
 
 5. **Provide Feedback**: Continuously monitor and refine data collection processes based on feedback to improve accuracy.
-

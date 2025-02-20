@@ -5,15 +5,8 @@ ready: true
 title: What is data science?
 ---
 
-### Learning Outcomes
 
-- **KT0101**: Concept
-- **KT0102**: Definition
-- **KT0103**: Distinguishing Data Science from Data Engineering
-- **KT0104**: Differentiating Data Science and Business Intelligence
-- **KT0105**: Exploring Global Trends and Big Data
-
-### KT0101: Concept
+### Concept
 
 #### What is Data Science?
 
@@ -54,7 +47,7 @@ Visualization and operationalization often go hand-in-hand, as data analysis is 
 
 Successful data science projects not only provide insights but also ensure those insights lead to meaningful actions that drive business outcomes.
 
-### KT0102: Definition
+### Definition
 
 #### What is Data Science?
 
@@ -68,7 +61,7 @@ Data science includes:
 
 In essence, data science empowers organizations to leverage their data for greater business success.
 
-### KT0103: Differentiation between Data Science and Data Engineering
+### Differentiation between Data Science and Data Engineering
 
 Here's a summary of the key points from the content provided on data science, data engineering, and business intelligence:
 
@@ -115,7 +108,7 @@ This outline shows that while data science and BI have different focuses, they a
 | Emphasis     | Past & Present                                            | Analysis & Neuro-linguistic Programming                          |
 | Tools        | Pentaho. Microsoft BI, QlikView,                          | R, TensorFlow                                                    |
 
-### KT0105: Global Trends and Big Data
+### Global Trends and Big Data
 
 #### What is Trend Analysis in Big Data?
 

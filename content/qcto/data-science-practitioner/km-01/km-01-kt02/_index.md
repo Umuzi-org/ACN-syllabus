@@ -5,20 +5,14 @@ ready: true
 title: Why Data Science?
 ---
 
-### Learning Outcomes
 
-- **KT0201**: Benefits to the economy
-- **KT0202**: Benefits to society and communities
-- **KT0203**: Benefits to businesses
-- **KT0204**: Benefits to individuals
-
-### KT0201: Benefits to the Economy
+### Benefits to the Economy
 
 #### How is Data Science Useful in Economics?
 
 Data science plays a crucial role in enhancing economic decision-making. By leveraging big data, new analytic tools, and advanced algorithms, economists can better understand complex economic patterns, predict trends, and make informed decisions. Data science enables economists to apply theoretical models to real-world situations across industries like finance, government, and entertainment. Key elements of this field, such as programming, artificial intelligence, and machine learning, equip professionals to make more accurate economic decisions, ultimately guiding economic policy and boosting overall market efficiency.
 
-### KT0202: Benefits to Society and Communities
+### Benefits to Society and Communities
 
 #### How Has Data Science Impacted Society?
 
@@ -28,7 +22,7 @@ Data science has a profound effect on societal well-being. When mission-driven o
 
 Organizations such as Data Science for Social Good (DSSG) empower not-for-profit organizations and government bodies to use data effectively. By improving services, outreach, and interventions, data science helps these entities achieve their missions of enhancing lives and fostering positive social change.
 
-### KT0203: Benefits to Businesses
+### Benefits to Businesses
 
 #### Why is Data Science Important in Business?
 
@@ -48,7 +42,7 @@ Data science empowers businesses to monitor, manage, and optimize performance, l
 
 6. **Facilitates Informed Decision-Making**: The ability to analyze and visualize real-time data through dashboards improves the decision-making process. With accurate, timely insights, managers can act swiftly to seize opportunities and address challenges.
 
-### KT0204: Benefits to Individuals
+### Benefits to Individuals
 
 #### What Are the Benefits of Data Science for Individuals?
 
