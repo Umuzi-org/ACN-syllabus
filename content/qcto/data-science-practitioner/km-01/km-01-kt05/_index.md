@@ -5,8 +5,6 @@ ready: true
 title: Applications of Data Science
 ---
 
-# Applications of Data Science
-
 ## How Did Data Science Bring Change to the World?
 
 Data science has revolutionized various fields, driving both societal improvements and advancements in technology. Here are the key ways it is changing the world:

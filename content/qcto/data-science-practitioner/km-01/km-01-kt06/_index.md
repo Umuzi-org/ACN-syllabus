@@ -5,12 +5,9 @@ ready: true
 title: Attributes of a Data Science Practitioner
 ---
 
-# Attributes of a Data Science Practitioner
-
 ## Data Science Jobs, Roles, and Career Path Progression
 
-### What Jobs Do Data Scientists Do?
-A career as a data scientist involves turning data into value. Responsibilities include retrieving and analyzing data to improve business performance and building AI tools to automate tasks.
+**What Jobs Do Data Scientists Do?** A career as a data scientist involves turning data into value. Responsibilities include retrieving and analyzing data to improve business performance and building AI tools to automate tasks.
 
 ### Types of Data Science Jobs:
 1. **Data Scientist**

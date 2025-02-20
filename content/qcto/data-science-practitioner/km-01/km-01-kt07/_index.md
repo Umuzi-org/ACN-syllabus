@@ -5,8 +5,6 @@ ready: true
 title: Big Data
 ---
 
-# Big Data
-
 ## Volume, Velocity, Variety, and Veracity (The Four Vs of Big Data)
 
 ### Volume
