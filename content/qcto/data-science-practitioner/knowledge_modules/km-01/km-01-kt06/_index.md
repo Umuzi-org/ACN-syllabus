@@ -2,7 +2,7 @@
 _db_id:
 content_type: topic
 ready: true
-title: Attributes of a Data Science Practitioner
+title: KM-01-KT06 Attributes of a Data Science Practitioner
 ---
 
 ## Learning Outcomes
