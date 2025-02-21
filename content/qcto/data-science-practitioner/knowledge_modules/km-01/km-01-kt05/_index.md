@@ -2,7 +2,7 @@
 _db_id:
 content_type: topic
 ready: true
-title: KM-01-KT07 Applications of Data Science
+title: KM-01-KT05 Applications of Data Science
 ---
 
 ## Learning Outcomes
