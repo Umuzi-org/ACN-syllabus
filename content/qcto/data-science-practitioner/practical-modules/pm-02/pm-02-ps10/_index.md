@@ -5,7 +5,7 @@ prerequisites:
   hard:
     - topics/solo-learn/python/intro-to-python/1-getting-started-with-python-project/
 ready: true
-title: Code Loops (Tailored to a Specific Tool or Platform)
+title: 10-PM-02-PS10 Code Loops (Tailored to a Specific Tool or Platform)
 ---
 
 #### Overview
