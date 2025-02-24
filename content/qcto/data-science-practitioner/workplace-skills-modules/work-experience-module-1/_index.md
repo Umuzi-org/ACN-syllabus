@@ -1,5 +1,4 @@
 ---
-_db_id:
 content_type: project
 flavours:
   - none

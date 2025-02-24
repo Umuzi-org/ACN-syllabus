@@ -1,5 +1,4 @@
 ---
-_db_id:
 content_type: topic
 ready: true
 title: KM-01-KT07 Big Data
