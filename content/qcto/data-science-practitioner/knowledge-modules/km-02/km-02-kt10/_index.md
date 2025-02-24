@@ -1,5 +1,4 @@
 ---
-_db_id:
 content_type: topic
 ready: true
 title: KM-02-KT10: Increments
