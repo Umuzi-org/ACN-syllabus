@@ -12,3 +12,4 @@ umuzi-tech-dept
 /.vs
 downloaded_videos/
 .hugo_build.lock
+.DS_Store

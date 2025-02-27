@@ -1,0 +1,24 @@
+name: Deploy to DigitalOcean
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repository checkout
+        uses: actions/checkout@v2
+
+      - name: Deploy Latest Build
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.DO_HOST }}
+          key: ${{ secrets.DO_KEY }}
+          username: ${{ secrets.DO_USERNAME }}
+          port: ${{ secrets.DO_PORT }}
+          script: |
+            # WIP

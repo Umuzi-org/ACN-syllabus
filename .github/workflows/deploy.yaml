@@ -1,0 +1,23 @@
+name: Deploy syllabus to Google Cloud bucket
+
+on:
+  push:
+    branches:
+      - develop
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repository checkout
+        uses: actions/checkout@v2
+
+      - name: Deploy Syllabus
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.BUILD_SERVER_HOST }}
+          key: ${{ secrets.BUILD_SERVER_KEY }}
+          username: ${{ secrets.BUILD_SERVER_USERNAME }}
+          script: |
+            # WIP
