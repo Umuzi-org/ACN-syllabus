@@ -28,7 +28,7 @@ https://www.softcover.io/read/fc6c09de/unix_commands/basics
 
 ### Command-line bootcamp
 
-http://korflab.ucdavis.edu/bootcamp.html
+https://github.com/KorfLab/unix_and_perl/blob/main/bootcamp.md
 
 This covers some of the same material as "Conquering the command line". If you understand all this then you are in a good place :)
 
