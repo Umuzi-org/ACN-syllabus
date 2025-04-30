@@ -17,8 +17,11 @@ jobs:
 
       - name: Install Hugo
         run: |
-          chmod +x ./install_hugo.sh
-          ./install_hugo.sh
+          wget "https://github.com/gohugoio/hugo/releases/download/v0.111.3/hugo_0.111.3_Linux-64bit.tar.gz" && \
+          tar -xf hugo_0.111.3_Linux-64bit.tar.gz hugo -C / && \
+          sudo mv hugo /usr/bin/hugo && \
+          rm -rf hugo_0.111.3_Linux-64bit.tar.gz
+          hugo
 
       - name: Set up Python 3.10
         uses: actions/setup-python@v4
