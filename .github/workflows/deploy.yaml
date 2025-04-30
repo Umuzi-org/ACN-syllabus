@@ -93,14 +93,6 @@ jobs:
         run: |
           echo "${{ secrets.GCP_APP_CREDENTIALS_B64 }}" | base64 --decode > $HOME/prod-key.json
 
-      - name: Decode and export environment variables
-        run: |
-          echo "${{ secrets.TILDE_SQL_CREDS_B64 }}" | base64 --decode > $HOME/env_vars.sh
-          cat $HOME/env_vars.sh
-          set -a  # export all variables loaded from file
-          source $HOME/env_vars.sh
-          set +a
-
       # Start Cloud SQL Proxy using Docker
       - name: Start Cloud SQL Proxy
         run: |
@@ -123,6 +115,13 @@ jobs:
       - name: Ingest syllabus into Tilde
         working-directory: ./tilde
         run: |
+          # Decode and export environment variables
+          echo "${{ secrets.TILDE_SQL_CREDS_B64 }}" | base64 --decode > $HOME/secrets
+          set -o allexport
+          source $HOME/secrets
+          set +o allexport
+          rm $HOME/secrets
+
           cd backend
           source venv/bin/activate
           python manage.py load_content_from_syllabus_repo_hugo ../../syllabus 1 1
