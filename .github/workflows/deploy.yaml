@@ -92,7 +92,6 @@ jobs:
       - name: Decode GCP App Credentials
         run: |
           echo "${{ secrets.GCP_APP_CREDENTIALS_B64 }}" | base64 --decode > $HOME/prod-key.json
-          export GOOGLE_APPLICATION_CREDENTIALS=$HOME/prod-key.json
 
       - name: Decode and export environment variables
         run: |
@@ -106,7 +105,7 @@ jobs:
       - name: Start Cloud SQL Proxy
         run: |
           docker run -d \
-            -v $GOOGLE_APPLICATION_CREDENTIALS:/config \
+            -v $HOME/prod-key.json:/config \
             -p 127.0.0.1:5437:5432 \
             gcr.io/cloudsql-docker/gce-proxy:1.12 /cloud_sql_proxy \
             -instances=$SQL_CONNECTION_NAME=tcp:0.0.0.0:5432 -credential_file=/config
