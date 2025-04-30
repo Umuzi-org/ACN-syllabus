@@ -1,0 +1,28 @@
+name: Run Python Linter
+
+on:
+  pull_request:
+  push:
+    branches: [develop]
+
+jobs:
+  run-linter:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install Pipenv
+        run: pip install pipenv
+
+      - name: Install dependencies
+        run: pipenv install
+
+      - name: Run linter
+        run: pipenv run python lint.py
