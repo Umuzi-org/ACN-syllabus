@@ -11,7 +11,14 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      - name: Install Hugo
+        run: |
+          chmod +x ./install_hugo.sh
+          ./install_hugo.sh
 
       - name: Set up Python 3.10
         uses: actions/setup-python@v4
