@@ -122,7 +122,8 @@ jobs:
 
       # Ingest syllabus into Tilde
       - name: Ingest syllabus into Tilde
+        working-directory: ./tilde
         run: |
-          cd tilde/backend
+          cd backend
           source venv/bin/activate
           python manage.py load_content_from_syllabus_repo_hugo ../syllabus 1 1
