@@ -95,6 +95,8 @@ jobs:
 
       # Start Cloud SQL Proxy using Docker
       - name: Start Cloud SQL Proxy
+        env:
+          SQL_CONNECTION_NAME: ${{ secrets.SQL_CONNECTION_NAME }}
         run: |
           docker run -d \
             -v $HOME/prod-key.json:/config \
@@ -114,14 +116,12 @@ jobs:
       # Ingest syllabus into Tilde
       - name: Ingest syllabus into Tilde
         working-directory: ./tilde
+        env:
+          TILDE_SQL_PORT: ${{ secrets.TILDE_SQL_PORT }}
+          TILDE_SQL_DB: ${{ secrets.TILDE_SQL_DB }}
+          TILDE_SQL_USER: ${{ secrets.TILDE_SQL_USER }}
+          TILDE_SQL_PASS: ${{ secrets.TILDE_SQL_PASS }}
         run: |
-          # Decode and export environment variables
-          echo "${{ secrets.TILDE_SQL_CREDS_B64 }}" | base64 --decode > $HOME/secrets
-          set -o allexport
-          source $HOME/secrets
-          set +o allexport
-          rm $HOME/secrets
-
           cd backend
           source venv/bin/activate
           python manage.py load_content_from_syllabus_repo_hugo ../../syllabus 1 1
