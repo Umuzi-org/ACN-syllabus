@@ -95,11 +95,11 @@ jobs:
 
       - name: Decode and export environment variables
         run: |
-          echo "${{ secrets.TILDE_SQL_CREDS_B64 }}" | base64 --decode > $HOME/env_vars.sh
-          cat $HOME/env_vars.sh
-          set -a  # export all variables loaded from file
-          source $HOME/env_vars.sh
-          set +a
+          echo "${{ secrets.TILDE_SQL_CREDS_B64 }}" | base64 --decode > $HOME/secrets
+          set -o allexport
+          source $HOME/secrets
+          set +o allexport
+          rm $HOME/secrets
 
       # Start Cloud SQL Proxy using Docker
       - name: Start Cloud SQL Proxy
