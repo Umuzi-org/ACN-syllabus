@@ -1,4 +1,4 @@
-name: Deploy Hugo Site to Google Cloud
+name: Deploy & Ingest the Syllabus
 
 on:
   push:
@@ -12,6 +12,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
+          path: syllabus
           submodules: recursive
 
       - name: Install Hugo
@@ -32,12 +33,15 @@ jobs:
         run: python3.10 -m pip install pipenv
 
       - name: Install dependencies
+        working-directory: ./syllabus
         run: pipenv install --python=$(which python3.10)
 
       - name: Run linter
+        working-directory: ./syllabus
         run: pipenv run python lint.py
 
       - name: Build Hugo Site
+        working-directory: ./syllabus
         run: hugo
 
       - name: Install Google Cloud CLI
@@ -55,4 +59,71 @@ jobs:
         run: rm -f $HOME/gcloud-key.json
 
       - name: Deploy to Google Cloud Storage
+        working-directory: ./syllabus
         run: gcloud storage rsync -r public gs://syllabus.africacode.net
+
+      - name: Clone Tilde repo
+        uses: actions/checkout@v4
+        with:
+          repository: Umuzi-org/Tilde
+          path: tilde
+
+      - name: Set up virtual environment for Tilde
+        working-directory: ./tilde
+        run: |
+          cd backend
+
+          # Create a virtual environment
+          python3.10 -m venv venv
+
+          # Activate the virtual environment
+          source venv/bin/activate
+
+          # Install dependencies
+          pip install wheel
+          pip install -r requirements.txt
+
+          # Install Playwright (if necessary for your app)
+          playwright install
+
+      - name: Set up Docker
+        uses: docker/setup-docker-action@v4
+
+      - name: Decode GCP App Credentials
+        run: |
+          echo "${{ secrets.GCP_APP_CREDENTIALS_B64 }}" | base64 --decode > $HOME/prod-key.json
+          export GOOGLE_APPLICATION_CREDENTIALS=$HOME/prod-key.json
+
+      - name: Decode and export environment variables
+        run: |
+          echo "${{ secrets.TILDE_SQL_CREDS_B64 }}" | base64 --decode > $HOME/env_vars.sh
+          cat $HOME/env_vars.sh
+          set -a  # export all variables loaded from file
+          source $HOME/env_vars.sh
+          set +a
+
+      -  # Start Cloud SQL Proxy using Docker
+      - name: Start Cloud SQL Proxy
+        run: |
+          docker run -d \
+            -v $GOOGLE_APPLICATION_CREDENTIALS:/config \
+            -p 127.0.0.1:5437:5432 \
+            gcr.io/cloudsql-docker/gce-proxy:1.12 /cloud_sql_proxy \
+            -instances=$SQL_CONNECTION_NAME=tcp:0.0.0.0:5432 -credential_file=/config
+
+      - name: Wait for Cloud SQL Proxy to be available
+        run: |
+          echo "Checking Cloud SQL Proxy availability on port 5437..."
+          until nc -z 127.0.0.1 5437; do
+            echo "Waiting for Cloud SQL Proxy..."
+            sleep 1
+          done
+          echo "Cloud SQL Proxy is up!"
+
+      # Ingest syllabus into Tilde
+      - name: Ingest syllabus into Tilde
+        working-directory: ./tilde
+        run: |
+          cd backend
+          source venv/bin/activate
+          python manage.py load_content_from_syllabus_repo_hugo ../syllabus 1 1
