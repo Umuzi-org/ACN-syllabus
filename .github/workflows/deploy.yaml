@@ -102,7 +102,7 @@ jobs:
           source $HOME/env_vars.sh
           set +a
 
-      -  # Start Cloud SQL Proxy using Docker
+      # Start Cloud SQL Proxy using Docker
       - name: Start Cloud SQL Proxy
         run: |
           docker run -d \
