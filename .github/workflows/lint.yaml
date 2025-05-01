@@ -21,7 +21,6 @@ jobs:
           tar -xf hugo_0.111.3_Linux-64bit.tar.gz hugo -C / && \
           sudo mv hugo /usr/bin/hugo && \
           rm -rf hugo_0.111.3_Linux-64bit.tar.gz
-          hugo
 
       - name: Set up Python 3.10
         uses: actions/setup-python@v4
