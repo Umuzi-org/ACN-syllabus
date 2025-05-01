@@ -7,7 +7,8 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
+    # runs-on: ubuntu-latest  # can revert to this if self-hosted runner is not setup
+    runs-on: [self-hosted]
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
