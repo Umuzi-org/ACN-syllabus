@@ -16,12 +16,13 @@ jobs:
           path: syllabus
           submodules: recursive
 
-      - name: Install Hugo
-        run: |
-          wget "https://github.com/gohugoio/hugo/releases/download/v0.111.3/hugo_0.111.3_Linux-64bit.tar.gz" && \
-          tar -xf hugo_0.111.3_Linux-64bit.tar.gz hugo -C / && \
-          mv hugo /usr/bin/hugo && \
-          rm -rf hugo_0.111.3_Linux-64bit.tar.gz
+      # uncomment if using GH shared runners
+      # - name: Install Hugo
+      #   run: |
+      #     wget "https://github.com/gohugoio/hugo/releases/download/v0.111.3/hugo_0.111.3_Linux-64bit.tar.gz" && \
+      #     tar -xf hugo_0.111.3_Linux-64bit.tar.gz hugo -C / && \
+      #     mv hugo /usr/bin/hugo && \
+      #     rm -rf hugo_0.111.3_Linux-64bit.tar.gz
 
       # run linter steps again
       # (may need to remove but no harm in having it run again)
@@ -45,8 +46,9 @@ jobs:
         working-directory: ./syllabus
         run: hugo
 
-      - name: Install Google Cloud CLI
-        run: snap install google-cloud-cli --classic
+      # uncomment if using GH shared runners
+      # - name: Install Google Cloud CLI
+      #   run: sudo snap install google-cloud-cli --classic
 
       - name: Decode and Authenticate with GCP
         run: |
