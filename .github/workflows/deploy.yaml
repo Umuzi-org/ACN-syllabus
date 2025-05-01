@@ -24,21 +24,21 @@ jobs:
 
       # run linter steps again
       # (may need to remove but no harm in having it run again)
-      - name: Set up Python 3.10
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.10"
+      # - name: Set up Python 3.10
+      #   uses: actions/setup-python@v4
+      #   with:
+      #     python-version: "3.10"
 
-      - name: Install Pipenv
-        run: python3.10 -m pip install pipenv
+      # - name: Install Pipenv
+      #   run: python3.10 -m pip install pipenv
 
-      - name: Install dependencies
-        working-directory: ./syllabus
-        run: pipenv install --python=$(which python3.10)
+      # - name: Install dependencies
+      #   working-directory: ./syllabus
+      #   run: pipenv install --python=$(which python3.10)
 
-      - name: Run linter
-        working-directory: ./syllabus
-        run: pipenv run python lint.py
+      # - name: Run linter
+      #   working-directory: ./syllabus
+      #   run: pipenv run python lint.py
 
       - name: Build Hugo Site
         working-directory: ./syllabus
@@ -82,9 +82,6 @@ jobs:
           # Install dependencies
           pip install wheel
           pip install -r requirements.txt
-
-          # Install Playwright (if necessary for your app)
-          playwright install
 
       - name: Set up Docker
         uses: docker/setup-docker-action@v4
