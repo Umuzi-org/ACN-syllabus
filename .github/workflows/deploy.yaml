@@ -20,7 +20,7 @@ jobs:
         run: |
           wget "https://github.com/gohugoio/hugo/releases/download/v0.111.3/hugo_0.111.3_Linux-64bit.tar.gz" && \
           tar -xf hugo_0.111.3_Linux-64bit.tar.gz hugo -C / && \
-          sudo mv hugo /usr/bin/hugo && \
+          mv hugo /usr/bin/hugo && \
           rm -rf hugo_0.111.3_Linux-64bit.tar.gz
 
       # run linter steps again
@@ -46,7 +46,7 @@ jobs:
         run: hugo
 
       - name: Install Google Cloud CLI
-        run: sudo snap install google-cloud-cli --classic
+        run: snap install google-cloud-cli --classic
 
       - name: Decode and Authenticate with GCP
         run: |
