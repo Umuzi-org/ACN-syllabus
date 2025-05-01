@@ -42,7 +42,7 @@ jobs:
 
       - name: Build Hugo Site
         working-directory: ./syllabus
-        run: hugo
+        run: hugo # if linter steps are active, remove this step
 
       - name: Install Google Cloud CLI
         run: sudo snap install google-cloud-cli --classic
