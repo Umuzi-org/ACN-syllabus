@@ -16,7 +16,7 @@ try {
 }
 ```
 
-Basically that says: Squash the error, log it, and move on. There are situations where that is the right thing to do. 99% of the time it's the wrong thing to do. 
+Basically that says: Squash the error, log it, and move on. There are situations where that is the right thing to do. 99% of the time it's the wrong thing to do.
 
 Did you know that errors were implemented by very clever people? They were implemented in Javascript, Python, C#, Java, Clojure, Go and basically all languages because they are actually really useful. Always imagine how the code might be used in a larger application. If you are logging your errors to the console then any calling code would need to monitor the console logs in order to know if there was an error and figure out what to do about it. This would be insane.
 
@@ -30,7 +30,7 @@ This is also fairly common:
 
 ```
 try {
-    stuff()
+    stuff(withstuff)
 } catch(err) {
     throw err
 }
@@ -42,7 +42,7 @@ Of course the following code does the exact same thing:
 
 ```
 // try {
-    stuff()   // this is the only line that is worth keeping
+    stuff(withstuff)   // this is the only line that is worth keeping
 // } catch(err) {
 //    throw err
 // }
@@ -79,7 +79,6 @@ if(typeof number !== 'number') {
     console.log"File not found");
 }
 ```
-
 
 ## References
 
