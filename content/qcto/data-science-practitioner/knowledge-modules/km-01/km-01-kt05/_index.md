@@ -1,0 +1,48 @@
+---
+content_type: topic
+ready: true
+title: KM-01-KT05 Applications of Data Science
+---
+
+## Learning Outcomes
+- **KT0501**: How did data science bring change to the world?
+- **KT0502**: Decision making in business, including competitive advantage, optimizing business practices, enhancing consumer experience, and healthcare applications.
+
+## KT0501: How did data science bring change to the world?
+
+Data science has revolutionized various fields, driving both societal improvements and advancements in technology. Here are the key ways it is changing the world:
+
+1. **Healthcare Advancements:**
+   - Data science has proven instrumental in solving significant health issues. For example, it is being used to prevent blindness, treat drug and alcohol addiction, and combat various diseases.
+   - Data is also vital in identifying patterns that lead to better disease prediction, prevention, and treatment strategies.
+
+2. **Global Warming and Climate Change:**
+   - Data science plays a crucial role in combating climate change. For example, satellite data helps monitor climate change from space, and collaborative platforms like the **Climate Data Partnership** focus on using combined data to understand the condition of the planet, including carbon emissions, deforestation, and global supply chain impacts.
+   - Key efforts aim to reduce carbon emissions by 45% from 2010 levels, as advised by the **Intergovernmental Panel on Climate Change (IPCC)**.
+
+3. **Empowering Developing Countries:**
+   - Data science is helping developing countries overcome infrastructure challenges and improve areas like agriculture, disease control, and disaster management.
+   - Companies like Microsoft, Amazon, Facebook, and Google support analytics programs to improve life expectancy, extend the quality of life, and mitigate risks like Ebola outbreaks.
+
+4. **Social Good Initiatives:**
+   - Global initiatives like **Data Science for Social Good** bring together data scientists to work on projects aimed at improving societal outcomes. Past projects have addressed homelessness in the UK, biomedical research efficiency, and identifying at-risk students.
+   - Platforms like Kaggle host competitions where data scientists work on issues such as identifying households in need of welfare assistance.
+
+As technology evolves, data science is expected to play an even larger role in solving some of the planet's most pressing problems.
+
+## KT0502: Decision Making in Business
+
+Data science is pivotal for improving decision-making within businesses. Here's how it influences key business areas:
+
+1. **Role of Data Science in Decision Making:**
+   - Data science can significantly enhance decision-making by identifying and analyzing causal relationships in the data, not just by using standard machine learning tools.
+   - The key to improving decisions lies in understanding how certain actions will impact outcomes and using this information to make informed choices.
+
+2. **How Data Science Can Be Used in Business:**
+   - Data scientists analyze raw data to provide actionable insights, which help businesses forecast the success of their strategies.
+   - By turning raw data into useful information ("cooked data"), businesses can better understand their performance, monitor product health, and improve business operations.
+
+3. **Business Intelligence and Strategy:**
+   - Data science provides business intelligence, which is essential for developing strategies that offer the best risk-return trade-off.
+   - Businesses today generate a massive amount of data daily, which is used to gain insights into customer behavior, market trends, and other key business factors.
+   - The insights derived from this data can be used to optimize business practices, enhance consumer experiences, and maintain a competitive advantage.

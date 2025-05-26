@@ -1,0 +1,129 @@
+name: Deploy & Ingest the Syllabus
+
+on:
+  push:
+    branches:
+      - develop
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          path: syllabus
+          submodules: recursive
+
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install Hugo
+        run: |
+          wget "https://github.com/gohugoio/hugo/releases/download/v0.111.3/hugo_0.111.3_Linux-64bit.tar.gz" && \
+          tar -xf hugo_0.111.3_Linux-64bit.tar.gz hugo -C / && \
+          sudo mv hugo /usr/bin/hugo && \
+          rm -rf hugo_0.111.3_Linux-64bit.tar.gz
+
+      # run linter steps again
+      # (may need to remove but no harm in having it run again)
+      # - name: Set up Python 3.10
+      #   uses: actions/setup-python@v4
+      #   with:
+      #     python-version: "3.10"
+
+      # - name: Install Pipenv
+      #   run: python3.10 -m pip install pipenv
+
+      # - name: Install dependencies
+      #   working-directory: ./syllabus
+      #   run: pipenv install --python=$(which python3.10)
+
+      # - name: Run linter
+      #   working-directory: ./syllabus
+      #   run: pipenv run python lint.py
+
+      - name: Build Hugo Site
+        working-directory: ./syllabus
+        run: hugo # if linter steps are active, remove this step
+
+      - name: Install Google Cloud CLI
+        run: sudo snap install google-cloud-cli --classic
+
+      - name: Decode and Authenticate with GCP
+        run: |
+          echo "${{ secrets.GCP_CREDENTIALS_B64 }}" | base64 --decode > $HOME/gcloud-key.json
+          gcloud auth activate-service-account --key-file=$HOME/gcloud-key.json
+        env:
+          CLOUDSDK_CORE_DISABLE_PROMPTS: "1"
+
+      - name: Remove GCP credentials
+        if: always()
+        run: rm -f $HOME/gcloud-key.json
+
+      - name: Deploy to Google Cloud Storage
+        working-directory: ./syllabus
+        run: gcloud storage rsync -r public gs://syllabus.africacode.net
+
+      - name: Clone Tilde repo
+        uses: actions/checkout@v4
+        with:
+          repository: Umuzi-org/Tilde
+          path: tilde
+
+      - name: Set up virtual environment for Tilde
+        working-directory: ./tilde
+        run: |
+          cd backend
+
+          # Create a virtual environment
+          python3.10 -m venv venv
+
+          # Activate the virtual environment
+          source venv/bin/activate
+
+          # Install dependencies
+          pip install wheel
+          pip install -r requirements.txt
+
+      - name: Set up Docker
+        uses: docker/setup-docker-action@v4
+
+      - name: Decode GCP App Credentials
+        run: |
+          echo "${{ secrets.GCP_APP_CREDENTIALS_B64 }}" | base64 --decode > $HOME/prod-key.json
+
+      # Start Cloud SQL Proxy using Docker
+      - name: Start Cloud SQL Proxy
+        env:
+          SQL_CONNECTION_NAME: ${{ secrets.SQL_CONNECTION_NAME }}
+        run: |
+          docker run -d \
+            -v $HOME/prod-key.json:/config \
+            -p 127.0.0.1:5437:5432 \
+            gcr.io/cloudsql-docker/gce-proxy:1.12 /cloud_sql_proxy \
+            -instances=$SQL_CONNECTION_NAME=tcp:0.0.0.0:5432 -credential_file=/config
+
+      - name: Wait for Cloud SQL Proxy to be available
+        run: |
+          echo "Checking Cloud SQL Proxy availability on port 5437..."
+          until nc -z 127.0.0.1 5437; do
+            echo "Waiting for Cloud SQL Proxy..."
+            sleep 1
+          done
+          echo "Cloud SQL Proxy is up!"
+
+      # Ingest syllabus into Tilde
+      - name: Ingest syllabus into Tilde
+        working-directory: ./tilde
+        env:
+          TILDE_SQL_PORT: ${{ secrets.TILDE_SQL_PORT }}
+          TILDE_SQL_DB: ${{ secrets.TILDE_SQL_DB }}
+          TILDE_SQL_USER: ${{ secrets.TILDE_SQL_USER }}
+          TILDE_SQL_PASS: ${{ secrets.TILDE_SQL_PASS }}
+        run: |
+          cd backend
+          source venv/bin/activate
+          python manage.py load_content_from_syllabus_repo_hugo ../../syllabus 1 1

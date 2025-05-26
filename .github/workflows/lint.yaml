@@ -1,0 +1,37 @@
+name: Run Python Linter
+
+on:
+  pull_request:
+    branches:
+      - develop
+
+jobs:
+  run-linter:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      - name: Install Hugo
+        run: |
+          wget "https://github.com/gohugoio/hugo/releases/download/v0.111.3/hugo_0.111.3_Linux-64bit.tar.gz" && \
+          tar -xf hugo_0.111.3_Linux-64bit.tar.gz hugo -C / && \
+          sudo mv hugo /usr/bin/hugo && \
+          rm -rf hugo_0.111.3_Linux-64bit.tar.gz
+
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install Pipenv
+        run: python3.10 -m pip install pipenv
+
+      - name: Install dependencies
+        run: pipenv install --python=$(which python3.10)
+
+      - name: Run linter
+        run: pipenv run python lint.py
