@@ -12,7 +12,7 @@ title: Expo tutorial project
 
 Alrighty, time to get your hands dirty.
 
-Start off by doing [this tutorial](https://docs.expo.dev/tutorial/planning/). Make sure that you understand what you are doing, we'll be doing much harder stuff soon.
+Start off by doing [this tutorial](https://docs.expo.dev/tutorial/introduction/). Make sure that you understand what you are doing, we'll be doing much harder stuff soon.
 
 ## More requirements
 
