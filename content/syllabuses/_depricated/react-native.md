@@ -1,5 +1,5 @@
 ---
-title: React Native
+title: DEPRICATED - React Native
 _db_id: 82
 ---
 
