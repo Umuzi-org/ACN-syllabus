@@ -22,7 +22,7 @@ title: 'React and Redux recipe search: Part 2. API Access with thunks'
 
 Now that your frontend is awesome, let's get the "Search" button to work.
 
-Take a look at [this neat little API](https://developer.edamam.com/edamam-recipe-api)
+Take a look at [this neat little API](https://spoonacular.com/food-api)
 
 As far as APIs go it's fairly straight-forward. All you need to do is create an account and use the free developer plan.
 
