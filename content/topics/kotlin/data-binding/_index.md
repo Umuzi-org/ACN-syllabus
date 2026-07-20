@@ -246,7 +246,7 @@ This page shows how to incorporate the Architecture Components to your app to fu
 ### Use LiveData to notify the UI about data changes
 You can use LiveData objects as the data binding source to automatically notify the UI about changes in the data. For more information about this Architecture Component, see LiveData Overview.
 
-Unlike objects that implement Observable—such as observable fields—LiveData objects know about the lifecycle of the observers subscribed to the data changes. This knowledge enables many benefits, which are explained in The advantages of using LiveData. In Android Studio version 3.1 and higher, you can replace observable fields with LiveData objects in your data binding code.
+Unlike objects that implement Observable - such as observable fields - LiveData objects know about the lifecycle of the observers subscribed to the data changes. This knowledge enables many benefits, which are explained in The advantages of using LiveData. In Android Studio version 3.1 and higher, you can replace observable fields with LiveData objects in your data binding code.
 
 To use a LiveData object with your binding class, you need to specify a lifecycle owner to define the scope of the LiveData object. The following example specifies the activity as the lifecycle owner after the binding class has been instantiated:
 

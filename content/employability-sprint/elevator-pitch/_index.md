@@ -19,7 +19,7 @@ This is a quick and easy way to iterate through different options before investi
 ## What Is An Elevator Pitch & Why Do You Need One? 
 An elevator pitch is a brief – around 30 seconds – way of introducing yourself. It is an opportunity to make a connection with someone and is called an ‘elevator pitch’ because it represents the amount of time you’d spend riding an elevator with someone. 
 
-Imagine bumping into someone you’ve been dying to meet in an elevator – how would you introduce yourself, get your point across, and ask to stay connected—all before that person gets off the elevator? 
+Imagine bumping into someone you’ve been dying to meet in an elevator – how would you introduce yourself, get your point across, and ask to stay connected - all before that person gets off the elevator?
 
 Elevator pitches are handy any time you’re at an event where you might meet prospective job or networking connections. It can be a powerful tool to leverage the network of people who know, like, and trust you. One of the many reasons this is such an important concept is the Outsider Problem – the fact that many jobs are never publicly listed. 
 

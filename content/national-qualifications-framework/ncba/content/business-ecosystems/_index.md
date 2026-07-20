@@ -347,7 +347,7 @@ Advantages of sole proprietorship:
  
   - Owners have total flexibility when running the business
 
-  - Very few requirements for starting—often only a business license
+  - Very few requirements for starting - often only a business license
 
 Disadvantages  of sole proprietorship:
 
@@ -393,7 +393,7 @@ Disadvantages of Partnerships
   
   - Each partner is 100% responsible for debts and losses
 
-  - Selling the business is difficult—requires finding new partner
+  - Selling the business is difficult - requires finding new partner
 
   - Partnership ends when any partner decides to end it
 
@@ -842,7 +842,7 @@ Different business systems have linkages that relate to the functioning of an or
 
 What is Enterprise Resource Planning? Watch the video below before we dive in. [What is ERP software](https://youtu.be/6qys-562kp4)
 
-Enterprise Resource Planning (ERP) systems provide an integrated real-time view of core business processes, using common databases maintained by a database management system. ERP systems track business resources—cash, raw materials, production capacity—and the status of business commitments: orders, purchase orders, and payroll. ERP facilitates information flow between all business functions and manages connections to outside stakeholders. This means we are able to give potential employers status updates on their recruitment needs.
+Enterprise Resource Planning (ERP) systems provide an integrated real-time view of core business processes, using common databases maintained by a database management system. ERP systems track business resources - cash, raw materials, production capacity - and the status of business commitments: orders, purchase orders, and payroll. ERP facilitates information flow between all business functions and manages connections to outside stakeholders. This means we are able to give potential employers status updates on their recruitment needs.
 The applications of ERP make up the system and share data across the various departments (manufacturing, purchasing, sales, accounting, etc.) that entered the data. ERP systems typically include the following characteristics:
 
   - An integrated system that operates in (or near) real-time without relying on periodic updates

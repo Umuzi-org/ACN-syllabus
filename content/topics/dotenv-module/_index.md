@@ -125,7 +125,7 @@ console.log(configs.obj);
 Dotenv has the option of preloading the environment variables outside your code. Preload your variables and eliminate the code that reads the .env file from your code  base. Less code is fewer lines that could break or be maintained.
 ![alt text](https://imgflip.com/s/meme/Roll-Safe-Think-About-It.jpg)
 
-This technique removes any need for code that uses require on dotenv. This includes the ``` dotenv.config()``` or  ``` require('dotenv').config() ``` code mentioned previously in this article. You can run your node app using the — require ( -r ) command line option to preload dotenv. The following command will preload all environment variables from the file .env using dotenv and make them available in your app.
+This technique removes any need for code that uses require on dotenv. This includes the ``` dotenv.config()``` or  ``` require('dotenv').config() ``` code mentioned previously in this article. You can run your node app using the - require ( -r ) command line option to preload dotenv. The following command will preload all environment variables from the file .env using dotenv and make them available in your app.
 
 
 ```

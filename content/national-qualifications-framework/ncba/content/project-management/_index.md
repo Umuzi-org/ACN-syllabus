@@ -52,7 +52,7 @@ Let's watch [this video](https://www.youtube.com/watch?v=Jk-JwtScIlw) below to l
 
 ### WHAT IS THE PROJECT LIFE CYCLE?
 
-The project life cycle (PLC) is a collection of logical stages or phases that maps the life of a project from its beginning to its end to define, build, and deliver the product of a project—that is, the information system. Each phase should provide one or more deliverables. A deliverable is a tangible and verifiable product of work. Deliverables at the end of each phase also provide tangible benefits throughout the project and serve to define the work and resources needed for each phase.
+The project life cycle (PLC) is a collection of logical stages or phases that maps the life of a project from its beginning to its end to define, build, and deliver the product of a project - that is, the information system. Each phase should provide one or more deliverables. A deliverable is a tangible and verifiable product of work. Deliverables at the end of each phase also provide tangible benefits throughout the project and serve to define the work and resources needed for each phase.
 
 Projects should be broken up into phases to make the project more manageable and to reduce risk. Phase exits, stage gates, or kill points are the phase-end review of key deliverables that allow the organisation to evaluate the project's performance and to take immediate action to correct any errors or problems. Although the deliverables at the end of a stage or phase usually are approved before proceeding to the next stage, fast-tracking or starting the next phase before approval is obtained can sometimes reduce the project's schedule. Overlapping of phases can be risky and should only be done when the risk is deemed acceptable.
 
@@ -150,7 +150,7 @@ After the deployment of a product in the production environment, maintenance of 
 
 The Waterfall model is widely considered the oldest of the structured SDLC methodologies. 
 
-Simply put, waterfall project management is a sequential, linear process of project management. It consists of several discrete phases. No phase begins until the prior phase is complete, and each phase’s completion is terminal—waterfall management does not allow you to return to a previous phase. The only way to revisit a phase is to start over at phase one.
+Simply put, waterfall project management is a sequential, linear process of project management. It consists of several discrete phases. No phase begins until the prior phase is complete, and each phase’s completion is terminal - waterfall management does not allow you to return to a previous phase. The only way to revisit a phase is to start over at phase one.
 
 If waterfall methodology sounds strict, that’s because the system’s history demanded it. Waterfall project management has its roots in non-software industries like manufacturing and construction, where the system arose out of necessity. In these fields, project phases must happen sequentially. You can’t put up drywall if you haven’t framed a house. Likewise, it’s impossible to revisit a phase. There’s no good way to un-pour a concrete foundation. 
 
@@ -525,7 +525,7 @@ The tickets are what go into the sprint backlog to be done during each sprint. D
 
 Once the Scrum Team has identified the user stories the development process begins, to track the current working process, a task board is a commonly used tool such as Scrum Board and KanBan board can be used to help manage the work process.
 
-Scrum boards and Kanban boards are similar in that they both are used as visual representations to track the progress of specified tasks—and either one can help your development team build and release quality products faster.
+Scrum boards and Kanban boards are similar in that they both are used as visual representations to track the progress of specified tasks - and either one can help your development team build and release quality products faster.
 
 Both boards are used to visually track work that needs to be done, is in progress, and has been completed. These Agile boards help keep the team engaged and focused on the goal.
 

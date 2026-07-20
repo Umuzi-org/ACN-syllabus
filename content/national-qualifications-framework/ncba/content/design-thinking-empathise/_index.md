@@ -33,7 +33,7 @@ By the end of this module you will be developed the following skills:
 
 
 ### INTRODUCTION TO DESIGN THINKING
-Before we dive into Empathising, let’s first take a broader look at Design Thinking. Design thinking is a methodology that provides a solution-based approach to solving problems. It’s extremely useful when used to tackle complex problems that are ill-defined or unknown—because it serves to understand the human needs involved, reframe the problem in human-centric ways, create numerous ideas in brainstorming sessions, and adopt a hands-on approach to prototyping and testing. Learning about the five stages of design thinking will empower you and allow you to apply the methodology to your work and solve complex problems that occur in our companies, our countries, and across the world.
+Before we dive into Empathising, let’s first take a broader look at Design Thinking. Design thinking is a methodology that provides a solution-based approach to solving problems. It’s extremely useful when used to tackle complex problems that are ill-defined or unknown - because it serves to understand the human needs involved, reframe the problem in human-centric ways, create numerous ideas in brainstorming sessions, and adopt a hands-on approach to prototyping and testing. Learning about the five stages of design thinking will empower you and allow you to apply the methodology to your work and solve complex problems that occur in our companies, our countries, and across the world.
 
 Design thinking is a non-linear, iterative process that can have anywhere from three to seven phases, depending on the life cycle of your solution design. We focus on the five-stage design thinking model because they are world-renowned for the way they teach and apply design thinking.
 
@@ -329,7 +329,7 @@ Empathy mapping requires you to consider your users in relation to four differen
 
  4. **Feels:** Considers what emotions the user is experiencing at certain points. For example: “Frustrated: Can’t find what they are looking for on the page.”
 
-Empathy maps will also help you to define user personas. A user persona is a fictional representation of your ideal customer. As a UX designer, you’ll start the design process by conducting user research—building empathy with your target users and identifying exactly what they need from the product you’re designing. A persona is generally based on user research and incorporates the needs, goals, and observed behavior patterns of your target audience.
+Empathy maps will also help you to define user personas. A user persona is a fictional representation of your ideal customer. As a UX designer, you’ll start the design process by conducting user research - building empathy with your target users and identifying exactly what they need from the product you’re designing. A persona is generally based on user research and incorporates the needs, goals, and observed behavior patterns of your target audience.
 
 ### WHY USE EMPATHY MAPS
 

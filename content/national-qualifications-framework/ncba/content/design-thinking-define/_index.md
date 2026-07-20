@@ -50,7 +50,7 @@ The define stage is perhaps the most challenging part of the Design Thinking pro
 
 The define stage is preceded by the empathise stage, where you learn as much as possible about your users, conduct interviews, and used a variety of immersion and observation techniques. Once you have a good idea of who your users are and, most importantly, their wants, needs, and pain points, you’re ready to turn this empathy into an actionable problem statement.
 
-The relationship between the empathise and define stages can best be described in terms of analysis and synthesis. In the empathise phase, we use analysis to break down everything we observe and discover about our users into smaller, more manageable components—dividing their actions and behaviour into “what”, “why” and “how” categories, for example. In the define stage, we piece these components back together, synthesising our findings to create a detailed overall picture.
+The relationship between the empathise and define stages can best be described in terms of analysis and synthesis. In the empathise phase, we use analysis to break down everything we observe and discover about our users into smaller, more manageable components - dividing their actions and behaviour into “what”, “why” and “how” categories, for example. In the define stage, we piece these components back together, synthesising our findings to create a detailed overall picture.
 
 ## WHY IS THE DEFINE STAGE SO IMPORTANT?
 The defined stage ensures you fully understand the goal of your design project. It helps you to articulate your design problem and provides a clear-cut objective to work towards. The define phase allows you the chance to interpret, understand, synthesize and analyse the data into actionable information that represents the problems our users/clients face.
@@ -229,7 +229,7 @@ Let’s take a look at **HMW (How Might We)** statements before looking at some 
 ![howmightwe](howmightwe.jpg)
 
 Now that you have learned how to develop your problem statement, we need to learn how to reframe it into something that allows us to be solution-oriented. The original problem statement is exactly that, it’s a problem. **We want to reword it so that we are focusing on solving the problem.** We do this by transforming the problem statement into a “How Might We” statement.
-**“Every problem is an opportunity for design. By framing your challenge as a How Might We question, you’ll set yourself up for an innovative solution.” — Designkit.org**
+**“Every problem is an opportunity for design. By framing your challenge as a How Might We question, you’ll set yourself up for an innovative solution.” - Designkit.org**
 
 Let’s take a look at [this short video](https://youtu.be/mRpUV-uIkF8) explaining How Might We.
 

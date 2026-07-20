@@ -62,7 +62,7 @@ In this task, you download and run the starter app for MarsRealEstate and famili
 
 - Open app/res/layout/fragment_overview.xml. This is the layout for the overview fragment you work with in this project, and it includes the data binding for the view model. It imports the OverviewViewModel and then binds the response from the ViewModel to a TextView. In later projects, you replace the text view with a grid of images in a RecyclerView.
 
-- Compile and run the app. All you see in the current version of this app is the starter response—"Set the Mars API Response here!"
+- Compile and run the app. All you see in the current version of this app is the starter response - "Set the Mars API Response here!"
 
 ![](6422831b7bebd55.png)
 
@@ -329,7 +329,7 @@ When Moshi parses the JSON, it matches the keys by name and fills the data objec
 @Json(name = "img_src") val imgSrcUrl: String,
 ```
 
-Sometimes the key names in a JSON response can make confusing Kotlin properties, or may not match your coding style—for example, in the JSON file the img_src key uses an underscore, whereas Kotlin properties commonly use upper and lowercase letters ("camel case").
+Sometimes the key names in a JSON response can make confusing Kotlin properties, or may not match your coding style - for example, in the JSON file the img_src key uses an underscore, whereas Kotlin properties commonly use upper and lowercase letters ("camel case").
 
 To use variable names in your data class that differ from the key names in the JSON response, use the @Json annotation. In this example, the name of the variable in the data class is imgSrcUrl. The variable is mapped to the JSON attribute img_src using @Json(name = "img_src").
 

@@ -9,16 +9,16 @@ title: PM-02-PS10 Code Loops (Tailored to a Specific Tool or Platform)
 
 #### Overview
 
-In this section, we will explore loops, which are essential programming structures that allow you to repeat a set of instructions multiple times. Loops help automate repetitive tasks and make your code more efficient. Understanding how to work with different types of loops—such as while loops, iterating loops, and nested loops—is crucial for writing effective code that can handle large datasets or repeated operations.
+In this section, we will explore loops, which are essential programming structures that allow you to repeat a set of instructions multiple times. Loops help automate repetitive tasks and make your code more efficient. Understanding how to work with different types of loops - such as while loops, iterating loops, and nested loops - is crucial for writing effective code that can handle large datasets or repeated operations.
 
 Applied Knowledge
 
 By completing this section, you will gain an understanding of:
 
-- **Types of loops**—familiarity with different loop structures (e.g., while, for, do-while).
-- **Checking conditions**—how loops rely on conditions to continue or stop iterating.
-- **Initializer, condition, iterator**—understanding the components that define a loop's execution flow.
-- **Sequence**—how loops follow a specific sequence to repeat tasks.
+- **Types of loops** - familiarity with different loop structures (e.g., while, for, do-while).
+- **Checking conditions** - how loops rely on conditions to continue or stop iterating.
+- **Initializer, condition, iterator** - understanding the components that define a loop's execution flow.
+- **Sequence** - how loops follow a specific sequence to repeat tasks.
 
 #### Instructions
 

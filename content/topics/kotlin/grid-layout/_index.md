@@ -39,7 +39,7 @@ Now the “Email address” label can belong both to a row that is baseline-alig
 GridLayout uses a grid of infinitely-thin lines to separate its drawing area into: rows, columns, and cells. It supports both row and column spanning, which together allow a widget to occupy a rectangular range of cells that are next to each other. We’ll use the words row, column, and cell in the text below as shorthand for row group, column group and cell group respectively, where groups have one or more contiguous elements.
 
 #### Similarities with LinearLayout
-Wherever possible, GridLayout uses the same conventions as LinearLayout for all its XML API — so it should be easy to start using GridLayout if you’ve already used LinearLayout. In fact, the APIs are so similar that changing a tag name from LinearLayout to GridLayout in an XML file that uses LinearLayout will often produce a similar UI without requiring any other changes. When it doesn’t, you’ll still generally end up with a good starting point for a two-dimensional layout.
+Wherever possible, GridLayout uses the same conventions as LinearLayout for all its XML API - so it should be easy to start using GridLayout if you’ve already used LinearLayout. In fact, the APIs are so similar that changing a tag name from LinearLayout to GridLayout in an XML file that uses LinearLayout will often produce a similar UI without requiring any other changes. When it doesn’t, you’ll still generally end up with a good starting point for a two-dimensional layout.
 
 ### Getting Started
 Two examples in the samples area of the Android 4.0 SDK show typical use of the programmatic and XML APIs respectively:
@@ -149,11 +149,11 @@ Although __LinearLayout__ can be considered a special case of a GridLayout, for 
 
 __TableLayout__ configurations are normally straightforward to accommodate, as GridLayout supports both row and column spanning. __TableRows__ can be removed, as they are not required by GridLayout. For the same UI, a GridLayout will generally be faster and take less memory than than a TableLayout.
 
-Simple __RelativeLayout__ configurations can be written as grids simply by grouping the views that are related to each other into rows and columns. Unlike conventional grids, GridLayout uses a constraints solver to do the heavy lifting of the layout operation. By using GridLayout’s __rowOrderPreserved__ and __columnOrderPreserved__ properties it’s possible to free GridLayout from the confines of traditional grid systems and support the majority of RelativeLayout configurations — even ones that require grid lines to pass over each other as children change size.
+Simple __RelativeLayout__ configurations can be written as grids simply by grouping the views that are related to each other into rows and columns. Unlike conventional grids, GridLayout uses a constraints solver to do the heavy lifting of the layout operation. By using GridLayout’s __rowOrderPreserved__ and __columnOrderPreserved__ properties it’s possible to free GridLayout from the confines of traditional grid systems and support the majority of RelativeLayout configurations - even ones that require grid lines to pass over each other as children change size.
 
 Simple __FrameLayout__ configurations can be accommodated within the cells of a GridLayout because a single cell can contain multiple views. To switch between two views, place them both in the same cell and use the visibility constant __GONE__ to switch from one to the other from code. As with the LinearLayout case above, if all you need is the functionality described above, FrameLayout is the better choice and may have some small performance advantages.
 
-One key feature that GridLayout lacks is the ability to distribute excess space between rows or columns in specified proportions — a feature that LinearLayout provides by supporting the principle of __weight__. This omission and possible ways around it are discussed in GridLayout’s API docs.
+One key feature that GridLayout lacks is the ability to distribute excess space between rows or columns in specified proportions - a feature that LinearLayout provides by supporting the principle of __weight__. This omission and possible ways around it are discussed in GridLayout’s API docs.
 
 ### The Phases of the Layout Operation
 It’s useful to distinguish the allocation phase for cell indices discussed above from the layout operation itself. Normally the phase that allocates indices happens once, if at all, when a UI is initialized. The index-allocation phase only applies when indices have been left unspecified, and is responsible for ensuring that all views have a defined set of cells in which they are to be placed at layout time.
@@ -167,6 +167,6 @@ From a performance standpoint, it is worth knowing that the GridLayout implement
 ### Conclusion
 GridLayout’s feature set incorporates much of the functionality of the Android framework’s existing general-purpose layouts: LinearLayout, FrameLayout, TableLayout and RelativeLayout. As such, it provides a way to replace many deeply nested view hierarchies with a single highly optimized layout implementation.
 
-If you are starting a UI from scratch and are not familiar with Android layouts, use a GridLayout — it supports most of the features of the other layouts and has a simpler and more general API than either TableLayout or RelativeLayout.
+If you are starting a UI from scratch and are not familiar with Android layouts, use a GridLayout - it supports most of the features of the other layouts and has a simpler and more general API than either TableLayout or RelativeLayout.
 
 We anticipate that the combination of FrameLayout, LinearLayout and GridLayout together will provide a feature set that’s rich enough to allow most layout problems to be solved without writing layout code by hand. It’s worth spending some time deciding which of these layouts is right for the top of your tree; a good choice will minimize the need for intermediate containers and result in a user interface that is faster and uses less memory.

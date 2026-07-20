@@ -21,7 +21,7 @@ Data science plays a crucial role in enhancing economic decision-making. By leve
 
 #### How Has Data Science Impacted Society?
 
-Data science has a profound effect on societal well-being. When mission-driven organizations are equipped with the right talent, tools, and data, they can create meaningful, real-world change. Examples include helping vulnerable families access public benefits, conserving water during droughts, and speeding up refugee resettlement processes—enabling faster access to homes and jobs.
+Data science has a profound effect on societal well-being. When mission-driven organizations are equipped with the right talent, tools, and data, they can create meaningful, real-world change. Examples include helping vulnerable families access public benefits, conserving water during droughts, and speeding up refugee resettlement processes - enabling faster access to homes and jobs.
 
 #### Why is Data Science Good for Social Impact?
 

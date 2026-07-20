@@ -21,7 +21,7 @@ class Example {
     var p: String by Delegate()
 }
 ```` 
-The syntax is: val/var <property name>: <Type> by <expression>. The expression after by is the delegate, because get() (and set()) corresponding to the property will be delegated to its getValue() and setValue() methods. Property delegates don’t have to implement any interface, but they have to provide a getValue() function (and setValue() — for var's). For example:
+The syntax is: val/var <property name>: <Type> by <expression>. The expression after by is the delegate, because get() (and set()) corresponding to the property will be delegated to its getValue() and setValue() methods. Property delegates don’t have to implement any interface, but they have to provide a getValue() function (and setValue() - for var's). For example:
 ````
 class Delegate {
     operator fun getValue(thisRef: Any?, property: KProperty<*>): String {
@@ -147,15 +147,15 @@ Here we summarize requirements to delegate objects.
 
 For a read-only property (i.e. a val), a delegate has to provide a function named getValue that takes the following parameters:
 
-- thisRef — must be the same or a supertype of the property owner (for extension properties — the type being extended),
-- property — must be of type KProperty<*> or its supertype,
+- thisRef - must be the same or a supertype of the property owner (for extension properties - the type being extended),
+- property - must be of type KProperty<*> or its supertype,
 this function must return the same type as property (or its subtype).
 
 For a mutable property (a var), a delegate has to additionally provide a function named setValue that takes the following parameters:
 
-- thisRef — same as for getValue(),
-- property — same as for getValue(),
-- new value — must be of the same type as a property or its supertype.
+- thisRef - same as for getValue(),
+- property - same as for getValue(),
+- new value - must be of the same type as a property or its supertype.
 
 getValue() and/or setValue() functions may be provided either as member functions of the delegate class or extension functions. The latter is handy when you need to delegate property to an object which doesn't originally provide these functions. Both of the functions need to be marked with the operator keyword.
 
@@ -217,8 +217,8 @@ class MyUI {
 ````
 The parameters of provideDelegate are the same as for getValue:
 
-- thisRef — must be the same or a supertype of the property owner (for extension properties — the type being extended),
-- property — must be of type KProperty<*> or its supertype.
+- thisRef - must be the same or a supertype of the property owner (for extension properties - the type being extended),
+- property - must be of type KProperty<*> or its supertype.
 
 The provideDelegate method is called for each property during the creation of the MyUI instance, and it performs the necessary validation right away.
 

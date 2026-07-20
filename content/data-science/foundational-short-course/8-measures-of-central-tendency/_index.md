@@ -56,7 +56,7 @@ Your data might include decimal points, but the process to find the median remai
 
 The most frequently occurring value in a dataset. The mode, unlike the mean or median, is the value that appears most frequently in your dataset. To determine the mode, arrange your dataset in ascending order for numeric values or by categories, and then identify the value with the highest frequency.
 
-## Which Central Tendency Measure — Mean, Median, or Mode — Is the Most Suitable?
+## Which Central Tendency Measure - Mean, Median, or Mode - Is the Most Suitable?
 
 In continuous data with a symmetrical distribution, the mean, median, and mode all align. In these cases, analysts usually opt for the mean because it takes into account every data point. However, when the distribution is skewed, the median is often a better indicator of central tendency.
 

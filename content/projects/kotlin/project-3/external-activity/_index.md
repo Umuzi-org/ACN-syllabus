@@ -182,7 +182,7 @@ view.findNavController()
 
 ```
 
-You pass the total number of questions as numQuestions and the current question being attempted as questionIndex. The app is designed in such a way that the user can only share their data if they answer all the questions correctly—the number of correct questions always equals the number of questions answered. (You can change this game logic later, if you want.)
+You pass the total number of questions as numQuestions and the current question being attempted as questionIndex. The app is designed in such a way that the user can only share their data if they answer all the questions correctly - the number of correct questions always equals the number of questions answered. (You can change this game logic later, if you want.)
 
 3 - In GameWonFragment.kt, extract the arguments from the bundle, then use a Toast to display the arguments. Put the following code in the onCreateView() method, before the return statement:
 
