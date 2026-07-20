@@ -151,9 +151,9 @@ Such common behaviours can be implemented as libraries using delegated propertie
 For members declared inside a class:
 
 - **private** means visible inside this class only (including all its members);
-- **protected** - same as private + visible in subclasses too;
-- **internal** - any client inside this module who sees the declaring class sees its internal members;
-- **public** - any client who sees the declaring class sees its public members.
+- **protected** — same as private + visible in subclasses too;
+- **internal** — any client inside this module who sees the declaring class sees its internal members;
+- **public** — any client who sees the declaring class sees its public members.
 
 Note that in Kotlin, outer class does not see private members of its inner classes.
 

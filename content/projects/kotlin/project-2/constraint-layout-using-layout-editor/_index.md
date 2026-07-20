@@ -80,7 +80,7 @@ In this task, you use the Android Studio Layout Editor to build a constraint lay
 2 - You'll add constraints manually, so you want autoconnect turned off. In the toolbar, locate the **Turn Off/On Autoconnect** toggle button, which is shown below. (If you can't see the toolbar, click inside the design editor area of the Layout Editor.) Make sure autoconnect is off.
 
 ![](f66ff1b834a69947.png) Autoconnect is on.
-![](dd30e456c4858de3.png) Autoconnect is off - this is what you want for this project.
+![](dd30e456c4858de3.png) Autoconnect is off—this is what you want for this project.
 
 3 - Use the toolbar to set the default margins to `16dp`. (The default is `8dp`.)
 

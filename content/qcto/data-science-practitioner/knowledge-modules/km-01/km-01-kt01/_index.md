@@ -16,7 +16,7 @@ title: KM-01-KT01 What is data science?
 
 #### What is Data Science?
 
-Data science is an interdisciplinary field that utilizes domain expertise, programming skills, and an understanding of mathematics and statistics to extract actionable insights from data. Data scientists apply algorithms to analyze diverse data types - numbers, text, images, video, and audio - helping to build artificial intelligence (AI) systems that perform tasks typically requiring human intelligence. These AI systems generate insights that analysts and business stakeholders can leverage to drive business value.
+Data science is an interdisciplinary field that utilizes domain expertise, programming skills, and an understanding of mathematics and statistics to extract actionable insights from data. Data scientists apply algorithms to analyze diverse data types—numbers, text, images, video, and audio—helping to build artificial intelligence (AI) systems that perform tasks typically requiring human intelligence. These AI systems generate insights that analysts and business stakeholders can leverage to drive business value.
 
 #### The 4 Key Components of a Data Science Project
 

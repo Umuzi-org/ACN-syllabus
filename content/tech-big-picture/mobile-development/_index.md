@@ -13,7 +13,7 @@ Mobile apps and web apps are both applications that can run on a device such as 
 
 ### Mobile Apps
 
-Mobile apps are applications that are downloaded and installed on a mobile device rather than being rendered within a browser. They are platform-specific (e.g., Android apps, iOS apps), and need to be released separately for each platform. They can take full advantage of all the device features - they can use the camera, the GPS, the accelerometer, the compass, the list of contacts, and so on. They can also incorporate gestures (either standard operating-system gestures or new, app-defined gestures).
+Mobile apps are applications that are downloaded and installed on a mobile device rather than being rendered within a browser. They are platform-specific (e.g., Android apps, iOS apps), and need to be released separately for each platform. They can take full advantage of all the device features — they can use the camera, the GPS, the accelerometer, the compass, the list of contacts, and so on. They can also incorporate gestures (either standard operating-system gestures or new, app-defined gestures).
 
 Mobile apps can use the device’s notification system and can work offline. Mobile apps have the advantage of being faster and more efficient, but they do require the user to download updates regularly.
 
@@ -21,7 +21,7 @@ Like web apps, mobile apps can interact with servers on the internet. Mobile app
 
 ### Web Apps
 
-Web apps, on the other hand, are accessed through the internet browser and will adapt to whichever device you’re viewing them on. They are not native to a particular system, and don't need to be downloaded or installed. Due to their responsive nature, they do indeed look and function a lot like mobile apps a lot of the time - and this is where the confusion arises.
+Web apps, on the other hand, are accessed through the internet browser and will adapt to whichever device you’re viewing them on. They are not native to a particular system, and don't need to be downloaded or installed. Due to their responsive nature, they do indeed look and function a lot like mobile apps a lot of the time — and this is where the confusion arises.
 
 In general, web apps might be a simpler and more economical option to reach a wide range of users across multiple platforms. However, for tasks that require more complexity and access to device capabilities, mobile apps can be the better choice.
 

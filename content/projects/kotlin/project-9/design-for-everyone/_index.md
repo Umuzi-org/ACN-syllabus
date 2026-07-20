@@ -235,7 +235,7 @@ Important: You can Skip setting up billing options!
 
 The first time you click the Accessibility Scanner icon, the app asks for permission to get everything displayed on your screen. This seems like a very scary permission, and it is.
 
-You should almost never grant a permission like this one, because the permission lets apps read your email or even grab your bank account info! However, for Accessibility Scanner to do its work, it needs to examine your app the way a user would - that's why it needs this permission.
+You should almost never grant a permission like this one, because the permission lets apps read your email or even grab your bank account info! However, for Accessibility Scanner to do its work, it needs to examine your app the way a user would—that's why it needs this permission.
 
 `Important: Before you enable this permission, double-check to make sure that the app you installed is Accessibility Scanner by Google LLC.`
 

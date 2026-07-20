@@ -25,7 +25,7 @@ This app contains several bugs related to the Android lifecycle: For example, in
 
 ### Task: Explore the lifecycle methods and add basic logging
 
-Every activity and every fragment has what is known as a lifecycle. This is an allusion to animal lifecycles, like the lifecycle of this butterfly - the different states of the butterfly show its growth from birth to fully formed adulthood to death.
+Every activity and every fragment has what is known as a lifecycle. This is an allusion to animal lifecycles, like the lifecycle of this butterfly—the different states of the butterfly show its growth from birth to fully formed adulthood to death.
 
 ![](c685f48ff799f0c9.png)
 

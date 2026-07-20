@@ -164,7 +164,7 @@ The `LinearLayout` has the required attributes `layout_height`, `layout_width`, 
 | **Attribute**                  | **Value**                                                                                                                                                                                                     |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ID                             | name_text                                                                                                                                                                                                     |
-| text                           | Set it to your name. (One of the text fields shows a wrench icon to indicate that it's for the `tools` namespace. The one without the wrench is for the `android` namespace - this is the text field you want.) |
+| text                           | Set it to your name. (One of the text fields shows a wrench icon to indicate that it's for the `tools` namespace. The one without the wrench is for the `android` namespace—this is the text field you want.) |
 | textAppearance > textSize      | 20sp                                                                                                                                                                                                          |
 | textAppearance > textColor     | @android:color/black                                                                                                                                                                                          |
 | textAppearance > textAlignment | Center ![](c.png)                                                                                                                                                                                             |
@@ -445,7 +445,7 @@ The height and width of the `ScrollView` match the parent element. Once the `nam
 
 4 - Add an id to the `ScrollView` and call it `bio_scroll`. Adding an id to the `ScrollView` gives the Android system a handle for the view so that when the user rotates the device, the system preserves the scroll position.
 
-5 - Inside the `ScrollView`, remove the `LinearLayout` code, because your app will only have one view that's scrollable - a `TextView`.
+5 - Inside the `ScrollView`, remove the `LinearLayout` code, because your app will only have one view that's scrollable—a `TextView`.
 
 6 - Drag a `TextView` from the **Palette** to the **Component Tree**. Put the `TextView` under the `bio_scroll`, as a child element of `bio_scroll`.
 

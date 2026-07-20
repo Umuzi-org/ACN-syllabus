@@ -50,7 +50,7 @@ As those examples shows:
 When all parameters have default values, you don’t have to provide any values when creating a new instance
 If you supply one value, it’s used for the first named parameter
 You can override the default values with your own values
-An important implication of this is that default values have the effect of letting consumers consumers create instances of your class in a variety of ways - in a sense they work just as though you had created multiple, different constructors for your class.
+An important implication of this is that default values have the effect of letting consumers consumers create instances of your class in a variety of ways — in a sense they work just as though you had created multiple, different constructors for your class.
 
 ### When you don’t provide defaults for all parameters
 As a word of caution, it generally doesn’t make any sense to provide a default value for an early parameter without providing a default for subsequent parameters.

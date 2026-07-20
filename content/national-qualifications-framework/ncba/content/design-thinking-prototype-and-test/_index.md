@@ -94,7 +94,7 @@ You may hear of the term “rapid prototyping”. What this means is that you ar
 
 Take a quick watch of [this video](https://vimeo.com/78645037) to understand rapid prototyping further.
 
-“The reason for prototyping is experimentation - the act of creating forces you to ask questions and make choices. It also gives you something you can show and talk about with other people. … a prototype is just an embodiment of your idea. It could be a skit in which you act out a service experience, such as visiting the emergency room at a hospital.” - Tom and David Kelley
+“The reason for prototyping is experimentation—the act of creating forces you to ask questions and make choices. It also gives you something you can show and talk about with other people. … a prototype is just an embodiment of your idea. It could be a skit in which you act out a service experience, such as visiting the emergency room at a hospital.” - Tom and David Kelley
 
 Take a look at [this video](https://youtu.be/kI-CyvHeNNQ) of a prototyping session in action.
 

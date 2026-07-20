@@ -119,8 +119,8 @@ When presenting your portfolio via Google meet or any other online platform, the
 
 ## More Resources + Examples
 
-- [UX Designer's Portfolio template by The School of UX - Figma](https://www.figma.com/community/file/963394112012219151)
-- [Folio 2020 • Product Design Portfolio Template - Figma](https://www.figma.com/community/file/897173001482039698)
-- [UX Portfolio Structure & Template - Figma](https://www.figma.com/community/file/1101432807663232596)
-- [Presentation Free Template - Figma](https://www.figma.com/community/file/999626768866067833)
+- [UX Designer's Portfolio template by The School of UX — Figma](https://www.figma.com/community/file/963394112012219151) 
+- [Folio 2020 • Product Design Portfolio Template — Figma](https://www.figma.com/community/file/897173001482039698) 
+- [UX Portfolio Structure & Template — Figma](https://www.figma.com/community/file/1101432807663232596) 
+- [Presentation Free Template — Figma](https://www.figma.com/community/file/999626768866067833) 
 - [Canva Templates](https://www.canva.com/templates/?query=CV)

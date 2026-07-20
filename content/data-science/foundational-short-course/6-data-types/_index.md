@@ -69,7 +69,7 @@ Please take a moment to review the article below to gain a deeper understanding 
 
 ## 2. Numerical / Quantitative Data
 
-Quantitative data, synonymous with numerical data, denotes values expressed in numerical terms, providing information about quantity - answering questions like "how much," "how often," or "how many." Numerical data pertains to the measurement of specific quantities, including examples such as height, length, size, weight, and more.
+Quantitative data, synonymous with numerical data, denotes values expressed in numerical terms, providing information about quantity—answering questions like "how much," "how often," or "how many." Numerical data pertains to the measurement of specific quantities, including examples such as height, length, size, weight, and more. 
 
 Quantitative data can be categorised into two types based on data sets: Discrete Data and Continuous data.
 

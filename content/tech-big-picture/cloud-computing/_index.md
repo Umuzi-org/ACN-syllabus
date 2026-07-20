@@ -11,7 +11,7 @@ There are three main types of cloud computing service models:
 
 1. **Infrastructure as a Service (IaaS)**: This is the most basic category of cloud computing services. With IaaS, you rent IT infrastructure - servers and virtual machines (VMs), storage, networks, and operating systems - from a cloud provider.
 
-2. **Platform as a Service (PaaS)**: PaaS is a step up from IaaS and includes the infrastructure - servers, storage, and networks - but also middleware, development tools, business intelligence (BI) services, database management systems, and more. It's used to develop, test, and manage software applications.
+2. **Platform as a Service (PaaS)**: PaaS is a step up from IaaS and includes the infrastructure—servers, storage, and networks—but also middleware, development tools, business intelligence (BI) services, database management systems, and more. It's used to develop, test, and manage software applications.
 
 3. **Software as a Service (SaaS)**: With SaaS, you get to use the cloud provider's applications running on their infrastructure. The applications are accessible from various client devices through either a web browser or a program interface.
 
@@ -21,7 +21,7 @@ Key benefits of cloud computing include:
 
 - **Cost Savings**: Cloud computing eliminates the capital expense of buying hardware and software and setting up and running on-site data centres.
 - **Speed & Efficiency**: Most cloud computing services are self-service and on-demand, so vast amounts of computing resources can be provisioned in minutes.
-- **Global Scale**: Cloud computing services often include the ability to scale elastically. This means delivering the right amount of IT resources- for example, more or less computing power, storage, and bandwidth - right when they're needed and from the right geographic location.
+- **Global Scale**: Cloud computing services often include the ability to scale elastically. This means delivering the right amount of IT resources— for example, more or less computing power, storage, and bandwidth—right when they're needed and from the right geographic location.
 - **Performance**: The biggest cloud computing services run on a worldwide network of secure data centres, which are upgraded to the latest generation of fast and efficient computing hardware. This offers several benefits over a single corporate data centre.
 - **Reliability**: Cloud computing makes data backup, disaster recovery, and business continuity easier and less expensive because data can be mirrored at multiple redundant sites on the cloud provider's network.
 - **Security**: Many cloud providers offer a set of policies, technologies, and controls that strengthen your security posture overall, helping protect data, apps, and infrastructure from potential threats.

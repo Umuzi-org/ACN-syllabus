@@ -18,7 +18,7 @@ In 2005 Dr Peter Rogers introduced the term micro-web-service introducing the co
 From Wikipedia
 
 ```
-a variant of the service-oriented architecture (SOA) structural style- that arranges an application as a collection of loosely coupled services. In a microservices architecture, services are fine-grained and the protocols are lightweight
+a variant of the service-oriented architecture (SOA) structural style— that arranges an application as a collection of loosely coupled services. In a microservices architecture, services are fine-grained and the protocols are lightweight
 ```
 
 In simple terms according to **Sam Newman** "Microservices are the small services that work together"

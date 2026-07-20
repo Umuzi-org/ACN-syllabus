@@ -20,7 +20,7 @@ There are many many examples of open-source software. Here are a few of the more
 - **Python**: An open-source, high-level programming language that's known for its simplicity and readability. It's extensively used in data science, web development, automation, and more.
 - **WordPress**: An open-source content management system used to create websites and blogs. It powers a substantial portion of the world's websites.
 - **VLC Media Player**: An open-source, cross-platform multimedia player that can play most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.
-- **Blender**: A free and open source 3D creation suite. It supports the entirety of the 3D pipeline - modelling, rigging, animation, simulation, rendering, compositing, and motion tracking.
+- **Blender**: A free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modelling, rigging, animation, simulation, rendering, compositing, and motion tracking.
 - **GIMP (GNU Image Manipulation Program)**: A free and open-source raster graphics editor used for image retouching and editing, free-form drawing, converting between different image formats, and more specialized tasks.
 
 ## Getting involved

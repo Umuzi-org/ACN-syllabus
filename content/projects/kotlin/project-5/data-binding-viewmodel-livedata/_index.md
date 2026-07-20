@@ -51,7 +51,7 @@ For example:
 - When the user taps the Got It button, a click listener in the GameFragment fragment calls the corresponding click listener in GameViewModel.
 - The score is updated in the GameViewModel.
 
-The Button view and the GameViewModel don't communicate directly - they need the click listener that's in the GameFragment.
+The Button view and the GameViewModel don't communicate directly—they need the click listener that's in the GameFragment.
 
 #### ViewModel passed into the data binding
 

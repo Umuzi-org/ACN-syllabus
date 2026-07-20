@@ -122,9 +122,9 @@ The doWork() method inside the Worker class is called on a background thread. Th
 
 To create a ListenableWorker.Result object, call one of the following static methods to indicate the completion status of the background work:
 
-- Result.success() - work completed successfully.
-- Result.failure() - work completed with a permanent failure.
-- Result.retry() - work encountered a transient failure and should be retried.
+- Result.success()—work completed successfully.
+- Result.failure()—work completed with a permanent failure.
+- Result.retry()—work encountered a transient failure and should be retried.
 
 In this task, you implement the doWork() method to fetch the DevBytes video playlist from the network. You can reuse the existing methods in the VideosRepository class to retrieve the data from the network.
 
@@ -303,7 +303,7 @@ val repeatingRequest = PeriodicWorkRequestBuilder<RefreshDataWorker>(15, TimeUni
 
 - Open the Logcat pane in Android Studio and filter on RefreshDataWorker. To clear the previous logs, click the Clear logcat icon .
 
-- Run the app, and the WorkManager schedules your recurring work immediately. In the Logcat pane, notice the logs - the work request is run once every 15 minutes. Wait 15 minutes to see another set of work request logs. You can leave the app running or close it; the work manager should still run.
+- Run the app, and the WorkManager schedules your recurring work immediately. In the Logcat pane, notice the logs—the work request is run once every 15 minutes. Wait 15 minutes to see another set of work request logs. You can leave the app running or close it; the work manager should still run.
 
 Notice that the interval is sometimes less than 15 minutes, and sometimes more than 15 minutes. (The exact timing is subject to OS battery optimizations.)
 

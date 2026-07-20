@@ -30,7 +30,7 @@ The user's flow is as follows:
 - User taps the Start button. This records the starting time and displays it. The Start button is disabled, and the Stop button is enabled.
 - User taps the Stop button. This records the ending time and opens the sleep-quality screen.
 - User selects a sleep-quality icon. The screen closes, and the tracking screen displays the sleep-ending time and sleep quality. The Stop button is disabled and the Start button is enabled. The app is ready for another night.
-- The Clear button is enabled whenever there is data in the database. When the user taps the Clear button, all their data is erased without recourse - there is no "Are you sure?" message.
+- The Clear button is enabled whenever there is data in the database. When the user taps the Clear button, all their data is erased without recourse—there is no "Are you sure?" message.
 
 This app uses a simplified architecture, as shown below in the context of the full architecture. The app uses only the following components:
 

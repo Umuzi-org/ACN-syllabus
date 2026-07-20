@@ -211,7 +211,7 @@ fun bindImage(imgView: ImageView, imgUrl: String?) {
 }
 ```
 
-- Run the app. Depending on the speed of your network connection, you might briefly see the loading image as Glide downloads and displays the property image. But you won't see the broken-image icon yet, even if you turn off your network - you fix that in the last part of the projects.
+- Run the app. Depending on the speed of your network connection, you might briefly see the loading image as Glide downloads and displays the property image. But you won't see the broken-image icon yet, even if you turn off your network—you fix that in the last part of the projects.
 
 #### Task: Display a grid of images with a RecyclerView
 
@@ -219,7 +219,7 @@ Your app now loads property information from the internet. Using data from the f
 
 #### Step 1: Update the view model
 
-Right now the view model has a _property LiveData that holds one MarsProperty object - the first one in the response list from the web service. In this step, you change that LiveData to hold the entire list of MarsProperty objects.
+Right now the view model has a _property LiveData that holds one MarsProperty object—the first one in the response list from the web service. In this step, you change that LiveData to hold the entire list of MarsProperty objects.
 
 - Open overview/OverviewViewModel.kt.
 
@@ -336,7 +336,7 @@ override fun onBindViewHolder(holder: PhotoGridAdapter.MarsPropertyViewHolder, p
 
 - Import androidx.recyclerview.widget.DiffUtil when requested.
 
-- The DiffCallback object extends DiffUtil.ItemCallback with the type of object you want to compare - MarsProperty.
+- The DiffCallback object extends DiffUtil.ItemCallback with the type of object you want to compare—MarsProperty.
 
 ```
 companion object DiffCallback : DiffUtil.ItemCallback<MarsProperty>() {
@@ -463,7 +463,7 @@ This isn't a great user experience. In this task, you add basic error handling, 
 
 #### Step 1: Add status to the view model
 
-To start, you create a LiveData in the view model to represent the status of the web request. There are three states to consider - loading, success, and failure. The loading state happens while you're waiting for data in the call to await().
+To start, you create a LiveData in the view model to represent the status of the web request. There are three states to consider—loading, success, and failure. The loading state happens while you're waiting for data in the call to await().
 
 - Open overview/OverviewViewModel.kt. At the top of the file (after the imports, before the class definition), add an enum to represent all the available statuses:
 

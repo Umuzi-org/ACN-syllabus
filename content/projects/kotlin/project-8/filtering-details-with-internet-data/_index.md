@@ -31,7 +31,7 @@ And finally, you create a detail view for an individual property, and you connec
 
 ###Task: Add "for sale" images to the overview
 
-Up until now, the only part of the Mars property data you've used is the URL for the property image. But the property data - which you defined in the MarsProperty class - also includes an ID, a price, and a type (rental or for sale). To refresh your memory, here's a snippet of the JSON data you get from the web service:
+Up until now, the only part of the Mars property data you've used is the URL for the property image. But the property data—which you defined in the MarsProperty class—also includes an ID, a price, and a type (rental or for sale). To refresh your memory, here's a snippet of the JSON data you get from the web service:
 
 ```
 {
@@ -278,7 +278,7 @@ override fun onOptionsItemSelected(item: MenuItem): Boolean {
 
 #### Task: Create a detail page and set up navigation
 
-Now you have a scrolling grid of icons for Mars properties, but it's time to get more detail. In this task, you add a detail fragment to display the details of a specific property. The detail fragment will show a larger image, the price, and the property type - whether it's a rental or for sale.
+Now you have a scrolling grid of icons for Mars properties, but it's time to get more detail. In this task, you add a detail fragment to display the details of a specific property. The detail fragment will show a larger image, the price, and the property type—whether it's a rental or for sale.
 
 ![](3732e88c965ac8c3.png)
 
@@ -445,13 +445,13 @@ data class MarsProperty (
 
 #### Step 5: Connect the fragments
 
-You're still not navigating - the actual navigation happens in the fragments. In this step, you add the last bits for implementing navigation between the overview and detail fragments.
+You're still not navigating—the actual navigation happens in the fragments. In this step, you add the last bits for implementing navigation between the overview and detail fragments.
 
 - Open overview/OverviewFragment.kt. In onCreateView(), below the lines that initialize the photo grid adapter, add the lines shown below to observe the navigatedToSelectedProperty from the overview view model.
 
 - Import androidx.lifecycle.Observer and import androidx.navigation.fragment.findNavController when requested.
 
-- The observer tests whether MarsProperty - the it in the lambda - is not null, and if so, it gets the navigation controller from the fragment with findNavController(). Call displayPropertyDetailsComplete() to tell the view model to reset the LiveData to the null state, so you won't accidentally trigger navigation again when the app returns back to the OverviewFragment.
+- The observer tests whether MarsProperty—the it in the lambda—is not null, and if so, it gets the navigation controller from the fragment with findNavController(). Call displayPropertyDetailsComplete() to tell the view model to reset the LiveData to the null state, so you won't accidentally trigger navigation again when the app returns back to the OverviewFragment.
 
 ```
 viewModel.navigateToSelectedProperty.observe(this, Observer {

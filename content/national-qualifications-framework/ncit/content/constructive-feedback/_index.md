@@ -202,7 +202,7 @@ For example:
 
 *It’s great that everyone feels comfortable with each other but I think in stressful situations it would be nice if we could all find ways to communicate with each other respectfully. I know you will find a way in the future.*
 
-By summarizing, you can avoid misunderstandings and check to make sure that your communication is clear. This summary is an opportunity to show your support for the other person - a way to conclude even a negative feedback situation on a positive note.
+By summarizing, you can avoid misunderstandings and check to make sure that your communication is clear. This summary is an opportunity to show your support for the other person—a way to conclude even a negative feedback situation on a positive note.
 
 For example:
 
