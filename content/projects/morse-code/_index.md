@@ -68,4 +68,5 @@ morseCodeToLetters("")
 - https://en.wikipedia.org/wiki/Morse_code
 - https://morsecode.scphillips.com/translator.html
 - https://morsecode.world/international/morse2.html
+- https://themorselab.com/what-is-morse-code/
 - https://www.electronics-notes.com/articles/ham_radio/morse_code/characters-table-chart.php
