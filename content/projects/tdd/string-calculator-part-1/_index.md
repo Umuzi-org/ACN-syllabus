@@ -172,6 +172,8 @@ In the first case, the default delimiter is: ";".
 
 In the second case, the default delimiter is: "4".
 
+#### The snippets below with a **Note** are considered invalid, and will be dealt with in part 2 of this project
+
 **Note:** you are not expected to handle integer delimiters where the delimiter and the digit you are adding are next to each other. Example:
 
 ```
@@ -238,6 +240,8 @@ add("//***\n***1***2***3***")
 
 ```
 
+They are considered invalid and more will be dealt with in part 2 of the project.
+
 ## Instructions for reviewers
 
 - Proper TDD to be followed
@@ -246,3 +250,4 @@ add("//***\n***1***2***3***")
 - Ensure that the add function takes a string as an argument.
 - The function that needs to be constantly updated is the `add()` function. It is even better if the `add()` function relies on other tiny functions.
 - An understanding of regular expressions should be demonstrated within the project
+- Remember that examples with a **Note** should not be used to test for functionality in this project
