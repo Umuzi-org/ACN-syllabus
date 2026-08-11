@@ -14,6 +14,7 @@ _db_id: 3
 - {{< contentlink path="topics/clean-code/java-script" >}}
 - {{< contentlink path="file-and-directory-naming/javascript" >}}
 - {{< contentlink path="file-and-directory-naming/file-directory-naming-assignment" flavour="javascript" >}}
+- {{< contentlink path="projects/linux/beginner" >}}
 - {{< contentlink path="topics/js-and-node-specific/super-basic-intro-to-node" >}}
 - {{< contentlink path="topics/how-to-ask-for-help-with-your-code" >}}
 - {{< contentlink path="javascript-debugging-in-vscode" >}}
