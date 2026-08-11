@@ -73,3 +73,7 @@ By putting your card in the "review" column you are basically saying that you be
 ## In case you are unsure, here's a lil video tutorial to help you out :)
 
 {{< youtube prdcVgsKd0g >}}
+
+## Instructions for reviewers
+- Ensure the file created is named correctly
+- Check if the question is answered
