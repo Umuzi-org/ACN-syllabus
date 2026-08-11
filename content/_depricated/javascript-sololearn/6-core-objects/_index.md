@@ -1,17 +1,18 @@
 ---
-_db_id: 462
+_db_id: 458
 content_type: project
 flavours:
 - none
 prerequisites:
-  hard: []
+  hard:
+  - topics/solo-learn/javascript/5-objects
   soft: []
 ready: true
 submission_type: link
 tags:
 - javascript
 - solo-learn
-title: Solo Learn - JavaScript - Module 1 - Overview
+title: Solo Learn - JavaScript - Module 6 - Core Objects - Deprecated
 ---
 
 Complete the above mentioned module on Solo Learn

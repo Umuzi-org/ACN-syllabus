@@ -9,7 +9,7 @@ ready: true
 tags:
 - javascript
 - solo-learn
-title: Solo Learn - JavaScript - Module 4 - Functions
+title: Solo Learn - JavaScript - Module 4 - Functions - Deprecated
 ---
 
 Complete the above mentioned module on Solo Learn

@@ -1,15 +1,15 @@
 ---
-_db_id: 459
+_db_id: 464
 content_type: topic
 prerequisites:
   hard:
-  - topics/solo-learn/javascript/6-core-objects
+  - topics/solo-learn/javascript/7-dom-and-events
   soft: []
 ready: true
 tags:
 - javascript
 - solo-learn
-title: Solo Learn - JavaScript - Module 7 - DOM & Events
+title: Solo Learn - JavaScript - Module 8 - ECMAScript 6 - Deprecated
 ---
 
 Complete the above mentioned module on Solo Learn

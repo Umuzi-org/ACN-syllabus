@@ -1,18 +1,18 @@
 ---
-_db_id: 458
+_db_id: 465
 content_type: project
 flavours:
 - none
 prerequisites:
   hard:
-  - topics/solo-learn/javascript/5-objects
+  - topics/solo-learn/javascript/2-basic-concepts
   soft: []
 ready: true
 submission_type: link
 tags:
 - javascript
 - solo-learn
-title: Solo Learn - JavaScript - Module 6 - Core Objects
+title: Solo Learn - JavaScript - Module 3 - Conditionals and Loops - Deprecated
 ---
 
 Complete the above mentioned module on Solo Learn
