@@ -67,7 +67,7 @@ It's good practice to structure your files well, so we'll expect you to have a s
   - `missing_values_by_year_df` with column names `Year` and `missing_values_count` 
   - `missing_values_by_series_df` with column names `Series` and `missing_values_count`
 
-4. Check and correct any problems with the data. At this stage ensure that your dataset is in a DataFrame named: `mdg_df`. 
+4. Check and correct any problems with the data. Drop any empty columns and those starting with “Type” or “Footnote”. At this stage ensure that your dataset is in a DataFrame named: `mdg_df`. 
 5. Who are the top and bottom 5 countries in terms of CO2 emissions in 1990 and what are their emissions? Create DataFrames called `top_countries_co2_emmissions_1990_df` and  `bottom_countries_co2_emmissions_1990_df` with columns `Country` and `co2_emissions` and order the data from highest to lowest for `top_countries_co2_emmissions_1990_df` and from lowest to highest for `bottom_countries_co2_emmissions_1990_df`. Create similarly named data frames for the emissions in 2011. How have these emissions changed compared with 1990?
 6. Calculate the mean and median CO2 emissions for 1990. Save each answer in the variables `mean_co2_emmisions_1990` and `median_co2_emmisions_1990` respectively. Why do you think these values differ? 
 7. Calculate the minimum, maximum and interquartile range of the CO2 emissions for 1990. Please store these as variables named: `minimum_co2_emmisions_1990`, `maximum_co2_emmisions_1990` and `iqr_co2_emissions_1990` respectively. Using this information, as well as the mean and median calculated previously for this year, explain what this tells us about the distribution of CO2 emissions?
