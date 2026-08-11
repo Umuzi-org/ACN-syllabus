@@ -122,7 +122,7 @@ Note: When creating tables, each table will have an ID column. When joining data
 
 Note: When creating tables, you will note that each table has an ID column. When joining data between tables, the foreign key must include the name of the table the data came from, i.e. `CustomerID` in the above table.
 
-#3## Products Table
+#### Products Table
 
 | ID (int) | ProductName (varchar100) | Description (varchar300)                                                      | BuyPrice (decimal) |
 | -------- | ------------------------ | ----------------------------------------------------------------------------- | ------------------ |

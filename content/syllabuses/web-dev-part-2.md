@@ -26,3 +26,4 @@ title: Web Development - part 2
 - {{< contentlink path="projects/nodejs/ajax" flavour="javascript" >}}
 - {{< contentlink path="projects/oop/animals/part3" flavour="javascript" >}}
 - {{< contentlink path="projects/oop/bank-accounts/part-2" flavour="javascript" >}}
+- {{< contentlink path="sql/shop-project-part-2" flavour="" >}}
