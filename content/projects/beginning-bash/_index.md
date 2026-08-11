@@ -57,3 +57,9 @@ Make sure you understand everything up to step 14. NB: Completing and understand
 Please follow the following instructions to submit your work:
 
 {{< contentlink path="project-submission-instructions/markdown-questions" >}}
+
+
+## Instructions for reviewers
+
+- Make sure the markdown files are named correctly
+- Make sure each file has the correct format
