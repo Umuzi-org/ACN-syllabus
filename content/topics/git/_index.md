@@ -53,4 +53,4 @@ This site that you are looking at is a repo stored on Git. This is cool because 
 
 [Here](https://github.com/Umuzi-org/ACN-syllabus) is the repo.
 
-If you even make a small improvement, it will be a big deal! Thousands of people use this content on a daily :)
+If you even make a small improvement, it will be a big deal! Thousands of people use this content on a daily bases :)
